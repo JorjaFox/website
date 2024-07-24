@@ -8,7 +8,7 @@ aliases:
 - /tos/copyrights/
 ---
 
-{{< alert color="success" >}}Last Updated: **31 July 2024**{{< /alert >}}
+{{< alert color="success" >}}Last Updated: **20 July 2024**{{< /alert >}}
 
 All contributions to _Fans of LeFox_ are the property of this site unless otherwise noted and credited.
 

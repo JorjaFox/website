@@ -8,7 +8,7 @@ aliases:
 - /tos/
 ---
 
-{{< alert color="success" >}}Last Updated: **31 July 2024**{{< /alert >}}
+{{< alert color="success" >}}Last Updated: **20 July 2024**{{< /alert >}}
 
 ## The Gist
 

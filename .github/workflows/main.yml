@@ -24,6 +24,8 @@ jobs:
         with:
           node-version-file: '.nvmrc'
           cache: 'npm'
+
+      - name: Install Dependencies
         run: npm install && npm run mod:update
 
       - name: Build site

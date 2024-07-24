@@ -6,7 +6,7 @@ author: 'Mika E. (Ipstenu)'
 layout: minimal
 ---
 
-{{< alert color="success" >}}Last Updated: **31 July 2024**{{< /alert >}}
+{{< alert color="success" >}}Last Updated: **20 July 2024**{{< /alert >}}
 
 _Fans of LeFox_ (or ‘the site’) refers to this website and other related domains and subdomains thereof.
 

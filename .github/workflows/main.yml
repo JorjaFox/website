@@ -17,10 +17,10 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          # extended: true
+          extended: true
 
       - name: Build Hugo
-        run: hugo --minify
+        run: hugo --gc --minify
 
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main

@@ -19,8 +19,14 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build Hugo
-        run: hugo --gc --minify
+      - name: Install NPM 
+        run: npm install
+
+      - name: Install mods
+        run: npm run mod:update
+
+      - name: Build site
+        run: npm run build
 
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main

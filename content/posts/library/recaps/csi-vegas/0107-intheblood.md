@@ -43,5 +43,5 @@ As the episode ends, Maxine is demoted from head of the lab due to her digging i
 
 ## Quotes
 
-**Sara:** It's hard, keeping secrets when you live under the same roof.
-**Grissom:** I don't even try anymore.
+- **Sara:** It's hard, keeping secrets when you live under the same roof.
+- **Grissom:** I don't even try anymore.

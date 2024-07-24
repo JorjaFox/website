@@ -3,7 +3,7 @@
     {{ $sidebar := .Render "global/sidebar" }}
     {{ $toc := .Render "single/panel-toc" }}
     {{- $flf_icon := .Params.flf_icon -}}
-	{{- $list_icon := .Params.list_icon -}}
+    {{- $list_icon := .Params.list_icon -}}
 
     {{ with $sidebar }}
         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvass-sidebar" aria-inledby="offcanvas-label">
@@ -23,7 +23,7 @@
                 {{ $sidebar | safeHTML }}
             </div>
             <div class="col-12 col-{{ $breakpoint.current }}-9 col-{{ $breakpoint.next }}-8 mb-5 p-4">
-                {{ .Render "library/header"}}
+                {{ .Render "global/header"}}
 
                 {{- if and .Site.Params.navigation.toc .Params.includeToc | default true -}}
                     <div class="d-{{ $breakpoint.current }}-none pb-5">{{ partial "assets/toc-dropdown.html" (dict "page" .) }}</div>
@@ -33,8 +33,8 @@
 
                 {{/* Display generated sections */}}
                 <ul class="list-group">
-                {{ range .Data.Pages.ByTitle }}
-                    {{ if ne .Type "index" }}
+                {{ if ne .Type "index" }}
+                    {{ range .Data.Pages.ByTitle }}
                         <li class="list-group-item">
                             {{ if $list_icon }}
                                 <span class="list-svg">{{ partial "svg" $list_icon }}</span>&nbsp;
@@ -58,6 +58,7 @@
                 </ul>
             </div>
             <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.current }}-block pt-5">
+                <span name="toc"></span>
                 {{ $toc | safeHTML }}
             </div>
         </div>

@@ -1,0 +1,67 @@
+{{- $showslug  := .Params.slug -}}
+{{- $showtitle := .Params.title -}}
+
+{{- $showdata := newScratch -}}
+
+{{ range $.Page.Site.Data.filmography }}
+    {{ if and (eq $showslug .slug) (eq $showtitle .title) }}
+        {{ $showdata.Set "character" .character }}
+        {{ $showdata.Set "year" .dates }}
+        {{ $showdata.Set "chartype" .chartype }}
+        {{ $showdata.Set "rating" .rating }}
+        {{ $showdata.Set "genre" .genre }}
+        {{ $showdata.Set "station" .station }}
+        {{ $showdata.Set "seasons" .seasons }}
+        {{ $showdata.Set "episodes" .episodes }}
+        {{ $showdata.Set "notes" .notes }}
+        {{ $showdata.Set "jorjan" .jorjan }}
+        {{ $showdata.Set "watch" .watch }}
+    {{ end }}
+{{ end }}
+
+{{ $character := $showdata.Get "character" }}
+{{ $chartype := $showdata.Get "chartype" }}
+{{ $rating := $showdata.Get "rating" }}
+{{ $year := $showdata.Get "year" }}
+{{ $genre := $showdata.Get "genre" }}
+{{ $station := $showdata.Get "station" }}
+{{ $seasons := $showdata.Get "seasons" }}
+{{ $episodes := $showdata.Get "episodes" }}
+{{ $notes := $showdata.Get "notes" }}
+{{ $jorjan := $showdata.Get "jorjan" }}
+{{ $watch := $showdata.Get "watch" }}
+
+{{ $class := "rounded" }}
+
+<!-- Excerpt/Details -->
+
+<div class="card text-bg-light">
+    <div class="card-header">
+        <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>
+        <h6>{{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}</h6>
+        <img src="{{ .Params.image | default "/img/placeholder.png" }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail card-img-top">
+    </div>
+    <div class="card-body">
+        <ul class="list-group list-group-flush actor-list-group">
+            {{ if $year }}<li class="list-group-item">{{ $year }}</li>{{ end }}
+            {{ if $genre }}<li class="list-group-item">{{ $genre }}</li>{{ end }}
+            {{ if $station }}<li class="list-group-item">{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
+            {{ if .Params.imdb }}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{ end }}
+            {{ if .Params.episodelist }}<li class="list-group-item">
+                <a href="/library/actor/{{ .File.TranslationBaseName }}-episodes/">List of Appearances</a>
+                {{ if or $seasons $episodes}}
+                    <br /><small>(
+                        {{ if $seasons }}{{$seasons}} season{{ if gt $seasons "1" }}s{{end}}{{ end }}
+                        {{ if $episodes }}{{$episodes}} episode{{ if gt $episodes "1" }}s{{end}}{{ end }}
+                    )</small>
+                {{ end }}
+                {{ if $jorjan }}<br /><small>[Credited as Jorjan Fox]</small>{{ end }}
+                {{ if $notes }}<br /><small>{{ $notes | safeHTML }}</small>{{ end }}
+            </li>{{ end }}
+            {{ if and ($rating) (ne $rating "fake") }}
+                {{ .Page.Scratch.Set "goldstar" $rating }}
+                <li class="list-group-item text-center">{{ partial "rating.html" . }}</li>
+            {{ end }}
+        </ul>
+    </div>
+</div>

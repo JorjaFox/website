@@ -23,3 +23,4 @@
 {{- end -}}
 {{ partial "assets/sharing.html" (dict "page" .) }}
 {{ if .Description }}<p class="lead mb-5 mt-3">{{ .Description }}</p>{{ end }}
+{{ if .Params.excerpt }}<p class="lead mb-5 mt-3">{{ .Params.excerpt }}</p>{{ end }}

@@ -1,0 +1,26 @@
+{{ $title := .Title }}
+
+<div class="card text-bg-light">
+    <div class="card-header">
+        <h5 class="card-title text-center">{{ .Title }}</h5>
+        <img src="{{ .Params.image | default "/img/placeholder.png" }}" alt="{{ .Title }}" width="300px" class="img-thumbnail card-img-top">
+    </div>
+    <div class="card-body">
+        <ul class="list-group list-group-flush">
+            {{ if .Params.year }}<li class="list-group-item">{{ .Params.year }}</li>{{ end }}
+            {{ if .Params.genre }}<li class="list-group-item">{{ .Params.genre }}</li>{{ end }}
+            {{ if .Params.distributor }}<li class="list-group-item">{{ .Params.distributor }}</li>{{ end }}
+            {{ if .Params.imdb }}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{ end }}
+            {{ range $.Site.Data.filmography }}
+                {{ if and (eq "Honeypot Productions" .company) (eq .title $title) }}
+                    <li class="list-group-item"><a href="/library/honeypot/">{{ .company }}</a></li>
+                {{ end }}
+                {{ if and (eq "Seafox Productions" .company) (eq .title $title) }}
+                    <li class="list-group-item"><a href="/library/seafox/">{{ .company }}</a></li>
+                {{ end }}
+            {{ end }}
+            {{ with .Params.rating }}<li>{{ partial "rating.html" . }}</li>{{ end }}
+            {{ if  .Params.website }}<li><a href="{{ .Params.website}}">Official Website</li>{{ end }}
+        </ul>
+    </div>
+</div>

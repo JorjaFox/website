@@ -2,18 +2,20 @@
 {{ $episodes  := (index .Site.Data.episodes .Params.showslug).episodes }}
 
 {{ range $episodes }}
-	{{ if eq .title $eptitle }}
-		{{ $grade := print .rating "-gold" }}
-		{{ $stars := print .rating }}
-		{{ if eq .rating "na" }}{{ $grade = "red" }}{{ end }}
-		<a href="/library/faq/grading/#{{ $grade }}-stars" title="Star Rating: {{ .rating }}">
-			{{ if eq .rating "na" }}
-				{{ $star := 0 }}
-				{{ range $star, $seqstar := ( seq 5 ) }}<span class="star-rating star-red" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - Has not been watched yet">{{ partial "svg.html" "star" }}</span>{{ end }}
-			{{ else }}
-				{{ $goldstars := (float .rating) }}{{ $greyrate := sub 5 $goldstars }}
-				{{ range ( seq .rating ) }}<span class="star-rating star-gold" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - {{ $stars }} stars out of 5">{{ partial "svg.html" "star" }}</span>{{ end }}{{ range $stargrey, $seqgrey := ( seq $greyrate ) }}<span class="star-rating star-grey" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - 0 stars out of 5">{{ partial "svg.html" "star" }}</span>{{ end }}
-			{{ end }}
-		</a>
-	{{ end }}
+    {{ if eq .title $eptitle }}
+        {{ $grade := print .rating "-gold" }}
+        {{ $stars := print .rating }}
+        {{ if eq .rating "na" }}{{ $grade = "red" }}{{ end }}
+        <a href="/library/faq/grading/#{{ $grade }}-stars" title="Star Rating: {{ .rating }}">
+            {{ if eq .rating "na" }}
+                {{ $star := 0 }}
+                {{ range $star, $seqstar := ( seq 5 ) }}<span class="star-rating star-red" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - Has not been watched yet">{{ partial "svg.html" "star" }}</span>{{ end }}
+            {{ else }}
+                {{ $goldstars := (float .rating) }}{{ $greyrate := sub 5 $goldstars }}
+                <span class="star-rating" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - {{ $stars }} stars out of 5">
+                    {{ range ( seq .rating ) }}<span class="star-rating star-gold" title="Gold Star">{{ partial "svg.html" "star" }}</span>{{ end }}{{ range $stargrey, $seqgrey := ( seq $greyrate ) }}<span class="star-rating star-grey" title="Empty Star">{{ partial "svg.html" "star" }}</span>{{ end }}
+                </span>
+            {{ end }}
+        </a>
+    {{ end }}
 {{ end }}

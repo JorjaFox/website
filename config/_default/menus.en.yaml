@@ -12,3 +12,19 @@ main:
 - name: Library
   pageRef: /library
   weight: 30
+
+footer:
+- name: Links
+  weight: 10
+- name: Privacy Policy
+  parent: Links
+  pageRef: /tos/privacy
+  weight: 10
+- name: Terms of Service
+  parent: Links
+  pageRef: /tos/terms
+  weight: 20
+- name: Copyright
+  parent: Links
+  pageRef: /tos/copyright
+  weight: 30

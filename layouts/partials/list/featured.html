@@ -63,7 +63,7 @@
     {{ else }}
         {{- $thumbnail := (or (and (reflect.IsMap $page.Params.Thumbnail) $page.Params.Thumbnail.url) $page.Params.Thumbnail) -}}
         {{- if $thumbnail }}
-            {{ partial "assets/image.html" (dict "url" $thumbnail "ratio" "16x9" "sizes" $sizes "wrapper" $style "class" "rounded" "title" $page.Site.Title "priority" "high") }}
+            {{ partial "assets/image.html" (dict "url" $thumbnail "sizes" $sizes "wrapper" $style "class" "rounded" "title" $page.Site.Title "priority" "high") }}
         {{ end }}
     {{ end }}
 {{- end -}}

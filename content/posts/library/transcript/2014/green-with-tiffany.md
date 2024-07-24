@@ -6,8 +6,7 @@ author: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2014/:title/
 categories: ["Interviews"]
-tags:
-  - 2014
+tags: [ "2014" ]
 ---
 
 **Tiffany Paige:** We're here with actress Jorja Fox from CSI. What brings you here tonight?
@@ -16,7 +15,7 @@ tags:
 
 **TP:** That's so important. Are you an athlete yourself?
 
-**JF:** I'm a surfer. I don't know if that really counts. 
+**JF:** I'm a surfer. I don't know if that really counts.
 
 **TP:** Of course that counts. [...] Do you have a green tip? Is there something that you could tell our viewers?
 
@@ -30,11 +29,11 @@ tags:
 
 **JF:** Like ... twenty-two years?
 
-**TP:** Wow! 
+**TP:** Wow!
 
 **JF:** Yeah like that. You know, for me it's something I don't even think about anymore. It's just... it's not complicated, it's not hard. [...] In terms of raising cattle and raising food, the water that gets used and the land that gets sort of clear-cut to make that happen... you don't think about that when- I mean, why would we?
 
-**TP:** I don't think people put faces to their food. How that works, where their food comes from. That is a great one, thank you for that tip. 
+**TP:** I don't think people put faces to their food. How that works, where their food comes from. That is a great one, thank you for that tip.
 
 **JF:** Thanks Tiffany.
 

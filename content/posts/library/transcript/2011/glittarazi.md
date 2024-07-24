@@ -5,8 +5,7 @@ author: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
-tags:
-  - 2011
+tags: [ "2011" ]
 interviewurl: http://glittarazzi.com/
 ---
 
@@ -44,7 +43,7 @@ interviewurl: http://glittarazzi.com/
 
 **Glittarazi:** Awesome. Do you have any other upcoming projects that you'd like to tell us about?
 
-**Jorja Fox:** I'll be working, fightin' crimes, I think for the next six or seven months. Also I have a little documentary that I've been working with a couple people on for a couple years. It's about elephants in Thailand. Wild Animals are a passion of me. The story is really about a 14 year-old girl who travels to Thailand, learns about elephants, and brings that knowledge home with her. 
+**Jorja Fox:** I'll be working, fightin' crimes, I think for the next six or seven months. Also I have a little documentary that I've been working with a couple people on for a couple years. It's about elephants in Thailand. Wild Animals are a passion of me. The story is really about a 14 year-old girl who travels to Thailand, learns about elephants, and brings that knowledge home with her.
 
 **Glittarazi:** Okay.
 
@@ -52,7 +51,7 @@ interviewurl: http://glittarazzi.com/
 
 **Glittarazi:** Awesome.
 
-**Jorja Fox:** We submitted it to the festivals. So we're waiting to hear. Wish us luck. 
+**Jorja Fox:** We submitted it to the festivals. So we're waiting to hear. Wish us luck.
 
 **Glittarazi:** We'll look out for that one. As a vegetarian, what are some of your favorite dishes or recipes you recommend?
 

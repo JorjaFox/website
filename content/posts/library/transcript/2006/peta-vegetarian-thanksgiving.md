@@ -3,10 +3,10 @@ title: PETA Vegetarian Thanksgiving
 date: 2006-11-01
 author: David Masters
 layout: transcript
-interviewurl:  http://www.peta.com  
+interviewurl:  http://www.peta.com
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]
-tags: [Transcript, 2006, humanity, "Animal Rights"]
+tags: [Transcript, "2006", humanity, "Animal Rights"]
 
 ---
 
@@ -30,4 +30,4 @@ tags: [Transcript, 2006, humanity, "Animal Rights"]
 
 **Off-camera voice** When you're ready.
 
-**Jorja Fox** Turkey holding duty. Okay. She's pretty cool.  
+**Jorja Fox** Turkey holding duty. Okay. She's pretty cool.

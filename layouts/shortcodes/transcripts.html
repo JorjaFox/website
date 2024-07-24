@@ -7,7 +7,7 @@
 {{ if .Get "order" }}{{ $order = .Get "order" }}{{ end }}
 {{ if .Get "count" }}{{ $count = .Get "count" }}{{ end }}
 
-{{ $yeartranscripts := ( where ( where ( where .Site.Pages.ByDate "Section" "transcript") "Params.interviewurl" "!=" nil ) ".Params.tags" "intersect" $tags ) }}
+{{ $yeartranscripts := ( where ( where ( where .Site.Pages.ByDate "Layout" "transcript") "Params.interviewurl" "!=" nil ) ".Params.tags" "intersect" $tags ) }}
 {{ $len := len $yeartranscripts }}
 
 {{ if eq $order "reverse" }}<br />&nbsp;{{ end }}
@@ -18,7 +18,7 @@
 
 	<thead class="table-success">
 		<tr>
-			<th scope="col" width="30%">Date</th>
+			<th scope="col" width="30%">Date ({{ $pagedate }})</th>
 			<th scope="col" width="70%">Source</th>
 		</tr>
 	</thead>

@@ -1,7 +1,7 @@
 ---
 title: Transcripts (2021)
 author: "Mika A. Epstein"
-layout: transcript
+layout: transcript-list
 topic: index
 date: 2021-01-01
 permalink: /transcript/2021/

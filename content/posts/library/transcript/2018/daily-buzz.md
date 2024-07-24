@@ -6,8 +6,7 @@ layout: transcript
 interviewurl: http://kcpw.org/blog/daily-buzz/2018-01-27/daily-buzz-sundance-day-8-1-26-18/
 permalink: /transcript/2018/:title/
 categories: ["Interviews"]
-tags:
-  - 2018
+tags: [ "2018" ]
 ---
 
 **John Wildman:** You're listening to the Daily Buzz, my name is John Wildman, and right now we're gonna be discussing the film _Roll With Me_, which is a special screening here at Slamdance. And we have with us three guests. We have Lisa Frances, who's the director of the film. We have Jorja Fox, who is a producer on the film. And we have the subject, Gabriel Cordell, who I'm really thrilled to have here.

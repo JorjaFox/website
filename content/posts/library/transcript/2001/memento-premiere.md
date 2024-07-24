@@ -5,12 +5,8 @@ layout: transcript
 date: 2001-01-01
 interviewurl: http://wireimage.com/
 permalink: /transcript/2001/:title/
-categories:
-  - Interviews
-
-tags:
-  - "Red Carpet"
-  - 2001
+categories: ["Interviews"]
+tags: ["2001"]
 ---
 Jorja Fox was interviewed at the premiere of "Memento"
 
@@ -38,6 +34,6 @@ Jorja Fox was interviewed at the premiere of "Memento"
 
 **Jorja Fox:** Uh, it's about crime scene investigators, actually, so I feel like I have made a complete circle; I played a victim in this movie and on "CSI:" I'm a forensic scientist and a criminalist who investigates what happened to people like me in "Memento".
 
-**Interviewer:** Well thank you so much. We love-  
+**Interviewer:** Well thank you so much. We love-
 
 [[Category:Red Carpet]]

@@ -1,7 +1,7 @@
 ---
 title: Transcripts (2002)
 author: "Mika A. Epstein"
-layout: transcript
+layout: transcript-list
 topic: index
 type: index
 date: 2002-01-01

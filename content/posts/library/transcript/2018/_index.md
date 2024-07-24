@@ -1,7 +1,7 @@
 ---
 title: Transcripts (2018)
 author: "Mika A. Epstein"
-layout: transcript
+layout: transcript-list
 topic: index
 date: 2018-01-01
 permalink: /transcript/2018/

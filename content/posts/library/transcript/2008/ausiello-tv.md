@@ -1,14 +1,12 @@
 ---
-title: Ausiello TV 
+title: Ausiello TV
 author: "Mika A. Epstein"
 layout: transcript
 date: 2008-09-21
-interviewurl: http://www.ew.com/ew/video/ausiello_tv  
+interviewurl: http://www.ew.com/ew/video/ausiello_tv
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
-tags:
-  - 2008
-  - 'award shows'
+tags: [ "2008" ]
 ---
 
 **Michael Ausiello:** You're back this season
@@ -21,7 +19,7 @@ tags:
 
 **Ausiello:** And a couple more there.
 
-**Fox:** Yeah, I'm visiting for a little bit. I'll be in and out, so that's kind of fun. I knew that might happen, I didn't know it was gonna happen so soon. But, uh, so it was a surprise. It's always a surprise, really. And it's been really great, it's great. 
+**Fox:** Yeah, I'm visiting for a little bit. I'll be in and out, so that's kind of fun. I knew that might happen, I didn't know it was gonna happen so soon. But, uh, so it was a surprise. It's always a surprise, really. And it's been really great, it's great.
 
 **Ausiello:** Now Grissom/Sara might ... ride off into the sunset together? In his final episode?
 
@@ -45,4 +43,4 @@ tags:
 
 **Ausiello:** Why do you think "CSI" hasn't gotten more Emmy love, or doesn't get it?
 
-**Fox:** That's so nice of you to say. You know, I feel like I was lucky enough to be on "[[ER]]" for three years, and they didn't get a lot of Emmy love either. I'd like to think that we've the honor of being the most popular and so, the world sort of spreads these honors around, those gifts around. So we get to be that, we're "still" number one. We rarely brag, but it's like, how's that even possible? We're still number one? But we are. So maybe that's enough and we should be really happy. I would have loved to see Billy get nominated this year, I feel he really deserves it. After nine solid years of being the heart and soul of that show. If anybody should take one home, I think he should.  
+**Fox:** That's so nice of you to say. You know, I feel like I was lucky enough to be on "[[ER]]" for three years, and they didn't get a lot of Emmy love either. I'd like to think that we've the honor of being the most popular and so, the world sort of spreads these honors around, those gifts around. So we get to be that, we're "still" number one. We rarely brag, but it's like, how's that even possible? We're still number one? But we are. So maybe that's enough and we should be really happy. I would have loved to see Billy get nominated this year, I feel he really deserves it. After nine solid years of being the heart and soul of that show. If anybody should take one home, I think he should.

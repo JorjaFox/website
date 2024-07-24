@@ -6,7 +6,7 @@ layout: transcript
 interviewurl: http://ellen.warnerbros.com/
 permalink: /transcript/2004/:title/
 categories: ["Interviews"]
-tags: [Transcript, 2004, "Talk Shows"]
+tags: [ "2004" ]
 ---
 
 **Ellen DeGeneres** Our next guest is a star of the popular forensic drama, CSI. Watch her at work.

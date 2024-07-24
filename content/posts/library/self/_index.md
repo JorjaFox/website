@@ -1,5 +1,6 @@
 ---
 layout: library
+type: index
 title: "As Seen As Self"
 author: "Mika A. Epstein"
 permalink: /self/

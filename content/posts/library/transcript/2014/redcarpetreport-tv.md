@@ -6,8 +6,7 @@ author: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2014/:title/
 categories: ["Interviews"]
-tags:
-  - 2014
+tags: [ "2014" ]
 ---
 
 Jorja Fox at the 30th Annual IDA Documentary Awards Gala #IDAawards
@@ -20,7 +19,7 @@ Jorja Fox at the 30th Annual IDA Documentary Awards Gala #IDAawards
 
 **JF:** You know, I have actually. Thanks for knowing that! Actually a bit ago I narrated a documentary about Gidget. One of the first female surfers in California. I produced a couple of documentaries and most of those are wildlife based. Lion Ark, Extinction Soup, and How I Became an Elephant.
 
-**QM:** Awesome. Working in television and documentaries, what is the different process that you go through initially? 
+**QM:** Awesome. Working in television and documentaries, what is the different process that you go through initially?
 
 **JF:** Entirely different process. Obviously usually with television you're dealing with a script- at least in my world! I'm not part of reality television or news television. And so you'll develop a script for a really long time and then hopefully somebody will be interested in it. And I think with documentaries, at least for me so far, someone has just had an idea and a camera and decided that they had a story that they needed to tell, and almost started the process of telling it without even knowing where it was going to end up, or what the results were going to be. Those are the projects that I've been a part of so far. I think there can be pre-production in documentaries. People sit down and they kind of scope it out. But so far ours have just sort of been like run and wing it.
 

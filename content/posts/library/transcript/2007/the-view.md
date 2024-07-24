@@ -3,11 +3,10 @@ title: The View
 author: "Mika A. Epstein"
 layout: transcript
 date: 2007-11-17
-interviewurl: http://abc.go.com/daytime/theview  
+interviewurl: http://abc.go.com/daytime/theview
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
-tags:
-  - 2007
+tags: [ "2007" ]
 ---
 
 **Jorja Fox:** Thank you, so honored to be here with all of you. "(to Whoopi)" And happy birthday to you, a day late.

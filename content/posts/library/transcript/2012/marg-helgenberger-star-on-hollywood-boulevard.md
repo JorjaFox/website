@@ -6,7 +6,7 @@ layout: transcript
 interviewurl: http://www.walkoffame.com/
 permalink: /transcript/2012/:title/
 categories: ["Interviews"]
-tags:
+tags: ["2012"]
 ---
 
 **Jorja Fox:** Hello! Hi, I'm the one who's going to have to read everything, as Marg knows.

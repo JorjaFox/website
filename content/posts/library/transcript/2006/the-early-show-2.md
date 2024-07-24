@@ -6,10 +6,7 @@ interviewurl: http://www.cbsnews.com/earlyshow/
 date: 2006-05-19
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]
-
-tags:
-  - 2006
-  - "Talk Shows"
+tags: [ "2006" ]
 ---
 
 **Julie Chen:** ... were wondering if there was more going on between Grissom and Sara than meets the eye. Well last night we found out, and the answer is definitely yes. Now we have even more questions, and so do the CSI stars. Last night's episode was almost over when we heard Gil Grissom ruminating about the end of his own life.
@@ -44,4 +41,4 @@ tags:
 
 **Fox:** One of the greatest gifts in this cliffhanger for Sara, irregardless of what it turns out to be, is there's this tiniest little ray of sunshine in that scene, that we don't get to see these characters have that much. They really, they live in the shadows, they live in the dark sides of people lives. And here's this little bit of oxygen that just kinda got blown into this space where we find Grissom and Sara. So that's a really interesting thing to maybe have to look forward to next season.
 
-**Chen:** Now last night's CSI might have given us one cliffhanger, but it resolved another. Jim Brass was clinging to life after being shot, but the good news is the character will be around for season number seven.  
+**Chen:** Now last night's CSI might have given us one cliffhanger, but it resolved another. Jim Brass was clinging to life after being shot, but the good news is the character will be around for season number seven.

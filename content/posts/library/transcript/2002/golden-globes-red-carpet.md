@@ -6,9 +6,7 @@ date: 2002-01-20
 interviewurl: http://www.eonline.com/
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
-tags:
-  - "Red Carpet"
-  - 2002
+tags: ["2002"]
 ---
 
 **Melissa Rivers** Thank you. I am here with the cast of CSI. Your show has taken off, like, y'know. A train, just steaming right out of the station.
@@ -59,4 +57,4 @@ tags:
 
 **Jorja Fox** I won't mention any names "(points to Gary, George and herself)" but they're here.
 
-**Melissa Rivers** We'll save that for the ending interview, how about that? Cause I have a feeling you guys are all going to be nominated for that. Thank you so much for stopping and best of luck tonight.  
+**Melissa Rivers** We'll save that for the ending interview, how about that? Cause I have a feeling you guys are all going to be nominated for that. Thank you so much for stopping and best of luck tonight.

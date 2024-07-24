@@ -6,7 +6,7 @@ layout: transcript
 interviewurl: http://www.ad-international.org/
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
-tags: [Transcript, 2011, "Animal Rights"]
+tags: ["2011"]
 ---
 
 I do think that a question that some of you may be asking right now is "Well what about my kids? Can't my kids have the same chance I did to go to these traveling circuses?" Or maybe these circuses your parents went to. And I thought about this at length, and I think the truth is that our kids look to us for what is right, and our kids look to us for what is fun.

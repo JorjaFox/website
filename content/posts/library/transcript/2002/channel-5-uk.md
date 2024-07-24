@@ -6,9 +6,7 @@ date: 2002-04-19
 interviewurl: http://www.channel5.co.uk/
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
-tags:
-  - "Talk Shows"
-  - 2002
+tags: ["2002"]
 ---
 
 The character Sara is ten gazillion times more courageous than I am. You know, we do things sometimes and me, Jorja, in between takes is like 'I'm not doing this, I can't do this. Let's make sure, we need to be careful, where's the medic?" And then the camera's start rolling and Sara Sidle kinda just goes in and does it. We did a helicopter scene. This year George Eads and I had a scene where we were rappelling out of a helicopter.

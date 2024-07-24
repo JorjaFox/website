@@ -6,11 +6,7 @@ date: 2005-11-17
 interviewurl: http://www.cbsnews.com/earlyshow/
 permalink: /transcript/2005/:title/
 categories: ["Interviews"]
-
-tags:
-  - television
-  - 2005
-  - "Talk Shows"
+tags: [ "2005" ]
 ---
 
 **Julie Chen:** After six seasons and a pair of spin-offs, "CSI:" remains a true original. It's still a ratings powerhouse too with nearly 30 million viewers tuning in every week. I sat down with some of the show's stars inside the CSI autopsy room to dissect the secret of their success.

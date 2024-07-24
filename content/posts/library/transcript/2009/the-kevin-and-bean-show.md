@@ -2,14 +2,11 @@
 title: The Kevin and Bean Show
 author: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://kroq.com/  
+interviewurl: http://kroq.com/
 date: 2009-09-24
 permalink: /transcript/2009/:title/
 categories: ["Interviews"]
-tags:
-  - 2009
-  - radio
-  - 'talk shows'
+tags: [ "2009" ]
 ---
 
 **Host:** ... It's 9:15.
@@ -54,7 +51,7 @@ tags:
 
 **Host:** And that time, you came back cause Warrick got shot. Right? That was the circumstance?
 
-**Jorja:** Yeah, well that was, you know, that's still something that's sort of a touchy subject. I wish that Warrick was alive out there, somewhere. But. Warrick was murdered, before the last scene where Billy goes to Costa Rica. So the last time we see -- 
+**Jorja:** Yeah, well that was, you know, that's still something that's sort of a touchy subject. I wish that Warrick was alive out there, somewhere. But. Warrick was murdered, before the last scene where Billy goes to Costa Rica. So the last time we see --
 
 **Host 2:** Oh! that's right that's right!
 
@@ -126,7 +123,7 @@ tags:
 
 **Jorja:** True! Yeah, and we're up against a pretty good one right now, who's name I can't mention on the air. But you guys have been promoting it several times this morning.
 
-**Lisa (co-host):** Oops! 
+**Lisa (co-host):** Oops!
 
 **Host:** We're not responsible for commercials.
 
@@ -226,7 +223,7 @@ tags:
 
 **Jorja:** Someone should get something on _CSI_!
 
-**Host:** Exactly! 
+**Host:** Exactly!
 
 **Host:** Well, sweeps have got to be right around the corner. Let's not be crazy here.
 

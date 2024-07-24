@@ -6,8 +6,7 @@ date: 2013-10-23
 interviewurl: http://www.hlntv.com/video/2013/10/23/jorja-fox-blackfish-jvm
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
-tags:
-  - 2013
+tags: [ "2013" ]
 
 ---
 
@@ -31,6 +30,6 @@ Jorja Fox: A good number of these captive orcas and killer whales were rounded u
 
 Jane Velez-Mitchell: So you endorse what Russell Simmons suggested? Change it radically, eliminate the performance of the orcas or shut down?
 
-Jorja Fox: I think the future that we're looking at, if these animals can't be released into the wild, then we can do much better by them. I'm talking about sanctuaries, I'm talking about ecological preserves, marine preserves, where these animals can live out their lives in somewhat more of a normal way. My first and foremost idea would be lets release as many of these animals as we can into the wild, and lets take the risk and see what happens. 
+Jorja Fox: I think the future that we're looking at, if these animals can't be released into the wild, then we can do much better by them. I'm talking about sanctuaries, I'm talking about ecological preserves, marine preserves, where these animals can live out their lives in somewhat more of a normal way. My first and foremost idea would be lets release as many of these animals as we can into the wild, and lets take the risk and see what happens.
 
-(COMMERCIAL BREAK)  
+(COMMERCIAL BREAK)

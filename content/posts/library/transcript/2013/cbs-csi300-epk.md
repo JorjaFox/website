@@ -6,8 +6,7 @@ date: 2013-10-22
 interviewurl: http://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1hvw2x
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
-tags:
-  - 2013
+tags: [ "2013" ]
 
 ---
 
@@ -21,4 +20,4 @@ Jorja Fox: It's a great place to go back to. And also, under the umbrella of jus
 
 ...
 
-Jorja Fox: Being on a successful show is the cooling thing that could ever happen to a person. I wouldn't trade it for anything. But I think ... I show up because I love being with the people that I get to work with every day.  
+Jorja Fox: Being on a successful show is the cooling thing that could ever happen to a person. I wouldn't trade it for anything. But I think ... I show up because I love being with the people that I get to work with every day.

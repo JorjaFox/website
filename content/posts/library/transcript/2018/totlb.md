@@ -6,8 +6,7 @@ layout: transcript
 interviewurl: http://totlb.com/podcast/totlb-s22-jorja-fox/
 permalink: /transcript/2018/:title/
 categories: ["Interviews"]
-tags:
-  - 2018
+tags: [ "2018" ]
 ---
 
 _[Intro: Scenes from Memento]_

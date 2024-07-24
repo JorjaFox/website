@@ -6,9 +6,7 @@ date: 2007-05-23
 interviewurl: http://cbs2chicago.com/
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
-tags:
-  - 2007
-  - news
+tags: [ "2007" ]
 ---
 
 [...]

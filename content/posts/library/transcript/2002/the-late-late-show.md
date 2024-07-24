@@ -6,9 +6,7 @@ date: 2002-06-26
 interviewurl: http://www.cbs.com/
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
-tags:
-  - "Talk Shows"
-  - 2002
+tags: ["2002"]
 ---
 
 "The Late Late Show with Craig Kilborn" was a TV Talk show/variety show, hosted by Craig Kilborn.
@@ -233,5 +231,5 @@ tags:
 
 **Jorja Fox** Thanks.
 
-**Craig Kilborn** Jorja Fox. We'll be right back.  
+**Craig Kilborn** Jorja Fox. We'll be right back.
 }}

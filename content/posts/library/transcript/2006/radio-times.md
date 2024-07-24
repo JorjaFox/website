@@ -6,10 +6,7 @@ interviewurl: http://www.radiotimes.com
 date: 2006-06-06
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]
-
-tags:
-  - 2006
-  - 'talk shows'
+tags: [ "2006" ]
 ---
 
 **One Final Question - Jorja Fox**
@@ -70,4 +67,4 @@ Once I did, and I wondered if I could get away with repeat voting. There's stiff
 
 **One final question: is it depressing or frustrating being an actor in a series where the real stars are carpet fibers and glass fragments?**
 
-They steal every scene in the show! I've been consistently upstaged by things that in my more vain moments I never thought I get upstaged by. I get upstaged by the soles of shoes ...  
+They steal every scene in the show! I've been consistently upstaged by things that in my more vain moments I never thought I get upstaged by. I get upstaged by the soles of shoes ...

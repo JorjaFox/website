@@ -1,13 +1,12 @@
 ---
-title: Lylapalooza 
+title: Lylapalooza
 date: 2015-09-29
 author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://fkr.tv
 permalink: /transcript/2015/:title/
 categories: ["Interviews"]
-tags:
-  - 2015
+tags: [ "2015" ]
 ---
 
 *CSI star Jorja Fox takes time out to chat with Lyla about dogs, insects, and ice cream. Special guest appearance by Belle the puppy.*
@@ -42,7 +41,7 @@ tags:
 
 **Lyla:** For our second question today, with Jorja Fox. Jorja ... Hmm. What's your favorite insect?
 
-**Jorja:** My favorite insect is dragonflies. 
+**Jorja:** My favorite insect is dragonflies.
 
 **Lyla:** I personally like bumblebees.
 
@@ -76,15 +75,15 @@ tags:
 
 **Jorja:** You don't do it?
 
-**Lyla:** I don't litter. 
+**Lyla:** I don't litter.
 
-**Jorja:** Me either. No, that's terrible. 
+**Jorja:** Me either. No, that's terrible.
 
 **Lyla:** So bad for the earth.
 
 **Jorja:** Bad for the seals and the sea turtles and the dolphins.
 
-**Lyla:** And everything that can eat stuff off the ground. 
+**Lyla:** And everything that can eat stuff off the ground.
 
 **Jorja:** Yes.
 
@@ -94,7 +93,7 @@ tags:
 
 **Lyla:** Like Belle! Like baby. Okay. For our sixth question, what's your favorite type of music?
 
-**Jorja:** I love all music. Like every kind, it's my favorite thing in the whole world. But if I had to pick a favorite style it would probably be ... like ... Jazz. Maybe? 
+**Jorja:** I love all music. Like every kind, it's my favorite thing in the whole world. But if I had to pick a favorite style it would probably be ... like ... Jazz. Maybe?
 
 **Lyla:** Jorja! What's your favorite type of ice cream?
 
@@ -110,4 +109,4 @@ tags:
 
 **Lyla:** And they're dyed blue and orange and red to look like play-doh. This is Lylapalooza signing out! Good bye! Goodbye!
 
-**Jorja:** Bye!  
+**Jorja:** Bye!

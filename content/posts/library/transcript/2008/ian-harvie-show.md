@@ -1,14 +1,12 @@
 ---
-title: Ian Harvie Show 
+title: Ian Harvie Show
 author: "Mika A. Epstein"
 layout: transcript
 date: 2008-01-21
 interviewurl: http://www.ianharvie.com/jorjafox.html
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
-tags:
-  - 2008
-  - 'talk shows'
+tags: [ "2008" ]
 ---
 
 **Jorja Fox:** Ten and a half years of deaths -
@@ -59,7 +57,7 @@ tags:
 
 **Ian Harvie:** - wait till later, yeah.
 
-**Jorja Fox:** _laughing_ 
+**Jorja Fox:** _laughing_
 
 **Ian Harvie:** Do you have any idea what that means?
 
@@ -97,7 +95,7 @@ tags:
 
 **Jorja Fox:** Yeah. Another violent. _laughing_ My role anyway. The show wasn't violent, my role was. I was a part of this plot, this racist plot to assassinate the president. And so my role was really violent. _laughing_ My part of the show.
 
-**Ian Harvie:** So, and "Memento", you were in "Memento". 
+**Ian Harvie:** So, and "Memento", you were in "Memento".
 
 **Jorja Fox:** Violent, pretty gross.
 
@@ -115,7 +113,7 @@ tags:
 
 **Ian Harvie:** Are you really?
 
-**Jorja Fox:** Yeah, I'm learning how to play the drums. Finally. 
+**Jorja Fox:** Yeah, I'm learning how to play the drums. Finally.
 
 **Ian Harvie:** Awesome!
 
@@ -153,7 +151,7 @@ tags:
 
 **Jorja Fox:** There's sailing classes you can take down at Marina Del Rey.
 
-**Ian Harvie:** Are they teaching you in like those little Sunfish boats? With the one little sail and the scoop out - 
+**Ian Harvie:** Are they teaching you in like those little Sunfish boats? With the one little sail and the scoop out -
 
 **Jorja Fox:** Yeah and you have to wear those plastic floatie things. On your arms. It's in the bathtub, actually, at the YWCA.
 
@@ -207,7 +205,7 @@ tags:
 
 **Ian Harvie:** Oh, awesome.
 
-**Jorja Fox:** And, uh, _laughing_ I was awesome until I did my first thing as the Rooster, and everybody laughed really, really, really, really, really hard. 
+**Jorja Fox:** And, uh, _laughing_ I was awesome until I did my first thing as the Rooster, and everybody laughed really, really, really, really, really hard.
 
 **Ian Harvie:** Do you remember the line? Do you remember any lines?
 
@@ -231,7 +229,7 @@ _Audience cracks up ... Ian cracks up .. Jorja cracks up_
 
 **Ian Harvie:** Yeah. Be very romantic.
 
-**Jorja Fox:** We were all 19. Yeah, smoking, the cappuccino, talking about Mamet and stuff. It was really cool. 
+**Jorja Fox:** We were all 19. Yeah, smoking, the cappuccino, talking about Mamet and stuff. It was really cool.
 
 **Ian Harvie:** Where were you?
 
@@ -269,7 +267,7 @@ _Audience cracks up ... Ian cracks up .. Jorja cracks up_
 
 **Jorja Fox:** Yeah. The environment's a really big-big thing for me.
 
-**Ian Harvie:** So, if you were going to, like, swing me over the fence to be a vegetarian, what would you tell me? Like what - three things - 
+**Ian Harvie:** So, if you were going to, like, swing me over the fence to be a vegetarian, what would you tell me? Like what - three things -
 
 **Jorja Fox:** I, uh, try not to proselytize.
 
@@ -331,4 +329,4 @@ _Audience cracks up ... Ian cracks up .. Jorja cracks up_
 
 **Jorja Fox:** Cool. Alright, cool.
 
-**Ian Harvie:** Fair enough. Jorja Fox, everybody! Thank you so much.  
+**Ian Harvie:** Fair enough. Jorja Fox, everybody! Thank you so much.

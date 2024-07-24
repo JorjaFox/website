@@ -1,13 +1,12 @@
 ---
-title: SpinDaily 
+title: SpinDaily
 author: "Mika A. Epstein"
 layout: transcript
 date: 2008-02-04
 interviewurl: http://www.spindaily.com/content/view/315/1/
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
-tags:
-  - 2008
+tags: [ "2008" ]
 ---
 
 [...]
@@ -26,4 +25,4 @@ tags:
 
 **Jorja Fox:** And some laughs! Definitely some laughs.
 
-[...]  
+[...]

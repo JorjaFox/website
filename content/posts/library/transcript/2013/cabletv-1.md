@@ -2,11 +2,11 @@
 title: CableTV.com
 author: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-about-darkness-and-going-darker/  
+interviewurl: http://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-about-darkness-and-going-darker/
 date: 2013-09-24
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
-tags: [Transcript, "Talk Shows", 2013]
+tags: [Transcript, "Talk Shows", "2013" ]
 ---
 
 **Monica Gleberman** .. and just ask you, how did you get involved in acting to begin with?

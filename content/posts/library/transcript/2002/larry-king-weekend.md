@@ -6,16 +6,14 @@ date: 2002-05-18
 interviewurl: http://www.cnn.com/TRANSCRIPTS/0205/18/lklw.00.html
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
-tags:
-  - "Talk Shows"
-  - 2002
+tags: ["2002"]
 ---
 
 **LARRY KING, HOST:** Tonight, unsolved mysteries, Jon Bonet Ramsey, Chandra Levy &#8212; in the news. No wonder one of TV's top drama's is "CSI Crime Scene Investigation". This phenomenal series is about following evidence and closing cases. Glory details, high tech twists, it got them all.
 
 "(VIDEO CLIP)"
 
-**KING:** But, how realistic are the corpses and the clues?  
+**KING:** But, how realistic are the corpses and the clues?
 Joining us from LA, stars from the gripping show, killing the competition, and from Detroit, world renowned forensic expert Dr. Henry Lee, with insights on "CSI's" accuracy and high profile real life crimes, and it's all next on LARRY KING WEEKEND. "CSI" has been extraordinarily popular, and surprising hit on CBS every Thursday night at 9:00. What a cast, and what an idea. The concept is "CSI" and the cast joins us, William PETERSEN who plays Gil Grissom, the Senior Forensic Officer heading the team Criminalistics Bureau in Los Vegas. Marg Helgenberger plays Catherine Willows, she's a top member of that team, also a single mom and a former stripper &#8212; cover every angle. Jorja Fox plays Sara Sidle; Sara is an intensely focused member of the team; sometimes seems that work is her whole life. Gary Dourdan &#8212; Dourdan, rather, plays Warrick Brown on "CSI", Warrick's another member of the team of criminalistics, he's highly competitive, he's a talented jazz musician, and has had a gambling problem. This is covering every base known to man. And Elizabeth Devine, story editor and technical consultant for "CSI", veteran criminalist, worked 15 years in the Los Angeles County Sheriff's Department, has a BA in Biology and a Master's in criminalistics, and in Detroit, a frequent guest on this program, Dr. Henry Lee, the world renowned forensic expert, the Chief emeritus for Scientific Services, and the former Commissioner of Public Safety for the state of Connecticut, his new book is "Cracking Cases, the Science of Solving Crimes." Elizabeth, were you involved in this, from the get go?
 
 **ELIZABETH DEVINE, STORY EDITOR AND TECHNICAL CONSULTANT, CSI:** Yes, not with the pilot, but I've been involved with every single show.
@@ -268,8 +266,8 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 "(VIDEO CLIP)"
 
-**KING:** It has become an extraordinary success story, in television. In fact, Mr. PETERSEN, just asked if it had been renewed, and was just informed, it has been renewed, thus of course Mr. Moones has completely lost his marbles. The guests are William PETERSEN, who plays Gil Grissom on "CSI", the Senior Forensic Officer, one of the show's producer's as well, Marg Helgenberger, one of the 50 most beautiful people in the &#8212; on the planet, according to "People Magazine", also known for her Emmy winning role on "China Beach", and she plays Catherine Willows, Jorja Fox plays Sara Sidle, the intensely focused member of the criminalist team, she was a murder victim in the cult hit "Memento", Gary Dourdan &#8212; Gary Dourdan is Warrick Brown on CSI, he was also credited with appearances on "Swift Justices" and "New York Undercover", and he is another member of the criminalist team, Elizabeth Devine, the story editor and technical consultant for "CSI", and a veteran criminalist herself.  
-And Dr. Henry Lee is the world renowned forensic expert, he's in Detroit, and he's the author of the book "Cracking Cases, the Science of Solving Crimes."  
+**KING:** It has become an extraordinary success story, in television. In fact, Mr. PETERSEN, just asked if it had been renewed, and was just informed, it has been renewed, thus of course Mr. Moones has completely lost his marbles. The guests are William PETERSEN, who plays Gil Grissom on "CSI", the Senior Forensic Officer, one of the show's producer's as well, Marg Helgenberger, one of the 50 most beautiful people in the &#8212; on the planet, according to "People Magazine", also known for her Emmy winning role on "China Beach", and she plays Catherine Willows, Jorja Fox plays Sara Sidle, the intensely focused member of the criminalist team, she was a murder victim in the cult hit "Memento", Gary Dourdan &#8212; Gary Dourdan is Warrick Brown on CSI, he was also credited with appearances on "Swift Justices" and "New York Undercover", and he is another member of the criminalist team, Elizabeth Devine, the story editor and technical consultant for "CSI", and a veteran criminalist herself.
+And Dr. Henry Lee is the world renowned forensic expert, he's in Detroit, and he's the author of the book "Cracking Cases, the Science of Solving Crimes."
 One of the things about the speed of it, do you think Bill , there's some danger when you have the answer on the DNA in two and a half minutes? And it might take two and a half months.
 
 **PETERSEN:** And in some cases, it can take up to six months because, for instance on our show, our lab work, we have everything we need.
@@ -492,4 +490,4 @@ _(VIDEO CLIP)_
 
 **PETERSEN:** Larry, it's always been the maxim in Hollywood, that that's work making is worth remaking. Anything that was good once, could be good twice.
 
-**KING:** Imitation is a serious form of flattery. Hope you all take Dr. Lee up in his offer, to come out there. Dr. Lee, thank you as always for joining us, and we thank Elizabeth, and Gary, and Georgia, and Marg, and William, the shoe is "CSI", it airs Thursday nights at 9:00, focuses on the team of forensic investigators working on the overnight shift of the Criminalistics Bureau in Los Vegas. Thanks very much for joining us on this special edition of LARRY KING LIVE for our whole crew, and everybody else here in Los Angeles, good night.  
+**KING:** Imitation is a serious form of flattery. Hope you all take Dr. Lee up in his offer, to come out there. Dr. Lee, thank you as always for joining us, and we thank Elizabeth, and Gary, and Georgia, and Marg, and William, the shoe is "CSI", it airs Thursday nights at 9:00, focuses on the team of forensic investigators working on the overnight shift of the Criminalistics Bureau in Los Vegas. Thanks very much for joining us on this special edition of LARRY KING LIVE for our whole crew, and everybody else here in Los Angeles, good night.

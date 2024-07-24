@@ -6,8 +6,7 @@ date: 2013-02-20
 interviewurl: http://omg.yahoo.com/video/csi-star-jorja-fox-spills-200000745.html
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
-tags:
-  - 2013
+tags: [ "2013" ]
 ---
 
 **Thea Andrews:** Oh dear! Jorja Fox, who plays Sara Sidle, seems to be in some hot water tonight on CSI
@@ -18,11 +17,11 @@ tags:
 
 **Kevin Fraizer:** And your character seems to be in a little bit of trouble. What's going on?
 
-**Jorja Fox:** You know, I don't know what you're talking about. It's just a little misunderstanding! 
+**Jorja Fox:** You know, I don't know what you're talking about. It's just a little misunderstanding!
 
 **Thea Andrews:** What'd you get up to?
 
-**Jorja Fox:** It gets completely blown out of proportion. You know, Sara's universe kind of implodes tonight. I'm nervous about it. I hope the fans enjoy it. It's a very scary, dark, terrible wormhole. 
+**Jorja Fox:** It gets completely blown out of proportion. You know, Sara's universe kind of implodes tonight. I'm nervous about it. I hope the fans enjoy it. It's a very scary, dark, terrible wormhole.
 
 **Thea Andrews:** Kind of on the other side. They're looking for your DNA.
 
@@ -30,7 +29,7 @@ tags:
 
 **Thea Andrews:** It is incredible when you think about it. That this is the most watched television show in the world.
 
-**Kevin Fraizer:** In the world. 
+**Kevin Fraizer:** In the world.
 
 **Thea Andrews:** Not in America. In the world. In it's thirteenth season. You've been there since the very beginning. Give us some stats. How many murders have you solved?
 
@@ -58,7 +57,7 @@ tags:
 
 **Thea Andrews:** You're also fluent in many genres of this business. Because you're also producing an off-Broadway play right now. What's it like to put that hat on?
 
-**Jorja Fox:** It's been a huge learning experience. The show is [[Forever Dusty]] and it's an off-Broadway musical in New York. Obviously musicals are a complete left turn for me, I come from, I like to think, comedy and drama, but more drama. That scene you just played is actually the funniest scene in the whole episode. It's been fascinating. New York City is my home town, and I've always wanted to do a project there. We're really proud of it. It's funny and beautiful and deep. It's about the singer, Dusty Springfield, so if you like her music, it's all you need, you're gonna have a great time there. 
+**Jorja Fox:** It's been a huge learning experience. The show is [[Forever Dusty]] and it's an off-Broadway musical in New York. Obviously musicals are a complete left turn for me, I come from, I like to think, comedy and drama, but more drama. That scene you just played is actually the funniest scene in the whole episode. It's been fascinating. New York City is my home town, and I've always wanted to do a project there. We're really proud of it. It's funny and beautiful and deep. It's about the singer, Dusty Springfield, so if you like her music, it's all you need, you're gonna have a great time there.
 
 **Kevin Fraizer:** Why are people still obsessed with William Petersen, and the fact that there could've, would've, should've been something... what is the fascination-
 
@@ -72,14 +71,14 @@ tags:
 
 **Jorja Fox:** I would love to answer that question, but I'm not gonna.
 
-**Kevin Fraizer:** I like that you know something! I love that! People come here, and they know stuff, and they're all "Ha ha! Can't tell you." 
+**Kevin Fraizer:** I like that you know something! I love that! People come here, and they know stuff, and they're all "Ha ha! Can't tell you."
 
 **Jorja Fox:** Yep, just a little Cheshire Cat. But there will be some Sara and Grissom information in the episode tonight.
 
-**Thea Andrews:** Oh, I thought "Sara information" &#8212; 
+**Thea Andrews:** Oh, I thought "Sara information" &#8212;
 
 **Kevin Fraizer:** William Peterson's gonna pop on! He's going to be there!
 
-**Thea Andrews:** Well thank you. Thirteen seasons, going strong, congratulations. 
+**Thea Andrews:** Well thank you. Thirteen seasons, going strong, congratulations.
 
 [...]

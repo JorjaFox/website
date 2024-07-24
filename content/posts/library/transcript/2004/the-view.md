@@ -6,9 +6,7 @@ date: 2004-02-19
 interviewurl: http://abc.go.com/daytime/theview/
 permalink: /transcript/2004/:title/
 categories: ["Interviews"]
-tags:
-  - "Talk Shows"
-  - 2004
+tags: [ "2004" ]
 ---
 
 "The View" is a daytime television talk show on ABC which was created by Barbara Walters and premiered on August 11, 1997, to showcases women's points of view on a variety of issues.

@@ -6,10 +6,7 @@ date: 2001-02-23
 interviewurl: http://www.imdb.com/title/tt0361191/
 permalink: /transcript/2001/:title/
 categories: ["Interviews"]
-tags: 
-  - "Talk Shows"
-  - 2001
-
+tags: ["2001"]
 ---
 
 In 2001, Court TV had a new show, Hollywood at Large, in which they look into various TV shows and how they portray the criminal justice system. CSI was featured in the pilot, on Feb 23, 2001.

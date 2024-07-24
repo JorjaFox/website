@@ -2,13 +2,11 @@
 title: Guest DJ Project on KCRW
 author: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://kcrw.com/  
+interviewurl: http://kcrw.com/
 date: 2009-09-23
 permalink: /transcript/2009/:title/
 categories: ["Interviews"]
-tags:
-  - 2009
-  - radio
+tags: [ "2009" ]
 ---
 
 **Michael Barnes:** Hi, I'm Michael Barnes and I'm here with actress, Jorja Fox. Jorja has become a familiar face by playing major roles in three of the most successful television dramas in history: "ER", "The West Wing" and, most recently, "CSI: Crime Scene Investigation". Today we'll be playing excerpts of songs she selected that have inspired her over the years, as part of KCRW's Guest DJ Project.
@@ -63,8 +61,8 @@ tags:
 
 ## Tracks
 
-1. Paul McCartney and Wings: Jet  
-1. The Matthew Herbert Big Band: The Story  
-1. Hot Chip: Transmission  
-1. Diana Krall: Black Crow  
+1. Paul McCartney and Wings: Jet
+1. The Matthew Herbert Big Band: The Story
+1. Hot Chip: Transmission
+1. Diana Krall: Black Crow
 1. Ella Fitzgerald: So Danco Samba (Jazz Samba)

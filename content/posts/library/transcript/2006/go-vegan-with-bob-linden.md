@@ -6,9 +6,7 @@ interviewurl: http://www.GoVeganRadio.com
 date: 2006-09-03
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]
-tags:
-  - 2006
-  - radio
+tags: [ "2006" ]
 ---
 
 **Bob Linden:** ...author of "When Elephants Weep", "The Pig Who Sang to the Moon", and "Dogs Never Lie About Love". Um, now, uh, oh, I guess we have - is it, Jorja Fox is calling now? Okay, Jorja Fox is on the line, Chris DeRose I hope can hold on a little longer now, but Jorja Fox, I know, is in the midst of shooting right now, "CSI", and uh, taking a break. Jorja, welcome to Go Vegan With Bob Linden. It's, ah, great to hear from you.

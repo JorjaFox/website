@@ -1,4 +1,4 @@
-{{ with .Title }}<p class="display-4 mt-5">{{ . }}</p>{{ end }}
+{{ with .Title }}<p class="display-4 mt-5">{{ . }}<span name="toc"></span></p>{{ end }}
 
 {{- if gt (len (.GetTerms "tags")) 0 -}}
     <div class="mt-3">

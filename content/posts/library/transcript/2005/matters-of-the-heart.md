@@ -3,12 +3,10 @@ title: Matters of the Heart
 author: "Mika A. Epstein"
 layout: transcript
 date: 2005-10-10
-interviewurl: http://www.cbs.com  
+interviewurl: http://www.cbs.com
 permalink: /transcript/2005/:title/
 categories: ["Interviews"]
-
-tags:
-  - 2005
+tags: [ "2005" ]
 ---
 
 It's kind of a funny thing about our show, 'cause I say that the audience is almost split down the middle, where about 50% of the audience really just wants to, they want the stories. They don't wanna get into the characters personal lives all that much. And then the whole other 50% of the audience wants always to know more about the characters. It's a unique conundrum for the writers, and I think they handle it very gracefully and ... they're always disappointing _someone_ and they're always making someone happy. So they tend to follow their hearts a lot and just write what they feel, and, ah.
@@ -35,4 +33,4 @@ I produced this play in Los Angeles last year, and we just found out that it's g
 
 _For the joy of it..._
 
-I do play guitar. I don't think I've ever played guitar well. But I've played guitar for a long time and I consistently play bad guitar. So I love it, yeah. And that's something that's always just been, sort of something to do for myself. I think it's really nice to have things that you do, which is similar to the theater company that I'm involved with, that it's really just for the joy of it and the adventure of it. Not really looking for any long term results or anything like that. It's good for anybody to have that thing going on. So yeah, so I do. We jam, we play.  
+I do play guitar. I don't think I've ever played guitar well. But I've played guitar for a long time and I consistently play bad guitar. So I love it, yeah. And that's something that's always just been, sort of something to do for myself. I think it's really nice to have things that you do, which is similar to the theater company that I'm involved with, that it's really just for the joy of it and the adventure of it. Not really looking for any long term results or anything like that. It's good for anybody to have that thing going on. So yeah, so I do. We jam, we play.

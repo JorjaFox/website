@@ -6,9 +6,7 @@ date: 2010-10-20
 interviewurl: http://www.theinsider.com
 permalink: /transcript/2010/:title/
 categories: ["Interviews"]
-tags:
-  - 2010
-  - 'Talk Shows'
+tags: [ "2010" ]
 ---
 
 **Watch Now: Trouble on the 'CSI' Set**

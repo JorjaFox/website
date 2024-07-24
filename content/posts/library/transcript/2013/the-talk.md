@@ -6,8 +6,7 @@ date: 2013-04-02
 interviewurl: http://cbs.com/shows/thetalk
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
-tags:
-  - 2013
+tags: [ "2013" ]
 ---
 
 [...]
@@ -34,9 +33,9 @@ tags:
 
 **Fox:** It took about two and a half hours to circle back, go back an get her. My mom was in tears, she thought she was going to have a heart attack, she's all alone. But she was just kind of sitting on the bags with a cappuccino. Enjoying the day. [group laughter] Yeah, that's my favorite disaster.
 
-**Gilbert:** Now, you actually had another experience in Europe, before you became an actress, when you were seventeen you moved to Italy, right? To try and be a model. 
+**Gilbert:** Now, you actually had another experience in Europe, before you became an actress, when you were seventeen you moved to Italy, right? To try and be a model.
 
-**Fox:** Yes, &#8216;try' is the operative word. 
+**Fox:** Yes, &#8216;try' is the operative word.
 
 **Gilbert:** But how did that go? I heard you almost ended up homeless?
 
@@ -66,7 +65,7 @@ tags:
 
 **Sharon Osborne:** Last season, Ted Danson joined the cast. And we love him in the show. He's such an amazing guy. I mean, it must be such a joy to work with him every day.
 
-**Fox:** [deadpan] He's a terror. He's horrible. 
+**Fox:** [deadpan] He's a terror. He's horrible.
 
 [group laughter]
 
@@ -78,7 +77,7 @@ tags:
 
 **Chen:** Now, in addition to your work on CSI, you work on other projects including &#8212; there's one that's coming out later this year, and you're really proud of it. It's called "How I Became An Elephant." Tell us about that.
 
-**Fox:** Thank you for asking about that. It's a documentary, feature documentary, that I produced a couple years ago. It's really the story of a young girl, from southern California, who travels to Thailand to rescue an elephant. The heart of the story is that no matter how old you are or where you're from or where your circumstances are, if you have a passion about something, you can make a difference. One person *can* make a difference. The larger picture, of course, the umbrella is it's a movie about wildlife habitats and environmentalism and preserving these wild places so that these creatures can continue to have a place to live. 
+**Fox:** Thank you for asking about that. It's a documentary, feature documentary, that I produced a couple years ago. It's really the story of a young girl, from southern California, who travels to Thailand to rescue an elephant. The heart of the story is that no matter how old you are or where you're from or where your circumstances are, if you have a passion about something, you can make a difference. One person *can* make a difference. The larger picture, of course, the umbrella is it's a movie about wildlife habitats and environmentalism and preserving these wild places so that these creatures can continue to have a place to live.
 
 [applause]
 
@@ -86,4 +85,4 @@ tags:
 
 **Chen:** Jorja Fox everyone, Jorja Fox. CSI: Crime Scene Investigation airs Wednesday at ten, right here on CBS. We'll be back.
 
-[...]  
+[...]

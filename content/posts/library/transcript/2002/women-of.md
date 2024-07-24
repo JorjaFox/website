@@ -6,10 +6,9 @@ date: 2002-03-08
 interviewurl: http://www.eonline.com/
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
-tags:
-  - 2002
+tags: [ "2002" ]
 ---
- 
+
 ## Intro
 
 **Jorja Fox** I never knew that I wasn't equal to everyone else out there.
@@ -106,4 +105,4 @@ tags:
 
 "'Narrator** Is that an original [song]?
 
-**Jorja Fox** Yeah, it's an original. Just made it up, not quite sure what I'm playing. _Jorja plays guitar as we fade to black_ 
+**Jorja Fox** Yeah, it's an original. Just made it up, not quite sure what I'm playing. _Jorja plays guitar as we fade to black_

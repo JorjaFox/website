@@ -3,11 +3,10 @@ title: SpinDaily
 author: David Masters
 layout: transcript
 date: 2007-03-16
-interviewurl: http://www.spindaily.com/  
+interviewurl: http://www.spindaily.com/
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
-tags:
-  - 2007
+tags: [ "2007" ]
 ---
 
 **Katherine:** Hi, I'm Katherine from SpinDaily.
@@ -96,4 +95,4 @@ tags:
 
 **Jorja Fox:** And I'm Jorja.
 
-**Katherine:** And I'm signing out. See you later. 
+**Katherine:** And I'm signing out. See you later.

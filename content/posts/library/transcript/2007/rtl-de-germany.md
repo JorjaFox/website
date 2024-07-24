@@ -6,10 +6,9 @@ date: 2007-11-01
 interviewurl: http://www.rtl.de/
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
-tags:
-  - 2007
+tags: [ "2007" ]
 ---
- 
+
 ## "Why Sara decided to leave"
 
 **Jorja Fox:** ...you know, a series of events between the whole miniature killer thing and some other events, she'd had so many recent close calls. Um, the job was just too much for her to, it was too much with her, and I think she knew that if she asked Grissom to go with her, even if he said yes, that would be the end of him, you know "(very emotional)". Grissom, this, the lab for him is his whole world, it's every, the place where he's felt safe, it's where he's been for 20 years, it's his everything. Um, so I think she knew, she never, she never even asked, she would never even ask him to go, I think she... thought it would kill him to go, and it was going to kill her to stay.
@@ -36,4 +35,4 @@ tags:
 
 ## "Saying goodbye to the CSI family"
 
-**Jorja Fox:** In the letter she leaves for Grissom, uh, she says that it's definitely the closest thing she's ever had to a home, you know, was, was, those seven years there in that place, those people, and um, those bonds, I mean, you know, for me, and again, that's where the character and the person are so intertwined in some respects and so you know, I just spent my morning with Marg and Billy, and um, they're my "family", you know, I, I feel that... in twelve years if I got a call out of the blue from Paul Guilfoyle, you know, to go to his house, I'd be there probably, you know, as fast as I could. So, and, and I think that there's no question in my mind that Sara shares those feelings for the people that she worked with there.  
+**Jorja Fox:** In the letter she leaves for Grissom, uh, she says that it's definitely the closest thing she's ever had to a home, you know, was, was, those seven years there in that place, those people, and um, those bonds, I mean, you know, for me, and again, that's where the character and the person are so intertwined in some respects and so you know, I just spent my morning with Marg and Billy, and um, they're my "family", you know, I, I feel that... in twelve years if I got a call out of the blue from Paul Guilfoyle, you know, to go to his house, I'd be there probably, you know, as fast as I could. So, and, and I think that there's no question in my mind that Sara shares those feelings for the people that she worked with there.

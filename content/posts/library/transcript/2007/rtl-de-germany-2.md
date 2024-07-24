@@ -6,8 +6,7 @@ date: 2007-09-01
 interviewurl: http://www.rtl.de/
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
-tags:
-  - 2007
+tags: [ "2007" ]
 ---
 
 ## "Jorja Fox "Sara Sidle" - Why Season 7 is so great"

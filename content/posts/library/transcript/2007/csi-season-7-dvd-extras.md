@@ -6,7 +6,7 @@ layout: transcript
 interviewurl: http://www.cbs.com
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
-tags: [Transcript, 2007, DVD]
+tags: ["2007"]
 ---
 
 **Jorja Fox** "(on Billy Petersen leaving the show for four weeks in November of 2006)" I wasn't disappointed at all, I think, you know, obviously as I met Billy he had come almost directly out of this excitement of theater he was doing in Chicago and he's very famous for that theater that he's done. I think that it's been the heart of his work over the time of his career, he's done some films that are ground-breaking and memorable and everybody, those, that's probably the way that the most people know Billy Petersen, but I think that people who know Billy Petersen "know" that his heart and his soul has always been in the theater, so, and it's almost as if in a sense odd that it took him six years to find his way into one, you know, and I think that it's a testament to the show, how much "CSI:" has all this passion that he hasn't felt like he could go do a play at the same time. Cause he's also fairly multi-faceted, much more so than I am and I think some of us are on the show.
@@ -21,4 +21,4 @@ tags: [Transcript, 2007, DVD]
 
 [...]
 
-**Jorja Fox** It's a complete and utter shock and surprise. First of all I can't believe it's been seven years. One of the reasons I "hate" doing interviews like this is 'cause I'm reminded that it's been seven years, "(laughs)" because it doesn't feel like seven years. It's like &#8216;yeah, a couple of years', you know, it's the coolest thing ever, I never could have even wished for this, to be a part of a show this long and never would have expected that it would ever happen and I can't believe that it has, in many respects, we still have a gazillion cool stories left to tell. So... yeah, it's pretty weird.  
+**Jorja Fox** It's a complete and utter shock and surprise. First of all I can't believe it's been seven years. One of the reasons I "hate" doing interviews like this is 'cause I'm reminded that it's been seven years, "(laughs)" because it doesn't feel like seven years. It's like &#8216;yeah, a couple of years', you know, it's the coolest thing ever, I never could have even wished for this, to be a part of a show this long and never would have expected that it would ever happen and I can't believe that it has, in many respects, we still have a gazillion cool stories left to tell. So... yeah, it's pretty weird.

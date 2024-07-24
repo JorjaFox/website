@@ -4,11 +4,8 @@ author: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]
-
-tags:
-  - 2006
-  - "Talk Shows"
-interviewurl: http://www.bbc.uk/  
+tags: [ "2006" ]
+interviewurl: http://www.bbc.uk/
 date: 2006-05-18
 ---
 Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, sport and in-depth interviews. On May 18th, he talked with Jorja Fox about ER, The West Wing, CSI and Dear Bernard.
@@ -23,7 +20,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** From Esther, 'Congratulations on CSI. It's terrific as have been all your other series. Can you tell us your favorite memory of each?'
 
-**Jorja Fox:** It's a very tough question. Thank you, Esther. For [[ER]], I think it would be, Tony Edwards, Anthony Edwards, directed his first show and I was lucky enough to be in the episode. He did all of act two of the show in one long steady cam shot. 
+**Jorja Fox:** It's a very tough question. Thank you, Esther. For [[ER]], I think it would be, Tony Edwards, Anthony Edwards, directed his first show and I was lucky enough to be in the episode. He did all of act two of the show in one long steady cam shot.
 
 **Simon Mayo:** Wow.
 
@@ -39,7 +36,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** Right.
 
-**Jorja Fox:** So for him to be getting in and out of the van with that theme music playing 
+**Jorja Fox:** So for him to be getting in and out of the van with that theme music playing
 
 **Simon Mayo:** He was joking.
 
@@ -53,11 +50,11 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Jorja Fox:** And he would wave. He would have the window open and he would wave at folks on the Lot, or whoever might be passing by while he drove by in this car. And I hope, and I think, that my favorite [[CSI]] memory is still yet to come.
 
-**Simon Mayo:** Very good answer. 
+**Simon Mayo:** Very good answer.
 
 **Jorja Fox:** Thanks.
 
-**Simon Mayo:** On the subject of The West Wing, which of course just finished, in the States, even though it hasn't finished here, yet. Martin Sheen did have something extraordinary about him didn't he? And I wonder if one of the reasons, not just the fact the he is a great actor, but it started of as sort of an alternative Clinton White House. 
+**Simon Mayo:** On the subject of The West Wing, which of course just finished, in the States, even though it hasn't finished here, yet. Martin Sheen did have something extraordinary about him didn't he? And I wonder if one of the reasons, not just the fact the he is a great actor, but it started of as sort of an alternative Clinton White House.
 
 **Jorja Fox:** Yes.
 
@@ -81,7 +78,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Jorja Fox:** Yes, you might put me in the category of liberal-leftist-freak. Yeah, that would probably be appropriate.
 
-**Simon Mayo:** Okay, I was just checking. Now before we disappear behind a mound of CSI and West Wing e-mails, can you talk about this play that you wrote? Because you are over here to cast it and I just don't want to loose sight of the fact that that's what you're here for. 
+**Simon Mayo:** Okay, I was just checking. Now before we disappear behind a mound of CSI and West Wing e-mails, can you talk about this play that you wrote? Because you are over here to cast it and I just don't want to loose sight of the fact that that's what you're here for.
 
 **Jorja Fox:** Yeah, thank you.
 
@@ -99,7 +96,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** And your roll is as a producer?
 
-**Jorja Fox:** Yeah. 
+**Jorja Fox:** Yeah.
 
 **Simon Mayo:** You say you're casting, so is this your production company?
 
@@ -107,7 +104,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** Yeah. Right.
 
-**Jorja Fox:** So they've given me the consolation prize of producing. This theater company that I have in LA, we've done all of it. We've written shows, we've taken turns producing and directing. So my slot for this show is producing, which I'm very proud to be doing. It's a learning curve. It's kind of what I want to do when I grow up. So, I'm learning the ropes. 
+**Jorja Fox:** So they've given me the consolation prize of producing. This theater company that I have in LA, we've done all of it. We've written shows, we've taken turns producing and directing. So my slot for this show is producing, which I'm very proud to be doing. It's a learning curve. It's kind of what I want to do when I grow up. So, I'm learning the ropes.
 
 **Simon Mayo:** So having done ten years of prime time television on three different series might you get to a point where you think, I've had enough of fantastically successful, award winning programs? I'm going to ditch it all and-
 
@@ -119,7 +116,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** Yeah.
 
-**Jorja Fox:** I get more afraid that people are going to get sick of looking at me. And maybe they will come out for something that I am involved in behind the scenes instead. 
+**Jorja Fox:** I get more afraid that people are going to get sick of looking at me. And maybe they will come out for something that I am involved in behind the scenes instead.
 
 **Simon Mayo:** Yeah. You know that's not true, don't you?
 
@@ -127,7 +124,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** Will that story transfer? The idea of British girl going to the States in the seventies, but you're doing it in a British theater.
 
-**Jorja Fox:** Exactly. 
+**Jorja Fox:** Exactly.
 
 **Simon Mayo:** Does that change the atmosphere or the approach you are going to take?
 
@@ -155,13 +152,13 @@ We'll do more in a moment, the news i coming up.
 
 **Jorja Fox:** I'm sure.
 
-**Simon Mayo:** It's absolutely extraordinary. Your early life, your education, 'In high school Sara preferred to befriend teachers over students and she often ate alone in the library. Her physics teacher inspired her interest in science.' Did you know that? 
+**Simon Mayo:** It's absolutely extraordinary. Your early life, your education, 'In high school Sara preferred to befriend teachers over students and she often ate alone in the library. Her physics teacher inspired her interest in science.' Did you know that?
 
 **Jorja Fox:** No, this is all news to me.
 
-**Simon Mayo:** Um, 'Sara's personality is that of a loner. Her hobbies are all work related. She butted heads with Catherine Willows when they first met, but in recent season Sara seems to be in a downward spiral.' 
+**Simon Mayo:** Um, 'Sara's personality is that of a loner. Her hobbies are all work related. She butted heads with Catherine Willows when they first met, but in recent season Sara seems to be in a downward spiral.'
 
-**Jorja Fox:** Uh oh. 
+**Jorja Fox:** Uh oh.
 
 **Simon Mayo:** 'Things are getting more difficult for her emotionally.' Is that true?
 
@@ -181,17 +178,17 @@ We'll do more in a moment, the news i coming up.
 
 **Simon Mayo:** 'Generally wear slacks and tops. Likes Chilean sea bass. Puts sugar in her coffee,' you know, quite frankly there is nothing to do for some people, this is quite extraordinary. So tell us about this series because you just finished, what is it, series six?
 
-**Jorja Fox:** Yes, year six we finished several weeks ago and the season finale premiers in the States tonight. 
+**Jorja Fox:** Yes, year six we finished several weeks ago and the season finale premiers in the States tonight.
 
 **Simon Mayo:** Okay, so we get it when?
 
-**Jorja Fox:** I think in a few weeks. Maybe six or seven weeks I think you get it. 
+**Jorja Fox:** I think in a few weeks. Maybe six or seven weeks I think you get it.
 
 **Simon Mayo:** Is there anything you can tell us about the end of the season?
 
 **Jorja Fox:** Uh, it's a shocker, probably, which we really haven't done much of. We've never really been big on cliffhangers, season cliffhangers like a lot of shows do. The last two episodes are very very surprising and just when you think you're done with the surprises at the very end of the last episode we leave you with something, uh, very different than anything we've ever done.
 
-**Simon Mayo:** And why is that? Is that just the desire to up the ante? A bite, just the need ot do something exciting? 
+**Simon Mayo:** And why is that? Is that just the desire to up the ante? A bite, just the need ot do something exciting?
 
 **Jorja Fox:** I think that it was the writer ultimately, and we changed our season ending. We originally had a different idea and now there is this idea. I think the writers are excited to tell a story on CSI that we haven't quite told yet. So if anything it may take next season in a slightly different direction than we've ever gone before. It's not going to dominate the show by any means, but it's something that the writers haven't had the chance to let out of the bag.
 
@@ -203,7 +200,7 @@ We'll do more in a moment, the news i coming up.
 
 **Jorja Fox:** Yes. Absolutely. There is always that invitation and there is battles that you lose. I've certainly lost, you know, and it tends to be a little bit 'majority rules.' So if there is two of us you fight it out or hopefully till you come to peace. Sometimes it's the writer the director and the actor. I'm happy to bow out if I'm the only one who has a certain feeling about something. But they are really great at letting us believe that we know our characters better than anybody else at this point because all we do is our characters.
 
-**Simon Mayo:** Alan Alda was in here a couple weeks ago. 
+**Simon Mayo:** Alan Alda was in here a couple weeks ago.
 
 **Jorja Fox:** Huge fan.
 
@@ -215,7 +212,7 @@ We'll do more in a moment, the news i coming up.
 
 **Jorja Fox:** Well, gosh, I don't think I have any skills at all for directing. I would probably turn that down very flatteringly. I did, very early in the show, go to them and ask them if I could write an episode. And they kind of very naively, I think they said to me, 'you know what, in season four you can write and episode.' And I think they thought at that point that we would never have a season four. Season four came along and ironically enough I started on this play, "Dear Bernard", so I opted out of try to write a show. It's still on my list. It's something I've been invited to do and I don't know if it will ever make the air, but they are certainly going to let me write one.
 
-**Simon Mayo:** Peter, on this e-mail, Peter McGraff says 'My car was broken into recently and the CSI that turned up looked absolutely nothing like Jorja. I wouldn't have smashed my own car window if I had known they didn't all look like Jorja Fox. I'm not telling you where I live,' says Peter, 'in case the police come and get me.' 
+**Simon Mayo:** Peter, on this e-mail, Peter McGraff says 'My car was broken into recently and the CSI that turned up looked absolutely nothing like Jorja. I wouldn't have smashed my own car window if I had known they didn't all look like Jorja Fox. I'm not telling you where I live,' says Peter, 'in case the police come and get me.'
 
 **Jorja Fox:** Thank you, Peter.
 
@@ -227,7 +224,7 @@ We'll do more in a moment, the news i coming up.
 
 **Jorja Fox:** That's one question.
 
-**Simon Mayo:** I'll give you both. You'll handle them both together? 'What was the deal with Nick Stokes moustache for a couple of episodes? That was weird.' 
+**Simon Mayo:** I'll give you both. You'll handle them both together? 'What was the deal with Nick Stokes moustache for a couple of episodes? That was weird.'
 
 **Jorja Fox:** Oh.
 
@@ -237,15 +234,15 @@ We'll do more in a moment, the news i coming up.
 
 **Simon Mayo:** So what did this moustache look like?
 
-**Jorja Fox:** You know I thought it, you know I'm from the South, in America, and I personally thought the moustache was very sexy and a lot of men in the South sport moustaches actually in a lot of rural areas all over America they sport moustaches. 
+**Jorja Fox:** You know I thought it, you know I'm from the South, in America, and I personally thought the moustache was very sexy and a lot of men in the South sport moustaches actually in a lot of rural areas all over America they sport moustaches.
 
-**Simon Mayo:** I never realized it was a kind of rural urban thing. 
+**Simon Mayo:** I never realized it was a kind of rural urban thing.
 
 **Jorja Fox:** Well ...
 
 **Simon Mayo:** If you're out in the country you wear a moustache if you're in the cities you-
 
-**Jorja Fox:** You just don't shave. 
+**Jorja Fox:** You just don't shave.
 
 **Simon Mayo:** You just don't shave at all.
 
@@ -255,7 +252,7 @@ We'll do more in a moment, the news i coming up.
 
 **Jorja Fox:** Yeah I thought it was great. It was amazing how shocking it was. We got I think more responses about George's moustache than a lot of other stuff we have done. I certainly respect your opinion about the moustache.
 
-**Simon Mayo:** Susan in Holland Park said, 'We you are wadding thought', well, she says 'bowls,' but it might be 'bowels,' anyway, stomach contents on CSI, 'do you ever start gagging?' Because it's pretty gruesome. I know sometimes when it's on I'm eating dinner and I have to stop. 'Great show,' Says Susan. 
+**Simon Mayo:** Susan in Holland Park said, 'We you are wadding thought', well, she says 'bowls,' but it might be 'bowels,' anyway, stomach contents on CSI, 'do you ever start gagging?' Because it's pretty gruesome. I know sometimes when it's on I'm eating dinner and I have to stop. 'Great show,' Says Susan.
 
 **Jorja Fox:** Thank you. Uh, I never eat and watch the show. You're very brave, and the same time. I think I'm the most squeamish member of the cast and it's come to a point where people play jokes on me and I think they do give me some of the gorier story lines because they know I respond to them so strongly. And it's funny because it's not really the actuality of what I'm looking at that disturbs me so much, but it's really how the people died, which is violently. You know, that's really the part I think that gets to me.
 

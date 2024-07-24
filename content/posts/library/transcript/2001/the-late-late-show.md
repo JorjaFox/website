@@ -5,12 +5,8 @@ layout: transcript
 date: 2001-06-25
 interviewurl: http://www.cbs.com
 permalink: /transcript/2001/:title/
-categories:
-  - Interviews
-
-tags:
-  - "Talk Shows"
-  - 2001
+categories: ["Interviews"]
+tags: ["2001"]
 ---
 The Late Late Show with Craig Kilborn is a TV Talk show/variety show, hosted by Craig Kilborn. Jorja Fox was the second guest, and introduced as a "beautiful actress ... helming the hit TV series CSI".
 
@@ -174,4 +170,4 @@ The Late Late Show with Craig Kilborn is a TV Talk show/variety show, hosted by 
 
 **Jorja:** Thank you. We had a good year, a really good year and we will be back. More dead people.
 
-**Craig:** Lets hear it for Jorja Fox!  
+**Craig:** Lets hear it for Jorja Fox!

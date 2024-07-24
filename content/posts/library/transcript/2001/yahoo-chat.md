@@ -5,11 +5,8 @@ date: 2001-04-24
 layout: transcript
 interviewurl: http://yahoo.com/
 permalink: /transcript/2001/:title/
-categories:
-  - Interviews
-tags:
-  - "Online Chat"
-  - 2001
+categories: ["Interviews"]
+tags: ["2001"]
 ---
 This chat log was cut short by technical difficulties (dialup connection crashed). Despite promises to provide the full log, Yahoo! never did.
 
@@ -43,4 +40,4 @@ It's got to be a fabulous Spring for actress Jorja Fox. She's in the coolest TV 
 
 **jorja_fox_chat**: Not officially. But we've done a couple of publicity things that people don't usually get to do unless they've been renewed. I think it's fairly safe to say that we'll be on next year.
 
-**sawas_sweetheart78**:  
+**sawas_sweetheart78**:

@@ -6,8 +6,7 @@ layout: transcript
 interviewurl: http://www.sharkallies.com/
 permalink: /transcript/2017/:title/
 categories: ["Interviews"]
-tags:
-  - 2017
+tags: [ "2017" ]
 ---
 
 Ed Asner: Some of us love to entertain

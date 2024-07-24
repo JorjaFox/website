@@ -6,8 +6,7 @@ date: 2010-07-01
 interviewurl: http://cbs.com/
 permalink: /transcript/2010/:title/
 categories: ["Interviews"]
-tags:
-  - 2010
+tags: [ "2010" ]
 ---
 
 ## Returning to CSI in Season 10
@@ -52,13 +51,13 @@ We got really lucky, and it was still hard.
 
 ## The Challenge of The Season 10 Opener
 
-We had to reset several times for the tiniest little movements. After take eight or nine, even though I had taken this really easy gun stance, my hand eventually \*makes her hand quiver\*. As the night wore on, I think we had real guns as well, which are a lot heavier than the fake guns that we use, because they were seeing these guns very closely. They had to be the real weapons and they're definitely heavier than the other stuff we mess around with most of the time. 
+We had to reset several times for the tiniest little movements. After take eight or nine, even though I had taken this really easy gun stance, my hand eventually \*makes her hand quiver\*. As the night wore on, I think we had real guns as well, which are a lot heavier than the fake guns that we use, because they were seeing these guns very closely. They had to be the real weapons and they're definitely heavier than the other stuff we mess around with most of the time.
 
 ## Working With Laurence Fishburne
 
 It's been super cool. I'm a huge fan of his work, for such a long time now. Most of the time that I've actually been watching movies and TV, Laurence Fishburne's been there, he's been working since he was like 13 years old. I remember him from those early, early days, *Apocolypse Now*. I still get a little nervous around him, to be perfectly honest with you. He's a man that, at least with me, very graciously really look me in the eye for a long time and I get a little nervous.
 
-Our very first scene that we had together, which is in the season opener, in episode one, we started a shot where it's, literally, Laurence and I are in mid-handshake. So we're shaking hands, and we're looking each other in the eye, for a much longer time than is natural. You've got the director "Rolling," okay, "Reset," "Action," these are all long beats, and it's just this hold of the two of us like that. And that was the first day that I worked with him. 
+Our very first scene that we had together, which is in the season opener, in episode one, we started a shot where it's, literally, Laurence and I are in mid-handshake. So we're shaking hands, and we're looking each other in the eye, for a much longer time than is natural. You've got the director "Rolling," okay, "Reset," "Action," these are all long beats, and it's just this hold of the two of us like that. And that was the first day that I worked with him.
 
 It was daunting, it was a little daunting, it was amazing, and you get to really see, sort of, behind someone, on a day like that. There was just nothing there but kindness and wisdom.
 

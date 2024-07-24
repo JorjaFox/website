@@ -6,8 +6,7 @@ interviewurl: http://www.gettyimages.com
 date: 2009-09-22
 permalink: /transcript/2009/:title/
 categories: ["Interviews"]
-tags:
-  - 2009
+tags: [ "2009" ]
 ---
 
 [...]

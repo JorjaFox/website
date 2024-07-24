@@ -3,11 +3,10 @@ title: ET Online
 author: "Mika A. Epstein"
 layout: transcript
 date: 2007-10-04
-interviewurl: http://www.etonline.com  
+interviewurl: http://www.etonline.com
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
-tags:
-  - 2007
+tags: [ "2007" ]
 ---
 
 **Jorja Fox:** How fun is this, right? And what a tease for me!
@@ -26,7 +25,7 @@ tags:
 
 **Fox:** Well thank you. No worse for wear.
 
-**Carl:** You fooled everybody all summer. 
+**Carl:** You fooled everybody all summer.
 
 **Fox:** Yeah.
 

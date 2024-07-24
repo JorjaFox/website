@@ -5,9 +5,7 @@ author: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
-tags:
-  - 2011
-  - 'talk shows'
+tags: [ "2011" ]
 interviewurl: http://www.etonline.com/
 ---
 

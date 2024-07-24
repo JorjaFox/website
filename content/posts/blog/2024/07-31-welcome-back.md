@@ -3,15 +3,19 @@ title: Welcome Back!
 date: 2024-07-31
 author: Mika E. (Ipstenu)
 description: "What happened to everything!? Don't panic!"
+thumbnail:
+    url: /img/blog/4344878104_5b22de25b1_h.jpg
+    originURL: https://www.flickr.com/photos/90371939@N00/4344878104
+    author: nathan
 ---
 
 I'm sure you're all wondering what happened.
 
-In recent years, the question of legality of screenshots (and videos and other images) has been a sticking point with various places. It's never been more 'the rage' than today to send out cease&desists or DMCA takedown notices. The whole reason all advertising vanished from the site was to try and stay on the clear and safe side of good.
+In recent years, the question of legality of screenshots (and videos and other images) has been a sticking point with various places. It's never been more 'the rage' than today to send out cease and desists or DMCA takedown notices. The whole reason all advertising vanished from the site was to try and stay on the clear and safe side of good.
 
-Regrettably this did not last.
+Regrettably this did not last. There is one copyright owner who made it abundantly clear they would force me to shut down the site if changes were not made. The original timeline was August 1, but I negotiated for September 1, so I had a little time to refactor ... everything.
 
-In order to prevent the site from being taken down, the gallery had to go. Since so many old blog posts included gallery information, they too had to be (for now at least) hidden.
+In order to prevent the site from being taken down, the gallery had to go. Since so many old blog posts included embedded gallery information, they too had to be (for now at least) hidden. I still have them all.
 
 This move is a fast step one to keep the site up and running. So far, the news articles seem okay but that is to be seen. Since they all link back to the originals, and I didn't copy any of the images, that appears to be safe.
 

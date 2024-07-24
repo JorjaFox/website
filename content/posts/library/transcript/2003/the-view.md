@@ -6,9 +6,7 @@ date: 2003-02-20
 interviewurl: http://abc.go.com/daytime/theview
 permalink: /transcript/2003/:title/
 categories: ["Interviews"]
-tags:
-  - "Talk Shows"
-  - 2003
+tags: [ "2003" ]
 ---
 
 _The New York Times had run a story saying that Jorja would be appearing on the show "The Bachelorette" - she joked about in on "The View"._

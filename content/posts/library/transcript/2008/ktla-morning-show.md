@@ -1,13 +1,12 @@
 ---
-title: KTLA Morning Show 
+title: KTLA Morning Show
 author: "Mika A. Epstein"
 layout: transcript
 date: 2008-01-31
 interviewurl: http://ktla.trb.com/
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
-tags:
-  - 2008
+tags: [ "2008" ]
 ---
 
 **Interviewer:** All right, we're gonna talk all about this play and everything Jorja related, but you, you made sort of a conscious decision - you know, you've been on this very successful show, and then, you left. What, what, what -- was that a real soul search, or was it "gee, it's time"?
@@ -112,4 +111,4 @@ tags:
 
 **Interviewer 2:** Oooo... you gotta come back then.
 
-**Jorja Fox:** Yeah, a couple later, yeah...  
+**Jorja Fox:** Yeah, a couple later, yeah...

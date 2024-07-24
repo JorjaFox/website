@@ -6,7 +6,7 @@ layout: transcript
 interviewurl: http://www.cbs.com
 permalink: /transcript/2003/:title/
 categories: ["Interviews"]
-tags: [Transcript, 2003, DVD]
+tags: [ "2003" ]
 ---
 
 ## Crash and Burn
@@ -23,4 +23,4 @@ tags: [Transcript, 2003, DVD]
 
 [...]
 
-**Jorja Fox** [Director] Danny [Cannon] is fast, he's like the lightning bolt director, and everybody loves, you know, just starting out with him they know that they're gonna get, they're gonna have a shorter day with him and that things are going to move very quickly and people really like that, you know, it's, it's, when you're on show 12 and you've been working for five months the idea of having a short day is really good.  
+**Jorja Fox** [Director] Danny [Cannon] is fast, he's like the lightning bolt director, and everybody loves, you know, just starting out with him they know that they're gonna get, they're gonna have a shorter day with him and that things are going to move very quickly and people really like that, you know, it's, it's, when you're on show 12 and you've been working for five months the idea of having a short day is really good.

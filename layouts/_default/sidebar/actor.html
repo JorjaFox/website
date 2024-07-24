@@ -35,33 +35,35 @@
 
 <!-- Excerpt/Details -->
 
-<div class="card text-bg-light">
-    <div class="card-header">
-        <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>
-        <h6>{{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}</h6>
-        <img src="{{ .Params.image | default "/img/placeholder.png" }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail card-img-top">
-    </div>
-    <div class="card-body">
-        <ul class="list-group list-group-flush actor-list-group">
-            {{ if $year }}<li class="list-group-item">{{ $year }}</li>{{ end }}
-            {{ if $genre }}<li class="list-group-item">{{ $genre }}</li>{{ end }}
-            {{ if $station }}<li class="list-group-item">{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
-            {{ if .Params.imdb }}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{ end }}
-            {{ if .Params.episodelist }}<li class="list-group-item">
-                <a href="/library/actor/{{ .File.TranslationBaseName }}-episodes/">List of Appearances</a>
-                {{ if or $seasons $episodes}}
-                    <br /><small>(
-                        {{ if $seasons }}{{$seasons}} season{{ if gt $seasons "1" }}s{{end}}{{ end }}
-                        {{ if $episodes }}{{$episodes}} episode{{ if gt $episodes "1" }}s{{end}}{{ end }}
-                    )</small>
+<div class="toc toc-sidebar mb-5 my-md-0 mb-lg-5 p-3 text-body-secondary sticky-top">
+    <div class="card text-bg-light">
+        <div class="card-header">
+            <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>
+            <h6 class="text-center">{{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}</h6>
+            <img src="{{ .Params.image | default "/img/placeholder.png" }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail card-img-top">
+        </div>
+            <ul class="list-group list-group-flush actor-list-group">
+                {{ if $year }}<li class="list-group-item">{{ $year }}</li>{{ end }}
+                {{ if $genre }}<li class="list-group-item">{{ $genre }}</li>{{ end }}
+                {{ if $station }}<li class="list-group-item">{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
+                {{ if .Params.imdb }}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{ end }}
+                {{ if .Params.episodelist }}<li class="list-group-item">
+                    <a href="/library/actor/{{ .File.TranslationBaseName }}-episodes/">List of Appearances</a>
+                    {{ if or $seasons $episodes}}
+                        <br /><small>(
+                            {{ if $seasons }}{{$seasons}} season{{ if gt $seasons "1" }}s{{end}}{{ end }}
+                            {{ if $episodes }}{{$episodes}} episode{{ if gt $episodes "1" }}s{{end}}{{ end }}
+                        )</small>
+                    {{ end }}
+                    {{ if $jorjan }}<br /><small>[Credited as Jorjan Fox]</small>{{ end }}
+                    {{ if $notes }}<br /><small>{{ $notes | safeHTML }}</small>{{ end }}
+                </li>{{ end }}
+                {{ if and ($rating) (ne $rating "fake") }}
+                    {{ .Page.Scratch.Set "goldstar" $rating }}
+                    <li class="list-group-item text-center">{{ partial "rating.html" . }}</li>
                 {{ end }}
-                {{ if $jorjan }}<br /><small>[Credited as Jorjan Fox]</small>{{ end }}
-                {{ if $notes }}<br /><small>{{ $notes | safeHTML }}</small>{{ end }}
-            </li>{{ end }}
-            {{ if and ($rating) (ne $rating "fake") }}
-                {{ .Page.Scratch.Set "goldstar" $rating }}
-                <li class="list-group-item text-center">{{ partial "rating.html" . }}</li>
-            {{ end }}
-        </ul>
+            </ul>
     </div>
+
+    {{ .Render "sidebar/toc" }}
 </div>

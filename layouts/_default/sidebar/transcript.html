@@ -1,0 +1,11 @@
+<div class="card">
+    <div class="card-body">
+        <p class="card-text">Transcript by {{ if .Params.author }}{{ .Params.author }}{{ else }}Anonymous{{ end }}</p>
+        <p class="card-text">Published: {{ .Date.Format "January 02, 2006" }}</p>
+    </div>
+    <div class="card-footer">
+        {{ if .Params.interviewurl }}
+            <center><a href="{{.Params.interviewurl}}" target="_blank" class="btn btn-primary">Original Transcript</a></center>
+        {{ end }}
+    </div>
+</div>

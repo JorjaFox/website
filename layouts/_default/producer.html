@@ -1,7 +1,6 @@
 {{ define "main" -}}
     {{- $breakpoint := $.Scratch.Get "breakpoint" -}}
     {{ $sidebar := .Render "global/sidebar" }}
-    {{ $toc := .Render "single/panel-toc" }}
     {{- $flf_icon := .Params.flf_icon -}}
     {{- $list_icon := .Params.list_icon -}}
 
@@ -29,7 +28,6 @@
             <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.current }}-block pt-5">
                 <span name="toc"></span>
                 {{ .Render "sidebar/producer" }}
-                {{ $toc | safeHTML }}
             </div>
         </div>
     </div>

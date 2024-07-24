@@ -1,7 +1,7 @@
 ---
 title: "News Articles (2012)"
 author: "Mika A. Epstein"
-layout: news
+layout: news-list
 topic: index
 date: 2012-01-01
 permalink: /news/2012/

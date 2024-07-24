@@ -67,5 +67,3 @@ The story interested her, and she got to work with William Petersen again.
 
 ###  What about ... ?
 
-&bull; <a href="/library/faq/jorja/">FAQ about Jorja</a><br />
-&bull; <a href="/library/faq/career/">FAQ about Jorja's Career</a>

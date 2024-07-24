@@ -1,0 +1,63 @@
+{{ define "main" -}}
+    {{- $breakpoint := $.Scratch.Get "breakpoint" -}}
+    {{ $sidebar := .Render "global/sidebar" }}
+    {{ $toc := .Render "single/panel-toc" }}
+
+    {{- $metadata := "full" -}}
+    {{ if isset .Params "metadata" }}
+        {{ $metadata = .Params.metadata }}
+    {{ else }}
+        {{- with (index site.Params.pages .Type ) -}}
+            {{ if isset . "metadata" }}{{ $metadata = (index . "metadata") }}{{ end }}
+        {{- end -}}
+    {{ end }}
+
+    {{ with $sidebar }}
+        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvass-sidebar" aria-inledby="offcanvas-label">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvas-label">{{ strings.FirstUpper $.Section }}</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="{{ T "close" }}"></button>
+            </div>
+            <div class="offcanvas-body">
+                {{ . | safeHTML }}
+            </div>
+        </div>
+    {{ end }}
+
+    <div class="container-xxl flex-fill p-4 px-xxl-0">
+        <div class="row row-cols-1 row-cols-{{ $breakpoint.current }}-2 row-cols-{{ $breakpoint.next }}-3">
+            <div class="col col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.next }}-block sidebar-overflow sticky-top pt-5">
+                {{ $sidebar | safeHTML }}
+            </div>
+            <div class="col-12 col-{{ $breakpoint.current }}-9 col-{{ $breakpoint.next }}-8 mb-5 p-4">
+                {{ with .Title }}<p class="display-4 mt-5">{{ . }}</p>{{ end }}
+                <p class="display-6 mt-5">{{.Params.newstitle}}</p>
+
+
+                {{ if ne $metadata "none" }}
+                    {{ $lastmodstr := (partial "utilities/date.html" (dict "date" .Lastmod "format" "long")) -}}
+                    {{ $datestr := (partial "utilities/date.html" (dict "date" .Date "format" "long")) -}}
+                    <small class="text-body-secondary text-uppercase">
+                        {{ $datestr | i18n "postedOnDate" -}}
+                        {{ if eq $metadata "full" }}
+                            {{ if ne $datestr $lastmodstr -}}&nbsp;({{ $lastmodstr | i18n "lastModified" }}){{ end }}
+                        {{ end }}
+                        &bull;
+                        {{ .ReadingTime | lang.FormatNumber 0 }}&nbsp;{{ i18n "minutesShort" }} {{ i18n "read" }} &bull;
+                        {{ .WordCount | lang.FormatNumber 0 }}&nbsp;{{ i18n "words" }}
+                    </small>
+                {{ end }}
+
+                {{ partial "assets/sharing.html" (dict "page" .) }}
+
+                {{ .Content }}
+
+                {{ partial "footer/news.html" . }}
+            </div>
+            <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.current }}-block pt-5">
+                <span name="toc"></span>
+                {{ .Render "sidebar/news" }}
+            </div>
+        </div>
+    </div>
+{{ end -}}

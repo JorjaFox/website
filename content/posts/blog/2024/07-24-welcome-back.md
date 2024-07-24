@@ -1,6 +1,6 @@
 ---
 title: Welcome Back!
-date: 2024-07-31
+date: 2024-07-24
 author: Mika E. (Ipstenu)
 description: "What happened to everything!? Don't panic!"
 thumbnail:
@@ -20,3 +20,5 @@ In order to prevent the site from being taken down, the gallery had to go. Since
 This move is a fast step one to keep the site up and running. So far, the news articles seem okay but that is to be seen. Since they all link back to the originals, and I didn't copy any of the images, that appears to be safe.
 
 What's next? Well, I've ported over everything I could, and I've simplified the hell out of the site to keep it lean and fast. I'm going to be trying to bring over the old blog posts over time. The gallery? Unlikely to return. Sorry. I do have it all saved locally though!
+
+So while this is a BIG scary thing, don't worry. We'll make it through.

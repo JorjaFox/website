@@ -6,7 +6,7 @@ style:
   primary: "#107952"
 
 navigation:
-  logo: "flf-logo.svg"
+  logo: "logo.svg"
   size: "lg"
 
 favicon:

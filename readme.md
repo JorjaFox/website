@@ -7,6 +7,10 @@ Due to unforeseen circumstances, we've been forced to change the site.
 * [System: Hugo](https://gohugo.io)
 * [Theme: Hinode](https://gethinode.com)
 
-## To Do
-- News - index list
-- News articles
+## Installation
+
+* Checkout from Github
+* Run `npm install`
+* Run `npm run mod:update`
+
+To build the site, run `npm run build`

@@ -16,5 +16,11 @@ enableRobotsTXT: true
 mainSections: [ "blog" ]
 
 minify:
-  minify.tdewolff.html:
-    keepWhitespace: true
+  disableJS: true
+  minifyOutput: false
+  tdewolff:
+    js:
+      keepVarNames: true
+      version: 2022
+    html:
+      keepWhitespace: true

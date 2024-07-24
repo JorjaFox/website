@@ -24,8 +24,7 @@ jobs:
         with:
           node-version-file: '.nvmrc'
           cache: 'npm'
-        run: npm install
-        run: npm run mod:update
+        run: npm install && npm run mod:update
 
       - name: Build site
         run: npm run build

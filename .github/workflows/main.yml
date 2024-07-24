@@ -19,10 +19,12 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Install NPM 
+      - name: Setup Node and Install
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
         run: npm install
-
-      - name: Install mods
         run: npm run mod:update
 
       - name: Build site
@@ -36,5 +38,5 @@ jobs:
           SOURCE: "public/"
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: "/home/jorjafox/jorjafox.net/new/"
+          TARGET: "/home/jorjafox/jorjafox.net/"
           #EXCLUDE: "/dist/, /node_modules/"

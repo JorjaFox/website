@@ -1,0 +1,9 @@
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/hugo-bootstrap-5"]
+	path = themes/hugo-bootstrap-5
+	url = https://github.com/NotWoods/hugo-bootstrap-5.git
+[submodule "themes/hugo-bootstrap-theme"]
+	path = themes/hugo-bootstrap-theme
+	url = https://github.com/filipecarneiro/hugo-bootstrap-theme.git

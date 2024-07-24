@@ -1,0 +1,9 @@
+# This file holds all menu entries for the docs sidebar
+
+- title: Library
+  pages:
+    - title: Biographies
+      link: https://example.com
+    - title: Filmography
+      link: https://example.com
+

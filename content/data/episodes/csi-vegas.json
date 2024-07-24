@@ -1,0 +1,106 @@
+{
+  "show" : "csi-vegas",
+  "showname": "CSI: Vegas",
+  "episodes": [
+    {
+       "season": "1",
+       "epnum": "1",
+       "title": "Legacy",
+       "slug": "0101-legacy",
+       "airdate": "2021-10-06T22:00:00.000Z",
+       "rating": "5",
+       "summary": "An attack on Jim Brass kicks off a twisted conspiracy targeting the Las Vegas crime lab. Sara Sidle returns to investigate with a new team of CSIs on the series premiere.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/01-legacy/"
+    },
+    {
+       "season": "1",
+       "epnum": "2",
+       "title": "Honeymoon in Vegas",
+       "slug": "0102-honeymoon",
+       "airdate": "2021-10-13T22:00:00.000Z",
+       "rating": "4",
+       "summary": "Gil Grissom and Sara Sidle come to the aid of a former colleague who is implicated in tampering with evidence. Maxine and the rest of the CSI team work the murder of a couple slain on their wedding day, following the evidence to the salacious underbelly of the Las Vegas elite.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/02-honeymoon"
+    },
+    {
+       "season": "1",
+       "epnum": "3",
+       "title": "Under the Skin",
+       "slug": "0103-undertheskin",
+       "airdate": "2021-10-20T22:00:00.000Z",
+       "rating": "4",
+       "summary": "Grissom and Sara’s investigation into charges against David Hodges heats up as Internal Affairs joins the hunt. Also, pressure rises for the CSIs when a video game developer’s body is found floating in a fountain before a huge gaming tournament.",
+      "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/03-undertheskin"
+    },
+    {
+       "season": "1",
+       "epnum": "4",
+       "title": "“Long Pig",
+       "slug": "0104-longpig",
+       "airdate": "2021-10-27T22:00:00.000Z",
+       "rating": "4",
+       "summary": "The CSI team investigates when a body is dug up in the luau pit of a Hawaiian-themed hotel. Also, Internal Affairs begins to question Grissom and Sara’s return to the crime lab.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/04-longpig"
+    },
+    {
+       "season": "1",
+       "epnum": "5",
+       "title": "Let the Chips Fall",
+       "slug": "0105-letchipsfall",
+       "airdate": "2021-11-03T22:00:00.000Z",
+       "rating": "4",
+       "summary": "As Grissom and Sara close in on who framed Hodges, the CSI team investigates a lock room murder mystery at 30,000 feet, when a cargo plane lands autonomously at McCarran Airport and everyone on board has been killed.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/05-letchipsfall"
+    },
+    {
+       "season": "1",
+       "epnum": "6",
+       "title": "Funhouse",
+       "slug": "0106-funhouse",
+       "airdate": "2021-11-10T22:00:00.000Z",
+       "rating": "4",
+       "summary": "Max puts CSI on lockdown when evidence in a new murder tips Grissom and Sara to a new suspect in the crime lab. Also, Folsom and Allie investigate a series of chilling killings at a dilapidated clown-themed hotel.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/06-funhouse"
+    },
+    {
+       "season": "1",
+       "epnum": "7",
+       "title": "In the Blood",
+       "slug": "0107-intheblood",
+       "airdate": "2021-11-17T22:00:00.000Z",
+       "rating": "4",
+       "summary": "An abandoned horse covered in blood leads the CSI team to a halfway house for convicted murderers. Also, Grissom and Sara begin to circle their prime suspect in the David Hodges case.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/07-intheblood"
+    },
+    {
+       "season": "1",
+       "epnum": "8",
+       "title": "Pipe Cleaner",
+       "slug": "0108-pipecleaner",
+       "airdate": "2021-11-24T22:00:00.000Z",
+       "rating": "4",
+       "summary": "When the CSIs are called to investigate human remains found in a convention center owner’s bathtub, Sara and Grissom use the case to get close to attorney Anson Wix’s star forensic expert witness, just days before David Hodges’ trial begins.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/08-pipecleaner"
+    },
+    {
+       "season": "1",
+       "epnum": "9",
+       "title": "Waiting in the Wings",
+       "slug": "0109-waitinginthewings",
+       "airdate": "2021-12-01T22:00:00.000Z",
+       "rating": "4",
+       "summary": "The CSI team looks closely at the eccentric world of sideshows when a couple of performers are discovered burned in a pit. Also, Hodges mulls a plea deal as his criminal trial kicks off, while Max, Grissom and Sara search for evidence to exonerate him.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/09-waitinginthewings"
+    },
+    {
+       "season": "1",
+       "epnum": "10",
+       "title": "Signed, Sealed, Delivered",
+       "slug": "0110-signedsealeddelivered",
+       "airdate": "2021-12-08T22:00:00.000Z",
+       "rating": "4",
+       "summary": "When David Hodges goes missing, the entire CSI team searches for any piece of evidence that can help locate him, clear his name and save the reputation of the entire crime lab.",
+       "gallerylink": "https://jorjafox.net/gallery/tv/csi-vegas/screenshots/season01/10-signedsealeddelivered"
+    }
+  ]
+}

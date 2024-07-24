@@ -1,0 +1,11 @@
+.sass-cache
+Gemfile.lock
+*.gem
+pkg/
+*.swp
+*~
+.bundle/
+.DS_Store
+public/*
+node_modules/*
+.hugo_build.lock

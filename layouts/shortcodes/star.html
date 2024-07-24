@@ -1,0 +1,14 @@
+{{ $color := .Get "color" }}
+{{ $count := 1 }}
+
+{{ if .Get "count" }}
+	{{ $count = .Get "count" }}
+{{ end }}
+
+{{ range ( seq $count ) }}
+	{{ if eq $color "red-star" }}
+		<span class="star-rating star-red">{{ partial "svg.html" "star" }}</span>
+	{{ else }}
+		<span class="star-rating star-{{ $color }}">{{ partial "svg.html" "star" }}</span>
+	{{ end }}
+{{ end }}

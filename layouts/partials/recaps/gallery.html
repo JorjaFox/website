@@ -1,0 +1,12 @@
+{{ $eptitle  := .Title }}
+{{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
+
+{{ range $episodes }}
+	{{ if eq .title $eptitle }}
+		{{ if and ( .gallerylink ) ( ne .gallerylink "" ) }}
+			<br /><a href="{{ .gallerylink }}" target="_blank"><span class="list-icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Screenshots Available (opens in new window)">{{ partial "svg.html" "camera-retro" }}</span></a>
+		{{ else }}
+			<br /><span class="list-icon" data-bs-toggle="tooltip" data-bs-placement="top" title="No Screenshots Available">{{ partial "svg.html" "camera-off" }}</span>
+		{{ end }}
+	{{ end }}
+{{ end }}

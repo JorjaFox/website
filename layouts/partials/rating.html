@@ -1,0 +1,23 @@
+{{ $rating := "na" }}
+
+{{ if .Params.rating }}
+	{{ $rating = .Params.rating}}
+{{ else if .Page.Scratch.Get "goldstar" }}
+	{{ $rating = .Page.Scratch.Get "goldstar" }}
+{{ end }}
+
+{{ $grade := print $rating "-gold" }}
+
+{{ if eq $rating "na" }}
+	{{ $grade = "red" }}
+{{ end }}
+<div class="star-rating"><a href="/library/faq/grading/#{{ $grade }}-stars" alt="Star Rating: {{ $rating }}">
+	{{ if eq $rating "na" }}
+		{{ $star := 0 }}
+		{{ range $star, $seqstar := ( seq 5 ) }}<span class="star-rating star-red" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - Has not been watched yet">{{ partial "svg.html" "star" }}</span>{{ end }}
+	{{ else }}
+		{{ $goldstars := (float $rating) }}
+		{{ $greyrate := sub 5 $goldstars }}
+		{{ range ( seq $rating ) }}<span class="star-rating star-gold" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - {{ $rating }} stars out of 5">{{ partial "svg.html" "star" }}</span>{{ end }}{{ range $stargrey, $seqgrey := ( seq $greyrate ) }}<span class="star-rating star-grey" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - 0 stars out of 5">{{ partial "svg.html" "star" }}</span>{{ end }}
+	{{ end }}
+</a></div>

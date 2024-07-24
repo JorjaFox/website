@@ -1,0 +1,175 @@
+{
+"show" : "missing-persons",
+"showname": "Missing Persons",
+"episodes": [
+  {
+    "epnum": "1x01",
+    "season": "1",
+    "title": "Pilot",
+    "slug": "pilot",
+    "airdate": "1993-08-30T20:00:00.000Z",
+    "rating": "4",
+    "summary": "As we meet the characters, Johnny investigates a case of a little Polish girl snatched on a subway train, Carlos tries to find a 14 year old victim of sexual abuse, Bobby searches for a missing law student, and Connie gets frustrated because she isn't given any cases.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/pilot/"
+  },
+  {
+    "epnum": "1x02",
+    "season": "1",
+    "title": "Cabe?... What kind of name is that?",
+    "slug": "cabe-what-kind-of-name-is-that",
+    "airdate": "1993-09-23T20:00:00.000Z",
+    "rating": "3",
+    "summary": "Carlos brings in photos of his newborn son. Bobby searches for the missing son of a Filipino lady, meanwhile a little boy is found who hasn't been reported missing.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/cabe/"
+  },
+  {
+    "epnum": "1x03",
+    "season": "1",
+    "title": "People Don't Talk to Cops, People Lie to Cops",
+    "slug": "people-dont-talk-to-cops-people-lie-to-cops",
+    "airdate": "1993-09-30T20:00:00.000Z",
+    "rating": "3",
+    "summary": "A child is kidnapped from his back yard; an optometrist vanishes on his way home from work; and a young woman doesn't return from the grocery store.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/people/"
+  },
+  {
+    "epnum": "1x04",
+    "season": "1",
+    "title": "I Can't Even Imagine",
+    "slug": "i-cant-even-imagine",
+    "airdate": "1993-10-07T20:00:00.000Z",
+    "rating": "4",
+    "summary": "A young woman returning from a European trip does not get off the plane; two teens do not make it home from a party; and a suicide note is found but no body.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/imagine/"
+  },
+  {
+    "epnum": "1x05",
+    "season": "1",
+    "title": "That's My Sister Pal",
+    "slug": "thats-my-sister-pal",
+    "airdate": "1993-10-14T20:00:00.000Z",
+    "rating": "4",
+    "summary": "Carlos and Connie search for a missing teen who has upset a drug lord.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/sister/"
+  },
+  {
+    "epnum": "1x06",
+    "season": "1",
+    "title": "The Man's an Emotional Termite",
+    "slug": "the-mans-an-emotional-termite",
+    "airdate": "1993-10-28T20:00:00.000Z",
+    "rating": "3",
+    "summary": "A young woman's parents arrive for a visit and find her missing; a young girl is an apparent runaway; and an older man's entire family disappears.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/termite/"
+  },
+  {
+    "epnum": "1x07",
+    "season": "1",
+    "title": "Some People's Priorities",
+    "slug": "some-peoples-priorities",
+    "airdate": "1993-11-04T20:00:00.000Z",
+    "rating": "4",
+    "summary": "Missing dental hygienist's car is found with Black Magic books and items in the trunk, and her parents can't seem to decide whether or not they want to find her. A wife goes out for groceries and never comes back. Constance gets flowers.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/priorities/"
+  },
+  {
+    "epnum": "1x08",
+    "season": "1",
+    "title": "I'm Gonna Miss Him Too",
+    "slug": "im-gonna-miss-him-too",
+    "airdate": "1993-11-11T20:00:00.000Z",
+    "rating": "3",
+    "summary": "A young boy runs away from home, returning to take his little brother with him, after his potential stepfather steals from their home and blames it on him, and then threatens his life. Connie has to trace the family of an heroic John Doe who saved a little girl's life, in order to find out what his medical problems are, and along the way feels some chemistry with the surgeon.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/misshim/"
+  },
+  {
+    "epnum": "1x09",
+    "season": "1",
+    "title": "Sometimes You Can't Help Getting Involved",
+    "slug": "sometimes-you-cant-help-getting-involved",
+    "airdate": "1993-11-25T20:00:00.000Z",
+    "rating": "3",
+    "summary": "Connie and Carlos both have to find missing children. Connie's case is a 4-year old who disappeared at nursery school, and Carlos's is an 8-year old, who is later found badly beaten. When an ex-school friend of Ray's, who had been injured in an accident many years ago resulting in him have the mental age of a 6-year old, is accused of the beating, Ray breaks his own number 1 rule and becomes personally involved trying to clear him.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/sometimes/"
+  },
+  {
+    "epnum": "1x10",
+    "season": "1",
+    "title": "Right Neighborhood ... Wrong Door",
+    "slug": "right-neighborhood-wrong-door",
+    "airdate": "1993-12-02T20:00:00.000Z",
+    "rating": "3",
+    "summary": "Boy disappears in a grocery store. A rich accountant goes missing, and appears to have left the house in a hurry.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/rightdoor/"
+  },
+  {
+    "epnum": "1x11",
+    "season": "1",
+    "title": "How Hard Is It Just to Get Off at the Next Exit?",
+    "slug": "how-hard-is-it-just-to-get-off-at-the-next-exit",
+    "airdate": "1993-12-16T20:00:00.000Z",
+    "rating": "2",
+    "summary": "Boy missing for a year has been spotted. An express driver disappears. Johnny's dad, also a cop, gets shot. Robert gets an A on his mid-term.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/nextexit/"
+  },
+  {
+    "epnum": "1x12",
+    "season": "1",
+    "title": "If You Could Pick Your Own Parents",
+    "slug": "if-you-could-pick-your-own-parents",
+    "airdate": "1994-01-06T20:00:00.000Z",
+    "rating": "2",
+    "summary": "Elderly man missing, wife attempts suicide. Group plans a holiday party for the lieutenant. Jumper's body hasn't been found and no one's reported him missing. Boy reports his mom is missing.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/parents/"
+  },
+  {
+    "epnum": "1x13",
+    "season": "1",
+    "title": "I've Got a Siren",
+    "slug": "ive-got-a-siren",
+    "airdate": "1994-01-13T20:00:00.000Z",
+    "rating": "3",
+    "summary": "Connie helps a girl who is having a baby and is missing her boyfriend, while Bobby meets an actress who models herself on Lauren Bacall and has driven her husband away with her constant role-playing games.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/siren/"
+  },
+  {
+    "epnum": "1x14",
+    "season": "1",
+    "title": "My Beautiful Son is Okay",
+    "slug": "my-beautiful-son-is-okay",
+    "airdate": "1994-01-20T20:00:00.000Z",
+    "rating": "4",
+    "summary": "Johnny and Connie look for two little boys who went missing on their way home from school, while Bobby has the mysterious disappearance of a woman he met on a recent case on his hands. Carlos, Anita, Ray and Barbara spend the whole episode worrying about baby Carlito Ray who is sick.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/beautifulson/"
+  },
+  {
+    "epnum": "1x15",
+    "season": "1",
+    "title": "All They Had to Do Was Ask...",
+    "slug": "all-they-had-to-do-was-ask",
+    "airdate": "1994-02-03T20:00:00.000Z",
+    "rating": "4",
+    "summary": "Ray is shocked when he is told his ex-partner is being transferred into his department. Problem is she is female and rumours were rife that they were having an affair. Meanwhile a boy goes missing from party of schoolchildren on a museum tour.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/alltheyhadtodo/"
+  },
+  {
+    "epnum": "1x16",
+    "season": "1",
+    "title": "Tell Me You Didn't Do It ... I'll Go to the Wall for You",
+    "slug": "tell-me-you-didnt-do-it-ill-go-to-the-wall-for-you",
+    "airdate": "1994-02-10T20:00:00.000Z",
+    "rating": "4",
+    "summary": "Ellen is making her mark on the department, buying doughnuts, making coffee, and being paired with Bobby on a seemingly straightforward parolee disappearance. Until Bobby is framed.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/tellme/"
+  },
+  {
+    "epnum": "1x17",
+    "season": "1",
+    "title": "What Do You Want, a Signed Confession ... ?",
+    "slug": "what-do-you-want-a-signed-confession",
+    "airdate": "1994-02-17T20:00:00.000Z",
+    "rating": "2",
+    "summary": "Bobby is still under investigation for a suspected bribe and perverting the course of justice. Also a little girl is snatched in a department store.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/signed/"
+  }
+]}

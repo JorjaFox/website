@@ -1,0 +1,11 @@
+
+main:
+- name: Home
+  pageRef: /
+  weight: 10
+- name: News
+  pageRef: /blog
+  weight: 20
+- name: Library
+  pageRef: /library
+  weight: 30

@@ -1,0 +1,13 @@
+{{ $showslug := .Params.showslug }}
+{{ $eptitle  := .Title }}
+{{ $showname := (index .Site.Data.episodes .Params.showslug).showname }}
+{{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
+
+{{ range $episodes }}
+	{{ if eq .title $eptitle }}
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item"><a href="/library/actor/{{ $showslug }}-episodes/#season-{{.season}}">Season {{ .season }}</a>, Episode {{ .epnum }}{{ if .prodnum}} ({{ .prodnum }}){{ end }}</li>
+			<li class="list-group-item">{{ dateFormat "02 January 2006" .airdate }}</li>
+		</ul>
+	{{ end }}
+{{ end }}

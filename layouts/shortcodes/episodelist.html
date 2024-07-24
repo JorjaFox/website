@@ -1,0 +1,31 @@
+{{ $season   := .Get "season" }}
+{{ $show     := $.Page.Params.show }}
+{{ $episodes := (index .Site.Data.episodes $.Page.Params.show).episodes }}
+
+<table class="table table-borderless table-episodelist">
+	<thead class="table-secondary">
+		<tr>
+			<th scope="col">#</th>
+			<th scope="col">Title</th>
+			<th scope="col" style="width: 150px;">Airdate</th>
+			<th scope="col" style="width: 125px;">Rating</th>
+		</tr>
+	</thead>
+
+	<tbody>
+	{{ range where $episodes "season" "==" $season }}
+		{{ $goldstar := .rating }}
+		<tr class="table-success">
+			<th scope="row">{{ .epnum }}</th>
+			<th scope="row">{{ if .title }}"{{ if .slug }}<a href="/library/recaps/{{ $show }}/{{ .slug }}/">{{ end }}{{ .title }}{{ if .slug }}</a>{{ end }}"{{ else }}<em>TBD<em>{{ end }}</th>
+			<th scope="row">{{ if .airdate }}{{ .airdate | dateFormat "Jan 2, 2006" }}{{ $time := time .airdate }}{{ if and ( ge $time.Unix now.Unix ) ( not .summary ) }} <span class="link-danger">*</span>{{end}}{{ end }}</th>
+			<th scope="row"><center>{{ partial "episodelist-rating.html" (dict "context" . "rating" .rating) }}</center></th>
+		</tr>
+		<tr>
+			<td colspan="4">{{ if .summary }}{{ .summary }}{{ else }}<em>Coming Soon<em>{{ end }}</td>
+		</tr>
+	{{ end }}
+	</tbody>
+</table>
+
+<a class="btn btn-outline-success btn-block" href="#toc" role="button">Return to Top</a>

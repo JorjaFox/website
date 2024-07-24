@@ -1,0 +1,55 @@
+{{ $showslug := .Params.showslug }}
+{{ $showname := .Params.showname }}
+{{ $eptitle  := .Title }}
+{{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
+{{ $ep_array := slice }}
+{{ $i        := 0 }}
+{{ $this_ep  := 0 }}
+
+{{ $season := 1 }}
+
+{{ range $episodes }}
+	{{ $ep_array = $ep_array | append .title }}
+	{{ if eq .title $eptitle }}
+		{{ $this_ep = $i }}
+		{{ $season = .season }}
+	{{ end }}
+	{{ $i = (add $i 1) }}
+{{ end }}
+
+{{ if or ($this_ep) (eq $this_ep 0) }}
+	<div class="card-footer"><center>
+		<strong>Episode Chronology</strong>
+	</center></div>
+	<div class="card-body">
+		{{ if ge $i $this_ep }}
+			<ul class="list-group list-group-horizontal list-group-flush borderless">
+			{{ if ne $this_ep 0 }}
+				<!-- Previous Episode (ep 0 has no previous )-->
+				{{ $previousep := (sub $this_ep 1) }}
+				{{ $prev_name := index ($ep_array) $previousep }}
+				{{ range $episodes }}
+					{{ if eq $prev_name .title }}
+						<li class="list-group-item flex-fill borderless">&larr;&nbsp;<a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $prev_name }}</a></li>
+					{{ end }}
+				{{ end }}
+			{{ else }}
+				<li class="list-group-item flex-fill borderless"></li>
+			{{ end }}
+
+			{{ if ge $i $this_ep  }}
+				{{ $nextep     := (add $this_ep 1) }}
+				{{ $next_name  := index ($ep_array) $nextep }}
+				{{ range $episodes }}
+					{{ if eq $next_name .title }}
+						<li class="list-group-item flex-fill borderless"><a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $next_name }}</a>&nbsp;&rarr;</li>
+					{{ end }}
+				{{ end }}
+			{{ else }}
+				<li class="list-group-item flex-fill borderless"></li>
+			{{ end }}
+			</ul>
+		{{ end }}
+		<small><a href="/library/actor/{{ $showslug }}-episodes/#season-{{ $season }}">List of episodes</a></small>
+	</div>
+{{ end }}

@@ -1,0 +1,16 @@
+baseURL: "https://jorjafox.net/"
+languageCode: "en-us"
+title: "Fans of LeFox"
+subtitle: "A fansite celebrating the actor and activist, Jorja Fox"
+copyright: "Copyright Fans of LeFox © 1998-2024"
+
+contentDir: "content/posts"
+dataDir: "content/data"
+staticDir: "content/static"
+assetDir: "content/assets"
+
+pluralizelisttitles: "false"
+buildFuture: "true"
+summaryLength: 10
+enableRobotsTXT: true
+mainSections: [ "blog" ]

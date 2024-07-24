@@ -1,0 +1,18 @@
+<div class="col-sm-6">
+	<div class="card h-100">
+		<div class="card-body shadow">
+			<center>
+				<h5 class="card-title">{{ with .Get "link" }}<a href="{{ . }}">{{ end }}
+					{{ if .Get "icon" }}<div class="card-svg">{{ partial "svg" ( .Get "icon" ) }}</div>{{ end }}
+					{{ .Get "title" }}{{ if .Get "link" }}
+					{{ if and ( .Get "count" ) ( eq "true" ( .Get "count" ) ) }}
+						{{ $section := .Get "link" }}
+						{{ $counter := ( where .Site.RegularPages "Layout" $section ) }}
+						<span class="badge rounded-pill bg-success">{{ len $counter }}</span>
+					{{ end }}
+				</a>{{ end }}</h5>
+			</center>
+			{{ if .Get "content" }}<p class="card-text">{{ .Get "content" }}</p>{{ end }}
+		</div>
+	</div>
+</div>

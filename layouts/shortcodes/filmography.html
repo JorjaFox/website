@@ -1,0 +1,49 @@
+{{ $role := .Get "type" }}
+{{ $company := .Get "company" }}
+{{ $showtoc := .Get "showtoc" }}
+
+{{ if .Get "company" }}
+&nbsp;
+	<ol class="list-group">
+		{{ range $.Page.Site.Data.filmography }}
+			{{ if eq $company .company }}
+				<div class="fw-bold">
+					<li class="list-group-item"><a href="/library/{{ .role }}/{{ .slug }}">{{ .title }}</a></li>
+				</div>
+			{{ end }}
+		{{ end }}
+	</ol>
+&nbsp;
+{{ else }}
+	<table class="table table-striped" width="100%">
+	<thead class="table-success table-borderless">
+		<tr>
+			<th> Title </th>
+			<th> Date(s)</th>
+		</tr>
+	</thead>
+	<tbody>
+	{{ range $.Page.Site.Data.filmography }}
+
+		{{ if eq $role .role }}
+
+			<tr>
+				<td><strong>{{ if .slug }}<a href="/library/{{ $role }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }}) {{ if .onair }}<span class="badge bg-info text-dark">On Air</span>{{ end }}
+					{{ if .character }}<br /><strong>{{ .character }}</strong> {{ if .jorjan }}<small>[Credited as Jorjan Fox]</small>{{ end }}{{ end }}
+					{{ if .notes }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
+				</td>
+				<td valign="top">{{ .dates }}</td>
+			</tr>
+
+		{{ end }}
+
+	{{ end }}
+
+	</tbody></table>
+
+{{ end }}
+
+{{ if and (not .Params.notoc) (ne $showtoc "false") }}
+<br />
+<center><a class="btn btn-success" href="#toc">Return to Top</a></center>
+{{ end }}

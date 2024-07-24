@@ -1,0 +1,3 @@
+{{ $section := .Get 0 }}
+{{ $counter := (where .Site.RegularPages "Section" $section ) }}
+({{ len $counter }})

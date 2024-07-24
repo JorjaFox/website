@@ -1,0 +1,40 @@
+---
+id: 12728
+title: 'CSI&#8217;s Ratings Went Up!'
+date: '2015-01-29T12:00:02-08:00'
+author: 'Mika E. (Ipstenu)'
+excerpt: 'CSI''s ratings for the special Tuesday episode were good. Damn good.'
+layout: post
+guid: 'https://jorjafox.net/?p=12728'
+permalink: /2015/csis-ratings-up/
+astra_style_timestamp_css:
+    - '1634357144'
+image: 'https://static.jorjafox.net/wordpress/2015/01/B8ihIylCYAARnKd.jpg'
+categories:
+    - 'Jorja Fox'
+tags:
+    - article
+    - csi
+    - tv
+---
+
+You know I don't normally post about ratings. Since <em>CSI</em> has been pretty iffy for a renewal (I still think it'll get at least a 'final season'), it was really gratifying to see how much the ratings went up.
+
+https://twitter.com/CBSTVStudios/status/560492813398196224
+
+So what are the numbers? From <a href="http://tvline.com/2015/01/28/csi-season-15-ratings-high/">TV|Line</a>:
+
+<blockquote>Leading out of an <em>NCIS: New Orleans</em> rerun (11.6 mil/1.6), a special broadcast of <em>CSI</em> on Tuesday drew 10.3 million total viewers and a 1.6 demo rating, up 24 and 33 percent from its Sunday double-pump to hit Season 15 highs in both measures.</blockquote>
+
+Two things to note that I feel are important.
+
+<ol>
+	<li>This was behind a repeat episode of <em>NCIS</em> and <em>NCIS:NOLA</em> (a new show)</li>
+	<li>This was with not a whole lot of advertising</li>
+</ol>
+
+If you didn't watch <em>CSI</em> you probably wouldn't have known it was on in advance, which means a high number of people who watched were people who stuck around after <em>NCIS/NCIS:NOLA</em>'s reruns.
+
+Without DVR adjustments, <em>NCIS</em> was 12.89 mill/1.6, <em>NCIS:NOLA</em> was 11.72 mill/1.6, and <em>CSI</em> was a 10.38mil/1.6. That's ... actually really good. In general, <em>CSI</em> does pretty well with DVR adjustments (see <a href="http://tvbythenumbers.zap2it.com/2015/01/12/csi-has-biggest-adults-18-49-viewership-increases-in-live-7-ratings-for-week-14-ending-december-28/349265/">Zap2It's report</a>), though that doesn't factor much into renewals.
+
+Does this mean <em>CSI</em> will be back? I wish I knew. I think it certainly shows it has an audience and, on a weeknight, it's still popular in <em>Person of Interest</em>'s normal slot.

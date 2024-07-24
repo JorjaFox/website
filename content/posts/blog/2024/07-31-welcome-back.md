@@ -1,0 +1,18 @@
+---
+title: Welcome Back!
+date: 2024-07-31
+author: Mika E. (Ipstenu)
+description: "What happened to everything!? Don't panic!"
+---
+
+I'm sure you're all wondering what happened.
+
+In recent years, the question of legality of screenshots (and videos and other images) has been a sticking point with various places. It's never been more 'the rage' than today to send out cease&desists or DMCA takedown notices. The whole reason all advertising vanished from the site was to try and stay on the clear and safe side of good.
+
+Regrettably this did not last.
+
+In order to prevent the site from being taken down, the gallery had to go. Since so many old blog posts included gallery information, they too had to be (for now at least) hidden.
+
+This move is a fast step one to keep the site up and running. So far, the news articles seem okay but that is to be seen. Since they all link back to the originals, and I didn't copy any of the images, that appears to be safe.
+
+What's next? Well, I've ported over everything I could, and I've simplified the hell out of the site to keep it lean and fast. I'm going to be trying to bring over the old blog posts over time. The gallery? Unlikely to return. Sorry. I do have it all saved locally though!

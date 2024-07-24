@@ -1,0 +1,65 @@
+{
+"show" : "west-wing",
+"showname": "The West Wing",
+"episodes": [
+  {
+    "epnum": "16",
+    "season": "1",
+    "title": "20 Hours in LA",
+    "slug": "20-hours-in-la",
+    "airdate": "2000-02-23T22:00:00.000Z",
+    "summary": "During a quick trip to L.A., Bartlet meets his daughter's new Secret Service agent and attends a fund-raiser at the home of a movie executive.",
+    "rating": "3",
+    "gallerylink": "https://jorjafox.net/gallery/tv/westwing/season01/20hours/"
+  },
+  {
+    "epnum": "17",
+    "season": "1",
+    "title": "The White House Pro-Am",
+    "slug": "the-white-house-pro-am",
+    "airdate": "2000-03-22T22:00:00.000Z",
+    "summary": "Diplomacy figures into how best to advise the First Lady on some actions; hate mail prompts the President to ask his daughter to cancel a date.",
+    "rating": "2",
+    "gallerylink": "https://jorjafox.net/gallery/tv/westwing/season01/proam/"
+  },
+  {
+    "epnum": "18",
+    "season": "1",
+    "title": "Six Meetings before Lunch",
+    "slug": "six-meetings-before-lunch",
+    "airdate": "2000-04-05T22:00:00.000Z",
+    "summary": "The President's daughter is questioned by a writer about a party she attended; Josh discusses monetary reparations for descendants of slaves.",
+    "rating": "4",
+    "gallerylink": "https://jorjafox.net/gallery/tv/westwing/season01/sixmeetings/"
+  },
+  {
+    "epnum": "22",
+    "season": "1",
+    "title": "What Kind of Day has it Been",
+    "slug": "what-kind-of-day-has-it-been",
+    "airdate": "2000-05-17T22:00:00.000Z",
+    "summary": "While Bartlet gets ready for a town-hall meeting with college students, several staff members are concerned about a downed U.S. plane in the Iraqi desert.",
+    "rating": "4",
+    "gallerylink": "https://jorjafox.net/gallery/tv/westwing/season01/kindofday/"
+  },
+  {
+    "epnum": "1",
+    "season": "2",
+    "title": "In the Shadow of Two Gunmen: Part I",
+    "slug": "in-the-shadow-of-two-gunmen-i",
+    "airdate": "2000-10-04T22:00:00.000Z",
+    "summary": "Part 1 of two. The Bartlet administration is in chaos---an assassination attempt has left the White House (not to mention the country) reeling. Who was hit? Was anyone killed? Who did it? And why? The episode includes flashbacks detailing how the administration came to be. Oh, and one more thing: there's a downed fighter pilot in Iraq.",
+    "rating": "3",
+    "gallerylink": "https://jorjafox.net/gallery/tv/westwing/season02/shadow1/"
+  },
+  {
+    "epnum": "2",
+    "season": "2",
+    "title": "In the Shadow of Two Gunmen: Part II",
+    "slug": "in-the-shadow-of-two-gunmen-ii",
+    "airdate": "2000-10-04T22:00:00.000Z",
+    "summary": "Conclusion. As the Bartlet administration deals with the shooting (and with Josh still not out of the woods), flashbacks recall how the staff made it to the West Wing.",
+    "rating": "0",
+    "gallerylink": "https://jorjafox.net/gallery/tv/westwing/season02/shadow2/"
+  }
+]}

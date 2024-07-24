@@ -1,8 +1,10 @@
 ---
 title: Welcome Back!
 date: 2024-07-24
-author: Mika E. (Ipstenu)
+authorname: "Mika E. (Ipstenu)"
 description: "What happened to everything!? Don't panic!"
+layout: post
+tags: ["Announcement"]
 thumbnail:
     url: /img/blog/4344878104_5b22de25b1_h.jpg
     originURL: https://www.flickr.com/photos/90371939@N00/4344878104

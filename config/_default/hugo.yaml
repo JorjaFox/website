@@ -24,3 +24,9 @@ minify:
       version: 2022
     html:
       keepWhitespace: true
+
+taxonomies:
+  author: "authors"
+  category: "categories"
+
+disableKinds: ["taxonomy"]

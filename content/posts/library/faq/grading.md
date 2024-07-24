@@ -2,7 +2,7 @@
 title: Grading
 categories: ["FAQ"]
 tags: ["website"]
-layout: single
+layout: library
 whichtoc: toc_faq.html
 ---
 

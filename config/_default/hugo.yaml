@@ -14,3 +14,7 @@ buildFuture: "true"
 summaryLength: 10
 enableRobotsTXT: true
 mainSections: [ "blog" ]
+
+minify:
+  minify.tdewolff.html:
+    keepWhitespace: true

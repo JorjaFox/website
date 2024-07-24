@@ -1,7 +1,7 @@
 ---
 title: Recaps
 author: "Mika A. Epstein"
-layout: single
+layout: library
 permalink: /recaps/
 categories: ["Recaps"]
 tags: [Index]

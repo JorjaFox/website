@@ -8,4 +8,8 @@ pkg/
 .DS_Store
 public/*
 node_modules/*
+/_vendor
+/public
+resources/
+node_modules/
 .hugo_build.lock

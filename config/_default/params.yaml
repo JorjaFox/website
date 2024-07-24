@@ -10,3 +10,11 @@ navigation:
 
 favicon:
   logo: "/img/favicon.png"
+
+home:
+  sections: [ "blog" ]
+  feature:
+    width: 4
+
+externalLinks:
+  cue: true

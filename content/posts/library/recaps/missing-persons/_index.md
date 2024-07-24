@@ -2,7 +2,7 @@
 title: "Missing Persons Episodes"
 author: "Mika A. Epstein"
 redirectto: "/actor/missing-persons-episodes/"
-layout: single
+layout: library
 ---
 
 <html>

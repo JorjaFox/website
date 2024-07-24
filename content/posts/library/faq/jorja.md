@@ -2,7 +2,7 @@
 title: About Jorja Fox
 categories: ["FAQ"]
 tags: ["jorja fox"]
-layout: single
+layout: library
 whichtoc: toc_faq.html
 ---
 

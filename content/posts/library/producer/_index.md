@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: library
 title: "Producer"
 author: "Mika A. Epstein"
 permalink: /producer/

@@ -2,7 +2,7 @@
 title: "The West Wing Episodes"
 author: "Mika A. Epstein"
 redirectto: "/actor/west-wing-episodes/"
-layout: single
+layout: library
 ---
 
 <html>

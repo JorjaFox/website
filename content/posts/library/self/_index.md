@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: library
 title: "As Seen As Self"
 author: "Mika A. Epstein"
 permalink: /self/

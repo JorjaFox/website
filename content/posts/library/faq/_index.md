@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 author: "Mika A. Epstein"
-layout: single
+layout: library
 permalink: /faq/
 categories: ["FAQ"]
 tags: ["index"]

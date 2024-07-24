@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: library
 title: "Actor"
 author: "Mika A. Epstein"
 permalink: /actor/

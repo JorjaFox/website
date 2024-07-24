@@ -2,7 +2,7 @@
 title: About Jorja Fox's Career
 categories: ["FAQ"]
 tags: ["jorja fox", "career"]
-layout: single
+layout: library
 whichtoc: toc_faq.html
 ---
 

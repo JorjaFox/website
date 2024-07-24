@@ -2,10 +2,6 @@
 title: About Us
 date: '2015-10-01'
 author: 'Mika E. (Ipstenu)'
-actions:
-  about:
-    url: "about"
-    title: "About"
 ---
 
 **Fans of Lefox** (formerly "A Jorja Fox Fansite", formerly "Jorja Fox: Online") has been serving the internet since 1996 with the goal of being a one stop-shop for information about the actress, musician, playwright and producer, Jorja Fox. Jorja Fox is an actress, producer, humanitarian, activist and environmentalist. She has been seen on such hit TV shows as _CSI: Crime Scene Investigation_, _ER_, _The West Wing_ and _Law &amp; Order_, as well as indie movies like Memento and Food for the Heart.

@@ -2,7 +2,7 @@
 title: "CSI: Crime Scene Investigation Episodes"
 author: "Mika A. Epstein"
 redirectto: "/actor/csi-episodes/"
-layout: single
+layout: library
 ---
 
 <html>

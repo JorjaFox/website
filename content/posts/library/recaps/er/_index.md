@@ -2,7 +2,7 @@
 title: "ER Episodes"
 author: "Mika A. Epstein"
 redirectto: "/actor/er-episodes/"
-layout: single
+layout: library
 ---
 
 <html>

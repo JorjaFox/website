@@ -37,10 +37,10 @@ tags:
     - video
 ---
 
-<strong>Airdate:</strong> Oct 29th
+**Airdate:** Oct 29th
 
-<strong>Information:</strong>
-After a beloved college football coach is found dead and his house drenched and spattered with his blood, the CSI team hunts for the killer who didn't find Coach Jimmy lovable at all. 
+**Information:**
+After a beloved college football coach is found dead and his house drenched and spattered with his blood, the CSI team hunts for the killer who didn't find Coach Jimmy lovable at all.
 
-<strong>Video:</strong>
+**Video:**
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/1GJYHUZK3Nw&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1GJYHUZK3Nw&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>

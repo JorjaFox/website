@@ -3,7 +3,7 @@ id: 2138
 title: 'CSI in Paris? Could it be&#8230;?'
 date: '2009-12-01T14:32:35-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Breaking rumors. None of this is 100% confirmed yet, and Jorja <strong>has not</strong> been seen in Paris.'
+excerpt: 'Breaking rumors. None of this is 100% confirmed yet, and Jorja **has not** been seen in Paris.'
 layout: post
 guid: 'https://jorjafox.net/?p=2138'
 permalink: /2009/csi-in-paris-could-it-be/

@@ -39,6 +39,6 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/01/vlcsnap-00001-230x172.jpg" alt="vlcsnap-00001" title="vlcsnap-00001" width="100" height="75" style="float:left;margin:5px;" /> About a million years ago (1990), back when Jorja was known as Jorjan Fox, big hair was in, and a struggling young actress got a break on a sitcom called <em><a href="https://jorjafox.net/wiki/Nineteen">Nineteen</a></em>.  How rare is this show? IMDb doesn't have it listed.  The video quality is terrible, but it's from 1990, so what do you expect?
 
-Many thanks to her costar, <a href="http://www.noahleemargetts.com/">Noah Lee Margetts</a> for putting videos up of their scenes, but also to fan <strong>joye25</strong>, who sent me the link!
+Many thanks to her costar, <a href="http://www.noahleemargetts.com/">Noah Lee Margetts</a> for putting videos up of their scenes, but also to fan **joye25**, who sent me the link!
 
 <lj -cut text="Video Below the Cut"><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/erj_Znx3_4M&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/erj_Znx3_4M&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></lj>

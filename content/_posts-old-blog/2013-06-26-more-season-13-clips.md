@@ -22,14 +22,14 @@ tags:
 
 We're not done yet! Here are some more season 13 video clips from CBS.
 
-<strong>Wild Flowers</strong>
+**Wild Flowers**
 
 http://www.cbs.com/shows/csi/video/FSwrnvhNPqh69g7W3hepsGOCmKvcmP_r/csi-wasted-youth/
 
-<strong>In Vino Veritas</strong>
+**In Vino Veritas**
 
 http://www.cbs.com/shows/csi/video/CjtQYHndxM_Ghvr7pS3MPvpJvVow0YGw/csi-a-prime-suspect/
 
-<strong>Ghost of the Past</strong> (start around 1:07)
+**Ghost of the Past** (start around 1:07)
 
 http://www.cbs.com/shows/csi/video/7219C17F-3761-1BC4-D56B-86B481BF557A/csi-the-kill-room/

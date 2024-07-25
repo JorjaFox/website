@@ -1,6 +1,6 @@
 ---
 id: 1653
-title: 'Did George Eads call Jorja a &#8216;diva&#8217;?'
+title: 'Did George Eads call Jorja a &#8216;diva'?'
 date: '2009-03-04T12:26:55-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'In an interview about CSI, and the changing times, George Eads spoke, perhaps a little too candidly, about his former co-stars, and how things were on the set.'
@@ -40,4 +40,4 @@ tags:
 But then he dropped this bombshell:
 <blockquote>I miss Jorja, but having [Lauren Lee Smith] here, not being a diva, not being insecure, just doing a good job and being a really sweet person … We're lucky to have [her].</blockquote>
 
-Clearly a lot of this is open to interpenetration, but questions <strong>5, 6, 8 and 9</strong> are fairly eye-brow raising.  Read the whole article at aol.com and form your own opinions: <a href="http://television.aol.com/insidetv/2009/03/03/14-questions-with-george-eads/">14 Questions With: George Eads</a>
+Clearly a lot of this is open to interpenetration, but questions **5, 6, 8 and 9** are fairly eye-brow raising.  Read the whole article at aol.com and form your own opinions: <a href="http://television.aol.com/insidetv/2009/03/03/14-questions-with-george-eads/">14 Questions With: George Eads</a>

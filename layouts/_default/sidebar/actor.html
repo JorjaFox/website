@@ -31,6 +31,8 @@
 {{ $jorjan := $showdata.Get "jorjan" }}
 {{ $watch := $showdata.Get "watch" }}
 
+{{ $thumbnail := .Params.image | default "/img/placeholder.png" }}
+
 {{ $class := "rounded" }}
 
 <!-- Excerpt/Details -->
@@ -40,7 +42,10 @@
         <div class="card-header">
             <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>
             <h6 class="text-center">{{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}</h6>
-            <img src="{{ .Params.image | default "/img/placeholder.png" }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail card-img-top">
+            {{- if $thumbnail -}}
+                {{- partial "assets/image.html" (dict "url" $thumbnail "title" $character "ratio" "1x1" "class" "rounded-5") -}}
+            {{ end }}
+
         </div>
             <ul class="list-group list-group-flush actor-list-group">
                 {{ if $year }}<li class="list-group-item">{{ $year }}</li>{{ end }}

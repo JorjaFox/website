@@ -1,6 +1,6 @@
 ---
 id: 14377
-title: 'Jorja&#8217;s Experiment Day 1: Hug a Family Member'
+title: 'Jorja's Experiment Day 1: Hug a Family Member'
 date: '2017-04-17T14:36:56-07:00'
 author: 'JF Guest Author'
 excerpt: 'Hug a family member.'

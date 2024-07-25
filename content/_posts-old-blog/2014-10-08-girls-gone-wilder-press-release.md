@@ -1,6 +1,6 @@
 ---
 id: 11356
-title: '&#8220;Girls Gone Wilder&#8221; Press Release'
+title: '"Girls Gone Wilder" Press Release'
 date: '2014-10-08T04:01:34-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A relaxing getaway at a forensics conference? Man, mine are never like this!'

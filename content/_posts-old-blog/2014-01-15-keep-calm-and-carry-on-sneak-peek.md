@@ -1,6 +1,6 @@
 ---
 id: 9713
-title: '&#8220;Keep Calm and Carry-On&#8221; Sneak Peek'
+title: '"Keep Calm and Carry-On" Sneak Peek'
 date: '2014-01-15T08:25:24-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sneak Peek with Nick and Sara and a suspect for tonight''s episode!'

@@ -1,6 +1,6 @@
 ---
 id: 3088
-title: 'CSI 11&#215;14: &#8220;All That Cremains&#8221; promo video'
+title: 'CSI 11&#215;14: "All That Cremains" promo video'
 date: '2011-02-05T19:00:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Another week and another CSI with Jorja! They''re keeping us busy in February with special guest star Katee Sackhoff!'

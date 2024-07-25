@@ -20,7 +20,7 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2011/02/adi-pledge-100x100.jpg" alt="" title="adi-pledge" width="100" height="100" class="alignleft size-thumbnail wp-image-3080" />The actual title is kind of perfect.
 
-<strong>Bob Barker, Jorja Fox and a Pride of Celebrities Pledge Their Support to ADI’s Record Breaking Lion Rescue, Urging People to Give to the Appeal</strong>
+**Bob Barker, Jorja Fox and a Pride of Celebrities Pledge Their Support to ADI’s Record Breaking Lion Rescue, Urging People to Give to the Appeal**
 
 We all know Jorja's hugely incolved in protect the lions, get them out of the circus and into some place safe.  Well, ADI has 25 more lions and they need more help to get them here, and finish building their 80 acre sanctuary! Here's what Jorja had to say:
 

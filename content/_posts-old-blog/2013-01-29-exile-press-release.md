@@ -1,6 +1,6 @@
 ---
 id: 6232
-title: '&#8220;Exile&#8221; Press Release'
+title: '"Exile" Press Release'
 date: '2013-01-29T14:35:12-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Wednesday the 13th is unlucky for the sister of a famous Cuban singer. Will it also prove the end of Hodges'' engagement? Check out the all new CSI on February 13.'

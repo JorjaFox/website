@@ -1,6 +1,6 @@
 ---
 id: 9370
-title: '&#8220;Girls Gone Wild&#8221; Press Release'
+title: '"Girls Gone Wild" Press Release'
 date: '2013-11-18T14:39:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A spa weekend leads to a murder? Must be another new CSI!'

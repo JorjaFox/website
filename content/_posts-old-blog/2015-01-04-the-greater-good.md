@@ -1,6 +1,6 @@
 ---
 id: 11802
-title: '&#8220;The Greater Good&#8221; Discussion Post'
+title: '"The Greater Good" Discussion Post'
 date: '2015-01-04T13:00:11-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The Gig Harbor killer released from jail due to lack of evidence? Not so fast! Watch an all new CSI tonight on CBS.'
@@ -19,7 +19,7 @@ tags:
     - video
 ---
 
-<strong>Press Release</strong>
+**Press Release**
 
 <blockquote>THE CSI TEAM LEARNS THE MAIN SUSPECT IN THE GIG HARBOR KILLINGS IS BEING RELEASED FROM JAIL DUE TO LACK OF EVIDENCE, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, JAN. 4
 
@@ -32,7 +32,7 @@ Guest Stars Include Mark-Paul Gosselaar as Twins Jared Briscoe and Paul Winthro
 CHEAT TWEET:  The Gig Harbor killer released from jail due 2 lack of evidence? #NotSoFast The #CSI team investigates. 1/4 10pm ET/PT http://bit.ly/12Y1lwG</blockquote>
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=41510">CBS Press Express</a>
 
-<strong>Videos</strong>
+**Videos**
 
 <a href="http://www.cbs.com/shows/csi/video/66381025-114F-D2B2-A101-84E46E324DC6/csi-the-greater-good-preview-/">Preview on CBS.com</a>
 

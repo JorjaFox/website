@@ -1,6 +1,6 @@
 ---
 id: 11461
-title: '&#8220;Girls Gone Wilder&#8221; Photos'
+title: '"Girls Gone Wilder" Photos'
 date: '2014-10-23T02:42:23-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promotional photos from "Girls Gone Wilder"'

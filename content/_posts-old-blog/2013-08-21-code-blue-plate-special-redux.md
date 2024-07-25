@@ -1,6 +1,6 @@
 ---
 id: 7598
-title: '&#8220;Code Blue Plate Special&#8221; Redux'
+title: '"Code Blue Plate Special" Redux'
 date: '2013-08-21T08:00:45-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Is the food at the CSIs’ favorite diner so bad that 8 people lost their lives? Watch a repeat on the 21st.'

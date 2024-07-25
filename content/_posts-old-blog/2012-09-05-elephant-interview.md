@@ -1,6 +1,6 @@
 ---
 id: 5135
-title: '&#8220;How I Became an Elephant&#8221; Interview with Jorja'
+title: '"How I Became an Elephant" Interview with Jorja'
 date: '2012-09-05T13:27:31-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja talked to Hudson Valley Good Stuff about "How I Became an Elephant" as well as the Hudson Valley.'

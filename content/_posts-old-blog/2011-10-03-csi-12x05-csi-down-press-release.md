@@ -1,6 +1,6 @@
 ---
 id: 3857
-title: 'CSI 12&#215;05 &#8220;CSI Down&#8221; Press Release'
+title: 'CSI 12&#215;05 "CSI Down" Press Release'
 date: '2011-10-03T15:35:27-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s revenge of Choppy the Helicopter from ER!  Wait, no, it''s a hijacked medevac helicopter with CSI Morgan Brody aboard, coming October 19th.'
@@ -22,7 +22,7 @@ tags:
 
 <blockquote>10.03.2011
 
-<strong>THE CSI TEAM SEARCHES FOR A HIJACKED MEDEVAC HELICOPTER WITH CSI BRODY ABOARD, ON "CSI: CRIME SCENE INVESTIGATION," WEDNESDAY, OCT. 19</strong>
+**THE CSI TEAM SEARCHES FOR A HIJACKED MEDEVAC HELICOPTER WITH CSI BRODY ABOARD, ON "CSI: CRIME SCENE INVESTIGATION," WEDNESDAY, OCT. 19**
 
 CHEAT TWEET: Why was the medevac helicopter hijacked and what does the hijacker want from one of the CSIs? 10/19 10pm ET/PT #CSI http://bit.ly/n37vvz
 

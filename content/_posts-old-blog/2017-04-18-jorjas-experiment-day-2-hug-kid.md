@@ -1,6 +1,6 @@
 ---
 id: 14386
-title: 'Jorja&#8217;s Experiment Day 2: Hug a Kid'
+title: 'Jorja's Experiment Day 2: Hug a Kid'
 date: '2017-04-18T21:03:16-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja''s ongoing spring experiment. Hug a kid.'

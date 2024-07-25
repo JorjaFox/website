@@ -1,6 +1,6 @@
 ---
 id: 8773
-title: 'CableTV.com Interview &#8211; Transcribed'
+title: 'CableTV.com Interview — Transcribed'
 date: '2013-10-15T08:30:21-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"Honestly, if I wasn''t so exhausted, I absolutely would have."'

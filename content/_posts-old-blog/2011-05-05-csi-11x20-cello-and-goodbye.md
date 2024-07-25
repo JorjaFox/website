@@ -1,6 +1,6 @@
 ---
 id: 3308
-title: 'CSI 11&#215;21 &#8220;Cello and Goodbye&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;21 "Cello and Goodbye" Discussion Post (Updated)'
 date: '2011-05-05T10:25:25-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s the 250th episode of CSI and it''s Haskell''s last stand. <em>Updated 11pm ET</em>'
@@ -40,4 +40,4 @@ Well. That was interesting.  Sara and the science were fun, and Morgan Brody (ne
 &bull; <a href="https://jorjafox.net/wiki/Cello_and_Goodbye">Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/season11/celloandgoodbye">Screencaps</a>
 
-[starrater] 
+[starrater]

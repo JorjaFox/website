@@ -1,6 +1,6 @@
 ---
 id: 4654
-title: 'More Old Photos &#8211; CSI and More'
+title: 'More Old Photos — CSI and More'
 date: '2012-06-10T14:00:45-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Some older photos you''ve never seen, and some in better quality, from Seasons one and two of CSI, plus extras!'
@@ -22,21 +22,21 @@ tags:
 
 It's slow, so I'm going through my old photos, checking to make sure I don't already have them, and uploading. It's moments like this where I think I should have organized things differently.
 
-<strong><a href="https://jorjafox.net/gallery/awards/pub/20040919-emmy/">2004 Emmys</a></strong>
+**<a href="https://jorjafox.net/gallery/awards/pub/20040919-emmy/">2004 Emmys</a>**
 
 <a title="Emmy Awards (2004)" href="https://jorjafox.net/gallery/awards/pub/20040919-emmy/csi-stars.jpg"><img src="https://jorjafox.net/gallery/cache/awards/pub/20040919-emmy/csi-stars_200_cw200_ch200_thumb.jpg" alt="Emmy Awards (2004)" width="75" height="75" /></a>
 
-<strong><a href="https://jorjafox.net/gallery/pub/csi/20060716-cbspt/">2006 CBS Press Tour</a></strong>
+**<a href="https://jorjafox.net/gallery/pub/csi/20060716-cbspt/">2006 CBS Press Tour</a>**
 
 <a title="SUMMER 2006 CBS PRESS TOUR" href="https://jorjafox.net/gallery/pub/csi/20060716-cbspt/cbs-presstour010.jpg"><img src="https://jorjafox.net/gallery/zp-core/i.php?a=pub/csi/20060716-cbspt&amp;i=cbs-presstour010.jpg&amp;s=75&amp;c=1&amp;cw=75&amp;ch=75&amp;q=50&amp;t=1&amp;wmk=!" alt="SUMMER 2006 CBS PRESS TOUR" width="75" height="75" /></a>
 
-<strong><a href="https://jorjafox.net/gallery/tv/csi/pub/s01/">CSI Season One</a></strong>
+**<a href="https://jorjafox.net/gallery/tv/csi/pub/s01/">CSI Season One</a>**
 
 I know, you think you've seen 'em, but I've never had them in high quality.
 
 <a title="' CSI: CRIME SCENE INVESTIGATION.'" href="https://jorjafox.net/gallery/tv/csi/pub/s01/10271161.jpg"><img src="https://jorjafox.net/gallery/zp-core/i.php?a=tv/csi/pub/s01&amp;i=10271161.jpg&amp;s=75&amp;c=1&amp;cw=75&amp;ch=75&amp;q=50&amp;t=1&amp;wmk=!" alt="' CSI: CRIME SCENE INVESTIGATION.'" width="75" height="75" /></a> <a href="https://jorjafox.net/gallery/tv/csi/pub/s01/10271173.jpg"><img src="https://jorjafox.net/gallery/zp-core/i.php?a=tv/csi/pub/s01&amp;i=10271173.jpg&amp;s=75&amp;c=1&amp;cw=75&amp;ch=75&amp;q=50&amp;t=1&amp;wmk=!" alt="' CSI: CRIME SCENE INVESTIGATION.'" width="75" height="75" /></a>
 
-<span style="color: #000000;"><strong><a href="https://jorjafox.net/gallery/tv/csi/pub/s02">CSI Season Two</a></strong></span>
+<span style="color: #000000;">**<a href="https://jorjafox.net/gallery/tv/csi/pub/s02">CSI Season Two</a>**</span>
 
 Ditto Season One.
 

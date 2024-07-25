@@ -35,4 +35,4 @@ I don't pretend to understand why people do this, but they do. So please, block 
 
 If you're someone who makes those accounts and you're reading this, please stop. Change your profile to say you're a <em>fan</em> account and not 'official.' The word 'official' means that you are the person or company, and you clearly are not. We can tell. All you're doing is making the world a less pleasant place.
 
-<i>[Edited: Someone asked if I keep track of all this, and I do: <a href="https://jorjafox.net/content/haters/">https://jorjafox.net/content/haters/</a>]</i>
+_[Edited: Someone asked if I keep track of all this, and I do: <a href="https://jorjafox.net/content/haters/">https://jorjafox.net/content/haters/</a>]_

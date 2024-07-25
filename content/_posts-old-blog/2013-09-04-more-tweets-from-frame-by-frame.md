@@ -1,6 +1,6 @@
 ---
 id: 8127
-title: 'More Tweets from &#8220;Frame by Frame&#8221;'
+title: 'More Tweets from "Frame by Frame"'
 date: '2013-09-04T18:38:04-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Lunch with Marg and the gang? Why not!'

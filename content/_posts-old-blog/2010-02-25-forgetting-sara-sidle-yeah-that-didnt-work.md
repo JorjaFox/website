@@ -1,6 +1,6 @@
 ---
 id: 2275
-title: 'Forgetting Sara Sidle?  Yeah, That Didn&#8217;t Work'
+title: 'Forgetting Sara Sidle?  Yeah, That Didn't Work'
 date: '2010-02-25T18:11:55-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Today reporter Genevieve Loh called Jorja ''Sara'', and learned she''s not the only one who had a hard time forgetting the character.'
@@ -31,4 +31,4 @@ If, at the end of the day, you think you're the only one who gets Sara Sidle stu
 
 "And it'll be something that I might have bought when I was Sara, for sure," Fox revealed. </blockquote>
 
-Check out the full article at <strong>Today Online</strong>.
+Check out the full article at **Today Online**.

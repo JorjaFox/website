@@ -1,6 +1,6 @@
 ---
 id: 4586
-title: 'CSI 12&#215;21 &#8220;Dune and Gloom&#8221; Preview'
+title: 'CSI 12&#215;21 "Dune and Gloom" Preview'
 date: '2012-05-01T18:11:37-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A preview of tomorrow''s CSI, with Jorja and Eric.'

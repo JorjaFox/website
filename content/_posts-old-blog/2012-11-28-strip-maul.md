@@ -1,6 +1,6 @@
 ---
 id: 5975
-title: '&#8220;Strip Maul&#8221; Discussion Post'
+title: '"Strip Maul" Discussion Post'
 date: '2012-11-28T07:06:37-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The team finds a John Doe on the strip and what is Brass’ daughter doing in Vegas? #CSI'
@@ -19,7 +19,7 @@ tags:
     - video
 ---
 
-<strong><a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/candid/jennyr-002.jpg"><img class="alignleft size-medium wp-image-5995" title="Strip Maul" src="//static.jorjafox.net/wordpress/2012/11/stripmaul-disc-276x140.jpg" alt="Strip Maul" width="276" height="140" /></a>Official Release</strong>
+**<a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/candid/jennyr-002.jpg"><img class="alignleft size-medium wp-image-5995" title="Strip Maul" src="//static.jorjafox.net/wordpress/2012/11/stripmaul-disc-276x140.jpg" alt="Strip Maul" width="276" height="140" /></a>Official Release**
 
 The CSI team lends a hand to local law enforcement on the strip with several arrests until a John Doe is found in a car. Also, things become personal for Captain Brass when he discovers some facts about his daughter.
 
@@ -27,7 +27,7 @@ The CSI team lends a hand to local law enforcement on the strip with several arr
 
 <a href="https://jorjafox.net/gallery/tv/csi/pub/s13/candid/jennyr-002.jpg">One more candid, from Jenny R</a>
 
-<strong>Video</strong>
+**Video**
 
 https://vimeo.com/54070357
 

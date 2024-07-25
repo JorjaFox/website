@@ -26,7 +26,7 @@ NO DATA WAS LOST.
 
 Seriously. I took backups, good ones, this time.  I'm 100% confident I can rollback if this all goes to hell and back.
 
-If you have questions, or see something weird, let me know but <strong>before </strong>you do, try this:
+If you have questions, or see something weird, let me know but **before **you do, try this:
 <ol>
 	<li><a href="http://www.wikihow.com/Clear-Your-Browser%27s-Cookies">Erase your browser cookies for jorjafox.net</a><br />If you don't remember your password, that's okay, you can ask the happy system for a password reset.</li>
 	<li><a href="http://www.wikihow.com/Clear-Your-Browser%27s-Cache">Clear your browser's cache</a><br />This probably won't need to happen, but it's useful anyway.</li>

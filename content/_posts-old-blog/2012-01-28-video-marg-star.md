@@ -22,7 +22,7 @@ tags:
 
 There's just a lot going on between Marg's star and her leaving, so this is a round up for the weekend!
 
-<strong>Marg's Star</strong>
+**Marg's Star**
 
 This is a fan's video, and he put music over it, but this is what the monsoon was like:
 
@@ -38,7 +38,7 @@ And another!
 
 There's a <a href="http://allaboutmarg.com/wordp/?page_id=21416">transcript of Marg's speech up at AAM</a>, and I'll try and get one of Jorja's this weekend.
 
-<strong>Marg Leaving CSI</strong>
+**Marg Leaving CSI**
 
 From Entertainment Weekly, we know <a href="https://jorjafox.net/wiki/Entertainment_Weekly_(25_January_2012)">Jorja gave Marg a card with polar bears on it for Marg's going-away party.</a>
 

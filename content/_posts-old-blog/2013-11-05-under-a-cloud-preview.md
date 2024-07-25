@@ -1,6 +1,6 @@
 ---
 id: 9207
-title: '&#8220;Under a Cloud&#8221; Preview'
+title: '"Under a Cloud" Preview'
 date: '2013-11-05T16:00:26-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Oh, it''s a BOMB. That changes everything!'

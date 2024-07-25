@@ -1,6 +1,6 @@
 ---
 id: 12795
-title: '&#8220;Under My Skin&#8221; Recap and Screencaps'
+title: '"Under My Skin" Recap and Screencaps'
 date: '2015-02-16T06:00:23-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Scorpions, sex, and smuggling, all on a 4 star episode of CSI.'

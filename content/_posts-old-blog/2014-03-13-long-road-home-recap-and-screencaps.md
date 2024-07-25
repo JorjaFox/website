@@ -1,6 +1,6 @@
 ---
 id: 10158
-title: '&#8220;Long Road Home&#8221; Recap and Screencaps'
+title: '"Long Road Home" Recap and Screencaps'
 date: '2014-03-13T04:45:35-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Did the episode rock your world, or can it KISS your ass?'

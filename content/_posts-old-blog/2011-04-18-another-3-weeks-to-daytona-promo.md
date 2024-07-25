@@ -1,6 +1,6 @@
 ---
 id: 3287
-title: 'Another &#8220;3 Weeks to Daytona&#8221; Promo'
+title: 'Another "3 Weeks to Daytona" Promo'
 date: '2011-04-18T09:24:18-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The guys are working hard to make a trailer worthy of theaters. And I think they''re getting it right!'

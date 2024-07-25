@@ -1,6 +1,6 @@
 ---
 id: 2359
-title: '10&#215;19 &#8220;World&#8217;s End&#8221; Promo'
+title: '10&#215;19 "World's End" Promo'
 date: '2010-04-16T10:17:44-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promo video for the next CSI episode "World''s End" includes Sara.'

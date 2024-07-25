@@ -1,6 +1,6 @@
 ---
 id: 2063
-title: 'CSI 10&#215;04 &#8211; Coup de Grace Promo (updated)'
+title: 'CSI 10&#215;04 — Coup de Grace Promo (updated)'
 date: '2009-10-08T21:29:06-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Dead cops, killed by a cop, plus Sara Sidle.  Next week''s <em>CSI</em> will be here in seven days. Talk about it here. <em>Updated October 9th</em>'

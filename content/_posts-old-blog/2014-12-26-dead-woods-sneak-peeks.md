@@ -1,6 +1,6 @@
 ---
 id: 11776
-title: '&#8220;Dead Woods&#8221; Sneak Peeks'
+title: '"Dead Woods" Sneak Peeks'
 date: '2014-12-26T17:45:43-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two video sneak peeks from Sunday''s CSI.'

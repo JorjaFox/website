@@ -1,6 +1,6 @@
 ---
 id: 10500
-title: '&#8220;Consumed&#8221; Recap and Screencaps'
+title: '"Consumed" Recap and Screencaps'
 date: '2014-04-10T04:15:43-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'What a delectable episode of CSI!'
@@ -27,4 +27,4 @@ I'm giving this one four stars because of the number of scenes, but it's really 
 </ul>
 No new CSI next week. Also the next episode will be "Kitty Porn" which is the <em>possible</em> spin-off episode (I think they're holding off on renewing Intelligence until they see how this is received because they're rather similar).
 
-Jorja <strong>is not</strong> in Kitty Porn. Take a week off and enjoy!
+Jorja **is not** in Kitty Porn. Take a week off and enjoy!

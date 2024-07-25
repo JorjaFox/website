@@ -1,6 +1,6 @@
 ---
 id: 4488
-title: 'CSI 12&#215;20: &#8220;Altered Stakes&#8221; Press Release'
+title: 'CSI 12&#215;20: "Altered Stakes" Press Release'
 date: '2012-04-02T14:12:49-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja is not in this episode, folks. But just in case you''re watching anyway...'

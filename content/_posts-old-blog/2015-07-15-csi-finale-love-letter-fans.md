@@ -1,6 +1,6 @@
 ---
 id: 13073
-title: 'The CSI Finale &#8220;Is A Love Letter To The Fans&#8221;'
+title: 'The CSI Finale "Is A Love Letter To The Fans"'
 date: '2015-07-15T04:00:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A true-crime show sparked the major TV franchise we say farewell to this year.'
@@ -17,7 +17,7 @@ tags:
     - csi
 ---
 
-Having been inspired by the Discovery Channel to create _CSI_, Anthony Zuiker is now working on the finale. 
+Having been inspired by the Discovery Channel to create _CSI_, Anthony Zuiker is now working on the finale.
 
 > Right now, Zuiker's attention is squarely on wrapping up the show that Discovery helped inspire: Later this month, he'll start production on CSI's two-hour series finale. While the show's future seemed murky last season, Zuiker wasn't informed of its fate until shortly before CBS' upfront in May. "A finale is not something that is given too often in this business, so I'm relishing the opportunity," he said.
 >

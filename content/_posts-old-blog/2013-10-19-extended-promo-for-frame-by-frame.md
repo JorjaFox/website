@@ -1,6 +1,6 @@
 ---
 id: 8846
-title: 'Extended Promo for &#8220;Frame by Frame&#8221;'
+title: 'Extended Promo for "Frame by Frame"'
 date: '2013-10-19T12:30:55-07:00'
 author: 'JF Guest Author'
 excerpt: 'Another promotional video for CSI''s 300th episode.'

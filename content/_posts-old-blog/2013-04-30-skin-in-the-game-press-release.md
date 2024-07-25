@@ -1,6 +1,6 @@
 ---
 id: 7079
-title: '&#8220;Skin in the Game&#8221; Press Release'
+title: '"Skin in the Game" Press Release'
 date: '2013-04-30T15:13:05-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Black Sabbath on CSI, May 15th, for the season finale.'

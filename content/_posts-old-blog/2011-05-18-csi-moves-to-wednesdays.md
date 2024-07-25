@@ -23,7 +23,7 @@ tags:
 
 The schedule for Wednesday is as follows:
 
-<strong>WEDNESDAY</strong>
+**WEDNESDAY**
 8:00-9:00 PM <em>SURVIVOR: SOUTH PACIFIC</em>
 9:00-10:00 PM <em>CRIMINAL MINDS</em>
 10:00-11:00 PM <em>CSI: CRIME SCENE INVESTIGATION</em>

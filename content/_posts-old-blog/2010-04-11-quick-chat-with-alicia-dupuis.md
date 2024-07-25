@@ -25,13 +25,13 @@ tags:
 
 Alicia Dupuis, a model/actor who's just now getting her name all over the place, was kind enough to reply to my email about working on <em>3 Weeks to Daytona</em>. I only had a couple questions (and since two were 'Nope', I left them out), but Alicia was just so friendly I thought maybe you guys would like to see some color about the movie.
 
-<blockquote><strong>What was your role on 3 Weeks?</strong> I played a production assistant in the scene where Rob is shooting a commercial for his furniture company.
+<blockquote>**What was your role on 3 Weeks?** I played a production assistant in the scene where Rob is shooting a commercial for his furniture company.
 
-<strong>Was there anything you got to learn for the part? </strong>There were a lot of special effects in my scene, so I got to learn a lot about how all of that stuff works!
+**Was there anything you got to learn for the part? **There were a lot of special effects in my scene, so I got to learn a lot about how all of that stuff works!
 
-<strong>Did you get to drive any of the race cars?</strong> No, I did not. However, my father used to be a racecar driver so I grew up at the racetrack and with having racecars in our garage at home. I have pictures of myself when I was very little sitting in racecars.
+**Did you get to drive any of the race cars?** No, I did not. However, my father used to be a racecar driver so I grew up at the racetrack and with having racecars in our garage at home. I have pictures of myself when I was very little sitting in racecars.
 
-<strong>What was the most fun about making the film?</strong> The most fun part of making
+**What was the most fun about making the film?** The most fun part of making
 this film was how silly some of the stuff in my scene was. The character of Rob got to wear a huge Godzilla costume(He was Robzilla) and destroy this entire mini city that was set up. There were a lot of laughs involved!</blockquote>
 
 Now you have just one more thing to look forward to when we all finally get to see <em>3 Weeks to Daytona</em>

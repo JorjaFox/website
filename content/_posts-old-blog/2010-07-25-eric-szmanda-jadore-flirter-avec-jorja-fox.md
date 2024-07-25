@@ -1,6 +1,6 @@
 ---
 id: 2524
-title: 'Eric Szmanda : &#8220;J&#8217;adore flirter avec Jorja Fox&#8221;'
+title: 'Eric Szmanda : "J'adore flirter avec Jorja Fox"'
 date: '2010-07-25T18:41:29-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Or, if you don''t speak French -- Eric Szmanda: "I adore flirting with Jorja Fox."'

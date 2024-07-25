@@ -30,4 +30,4 @@ tags:
 https://www.instagram.com/tv/CU72eCMpvaP/
 </div><figcaption>I think what stands out to me is ... I swear my wife and I have had those conversations while packing!</figcaption></figure>
 
-<p>Also, Grissom, I think your partner is science and Sara.</p>
+Also, Grissom, I think your partner is science and Sara.

@@ -1,6 +1,6 @@
 ---
 id: 9241
-title: '&#8220;Check in and Check Out&#8221; Press Release'
+title: '"Check in and Check Out" Press Release'
 date: '2013-11-07T16:00:07-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A teacher is in the wrong place at the wrong time. But there''s no Sara Sidle in this episode.'

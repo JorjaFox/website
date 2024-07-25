@@ -1,6 +1,6 @@
 ---
 id: 2845
-title: 'CSI 11&#215;11 &#8220;Man Up&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;11 "Man Up" Discussion Post (Updated)'
 date: '2011-01-06T10:00:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A dead call girl and Carrot Top. It''s not funny to anyone in tonight''s episode of CSI! <em>Edited at 9pm ET - No Jorja!</em>'

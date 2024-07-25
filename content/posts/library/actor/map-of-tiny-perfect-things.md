@@ -6,7 +6,7 @@ categories: ["Filmography"]
 tags: ["movies"]
 imdb: https://www.imdb.com/title/tt11080108/
 gallery: https://jorjafox.net/gallery/movies/tiny-perfect/
-image: /img/actor/map-tpt.jpg
+image: /img/actors/map-tpt.jpg
 ---
 
 Jorja Fox plays "Greta", the dying mother of Margaret.

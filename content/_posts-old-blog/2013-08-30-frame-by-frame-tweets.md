@@ -1,6 +1,6 @@
 ---
 id: 8106
-title: '&#8220;Frame by Frame&#8221; Tweets'
+title: '"Frame by Frame" Tweets'
 date: '2013-08-30T16:30:52-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Some tweets from the CSI Writers Room to get your attention before a long weekend.'

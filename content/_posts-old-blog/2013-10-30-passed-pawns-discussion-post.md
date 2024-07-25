@@ -1,6 +1,6 @@
 ---
 id: 9124
-title: '&#8220;Passed Pawns&#8221; Discussion Post'
+title: '"Passed Pawns" Discussion Post'
 date: '2013-10-30T10:00:07-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A homeless man gets lucky in cards but not in life. His streak ultimately ends in a bad way on tonight''s CSI.'

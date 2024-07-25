@@ -1,6 +1,6 @@
 ---
 id: 3324
-title: 'Jorja and Candice Azzara in &#8220;Food For The Heart&#8221;'
+title: 'Jorja and Candice Azzara in "Food For The Heart"'
 date: '2011-05-16T08:47:46-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja singing in 1999''s "Food For The Heart"'

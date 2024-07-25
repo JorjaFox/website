@@ -1,6 +1,6 @@
 ---
 id: 5303
-title: 'Episode 13.02 &#8211; Code Blue Plate Special &#8211; Sneak Peek'
+title: 'Episode 13.02 — Code Blue Plate Special — Sneak Peek'
 date: '2012-10-09T20:14:42-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara doesn''t like a certain type of food at Frank''s Diner.'

@@ -1,6 +1,6 @@
 ---
 id: 6072
-title: '&#8220;Risky Business Class&#8221; Recap and Screencaps'
+title: '"Risky Business Class" Recap and Screencaps'
 date: '2012-12-13T10:30:28-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja was absolutely amazing in a heart-rending episode of CSI. Five stars, and I''m sure we''ll be talking about GSR until January.'

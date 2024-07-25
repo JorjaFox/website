@@ -1,6 +1,6 @@
 ---
 id: 9128
-title: '&#8220;Lost Reindeer&#8221; Press Release'
+title: '"Lost Reindeer" Press Release'
 date: '2013-11-26T14:13:56-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s not a very Merry Christmas for Sara fans. She''s not in this episode.'

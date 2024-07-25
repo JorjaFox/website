@@ -1,6 +1,6 @@
 ---
 id: 3854
-title: 'CSI 12&#215;03 &#8220;Bittersweet&#8221; Discussion Post (Updated!)'
+title: 'CSI 12&#215;03 "Bittersweet" Discussion Post (Updated!)'
 date: '2011-10-05T08:37:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"Am I off the case?"  She may be off the case, but she''s in the episode!  Angry Sara is back to tell us someone''s a murderer. (Updated at 1am)'

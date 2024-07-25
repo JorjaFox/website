@@ -1,6 +1,6 @@
 ---
 id: 3129
-title: 'CSI 11&#215;15 &#8220;Targets of Obsession&#8221; Discussion Post (updated)'
+title: 'CSI 11&#215;15 "Targets of Obsession" Discussion Post (updated)'
 date: '2011-02-17T10:02:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Even though we don''t know if Jorja''s in this episode (I don''t think she is...) we may as well have a topic open for the death of the Bieb. <em>Updated at 10:15pm ET</em>'
@@ -33,4 +33,4 @@ Yes, Jorja WAS in the episode, but she was a lab rat.  Two stars for Sara, and .
 
 &bull; <a href="https://jorjafox.net/wiki/Targets_of_Obsession">Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/season11/targets">Screencaps</a>
-[starrater] 
+[starrater]

@@ -18,7 +18,7 @@ tags:
 ---
 
 There's a new organic, non-GOM, vegan craft beer out there, and Jorja's an investor!
-<blockquote>Speaking of celebrities, <strong>Jorja Fox </strong>of <strong>CSI </strong>and <strong>ER </strong>fame, recently joined the Dr. Jekyll's team as an investor and is looking forward to being active with the company. She's a super cool, beer loving chick and a big animal rights advocate...as we all are at Dr. Jekyll's. In fact, we are ensuring any charities we donate to do not do animal testing.</blockquote>
+<blockquote>Speaking of celebrities, **Jorja Fox **of **CSI **and **ER **fame, recently joined the Dr. Jekyll's team as an investor and is looking forward to being active with the company. She's a super cool, beer loving chick and a big animal rights advocate...as we all are at Dr. Jekyll's. In fact, we are ensuring any charities we donate to do not do animal testing.</blockquote>
 Dr. Jekyll is raising money to build a new brewery and tasting room for their award winning craft beer.
 
 I'm not a beer person but the pitch that they want to be the Vitaminwater of beer is pretty awesome. Check out <a href="http://www.drjekylls.com">Dr. Jekyll</a>, a Pasadena CA company, and consider dropping a donation for their new craft room:

@@ -38,7 +38,7 @@ tags:
 
 Yes, the US President, George Bush, will be giving his farewell address on Thursday, during primetime.  The speech is expected to run about 15 minutes.  What does that mean for <em>CSI</em>? Probably some last second swearing and scrambling.  The White House has requested airtime, but nothing definitive has been set as of this posting. I will update this post if I hear more.
 
-<strong>Update</strong>: Bush wants to speak at 8pm ET (7pm CT). <em>(Jan-12 6pm) </em>
-<strong>Update #2</strong>: CBS will air this at 8pm ET.  No word on what that'll do to CSI. <em>(Jan-13 8am) </em>
-<strong>Update #3</strong>: Still no word on CBS's scheduling. <em>(Jan-13 3pm) </em>
-<strong>Update #4</strong>: CBS is shifting everything back by at least 15 minutes. See the Press Release for details. <em>Jan-13 6pm</em>
+**Update**: Bush wants to speak at 8pm ET (7pm CT). <em>(Jan-12 6pm) </em>
+**Update #2**: CBS will air this at 8pm ET.  No word on what that'll do to CSI. <em>(Jan-13 8am) </em>
+**Update #3**: Still no word on CBS's scheduling. <em>(Jan-13 3pm) </em>
+**Update #4**: CBS is shifting everything back by at least 15 minutes. See the Press Release for details. <em>Jan-13 6pm</em>

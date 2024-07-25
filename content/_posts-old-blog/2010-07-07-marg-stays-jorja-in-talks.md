@@ -35,8 +35,8 @@ Credit: <a href="http://ausiellofiles.ew.com/2010/07/07/csi-exclusive-marg-helge
 
 ETA: Eric is staying!
 
-<blockquote><strong>Question: Any update on the <em>CSI</em> contract negotiations? I’m psyched Marg Helgenberger is sticking around but I’m worried about the others. —Luca</strong>
+<blockquote>**Question: Any update on the <em>CSI</em> contract negotiations? I’m psyched Marg Helgenberger is sticking around but I’m worried about the others. —Luca**
 
-<strong>Ausiello: THIS JUST IN:</strong> Eric Szmanda (Greg) has inked a new deal as well! That leaves George Eads (Nick), Paul Guilfoyle (Jim), and Jorja Fox as the only season 11 question marks.</blockquote>
+**Ausiello: THIS JUST IN:** Eric Szmanda (Greg) has inked a new deal as well! That leaves George Eads (Nick), Paul Guilfoyle (Jim), and Jorja Fox as the only season 11 question marks.</blockquote>
 
 Credit: <a href="http://ausiellofiles.ew.com/2010/07/07/ask-ausiello-spoilers-fringe-glee-castle/">Ask Ausiello</a>

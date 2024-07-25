@@ -45,5 +45,5 @@ Jorja Fox</blockquote>
 The video is here:
 
 http://youtu.be/yvRfAPo8bj0
-<p style="text-align: center;"><a href="http://www.ad-international.org/take_action/donate.php"></a></p>
+<p style="text-align: center;"><a href="http://www.ad-international.org/take_action/donate.php"></a>
 Source: <a href="http://hosted-p0.vresp.com/1083227/a3a5e3df1b/ARCHIVE">Email</a>

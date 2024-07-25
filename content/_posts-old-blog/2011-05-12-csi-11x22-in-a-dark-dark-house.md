@@ -1,6 +1,6 @@
 ---
 id: 3316
-title: 'CSI 11&#215;22 &#8220;In A Dark, Dark House&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;22 "In A Dark, Dark House" Discussion Post (Updated)'
 date: '2011-05-12T09:00:54-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This is the end of Season 11.  The last new episode until September.  Who lives, who dies, and who makes you roll your eyes. (Updated at 12:30am ET)'

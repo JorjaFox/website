@@ -1,6 +1,6 @@
 ---
 id: 6311
-title: '&#8220;In Vino Veritas&#8221; Recap &#038; Screencaps'
+title: '"In Vino Veritas" Recap &#038; Screencaps'
 date: '2013-02-07T08:00:58-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Unlike the last time we had a Latin title, there''s no GSR this week, but still a whole lotta Sara.'

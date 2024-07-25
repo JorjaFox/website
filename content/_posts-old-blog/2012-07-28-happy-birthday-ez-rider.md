@@ -1,6 +1,6 @@
 ---
 id: 4959
-title: '&#8220;Happy Birthday EZ Rider&#8221;'
+title: '"Happy Birthday EZ Rider"'
 date: '2012-07-28T22:46:48-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja on set, wishing Eric a happy birthday.'

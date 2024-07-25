@@ -22,8 +22,8 @@ tags:
 
 Kristine Huntley of <a href="http://csifiles.com">CSI Files</a> got the chance to talk to David Rambo about this season (and next).  There was a brief mention of Jorja:
 
-<blockquote><strong>CSI Files: Jorja Fox</strong> has been in quite a few episodes this season. Any chance Sara Sidle will be back in the lab full time next season?
+<blockquote>**CSI Files: Jorja Fox** has been in quite a few episodes this season. Any chance Sara Sidle will be back in the lab full time next season?
 
-<strong>Rambo:</strong> I don’t know the answer to that one. But hasn’t it been great to see her back this season?</blockquote>
+**Rambo:** I don’t know the answer to that one. But hasn’t it been great to see her back this season?</blockquote>
 
 For the full interview, visit <a href="http://csifiles.com">CSI Files</a>'s article -- <a href="http://www.csifiles.com/content/2010/05/interview-david-rambo/">Interview: David Rambo</a>.

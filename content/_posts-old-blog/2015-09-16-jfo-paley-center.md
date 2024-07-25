@@ -34,7 +34,7 @@ Then she had the cast talk about each other and their first impressions of each 
 <blockquote>I think Grissom fell in love with Sara because you got him, and you got me too.</blockquote>
 Yeah, we all got a little damp eyed. It was worse when he said that acting with Jorja, every scene was like 'falling off a log' (aka easy). Of course Jorja admitted that Billy drove her crazy for the first six months and then suddenly he didn't.
 
-She talked about Paul, and said he was so glamorous and jet-setting. Jorja also said that while she believed everyone was a <em>real</em> actor, Paul was a <strong><em>real</em></strong> actor.
+She talked about Paul, and said he was so glamorous and jet-setting. Jorja also said that while she believed everyone was a <em>real</em> actor, Paul was a **<em>real</em>** actor.
 <blockquote>You were this movie star. You were so glamorous. I learned so much from you. You took risks and you're so classy.</blockquote>
 Paul called Jorja the heart of the show, which everyone agreed on.
 <blockquote>You were the heart of this whole group to me. Jorja had the biggest heart. Thank you for that.</blockquote>

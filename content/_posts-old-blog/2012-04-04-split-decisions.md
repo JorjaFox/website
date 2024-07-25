@@ -1,6 +1,6 @@
 ---
 id: 4481
-title: 'CSI 12&#215;19: &#8220;Split Decisions&#8221; Discussion Post'
+title: 'CSI 12&#215;19: "Split Decisions" Discussion Post'
 date: '2012-04-04T08:49:04-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'If you’re gambling at this casino you’re in the middle of a crime zone on CSI tonight at 10pm ET/PT.'
@@ -21,16 +21,16 @@ tags:
     - video
 ---
 
-<strong><img class="alignleft size-medium wp-image-4473" title="split-promo" src="//static.jorjafox.net/wordpress/2012/03/split-promo-230x153.jpg" alt="" width="230" height="153" />Official Release</strong>
+**<img class="alignleft size-medium wp-image-4473" title="split-promo" src="//static.jorjafox.net/wordpress/2012/03/split-promo-230x153.jpg" alt="" width="230" height="153" />Official Release**
 
 The CSI team shuts down an entire casino in an effort to find the person who shot a man at point-blank range ... and is still in the casino.
 
-<strong>Video</strong>
+**Video**
 
 http://www.youtube.com/watch?v=E3OoW_Dkpxk
 
 http://www.youtube.com/watch?v=26N_JeLhHcU
 
-<strong>Recaps?</strong>
+**Recaps?**
 
 <em>Recap and screencaps will be up Thursday. This is going to be the new standard, since I simply cannot stay up till 1am anymore. If anyone else wants to help do screencaps, drop me a line at webmaster[at]jorjafox.net </em>

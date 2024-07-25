@@ -1,6 +1,6 @@
 ---
 id: 12701
-title: '&#8220;Merchants of Menace&#8221; Recap and Screencaps'
+title: '"Merchants of Menace" Recap and Screencaps'
 date: '2015-01-26T06:00:56-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The blood market sounds like a totally crazy place.'

@@ -1,6 +1,6 @@
 ---
 id: 9724
-title: '&#8220;Keep Calm and Carry-On&#8221; Recap and Screencaps'
+title: '"Keep Calm and Carry-On" Recap and Screencaps'
 date: '2014-01-16T05:31:02-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Stoners with laser pointers and abusive husbands make for an interesting episode of CSI.'

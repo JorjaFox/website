@@ -3,7 +3,7 @@ id: 1950
 title: 'Drop Dead Diva Delay Rumors (UPDATED)'
 date: '2009-08-10T08:12:15-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'There is no delay, Jorja <strong>will</strong> be on <em>Drop Dead Diva</em> on the 16th. <del datetime="2009-08-11T16:21:44+00:00">At this time, no <strong>official</strong> word has come about a delay, and the ep description still talks about a soccer mom. So chillax, folks!</del>'
+excerpt: 'There is no delay, Jorja **will** be on <em>Drop Dead Diva</em> on the 16th. <del datetime="2009-08-11T16:21:44+00:00">At this time, no **official** word has come about a delay, and the ep description still talks about a soccer mom. So chillax, folks!</del>'
 layout: post
 guid: 'https://jorjafox.net/?p=1950'
 permalink: /2009/drop-dead-diva-delay-rumors/
@@ -44,7 +44,7 @@ tags:
     - tv
 ---
 
-<strong>Updated at 1:45pm ET</strong>
+**Updated at 1:45pm ET**
 
 Many huge thanks to <a href="http://twitter.com/dropdeaddivatv">@dropdeaddivatv</a> who replied with this happy news:
 
@@ -54,7 +54,7 @@ So yes, we get Jorja next week.
 
 <em>Orginal post follows.</em>
 
-Short version: Unless you have <strong>PROOF</strong>, in a press release from <em>Drop Dead Diva</em> or Lifetime TV, take a breath, she's still on for Sunday the 16th. Okay?
+Short version: Unless you have **PROOF**, in a press release from <em>Drop Dead Diva</em> or Lifetime TV, take a breath, she's still on for Sunday the 16th. Okay?
 
 Honestly, there's been no word from the official sources on this, and their website still touts the 'Soccer Mom' episode.
 

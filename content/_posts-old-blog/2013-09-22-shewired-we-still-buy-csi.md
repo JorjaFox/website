@@ -20,7 +20,7 @@ tags:
 SheWired has a new feature, where they tell you what's up this week that women might be interested in. Why would women want to watch CSI? Why else:
 <blockquote>In this, our newest recurring feature, <em>SheWired</em> editors will get you the low-down on all the can't-miss, female-centric entertainment highlights coming up this week. Just think of it as our list of Totally Awesome Things That Will Remind You Why It Rocks To Be A Woman. Don't worry, you can thank us later.
 
-<strong>5. DVD: <em>CSI: Crime Scene Investigation: The Thirteenth Season</em></strong>
+**5. DVD: <em>CSI: Crime Scene Investigation: The Thirteenth Season</em>**
 There are a lot of reasons why the original <em>CSI, </em>a show that changed the TV landscape, is still going strong and Elizabeth Shue (so sexy and sassy in middle-age) is among the tops. Sure, the DVD set has the whole season of hot investigators scouring the scene, collecting evidence, solving mysteries and a ton of extras around talking heads and guest stars (Ozzy Osbourne, Chris Evert) and two must-sees: <em>The Extended Family,</em> which follows the smaller characters on the series, and <em>Drawing Blood,</em> real crime scene experts on creating realistic scenes. But the real reason any lesbian worth her salt still watches <em>CSI:</em> Jorja Fox.
 
 http://www.youtube.com/watch?v=inqIqdSU-Yg

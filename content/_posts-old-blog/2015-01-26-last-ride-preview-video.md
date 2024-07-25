@@ -1,6 +1,6 @@
 ---
 id: 12712
-title: '&#8220;The Last Ride&#8221; Preview Video'
+title: '"The Last Ride" Preview Video'
 date: '2015-01-26T15:00:01-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team investigates a death involving a vintage Rolls Royce and a chrome-covered victim, on CSI at a special night and time, Tuesday, Jan. 27 at 10/9c. Only CBS'
@@ -20,4 +20,4 @@ tags:
 
 https://www.youtube.com/watch?v=vZTw9h31OlM
 
-There's a lot of the back of Sara's head, which is weird, but okay then! 
+There's a lot of the back of Sara's head, which is weird, but okay then!

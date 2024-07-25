@@ -1,6 +1,6 @@
 ---
 id: 1873
-title: 'State of the Union &#8211; April &#038; May'
+title: 'State of the Union — April &#038; May'
 date: '2009-06-01T14:10:57-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'I didn''t so much forget to do this for April as I was very busy. Here''s a makeup!'

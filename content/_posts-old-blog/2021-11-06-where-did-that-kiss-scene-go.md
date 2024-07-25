@@ -50,28 +50,28 @@ tags:
     - 'social media'
 ---
 
-<p>We all saw it in the previews and got excited. And then ... gone.</p>
+We all saw it in the previews and got excited. And then ... gone.
 
 <figure class="wp-block-image size-large"><img src="https://static.jorjafox.net/wordpress/2021/11/kiss-960x539.gif" alt="" class="wp-image-18984"/></figure>
 
-<p>Yeah that one.</p>
+Yeah that one.
 
-<p>You didn't hallucinate. That scene (and the hand holding one) were filmed! Here it is, straight from the Fox's mouth:</p>
+You didn't hallucinate. That scene (and the hand holding one) were filmed! Here it is, straight from the Fox's mouth:
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
 https://twitter.com/JorjaFoxofficia/status/1455980359959539717
 </div></figure>
 
-<p>This isn't the first time this has happened, and not even to Jorja! Us oldies remember the part about how Maggie Doyle (back on ye olde <em>ER</em> days!) was getting a scene where she quit? Anyone remember "File that yourself, bastard"? Right. Never materialized on screen.</p>
+This isn't the first time this has happened, and not even to Jorja! Us oldies remember the part about how Maggie Doyle (back on ye olde <em>ER</em> days!) was getting a scene where she quit? Anyone remember "File that yourself, bastard"? Right. Never materialized on screen.
 
-<p>Why do these things happen? Generally they're cut for time. If the episode runs over, then the scene is pulled since it doesn't really add to the story that much. However, usually those are <strong>also</strong> pulled from the previews so no one gets their hopes up! Likely what happened here is the network cut the episode for time and forgot. That happens. The editors on this are human, same as you and me.</p>
+Why do these things happen? Generally they're cut for time. If the episode runs over, then the scene is pulled since it doesn't really add to the story that much. However, usually those are **also** pulled from the previews so no one gets their hopes up! Likely what happened here is the network cut the episode for time and forgot. That happens. The editors on this are human, same as you and me.
 
-<p>Now the question of course is... how do we let people know?</p>
+Now the question of course is... how do we let people know?
 
-<p>First you do it <strong>kindly</strong> and politely. I saw some folks being downright cruel to the various twitter accounts, and y'all, don't do that. It's not okay! Unless you're talking to someone's personal account, you're probably sending all that vitriol over to a poor, lowly paid, social media employee. And yelling at them is as productive as yelling at the coffee bar when the seasonal drink you want is gone.</p>
+First you do it **kindly** and politely. I saw some folks being downright cruel to the various twitter accounts, and y'all, don't do that. It's not okay! Unless you're talking to someone's personal account, you're probably sending all that vitriol over to a poor, lowly paid, social media employee. And yelling at them is as productive as yelling at the coffee bar when the seasonal drink you want is gone.
 
-<p>Instead, tell them directly something like "It's very disappointing that CBS led us on with the previews of a GSR kiss, but cut the scene." Or even "I really hate that the kiss scene was cut."</p>
+Instead, tell them directly something like "It's very disappointing that CBS led us on with the previews of a GSR kiss, but cut the scene." Or even "I really hate that the kiss scene was cut."
 
-<p>But please, don't swear at them. It's counterproductive and honestly? Mean.</p>
+But please, don't swear at them. It's counterproductive and honestly? Mean.
 
-<p>Don't be mean.</p>
+Don't be mean.

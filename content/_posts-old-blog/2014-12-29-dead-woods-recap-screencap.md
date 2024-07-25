@@ -1,6 +1,6 @@
 ---
 id: 11780
-title: '&#8220;Dead Woods&#8221; Recap and Screencap'
+title: '"Dead Woods" Recap and Screencap'
 date: '2014-12-29T03:55:40-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Don''t mind me, I''m just here in the corner crying away all my feels from last night''s CSI.'

@@ -1,6 +1,6 @@
 ---
 id: 13424
-title: 'CSI Finale: Trouble At Heather&#8217;s?'
+title: 'CSI Finale: Trouble At Heather's?'
 date: '2015-08-26T20:00:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Could this spell trouble for the dominatrix-turned-sex therapist and possibly her and Sara''s shared love interest, Gil Grissom?'

@@ -24,6 +24,6 @@ tags:
     - 'public events'
 ---
 
-Of course Jorja showed up for the PETA's 30th Anniversary Gala. Right now, there are on a handful of photos up, but as always I'm adding more as I get them (thank you <a href="http://margamania.net">Margamania</a>!). You can see the photos in full size at the <strong><a href="https://jorjafox.net/gallery/awards/pub/20100925-peta30/">PETA 30th Anniversary Gala Album</a></strong>.
+Of course Jorja showed up for the PETA's 30th Anniversary Gala. Right now, there are on a handful of photos up, but as always I'm adding more as I get them (thank you <a href="http://margamania.net">Margamania</a>!). You can see the photos in full size at the **<a href="https://jorjafox.net/gallery/awards/pub/20100925-peta30/">PETA 30th Anniversary Gala Album</a>**.
 
 <a href="https://jorjafox.net/gallery/awards/pub/20100925-peta30/"><img class="aligncenter size-full wp-image-2612" alt="peta30th" src="//static.jorjafox.net/wordpress/2010/09/peta30th.jpg" width="230" height="200" /></a>

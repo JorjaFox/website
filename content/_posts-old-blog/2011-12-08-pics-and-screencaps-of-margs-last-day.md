@@ -1,6 +1,6 @@
 ---
 id: 4101
-title: 'Pics and Screencaps of Marg&#8217;s Last Day'
+title: 'Pics and Screencaps of Marg's Last Day'
 date: '2011-12-08T12:14:40-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Up go the screencaps, click click click! Also some behind the scenes photos of Marg''s last day.'

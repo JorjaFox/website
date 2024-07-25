@@ -1,6 +1,6 @@
 ---
 id: 3846
-title: 'CSI 12&#215;03 &#8220;Bittersweet&#8221; Promo'
+title: 'CSI 12&#215;03 "Bittersweet" Promo'
 date: '2011-10-01T22:32:29-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"Am I off the case?"  Is it Sara who gets in trouble with D.B. Russell?'
@@ -20,6 +20,6 @@ tags:
     - video
 ---
 
-<strong>Next week on CSI...</strong>
+**Next week on CSI...**
 
 [vimeo]http://vimeo.com/29932545[/vimeo]

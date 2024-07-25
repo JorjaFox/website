@@ -1,6 +1,6 @@
 ---
 id: 13943
-title: 'Don&#8217;t Forget Memento'
+title: 'Don't Forget Memento'
 date: '2016-03-16T05:59:47-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Don''t Forget: 15 Things You Didn''t Know About Memento, 15 Years Later'

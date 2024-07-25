@@ -1,6 +1,6 @@
 ---
 id: 6354
-title: '&#8220;Exile&#8221; Recap and Screencaps'
+title: '"Exile" Recap and Screencaps'
 date: '2013-02-14T06:55:07-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A good episode, but only two Sara Stars due to the limited screen time.'

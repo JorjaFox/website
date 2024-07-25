@@ -1,6 +1,6 @@
 ---
 id: 18706
-title: '&#8220;CSI: Vegas&#8221; at the TCAs'
+title: '"CSI: Vegas" at the TCAs'
 date: '2021-09-09T13:40:40-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"CSI: Vegas" was at the 2021 TCAs, and the new trailer is released.'
@@ -25,19 +25,19 @@ tags:
     - 'press release'
 ---
 
-<p>If you're not familiar, the TCAs are the TV Critics' Association's upfront, where networks come to talk about what's coming and how cool it is. <em>CSI: Vegas</em> had a panel where they introduced the new trailer.</p>
+If you're not familiar, the TCAs are the TV Critics' Association's upfront, where networks come to talk about what's coming and how cool it is. <em>CSI: Vegas</em> had a panel where they introduced the new trailer.
 
 <h2>The Panel</h2>
 
-<p>The panel included Jorja Fox, Paula Newsome, Matt Lauria, Mandeep Dhillon, Mel Rodriguez and EPs William Peterson, Anthony Zuiker, and Jason Tracey.</p>
+The panel included Jorja Fox, Paula Newsome, Matt Lauria, Mandeep Dhillon, Mel Rodriguez and EPs William Peterson, Anthony Zuiker, and Jason Tracey.
 
-<p>21 years later, we get CSI again. This time, the actors weren't able to do ride-alongs, due to COVID, but everyone is excited. They do want to get more <em>CSI</em> vets back, but Petersen was excited about coming back, even though they were all a little out of date with the work. Jorja said she was more than a little rusty on all things science and just being on a set because of the pandemic.</p>
+21 years later, we get CSI again. This time, the actors weren't able to do ride-alongs, due to COVID, but everyone is excited. They do want to get more <em>CSI</em> vets back, but Petersen was excited about coming back, even though they were all a little out of date with the work. Jorja said she was more than a little rusty on all things science and just being on a set because of the pandemic.
 
-<blockquote class="wp-block-quote"><p>The world is more topsy-turvy than it was in 2000. It's great to come back to Sara and Gil Grissom.</p><cite>-- Jorja Fox</cite></blockquote>
+<blockquote class="wp-block-quote">The world is more topsy-turvy than it was in 2000. It's great to come back to Sara and Gil Grissom.<cite>-- Jorja Fox</cite></blockquote>
 
-<p>Jorja also loves seeing women in the leading roles of shows - it's overdue. </p>
+Jorja also loves seeing women in the leading roles of shows - it's overdue.
 
-<p>Diane Gordon, a freelance TCA member,<a href="https://wakelet.com/wake/6lkRpNyWj5NjRvpzSbh_w"> tweetcaped the whole thing</a>.</p>
+Diane Gordon, a freelance TCA member,<a href="https://wakelet.com/wake/6lkRpNyWj5NjRvpzSbh_w"> tweetcaped the whole thing</a>.
 
 <h2>Trailer - Nightmare in Sin City</h2>
 
@@ -45,4 +45,4 @@ tags:
 https://www.youtube.com/watch?v=Cwh-t0EQH6U
 </div></figure>
 
-<p>What do you think? Is the perp one of the CSI's own?</p>
+What do you think? Is the perp one of the CSI's own?

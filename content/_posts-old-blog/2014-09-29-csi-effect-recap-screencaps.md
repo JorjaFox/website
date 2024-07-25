@@ -1,6 +1,6 @@
 ---
 id: 11311
-title: '&#8220;The CSI Effect&#8221; Recap and Screencaps'
+title: '"The CSI Effect" Recap and Screencaps'
 date: '2014-09-29T03:21:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two stars for the season premiere of CSI season 15!'
@@ -21,7 +21,7 @@ tags:
     - tv
 ---
 
-First of all, please remember they're filming<i> multiple</i> episodes at once this season. Sara's not in the opener a lot because she is all over Ep #3, "Bad Blood." There are only a few scenes with Sara and she spends most of it working blood. Likely because Finn, the Blood Whisperer, is busy on another angle of the case with her boyfriend. Yeaaaaah.
+First of all, please remember they're filming_ multiple_ episodes at once this season. Sara's not in the opener a lot because she is all over Ep #3, "Bad Blood." There are only a few scenes with Sara and she spends most of it working blood. Likely because Finn, the Blood Whisperer, is busy on another angle of the case with her boyfriend. Yeaaaaah.
 
 <img class="aligncenter size-large wp-image-11316" src="//jfo-static.net/wordpress/2014/09/vlcsnap-00073.jpg" alt="Sara in the processing lab" width="600" height="337" />
 

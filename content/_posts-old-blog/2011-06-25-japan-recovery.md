@@ -1,6 +1,6 @@
 ---
 id: 3495
-title: 'Artists and Athletes &#8211; Japan Recovery'
+title: 'Artists and Athletes — Japan Recovery'
 date: '2011-06-25T22:54:14-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja went to an Artists and Athletes briefing on the situation in Japan.'

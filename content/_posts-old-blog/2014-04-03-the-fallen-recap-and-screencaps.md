@@ -1,6 +1,6 @@
 ---
 id: 10337
-title: '&#8220;The Fallen&#8221; Recap and Screencaps'
+title: '"The Fallen" Recap and Screencaps'
 date: '2014-04-03T04:08:51-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Three stars for a pretty violent and fast paced episode.'

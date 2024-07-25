@@ -22,6 +22,6 @@ Yesterday, Jorja was at the Mill Valley Film Festival, presenting the Lion Ark m
 
 <a href="https://jorjafox.net/gallery/pub/filmfest/20131005-millvalley/"><img class="aligncenter size-full wp-image-8666" alt="Mill Valley Film Festival" src="//static.jorjafox.net/wordpress/2013/10/millvalley.png" width="402" height="240" /></a>
 
-Check out the <strong><a href="https://jorjafox.net/gallery/pub/filmfest/20131005-millvalley">Mill Valley Film Festival Gallery</a></strong> for more pictures!
+Check out the **<a href="https://jorjafox.net/gallery/pub/filmfest/20131005-millvalley">Mill Valley Film Festival Gallery</a>** for more pictures!
 
 My comment was "Oh man, someone attacked her with a flat iron again!"

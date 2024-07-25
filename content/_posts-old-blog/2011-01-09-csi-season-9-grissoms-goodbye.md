@@ -1,6 +1,6 @@
 ---
 id: 3022
-title: 'CSI Season 9 &#8211; Grissom&#8217;s Goodbye'
+title: 'CSI Season 9 — Grissom's Goodbye'
 date: '2011-01-09T16:16:19-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The behind the scenes clips form Season 9 where William Petersen says Sara is the heart of Grissom.'

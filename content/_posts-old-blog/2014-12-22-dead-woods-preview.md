@@ -1,6 +1,6 @@
 ---
 id: 11758
-title: '&#8220;Dead Woods&#8221; Preview'
+title: '"Dead Woods" Preview'
 date: '2014-12-22T14:24:50-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A Sara Sidle Christmas Present for you!'

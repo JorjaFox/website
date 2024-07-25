@@ -1,6 +1,6 @@
 ---
 id: 1762
-title: 'ER 15&#215;24 &#8211; Retrospective'
+title: 'ER 15&#215;24 — Retrospective'
 date: '2009-04-03T09:19:35-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja was in the <em>ER</em> ''episode'' "Retrospective", where cast members, past and present, talked about the show.  Videos, recaps and images included in the post.'
@@ -43,7 +43,7 @@ tags:
 &bull; <a href="https://jorjafox.net/wiki/Retrospective" rel="nofollow">Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/er/season15/retrospective/" rel="nofollow">Screencaps</a>
 
-<strong>Videos</strong>
+**Videos**
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/2mnA00h2gL8&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2mnA00h2gL8&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 (at 7:19)
 

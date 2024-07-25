@@ -35,7 +35,7 @@ tags:
 Thanks to Lanos for spotting this one!
 
 Jorja was in Ecuador again. From the news page of the hotel:
-<blockquote><strong>CSI actress Jorja Fox</strong>
+<blockquote>**CSI actress Jorja Fox**
 
 Several weeks ago, CSI actress Jorja Fox, visited Ecuador to explore further her passion in animal rights and the conservation of the environment. During her time in Ecuador, Ms Fox visited the Ecuadorian capital of Quito, located in the Avenue of the Volcanoes and the Galapagos Islands.
 

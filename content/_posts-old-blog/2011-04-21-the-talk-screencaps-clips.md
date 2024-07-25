@@ -1,6 +1,6 @@
 ---
 id: 3293
-title: 'The Talk &#8211; Screencaps, Clips'
+title: 'The Talk — Screencaps, Clips'
 date: '2011-04-21T20:09:51-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Clips from CBS (if you''re in the US), screenshots and a promo photo if you''re not!'

@@ -1,6 +1,6 @@
 ---
 id: 2613
-title: 'CSI 11&#215;02 &#8211; &#8220;Pool Shark&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;02 — "Pool Shark" Discussion Post (Updated)'
 date: '2010-09-30T10:00:08-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jump the shark? Let''s feed the shark! New CSI tonight! <em>Updated October 2nd, 10:30pm</em>'
@@ -25,7 +25,7 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/09/pool-shark-promo-100x100.jpg" alt="" title="pool-shark-promo" width="100" height="100" class="alignleft size-thumbnail wp-image-2584" /> As usual, speculate and spoil yourselves. Once again, I'll update the post Saturday night, once I have screencaps etc.  Yeah, <strong>Saturday</strong> night. This should be the last week I'm out and about on a Thursday night (it's <a href="http://www.jewfaq.org/holiday6.htm">Simchat Torah</a>). If someone else wants to write up a recap, post it in the comments here or email it to webmaster@jorjafox.net and great thanks will be yours! Until then, don't blow things up.
+<img src="//static.jorjafox.net/wordpress/2010/09/pool-shark-promo-100x100.jpg" alt="" title="pool-shark-promo" width="100" height="100" class="alignleft size-thumbnail wp-image-2584" /> As usual, speculate and spoil yourselves. Once again, I'll update the post Saturday night, once I have screencaps etc.  Yeah, **Saturday** night. This should be the last week I'm out and about on a Thursday night (it's <a href="http://www.jewfaq.org/holiday6.htm">Simchat Torah</a>). If someone else wants to write up a recap, post it in the comments here or email it to webmaster@jorjafox.net and great thanks will be yours! Until then, don't blow things up.
 
 <h2>Official Release</h2>
 Hysteria ensues when a shark attacks a woman in the pool at a Las Vegas casino "day club," and the CSIs must determine if the killer is human or shark.

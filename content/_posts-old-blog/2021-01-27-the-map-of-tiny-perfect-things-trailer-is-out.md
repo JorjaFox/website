@@ -1,6 +1,6 @@
 ---
 id: 17892
-title: '&#8220;The Map of Tiny Perfect Things&#8221; Trailer Is Out'
+title: '"The Map of Tiny Perfect Things" Trailer Is Out'
 date: '2021-01-27T18:12:28-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Like "Groundhog''s Day", only it''s two teens stuck in a loop. The trailer has dropped, so have a look!'
@@ -27,16 +27,16 @@ tags:
     - 'the map of tiny perfect things'
 ---
 
-<p>Since I know you'll want to know:</p>
+Since I know you'll want to know:
 
-<ol><li>No, Jorja isn't in the trailer</li><li>The movie will be released on <strong>February 12th</strong></li><li>You can watch it on <strong>Amazon Prime</strong></li></ol>
+<ol><li>No, Jorja isn't in the trailer</li><li>The movie will be released on **February 12th**</li><li>You can watch it on **Amazon Prime**</li></ol>
 
-<p>Good to go?</p>
+Good to go?
 
-<p>Here's the trailer!</p>
+Here's the trailer!
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=ZOxsfKQWrUg
 </div></figure>
 
-<p><em><a href="https://jorjafox.net/library/actor/map-of-tiny-perfect-things/">The Map of Tiny Perfect Things</a></em> tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how – and whether – to escape their never-ending day.</p>
+<em><a href="https://jorjafox.net/library/actor/map-of-tiny-perfect-things/">The Map of Tiny Perfect Things</a></em> tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how – and whether – to escape their never-ending day.

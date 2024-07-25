@@ -1,6 +1,6 @@
 ---
 id: 9814
-title: 'Jorja: Being at the Grammy&#8217;s &#8220;an absolute thrill&#8221;'
+title: 'Jorja: Being at the Grammy's "an absolute thrill"'
 date: '2014-01-27T16:26:50-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja posted on her FB page about the Grammys.'

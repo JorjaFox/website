@@ -1,6 +1,6 @@
 ---
 id: 2315
-title: 'Forever Fabulous &#8211; New Screencaps'
+title: 'Forever Fabulous — New Screencaps'
 date: '2010-03-24T09:00:55-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Who needs March Madness when you can have Forever Fabulous? New screencaps for you and promises for later this week!'

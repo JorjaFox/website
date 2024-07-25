@@ -1,6 +1,6 @@
 ---
 id: 14416
-title: 'Jorja&#8217;s Experiment Day 9: Hug Yourself'
+title: 'Jorja's Experiment Day 9: Hug Yourself'
 date: '2017-04-25T18:27:07-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'After all that hugging, don''t forget yourself.'

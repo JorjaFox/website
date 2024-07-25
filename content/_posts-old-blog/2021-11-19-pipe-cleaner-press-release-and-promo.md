@@ -1,6 +1,6 @@
 ---
 id: 19034
-title: '&#8220;Pipe Cleaner&#8221; Press Release and Promo'
+title: '"Pipe Cleaner" Press Release and Promo'
 date: '2021-11-19T11:00:00-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Human remains in a tub? That''s perfect Thanksgiving fodder!'
@@ -53,11 +53,11 @@ tags:
     - video
 ---
 
-<p>For some reason, CBS released the Promo <strong>before</strong> the press release or photos. Not sure what's up there. They haven't released all the photos yet.</p>
+For some reason, CBS released the Promo **before** the press release or photos. Not sure what's up there. They haven't released all the photos yet.
 
-<blockquote class="wp-block-quote"><p>THE CSI TEAM INVESTIGATES HUMAN REMAINS FOUND IN A CONVENTION CENTER OWNER’S BATHTUB, JUST DAYS BEFORE THE DAVID HODGES TRIAL BEGINS, ON “CSI: VEGAS,” WEDNESDAY, NOV. 24</p><p>“Pipe Cleaner” – When the CSIs are called to investigate human remains found in a convention center owner’s bathtub, Sara and Grissom use the case to get close to attorney Anson Wix’s star forensic expert witness, just days before David Hodges’ trial begins, on the CBS Original series CSI: VEGAS, Wednesday, Nov. 24 (10:00-11:00 PM, ET/PT) on the CBS Television Network, and available to stream live and on demand on Paramount+*.</p></blockquote>
+<blockquote class="wp-block-quote">THE CSI TEAM INVESTIGATES HUMAN REMAINS FOUND IN A CONVENTION CENTER OWNER’S BATHTUB, JUST DAYS BEFORE THE DAVID HODGES TRIAL BEGINS, ON “CSI: VEGAS,” WEDNESDAY, NOV. 24“Pipe Cleaner” – When the CSIs are called to investigate human remains found in a convention center owner’s bathtub, Sara and Grissom use the case to get close to attorney Anson Wix’s star forensic expert witness, just days before David Hodges’ trial begins, on the CBS Original series CSI: VEGAS, Wednesday, Nov. 24 (10:00-11:00 PM, ET/PT) on the CBS Television Network, and available to stream live and on demand on Paramount+*.</blockquote>
 
-<p>Oh and that really is remains plural...</p>
+Oh and that really is remains plural...
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=KshimpOtIc8

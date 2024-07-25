@@ -1,6 +1,6 @@
 ---
 id: 4448
-title: '&#8220;Malice in Wonderland&#8221; Recap and Screencaps'
+title: '"Malice in Wonderland" Recap and Screencaps'
 date: '2012-03-22T11:37:27-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four stars, for GSR and a plant. Also science.'

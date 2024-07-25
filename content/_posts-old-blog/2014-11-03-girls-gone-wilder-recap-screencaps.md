@@ -1,6 +1,6 @@
 ---
 id: 11522
-title: '&#8220;Girls Gone Wilder&#8221; Recap and Screencaps'
+title: '"Girls Gone Wilder" Recap and Screencaps'
 date: '2014-11-03T03:30:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Let''s just have a day where we''re shot at after seeing dancing go-go-guys.'
@@ -31,7 +31,7 @@ tags:
 
 Welcome to the week delayed recap of a week delayed show which <em>actually</em> aired for me at home. Seriously, I came home to find it on my DVR. Now I know that 90% of you have not seen this episode. To that I express my apologies. You know how to look this stuff up online, so please do, but <em>also</em> please send in actual letters (postal mail) to CBS and express that you want this show and this episode to air.
 
-<strong><strong>If you have not seen the episode and do not want spoilers, turn back now.</strong></strong>
+****If you have not seen the episode and do not want spoilers, turn back now.****
 
 Hi. I did see this episode, it was great. It's a five stars for Sara, who gets some backstory with a really creepy criminalist and a case that comes back to haunt her. When we find out the red herring wasn't a red herring after all, everything changes. This was an entertaining romp, complete with character shoutouts to previous episodes and a visit from Captain Continuity. It's interesting that Sara still does believe in love, even though it worked out so well for her. So did being shot at. Or aimed at. Yeah, Sara's therapist is making money hand over fist, I betcha.
 

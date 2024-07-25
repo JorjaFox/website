@@ -1,6 +1,6 @@
 ---
 id: 8638
-title: '&#8220;Take the Money and Run&#8221; Recap and Screencaps'
+title: '"Take the Money and Run" Recap and Screencaps'
 date: '2013-10-03T00:11:31-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'I''m giving it three stars again for Sara scenes and generally awesomeness. Worth watching, def!'

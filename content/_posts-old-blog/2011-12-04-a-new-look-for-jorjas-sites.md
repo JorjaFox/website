@@ -1,6 +1,6 @@
 ---
 id: 4075
-title: 'A New Look For Jorja&#8217;s Sites?'
+title: 'A New Look For Jorja's Sites?'
 date: '2011-12-04T11:57:09-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja''s sites look like they''re getting a facelift.  I wonder what they''ll look like!'

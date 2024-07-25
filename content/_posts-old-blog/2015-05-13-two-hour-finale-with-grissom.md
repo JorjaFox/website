@@ -1,6 +1,6 @@
 ---
 id: 12909
-title: 'Two Hour CSI Finale on Sept 27 &#8211; With Grissom'
+title: 'Two Hour CSI Finale on Sept 27 — With Grissom'
 date: '2015-05-13T06:23:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Marg and Billy return for the 2 hour finale. Cross your fingers.'
@@ -20,7 +20,7 @@ tags:
 
 From [CBS Press Express](http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=42646):
 
-> the two-hour series finale farewell for CSI: CRIME SCENE INVESTIGATION on Sunday, Sept. 27, reuniting original cast members including William Petersen and Marg Helgenberger. 
+> the two-hour series finale farewell for CSI: CRIME SCENE INVESTIGATION on Sunday, Sept. 27, reuniting original cast members including William Petersen and Marg Helgenberger.
 
 Pause.
 

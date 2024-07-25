@@ -1,6 +1,6 @@
 ---
 id: 10711
-title: 'Season 14 Finale &#8220;Dead In His Tracks&#8221; Promo'
+title: 'Season 14 Finale "Dead In His Tracks" Promo'
 date: '2014-05-05T09:42:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Dead in his tracks or on the tracks? Find out this week in the season finale of CSI!'

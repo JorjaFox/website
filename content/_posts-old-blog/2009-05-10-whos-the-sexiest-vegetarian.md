@@ -1,6 +1,6 @@
 ---
 id: 1842
-title: 'Who&#8217;s The Sexiest Vegetarian?'
+title: 'Who's The Sexiest Vegetarian?'
 date: '2009-05-10T12:12:34-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Arm your mouse and vote for the sexiest vegetarian celebrity.'

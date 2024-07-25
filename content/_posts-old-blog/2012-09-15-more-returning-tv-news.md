@@ -19,7 +19,7 @@ tags:
 ---
 
 You know, I only trust these so far. They said the same things last year, but we didn't get a whole lot.
-<blockquote><strong>Who's new or returning:</strong> McGill says they'll focus on the core cast this season -- including, finally, answering the perplexing question: What's up with Sara (Jorja Fox) and Grissom (the long-departed William Petersen)? He's been in the jungle for years, but she's still on the case -- are they even married anymore? "We'll answer that, in a way that may surprise people." McGill says. "We'll deal with her dissatisfaction with the long-distance relationship, and may find a resolution as to where the marriage is headed." The season also will explore the relationship of Ecklie to his estranged CSI daughter Morgan (Elisabeth Harnois) -- and his romance with Hodges' mom Olivia (guest Jaclyn Smith).</blockquote>
+<blockquote>**Who's new or returning:** McGill says they'll focus on the core cast this season -- including, finally, answering the perplexing question: What's up with Sara (Jorja Fox) and Grissom (the long-departed William Petersen)? He's been in the jungle for years, but she's still on the case -- are they even married anymore? "We'll answer that, in a way that may surprise people." McGill says. "We'll deal with her dissatisfaction with the long-distance relationship, and may find a resolution as to where the marriage is headed." The season also will explore the relationship of Ecklie to his estranged CSI daughter Morgan (Elisabeth Harnois) -- and his romance with Hodges' mom Olivia (guest Jaclyn Smith).</blockquote>
 Credit: <a href="http://www.usatoday.com/life/tv/story/2012/09/14/more-of-falls-returning-tv-shows/57781778/1">USA Today</a>
 
 So take it with a grain of salt.

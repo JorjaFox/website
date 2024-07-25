@@ -20,7 +20,7 @@ tags:
 
 Shelli Bergh knows how to spell Jorja, but her autocorrect is a dork.
 
-<blockquote class="twitter-tweet tw-align-center"><p><a href="https://twitter.com/search/%23jorgafox">#jorgafox</a> <a href="https://twitter.com/search/%23ericszamanda">#ericszamanda</a> <a href="https://twitter.com/search/%23louismilito">#louismilito</a> @<a href="https://twitter.com/csiwritersroom">csiwritersroom</a> @<a href="https://twitter.com/csifiles">csifiles</a> @<a href="https://twitter.com/bruckheimerjb">bruckheimerjb</a> fun in the bullpen tonight twitter.com/Bravo_George/s…</p>&mdash; shelli bergh (@Bravo_George) December 4, 2012</blockquote>
+<blockquote class="twitter-tweet tw-align-center"><a href="https://twitter.com/search/%23jorgafox">#jorgafox</a> <a href="https://twitter.com/search/%23ericszamanda">#ericszamanda</a> <a href="https://twitter.com/search/%23louismilito">#louismilito</a> @<a href="https://twitter.com/csiwritersroom">csiwritersroom</a> @<a href="https://twitter.com/csifiles">csifiles</a> @<a href="https://twitter.com/bruckheimerjb">bruckheimerjb</a> fun in the bullpen tonight twitter.com/Bravo_George/s…&mdash; shelli bergh (@Bravo_George) December 4, 2012</blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The picture is from the upcoming "In Vino Veritas" (the crossover&nbsp;episode&nbsp;with CSI:NY). Yep! Jorja's in it!

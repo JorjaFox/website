@@ -1,6 +1,6 @@
 ---
 id: 19003
-title: '&#8220;Funhouse&#8221; Promos and Peeks'
+title: '"Funhouse" Promos and Peeks'
 date: '2021-11-08T10:31:48-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The lab on lockdown? A killer among us? This is the least fun version of that game!'
@@ -51,7 +51,7 @@ tags:
     - video
 ---
 
-<p>Another week, another new episode to look forward to!</p>
+Another week, another new episode to look forward to!
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=McxGHXBgRm0
@@ -65,4 +65,4 @@ https://www.youtube.com/watch?v=-hQ2UOhiht8
 https://www.youtube.com/watch?v=7vnaKs61684
 </div></figure>
 
-<p>What do you think caused the lockdown?</p>
+What do you think caused the lockdown?

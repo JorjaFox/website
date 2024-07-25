@@ -1,6 +1,6 @@
 ---
 id: 2369
-title: 'Promo Video CSI 10&#215;20 &#8211; Take My Life, Please!'
+title: 'Promo Video CSI 10&#215;20 — Take My Life, Please!'
 date: '2010-04-26T11:17:46-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CBS''s promo video for this Thursday''s <em>CSI</em>.  And yes, Sara''s in there.'

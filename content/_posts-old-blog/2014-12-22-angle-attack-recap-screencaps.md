@@ -1,6 +1,6 @@
 ---
 id: 11755
-title: '&#8220;Angle of Attack&#8221; Recap and Screencaps'
+title: '"Angle of Attack" Recap and Screencaps'
 date: '2014-12-22T04:00:26-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'One star for one scene. The math is pretty simple that way.'

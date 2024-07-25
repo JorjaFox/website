@@ -1,6 +1,6 @@
 ---
 id: 2337
-title: 'CSI 10&#215;17 &#8211; &#8220;Irradiator&#8221; Discussion Post (Updated)'
+title: 'CSI 10&#215;17 — "Irradiator" Discussion Post (Updated)'
 date: '2010-04-08T08:00:10-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"This is severely twisted," says Sara.  Could Dr. Jekyll be involved? Tune in tonight at the normal 9pm to find out! (Updated 10:25pm ET)'
@@ -38,7 +38,7 @@ http://www.youtube.com/watch?v=OkEOvjOCnz0
 <h2>Recap</h2>
 <del datetime="2010-04-09T02:24:33+00:00"><em>Coming Soon!</em></del>
 
-Updated at 10:25pm ET.  This was ... Wow. I enjoyed a CSI episode on it's own merits for the first time since probably "Ending Happy."  I'm a twisted person.  Good episode, obvious twists, and a lot of Sara! 
+Updated at 10:25pm ET.  This was ... Wow. I enjoyed a CSI episode on it's own merits for the first time since probably "Ending Happy."  I'm a twisted person.  Good episode, obvious twists, and a lot of Sara!
 
 <ul>
 	<li><a href="https://jorjafox.net/wiki/Irradiator">Recap</a></li>

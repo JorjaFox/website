@@ -19,7 +19,7 @@ tags:
     - roundup
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/12/DecemberRoundup-100x100.png" alt="DecemberRoundup" title="DecemberRoundup" width="100" height="100" class="alignleft size-thumbnail wp-image-2145" />As always, I hope the ads interest you enough that you click on them to check them out, as they are our primary source of income and keeps the site moving and ensure I don't have to beg for donations. 
+<img src="//static.jorjafox.net/wordpress/2009/12/DecemberRoundup-100x100.png" alt="DecemberRoundup" title="DecemberRoundup" width="100" height="100" class="alignleft size-thumbnail wp-image-2145" />As always, I hope the ads interest you enough that you click on them to check them out, as they are our primary source of income and keeps the site moving and ensure I don't have to beg for donations.
 
 Credit to <a href="http://chuck-charles.livejournal.com/">Chuck_Charles</a> for the awesome photo manips.  You can download more on <a href="http://community.livejournal.com/jorjaallaround/493983.html">LiveJournal</a>.  They're not real pictures, but photo manipulation. Don't think you missed a photo shoot.
 
@@ -43,9 +43,9 @@ Speaking of France, the French magazine TeleStar reproduced the TV Guide Magazin
 The next time we'll see Sara is for the January 21st episode "Long Ball."  It's about golf, not baseball.
 
 <h2>Charity and Fundraisers</h2>
-Don't forget that JFO and JAA are still accepting donations for AHOPE via a <strong><a href="http://community.livejournal.com/jorjaallaround/607633.html">gift draw</a></strong> (which means if you donate, you might win pretty things), other Jorja related sites have had amazing success.
+Don't forget that JFO and JAA are still accepting donations for AHOPE via a **<a href="http://community.livejournal.com/jorjaallaround/607633.html">gift draw</a>** (which means if you donate, you might win pretty things), other Jorja related sites have had amazing success.
 
-<strong><a href="http://joisaway09.livejournal.com/">Jo (aka Hodiestoe)</a></strong> raised enough money to go to Rwanda (we'll miss you!)!  Marg Helgenberger fansite <strong>Margamania</strong> raised $500 to the <a href="http://ww5.komen.org/">Susan G. Komen For the Cure</a> foundation to honor Marg.  The William Petersen Appreciation Page <strong><a href="http://billypetersen.com/site/2009/12/victory-gardens-fundraiser-final-donation-figure/">WPAP</a></strong> raised $1,500 for their <a href="http://billypetersen.com/site/fundraising/victory-gardens-fundraiser/">Victory Garden Fundraiser</a>.
+**<a href="http://joisaway09.livejournal.com/">Jo (aka Hodiestoe)</a>** raised enough money to go to Rwanda (we'll miss you!)!  Marg Helgenberger fansite **Margamania** raised $500 to the <a href="http://ww5.komen.org/">Susan G. Komen For the Cure</a> foundation to honor Marg.  The William Petersen Appreciation Page **<a href="http://billypetersen.com/site/2009/12/victory-gardens-fundraiser-final-donation-figure/">WPAP</a>** raised $1,500 for their <a href="http://billypetersen.com/site/fundraising/victory-gardens-fundraiser/">Victory Garden Fundraiser</a>.
 
 Also, someone emailed me to thank me about the greyhound posting, and promises pics when she's brought her rescues home.  I can't wait!
 
@@ -58,7 +58,7 @@ Did you know that JFO was 13 this month?  I thought it was only 12, but then I w
 <h3>Site Policy</h3>
 I want to remind people about the <a href="https://jorjafox.net/wiki/JorjaPedia:Policy">site policy</a> here which states:
 
-<blockquote><strong>Speculation about Jorja Fox's personal life is not permitted</strong>
+<blockquote>**Speculation about Jorja Fox's personal life is not permitted**
 You're allowed to talk about anything that is open, public knowledge (her mother's death of cancer, for example), but anything that isn't (her sexuality or the rampant pregnancy rumors) are not welcome topics here. Frankly, we believe you should afford Jorja the same respect and privacy you would anyone else, and leave rumors out of her personal life. </blockquote>
 
 A couple people have had their comments here removed due to violation of that policy and some felt it restrictive and disingenuous of me to promote her public life (her advocacy schedule for example) but to be so hard-lined about her private life.  To that, all I can say is that I'm sorry. I find invasion of privacy to be distasteful and disrespectful.  And yes, I know 'other sites' allow rampant speculation of anything an everything.  I don't and I'm not responsible for anything but here.  Private lives are private.  If you can't deal with that, no one's making you visit here.

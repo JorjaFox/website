@@ -24,6 +24,6 @@ There is no added value to your life that will be gained by signing up at JFO.  
 
 The logical extension of this question is 'Why not let me log in with my FaceBook/Twitter/LiveJournal/Blogger/WordPress.com ID?'  And yes, other sites use a feature called OpenID to do this.  OpenID basically lets you log in with any other verified ID to post.  There are problems with that, however. Some are logistical code ones, others are ethical and the biggest, to me, is user-friendly issues.  I want it to be easy to login here and comment.  So for now? I give everyone two options: post comments to the blog without signing up or sign up and have access to comment on everything.
 
-Of course there's some code to prevent the 'anonymous' users (i.e. the ones without accounts) from pretending to be the 'registered' users, and some other tricks behind the scenes, but the basic rule is this: You do <strong>not</strong> have to login here to enjoy JFO.
+Of course there's some code to prevent the 'anonymous' users (i.e. the ones without accounts) from pretending to be the 'registered' users, and some other tricks behind the scenes, but the basic rule is this: You do **not** have to login here to enjoy JFO.
 
 If you want to post to the groups, or have your own status page or send private messages, well, then you need an account. Otherwise, I promise you that JFO will remain free for you to just post comments and read everything.

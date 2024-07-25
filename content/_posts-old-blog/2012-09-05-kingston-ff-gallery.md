@@ -1,6 +1,6 @@
 ---
 id: 5133
-title: '&#8220;How I Became An Elephant&#8221; @ Kingston Film Festival'
+title: '"How I Became An Elephant" @ Kingston Film Festival'
 date: '2012-09-05T11:45:26-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Lovely photos of Jorja at the "How I Became An Elephant" screening at the Kingston Film Festival on Monday, September 3rd.'

@@ -1,6 +1,6 @@
 ---
 id: 1433
-title: 'Wow &#8211; Thank you!'
+title: 'Wow — Thank you!'
 date: '2009-01-19T09:20:57-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Thank you for the traffic!'

@@ -1,6 +1,6 @@
 ---
 id: 4173
-title: '&#8220;Willows in the Wind&#8221; Promotional Photos'
+title: '"Willows in the Wind" Promotional Photos'
 date: '2012-01-03T19:02:31-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promotional photos of Catherine''s last day in the Lab.'

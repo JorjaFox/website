@@ -1,6 +1,6 @@
 ---
 id: 3312
-title: '11&#215;21 &#8220;In a Dark, Dark Place&#8221; Preview'
+title: '11&#215;21 "In a Dark, Dark Place" Preview'
 date: '2011-05-06T09:35:57-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Here it comes.  The end of Season 11!'

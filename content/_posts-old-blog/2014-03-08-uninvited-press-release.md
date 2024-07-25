@@ -1,6 +1,6 @@
 ---
 id: 10115
-title: '&#8220;Uninvited&#8221; Press Release'
+title: '"Uninvited" Press Release'
 date: '2014-03-08T10:29:49-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja will not be in this episode.'

@@ -1,6 +1,6 @@
 ---
 id: 2116
-title: 'CSI Filming Sighting (Nov 4th) &#8211; Updated'
+title: 'CSI Filming Sighting (Nov 4th) — Updated'
 date: '2009-11-16T09:17:33-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Heath reported a Jorja filming sighting of <em>CSI</em> on November 4th to <a href="http://tvspoilers-odi.blogspot.com">TV Spoilers at The ODI</a> <em>Added in promo pics.</em>'
@@ -39,6 +39,6 @@ Not correcting for spelling/grammar ('jorga'? Really?)
 
 Credit: <a href="http://tvspoilers-odi.blogspot.com/2009/11/csi-las-veags-small-filming-update.html">The ODI: CSI: Las Veags - Small Filming Update - November 4th</a>
 
-Also promo pics from <strong><a href="http://www.cbspressexpress.com/div.php/cbs_entertainment/original/photos?id=231&dpid=56">CBS Entertainment</a></strong>
+Also promo pics from **<a href="http://www.cbspressexpress.com/div.php/cbs_entertainment/original/photos?id=231&dpid=56">CBS Entertainment</a>**
 
-[gallery columns="5" orderby="title" size="medium"] 
+[gallery columns="5" orderby="title" size="medium"]

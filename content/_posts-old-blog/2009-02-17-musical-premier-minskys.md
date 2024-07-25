@@ -1,6 +1,6 @@
 ---
 id: 1607
-title: 'Musical Premier &#8211; Minsky&#8217;s'
+title: 'Musical Premier — Minsky's'
 date: '2009-02-17T16:19:11-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It was a star-studded opening night for the burlesque musical <em>Minsky''s</em> at the Ahmanson Theatre in LA.  Jorja Fox enjoyed the show and in the video, can be seen and heard at the 44 second mark. Read the full article for it all!'

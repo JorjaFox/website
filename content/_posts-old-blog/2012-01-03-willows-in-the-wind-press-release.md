@@ -1,6 +1,6 @@
 ---
 id: 4169
-title: 'CSI 12&#215;12 &#8220;Willows In The Wind&#8221; Press Release'
+title: 'CSI 12&#215;12 "Willows In The Wind" Press Release'
 date: '2012-01-03T15:10:48-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: ' Did we see subtle clues about Catherine leaving CSI? If so, why now? Marg''s final episode airs January 25th.'

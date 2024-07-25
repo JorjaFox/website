@@ -25,7 +25,7 @@ tags:
 
 <img class="alignleft size-thumbnail wp-image-3489" title="hunt-003" src="//static.jorjafox.net/wordpress/2011/06/hunt-003-224x140.jpg" alt="" width="100" height="75" />After CBS has gone on the rampage, shutting down YouTube accounts for fansites, I've decided to re-vamp how <a href="https://jorjafox.net/videos">JFO Videos</a> are going to work.
 
-First, there will be videos you just can't find elsewhere.  Exclusive videos (like the one I took at the Humane Society Gala), or just ones nigh impossible to find.  Those are all <em>self-hosted</em> here on the server, and will be few and far between.  These will be viewable for all nations and while I generally will make them freely downloadable, I ask you <strong>not</strong> reproduce them on other sites.  Honor code, people.
+First, there will be videos you just can't find elsewhere.  Exclusive videos (like the one I took at the Humane Society Gala), or just ones nigh impossible to find.  Those are all <em>self-hosted</em> here on the server, and will be few and far between.  These will be viewable for all nations and while I generally will make them freely downloadable, I ask you **not** reproduce them on other sites.  Honor code, people.
 
 Second, official videos that CBS (or whomever) post in ways I can embed into this site.  The catch to that is some of the videos won't be internationally viewable.  Thats up to the copyright holders of the videos and I <em>will not</em> be breaking copyright.  Sorry guys, but when it comes down to 'Have videos for some or none at all' I had to go with the legal way of doing these things.
 

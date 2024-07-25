@@ -1,6 +1,6 @@
 ---
 id: 11674
-title: '&#8220;Angle of Attack&#8221; Press Release'
+title: '"Angle of Attack" Press Release'
 date: '2014-12-05T03:48:15-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A hit and run that isn''t a hit and run... Maybe? What does it have to do with planes, though?'
@@ -18,8 +18,8 @@ tags:
     - tv
 ---
 
-<strong>Notice</strong> - This is one of the days we <em>expect</em> CSI to get bumped!
-<blockquote><strong>CBS Sunday, Dec. 21 and 28 (Football Doubleheaders)</strong>
+**Notice** - This is one of the days we <em>expect</em> CSI to get bumped!
+<blockquote>**CBS Sunday, Dec. 21 and 28 (Football Doubleheaders)**
 8:30-9:30 PM, ET/8:00-9:00 PM, PT UNDERCOVER BOSS
 9:30-10:30 PM, ET/9:00-10:00 PM, PT THE MENTALIST
 10:30-11:30 PM, ET/10:00-11:00 PM, PT CSI</blockquote>

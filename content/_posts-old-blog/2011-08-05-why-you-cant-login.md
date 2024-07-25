@@ -1,6 +1,6 @@
 ---
 id: 3626
-title: 'Why You Can&#8217;t Login'
+title: 'Why You Can't Login'
 date: '2011-08-05T16:38:07-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This is huge case of ''it''s not you, it''s me!'' Short version - Don''t worry, just leave a comment without logging in.'
@@ -23,7 +23,7 @@ tags:
 
 Because of that, right now, no one (but me) can log in.
 
-This <strong>does not</strong> affect anything.  It just means you have to type in your name and email every time you comment, and you can't use the groups right now.  Which is a pain, because I really do like them, but ... I'm actually still not sure exactly what happened (the experts and I agree it's probably due to my shenanigans in 2009).  In order to get the site back up and running, I've brought it back to basics: a blog where anyone can comment.
+This **does not** affect anything.  It just means you have to type in your name and email every time you comment, and you can't use the groups right now.  Which is a pain, because I really do like them, but ... I'm actually still not sure exactly what happened (the experts and I agree it's probably due to my shenanigans in 2009).  In order to get the site back up and running, I've brought it back to basics: a blog where anyone can comment.
 
 Where we go from there is up to <em>you</em>.
 

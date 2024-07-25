@@ -1,6 +1,6 @@
 ---
 id: 1890
-title: '&#8220;Drop Dead Diva&#8221; airdate'
+title: '"Drop Dead Diva" airdate'
 date: '2009-06-10T13:38:33-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Straight from LifetimeTV, the airdate for the episode of a soccer mom with a criminal past has been revealed!  Let the DVR planning commence.'

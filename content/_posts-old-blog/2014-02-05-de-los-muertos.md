@@ -1,6 +1,6 @@
 ---
 id: 9890
-title: '&#8220;De Los Muertos&#8221; Discussion Post'
+title: '"De Los Muertos" Discussion Post'
 date: '2014-02-05T13:00:17-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Well that''s one hell of a body dump tonight on an all new CSI.'

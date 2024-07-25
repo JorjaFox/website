@@ -1,6 +1,6 @@
 ---
 id: 2289
-title: 'CSI 10&#215;14 &#8220;Unshockable&#8221; March 4th &#8211; Discussion Post (Updated)'
+title: 'CSI 10&#215;14 "Unshockable" March 4th — Discussion Post (Updated)'
 date: '2010-03-04T07:52:02-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Guest starring Rascal Flatts, CSI''s 14th episode, "Unshockable", airs tonight. <del datetime="2010-03-05T03:01:15+00:00">This post will be updated after the episode airs with a review and screenshot links.</del> Updated.'

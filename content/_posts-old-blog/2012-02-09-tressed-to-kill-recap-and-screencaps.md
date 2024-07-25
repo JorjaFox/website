@@ -1,6 +1,6 @@
 ---
 id: 4321
-title: '&#8220;Tressed to Kill&#8221; &#8211; Recap and Screencaps'
+title: '"Tressed to Kill" — Recap and Screencaps'
 date: '2012-02-09T09:20:58-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Recaps, screencaps and four starts for Sara! It''s a good week!'

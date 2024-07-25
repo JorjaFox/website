@@ -1,6 +1,6 @@
 ---
 id: 19020
-title: '&#8220;Bad day at Ikea&#8221; &#8211; Sneak Peek from &#8220;In the Blood&#8221;'
+title: '"Bad day at Ikea" — Sneak Peek from "In the Blood"'
 date: '2021-11-15T17:07:40-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Grissom and Sara are back to working on the case. Nice furniture... before it blew up.'

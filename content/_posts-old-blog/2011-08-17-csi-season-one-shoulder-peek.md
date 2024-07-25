@@ -24,5 +24,5 @@ Jeffrey Hunt (aka <a href="http://twitter.com/Huntvision/">@huntvision</a>) deci
 http://twitter.com/#!/Huntvision/status/103618714951360512
 
 Shane won, and pointed out to me that Jorja's in that pic!
-<p style="text-align: center;"><a href="https://jorjafox.net/gallery/tv/csi/pub/s01/cratenburial.jpg"><img class="size-full wp-image-3664 aligncenter" title="Crate'n'Burial" src="//static.jorjafox.net/wordpress/2011/08/huntvision.jpg" alt="Jorja, hiding in back." width="600" height="400" /></a></p>
+<p style="text-align: center;"><a href="https://jorjafox.net/gallery/tv/csi/pub/s01/cratenburial.jpg"><img class="size-full wp-image-3664 aligncenter" title="Crate'n'Burial" src="//static.jorjafox.net/wordpress/2011/08/huntvision.jpg" alt="Jorja, hiding in back." width="600" height="400" /></a>
 I've marked her for you.  Click on the pic to see it full-sized.

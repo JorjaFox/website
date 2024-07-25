@@ -1,6 +1,6 @@
 ---
 id: 6852
-title: 'The Talk &#8211; April 2'
+title: 'The Talk — April 2'
 date: '2013-03-30T21:16:49-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja will be on The Talk on Tuesday the 2nd. '

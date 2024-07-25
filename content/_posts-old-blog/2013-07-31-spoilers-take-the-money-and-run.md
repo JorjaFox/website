@@ -1,6 +1,6 @@
 ---
 id: 7603
-title: 'Two Spoilery Pics for &#8220;Take The Money and Run&#8221;'
+title: 'Two Spoilery Pics for "Take The Money and Run"'
 date: '2013-07-31T11:50:58-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Take the money, run, and take pictures while you do it. Mild spoilers in the pics.'

@@ -1,6 +1,6 @@
 ---
 id: 12731
-title: 'First Look from &#8220;The End Game&#8221;'
+title: 'First Look from "The End Game"'
 date: '2015-02-03T12:34:26-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This is George''s last episode. Sadness.'

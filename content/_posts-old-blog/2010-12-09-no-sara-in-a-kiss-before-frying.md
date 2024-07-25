@@ -1,6 +1,6 @@
 ---
 id: 2798
-title: 'No Sara in &#8220;A Kiss Before Frying&#8221;?'
+title: 'No Sara in "A Kiss Before Frying"?'
 date: '2010-12-09T17:00:21-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'They are <em>KILLING</em> me.  The press release is out and Jorja''s not listed.'
@@ -28,8 +28,8 @@ tags:
 
 <blockquote>"A Kiss Before Frying" — The CSIs link a body with severe burn marks to possible execution by electric chair – and to a legendary Vegas murder.  Meanwhile, Greg asks out Ellen, a pretty schoolteacher and forensics enthusiast who has been touring the crime lab, on CSI: CRIME SCENE INVESTIGATION, Thursday, Jan. 13 (9:00-10:00 PM, ET/PT) on the CBS Television Network.  Burlesque artist Dita Von Teese guest stars as Greg's new love interest, Ellen.
 
-<strong>SERIES REGULARS:</strong>
-Dr. Raymond Langston - Laurence Fishburne 
+**SERIES REGULARS:**
+Dr. Raymond Langston - Laurence Fishburne
 Catherine Willows - Marg Helgenberger
 Nick Stokes - George Eads
 Captain Jim Brass - Paul Guilfoyle
@@ -37,12 +37,12 @@ Greg Sanders - Eric Szmanda
 Dr. Robbins - Robert David Hall
 David Phillips - David Berman
 Hodges - Wallace Langham
- 
-<strong>RECURRING CAST:</strong>
+
+**RECURRING CAST:**
 Archie Johnson - Archie Kao
 Henry Andrews - Jon Wellner
 
-<strong>GUEST CAST:</strong>
+**GUEST CAST:**
 Ellen Whitebridge - Dita Von Teese
 Johannes Desmoot - Andrew Howard
 Paramedic - Jefferey D. Stevens

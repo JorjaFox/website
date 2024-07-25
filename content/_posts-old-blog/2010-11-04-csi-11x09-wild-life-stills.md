@@ -1,6 +1,6 @@
 ---
 id: 2672
-title: 'CSI 11&#215;09: &#8220;Wild Life&#8221; Stills'
+title: 'CSI 11&#215;09: "Wild Life" Stills'
 date: '2010-11-04T14:45:39-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Nine photos for episode nine of Season 11! Airing November 18th.'

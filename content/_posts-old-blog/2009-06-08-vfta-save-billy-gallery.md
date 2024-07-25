@@ -1,6 +1,6 @@
 ---
 id: 1879
-title: 'VFTA &#8211; Save Billy Gallery'
+title: 'VFTA — Save Billy Gallery'
 date: '2009-06-08T10:00:19-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Blast from the past!  This one''s a gallery of hot shots from when Jorja spoke at LA City Hall, asking them to close the elephant exhibit.'

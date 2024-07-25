@@ -1,6 +1,6 @@
 ---
 id: 2794
-title: 'Marlee Matlin cast for &#8220;The Two Mrs. Grissoms&#8221;'
+title: 'Marlee Matlin cast for "The Two Mrs. Grissoms"'
 date: '2010-12-08T16:41:45-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Marlee Matlin announced on Twitter that she''s been cast for a CSI episode airing February 3rd. Isn''t there an ep we''re looking forward too due to air then? Hmmm.'

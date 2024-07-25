@@ -1,6 +1,6 @@
 ---
 id: 3909
-title: 'CSI 12&#215;05 &#8220;CSI Down&#8221; Promo'
+title: 'CSI 12&#215;05 "CSI Down" Promo'
 date: '2011-10-15T19:50:01-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promo video for CSI Down. No Jorja in the video, but I have proof she''s in the episode!'

@@ -3,7 +3,7 @@ id: 2083
 title: 'Fundraiser for A Hope for Children'
 date: '2009-10-26T08:22:11-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'No, this isn''t Jorja, this time it''s us!  Starting November 2nd, JFO and JAA will be raising money for <strong>A Hope for Children</strong>'
+excerpt: 'No, this isn''t Jorja, this time it''s us!  Starting November 2nd, JFO and JAA will be raising money for **A Hope for Children**'
 layout: post
 guid: 'https://jorjafox.net/?p=2083'
 permalink: /2009/fundraiser-for-a-hope-for-children/
@@ -41,6 +41,6 @@ AHOPE (also known as A Hope for Children) strives to support services in Ethiopi
 
 Past just providing orphan care (which AHOPE does with two children’s homes exclusively for the care of those infected with HIV), they strive to educate and reunite families, to find homes for these children and provide long term assistance.  But they can only do so much.
 
-Starting <strong>November 2nd, 2009</strong>, JFO and <a href="http://community.livejournal.com/jorjaallaround">JAA</a> will be joining forces to help raise money for AHOPE.
+Starting **November 2nd, 2009**, JFO and <a href="http://community.livejournal.com/jorjaallaround">JAA</a> will be joining forces to help raise money for AHOPE.
 
 If you're interested in helping out, a couple volunteers are needed on our end, so please <a href="http://community.livejournal.com/jorjaallaround/605871.html">contact the JAA admin</a>.

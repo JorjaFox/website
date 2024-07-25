@@ -1,6 +1,6 @@
 ---
 id: 11731
-title: '&#8220;Dead Woods&#8221; Press Release'
+title: '"Dead Woods" Press Release'
 date: '2014-12-15T18:00:58-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A ten year old case... do we get the return of the Early Sara Sidle Wig?'

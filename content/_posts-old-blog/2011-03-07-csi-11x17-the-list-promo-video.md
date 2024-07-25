@@ -1,6 +1,6 @@
 ---
 id: 3177
-title: 'CSI 11&#215;17: &#8220;The List&#8221; Promo Video'
+title: 'CSI 11&#215;17: "The List" Promo Video'
 date: '2011-03-07T18:42:28-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'While investigating the murder of a convicted ex-cop, the CSIs stumble upon a list in his prison cell with names of several individuals he believed might have been his wife''s true killer on the next episode of CSI.'

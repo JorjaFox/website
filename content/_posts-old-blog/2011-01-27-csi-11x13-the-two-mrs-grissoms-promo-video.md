@@ -1,6 +1,6 @@
 ---
 id: 3068
-title: 'CSI 11&#215;13 &#8220;The Two Mrs. Grissoms&#8221; Promo Videos'
+title: 'CSI 11&#215;13 "The Two Mrs. Grissoms" Promo Videos'
 date: '2011-01-27T21:44:43-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"Old flames still burn hot in this explosive episode."  It''s the ex-lover and the mother-in-law versus the wife next Thursday!  Oh and a husband.  Yes, I said it, Grissom''s back.'
@@ -24,10 +24,10 @@ It took so long for me to post this because I kept cracking up every time I caug
 
 You want to SEE the video?  Oh, sure.
 
-<strong>CBS</strong>
+**CBS**
 http://vimeo.com/19280483
 
-<strong>CTV</strong>
+**CTV**
 http://vimeo.com/19304226
 
 <del datetime="2011-01-28T13:24:34+00:00">By the way, the CTV promo (waiting on it) had Grissom in it. So ... apparently he's around too on a Skype video. That's really all I know at this time.</del>

@@ -7,7 +7,6 @@ categories: ["Recaps"]
 tags: [Index]
 type: index
 notoc: true
-flf_icon: tv
 ---
 
 Television show recaps are available to help you decide what shows and episodes are best to watch for Jorja. Shows are [graded](/library/faq/grading/) on a scale of 0 to 5.

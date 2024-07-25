@@ -1,6 +1,6 @@
 ---
 id: 6895
-title: 'It Wasn&#8217;t April Fools'
+title: 'It Wasn't April Fools'
 date: '2013-04-12T15:15:19-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Another year, another ''Whoops, April first is today?'' Explaining about who the guest author was the other week!'
@@ -20,7 +20,7 @@ The Guest Author was <em>not</em> an April Fools joke, nor was it a sign of the
 
 So I was gone Monday and Tuesday, and I knew that there was CSI news coming. I lamented to a friend, who said they were willing to step in and post 'like [I] do' on JFO for a couple days. The line was drawn at figuring out screenshots, which was okay by me. Posting youtube videos and articles and making sure there was an image was all I really wanted. We decided on 'Guest Author' since what if someone else fills in later.
 
-That's all it was, and I didn't mean to scare anyone! I honestly <strong>forget</strong> about April Fools until I read all the daffy things online and go "Oh, another year where I forgot to turn JFO into DCO."
+That's all it was, and I didn't mean to scare anyone! I honestly **forget** about April Fools until I read all the daffy things online and go "Oh, another year where I forgot to turn JFO into DCO."
 
 Maybe it's time to get some more 'staff' on board here... (I'm a huge control freak, which Guest has been laughing about for some time now, thanks...)
 

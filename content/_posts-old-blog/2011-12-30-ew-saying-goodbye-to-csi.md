@@ -1,6 +1,6 @@
 ---
 id: 4163
-title: 'EW &#8220;Saying Goodbye to CSI&#8221;'
+title: 'EW "Saying Goodbye to CSI"'
 date: '2011-12-30T15:41:01-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Props to KayLyne for the scans of EW''s farewell to Marg issue.'

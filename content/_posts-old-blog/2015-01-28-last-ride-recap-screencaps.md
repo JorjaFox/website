@@ -1,6 +1,6 @@
 ---
 id: 12719
-title: '&#8220;The Last Ride&#8221; Recap and Screencaps'
+title: '"The Last Ride" Recap and Screencaps'
 date: '2015-01-28T04:00:11-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The last ride in a classic car with some classic Sara.'

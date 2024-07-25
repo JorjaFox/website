@@ -1,6 +1,6 @@
 ---
 id: 7143
-title: 'CSI 13&#215;21 &#8220;Ghost of the Past&#8221; Discussion Post'
+title: 'CSI 13&#215;21 "Ghost of the Past" Discussion Post'
 date: '2013-05-08T09:30:08-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Do you believe in ghosts? The team investigates when a ghost hunter dies tonight on CSI!'
@@ -21,7 +21,7 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2013/05/KuR1WRCECOefTfGEyyl3NmvqMd9KrnnB_CSI3330-promos_thumb_640x360.jpg"><img class="alignleft size-medium wp-image-7148" alt="Ghost of the Past" src="//static.jorjafox.net/wordpress/2013/05/KuR1WRCECOefTfGEyyl3NmvqMd9KrnnB_CSI3330-promos_thumb_640x360-300x169.jpg" width="300" height="169" /></a>"Ghosts of the Past" — The CSI team investigates the death of a ghost hunter, on CSI: CRIME SCENE INVESTIGATION, Wednesday, May 8 (10:00-11:00 PM, ET/PT) on the CBS Television Network.
 
-<strong>Videos</strong>
+**Videos**
 
 I think CBS is 'restructuring' how they do videos, as they're starting to make things embedable again from their site. That does mean whenever possible I'll be using their video (legal reasons). If I can, I'll have a 'can't see the video?' link for non-US folks. Doing my best by ya!
 

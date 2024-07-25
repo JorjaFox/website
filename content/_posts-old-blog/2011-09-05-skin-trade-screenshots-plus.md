@@ -22,7 +22,7 @@ tags:
 ---
 
 After a far too long time, I've uploaded <a href="https://jorjafox.net/gallery/movies/skintrade/screenshots">screenshots of Skin Trade</a>.
-<p style="text-align: center;"><a href="https://jorjafox.net/gallery/movies/skintrade/screenshots"><img class="size-medium wp-image-3748 aligncenter" title="Skin Trade" src="//static.jorjafox.net/wordpress/2011/09/skintrade-230x153.jpg" alt="Skin Trade" width="230" height="153" /></a></p>
+<p style="text-align: center;"><a href="https://jorjafox.net/gallery/movies/skintrade/screenshots"><img class="size-medium wp-image-3748 aligncenter" title="Skin Trade" src="//static.jorjafox.net/wordpress/2011/09/skintrade-230x153.jpg" alt="Skin Trade" width="230" height="153" /></a>
 And then I felt guilty.  So I uploaded a <a href="https://jorjafox.net/videos/skin-trade-clip/">video clip</a>  for you, as well.
 
-Skin Trade is <strong>not</strong> a movie for you to watch with the kids.  It's brutal, it's honest and it makes you sick.  Which is why we need movies like this.
+Skin Trade is **not** a movie for you to watch with the kids.  It's brutal, it's honest and it makes you sick.  Which is why we need movies like this.

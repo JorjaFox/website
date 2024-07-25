@@ -1,6 +1,6 @@
 ---
 id: 13610
-title: 'Daily News: &#8216;CSI&#8217; wraps up epic 15-year run with a two-hour movie'
+title: 'Daily News: &#8216;CSI' wraps up epic 15-year run with a two-hour movie'
 date: '2015-09-25T10:14:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '“We can’t close every open storyline from 15 years,” says Jorja Fox, who has played investigator Sara Sidle for the whole run. “But the last show is absolutely a love letter to our fans."'

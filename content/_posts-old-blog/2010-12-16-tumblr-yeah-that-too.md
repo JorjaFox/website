@@ -1,6 +1,6 @@
 ---
 id: 2811
-title: 'Tumblr &#8211; Yeah, That Too'
+title: 'Tumblr — Yeah, That Too'
 date: '2010-12-16T13:10:03-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '<a href="http://jorjafoxonline.tumblr.com/">http://jorjafoxonline.tumblr.com/</a> is indeed the official JFO Tumblr account.'

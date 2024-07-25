@@ -1,6 +1,6 @@
 ---
 id: 4319
-title: 'Anatomy of a TV Hit: &#8211; The Birth of CSI: Part 1'
+title: 'Anatomy of a TV Hit: — The Birth of CSI: Part 1'
 date: '2012-02-10T16:45:43-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The birth of CSI from the new web series "Anatomy of a TV Hit"'

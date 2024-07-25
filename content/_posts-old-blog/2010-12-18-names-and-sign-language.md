@@ -1,6 +1,6 @@
 ---
 id: 2820
-title: 'More From &#8220;Two Mrs. Grissoms&#8221; &#8211; Names and Sign Language'
+title: 'More From "Two Mrs. Grissoms" — Names and Sign Language'
 date: '2010-12-18T18:55:45-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'More from the episode we''re all looking forward too. Like the names of Momma Griss and the ex, as well as exactly how much sign language does Sara know.  Read on!'
@@ -26,7 +26,7 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2010/12/CSI-Peteresen-Gil-mom_320-100x100.jpg" alt="" title="CSI-Peteresen-Gil-mom_320" width="100" height="100" class="alignleft size-thumbnail wp-image-2821" /> I know one of the first questions that came up from the information on this episode was 'Does Sara know sign language?  Is that why Momma Grissom doesn't like her?'  Now we have some answers.
 
-Grissom's mother is <strong>Betty Grissom</strong> (Phyllis Frelich, natch), and his ex-girlfriend is <strong>Julia Holden</strong> (Marlee Matlin), and Sara is still 'struggling' to learn sign language.
+Grissom's mother is **Betty Grissom** (Phyllis Frelich, natch), and his ex-girlfriend is **Julia Holden** (Marlee Matlin), and Sara is still 'struggling' to learn sign language.
 
 From Kate O'Hare at <a href="http://blog.zap2it.com/frominsidethebox/2010/12/marlee-matlin-lobbies-for-csi-chicago.html">Zap2It News</a>:
 

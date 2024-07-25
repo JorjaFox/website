@@ -1,6 +1,6 @@
 ---
 id: 4607
-title: 'Jorja&#8217;s Birthday Fundraiser (2012 Edition)'
+title: 'Jorja's Birthday Fundraiser (2012 Edition)'
 date: '2012-05-06T12:28:11-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This year, JFO is raising money to Heal the Bay. Will you help us clean up the water?'

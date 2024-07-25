@@ -1,6 +1,6 @@
 ---
 id: 5151
-title: 'Promo Pictures for &#8220;Blue Plate Special&#8221;'
+title: 'Promo Pictures for "Blue Plate Special"'
 date: '2012-09-10T12:16:44-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Pictures from Episode two? We gots ''em!'

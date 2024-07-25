@@ -1,6 +1,6 @@
 ---
 id: 6058
-title: '&#8220;Risky Business Class&#8221; Promo'
+title: '"Risky Business Class" Promo'
 date: '2012-12-09T08:25:29-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Was it an accident or murder? And who''s that guy with Sara?'

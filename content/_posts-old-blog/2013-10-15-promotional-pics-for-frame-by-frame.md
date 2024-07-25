@@ -1,6 +1,6 @@
 ---
 id: 8788
-title: 'Promotional Pics for &#8220;Frame by Frame&#8221;'
+title: 'Promotional Pics for "Frame by Frame"'
 date: '2013-10-15T13:26:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Flash back to faux-hawks and hair straightened within an inch of it''s life!'

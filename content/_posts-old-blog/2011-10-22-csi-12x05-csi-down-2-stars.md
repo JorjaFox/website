@@ -1,6 +1,6 @@
 ---
 id: 3920
-title: 'CSI 12&#215;05: CSI Down &#8211; 2 Stars'
+title: 'CSI 12&#215;05: CSI Down — 2 Stars'
 date: '2011-10-22T21:19:17-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"CSI Down" was a good episode, but not good for Sara.  Not enough of her, which is why the ratings were low (10.79).'

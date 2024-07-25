@@ -24,7 +24,7 @@ tags:
 
 <img class="alignleft size-full wp-image-3997" title="jorja-and-eric" src="//static.jorjafox.net/wordpress/2011/11/jorja-and-eric.jpg" alt="" width="388" height="216" /><a href="http://www.twitvid.com/5YT5W">Eric's Welcome Video </a>is up at TwitVid, but ...
 
-Yeah, Jorja <strong>and</strong> Eric.
+Yeah, Jorja **and** Eric.
 
 They'll be updating info at CBS's CSI Takeover page, but I'll do my best to spam and keep you updated.
 

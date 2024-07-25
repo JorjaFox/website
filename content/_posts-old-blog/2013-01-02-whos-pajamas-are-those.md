@@ -1,6 +1,6 @@
 ---
 id: 6149
-title: 'Who&#8217;s Pajamas Are Those?'
+title: 'Who's Pajamas Are Those?'
 date: '2013-01-02T08:00:23-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Interrogation, pajamas, and Ted Danson. Who could it be?'

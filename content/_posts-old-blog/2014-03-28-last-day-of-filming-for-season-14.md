@@ -22,7 +22,7 @@ That would be today!
 
 https://twitter.com/alecdow/status/449519830253596672
 
-But yesterday was <a href="http://www.hollywoodreporter.com/live-feed/csi-paul-guilfoyle-exit-690751">Paul's last day ever</a> (please read the link <em>before</em> you ask questions, or you make CSIs sad - also, all <strong>I</strong> know is what's in the news). The amount of sad I have right now cannot be measured.
+But yesterday was <a href="http://www.hollywoodreporter.com/live-feed/csi-paul-guilfoyle-exit-690751">Paul's last day ever</a> (please read the link <em>before</em> you ask questions, or you make CSIs sad - also, all **I** know is what's in the news). The amount of sad I have right now cannot be measured.
 
 https://twitter.com/shanessaunders/status/449290835108958209
 

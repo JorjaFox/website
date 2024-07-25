@@ -1,6 +1,6 @@
 ---
 id: 4129
-title: 'It&#8217;s Not Just You, This Cast Photo Looks Weird'
+title: 'It's Not Just You, This Cast Photo Looks Weird'
 date: '2011-12-19T13:54:26-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s a very odd photo of Jorja, from CBS.'

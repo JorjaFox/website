@@ -1,6 +1,6 @@
 ---
 id: 3398
-title: 'CSI News &#8211; Ratings and Departures'
+title: 'CSI News — Ratings and Departures'
 date: '2011-06-11T23:07:03-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Fishburne is out, but CSI is still number one, even after being plastered in the ratings.  What does it all mean!?'

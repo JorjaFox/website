@@ -1,6 +1,6 @@
 ---
 id: 3258
-title: 'CSI 11&#215;19 &#8220;Unleashed&#8221; Discussion Post'
+title: 'CSI 11&#215;19 "Unleashed" Discussion Post'
 date: '2011-04-07T07:27:33-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s Sara vs Lady Heather on an all new CSI tonight!'
@@ -39,4 +39,4 @@ Coming Soon
 • <a href="https://jorjafox.net/wiki/Unleashed">Recap</a>
 • <a title="Screenshots" href="https://jorjafox.net/gallery/tv/csi/season11/unleashed/">Screencaps</a>
 
-[starrater] 
+[starrater]

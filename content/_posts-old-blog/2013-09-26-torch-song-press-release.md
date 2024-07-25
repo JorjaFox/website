@@ -1,6 +1,6 @@
 ---
 id: 8508
-title: '&#8220;Torch Song&#8221; Press Release'
+title: '"Torch Song" Press Release'
 date: '2013-09-26T11:00:15-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'John Ratzenberger reunites with Ted Danson when he guest stars as club owner Stu Kirchoff. And yes, Jorja''s expected to be in this one.'

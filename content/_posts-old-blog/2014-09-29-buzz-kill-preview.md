@@ -1,6 +1,6 @@
 ---
 id: 11321
-title: '&#8220;Buzz Kill&#8221; Preview'
+title: '"Buzz Kill" Preview'
 date: '2014-09-29T16:00:35-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team investigates a robbery and fatal shooting at a medical marijuana shop.'

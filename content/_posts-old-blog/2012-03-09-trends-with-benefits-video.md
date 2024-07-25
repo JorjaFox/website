@@ -1,6 +1,6 @@
 ---
 id: 4412
-title: 'CSI 12&#215;17 &#8220;Trends With Benefits&#8221; Promo Video'
+title: 'CSI 12&#215;17 "Trends With Benefits" Promo Video'
 date: '2012-03-09T07:58:54-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Forensic techniques always help but can social media must solve this case? 3/14 10pm ET/PT (No Jorja!)'

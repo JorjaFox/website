@@ -1,6 +1,6 @@
 ---
 id: 9704
-title: '&#8220;Boston Brakes&#8221; Press Release'
+title: '"Boston Brakes" Press Release'
 date: '2014-01-16T19:48:04-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A familiar victim of a car crash begins the team’s chase for answers.'

@@ -2,8 +2,11 @@
     {{- $breakpoint := $.Scratch.Get "breakpoint" -}}
     {{ $sidebar := .Render "global/sidebar" }}
     {{ $toc := .Render "single/panel-toc" }}
-    {{- $flf_icon := .Params.flf_icon -}}
-    {{- $list_icon := .Params.list_icon -}}
+    {{ $icon := "fas circle-arrow-right" }}
+
+    {{ if .Params.icon }}
+        {{ $icon = .Params.icon }}
+    {{ end }}
 
     {{ with $sidebar }}
         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvass-sidebar" aria-inledby="offcanvas-label">
@@ -19,10 +22,10 @@
 
     <div class="container-xxl flex-fill p-4 px-xxl-0">
         <div class="row row-cols-1 row-cols-{{ $breakpoint.current }}-2 row-cols-{{ $breakpoint.next }}-3">
-            <div class="col col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.next }}-block sidebar-overflow sticky-top pt-5">
+            <div class="col col-{{ $breakpoint.next }}-3 d-none d-{{ $breakpoint.next }}-block sidebar-overflow sticky-top pt-5">
                 {{ $sidebar | safeHTML }}
             </div>
-            <div class="col-12 col-{{ $breakpoint.current }}-9 col-{{ $breakpoint.next }}-8 mb-5 p-4">
+            <div class="col-10 col-{{ $breakpoint.current }}-9 col-{{ $breakpoint.next }}-6 mb-5 p-4">
                 {{ .Render "global/header"}}
 
                 {{- if and .Site.Params.navigation.toc .Params.includeToc | default true -}}
@@ -36,9 +39,7 @@
                 {{ if ne .Type "index" }}
                     {{ range .Data.Pages.ByTitle }}
                         <li class="list-group-item">
-                            {{ if $list_icon }}
-                                <span class="list-svg">{{ partial "svg" $list_icon }}</span>&nbsp;
-                            {{ end }}
+                            {{ partial "assets/icon.html" (dict "icon" $icon) }}
                             <a href="{{ .Permalink }}">{{ .Title }}</a>
                             {{ if not .Lastmod.IsZero }}
                             <script>
@@ -57,7 +58,7 @@
                 {{ end }}
                 </ul>
             </div>
-            <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.current }}-block pt-5">
+            <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-3 d-none d-{{ $breakpoint.current }}-block pt-5">
                 <span name="toc"></span>
                 {{ $toc | safeHTML }}
             </div>

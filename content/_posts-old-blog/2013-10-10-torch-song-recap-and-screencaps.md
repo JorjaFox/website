@@ -1,6 +1,6 @@
 ---
 id: 8703
-title: '&#8220;Torch Song&#8221; Recap and Screencaps'
+title: '"Torch Song" Recap and Screencaps'
 date: '2013-10-10T08:38:00-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Three stars, and I may be being a little generous. There was a good amount of screentime, mind you.'

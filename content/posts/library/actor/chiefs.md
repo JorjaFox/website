@@ -7,7 +7,7 @@ tags: ["Television"]
 slug: chiefs
 gallery: https://jorjafox.net/gallery/tv/chiefs/
 imdb: https://www.imdb.com/title/tt7731700/
-image: /img/actor/chiefs.jpg
+image: /img/actors/chiefs.jpg
 ---
 
 _Chiefs_ explores the professional and personal lives of three driven, successful, but very different women who are each Chiefs of Police of their own precincts in L.A. County.

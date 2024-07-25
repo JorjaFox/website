@@ -1,6 +1,6 @@
 ---
 id: 8432
-title: 'PETA&#8217;s 25th Gala (2005): Wearing White After Labor Day'
+title: 'PETA's 25th Gala (2005): Wearing White After Labor Day'
 date: '2013-10-05T08:15:12-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja looking dashing in a blue jacket and white pants. Even after Labor Day, it''s all okay.'

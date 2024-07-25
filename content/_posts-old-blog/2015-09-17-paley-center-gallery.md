@@ -26,13 +26,13 @@ I'm sure there will be more later. I've slept about six hours though and I have 
 
 From EW: <a href="http://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute">5 things we learned at the _CSI_ farewell salute</a>
 
-<blockquote><strong>2. This cast really loves each other …</strong>
+<blockquote>**2. This cast really loves each other …**
 
 Rice asked the cast to go in a circle and each share their first impression of the person sitting to their right. Their answers ranged from sincere to sarcastic, but all spoke with deep affection for the people sitting around them. Danson called Helgenberger “the most elegant, gracious, and welcoming lady that I’ve worked with” before Helgenberger told Petersen, “I can’t imagine taking this ride with anybody else.”
 
 Fox said to Guilfoyle, completely seriously, “You have this New York sensibility, and this wit, and [you’re] down-to-earth, and you took risks, and you were just so classy, and kind of Austin Powers.” Guilfoyle broke the rules and replied to her, calling Fox “the heart of this whole group.” Berman revealed that he officiated Wellner’s wedding and threw his bachelor party, adding, “To get to work with my best friend every single day is pretty amazing.” Wellner paid it forward to Szmanda: “He’s so dreamy!”
 
-<strong>3. … except Jorja Fox and William Petersen — at first</strong>
+**3. … except Jorja Fox and William Petersen — at first**
 
 Fox sat to Petersen’s right, and when his turn came to recall their first meeting, he turned to her and said, “Did we meet at lunch?” Rather than answering the question, Fox replied, “You drove me crazy.” For the first how many months? “Like six. And then, I don’t know … I realized we were kind of stuck together.”
 
@@ -44,4 +44,4 @@ It's up! It has a lot of images (including the few I took -- I told you I was sh
 
 [caption id="attachment_13535" align="aligncenter" width="594"]<a href="https://jorjafox.net/gallery/pub/csi/20150916-paley/"><img class="size-full wp-image-13535" src="//jfo-static.net/wordpress/2015/09/488697672.jpg" alt="BEVERLY HILLS, CA - SEPTEMBER 16: Actress Jorja Fox (L) and actor William Petersen speak during The Paley Center for Media's PaleyFest 2015 Fall TV Preview &quot;CSI&quot; Farewell Salute at The Paley Center for Media on September 16, 2015 in Beverly Hills, California.  (Photo by Frederick M. Brown/Getty Images For CBS)" width="594" height="466" /></a> BEVERLY HILLS, CA - SEPTEMBER 16: Actress Jorja Fox (L) and actor William Petersen speak during The Paley Center for Media's PaleyFest 2015 Fall TV Preview "CSI" Farewell Salute at The Paley Center for Media on September 16, 2015 in Beverly Hills, California. (Photo by Frederick M. Brown/Getty Images For CBS)[/caption]
 
-<strong><a href="https://jorjafox.net/gallery/pub/csi/20150916-paley/">Paley Center CSI Farewell Gallery</a></strong>
+**<a href="https://jorjafox.net/gallery/pub/csi/20150916-paley/">Paley Center CSI Farewell Gallery</a>**

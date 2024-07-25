@@ -1,6 +1,6 @@
 ---
 id: 18919
-title: '&#8220;Under the Skin&#8221; Sneak Peek Video'
+title: '"Under the Skin" Sneak Peek Video'
 date: '2021-10-15T14:13:51-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'As the case with IA heats up, Sara and the new CSI team begin to connect.'
@@ -25,10 +25,10 @@ tags:
     - video
 ---
 
-<p>Sara and the new CSIs have a chat:</p>
+Sara and the new CSIs have a chat:
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=n0LDlI0u7KU
 </div></figure>
 
-<p>It's fun to see how much somethings never change.</p>
+It's fun to see how much somethings never change.

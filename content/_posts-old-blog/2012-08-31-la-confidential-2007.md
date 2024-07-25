@@ -20,5 +20,5 @@ tags:
 Riley sent me a lot of articles, some I didn't have, so I've started typing them up. While packing. And starting a new job. I'm ambitious.
 
 Los Angeles Confidential talked to Jorja about her animals and animal-advocacy back in 2007.
-<blockquote><strong>Jorja Fox</strong> may have new mysteries to solve every week on <em>CSI</em>, but she has a kindhearted philosophy about animals all figured out.</blockquote>
+<blockquote>**Jorja Fox** may have new mysteries to solve every week on <em>CSI</em>, but she has a kindhearted philosophy about animals all figured out.</blockquote>
 Article: <a href="https://jorjafox.net/wiki/Los_Angeles_Confidential_(May_2007)">Jorja's a Peach</a>

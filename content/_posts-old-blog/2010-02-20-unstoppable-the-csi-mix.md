@@ -25,7 +25,7 @@ tags:
 
 Still, they put up a version of the Rascal Flatts song "Unstoppable", with scenes from the upcoming <em>CSI</em> episode for you all to enjoy.
 
-<strong><a href="http://www.cbs.com/primetime/csi/video/?pid=_jeVJ7upTqyPi0nLKyTliMP7nyC9eujq&play=true&vs=Default">Watch the video here</a></strong>
+**<a href="http://www.cbs.com/primetime/csi/video/?pid=_jeVJ7upTqyPi0nLKyTliMP7nyC9eujq&play=true&vs=Default">Watch the video here</a>**
 
 <em>(Non-US folks, check <a href="http://scout78.livejournal.com/196590.html">scout78's downloadable version</a>)</em>
 

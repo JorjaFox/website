@@ -1,6 +1,6 @@
 ---
 id: 4002
-title: 'CSI 12&#215;07 &#8220;Brain Doe&#8221; Recap and Screencaps'
+title: 'CSI 12&#215;07 "Brain Doe" Recap and Screencaps'
 date: '2011-11-09T23:36:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Screencaps and a recap of CSI''s seventh episode.'

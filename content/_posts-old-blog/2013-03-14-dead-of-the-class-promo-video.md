@@ -1,6 +1,6 @@
 ---
 id: 6759
-title: '&#8220;Dead of the Class&#8221; Promo Video'
+title: '"Dead of the Class" Promo Video'
 date: '2013-03-14T15:41:26-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Some high school reunions are a cut about the rest.'

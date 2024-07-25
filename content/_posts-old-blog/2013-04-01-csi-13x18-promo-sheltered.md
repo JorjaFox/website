@@ -1,6 +1,6 @@
 ---
 id: 6882
-title: 'CSI 13&#215;18 Promo &#8220;Sheltered&#8221;'
+title: 'CSI 13&#215;18 Promo "Sheltered"'
 date: '2013-04-01T12:43:19-07:00'
 author: 'JF Guest Author'
 excerpt: 'Is a serial killer living off the grid? Watch CSI on Wednesday to find out.'

@@ -1,6 +1,6 @@
 ---
 id: 8809
-title: 'Last Night&#8217;s Tweets'
+title: 'Last Night's Tweets'
 date: '2013-10-17T07:00:37-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Insight into the mind of the CSI Writers Room about GSR, Jorja''s time off, and episode 300.'
@@ -19,7 +19,7 @@ tags:
 
 The <a href="http://twitter.com/CSIWritersRoom/">CSI Writers Room</a> woke up last night and was really chatty. You can check their account for everything they said, but here are the highlights about GSR, Jorja's time off, and episode 300:
 
-<strong>GSR</strong>
+**GSR**
 
 http://twitter.com/CSIWritersRoom/status/390692343973568512
 
@@ -27,7 +27,7 @@ http://twitter.com/CSIWritersRoom/status/390694659967561728
 
 http://twitter.com/CSIWritersRoom/status/390695142832619520
 
-<strong>Jorja's time off</strong>
+**Jorja's time off**
 
 http://twitter.com/CSIWritersRoom/status/390694213676843008
 
@@ -35,7 +35,7 @@ http://twitter.com/CSIWritersRoom/status/390699789513265152
 
 http://twitter.com/CSIWritersRoom/status/390700004538466304
 
-<strong>Ep 300</strong>
+**Ep 300**
 
 http://twitter.com/CSIWritersRoom/status/390695516285063169
 

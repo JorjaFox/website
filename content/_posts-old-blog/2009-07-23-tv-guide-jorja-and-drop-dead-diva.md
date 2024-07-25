@@ -1,6 +1,6 @@
 ---
 id: 1923
-title: 'TV Guide &#8211; Jorja and Drop Dead Diva'
+title: 'TV Guide — Jorja and Drop Dead Diva'
 date: '2009-07-23T08:51:18-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A very small blurb and photo of Jorja on <em>Drop Dead Diva</em>'

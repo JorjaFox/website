@@ -1,6 +1,6 @@
 ---
 id: 11361
-title: '&#8220;Bad Blood&#8221; Promo Images'
+title: '"Bad Blood" Promo Images'
 date: '2014-10-08T19:10:26-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A whole mess of photos for this week''s episode!'

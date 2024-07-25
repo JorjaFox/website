@@ -1,6 +1,6 @@
 ---
 id: 6656
-title: 'Surprise! It&#8217;s the &#8220;Jerky Boys&#8221;!'
+title: 'Surprise! It's the "Jerky Boys"!'
 date: '2013-02-25T12:57:51-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'There''s nothing from these guys I can quote to make a funny excerpt. So hey, upgraded pictures!'

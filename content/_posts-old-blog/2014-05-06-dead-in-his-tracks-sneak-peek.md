@@ -1,6 +1,6 @@
 ---
 id: 10728
-title: '&#8220;Dead In His Tracks&#8221; Sneak Peek'
+title: '"Dead In His Tracks" Sneak Peek'
 date: '2014-05-06T18:17:29-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara and Brass talk about Ellie in the season finale of CSI!'

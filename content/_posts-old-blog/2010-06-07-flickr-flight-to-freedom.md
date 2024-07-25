@@ -1,6 +1,6 @@
 ---
 id: 2461
-title: 'Flickr &#8211; Flight to Freedom'
+title: 'Flickr — Flight to Freedom'
 date: '2010-06-07T08:07:32-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'ADI has uploaded some more phenomenal pictures of the lion rescue to flickr, including (of course) some of Jorja.'

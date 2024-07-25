@@ -1,6 +1,6 @@
 ---
 id: 9165
-title: 'Throwback Thursday &#8211; Season Two'
+title: 'Throwback Thursday — Season Two'
 date: '2013-10-31T15:00:01-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Photo throwback for season two? Why not!'

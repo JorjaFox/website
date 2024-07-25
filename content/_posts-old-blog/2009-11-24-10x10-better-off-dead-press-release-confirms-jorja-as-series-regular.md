@@ -1,6 +1,6 @@
 ---
 id: 2132
-title: '10&#215;10 &#8220;Better off Dead&#8221; Press Release Confirms Jorja as Series Regular'
+title: '10&#215;10 "Better off Dead" Press Release Confirms Jorja as Series Regular'
 date: '2009-11-24T15:49:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CBS has Jorja listed as a Series Regular, as of "Better off Dead". Read on for a copy of the press release (spoilers!)'
@@ -30,8 +30,8 @@ tags:
     - tv
 ---
 
-<blockquote><strong>11.24.2009
-A MAJOR SHOOTOUT AT A GUN STORE MAY BE CONNECTED TO THE DEATH OF A YOUNG WOMAN INVOLVED IN A SUICIDE PACT, ON "CSI: CRIME SCENE INVESTIGATION," THURSDAY, DEC. 17</strong>
+<blockquote>**11.24.2009
+A MAJOR SHOOTOUT AT A GUN STORE MAY BE CONNECTED TO THE DEATH OF A YOUNG WOMAN INVOLVED IN A SUICIDE PACT, ON "CSI: CRIME SCENE INVESTIGATION," THURSDAY, DEC. 17**
 
 "Better Off Dead" - The CSIs dig to find the truth about how a recent shootout at a gun store might connect to a young woman who may have committed suicide, on CSI: CRIME SCENE INVESTIGATION, Thursday, Dec. 17 (9:00-10:00 PM, ET/PT) on the CBS Television Network.
 

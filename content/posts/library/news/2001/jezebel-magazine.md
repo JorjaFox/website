@@ -15,11 +15,11 @@ newstitle: Celebrity Questionnaire
 
 **With a name like Georgia Fox...er...Jorja Fox, have you ever visted Altanta. If so, what did you like most about our city?**
 
-I have family in Atlanta and I've been there many times. I have fantasies of living there, having a big old covered porch, and a little theater. I <U>love</u> the Reverand, Doctor King museum!
+I have family in Atlanta and I've been there many times. I have fantasies of living there, having a big old covered porch, and a little theater. I **love** the Reverand, Doctor King museum!
 
 **What do you think of Southern men?**
 
-I <U>adore</U> Southern men, simply adore ..... As long as they're very liberal.
+I **adore** Southern men, simply adore ..... As long as they're very liberal.
 
 **You've starred in *ER*, *West Wing*, and currently *CSI: Crime Scene Investigation*, what is your secret for landing *gigs* in such incredible series?**
 
@@ -50,7 +50,7 @@ Honeypot is a zaney theater compant I'm in. We do stuff we've always just wanted
 
 **What do you enjoy doing on your "off" days?**
 
-Right now I'm trying to surf - and learn how to play the drums. I have a car in L.A. (which I never had in New York) and I like to drive around - the west is <U>big</U> and new to me.
+Right now I'm trying to surf - and learn how to play the drums. I have a car in L.A. (which I never had in New York) and I like to drive around - the west is **big** and new to me.
 
 **This would not be a *JEZEBEL* interview without referencing fashion. Describe your current style? Favorite designer?**
 

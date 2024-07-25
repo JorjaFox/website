@@ -1,6 +1,6 @@
 ---
 id: 1517
-title: 'Jorja at Billy Petersen&#8217;s Hollywood Star Event'
+title: 'Jorja at Billy Petersen's Hollywood Star Event'
 date: '2009-02-03T19:44:15-08:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post
@@ -40,6 +40,6 @@ tags:
     - photos
 ---
 
-<a href="//static.jorjafox.net/wordpress/2009/02/walkoffame_09.jpg"><img src="//static.jorjafox.net/wordpress/2009/02/walkoffame_09-66x100.jpg" alt="walkoffame_09" title="walkoffame_09" width="66" height="100" class="alignleft size-thumbnail wp-image-1543" /></a> Jorja Fox was at the ceremony where William Petersen was awarded a star on the Hollywood Walk of Fame and cathwillows10, who actually <strong>was there</strong> gave JAA exclusive pictures.
+<a href="//static.jorjafox.net/wordpress/2009/02/walkoffame_09.jpg"><img src="//static.jorjafox.net/wordpress/2009/02/walkoffame_09-66x100.jpg" alt="walkoffame_09" title="walkoffame_09" width="66" height="100" class="alignleft size-thumbnail wp-image-1543" /></a> Jorja Fox was at the ceremony where William Petersen was awarded a star on the Hollywood Walk of Fame and cathwillows10, who actually **was there** gave JAA exclusive pictures.
 
 There are also other <a href="https://jorjafox.net/gallery/pub/csi/20090303-walkoffame/pub/">publicity type photos</a>.

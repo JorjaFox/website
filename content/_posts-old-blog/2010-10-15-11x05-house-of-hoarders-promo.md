@@ -1,6 +1,6 @@
 ---
 id: 2646
-title: '11&#215;05 &#8220;House of Hoarders&#8221; Promo'
+title: '11&#215;05 "House of Hoarders" Promo'
 date: '2010-10-15T08:47:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Maybe they''re making up for not putting Jorja in the press release, but she''s all over the promo video!'

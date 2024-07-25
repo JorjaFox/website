@@ -1,6 +1,6 @@
 ---
 id: 10049
-title: 'Spoilers for &#8220;Long Road Home&#8221;'
+title: 'Spoilers for "Long Road Home"'
 date: '2014-03-03T13:00:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Spoilers from "Long Road Home"'

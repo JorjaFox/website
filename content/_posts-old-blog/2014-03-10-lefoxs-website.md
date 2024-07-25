@@ -1,6 +1,6 @@
 ---
 id: 10131
-title: 'LeFox&#8217;s Website'
+title: 'LeFox's Website'
 date: '2014-03-10T13:37:33-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja''s Website is back on the ''net!'

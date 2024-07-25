@@ -1,6 +1,6 @@
 ---
 id: 11895
-title: '&#8220;Hero to Zero&#8221; Press Release'
+title: '"Hero to Zero" Press Release'
 date: '2015-01-15T18:19:27-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This is the second half of a Sunday CSI double header!'
@@ -24,7 +24,7 @@ I have to note, they have a typo in the date <em>and</em> the photo used is actu
 
 <img src="//static.jorjafox.net/wordpress/2014/12/0564d4ec4885448fc55b26b11c1ae7436.png" alt="0564d4ec4885448fc55b26b11c1ae743" width="700" height="482" class="aligncenter size-full wp-image-11762" />
 
-“Hero To Zero” – The CSI team investigates the murder of a young victim dressed as a superhero, on CSI: CRIME SCENE INVESTIGATION, Sunday, Jan. 11 (10:00-11:00 PM, ET/PT), on the CBS Television Network.  
+“Hero To Zero” – The CSI team investigates the murder of a young victim dressed as a superhero, on CSI: CRIME SCENE INVESTIGATION, Sunday, Jan. 11 (10:00-11:00 PM, ET/PT), on the CBS Television Network.
 
 CHEAT TWEET:  The #CSI team discovers there’s 1 less superhero but Y did he suffer such a horrible fate? 1/25 10pm ET/PT #AVillainWillPay http://bit.ly/1DIPK4J</blockquote>
 

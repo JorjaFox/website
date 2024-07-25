@@ -20,12 +20,12 @@ tags:
 CBS has announced some scheduling stuff, some of which is important to CSI. Like we can pretty much be sure of the dates <em>CSI</em> will get bumped off the schedule thanks to football.
 
 November 30, December 21, and December 28 are dates we <em>expect</em> to have our show bumped a night, due to footballers, based on this:
-<blockquote><strong>CBS Sunday, Effective Nov. 30 (Football Doubleheader)</strong>
+<blockquote>**CBS Sunday, Effective Nov. 30 (Football Doubleheader)**
 8:30-9:30 PM, ET/8:00-9:00 PM, PT MADAM SECRETARY
 9:30-10:30 PM, ET/9:00-10:00 PM, PT THE MENTALIST (7th Season Premiere)
 10:30-11:30 PM, ET/10:00-11:00 PM, PT CSI
 
-<strong>CBS Sunday, Dec. 21 and 28 (Football Doubleheaders)</strong>
+**CBS Sunday, Dec. 21 and 28 (Football Doubleheaders)**
 8:30-9:30 PM, ET/8:00-9:00 PM, PT UNDERCOVER BOSS
 9:30-10:30 PM, ET/9:00-10:00 PM, PT THE MENTALIST
 10:30-11:30 PM, ET/10:00-11:00 PM, PT CSI</blockquote>

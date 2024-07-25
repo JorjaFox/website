@@ -1,6 +1,6 @@
 ---
 id: 13484
-title: 'TV Insider: CSI&#8217;s Last Bang'
+title: 'TV Insider: CSI's Last Bang'
 date: '2015-09-05T20:00:12-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI Ends With a Bang for One Last Investigation by Michael Logan'

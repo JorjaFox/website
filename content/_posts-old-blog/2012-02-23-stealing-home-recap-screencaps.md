@@ -1,6 +1,6 @@
 ---
 id: 4372
-title: '&#8220;Stealing Home&#8221; Recap and Screencaps'
+title: '"Stealing Home" Recap and Screencaps'
 date: '2012-02-23T10:40:00-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A nice amount of Sara and a weird reveal gets us to four stars and new questions about her mysterious non-existent brother...'

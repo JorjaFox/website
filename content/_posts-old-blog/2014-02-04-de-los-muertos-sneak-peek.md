@@ -1,6 +1,6 @@
 ---
 id: 9887
-title: '&#8220;De Los Muertos&#8221; Sneak Peek'
+title: '"De Los Muertos" Sneak Peek'
 date: '2014-02-04T15:10:12-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sneak Peek with a little Jorja and the rising dead. Walking dead?'

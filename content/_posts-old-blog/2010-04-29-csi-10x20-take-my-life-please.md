@@ -1,6 +1,6 @@
 ---
 id: 2372
-title: 'CSI 10&#215;20 &#8211; &#8220;Take My Life, Please!&#8221; Discussion Post (Updated)'
+title: 'CSI 10&#215;20 — "Take My Life, Please!" Discussion Post (Updated)'
 date: '2010-04-29T07:49:41-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A hundred bullets in a body isn''t suspicious at all! New <em>CSI</em> tonight! <em>Updated at 10:40pm ET</em>'
@@ -27,7 +27,7 @@ tags:
 <img src="//static.jorjafox.net/wordpress/2010/04/takemylife-02-100x100.jpg" alt="" title="takemylife-02" width="100" height="100" class="alignleft size-thumbnail wp-image-2374" /> As usual, speculate and spoil yourselves. <del datetime="2010-04-30T00:07:25+00:00">I'll update the post later tonight once I have screencaps etc.</del> Updated at 10:40pm with screencaps and a recap.
 
 <h2>Official Release</h2>
-A legendary comic from the good old days of Las Vegas is set to reunite with his partner on stage for one night only, until one half of the famous duo is found dead. 
+A legendary comic from the good old days of Las Vegas is set to reunite with his partner on stage for one night only, until one half of the famous duo is found dead.
 
 Special guest stars are Tim Conway, Jennifer Tilly and, of course, Jorja Fox.
 

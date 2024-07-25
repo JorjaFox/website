@@ -18,7 +18,7 @@ tags:
     - 'site notice'
 ---
 
-<img class="alignleft size-medium wp-image-3514" title="BuddyPress" src="//static.jorjafox.net/wordpress/2011/07/BuddyPress-250x250.jpg" alt="" width="230" height="152" />I know, like we <strong>need</strong> another social network!
+<img class="alignleft size-medium wp-image-3514" title="BuddyPress" src="//static.jorjafox.net/wordpress/2011/07/BuddyPress-250x250.jpg" alt="" width="230" height="152" />I know, like we **need** another social network!
 
 Instead of folding in an external tool, like Livejournal or Facebook (or Google+), I turned JFO into a BuddyPress site a year or so ago.  The goal with this was to let you communicate with each other in a safe Jorja based site, without having to share all your details with everyone everywhere.
 
@@ -30,7 +30,7 @@ Since that's a lot of new terms to memorize, I made some BuddyPress Help Docs 
 
 Do you need an account?
 
-<strong>No.</strong>
+**No.**
 
 Seriously, if all you want is to read the news and leave comments on the blog, that will <em>always</em> remain open for people, logged in or not, to do.  Yes, you have to leave your email address (only I ever see it) and pick a user name (you can't use someone else's if they've registered), but this site will be free and open.
 

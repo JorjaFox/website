@@ -1,6 +1,6 @@
 ---
 id: 5317
-title: '&#8220;Wild Flowers&#8221; Promo Clip'
+title: '"Wild Flowers" Promo Clip'
 date: '2012-10-12T16:48:40-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Nothing will prepare them for what they''ll find.'

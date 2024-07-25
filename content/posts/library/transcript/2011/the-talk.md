@@ -123,7 +123,7 @@ Jorja: -you know I was *none* of those things, I mean, um, obviously I'm very fa
 
 Sharon: Most of the men I date, anyway.
 
-Jorja: Some of them, yes. And, yeah, so winning this contest was the, the greatest fluke that ever happened to me, and my face was in the *paper</e,>, and the kids at school were like (covers her mouth briefly) &#8216;okay, chubby, Foxy Lady girl won the modeling contest?'. Like-</p>
+Jorja: Some of them, yes. And, yeah, so winning this contest was the, the greatest fluke that ever happened to me, and my face was in the *paper</e,>, and the kids at school were like (covers her mouth briefly) &#8216;okay, chubby, Foxy Lady girl won the modeling contest?'. Like-
 
 Sharon: Never.
 

@@ -1,6 +1,6 @@
 ---
 id: 9238
-title: 'Clips from &#8220;Under a Cloud&#8221;'
+title: 'Clips from "Under a Cloud"'
 date: '2013-11-08T08:00:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four cool Sara clips from CSI''s official YouTube Channel.'

@@ -22,9 +22,9 @@ tags:
 Thank you Shane!  I asked him, in passing, if Jorja was or wasn't in "Hitting for the Cycle" and bless his little black heart, he went and found out.
 
 So here's the skinny:
-<blockquote>This season on <em>CSI</em> multiple actors have been in-and-out of episodes, most notably<strong> Marg Helgenberger</strong> (Catherine Willows), <strong>Jorja Fox</strong> (Sara Sidle), and <strong>Paul Guilfoyle</strong> (Captain Jim Brass). As the season grows closer to the finish line <em>CSI</em> writer <strong>Christopher Barbour</strong> reveals who will be missing from the final 5 episodes and says: “I sincerely hope fans of all the characters will tune in to each and every episode.  It’ll be quite a ride to the end of the season.”
+<blockquote>This season on <em>CSI</em> multiple actors have been in-and-out of episodes, most notably** Marg Helgenberger** (Catherine Willows), **Jorja Fox** (Sara Sidle), and **Paul Guilfoyle** (Captain Jim Brass). As the season grows closer to the finish line <em>CSI</em> writer **Christopher Barbour** reveals who will be missing from the final 5 episodes and says: “I sincerely hope fans of all the characters will tune in to each and every episode.  It’ll be quite a ride to the end of the season.”
 
-Episode 18 this season will feature the entire cast; episode 19 will have series regulars Marg Helgenberger and <strong>Eric Szmanda</strong> (Greg Sanders) M.I.A.; the following episode regulars Jorja Fox and Wallace Langham (Hodges) will not be present; episode 21 Paul Guilfoyle and <strong>David Berman</strong> (David Phillips) will not be present; and in the season finale you can look forward to seeing the entire cast.</blockquote>
+Episode 18 this season will feature the entire cast; episode 19 will have series regulars Marg Helgenberger and **Eric Szmanda** (Greg Sanders) M.I.A.; the following episode regulars Jorja Fox and Wallace Langham (Hodges) will not be present; episode 21 Paul Guilfoyle and **David Berman** (David Phillips) will not be present; and in the season finale you can look forward to seeing the entire cast.</blockquote>
 
 Credit: Scoop: ‘CSI,’ ‘Desperate Housewives, And ‘Rizzoli & Isles’!
 

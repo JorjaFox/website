@@ -1,6 +1,6 @@
 ---
 id: 4565
-title: 'CSI 12&#215;21 &#8220;Dune and Gloom&#8221; Extended Promo'
+title: 'CSI 12&#215;21 "Dune and Gloom" Extended Promo'
 date: '2012-04-27T18:22:49-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'There''s dynamite involved. This sounds like an episode of Mythbusters.'

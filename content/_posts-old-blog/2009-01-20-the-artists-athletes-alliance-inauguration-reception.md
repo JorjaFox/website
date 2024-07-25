@@ -3,7 +3,7 @@ id: 1451
 title: 'The Artists &#038; Athletes Alliance Inauguration Reception'
 date: '2009-01-20T15:44:03-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '<strong>Four photos</strong> of Jorja Fox''s attendance at <a href="http://artistsandathletes.org/">The Artists & Athletes Alliance</a> reception, held shortly after the inauguration of the 44th President of the United States, Barak Obama. '
+excerpt: '**Four photos** of Jorja Fox''s attendance at <a href="http://artistsandathletes.org/">The Artists & Athletes Alliance</a> reception, held shortly after the inauguration of the 44th President of the United States, Barak Obama. '
 layout: post
 guid: 'https://jorjafox.net/?p=1451'
 permalink: /2009/the-artists-athletes-alliance-inauguration-reception/
@@ -42,6 +42,6 @@ tags:
     - politics
 ---
 
-<a href="https://jorjafox.net/gallery/pub/artath/20090119-aaa_001/"><img src="//static.jorjafox.net/wordpress/2009/02/artandath03-100x100.jpg" alt="artandath03" title="artandath03" width="100" height="100" class="alignleft size-thumbnail wp-image-1546" /></a><del datetime="2009-02-08T18:17:28+00:00"><strong>Four photos</strong> </del> <strong>A gallery</strong> of Jorja Fox's attendance at <a href="http://artistsandathletes.org/">The Artists & Athletes Alliance</a> reception, held the night before the inauguration of the 44th President of the United States, Barak Obama. 
+<a href="https://jorjafox.net/gallery/pub/artath/20090119-aaa_001/"><img src="//static.jorjafox.net/wordpress/2009/02/artandath03-100x100.jpg" alt="artandath03" title="artandath03" width="100" height="100" class="alignleft size-thumbnail wp-image-1546" /></a><del datetime="2009-02-08T18:17:28+00:00">**Four photos** </del> **A gallery** of Jorja Fox's attendance at <a href="http://artistsandathletes.org/">The Artists & Athletes Alliance</a> reception, held the night before the inauguration of the 44th President of the United States, Barak Obama.
 
 <a href="https://jorjafox.net/gallery/pub/artath/20090119-aaa_001/">Gallery (11 photos)</a>

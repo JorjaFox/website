@@ -18,7 +18,7 @@ tags:
 ---
 
 Get ready for some hope in season 13!
-<blockquote><strong>Will Sara Sidle [Jorja Fox] be more in the forefront this year?</strong> Since Fox returned to the series on a fulltime basis last season — after four seasons as a guest star, she hasn’t had a front burner storyline. Part of the reasons is time had to be spent to introduce the new characters of DB Russell and Julie Finlay [Elisabeth Shue]. But that is about to change.
+<blockquote>**Will Sara Sidle [Jorja Fox] be more in the forefront this year?** Since Fox returned to the series on a fulltime basis last season — after four seasons as a guest star, she hasn’t had a front burner storyline. Part of the reasons is time had to be spent to introduce the new characters of DB Russell and Julie Finlay [Elisabeth Shue]. But that is about to change.
 
 “Sara will very much be in the forefront in the premiere and she is very much in the forefront in episode 2,” Mendelsohn says. “There will be a murder at the cop diner, where the cops and the CSIs all go to eat. Actually more than one murder. It is going to hit home and hit a friend of hers.”
 

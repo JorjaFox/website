@@ -25,9 +25,9 @@ tags:
     - glaad
 ---
 
-<p>Every year in October we wear purple for LGBT Youth Spirit Day.</p>
+Every year in October we wear purple for LGBT Youth Spirit Day.
 
-<p>And so does Jorja:</p>
+And so does Jorja:
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
 https://twitter.com/JorjaFoxofficia/status/1450929246956838915

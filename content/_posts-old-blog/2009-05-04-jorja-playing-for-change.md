@@ -1,6 +1,6 @@
 ---
 id: 1818
-title: 'Jorja Scheduled to Attend &#8220;Casino Royale: Playing for Change&#8221;'
+title: 'Jorja Scheduled to Attend "Casino Royale: Playing for Change"'
 date: '2009-05-04T02:20:57-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Confirmed! Jorja will be in attendance at the Humane Society sponsored celebrity poker tournament, raising money to implement an LA chapter of the  End Dogfighting program.'
@@ -36,7 +36,7 @@ tags:
 Many thanks to the Humane Society for not only hosting this event, but for sharing the information. If you're interested in donating, please visit the Humane Societies' <a href="http://humanesociety.org/casinoroyale">Casino Royale Page</a>.
 
 <blockquote>It will be a perfect match when PokerStars, the world's largest poker site, teams with the Hollywood office of The HSUS to host "Casino Royale: Playing for Change", an elegant evening of casino games (including blackjack, roulette, craps and poker), martini and wine bar, gourmet vegan food catered by Madeleine Bistro, silent auction, and celebrity poker tournament.
- 
+
 The exclusive tournament will take place on Saturday, May 9, from 7:00 - 11:00 p.m., at an elegant Hollywood Hills, CA private residence.
 
 Proceeds from this star-studded evening will benefit the implementation in Los Angeles of The HSUS's End Dogfighting program.  "End Dogfighting" tackles the illegal blood sport of dogfighting among "high risk" urban youths by educating them to consider their pit bulls as beloved pets rather than lethal weapons.  This program has already transformed neighborhoods in Chicago, saving innocent dogs, and drawing youths away from illegal activities.  Because of it's success, "End Dogfighting" is currently being expanded to other cities, including Atlanta and Charlotte.</blockquote>

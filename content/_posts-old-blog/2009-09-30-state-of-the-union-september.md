@@ -1,6 +1,6 @@
 ---
 id: 2012
-title: 'State of the Union &#8211; September'
+title: 'State of the Union — September'
 date: '2009-09-30T18:13:46-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Spoilers, award shows, CSI: The Experience openings, Animal Acres and something else. What was that ... Oh yeah! The return of Sara Sidle on <em>CSI</em>.'
@@ -36,8 +36,8 @@ tags:
 
 <span class="alignright">[polldaddy poll=1973519]</span> I hope the ads interest you enough that you click on them to check them out, as they are our primary source of income and keeps the site moving and ensure I don't have to beg for donations.
 
-<strong>CSI</strong>
-Let's start big. You up for that?  
+**CSI**
+Let's start big. You up for that?
 
 Okay! So we got Sara Sidle back!  Wow. I really didn't see that coming, since Billy wasn't there anymore, but stranger things have happened.  What did you think about the episode? See also: <a href="https://jorjafox.net/2009/09/24/csi-10x01-family-affair-recap-and-images/">10x01 "Family Affair" discussion post</a> -- Episode 10x02 airs <em>tomorrow night</em>, but that's October and this is September.  We did get a lot of cute little promos, and there was rampant speculation about that 'smudge' on Sara's left hand which was either edited in or edited out (depending on which GSR camp you're in).  In the end, the truth won out and the spoiler was determined to be true.  Sara and Grissom were married.
 
@@ -47,18 +47,18 @@ Also, Jorja made it out to Vegas for the opening of <a href="https://jorjafox.ne
 
 I don't know about you, but I'm ready for a break! So maybe it's good that Jorja's not going to be in the first five <em>CSI</em> episodes.  She's not in episode #3 (which airs October 8th). There's a brief <a href="https://jorjafox.net/2009/09/30/confirmed-sara-sidle-apperances/">list of confirmed appearances</a> up, but it's subject to change.  Such as I think she may actually be in the crossover episode, but I'm not certain. If your head is spinning, you're not alone.
 
-<strong>Advocacy</strong>
+**Advocacy**
 Due to the massive fires in the LA area, Animal Acres <a href="https://jorjafox.net/2009/09/02/animal-acres-gala-postponed">gala was postponed</a> to Sept 12th, which was the same weekend as the Las Vegas opening of CSI: The Experience.  In the end, Jorja did not make it out to the Gala.
 
 She did make it to the <a href="https://jorjafox.net/2009/09/23/jorja-speaks-out-against-puppy-mills/">NSF and GQ Join Forces To Stop Puppy Mills Humane Society Benefit</a> on September 22nd, though.
 
-<strong>Radio Star</strong>
+**Radio Star**
 Jorja also made time to visit various radio shows.  On the 23rd, she was on <a href="https://jorjafox.net/2009/09/26/jorja-fox-guest-dj-on-kcrw/">KCRW as a Guest DJ</a>, spinning five of her favorite songs.  Then on the 24th, she went to <a href="https://jorjafox.net/2009/09/24/breaking-news-jorja-on-the-kevin-and-bean-show-this-morning/">KROQ to talk about the <em>CSI</em> premiere</a> later that day.
 
-<strong>News Roundup!</strong>
+**News Roundup!**
 In an effort to start making things easier for you, I've consolidated the news.  How?  Well, it's still sorted by year, but on the year page, you can now just go to <a href="https://jorjafox.net/wiki/News_Articles_%282009%29#September">September 2009</a>.  That should help!
 
-<strong>Site News?</strong>
+**Site News?**
 Actually, we're really cool!  Out of nowhere, a brand new CSI fan donated $50, and with the extra traffic we've been getting, the ads for the site have been helping a great deal.  We're good for this month, though.  Our server alone costs  $60 a month, just in case you wondered why we have ads!  I believe in transparency, though, and as much of this as I can 're-purpose' from what my paying gig provides, I do! Thank you, Photoshop and Office!
 
 I turned on comment moderation (some of you have noticed).  This is an attempt to stop spammers more gently, and have fewer of you caught in my traps. I try to keep up with anyone in the moderation queue, especially on Thursdays and Fridays!  This last week was hard, as it was Yom Kipper! A brief reminder to anyone here from Russia: I love you, but you produce more spammers than anywhere but China. For that reason, any email ending in .ru is automatically rejected when they try to register or post a comment.  Please make a gmail or other such account for JFO. I'm sorry to have to do that, but it was that or my sanity.

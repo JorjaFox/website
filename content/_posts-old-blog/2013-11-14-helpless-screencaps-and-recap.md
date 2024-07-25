@@ -1,6 +1,6 @@
 ---
 id: 9303
-title: '&#8220;Helpless&#8221; Screencaps and Recap'
+title: '"Helpless" Screencaps and Recap'
 date: '2013-11-14T06:30:38-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Only one star tonight, since Sara was in one scene.'

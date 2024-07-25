@@ -1,6 +1,6 @@
 ---
 id: 2110
-title: '10&#215;08 &#8220;Lover&#8217;s Lane&#8221; Promo Video'
+title: '10&#215;08 "Lover's Lane" Promo Video'
 date: '2009-11-13T08:00:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promo video is out, Jorja''s in it, and this topic is open for your spoilers, spec and vague suggestions.'
@@ -40,4 +40,4 @@ tags:
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/SDsZVZMvtJ0&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/SDsZVZMvtJ0&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
-The CSIs investigate a murder at a bowling alley after a critical piece of evidence is revealed during a bowling tournament. 
+The CSIs investigate a murder at a bowling alley after a critical piece of evidence is revealed during a bowling tournament.

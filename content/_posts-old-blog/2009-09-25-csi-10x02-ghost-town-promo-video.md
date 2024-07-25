@@ -1,6 +1,6 @@
 ---
 id: 2042
-title: 'CSI 10&#215;02 &#8220;Ghost Town&#8221; Promo Video'
+title: 'CSI 10&#215;02 "Ghost Town" Promo Video'
 date: '2009-09-25T15:00:12-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promo video is out, and this topic is open for your spoilers, spec and vague suggestions.'
@@ -37,10 +37,10 @@ tags:
     - video
 ---
 
-<strong>US Promo</strong>
+**US Promo**
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/0ZLWnID-jhk&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0ZLWnID-jhk&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-<strong>Canadian Promo</strong>
+**Canadian Promo**
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/3FElDqdWRZM&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3FElDqdWRZM&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 <blockquote>When a porn producer and drug dealer are found dead in a relatively upscale Vegas area, the CSIs focus their investigation on members of the neighborhood. </blockquote>

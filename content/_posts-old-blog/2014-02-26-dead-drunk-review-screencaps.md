@@ -26,6 +26,6 @@ I haven't seen this movie since around 1994 or so. It came out after I got my li
 
 In so far as it goes as a movie to watch for Jorja, this is two stars. She has a really good scene where she appears in Kevin's memory and converses with him, right before he has a bit of a break down about the checks. It's well done. I don't think this movie would be effective today. It's 30 minutes, and it's something modern kids would find really cheesy.
 
-While I can't post clips, I did manage to upgrade the screencaps: <a href="https://jorjafox.net/gallery/tv/movies/deaddrunk"><strong>126 larger images</strong></a>.
+While I can't post clips, I did manage to upgrade the screencaps: <a href="https://jorjafox.net/gallery/tv/movies/deaddrunk">**126 larger images**</a>.
 
 This takes me down <em>one</em> released movie/tv-movie I don't have at least screencaps of: Summer Stories (ABC After School Specials). While I'd love to find some of the more rare one-shot things, like the TV shows and stuff, that's going to be crazy wicked hard to find stuff that has never been released.

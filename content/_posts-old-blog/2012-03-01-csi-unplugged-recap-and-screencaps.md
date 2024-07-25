@@ -1,6 +1,6 @@
 ---
 id: 4387
-title: '&#8220;CSI Unplugged&#8221; Recap and Screencaps'
+title: '"CSI Unplugged" Recap and Screencaps'
 date: '2012-03-01T13:40:49-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Turn out the lights on last night''s CSI, and give it three stars for Sara.'

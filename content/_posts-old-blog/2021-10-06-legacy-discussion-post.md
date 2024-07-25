@@ -1,6 +1,6 @@
 ---
 id: 18872
-title: '&#8220;Legacy&#8221; Discussion Post'
+title: '"Legacy" Discussion Post'
 date: '2021-10-06T21:52:53-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Talk about tonight''s episode in this spoiler-friendly thread.'
@@ -27,12 +27,12 @@ tags:
 
 <div class="wp-block-flfblocks-spoilers flf-spoiler alert alert-danger">Warning: This post (and comments) contains spoilers!</div>
 
-<p>Sorry about the delayed post, you know it's been a while since I had to think about this! </p>
+Sorry about the delayed post, you know it's been a while since I had to think about this!
 
-<p>Leave a comment with your thoughts, your reviews, what you loved, what you hated! East Coast and West Coast, it's all here for you.</p>
+Leave a comment with your thoughts, your reviews, what you loved, what you hated! East Coast and West Coast, it's all here for you.
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
 https://twitter.com/CSICBS/status/1445939819549319173
 </div></figure>
 
-<p></p>
+

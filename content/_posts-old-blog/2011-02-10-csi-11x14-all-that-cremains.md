@@ -1,6 +1,6 @@
 ---
 id: 3085
-title: 'CSI 11&#215;14 &#8220;All That Cremains&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;14 "All That Cremains" Discussion Post (Updated)'
 date: '2011-02-10T09:00:02-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Last week was about Gil''s wife, this week it''s Ray''s. Tonight is "All That Cremains" - Updated at 10:37pm ET.'
@@ -39,4 +39,4 @@ That was adorable.  It was funny, it was a little slow paced, and I saw the kill
 
 &bull; <a href="https://jorjafox.net/wiki/All_That_Cremains">Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/season11/cremains">Screencaps</a>
-[starrater] 
+[starrater]

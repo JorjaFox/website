@@ -1,6 +1,6 @@
 ---
 id: 8101
-title: 'The &#8220;Friends&#8221; Spin-Off'
+title: 'The "Friends" Spin-Off'
 date: '2013-08-28T18:36:14-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Throwback Wednesday isn''t a thing is it? Well, now it is, with a throwback photo of Jorja that should make you smile.'

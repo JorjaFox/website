@@ -1,6 +1,6 @@
 ---
 id: 3107
-title: 'CSI 11&#215;16: &#8220;Turn On, Tune In, Drop Dead&#8221; Promo Pictures'
+title: 'CSI 11&#215;16: "Turn On, Tune In, Drop Dead" Promo Pictures'
 date: '2011-02-11T16:22:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Yes, Jorja''s in this episode, and I adore her watchcap!'

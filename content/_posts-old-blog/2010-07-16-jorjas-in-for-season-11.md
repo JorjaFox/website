@@ -1,6 +1,6 @@
 ---
 id: 2518
-title: 'Jorja&#8217;s IN for Season 11!'
+title: 'Jorja's IN for Season 11!'
 date: '2010-07-16T17:44:41-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'She''s in! She''s in!'

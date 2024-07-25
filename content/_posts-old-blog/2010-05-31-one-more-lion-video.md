@@ -25,7 +25,7 @@ tags:
 
 Sandra Mohr posted a short, very high quality, video of Jorja at the airport with the lions.  It's not anything new, but the Bob Barker/<em>Price is Right</em> shout out was highly amusing, since he paid for a lot of this!
 
-<strong> Lions Arrive At San Francisco Airport with "CSI's" Jorja Fox</strong>
+** Lions Arrive At San Francisco Airport with "CSI's" Jorja Fox**
 http://www.youtube.com/watch?v=ZPpIGQoGh2A
 
 &bull; <a href="https://jorjafox.net/wiki/Lions_Arrive_At_San_Francisco_Airport_with_%22CSI's%22_Jorja_Fox_(27_May_2010)">Transcript</a>

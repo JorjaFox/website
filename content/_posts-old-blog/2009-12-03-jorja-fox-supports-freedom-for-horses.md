@@ -30,9 +30,9 @@ The Calico Mountain Complex is in Nevada, where roughly half the mustangs in the
 
 Humanity is, in my opinion, proved when we do something for those who cannot stand up and speak for themselves.
 
-<strong>What can you do?</strong>
+**What can you do?**
 
-Contact your <strong>US representative</strong> and <strong><a href="http://www.senate.gov/general/contact_information/senators_cfm.cfm">senators</a></strong> that they should support a moratorium to stop the gathers, the roundups and removals pending Congressional action on the future management of the wild horses and burros.   Ask them to hold a hearing on the course of the wild horses and burros program.
+Contact your **US representative** and **<a href="http://www.senate.gov/general/contact_information/senators_cfm.cfm">senators</a>** that they should support a moratorium to stop the gathers, the roundups and removals pending Congressional action on the future management of the wild horses and burros.   Ask them to hold a hearing on the course of the wild horses and burros program.
 
 Contact BLM Director Bob Abbey and ask him to stop: Robert_Abbey@blm.gov
 
@@ -40,6 +40,6 @@ The Animal Law Coalition has a lot more information that can help you decide if 
 
 It's not too late to save the mustangs.
 
-Source: 
+Source:
 <a href="http://www.harnesslink.com/www/Article.cgi?ID=77129">Harness Link</a>
 <a href="http://www.animallawcoalition.com/">Animal Law Coalition</a>

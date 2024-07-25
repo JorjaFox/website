@@ -1,6 +1,6 @@
 ---
 id: 9037
-title: '&#8220;Frame by Frame&#8221; Recap and Screencaps'
+title: '"Frame by Frame" Recap and Screencaps'
 date: '2013-10-24T06:30:16-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Twists, turns, Jason Priestly, and a case that ended with a lot of mixed feelings. Four out of five Sara Stars. Would watch again!'

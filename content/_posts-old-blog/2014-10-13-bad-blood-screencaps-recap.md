@@ -1,6 +1,6 @@
 ---
 id: 11415
-title: '&#8220;Bad Blood&#8221; Screencaps and Recap'
+title: '"Bad Blood" Screencaps and Recap'
 date: '2014-10-13T01:45:51-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Nothing like a little terror and timely written episode for CSI.'

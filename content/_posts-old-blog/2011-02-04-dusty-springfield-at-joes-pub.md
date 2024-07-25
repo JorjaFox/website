@@ -1,6 +1,6 @@
 ---
 id: 3090
-title: 'Dusty Springfield at Joe&#8217;s Pub'
+title: 'Dusty Springfield at Joe's Pub'
 date: '2011-02-04T14:45:10-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Remember we heard that "Stay Forever" would be having a one-night show?  It''ll be March 4th in New York City!'

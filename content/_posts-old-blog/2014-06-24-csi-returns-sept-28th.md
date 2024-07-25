@@ -20,7 +20,7 @@ tags:
 CBS has announced their new premiere week:
 <blockquote><img class="aligncenter size-large wp-image-10985" src="//static.jorjafox.net/wordpress/2014/06/4a47a0db6e60853dedfcfdf08a5ca249.png" alt="CBS Shows" width="600" height="377" />
 
-<strong>PREMIERE WEEK</strong>
+**PREMIERE WEEK**
 
 [...]
 

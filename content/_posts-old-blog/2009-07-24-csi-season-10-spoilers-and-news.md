@@ -47,8 +47,8 @@ tags:
 
 Next week's Entertainment Weekly has some nice Ausiello scoop that should be music to the ears of any GSR fan.  I'll sum it up with a quote from executive producer Naren Shankar: "They're absolutely together."
 
-Okay? You still with me?  Good!  Massive props to <strong>tee</strong> (from YTDAW) for scanning in <a href="http://s45.photobucket.com/albums/f72/teelugo1982/?action=view&current=scan0001.jpg">the following article</a>. For those who can't read the print, here:
-<blockquote><strong>'CSI' Scoop: Sara's back! Will Grissom be next?</strong>
+Okay? You still with me?  Good!  Massive props to **tee** (from YTDAW) for scanning in <a href="http://s45.photobucket.com/albums/f72/teelugo1982/?action=view&current=scan0001.jpg">the following article</a>. For those who can't read the print, here:
+<blockquote>**'CSI' Scoop: Sara's back! Will Grissom be next?**
 
 Less that a year after reuniting in the jungle with leading man William Petersen, Jorja Fox is heading back to <em>CSI</em> this fall -- <em>alone</em>.  But don't take Fox's five-episode to mean that Sara and Grissom's happily-ever-after was a bust.  "They're absolutely together," insists executive producer, Naren Shankar, who nonetheless says Sara will drop hints at trouble in paradise.  "We're talking about a couple of very independent individuals who have decided to share their life together.  The first few months of that for any couple are a weird adjustment."
 

@@ -1,6 +1,6 @@
 ---
 id: 13761
-title: 'Throwback Thursday &#8211; It Was a Very Good Year'
+title: 'Throwback Thursday — It Was a Very Good Year'
 date: '2015-10-29T05:33:52-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A very good year and a very good color.'

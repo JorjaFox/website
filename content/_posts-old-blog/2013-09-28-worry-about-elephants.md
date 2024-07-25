@@ -23,12 +23,12 @@ https://www.facebook.com/photo.php?fbid=559755574074291&set=a.342411762475341.75
 
 (If you can't see the image <a href="https://www.facebook.com/photo.php?fbid=559755574074291&set=a.342411762475341.75309.342354322481085&type=1">Click Here</a>)
 
-Please consider contributing to <a href="http://iworry.org">iWorry</a> and say <strong>no</strong> to ivory.
+Please consider contributing to <a href="http://iworry.org">iWorry</a> and say **no** to ivory.
 
-<blockquote>Last year up to <strong>36,000</strong> elephants were killed for their ivory. <strong>1</strong> life lost every <strong>15 minutes.
-</strong>At the current rate of poaching African Elephants could face extinction in the wild by <strong>2025.</strong>
+<blockquote>Last year up to **36,000** elephants were killed for their ivory. **1** life lost every **15 minutes.
+**At the current rate of poaching African Elephants could face extinction in the wild by **2025.**
 
-Join us as we peacefully march in 15 cities around the world on <strong>Friday 4th October</strong>.
+Join us as we peacefully march in 15 cities around the world on **Friday 4th October**.
 You can also show your support by joining the digital march for elephants.
 
 Support the DSWT's iworry campaign and be a part of a global effort to protect and preserve elephants.</blockquote>

@@ -1,6 +1,6 @@
 ---
 id: 3558
-title: 'They&#8217;re In Vegas, Baby!'
+title: 'They're In Vegas, Baby!'
 date: '2011-07-25T09:13:38-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Filming started Friday, and today our favorite CSI heads are off in Vegas to film at the Golden Nugget.'

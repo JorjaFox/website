@@ -1,6 +1,6 @@
 ---
 id: 5448
-title: '&#8220;It Was A Very Good Year&#8221; Screencaps and Recap'
+title: '"It Was A Very Good Year" Screencaps and Recap'
 date: '2012-10-25T11:59:48-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'You gotta love livin'', baby, ''cause dyin'' is a pain in the ass. - Frank Sinatra'

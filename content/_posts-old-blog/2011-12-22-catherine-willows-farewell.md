@@ -1,6 +1,6 @@
 ---
 id: 4147
-title: 'Catherine Willows&#8217; Farewell'
+title: 'Catherine Willows' Farewell'
 date: '2011-12-22T19:37:33-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Say goodbye to Marg Helgenberger, in her final two episodes, starting January 18th.'

@@ -1,6 +1,6 @@
 ---
 id: 6245
-title: '&#8220;Last Woman Standing&#8221; Press Release'
+title: '"Last Woman Standing" Press Release'
 date: '2013-02-15T10:50:01-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'I think I love you, CSI, so what am I so afraid of? Probably death and poker, if the normal drama of CSI comes to play.'

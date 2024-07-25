@@ -1,6 +1,6 @@
 ---
 id: 11655
-title: '&#8220;Rubbery Homicide&#8221; Screencaps and Recap'
+title: '"Rubbery Homicide" Screencaps and Recap'
 date: '2014-12-01T04:00:14-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Vulcanized vixens and a sinful solution on last night''s CSI.'

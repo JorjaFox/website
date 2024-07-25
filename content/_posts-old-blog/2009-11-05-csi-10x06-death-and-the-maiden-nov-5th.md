@@ -1,6 +1,6 @@
 ---
 id: 2098
-title: 'CSI 10&#215;06 &#8216;Death and the Maiden&#8217; &#8211; Nov 5th (Updated)'
+title: 'CSI 10&#215;06 &#8216;Death and the Maiden' — Nov 5th (Updated)'
 date: '2009-11-05T09:16:47-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"We''ve got three confessions and three suspects." New episode of <em>CSI</em> tonight, Nov. 5th. (Updated - No Sara! Shocking!)'
@@ -46,14 +46,14 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2009/11/deathmaiden.jpg"><img src="//static.jorjafox.net/wordpress/2009/11/deathmaiden-100x100.jpg" alt="deathmaiden" title="deathmaiden" width="100" height="100" class="alignleft size-thumbnail wp-image-2099" /></a> <del datetime="2009-11-06T01:33:07+00:00">In an ongoing theme, this topic will remain open. I will update this post with screencaps and recaps shortly after the episode airs on the East Coast US.</del>  Well ... I WOULD post except CBS is a damn dirty liar, and either Sara's scenes were cut, or they told me lies when I asked if Sara/Jorja was in this episode ... and their press release was wrong.  Bastiches.
 
-<strong>Official Release</strong>
+**Official Release**
 The CSIs discover that two seemingly unrelated crimes are actually part of a revenge plot.
 
-<strong>Videos</strong>
+**Videos**
 <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/9utdQdgj8oc&hl=en&fs=1&color1=0x234900&color2=0x4e9e00"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9utdQdgj8oc&hl=en&fs=1&color1=0x234900&color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 
-<strong>Spoilers We Know</strong>
+**Spoilers We Know**
 Nothing Jorja specific. If you know something, post a comment!
 
-<strong>Post Airing</strong>
+**Post Airing**
 Sara was not in the episode.  She was in Parumph, working a quintuple homicide.  Boo!

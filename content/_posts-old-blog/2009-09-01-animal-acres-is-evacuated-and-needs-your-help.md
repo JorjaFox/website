@@ -48,14 +48,14 @@ Note: Any donations sent to JFO this month (September 2009) will be passed on to
 <blockquote>Dear Animal Acres Members,
 
 Thank you for keeping us in your thoughts.  Your calls and emails of support and concern are helping us more than I can say during this difficult time.
-   
-I wanted to let you know that we are all safe, and all of the animals at Animal Acres have been relocated thanks to dozens of dedicated volunteers who came at all hours, and worked tirelessly to make our evacuation possible.  While some people remained at Animal Acres, others went to our evacuation site – which though ready to take animals – still needed additional work. The past two days, volunteers have installed wire lines directly to the animal enclosures,  constructed additional pen areas,  and moved cleaning, health care, and feed supplies and  equipment to the evacuation site -- <strong>as it now appears that  the sanctuary animals will not be able to return until September 15, or later</strong>. It breaks our hearts to see the sanctuary empty, but we are very fortunate to still have a sanctuary.
- 
- 
+
+I wanted to let you know that we are all safe, and all of the animals at Animal Acres have been relocated thanks to dozens of dedicated volunteers who came at all hours, and worked tirelessly to make our evacuation possible.  While some people remained at Animal Acres, others went to our evacuation site – which though ready to take animals – still needed additional work. The past two days, volunteers have installed wire lines directly to the animal enclosures,  constructed additional pen areas,  and moved cleaning, health care, and feed supplies and  equipment to the evacuation site -- **as it now appears that  the sanctuary animals will not be able to return until September 15, or later**. It breaks our hearts to see the sanctuary empty, but we are very fortunate to still have a sanctuary.
+
+
 Pigs getting a drink at the evacuation site
- 
-<strong>Because of the severity and expected length of the fire storm, we have found that we do need your help at this time.</strong>   We were not expecting to have the animals at the evacuation center for so long, and because of the 100 plus degree temperatures here, we need to construct more shade shelters for the animals, and install automatic waters.   
-I would be deeply grateful for your support at this time. <strong>Donations for these additional evacuation center needs, as well as for the extra expenses we have incurred to relocate animals are now needed, and greatly appreciated.   Please click here if you can help, and thank you.</strong> It is at times like this, that we are especially touched by your kindness and commitment to making Animal Acres possible. 
+
+**Because of the severity and expected length of the fire storm, we have found that we do need your help at this time.**   We were not expecting to have the animals at the evacuation center for so long, and because of the 100 plus degree temperatures here, we need to construct more shade shelters for the animals, and install automatic waters.
+I would be deeply grateful for your support at this time. **Donations for these additional evacuation center needs, as well as for the extra expenses we have incurred to relocate animals are now needed, and greatly appreciated.   Please click here if you can help, and thank you.** It is at times like this, that we are especially touched by your kindness and commitment to making Animal Acres possible.
 
 Lorri Houston, President
 

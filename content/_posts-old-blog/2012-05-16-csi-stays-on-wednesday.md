@@ -23,10 +23,10 @@ tags:
 
 For those who can't get to CBS Press Express (US only) here's their new schedule:
 <blockquote>
-<p style="text-align: center;">CBS TELEVISION NETWORK</p>
-<p style="text-align: center;">2012-2013 PRIMETIME SCHEDULE</p>
-<p style="text-align: center;">(N=New, NT=New Time, all times ET/PT)</p>
-<strong>MONDAY</strong>
+<p style="text-align: center;">CBS TELEVISION NETWORK
+<p style="text-align: center;">2012-2013 PRIMETIME SCHEDULE
+<p style="text-align: center;">(N=New, NT=New Time, all times ET/PT)
+**MONDAY**
 
 8:00-8:30 PM  HOW I MET YOUR MOTHER
 
@@ -38,7 +38,7 @@ For those who can't get to CBS Press Express (US only) here's their new schedule
 
 10:00-11:00 PM  HAWAII FIVE-0
 
-<strong>TUESDAY</strong>
+**TUESDAY**
 
 8:00-9:00 PM  NCIS
 
@@ -46,7 +46,7 @@ For those who can't get to CBS Press Express (US only) here's their new schedule
 
 10:00-11:00 PM  VEGAS (N)
 
-<strong>WEDNESDAY</strong>
+**WEDNESDAY**
 
 8:00-9:00 PM  SURVIVOR
 
@@ -54,7 +54,7 @@ For those who can't get to CBS Press Express (US only) here's their new schedule
 
 10:00-11:00 PM  CSI: CRIME SCENE INVESTIGATION
 
-<strong>THURSDAY</strong>
+**THURSDAY**
 
 8:00-8:30 PM  THE BIG BANG THEORY
 
@@ -64,7 +64,7 @@ For those who can't get to CBS Press Express (US only) here's their new schedule
 
 10:00-11:00 PM  ELEMENTARY (N)
 
-<strong>FRIDAY</strong>
+**FRIDAY**
 
 8:00-9:00 PM  CSI: NY (NT)
 
@@ -72,7 +72,7 @@ For those who can't get to CBS Press Express (US only) here's their new schedule
 
 10:00-11:00 PM  BLUE BLOODS
 
-<strong>SATURDAY</strong>
+**SATURDAY**
 
 8:00-9:00 PM  CRIMETIME SATURDAY
 
@@ -80,7 +80,7 @@ For those who can't get to CBS Press Express (US only) here's their new schedule
 
 10:00-11:00 PM  48 HOURS MYSTERY
 
-<strong>SUNDAY</strong>
+**SUNDAY**
 
 7:00-8:00 PM  60 MINUTES
 

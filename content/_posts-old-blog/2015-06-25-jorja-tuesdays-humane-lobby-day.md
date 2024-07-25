@@ -1,6 +1,6 @@
 ---
 id: 13034
-title: 'Jorja on Tuesday&#8217;s Humane Lobby Day'
+title: 'Jorja on Tuesday's Humane Lobby Day'
 date: '2015-06-25T01:26:44-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja''s trying to close a loophole that has let California be the second largest market for ivory in the entire USA.'

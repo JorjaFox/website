@@ -84,7 +84,7 @@ In the meantime, Fox is looking forward to the next chapter of her life and care
 
 -- Greg Braxton, LA Times: <a href="http://www.latimes.com/entertainment/tv/showtracker/la-st-jorja-fox-csi-20150925-story.html">"I was part of this weird love story": Jorja Fox on 'CSI' finale and working with William Petersen</a>
 
-<blockquote><strong>Grissom and Sara ended up together — for good this time, we assume.</strong>
+<blockquote>**Grissom and Sara ended up together — for good this time, we assume.**
 
 For a moment it seemed like the on-again, off-again lovers might go their separate ways, but <em>come on</em>. There’s no way that was happening. Instead, Sara left Vegas and flew to San Diego to join Gil on his boat. The pair literally sailed off into the sunset. “CSI” was never the subtlest show….</blockquote>
 

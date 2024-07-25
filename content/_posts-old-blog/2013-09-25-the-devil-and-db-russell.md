@@ -1,6 +1,6 @@
 ---
 id: 8476
-title: 'CSI 14&#215;01 &#8220;The Devil and D.B. Russell&#8221; Discussion Post'
+title: 'CSI 14&#215;01 "The Devil and D.B. Russell" Discussion Post'
 date: '2013-09-25T16:45:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Who kidnapped CSI Morgan and Ellie Brass?  Find out on the 14th season premiere of #CSI 9/25 10pm ET/PT '
@@ -33,7 +33,7 @@ http://www.cbs.com/shows/fall-previews-2013/video/00FF93B3-1C96-817D-8DA4-EA41EA
 
 <a href="http://www.cbspressexpress.com/cbs-entertainment/video?watch=7vvy9fsp4i">Sneak Peek</a>
 
-Also Entertainment Weekly has a clip of the funeral. You can watch that video <strong><a href="http://insidetv.ew.com/2013/09/24/csi-premiere-did-morgan-survive-exclusive/">here at EW.com</a></strong>.
+Also Entertainment Weekly has a clip of the funeral. You can watch that video **<a href="http://insidetv.ew.com/2013/09/24/csi-premiere-did-morgan-survive-exclusive/">here at EW.com</a>**.
 
 I don't know how much Sara to expect in this at all. CSI Files' review makes me think 'not much.'
 

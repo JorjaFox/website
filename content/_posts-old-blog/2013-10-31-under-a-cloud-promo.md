@@ -1,6 +1,6 @@
 ---
 id: 9152
-title: '&#8220;Under A Cloud&#8221; Promo'
+title: '"Under A Cloud" Promo'
 date: '2013-10-31T09:00:31-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Did she shout "Bob" or ... Oh. That''s probably not a shout out to Bob from ER, is it?'

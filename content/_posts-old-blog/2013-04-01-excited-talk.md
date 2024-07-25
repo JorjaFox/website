@@ -1,6 +1,6 @@
 ---
 id: 6905
-title: 'Jorja&#8217;s Excited About The Talk'
+title: 'Jorja's Excited About The Talk'
 date: '2013-04-01T16:09:23-07:00'
 author: 'JF Guest Author'
 excerpt: 'Jorja Fox is excited about being on the Talk tomorrow.'

@@ -1,6 +1,6 @@
 ---
 id: 1858
-title: 'TV Guide&#8217;s Best Top Moments'
+title: 'TV Guide's Best Top Moments'
 date: '2009-05-14T11:40:21-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Behind only the Carol/Doug coda from ER and the televised election of Barak Obama, the third The Best of Top Moments on TV this year goes to the Best Goodbye.'
@@ -41,7 +41,7 @@ tags:
     - article
 ---
 
-Behind only the Carol/Doug coda from <em>ER</em> and the televised election of Barak Obama, the third <b>The Best of Top Moments</b> on TV this year goes to the <b>Best Goodbye</b>.
+Behind only the Carol/Doug coda from <em>ER</em> and the televised election of Barak Obama, the third **The Best of Top Moments** on TV this year goes to the **Best Goodbye**.
 
 <blockquote>With a new <em>CSI </em>(Laurence Fishburne) handpicked to join the team, Gil Grissom leaves the lab — and the show — with just a nod to Catherine Willows. But where's he going with such peaceful confidence? To the thick vegetation of a Costa Rican rain forest — and the arms of a smiling Sara Sidle.</blockquote>
 

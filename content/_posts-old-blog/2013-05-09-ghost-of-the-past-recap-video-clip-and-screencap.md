@@ -1,6 +1,6 @@
 ---
 id: 7172
-title: '&#8220;Ghost of the Past&#8221; Recap, Video Clip, and Screencap'
+title: '"Ghost of the Past" Recap, Video Clip, and Screencap'
 date: '2013-05-09T09:26:38-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four stars for a rather creepy and crazy episode of CSI. Lots of images and a video for you too!'

@@ -19,7 +19,7 @@ Den amerikanska skÃ¥despelerskan Jorja Fox, kÃ¤nd frÃ¥n bland annat CSI d�
 ** OPEN LETTER TO THE PRIME MINISTER OF SWEDEN - AUGUST 17, 2010**
 
 *His Excellency Fredrik Reinfeldt
-Prime Minister of Sweden</p>
+Prime Minister of Sweden
 
 Dear Mr. Prime Minister,
 

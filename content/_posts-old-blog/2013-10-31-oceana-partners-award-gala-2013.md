@@ -19,11 +19,11 @@ tags:
     - 'public events'
 ---
 
-<img class="alignright size-medium wp-image-9159" alt="Oceana's Partners Award Gala 2013" src="//static.jorjafox.net/wordpress/2013/10/Corbis-42-52771224.jpg" width="166" height="250" /><strong>Oceana Partners Award Gala With Former Secretary Of State Hillary Rodham Clinton and HBO CEO Richard Pleple</strong>
+<img class="alignright size-medium wp-image-9159" alt="Oceana's Partners Award Gala 2013" src="//static.jorjafox.net/wordpress/2013/10/Corbis-42-52771224.jpg" width="166" height="250" />**Oceana Partners Award Gala With Former Secretary Of State Hillary Rodham Clinton and HBO CEO Richard Pleple**
 
 It's not a wetsuit! Jorja was at the award gala last night with Wally Langham. Actually I think the outfit was intended to make us think about that.
 
-Check out the 81 images in the <strong><a href="https://jorjafox.net/gallery/pub/benefits/20131030-oceana">Oceana Award Gala Gallery</a></strong>!
+Check out the 81 images in the **<a href="https://jorjafox.net/gallery/pub/benefits/20131030-oceana">Oceana Award Gala Gallery</a>**!
 
 The <a href="http://partnersaward.org/">Oceana Partners Gala</a> was for philanthropists, ocean advocates and concerned celebrities, to bring awareness to the problems in our oceans. Also in attendance was Ted Danson, who shares some of Jorja's passions about a cleaner, greener, earth.
 

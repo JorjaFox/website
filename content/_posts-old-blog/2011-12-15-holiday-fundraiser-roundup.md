@@ -23,13 +23,13 @@ tags:
 
 <img class="alignleft size-medium wp-image-4122" title="Happy Holidays" src="//static.jorjafox.net/wordpress/2011/12/happyholidays-230x153.jpg" alt="Happy Holidays" width="230" height="153" />As the year draws to a close, it's vogue to think about people. Well, actually, I've found most of you think about other people all the time, and are fantastic about giving of your time and money to make the world better. So for that, I thank you, and you should all pat yourselves on the back.
 
-This year we managed to get <strong><a href="http://www.kickstarter.com/projects/ianharvie/super-hero-ian-harvies-standup-comedy-special-film">Super Hero - Ian Harvie's Standup Comedy Special Filming</a></strong> off the ground (he hit his goal last night). The kickstarter for <strong><a href="http://www.howibecameanelephant.com/">How I Became an Elephant</a></strong> failed, but the number of you who went to their site and donated directly is keeping them going! We did raise<strong> <a href="https://jorjafox.net/2011/surfrider-goal-achieved/">$500 for Surfrider</a></strong> over the summer, and with JAA, we raised<strong> $800 for ADI</strong>!
+This year we managed to get **<a href="http://www.kickstarter.com/projects/ianharvie/super-hero-ian-harvies-standup-comedy-special-film">Super Hero - Ian Harvie's Standup Comedy Special Filming</a>** off the ground (he hit his goal last night). The kickstarter for **<a href="http://www.howibecameanelephant.com/">How I Became an Elephant</a>** failed, but the number of you who went to their site and donated directly is keeping them going! We did raise** <a href="https://jorjafox.net/2011/surfrider-goal-achieved/">$500 for Surfrider</a>** over the summer, and with JAA, we raised** $800 for ADI**!
 
 See? That's pretty awesome.
 
 What's still going on?
 
-TEAPA. I'm still running the <strong>Winter Fundraiser</strong> and it's for ADI, again. I'd like to raise $600 by Valentine's Day to help ADI keep fighting the good fight and get animals humane treatment. Jorja's in on it, and so are we.  Click the Crowdrise button below and donate, or just spread the word!
+TEAPA. I'm still running the **Winter Fundraiser** and it's for ADI, again. I'd like to raise $600 by Valentine's Day to help ADI keep fighting the good fight and get animals humane treatment. Jorja's in on it, and so are we.  Click the Crowdrise button below and donate, or just spread the word!
 
 <a href="http://www.crowdrise.com/adi-teapa/fundraiser/jorjafoxonline"><img class="aligncenter" title="crowdrise" src="//static.jorjafox.net/wordpress/2011/11/crowdrise.png" alt="" width="192" height="64" /></a>
 

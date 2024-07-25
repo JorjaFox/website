@@ -1,6 +1,6 @@
 ---
 id: 10070
-title: '&#8220;Long Road Home&#8221; Press Release'
+title: '"Long Road Home" Press Release'
 date: '2014-03-07T07:30:29-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A rock groupie found murdered? Well there went that fantasy! New CSI on March 12th!'

@@ -1,6 +1,6 @@
 ---
 id: 8815
-title: '&#8220;Frame by Frame&#8221; Promo Video'
+title: '"Frame by Frame" Promo Video'
 date: '2013-10-17T08:00:09-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'First video look at "Frame by Frame" - the 300th episode of CSI!'

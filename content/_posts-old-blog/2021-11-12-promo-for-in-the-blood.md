@@ -1,6 +1,6 @@
 ---
 id: 19015
-title: 'Promo for &#8220;In the Blood&#8221;'
+title: 'Promo for "In the Blood"'
 date: '2021-11-12T15:19:33-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"People don''t even believe the truth."'
@@ -55,4 +55,4 @@ tags:
 https://www.youtube.com/watch?v=98D6GqIXKOU
 </div></figure>
 
-<p>It strikes a little close to home, there. "People don't even believe the truth." I feel old, watching people just ... not believe facts, or claim that theory means something's wrong. Like "it's the <strong>theory</strong> of evolution!"</p>
+It strikes a little close to home, there. "People don't even believe the truth." I feel old, watching people just ... not believe facts, or claim that theory means something's wrong. Like "it's the **theory** of evolution!"

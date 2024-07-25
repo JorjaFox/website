@@ -1,6 +1,6 @@
 ---
 id: 3212
-title: 'Dusty Springfield at Bob Egan&#8217;s New Hope'
+title: 'Dusty Springfield at Bob Egan's New Hope'
 date: '2011-03-22T07:49:47-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'She sold out at Joe''s! Now will she do the same at Bob''s?'

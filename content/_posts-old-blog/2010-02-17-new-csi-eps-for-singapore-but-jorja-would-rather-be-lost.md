@@ -28,4 +28,4 @@ The article has the sort of tidbits we've come to love from Jorja, like how she'
 
 'So I got to see myself speak in 20 different languages. I couldn't believe it. I can barely speak English,' Fox joked.</blockquote>
 
-You can read the whole article online at <strong>The Electric New Paper</strong>.
+You can read the whole article online at **The Electric New Paper**.

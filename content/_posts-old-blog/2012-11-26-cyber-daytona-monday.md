@@ -19,7 +19,7 @@ tags:
 
 <img class="alignleft  wp-image-5977" title="Three Weeks to Daytona" src="//static.jorjafox.net/wordpress/2012/11/18204_440464022669344_664658485_n.jpg" alt="Three Weeks to Daytona" width="192" height="288" />Guess what?
 
-<strong>Three Weeks to Daytona</strong> will be out on DVD in Februrary, and you can pre-order from Amazon <em>right now</em>.
+**Three Weeks to Daytona** will be out on DVD in Februrary, and you can pre-order from Amazon <em>right now</em>.
 
 That's right, you can have Jorja in your living room!
 

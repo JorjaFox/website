@@ -26,10 +26,10 @@ tags:
 
 So it's not at Sundance.  That's okay.  It's up on YouTube, officially and shareably so!  Massive kudos to eagle eyed Twitterer <a href="http://twitter.com/__Teri__/">@__Teri__</a> for spotting this and pinging me, so send her all your thanks.
 
-<strong>Opening</strong>
+**Opening**
 http://www.youtube.com/watch?v=Z08jKcOA2xo
 
-<strong>Teaser</strong>
+**Teaser**
 http://www.youtube.com/watch?v=WjUKN81Fba8
 
 Credit: SoNoStudios and <a href="http://www.bsppro.com">Bret Stern Productions</a>.

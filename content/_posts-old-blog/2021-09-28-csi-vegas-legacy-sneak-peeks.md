@@ -1,6 +1,6 @@
 ---
 id: 18829
-title: '&#8220;CSI: Vegas&#8221; Legacy Sneak Peeks'
+title: '"CSI: Vegas" Legacy Sneak Peeks'
 date: '2021-09-28T12:00:00-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two looks into Sara Sidle''s return to Las Vegas. Including being asked if Sara regretted retiring...'
@@ -26,9 +26,9 @@ tags:
     - video
 ---
 
-<p>It's only one week to go and CBS has dropped a couple sneak peeks of what to expect this time in Vegas.</p>
+It's only one week to go and CBS has dropped a couple sneak peeks of what to expect this time in Vegas.
 
-<p>In both clips it's clear: Sara Sidle's back, folks!</p>
+In both clips it's clear: Sara Sidle's back, folks!
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=JbLbWXwd8h8

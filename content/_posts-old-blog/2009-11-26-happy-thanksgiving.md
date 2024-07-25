@@ -28,4 +28,4 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2009/11/thanksgiving.jpg"><img src="//static.jorjafox.net/wordpress/2009/11/thanksgiving.jpg" alt="thanksgiving" title="thanksgiving" width="230" height="200" class="alignleft size-full wp-image-2131" /></a> Have a happy, healthy and safe holiday, you Americans.  Regardless of what you're eating, if you're avoiding family or spending time with them, enjoy the day off (unless you work for the<a href="http://www.butterball.com/tips-how-tos/turkey-experts/overview"> Butterball emergency turkey hotline</a> - call 1-800-Butterball if you need help).  I'm off to Ohio to spend the time with my family, actually I'm in Ohio by the time you read this, but I'll be back.  So no surprise news like the last time I went on vacation!
 
-Remember: The next <strong>new</strong> episode with Jorja will be "Better off Dead", airing December 17th.
+Remember: The next **new** episode with Jorja will be "Better off Dead", airing December 17th.

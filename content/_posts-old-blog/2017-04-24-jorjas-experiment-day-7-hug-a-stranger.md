@@ -1,6 +1,6 @@
 ---
 id: 14411
-title: 'Jorja&#8217;s Experiment Day 7: Hug a Stranger'
+title: 'Jorja's Experiment Day 7: Hug a Stranger'
 date: '2017-04-24T00:41:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Hugging a stranger? No problem!'

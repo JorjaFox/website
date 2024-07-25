@@ -1,6 +1,6 @@
 ---
 id: 2070
-title: 'CSI ep 10&#215;04 &#8220;Coup de Grace&#8221; (updated)'
+title: 'CSI ep 10&#215;04 "Coup de Grace" (updated)'
 date: '2009-10-15T08:00:34-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Tonight we get a racist cop killed by cops. Talk about the episode here!  This post will be updated with screencaps and a recap after the episode airs. <em>Updated at 10pm Central with screencaps and a recap</em>'
@@ -50,16 +50,16 @@ tags:
 
 This time the topic will remain open! Too many people complained about the multiple posts, and I think you guys are totally right! I will update this post with screencaps and recaps shortly after the episode.
 
-<strong>Official Release</strong>
-An off-duty cop accidentally shoots another cop, but the victim's racist tendencies suggest the incident was deliberate.  
+**Official Release**
+An off-duty cop accidentally shoots another cop, but the victim's racist tendencies suggest the incident was deliberate.
 
-<strong>Videos</strong>
+**Videos**
 <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/g6hYgEDxn_c&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/g6hYgEDxn_c&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 
-<strong>Spoilers We Know</strong>
+**Spoilers We Know**
 Nothing Jorja specific. If you know something, post a comment!
 
-<strong>Screencaps and Recap</strong>
+**Screencaps and Recap**
 As promised.  I give this 3 stars for enough Sara and some exposition.  Paris, you say?
 <ul>
 	<li><a href="https://jorjafox.net/gallery/tv/csi/season10/coupdegrace/">Screencaps</a></li>

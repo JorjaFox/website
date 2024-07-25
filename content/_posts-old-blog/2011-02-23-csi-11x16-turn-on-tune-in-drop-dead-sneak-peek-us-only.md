@@ -1,6 +1,6 @@
 ---
 id: 3147
-title: 'CSI 11&#215;16 &#8220;Turn On, Tune In, Drop Dead&#8221; Sneak Peek (US Only)'
+title: 'CSI 11&#215;16 "Turn On, Tune In, Drop Dead" Sneak Peek (US Only)'
 date: '2011-02-23T14:43:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'What happens when you take the CSI willing to believe in spontaneous human combustion, a former coroner, and Howard Hesseman and toss them some 1960s trips and a couple zombies?'

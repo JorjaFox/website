@@ -1,6 +1,6 @@
 ---
 id: 12758
-title: 'It&#8217;s Not the &#8220;Series&#8221; Finale'
+title: 'It's Not the "Series" Finale'
 date: '2015-02-10T19:22:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It was a mistake! It was a mistake! Someone''s getting yelled at. Or this was a great PR blitz. #longliveCSI'

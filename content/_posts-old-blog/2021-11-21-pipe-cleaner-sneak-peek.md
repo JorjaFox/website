@@ -1,6 +1,6 @@
 ---
 id: 19042
-title: '&#8220;Pipe Cleaner&#8221; Sneak Peek'
+title: '"Pipe Cleaner" Sneak Peek'
 date: '2021-11-21T08:00:00-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s certainly not Sara''s first body in plumbing. Hallelujah.'
@@ -52,7 +52,7 @@ tags:
     - video
 ---
 
-<p>Yes, Thanksgiving and all we'll have a new episode of<em> CSI: Vegas</em> to watch.</p>
+Yes, Thanksgiving and all we'll have a new episode of<em> CSI: Vegas</em> to watch.
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=m2Rus7roYxU

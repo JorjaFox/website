@@ -1,6 +1,6 @@
 ---
 id: 8512
-title: 'We&#8217;ve Got a Situation'
+title: 'We've Got a Situation'
 date: '2013-09-24T18:15:51-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CBS is back in the meme game, it seems, and Sara Sidle has a situation tomorrow night!'

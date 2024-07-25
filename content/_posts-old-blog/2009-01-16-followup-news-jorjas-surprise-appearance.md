@@ -1,6 +1,6 @@
 ---
 id: 1430
-title: 'Followup News &#8211; Jorja&#8217;s Surprise Appearance'
+title: 'Followup News — Jorja's Surprise Appearance'
 date: '2009-01-16T09:48:28-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'And now a collection of news sites reporting on what we always knew. Jorja was on CSI last night, plus CBS''s tribute to Grissom.'

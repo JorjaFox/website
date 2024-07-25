@@ -1,6 +1,6 @@
 ---
 id: 2126
-title: 'CSI 10&#215;10 &#8220;Better Off Dead&#8221; promo pictures'
+title: 'CSI 10&#215;10 "Better Off Dead" promo pictures'
 date: '2009-11-19T14:08:11-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four promo pictures of Sara, Ray and Jim from the upcoming CSI Episodes "Better Off Dead" (airs Dec 17th).'

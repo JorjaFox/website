@@ -1,6 +1,6 @@
 ---
 id: 9179
-title: '&#8220;Under a Cloud&#8221; Discussion Post'
+title: '"Under a Cloud" Discussion Post'
 date: '2013-11-06T13:00:56-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A nearly dead John Doe is pulled from a flood channel during torrential rains in Vegas, and Sara is sent in to investigate.'
@@ -20,7 +20,7 @@ tags:
 
 For some reason we don't have any photos of Sara with a bomb. You heard me. Boooooooomb.
 
-<strong>Press Release:</strong>
+**Press Release:**
 
 THE CSI TEAM INVESTIGATES A JOHN DOE FOUND DURING TORRENTIAL RAINS IN VEGAS AND SANDERS IS ACCUSED OF FRAMING A MAN FOR MURDER SEVEN YEARS AGO, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, NOV. 6
 
@@ -28,12 +28,12 @@ THE CSI TEAM INVESTIGATES A JOHN DOE FOUND DURING TORRENTIAL RAINS IN VEGAS AND 
 
 CHEAT TWEET: Did Sanders frame a man for murder 7 years ago? @Leakthompson guest stars and wants to know! #CSI 11/6 10pm ET/PT
 
-<strong>Videos:</strong>
+**Videos:**
 
 https://vimeo.com/78678768
 
 Looking forward to this! Oh and there will be a Grissom mention by Greg, from <a href="http://www.tvguide.com/News/Mega-Buzz-Supernatural-Spoilers-1073036.aspx" target="_blank">Mega Buzz</a>:
-<blockquote><b>Anything good coming up on CSI? — Brandon</b>
+<blockquote>**Anything good coming up on CSI? — Brandon**
 
-<b>ADAM:</b> Wednesday's episode, which features an Innocence Project investigator reopening an old rape case, will put Greg in the spotlight — and not in a good way. "His work is called into question," executive producer Don McGill says. "There are now allegations that Greg tampered with evidence." Fortunately, Greg will have someone in his corner, at least in spirit. "Greg explains why he did what he did, and he talks about his mentor, Gil Grissom," McGill says. "Grissom taught Greg Sanders how to be a CSI: how to walk into a crime scene, how to note every observation. And Greg says, 'I was so afraid of making a mistake; I followed everything Grissom taught me to a T.'" No one's going to argue with Grissom's skills, right?</blockquote>
+**ADAM:** Wednesday's episode, which features an Innocence Project investigator reopening an old rape case, will put Greg in the spotlight — and not in a good way. "His work is called into question," executive producer Don McGill says. "There are now allegations that Greg tampered with evidence." Fortunately, Greg will have someone in his corner, at least in spirit. "Greg explains why he did what he did, and he talks about his mentor, Gil Grissom," McGill says. "Grissom taught Greg Sanders how to be a CSI: how to walk into a crime scene, how to note every observation. And Greg says, 'I was so afraid of making a mistake; I followed everything Grissom taught me to a T.'" No one's going to argue with Grissom's skills, right?</blockquote>
 Enjoy!

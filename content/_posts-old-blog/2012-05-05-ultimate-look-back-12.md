@@ -1,6 +1,6 @@
 ---
 id: 4608
-title: 'CSI Season 12 &#8211; Ultimate Look Back'
+title: 'CSI Season 12 — Ultimate Look Back'
 date: '2012-05-05T23:11:25-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s a video look back on Season 12, which will mostly be interesting to Marg fans.'

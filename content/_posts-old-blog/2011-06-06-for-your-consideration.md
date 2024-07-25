@@ -21,6 +21,6 @@ tags:
 ---
 
 For a continuing performance in a drama series.....
-<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2011/06/Screen-shot-2011-06-06-at-6-Jun-8.44.03-PM.png"><img class="aligncenter size-full wp-image-3374" title="Screen shot 2011-06-06 at  6 Jun - 8.44.03 PM" src="//static.jorjafox.net/wordpress/2011/06/Screen-shot-2011-06-06-at-6-Jun-8.44.03-PM.png" alt="" width="607" height="106" /></a></p>
-<p style="text-align: left;">So if any members of the JFO nation are on the Emmy Vote list, please remember to vote for Jorja.  Also vote for Marlee Matlin.</p>
-<p style="text-align: left;">For a full list, check out <a href="http://www.emmys.tv/news/2011/ballot-listings-63rd-primetime-emmy-awards-now-available">Emmy.tv</a>.</p>
+<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2011/06/Screen-shot-2011-06-06-at-6-Jun-8.44.03-PM.png"><img class="aligncenter size-full wp-image-3374" title="Screen shot 2011-06-06 at  6 Jun - 8.44.03 PM" src="//static.jorjafox.net/wordpress/2011/06/Screen-shot-2011-06-06-at-6-Jun-8.44.03-PM.png" alt="" width="607" height="106" /></a>
+<p style="text-align: left;">So if any members of the JFO nation are on the Emmy Vote list, please remember to vote for Jorja.  Also vote for Marlee Matlin.
+<p style="text-align: left;">For a full list, check out <a href="http://www.emmys.tv/news/2011/ballot-listings-63rd-primetime-emmy-awards-now-available">Emmy.tv</a>.

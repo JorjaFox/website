@@ -1,6 +1,6 @@
 ---
 id: 13588
-title: '&#8220;It&#8217;s a love card to the fans.&#8221;'
+title: '"It's a love card to the fans."'
 date: '2015-09-23T14:00:04-07:00'
 author: 'JF Guest Author'
 excerpt: '"It''s a love card to the fans. I hope that people will remember us as a comforting friend."'

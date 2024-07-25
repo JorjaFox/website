@@ -1,6 +1,6 @@
 ---
 id: 12509
-title: '&#8220;Merchants of Menace&#8221; and &#8220;Hero to Zero&#8221; Sneak Peeks'
+title: '"Merchants of Menace" and "Hero to Zero" Sneak Peeks'
 date: '2015-01-23T11:30:56-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team investigates a homicide at a convention for people who collect macabre murder memorabilia and the murder of a young victim dressed as a superhero on two back-to-back episodes of CSI on Sunday!'
@@ -20,13 +20,13 @@ tags:
 
 Two videos with Jorja, both region free.
 
-<strong>Merchants of Menace</strong>
+**Merchants of Menace**
 
 https://vimeo.com/117615430
 
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/video?watch=7zmr1ouh4b">CBS</a>
 
-<strong>Hero to Zero</strong>
+**Hero to Zero**
 
 https://vimeo.com/117615429
 

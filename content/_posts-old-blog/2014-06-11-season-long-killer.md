@@ -20,9 +20,9 @@ tags:
 ---
 
 Yesterday Michael Ausiello noted that we get a <a href="http://tvline.com/2014/06/10/castle-season-7-spoilers-time-jump-rick-car-crash/">season long killer</a>:
-<blockquote><strong>Question: Anything you can spill on the new season of <em>CSI</em>? —Missi</strong>
+<blockquote>**Question: Anything you can spill on the new season of <em>CSI</em>? —Missi**
 
-<strong>Ausiello:</strong> A major serial killer storyline will permeate Season 15, and it will dredge up old (and extremely unpleasant) memories for Russell (Ted Danson).</blockquote>
+**Ausiello:** A major serial killer storyline will permeate Season 15, and it will dredge up old (and extremely unpleasant) memories for Russell (Ted Danson).</blockquote>
 But of course the CSI Writers Room has other plans already:
 
 https://twitter.com/csiwritersroom/status/476869218730659840

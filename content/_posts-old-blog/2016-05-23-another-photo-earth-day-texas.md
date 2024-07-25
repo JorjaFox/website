@@ -20,4 +20,4 @@ tags:
 
 https://www.facebook.com/earthdaytx/photos/pb.161879897191723.-2207520000.1463063318./1039875719392132/?type=3&theater
 
-The rest of the photos are posted in the <strong><a href="https://jorjafox.net/gallery/pub/advocacy/20160422-edtx/">Earth Day Texas gallery</a></strong>.
+The rest of the photos are posted in the **<a href="https://jorjafox.net/gallery/pub/advocacy/20160422-edtx/">Earth Day Texas gallery</a>**.

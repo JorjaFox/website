@@ -1,6 +1,6 @@
 ---
 id: 3204
-title: 'CSI 11&#215;19 &#8220;Unleashed&#8221; Press Release'
+title: 'CSI 11&#215;19 "Unleashed" Press Release'
 date: '2011-03-15T15:59:05-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '<del>Lady</del> Dr. Heather Kessler returns April 7th to solve crimes!'

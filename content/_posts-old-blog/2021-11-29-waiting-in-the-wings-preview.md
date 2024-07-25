@@ -1,6 +1,6 @@
 ---
 id: 19063
-title: '&#8220;Waiting in the Wings&#8221; Preview'
+title: '"Waiting in the Wings" Preview'
 date: '2021-11-29T15:26:27-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team looks closely at the eccentric world of sideshows when a couple of performers are discovered burned in a pit. Also, Hodges mulls a plea deal as his criminal trial kicks off, while Max, Grissom and Sara search for evidence to exonerate him.'
@@ -51,7 +51,7 @@ tags:
     - video
 ---
 
-<p>Sara pleads with Hodges not to give up (though he's making a solid reason to take the plea):</p>
+Sara pleads with Hodges not to give up (though he's making a solid reason to take the plea):
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=7GZjSN8lOGA

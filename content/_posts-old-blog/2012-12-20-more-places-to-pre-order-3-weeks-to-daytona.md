@@ -1,6 +1,6 @@
 ---
 id: 6097
-title: 'More Places to Pre-Order &#8220;3 Weeks to Daytona&#8221;'
+title: 'More Places to Pre-Order "3 Weeks to Daytona"'
 date: '2012-12-20T12:28:34-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'I can''t come up with another "3 Weeks to Daytona" joke title, sorry.'

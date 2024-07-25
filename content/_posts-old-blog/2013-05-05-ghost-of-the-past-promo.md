@@ -1,6 +1,6 @@
 ---
 id: 7113
-title: 'CSI 13&#215;21 &#8220;Ghost of the Past&#8221; Promo'
+title: 'CSI 13&#215;21 "Ghost of the Past" Promo'
 date: '2013-05-05T10:48:43-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promo for "Ghost of the Past" includes Sara on a ladder, with a knife.'

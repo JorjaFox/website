@@ -1,6 +1,6 @@
 ---
 id: 3038
-title: 'Screencaps from &#8220;3 Weeks to Daytona&#8221;'
+title: 'Screencaps from "3 Weeks to Daytona"'
 date: '2011-01-13T12:51:20-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'While I''m sure you''ve all seen the video, in case your computer can''t play videos, how about screenshots?'
@@ -22,6 +22,6 @@ tags:
     - screencaps
 ---
 
-<img src="//static.jorjafox.net/wordpress/2011/01/daytona-preview-100x100.jpg" alt="" title="daytona-preview" width="100" height="100" class="alignleft size-thumbnail wp-image-3039" /> So you can't watch the <a href="https://jorjafox.net/2011/official-daytona-teaser/">3 Weeks to Daytona</a> clips because YouTube/you computer/your ISP suck?  How about screencaps?  
+<img src="//static.jorjafox.net/wordpress/2011/01/daytona-preview-100x100.jpg" alt="" title="daytona-preview" width="100" height="100" class="alignleft size-thumbnail wp-image-3039" /> So you can't watch the <a href="https://jorjafox.net/2011/official-daytona-teaser/">3 Weeks to Daytona</a> clips because YouTube/you computer/your ISP suck?  How about screencaps?
 
-<strong><a href="https://jorjafox.net/gallery/movies/3weekstodaytona/teaser/">Teaser Screencap Gallery</a></strong>
+**<a href="https://jorjafox.net/gallery/movies/3weekstodaytona/teaser/">Teaser Screencap Gallery</a>**

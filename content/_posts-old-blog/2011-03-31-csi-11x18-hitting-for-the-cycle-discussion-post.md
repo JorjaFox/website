@@ -1,6 +1,6 @@
 ---
 id: 3234
-title: 'CSI 11&#215;18 &#8220;Hitting For The Cycle&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;18 "Hitting For The Cycle" Discussion Post (Updated)'
 date: '2011-03-31T08:10:46-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four ways to die.  How hard can it be to get just one death by natural causes in Las Vegas? (Updated at 10:30pm ET)'
@@ -39,4 +39,4 @@ A string of deaths, including a gamer found dead on his couch and a newly divorc
 </a>• <a title="Screenshots" href="https://jorjafox.net/gallery/tv/csi/season11/hittingforthecycle/">Screencaps</a>
 <a href="https://jorjafox.net/wiki/The_List"></a>
 
-[starrater] 
+[starrater]

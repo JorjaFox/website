@@ -1,6 +1,6 @@
 ---
 id: 8675
-title: '&#8220;Torch Song&#8221; Preview Video'
+title: '"Torch Song" Preview Video'
 date: '2013-10-08T12:33:36-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"One crime leads to another..."'

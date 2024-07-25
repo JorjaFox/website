@@ -29,17 +29,17 @@ Credit: <a href="http://thehill.com/homenews/news/190633-the-week-ahead-all-abou
 For those of you who are lost, Capitol Hill is a metonym for the United States Congress.  Basically if you hear someone say 'Capitol Hill' or 'The Hill' what they mean is the US Congress.  So 'going to the Hill' means someone's going to Congress for one reason or another.  Jorja and Bob will be telling Congress why they need to be better people.  Which is pretty bad ass.
 
 ETA:
-<blockquote><strong>CSI's Jorja Fox opens Capitol Scene investigation into animal entertainment</strong>
+<blockquote>**CSI's Jorja Fox opens Capitol Scene investigation into animal entertainment**
 
 Wednesday November 2, 2011
 
 Join CSI's Jorja Fox and The Price is Right's Bob Barker, as well as the Performing Animal Welfare Society, for a press conference regarding a congressional initiative to improve animal treatment in entertainment.
 
-<strong>Time: </strong>10:30 am
+**Time: **10:30 am
 
-<strong>Place: </strong>Interior Subcommittee Room B-308, Rayburn House Office Building, Independence Avenue and South Capitol St, DC 20003
+**Place: **Interior Subcommittee Room B-308, Rayburn House Office Building, Independence Avenue and South Capitol St, DC 20003
 
-<strong>Contact:</strong> Gary Smith at <a href="mailto:gary@evolotuspr.com">gary@evolotuspr.com</a> or 818-783-0569</blockquote>
+**Contact:** Gary Smith at <a href="mailto:gary@evolotuspr.com">gary@evolotuspr.com</a> or 818-783-0569</blockquote>
 Credit: <a href="http://washingtonscene.thehill.com/calendar/events/12687-csis-jorja-fox-opens-capitol-scene-investigation-into-animal-entertainment#.Tq3_dj_DL80.twitter">The Hill</a>
 
 ETA again!

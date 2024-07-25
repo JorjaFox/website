@@ -1,6 +1,6 @@
 ---
 id: 11325
-title: '&#8220;The Book of Shadows&#8221; Press Release'
+title: '"The Book of Shadows" Press Release'
 date: '2014-09-30T16:00:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A chemistry teacher’s science experiment goes wrong when he goes up in flames! '
@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-<strong>JORJA IS NOT IN THIS EPISODE.</strong>
+**JORJA IS NOT IN THIS EPISODE.**
 <blockquote>THE CSI TEAM SUSPECTS FOUL PLAY WHEN A CHEMISTRY TEACHER’S SCIENCE EXPERIMENT GOES HORRIBLY WRONG, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, OCT. 19
 <img class="aligncenter size-full wp-image-11326" src="//static.jorjafox.net/wordpress/2014/09/0564d4ec4885448fc55b26b11c1ae7432.png" alt="George and Ted" width="550" height="367" />
 

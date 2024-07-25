@@ -1,6 +1,6 @@
 ---
 id: 2187
-title: 'What A Pair &#8211; Pictures and Bonus'
+title: 'What A Pair — Pictures and Bonus'
 date: '2010-01-26T10:08:56-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Some pictures of Jorja at What A Pair 4! (2006), but also good news for Marg fans in the UK!'

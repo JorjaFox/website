@@ -26,8 +26,8 @@ tags:
 
 Four photos. Two seasons. What can I say?
 
-<strong>Season 10</strong>
+**Season 10**
 <a href="https://jorjafox.net/gallery/tv/csi/pub/s10/1012-longball-001.jpg"><img class="ZenphotoPress_thumb " alt="10.12 - Long Ball" title="10.12 - Long Ball" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s10/1012-longball-001_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/tv/csi/pub/s10/1012-longball-002.jpg"><img class="ZenphotoPress_thumb " alt="10.12 - Long Ball" title="10.12 - Long Ball" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s10/1012-longball-002_200_cw200_ch200_thumb.jpg"  /></a>
 
-<strong>Season 11</strong>
+**Season 11**
 <a href="https://jorjafox.net/gallery/tv/csi/pub/s11/candid/418427-002.jpg"><img class="ZenphotoPress_thumb " alt="Episode 11: 418/427" title="Episode 11: 418/427" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s11/candid/418427-002_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/tv/csi/pub/s11/candid/418427-001.jpg"><img class="ZenphotoPress_thumb " alt="Episode 11: 418/427" title="Episode 11: 418/427" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s11/candid/418427-001_200_cw200_ch200_thumb.jpg"  /></a>

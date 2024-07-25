@@ -1,6 +1,6 @@
 ---
 id: 10034
-title: '&#8220;Killer Moves&#8221; Promo Video'
+title: '"Killer Moves" Promo Video'
 date: '2014-03-01T18:30:14-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Every move ends in death!'

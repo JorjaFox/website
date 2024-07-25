@@ -1,9 +1,9 @@
 ---
 id: 2027
-title: 'Jorja&#8217;s &#8220;the coolest chick on the planet&#8221; (TV Guide Magazine)'
+title: 'Jorja's "the coolest chick on the planet" (TV Guide Magazine)'
 date: '2009-09-23T08:51:34-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Sara''s back -- and Catherine''s the boss! How the veteran crime drama is getting it''s killer mojo back. From TV Guide Magazine, we finally present answers to the questions <strong>you</strong> sent in!'
+excerpt: 'Sara''s back -- and Catherine''s the boss! How the veteran crime drama is getting it''s killer mojo back. From TV Guide Magazine, we finally present answers to the questions **you** sent in!'
 layout: post
 guid: 'https://jorjafox.net/?p=2027'
 permalink: /2009/jorjas-the-coolest-chick-on-the-planet-tv-guide-magazine/
@@ -46,7 +46,7 @@ tags:
     - tv
 ---
 
-<a href="//static.jorjafox.net/wordpress/2009/09/margjorjatvguide.jpg"><img src="//static.jorjafox.net/wordpress/2009/09/margjorjatvguide-100x100.jpg" alt="margjorjatvguide" title="margjorjatvguide" width="100" height="100" class="alignleft size-thumbnail wp-image-2028" /></a> <strong>The Women Take Charge</strong> indeed.  The long awaited (by us) Q and A for Jorja and Marg, based on questions <em>YOU</em> sent in has finally hit the streets.
+<a href="//static.jorjafox.net/wordpress/2009/09/margjorjatvguide.jpg"><img src="//static.jorjafox.net/wordpress/2009/09/margjorjatvguide-100x100.jpg" alt="margjorjatvguide" title="margjorjatvguide" width="100" height="100" class="alignleft size-thumbnail wp-image-2028" /></a> **The Women Take Charge** indeed.  The long awaited (by us) Q and A for Jorja and Marg, based on questions <em>YOU</em> sent in has finally hit the streets.
 
 What does Marg think?  "... I was thrilled to have Jorja back.  She's just the coolest chick on the planet."  Jorja wants to go surfing with Marg in Hawaii, they both want to see <em>CSI: The Musical</em> and then there was the kissing.  You heard me right.
 

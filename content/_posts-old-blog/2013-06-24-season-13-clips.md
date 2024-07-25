@@ -24,15 +24,15 @@ I hesitate at embedding these, since CBS's track record of not deleting them has
 
 You can go and look at these on your own at cbs.com, but I'm collecting them by episode for you, and I'll push them out every couple days, to keep us all Sara Excited. First, let's have the onesy-twosy episode clips:
 
-<strong>Code Blue Plate Special</strong>
+**Code Blue Plate Special**
 
 http://www.cbs.com/shows/csi/video/kb4gCgjI1s_mAZ0zNqNdIjszH_KM1aOW/csi-death-at-the-diner/
 
-<strong>Strip Maul</strong>
+**Strip Maul**
 
 http://www.cbs.com/shows/csi/video/O7SJIhbMxbnphPr2kEPaMGyphTe1VtFl/csi-strolling-the-strip/
 
-<strong>Dead Air</strong>
+**Dead Air**
 
 http://www.cbs.com/shows/csi/video/DFA8569B-5B57-6322-AE99-414270ADFC4B/csi-processing-the-crime-scene/
 

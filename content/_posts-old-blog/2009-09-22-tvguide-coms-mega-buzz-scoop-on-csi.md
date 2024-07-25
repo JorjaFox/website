@@ -1,6 +1,6 @@
 ---
 id: 2029
-title: 'TVGuide.com&#8217;s Mega Buzz Scoop on CSI'
+title: 'TVGuide.com's Mega Buzz Scoop on CSI'
 date: '2009-09-22T21:04:27-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Don''t confuse TVGuide.com with TV Guide Magazine.  The former has a little update as to what Sara and Grissom have been up to.'
@@ -43,8 +43,8 @@ tags:
     - tv
 ---
 
-<blockquote><strong>Will we get an update on how Sara and Grissom are doing when Jorja Fox returns to <em>CSI</em>? — Michael</strong>
-<strong>ADAM: </strong>What kind of an update are you looking for, Jennifer? A big one? OK, then: Sara and Gil got hitched! Unfortunately, it sounds like married life doesn't suit Sara. "I think she's struggling a little bit with being a housewife," Marg Helgenberger says, explaining why Mrs. Grissom returns to the team. "She comes [to help us] from Paris, where her husband is giving some kind of a lecture series." Come on, Gil — PowerPoints bore everyone, especially wives.
+<blockquote>**Will we get an update on how Sara and Grissom are doing when Jorja Fox returns to <em>CSI</em>? — Michael**
+**ADAM: **What kind of an update are you looking for, Jennifer? A big one? OK, then: Sara and Gil got hitched! Unfortunately, it sounds like married life doesn't suit Sara. "I think she's struggling a little bit with being a housewife," Marg Helgenberger says, explaining why Mrs. Grissom returns to the team. "She comes [to help us] from Paris, where her husband is giving some kind of a lecture series." Come on, Gil — PowerPoints bore everyone, especially wives.
 </blockquote>
 
 Credit: <a href="http://www.tvguide.com/News/MegaBuzz-CSI-SVU-Greys-1010090.aspx">TVGuide.com</a>

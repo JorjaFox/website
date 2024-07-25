@@ -1,6 +1,6 @@
 ---
 id: 18523
-title: '&#8220;CSI: Vegas&#8221; Headshot'
+title: '"CSI: Vegas" Headshot'
 date: '2021-08-12T16:45:04-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promo photos are starting to show up, so let''s enjoy this new official Sara Sidle shot.'
@@ -25,10 +25,10 @@ tags:
     - photos
 ---
 
-<p>Good news! The official photos are starting to show up.</p>
+Good news! The official photos are starting to show up.
 
 <figure class="wp-block-image size-large"><a href="https://jorjafox.net/gallery/tv/csi-vegas/publicity/01/01-headshot.jpg.htm"><img src="https://static.jorjafox.net/wordpress/2021/08/117714_2389b-960x640.jpg" alt="Jorja Fox as Sara Sidle from the CBS series CSI: Vegas, scheduled to air on the CBS Television Network. Photo: Sonja Flemming/CBS 2021 CBS Broadcasting, Inc. All Rights Reserved." class="wp-image-18524" title=""/></a><figcaption>Jorja Fox as Sara Sidle from the CBS series CSI: Vegas, scheduled to air on the CBS Television Network. Photo: Sonja Flemming/CBS ©2021 CBS Broadcasting, Inc. All Rights Reserved.</figcaption></figure>
 
-<p></p>
 
-<p></p>
+
+

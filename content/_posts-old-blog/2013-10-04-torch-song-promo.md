@@ -1,6 +1,6 @@
 ---
 id: 8614
-title: '&#8220;Torch Song&#8221; Promo'
+title: '"Torch Song" Promo'
 date: '2013-10-04T10:00:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Everything will burn on next week''s CSI!'

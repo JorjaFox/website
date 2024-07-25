@@ -1,6 +1,6 @@
 ---
 id: 5648
-title: 'Guess who&#8217;s back on Facebook?'
+title: 'Guess who's back on Facebook?'
 date: '2012-11-11T13:24:01-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'She''s back on Facebook!'

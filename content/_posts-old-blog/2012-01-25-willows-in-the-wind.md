@@ -1,6 +1,6 @@
 ---
 id: 4247
-title: 'CSI 12&#215;12: &#8220;Willows In The Wind&#8221;'
+title: 'CSI 12&#215;12: "Willows In The Wind"'
 date: '2012-01-25T09:10:17-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"That''s near Catherine''s address..." Sara and Nick are on the case to solve what happened to Catherine.'
@@ -24,17 +24,17 @@ tags:
 
 When we last left our heroes, Catherine's old childhood friend is dead, her FBI flame is dead, her relationship with Vartann is over, and she's been shot and lies bleeding in the back of DB Russell's SUV. What happens now?
 
-<strong>Official Release</strong>
+**Official Release**
 
 The CSI team says goodbye to Catherine Willows as she makes a life-changing decision.
 
-<strong>Spoilers</strong>
+**Spoilers**
 
 https://twitter.com/ShaneSSaunders/status/162233898204545026
 
-<strong>Videos</strong>
+**Videos**
 
-<strong></strong>http://www.youtube.com/watch?v=WDuk3RaR1W0
+****http://www.youtube.com/watch?v=WDuk3RaR1W0
 
 http://www.youtube.com/watch?v=8d8SgIRLY8U
 

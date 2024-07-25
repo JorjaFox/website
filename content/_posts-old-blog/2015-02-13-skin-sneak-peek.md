@@ -1,6 +1,6 @@
 ---
 id: 12774
-title: '&#8220;Under My Skin&#8221; Sneak Peek'
+title: '"Under My Skin" Sneak Peek'
 date: '2015-02-13T14:22:09-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team investigates a murder with ties to two teenaged kidnapped girls.'

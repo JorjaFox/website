@@ -1,6 +1,6 @@
 ---
 id: 3944
-title: 'CSI 12&#215;07 &#8220;Brain Doe&#8221; Press Release'
+title: 'CSI 12&#215;07 "Brain Doe" Press Release'
 date: '2011-10-27T14:20:44-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'An extra brain is found at the scene of a crime in "Brain Doe", airing November 9th.'
@@ -22,7 +22,7 @@ tags:
 
 <blockquote>THE CSI TEAM EXAMINES A CAR CRASH AND FIND A HUMAN BRAIN THAT DOESN’T BELONG TO ANY OF THE VICTIMS, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, NOV. 9
 
-CHEAT TWEET:  1 car crash, 3 casualties and 1 human brain equals a complex case for the CSI team.  11/9 10pm ET/PT #CSI  <strong><a href="http://bit.ly/v41cmB">http://bit.ly/v41cmB</a></strong>
+CHEAT TWEET:  1 car crash, 3 casualties and 1 human brain equals a complex case for the CSI team.  11/9 10pm ET/PT #CSI  **<a href="http://bit.ly/v41cmB">http://bit.ly/v41cmB</a>**
 
 “Brain Doe” — When the CSI team arrives at a car crash, they find three casualties and a human brain that doesn’t belong to any of the victims.  Also, D.B. Russell is concerned his son is not focused on college following his suspension from school, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Nov. 9 (10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>
 Source: <a href="http://cbspressexpress.com/cbs-entertainment/releases/view?id=29625">CBS Press Express</a>

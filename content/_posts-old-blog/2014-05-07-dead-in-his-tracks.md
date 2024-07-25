@@ -1,6 +1,6 @@
 ---
 id: 10734
-title: '&#8220;Dead In His Tracks&#8221; Discussion Post'
+title: '"Dead In His Tracks" Discussion Post'
 date: '2014-05-07T13:00:08-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two crimes 25 years a part has the CSI piecing things together. CBS 5/7 10pm ET/PT '

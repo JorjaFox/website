@@ -1,6 +1,6 @@
 ---
 id: 18487
-title: '&#8216;CSI: Vegas&#8217; First Look Trailer'
+title: '&#8216;CSI: Vegas' First Look Trailer'
 date: '2021-08-05T08:44:24-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Another ''first look'' for CSI: Vegas, this time with a little more Sara and Brass.'
@@ -26,13 +26,13 @@ tags:
     - 'social media'
 ---
 
-<p>The First Look Trailer has a lot of clips we've already seen, but also some new ones:</p>
+The First Look Trailer has a lot of clips we've already seen, but also some new ones:
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=NvqVG_7983c
 </div></figure>
 
-<p>Also as a bonus, CSI Twitter shared this:</p>
+Also as a bonus, CSI Twitter shared this:
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
 https://twitter.com/CSICBS/status/1423071252877434880

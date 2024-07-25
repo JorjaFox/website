@@ -1,6 +1,6 @@
 ---
 id: 10308
-title: 'CSI &#8220;is going to be cancelled in six weeks&#8221;'
+title: 'CSI "is going to be cancelled in six weeks"'
 date: '2014-03-29T20:00:53-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'An interview with news.com.au about Season 14 (which is just starting to air there)'

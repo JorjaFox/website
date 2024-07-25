@@ -32,4 +32,4 @@ To say I'm bummed is putting it mildly.  I really love you guys and I love being
 
 Donate.  I can't offer you more than my thanks, and the knowledge that you're making the world better.
 
-<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br /><strong>Animal Acres Winter 2010 Fundraiser</strong></a></center>
+<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br />**Animal Acres Winter 2010 Fundraiser**</a></center>

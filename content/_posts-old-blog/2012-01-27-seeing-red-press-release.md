@@ -1,6 +1,6 @@
 ---
 id: 4275
-title: 'CSI 12&#215;14 &#8220;Seeing Red&#8221; Press Release'
+title: 'CSI 12&#215;14 "Seeing Red" Press Release'
 date: '2012-01-27T12:33:41-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Don''t know if Jorja''s in but Elisabeth Shue joins the cast of CSI as CSI Julie Finlay 2/15 10pm ET/PT.'

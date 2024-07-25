@@ -1,6 +1,6 @@
 ---
 id: 10090
-title: '&#8220;Killer Moves&#8221; Recap, Screencaps, and Twitcap'
+title: '"Killer Moves" Recap, Screencaps, and Twitcap'
 date: '2014-03-06T03:00:45-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A trifecta of busy! I''m amazed I got through it all tonight.'

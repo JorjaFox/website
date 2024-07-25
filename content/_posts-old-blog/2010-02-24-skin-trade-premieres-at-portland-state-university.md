@@ -1,6 +1,6 @@
 ---
 id: 2273
-title: '&#8220;Skin Trade&#8221; Premieres at Portland State University'
+title: '"Skin Trade" Premieres at Portland State University'
 date: '2010-02-24T11:03:08-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Saturday, February 27th 2010 at 7:30 in the Smith Memorial Union, Multicultural Center Room 238, PSU will be airing "Skin Trade"'

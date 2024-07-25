@@ -1,6 +1,6 @@
 ---
 id: 1734
-title: 'Farewell ER &#8211; Jorja Remembers'
+title: 'Farewell ER — Jorja Remembers'
 date: '2009-03-30T19:28:16-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'After 15 years, <em>ER</em> calls it an end. While many people feel the show is past its prime, it was innovative in it''s day, and brought back the soapy feel of night-time telly that sometimes gets lost in a procedural.'
@@ -41,7 +41,7 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/03/maggiedoyle-100x100.jpg" alt="Dr. Maggie Doyle" title="Dr. Maggie Doyle" width="100" height="100" class="alignleft size-thumbnail wp-image-1735" /> After 15 years, <em>ER</em> calls it an end. While many people feel the show is past its prime, it was innovative in it's day, and brought back the soapy feel of night-time telly that sometimes gets lost in a procedural.<!--more-->
 
-<a href="http://www.tampabay.com/features/media/article987842.ece">St. Petersberg Times</a> writer (and Frenemeny of GSRs) Eric Diggens admits he'll miss the show, and the rotating cast and guest stars mentioning in specific "a pre-<em>CSI</em><strong> Jorja Fox</strong> as gay doctor Maggie Doyle."
+<a href="http://www.tampabay.com/features/media/article987842.ece">St. Petersberg Times</a> writer (and Frenemeny of GSRs) Eric Diggens admits he'll miss the show, and the rotating cast and guest stars mentioning in specific "a pre-<em>CSI</em>** Jorja Fox** as gay doctor Maggie Doyle."
 
 And of course Jorja remembers her days on ER (from Emmy Magazine):
 <blockquote>“The first time Anthony Edwards directed ER, he had this epic idea to shoot all of act two as one fluid Steadicam shot. We came in and rehearsed it all morning like a stage play.

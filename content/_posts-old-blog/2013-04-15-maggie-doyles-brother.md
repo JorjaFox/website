@@ -1,6 +1,6 @@
 ---
 id: 7037
-title: 'Maggie Doyle&#8217;s Brother'
+title: 'Maggie Doyle's Brother'
 date: '2013-04-15T09:25:34-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Flashback to the Media Access Awards in 2007, where Maggie and Jimmy Doyle met up again!'

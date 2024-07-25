@@ -1,6 +1,6 @@
 ---
 id: 5425
-title: '&#8220;It Was A Very Good Year&#8221; Promo Video'
+title: '"It Was A Very Good Year" Promo Video'
 date: '2012-10-23T13:15:18-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Classic music and a body in a piano. Must be CSI!'

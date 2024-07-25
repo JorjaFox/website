@@ -1,6 +1,6 @@
 ---
 id: 10324
-title: 'What&#8217;s Your Cause?'
+title: 'What's Your Cause?'
 date: '2014-04-01T14:47:14-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'What''s your cause? Make a difference. Support a cause'

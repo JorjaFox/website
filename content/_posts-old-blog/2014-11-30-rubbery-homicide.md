@@ -1,6 +1,6 @@
 ---
 id: 11651
-title: '&#8220;Rubbery Homicide&#8221; Discussion Post'
+title: '"Rubbery Homicide" Discussion Post'
 date: '2014-11-30T15:00:34-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team investigates the world of rubber dolls. Are you going to wear that? 11/30 10:30 pm ET/ 10:00 pm PT'
@@ -18,12 +18,12 @@ tags:
     - tv
 ---
 
-<strong>Press Release</strong>
+**Press Release**
 
 THE CSI TEAM DELVES INTO THE KINKY WORLD OF “RUBBER DOLLS” WHEN THEY INVESTIGATE THE MURDER OF A MAN STABBED IN AN ALLEY, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, NOV. 30
 
 “Rubbery Homicide” – The CSI team delves into the kinky world of “rubber dolls” when they investigate the murder of a man stabbed in an alley, on CSI: CRIME SCENE INVESTIGATION, Sunday, Nov. 30 (10:30-11:30 PM, ET 10:00-11:00 PM, PT), on the CBS Television Network.
 
-<strong>Videos</strong>
+**Videos**
 
 http://www.youtube.com/watch?v=r36IxjBCz2s

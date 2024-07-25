@@ -1,6 +1,6 @@
 ---
 id: 3267
-title: 'CSI &#8211; Ultimate Look Back'
+title: 'CSI — Ultimate Look Back'
 date: '2011-04-12T18:56:00-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The season is nearly finished filming, so let''s take a look back before we watch the finale in May!'

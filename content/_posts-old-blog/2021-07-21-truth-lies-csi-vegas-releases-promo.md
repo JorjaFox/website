@@ -1,6 +1,6 @@
 ---
 id: 18438
-title: 'Truth, Lies, &#8220;CSI: Vegas&#8221; Releases Promo'
+title: 'Truth, Lies, "CSI: Vegas" Releases Promo'
 date: '2021-07-21T20:16:31-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Truth lies here. Check out the first promo!'
@@ -25,12 +25,12 @@ tags:
     - promo
 ---
 
-<p>I apologize for the brevity in this post, right now my home is in disarray due to a broken pipe. We are fine but the downstairs needs new walls.</p>
+I apologize for the brevity in this post, right now my home is in disarray due to a broken pipe. We are fine but the downstairs needs new walls.
 
-<p>The good news is we've got a promo!</p>
+The good news is we've got a promo!
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
 https://twitter.com/cbstvstudios/status/1418024052732547074?s=21
 </div></figure>
 
-<p>There's no other news to report, no plots revealed. That said, we can see Grissom is there for the storage unit scene.</p>
+There's no other news to report, no plots revealed. That said, we can see Grissom is there for the storage unit scene.

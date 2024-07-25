@@ -1,6 +1,6 @@
 ---
 id: 2577
-title: 'Jorja&#8217;s Art For Sale to Benefit the WCC'
+title: 'Jorja's Art For Sale to Benefit the WCC'
 date: '2010-08-31T18:18:52-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'We knew she could act. We knew she could sing.  We knew she could play guitar (and drums).  Did you know she drew too?  Jorja''s sketch of a wolf is on sale later next month to benefit the WCC.'

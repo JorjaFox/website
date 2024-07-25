@@ -1,6 +1,6 @@
 ---
 id: 4070
-title: 'CSI 12&#215;09: &#8220;Zippered&#8221; Discussion Post'
+title: 'CSI 12&#215;09: "Zippered" Discussion Post'
 date: '2011-12-07T08:02:44-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"And who decides who needs to know what?"  It''s CSI vs FBI on tonight''s new episode of CSI when 140 odd high powered guns hit the streets of Las Vegas.'

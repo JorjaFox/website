@@ -1,6 +1,6 @@
 ---
 id: 8139
-title: 'Sara-less Promo for &#8220;The Devil and D.B. Russell&#8221; Sidles On'
+title: 'Sara-less Promo for "The Devil and D.B. Russell" Sidles On'
 date: '2013-09-03T12:22:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Heads up. Spoilers about who dies (or rather, who doesn''t), but no Sara in the video.'

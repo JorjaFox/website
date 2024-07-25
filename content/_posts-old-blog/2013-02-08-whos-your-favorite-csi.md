@@ -1,6 +1,6 @@
 ---
 id: 6318
-title: 'Who&#8217;s Your Favorite CSI?'
+title: 'Who's Your Favorite CSI?'
 date: '2013-02-08T12:05:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Vote for your favorite CSI. You know what to do!'
@@ -21,6 +21,6 @@ tags:
 
 Right....?
 
-Have a vote over on SpoilerTV: <strong><a href="http://www.spoilertv.com/2013/02/usd-poll-who-is-your-favourite-csi.html?m=1">USD POLL : Who is your Favourite CSI Character?</a></strong>
+Have a vote over on SpoilerTV: **<a href="http://www.spoilertv.com/2013/02/usd-poll-who-is-your-favourite-csi.html?m=1">USD POLL : Who is your Favourite CSI Character?</a>**
 
 [polldaddy poll=6874088]

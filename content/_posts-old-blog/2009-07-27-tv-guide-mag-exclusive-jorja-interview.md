@@ -43,19 +43,19 @@ by Megan Walsh-Boyle
 
 <blockquote>It's official: Lauren Lee Smith is out on <em>CSI</em>, and Jorja Fox is back in! The prodigal star spoke exclusively to TVGuideMagazine.com about her return for at least five episodes.
 
-<strong>So what prompted your return to <em>CSI</em>?</strong>
+**So what prompted your return to <em>CSI</em>?**
 Right around March, I felt really rested and was itching to work—I was ready and going to meetings and auditioning. When I was in Atlanta [filming a guest shot on Lifetime's <em>Drop Dead Diva</em>], I got the call about <em>CSI</em>—it was completely out of the blue! I never thought I’d be going back to work with people that I knew, I thought I’d be starting new things. That was a surprise, so I’m going back to work and it’s with the same people who I’ve worked with for eight years in the past. [Laughs] I was thrilled! For me it was a huge compliment!
 
-<strong>When do you begin filming?</strong>
+**When do you begin filming?**
 I was there all week—they started shooting July 20. I think I’m about knee-deep back in the water. It has just been a ball and a half. I think <em>CSI</em>’s premiere episode is one of the best that I’ve ever read. It’s a pleasant surprise. You think, "They’re starting Season 10—how is it going to be as good as it was last year or four years ago?" And they blew me away.
 
-<strong>Do you know yet what brings Sara back to Vegas?</strong>
+**Do you know yet what brings Sara back to Vegas?**
 I think all I can really say is [pause] the team has had a rough year—there has been a lot going on—and so Sara comes back mostly just to see if she can help for a while, because she loves those guys and she misses them.
 
-<strong>And if Sara is back in the lab, where does that leave Gil?</strong>
+**And if Sara is back in the lab, where does that leave Gil?**
 Ah! That will hopefully be a reveal in the premiere. They’ve prevented me from discussing Grissom at all. [Laughs]
 
-<strong>It’s got to be the burning question for fans of the show… </strong>
+**It’s got to be the burning question for fans of the show… **
 Thank you. We hope we’ve picked the right stuff to be a surprise.</blockquote>
 
 Credit: TV Guide Magazine

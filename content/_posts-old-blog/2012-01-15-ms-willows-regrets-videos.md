@@ -1,6 +1,6 @@
 ---
 id: 4210
-title: 'CSI 12&#215;11: &#8220;Ms. Willows Regrets&#8221; Preview Videos'
+title: 'CSI 12&#215;11: "Ms. Willows Regrets" Preview Videos'
 date: '2012-01-15T10:20:34-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The countdown to Marg''s final episode begins. No Jorja in any promo, but she is in the episode.'

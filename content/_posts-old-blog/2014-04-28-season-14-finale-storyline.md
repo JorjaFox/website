@@ -19,9 +19,9 @@ tags:
 ---
 
 CBS announced today the story-lines for this season's finales, and while they tout cliffhangers and excitement, the release for CSI is a little bland:
-<blockquote><strong>WEDNESDAY, MAY 7</strong>
+<blockquote>**WEDNESDAY, MAY 7**
 
-<strong>CSI: CRIME SCENE INVESTIGATION (10:00-11:00 PM)</strong>
+**CSI: CRIME SCENE INVESTIGATION (10:00-11:00 PM)**
 
 The CSIs investigate a present-day crime with ties to a mob heist that occurred 25 years ago, and Brass has to make a decision when his daughter attempts suicide. Treat Williams guest stars.</blockquote>
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=38769">CBS Press Express</a>

@@ -21,7 +21,7 @@ tags:
 
 Last night I made it up to LA with my friend, Stephanie, to watch the LA premiere of <em>Extinction Soup</em> at the Broadway International Film Festival in LA, where it won Best Documentary.
 
-<a href="https://jorjafox.net/2014/extinction-soup-wins-at-biffla/img_1690/" rel="attachment wp-att-11196"><img class="alignleft size-medium wp-image-11196" src="//jfo-static.net/wordpress/2014/09/IMG_1690.jpg" alt="Extinction Soup Poster" width="187" height="250" /></a>The movie was <strong>not</strong> what I expected. Yes, it was definitely about how horrible people are with complete disregard for animals, but it was much, much more than that.
+<a href="https://jorjafox.net/2014/extinction-soup-wins-at-biffla/img_1690/" rel="attachment wp-att-11196"><img class="alignleft size-medium wp-image-11196" src="//jfo-static.net/wordpress/2014/09/IMG_1690.jpg" alt="Extinction Soup Poster" width="187" height="250" /></a>The movie was **not** what I expected. Yes, it was definitely about how horrible people are with complete disregard for animals, but it was much, much more than that.
 
 The movie starts out asking us if we're afraid of sharks, and that most people are, without having ever seen one in the wild. The first part of the movie is about Phillip Waller's personal journey from acting to depression to recovery via surfing. He was drawn into sharks by a friend, and the passion led to him wanting to learn about why sharks were important. Clearly sharks didn't want to just eat people. From there, and the death of his friend, spurred Waller into learning more about how sharks are vital to the health of the ocean. They balance the ecosystem, keeping the oceans healthy.
 

@@ -1,6 +1,6 @@
 ---
 id: 12728
-title: 'CSI&#8217;s Ratings Went Up!'
+title: 'CSI's Ratings Went Up!'
 date: '2015-01-29T12:00:02-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI''s ratings for the special Tuesday episode were good. Damn good.'

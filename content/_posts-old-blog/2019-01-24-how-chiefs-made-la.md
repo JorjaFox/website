@@ -1,6 +1,6 @@
 ---
 id: 15468
-title: 'How &#8220;Chiefs&#8221; Made LA'
+title: 'How "Chiefs" Made LA'
 date: '2019-01-24T20:30:30-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A small look at "Chiefs" - it never made it out of pilot, but it made Georgia into LA.'
@@ -17,10 +17,10 @@ tags:
     - video
 ---
 
-<p>While <em><a href="https://jorjafox.net/library/actor/chiefs">Chiefs</a></em> didn't get picked up, the Peach State shared a video of how they turned Georgia into California and turned out one pilot.</p>
+While <em><a href="https://jorjafox.net/library/actor/chiefs">Chiefs</a></em> didn't get picked up, the Peach State shared a video of how they turned Georgia into California and turned out one pilot.
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=ja5T9-O1QCg
 </div></figure>
 
-<p><a href="https://jorjafox.net/gallery/tv/chiefs/">Screenshots</a> are available, however Jorja was not interviewed for this piece.</p>
+<a href="https://jorjafox.net/gallery/tv/chiefs/">Screenshots</a> are available, however Jorja was not interviewed for this piece.

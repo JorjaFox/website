@@ -1,6 +1,6 @@
 ---
 id: 14396
-title: 'Jorja&#8217;s Experiment Day 4: Hug a Man'
+title: 'Jorja's Experiment Day 4: Hug a Man'
 date: '2017-04-20T13:33:57-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Day four of hugging people.'

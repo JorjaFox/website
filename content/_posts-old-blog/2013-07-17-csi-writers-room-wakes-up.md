@@ -1,6 +1,6 @@
 ---
 id: 7529
-title: 'CSI Writer&#8217;s Room Wakes Up!'
+title: 'CSI Writer's Room Wakes Up!'
 date: '2013-07-17T16:02:58-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'And filming starts TOMORROW!'

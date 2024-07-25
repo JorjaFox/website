@@ -1,6 +1,6 @@
 ---
 id: 11018
-title: 'Even Jorja Can&#8217;t Say&#8230;'
+title: 'Even Jorja Can't Say&#8230;'
 date: '2014-07-02T18:30:18-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'I''m telling you, I cannot possibly be held responsible for any of this!'

@@ -1,6 +1,6 @@
 ---
 id: 13670
-title: 'Last Night&#8217;s CSI Viewing Party'
+title: 'Last Night's CSI Viewing Party'
 date: '2015-09-28T14:35:00-07:00'
 author: 'JF Editor'
 excerpt: 'The gang watching the finale (via Jorja via Marg)'

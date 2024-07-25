@@ -28,7 +28,7 @@ But will William Petersen actually be making an appearance — as CSI Files is r
 
 Watch the clip and you tell me: Do you think Grissom will turn up next week? Or am I reading too much into it?</blockquote>
 
-<strong>Video</strong>
+**Video**
 http://vimeo.com/19339907
 
 <del datetime="2011-01-30T01:18:43+00:00">You'll have to watch the video at TV Line for now.</del>

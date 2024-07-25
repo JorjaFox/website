@@ -1,6 +1,6 @@
 ---
 id: 10354
-title: '&#8220;My life is complete!&#8221;'
+title: '"My life is complete!"'
 date: '2014-04-04T16:00:06-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Best day for a fan in Temecula.'

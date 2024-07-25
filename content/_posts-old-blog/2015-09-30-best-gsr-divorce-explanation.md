@@ -93,7 +93,7 @@ grissom and sara’s love for each other has never been in question, and a lack 
 
 so, yeah, that’s my take on why grissom and sara divorce. they are a couple of flawed human beings who love each other a lot but make a big, devastating series of mistakes. luckily, they’re able to overcome those mistakes eventually—and it’s a good thing that they do, because they are both so happy when they’re finally together again.
 
-<i>“omnia vincit amor; et nos cedamus amori.”</i></blockquote>
+_“omnia vincit amor; et nos cedamus amori.”_</blockquote>
 Credit: AJ -- <a href="http://addictedtostorytelling.tumblr.com/post/130203512466/i-dont-get-it-though-if-they-loved-each-other-so">Addicted to Storytelling</a>
 
 That is basically the best explanation there is.

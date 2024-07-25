@@ -1,6 +1,6 @@
 ---
 id: 9034
-title: '&#8220;Passed Pawns&#8221; Promo'
+title: '"Passed Pawns" Promo'
 date: '2013-10-25T07:00:49-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s another casino death on next week''s CSI.'

@@ -1,6 +1,6 @@
 ---
 id: 8975
-title: 'CSI 14&#215;05 &#8220;Frame by Frame&#8221; Discussion Post'
+title: 'CSI 14&#215;05 "Frame by Frame" Discussion Post'
 date: '2013-10-23T13:00:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A 14-year case brings back Catherine Willows for #CSI300th 10/23 10pm ET/PT.'
@@ -19,7 +19,7 @@ tags:
     - 'discussion post'
 ---
 
-<strong>Synopsis</strong>
+**Synopsis**
 
 CATHERINE WILLOWS RETURNS TO HELP THE CSIs SOLVE A COLD CASE THAT HAS HAUNTED THE TEAM FOR 14 YEARS, ON THE MILESTONE 300th EPISODE OF “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, OCT. 23
 Marg Helgenberger Returns as Catherine Willows
@@ -30,7 +30,7 @@ Marg Helgenberger Returns as Catherine Willows
 
 CHEAT TWEET: A 14-year case brings back @marghelgen and @jason_priestley guest stars #CSI300th 10/23 10pm ET/PT http://bit.ly/1bsoYfV
 
-<strong>Videos</strong>
+**Videos**
 
 https://vimeo.com/77522153
 

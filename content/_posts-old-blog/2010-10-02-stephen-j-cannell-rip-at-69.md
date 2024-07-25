@@ -1,6 +1,6 @@
 ---
 id: 2618
-title: 'Stephen J. Cannell &#8211; RIP at 69'
+title: 'Stephen J. Cannell — RIP at 69'
 date: '2010-10-02T21:56:18-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The man who wrote over 1500 episodes of TV also came up with <em>Missing Persons</em>.'

@@ -20,15 +20,15 @@ tags:
     - video
 ---
 
-<strong>Let's Get Personal</strong>
+**Let's Get Personal**
 
 [vimeo]http://vimeo.com/28531303[/vimeo]
 
-<strong>Cold Blooded Killers</strong>
+**Cold Blooded Killers**
 
 [vimeo]http://vimeo.com/28531455[/vimeo]
 
-<strong>Las Vegas Headliners</strong>
+**Las Vegas Headliners**
 
 [vimeo]http://vimeo.com/28531700[/vimeo]
 

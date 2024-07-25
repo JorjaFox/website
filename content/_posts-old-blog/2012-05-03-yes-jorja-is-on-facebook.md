@@ -27,4 +27,4 @@ In a recent interview, Jorja said she <em>does</em> have a Facebook page.
 
 That is, officially, her page. It's 'broken' right now she says (which I suspect means she's having FB issues, and if so, Jorja, have your people ping me, you know I'm willing to help out!)
 
-She has messaging turned on but <em><strong>please</strong></em> don't spam her. Be cool, be nice, and be respectful.
+She has messaging turned on but <em>**please**</em> don't spam her. Be cool, be nice, and be respectful.

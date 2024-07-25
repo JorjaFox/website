@@ -1,6 +1,6 @@
 ---
 id: 2546
-title: 'GSR Included in Helium&#8217;s &#8216;Top 10 TV Couples&#8217;'
+title: 'GSR Included in Helium's &#8216;Top 10 TV Couples''
 date: '2010-08-14T21:16:26-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Unlike the will-they/won''t-they couples most TV shows have, we had Grissom and Sara. Who did when we weren''t watching.'

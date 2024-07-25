@@ -1,6 +1,6 @@
 ---
 id: 8971
-title: 'HuffPo Sneak Peek at &#8220;Frame by Frame&#8221;'
+title: 'HuffPo Sneak Peek at "Frame by Frame"'
 date: '2013-10-22T09:39:32-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'We get a ''now'' and ''then'' moment. Check out the first faux-back!'

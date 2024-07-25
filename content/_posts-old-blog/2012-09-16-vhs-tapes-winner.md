@@ -20,6 +20,6 @@ tags:
 
 A month ago, <a href="https://jorjafox.net/2012/vhs-tapes/">I put my VHS tapes up to random chance</a>! Anyone who donated to JFO from then to yesterday was entered in a drawing to win them. Seven people donated, so I assigned everyone a number, and ran a random number generator.
 
-Everyone, congratulate <strong>Jemma B.</strong>
+Everyone, congratulate **Jemma B.**
 
 Jemma, check the email you used to PayPal and send me your address. As soon as I get back home (I'm on the road and will get back next weekend), I'll mail them off to you!

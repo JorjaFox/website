@@ -1,6 +1,6 @@
 ---
 id: 18958
-title: 'Jorja on &#8220;Live with Kelly and Ryan&#8221;'
+title: 'Jorja on "Live with Kelly and Ryan"'
 date: '2021-10-29T15:12:52-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Video clips and transcripts of Jorja on Live, with Kelly Ripa and Ryan Seacrest.'
@@ -51,13 +51,13 @@ tags:
     - transcript
 ---
 
-<p>On Thursday, Jorja was still in NYC and talked to Kelly and Ryan on ABC about what it was like to be back and how things are going on <em>CSI</em>. </p>
+On Thursday, Jorja was still in NYC and talked to Kelly and Ryan on ABC about what it was like to be back and how things are going on <em>CSI</em>.
 
-<p>For some reason they split things up into segments. These videos may not be available in all regions.</p>
+For some reason they split things up into segments. These videos may not be available in all regions.
 
 <h2>Videos</h2>
 
-<p>Source: <a href="https://kellyandryan.com/guide/october-28-2021/"><em>Live with Kelly and Ryan</em> - 28 October 2021</a></p>
+Source: <a href="https://kellyandryan.com/guide/october-28-2021/"><em>Live with Kelly and Ryan</em> - 28 October 2021</a>
 
 <h3>Jorja Fox Had an Emotional Return to New York City</h3>
 

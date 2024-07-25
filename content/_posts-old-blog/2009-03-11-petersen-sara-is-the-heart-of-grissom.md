@@ -1,6 +1,6 @@
 ---
 id: 1663
-title: 'Petersen: &#8220;[Sara] is the heart of Grissom&#8221;'
+title: 'Petersen: "[Sara] is the heart of Grissom"'
 date: '2009-03-11T09:40:48-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'William Petersen speaks to TV & Satellite Week (the TV Guide of the UK) about his final days on CSI, and why Sara is so important to Grissom (and why he can''t be with Heather).'
@@ -43,6 +43,6 @@ tags:
 
 Grissom's last episodes are airing in the UK now, and <a href="http://whatsontv.co.uk/blogs/tvspy/various/in-the-latest-issue-of-tv-satellite-week-35/">TV & Satellite Week</a> snagged an interview with William Petersen.  Not much is different than the other articles we've read, but perhaps this will help lay to rest the whole Grissom/Sara/Heather triangle.
 
-<blockquote><strong>Why has Sara been so important to him?</strong> She is the heart of Grissom.  Jorja Fox and I have been slowly playing with the chemistry between them for years.<br /><br /><strong>He's also had a real fascination with Lady Heather, hasn't he?</strong> They have a very intricate relationship that comes with a great deal of respect.  But she has a lot of trouble, a lot of problems, and ultimately Grissom likes to stay away from problems.</blockquote>
+<blockquote>**Why has Sara been so important to him?** She is the heart of Grissom.  Jorja Fox and I have been slowly playing with the chemistry between them for years.<br /><br />**He's also had a real fascination with Lady Heather, hasn't he?** They have a very intricate relationship that comes with a great deal of respect.  But she has a lot of trouble, a lot of problems, and ultimately Grissom likes to stay away from problems.</blockquote>
 
 You can see scans of the whole article at <a href="http://billypetersen.com/TheGallery/displayimage.php?album=714&pos=3">BillyPetersen.com</a>

@@ -23,4 +23,5 @@ home:
 externalLinks:
   cue: true
 
-
+includeToc:
+  show: true

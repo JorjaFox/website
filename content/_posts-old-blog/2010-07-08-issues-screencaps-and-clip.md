@@ -1,6 +1,6 @@
 ---
 id: 2506
-title: 'Issues &#8211; Screencaps and Clip'
+title: 'Issues — Screencaps and Clip'
 date: '2010-07-08T09:14:58-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'As promised, screencaps and a video clip from Jorja on ISSUES.'

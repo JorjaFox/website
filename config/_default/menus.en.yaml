@@ -3,15 +3,38 @@ main:
 - name: Home
   pageRef: /
   weight: 10
-- name: News
+- name: Site News
   pageRef: /blog
   weight: 20
 - name: About
   pageRef: /about
   weight: 20
-- name: Library
+- name: FAQs
+  pageRef: /faq
+  weight: 20
+- name: Resources
   pageRef: /library
   weight: 30
+- parent: Resources
+  name: Library
+  url: /library
+  weight: 31
+- parent: Resources
+  name: Filmography
+  url: /library/filmography
+  weight: 32
+- parent: Resources
+  name: News Articles
+  url: /library/news
+  weight: 33
+- parent: Resources
+  name: Advocacy
+  url: /library/advocacy
+  weight: 34
+- parent: Resources
+  name: Transcripts
+  url: /library/transcript
+  weight: 35
 
 footer:
 - name: Links

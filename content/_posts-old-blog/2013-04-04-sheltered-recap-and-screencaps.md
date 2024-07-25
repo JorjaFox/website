@@ -1,6 +1,6 @@
 ---
 id: 6987
-title: '&#8220;Sheltered&#8221; Recap and Screencaps'
+title: '"Sheltered" Recap and Screencaps'
 date: '2013-04-04T06:23:56-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Even though Sara had a hand, it was only two stars for her in last night''s episode.'

@@ -1,6 +1,6 @@
 ---
 id: 8617
-title: 'CSI 14&#215;03 &#8220;Torch Song&#8221; Discussion Post'
+title: 'CSI 14&#215;03 "Torch Song" Discussion Post'
 date: '2013-10-09T13:00:13-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSIs didn''t start the fire, but they''ll be the ones to solve who did on tonight''s episode of #CSI.'
@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-Expect the screencaps and recap tomorrow morning, and remember to <strong><a title="Updates" href="https://jorjafox.net/updates/">sign up for email alerts</a></strong> if you want to know right away when they're up.
+Expect the screencaps and recap tomorrow morning, and remember to **<a title="Updates" href="https://jorjafox.net/updates/">sign up for email alerts</a>** if you want to know right away when they're up.
 
 <em>Synopsis:</em>
 

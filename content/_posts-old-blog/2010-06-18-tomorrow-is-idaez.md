@@ -18,7 +18,7 @@ tags:
     - advocacy
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/06/ElephantCartoon-good-100x100.jpg" alt="" title="ElephantCartoon-good" width="100" height="100" class="alignleft size-thumbnail wp-image-2484" /> Tomorrow is International Day of Action for Elephants in Zoos (IDAEZ), with demonstrations and educational outreach events.  The intent is to send the message: <strong>Elephants don't belong in zoos.</strong> 
+<img src="//static.jorjafox.net/wordpress/2010/06/ElephantCartoon-good-100x100.jpg" alt="" title="ElephantCartoon-good" width="100" height="100" class="alignleft size-thumbnail wp-image-2484" /> Tomorrow is International Day of Action for Elephants in Zoos (IDAEZ), with demonstrations and educational outreach events.  The intent is to send the message: **Elephants don't belong in zoos.**
 
 If there's no place near you to protest at, consider a <a href="http://www.idablog.org/featured/international-day-of-action-for-elephants-in-zoos-join-ida%E2%80%99s-virtual-demonstration-on-saturday/">virtual demonstration</a>.
 

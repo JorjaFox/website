@@ -1,6 +1,6 @@
 ---
 id: 11050
-title: 'Shelli didn&#8217;t say&#8230;'
+title: 'Shelli didn't say&#8230;'
 date: '2014-07-12T20:00:42-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Daft Punk or CSI? You decide.'

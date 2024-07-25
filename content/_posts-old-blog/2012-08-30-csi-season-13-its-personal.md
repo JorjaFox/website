@@ -1,6 +1,6 @@
 ---
 id: 5123
-title: 'CSI Season 13 &#8211; It&#8217;s Personal'
+title: 'CSI Season 13 — It's Personal'
 date: '2012-08-30T17:43:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Teaser video for Season Thirteen.'

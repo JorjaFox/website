@@ -20,7 +20,7 @@ tags:
     - 'public events'
 ---
 
-<strong>3 Weeks to Daytona</strong> will be a feature presentation at the <em>Bare Bones Film Festival</em> (Bare Bones Film Fest Friends)
+**3 Weeks to Daytona** will be a feature presentation at the <em>Bare Bones Film Festival</em> (Bare Bones Film Fest Friends)
 
 DATE: Friday, April 29th
 VENUE: Roxy Theater

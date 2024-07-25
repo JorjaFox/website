@@ -1,6 +1,6 @@
 ---
 id: 9688
-title: '&#8220;Keep Calm and Carry-on&#8221; Preview Video'
+title: '"Keep Calm and Carry-on" Preview Video'
 date: '2014-01-11T09:00:34-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Preview video of the Jan 15th episode. Complete with Jorja! Yay!'

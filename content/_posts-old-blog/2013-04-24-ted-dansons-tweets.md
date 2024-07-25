@@ -1,6 +1,6 @@
 ---
 id: 7062
-title: 'Ted Danson&#8217;s Tweets'
+title: 'Ted Danson's Tweets'
 date: '2013-04-24T09:35:35-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Ted chatted on Twitter back on April 10th, and mentioned Jorja and someone he''d like to see as a guest...'

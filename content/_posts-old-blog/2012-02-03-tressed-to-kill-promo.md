@@ -1,6 +1,6 @@
 ---
 id: 4295
-title: 'CSI 12&#215;13 &#8220;Tressed to Kill&#8221; Promo has Sara'
+title: 'CSI 12&#215;13 "Tressed to Kill" Promo has Sara'
 date: '2012-02-03T13:04:33-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Expect a lot of Sara and DB on Wednesday night!'

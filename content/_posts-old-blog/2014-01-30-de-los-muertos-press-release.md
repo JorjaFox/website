@@ -1,6 +1,6 @@
 ---
 id: 9843
-title: '&#8220;De Los Muertos&#8221; Press Release'
+title: '"De Los Muertos" Press Release'
 date: '2014-01-30T14:32:14-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The next new episode to air is De Los Muertos, next Wednesday!'

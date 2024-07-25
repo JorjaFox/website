@@ -14,16 +14,16 @@ tags:
     - birthday
 ---
 
-<p>It is that time of year again, where we celebrate Jorja's birthday!</p>
+It is that time of year again, where we celebrate Jorja's birthday!
 
-<p>I've aged with this site and followed her for long enough that this website is old enough to drink. And honestly? Given the state of the world, we all need a drink. But today, Jorja is 55 and frankly if I look half that good in a decade, I'll consider it a win.</p>
+I've aged with this site and followed her for long enough that this website is old enough to drink. And honestly? Given the state of the world, we all need a drink. But today, Jorja is 55 and frankly if I look half that good in a decade, I'll consider it a win.
 
-<p>While it's been quiet since she left CSI: Vegas (still going strong!), she's still out there doing her thing.</p>
+While it's been quiet since she left CSI: Vegas (still going strong!), she's still out there doing her thing.
 
-<p>Some news you may have missed (if you're not on most of the socials these days, like me)... A song Jorja write with Rick Morris is available on most platforms. It's called "<a href="https://artists.landr.com/055120374494?fbclid=IwAR2QprqcqQIxaJwoCWOz0TuGUiRYN4QeLvXDMMtwLLle3HNiIXExLxd12NE">Let's Get Out Of Here</a>"!</p>
+Some news you may have missed (if you're not on most of the socials these days, like me)... A song Jorja write with Rick Morris is available on most platforms. It's called "<a href="https://artists.landr.com/055120374494?fbclid=IwAR2QprqcqQIxaJwoCWOz0TuGUiRYN4QeLvXDMMtwLLle3HNiIXExLxd12NE">Let's Get Out Of Here</a>"!
 
-<p>Of course, she does still post about her disillusionment with the Supreme Court (saaaame) and her dedication to saving the planet from, well, us humans. Basically? Jorja's hitting her next year being the exact person we like. She's empathetic, caring, and opinionated. She remains a good human.</p>
+Of course, she does still post about her disillusionment with the Supreme Court (saaaame) and her dedication to saving the planet from, well, us humans. Basically? Jorja's hitting her next year being the exact person we like. She's empathetic, caring, and opinionated. She remains a good human.
 
-<p>Happy Birthday, Jorja, and many many more.</p>
+Happy Birthday, Jorja, and many many more.
 
-<p>May the waves be perfect, and the sky be clear.</p>
+May the waves be perfect, and the sky be clear.

@@ -1,9 +1,0 @@
-{{ with .TableOfContents }}
-
-{{ $toc := replaceRE "<nav([^>]*)>\\s*<ul>\\s*<li>([\\s\\S]+)</li>\\s*</ul>\\s*</nav>" "$2" . | safeHTML }}
-{{ $toc = replaceRE "<ul>" "<ul class='list-group'><li class='list-group-item list-group-item-success'><a name='toc'><strong>Table of Contents</strong></a></li>" $toc | safeHTML }}
-{{ $toc = replaceRE "<li>" "<li class='list-group-item'>" $toc | safeHTML }}
-
-{{ $toc }}
-
-{{ end }}

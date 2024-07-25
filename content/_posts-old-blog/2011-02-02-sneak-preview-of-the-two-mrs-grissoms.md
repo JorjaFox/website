@@ -1,6 +1,6 @@
 ---
 id: 3081
-title: 'Sneak Preview of &#8220;The Two Mrs. Grissoms&#8221;'
+title: 'Sneak Preview of "The Two Mrs. Grissoms"'
 date: '2011-02-02T16:24:34-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"You''re not winning any points with your mother in law.  She really seems to like me though!"'

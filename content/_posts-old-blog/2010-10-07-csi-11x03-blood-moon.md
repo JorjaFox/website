@@ -1,6 +1,6 @@
 ---
 id: 2629
-title: 'CSI 11&#215;03 &#8211; &#8220;Blood Moon&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;03 — "Blood Moon" Discussion Post (Updated)'
 date: '2010-10-07T10:00:37-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s werewolves vs vampires when Andy Dick guest stars on <em>CSI</em>. <em>(Updated at 9:40pm on the 7th!)</em>'
@@ -39,7 +39,7 @@ http://www.youtube.com/watch?v=zOqcoSJ-8r8
 <h2>Recap</h2>
 <del><em>Coming Soon!</em></del>
 
-Well. Okay.  Two stars again.  Sara spent most of her time in the lab.  So she's replacing Wendy?  Not really sure there.  Wendy was mentioned a couple times, by the way, but basically this was a decent episode.  The one scene of Sara and Nick was absolutely adorable, and worth it. 
+Well. Okay.  Two stars again.  Sara spent most of her time in the lab.  So she's replacing Wendy?  Not really sure there.  Wendy was mentioned a couple times, by the way, but basically this was a decent episode.  The one scene of Sara and Nick was absolutely adorable, and worth it.
 
 &bull; <a href="https://jorjafox.net/wiki/Blood_Moon">Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/season11/bloodmoon/">Screencaps</a>

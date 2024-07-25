@@ -1,6 +1,6 @@
 ---
 id: 6190
-title: '&#8220;In Vino Veritas&#8221; Press Release'
+title: '"In Vino Veritas" Press Release'
 date: '2013-01-19T13:30:35-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI New York''s Mac Taylor''s girlfriend is missing. CSI Las Vegas''s DB Russell will bring her back.'

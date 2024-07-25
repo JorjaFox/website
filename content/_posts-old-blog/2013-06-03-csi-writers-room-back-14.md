@@ -1,6 +1,6 @@
 ---
 id: 7319
-title: 'CSI Writers Room &#8211; Back In Action'
+title: 'CSI Writers Room — Back In Action'
 date: '2013-06-03T10:36:07-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Season Fourteen starts now. At least on paper. The Writers Room is back at work!'

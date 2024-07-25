@@ -24,6 +24,6 @@ Let's take the time to wish Jorja, Carol, Liz, and everyone working on the show 
 
 Got that, CBS?
 
-In other <em>Chiefs</em> related news, this appears to be a cop drama and <strong>not</strong> a procedural, which is a change from how CBS has been picking shows. This is a good thing.
+In other <em>Chiefs</em> related news, this appears to be a cop drama and **not** a procedural, which is a change from how CBS has been picking shows. This is a good thing.
 
 Jorja's character is a married Texan with a child in the current write-up, but that may change since they're apparently retooling things for her. Keep your fingers crossed.

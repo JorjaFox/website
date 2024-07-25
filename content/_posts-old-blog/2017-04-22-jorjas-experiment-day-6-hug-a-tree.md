@@ -1,6 +1,6 @@
 ---
 id: 14406
-title: 'Jorja&#8217;s Experiment Day 6: Hug a Tree'
+title: 'Jorja's Experiment Day 6: Hug a Tree'
 date: '2017-04-22T19:35:32-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Hug a tree!'

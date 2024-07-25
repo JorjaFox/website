@@ -1,6 +1,6 @@
 ---
 id: 2008
-title: 'Liz Vassey says Jorja Fox is &#8220;made of cool&#8221;'
+title: 'Liz Vassey says Jorja Fox is "made of cool"'
 date: '2009-09-08T08:40:27-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '<em>CSI</em> star Liz Vassey talks about <em>CSI</em>, Jorja Fox and Marg Helgenberger, <em>Ladycops</em>, and Save the Ta-tas'
@@ -45,12 +45,12 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2009/09/liz-vassey-interview-1.jpg"><img src="//static.jorjafox.net/wordpress/2009/09/liz-vassey-interview-1-100x100.jpg" alt="liz-vassey-interview-1" title="liz-vassey-interview-1" width="100" height="100" class="alignleft size-thumbnail wp-image-2009" /></a> Liz Vassey, best known to <em>CSI</em> fans as "Wendy Simms", sat down with <a href="http://afterellen.com">After Ellen</a> to talk about <em>CSI</em>, <em>Dr. Horrible</em>, and just a wee little bit about how nice it is to work with Jorja Fox.
 
-<blockquote><strong>AE: How was it working with Jorja Fox?</strong>
-<strong>LV:</strong> I got to work with Jorja quite a bit when I first joined the show. She and Laurence Fishburne are both made of cool. When you're around her, Jorja has this thing where you feel like, "It's OK. I'm with Jorja." It's a feeling that they both exude — they're really comfortable and fun to be around.
+<blockquote>**AE: How was it working with Jorja Fox?**
+**LV:** I got to work with Jorja quite a bit when I first joined the show. She and Laurence Fishburne are both made of cool. When you're around her, Jorja has this thing where you feel like, "It's OK. I'm with Jorja." It's a feeling that they both exude — they're really comfortable and fun to be around.
 
 And I like everything Jorja stands for. I'm a pescetarian and I've been talking to her about that. She's avid about animal rights. And I think she's a terrific actress. She's back for five or six episodes this season. They're not consecutive. But I hope she stays for more, it's really great having her around.
 
-<strong></strong><strong>AE: Are you in any scenes with her this season?</strong>
+******AE: Are you in any scenes with her this season?**
 LV: No, and we don't like it. We really like working together. And it's nice when the women get to do stuff 'cause we're outnumbered by the men on the show. We all genuinely like each other. But the law of averages says you're probably going to be working with the guys.</blockquote>
 
 You can read the full article at AfterEllen.com

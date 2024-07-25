@@ -1,6 +1,6 @@
 ---
 id: 1694
-title: 'Layout Tweaks &#8211; Nothing Major'
+title: 'Layout Tweaks — Nothing Major'
 date: '2009-03-18T10:56:28-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

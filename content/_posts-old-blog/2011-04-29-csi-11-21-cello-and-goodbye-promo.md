@@ -1,6 +1,6 @@
 ---
 id: 3302
-title: 'CSI 11.21: Cello and Goodbye &#8211; Promo'
+title: 'CSI 11.21: Cello and Goodbye — Promo'
 date: '2011-04-29T09:17:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"Ray''s not a murderer!"  CSI hits 250 episodes, and Jorja''s in it!'

@@ -1,6 +1,6 @@
 ---
 id: 2538
-title: 'Animal Acres Updates &#8211; Goats and Gala'
+title: 'Animal Acres Updates — Goats and Gala'
 date: '2010-08-04T19:46:03-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Goats need a home, and Jorja is expected to be there for the Gala. Sort of a bad news/good news thing.'

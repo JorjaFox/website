@@ -1,6 +1,6 @@
 ---
 id: 2658
-title: 'Insider Interview: Trouble on the &#8216;CSI&#8217; Set'
+title: 'Insider Interview: Trouble on the &#8216;CSI' Set'
 date: '2010-10-21T12:52:58-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja, George and a bit of Eric on tonight''s CSI episode, "House of Hoarders".'

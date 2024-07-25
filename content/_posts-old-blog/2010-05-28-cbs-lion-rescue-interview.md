@@ -26,11 +26,11 @@ Video: <a href="http://cbs5.com/video/?id=65714@kpix.dayport.com">Rescued Lions 
 
 <blockquote>[...]
 
-<strong>Don Knapp:</strong> And along for the trip tonight was Jorja Fox, of <em>CSI</em>, she's lending her celebrity and her back.
+**Don Knapp:** And along for the trip tonight was Jorja Fox, of <em>CSI</em>, she's lending her celebrity and her back.
 
 [...]
 
-<strong>Jorja Fox:</strong> I know I am, I'm sure all of us are very concerned about everything that's going on in the gulf.  The news is so bad, so devastating, and this is just a very small moment where we can look at ourselves as people and say, "You know, we're doing something good."
+**Jorja Fox:** I know I am, I'm sure all of us are very concerned about everything that's going on in the gulf.  The news is so bad, so devastating, and this is just a very small moment where we can look at ourselves as people and say, "You know, we're doing something good."
 
 [...]</blockquote>
 

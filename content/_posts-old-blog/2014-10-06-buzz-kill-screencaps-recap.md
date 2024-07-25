@@ -1,6 +1,6 @@
 ---
 id: 11349
-title: '&#8220;Buzz Kill&#8221; Screencaps and Recap'
+title: '"Buzz Kill" Screencaps and Recap'
 date: '2014-10-06T02:30:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara''s a little bit square, but we love her anyway.'

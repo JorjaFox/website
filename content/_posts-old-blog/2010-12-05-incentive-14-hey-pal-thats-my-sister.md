@@ -1,6 +1,6 @@
 ---
 id: 2783
-title: 'Incentive 14 &#8211; Hey Pal, That&#8217;s My Sister!'
+title: 'Incentive 14 — Hey Pal, That's My Sister!'
 date: '2010-12-05T12:55:49-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Episode 5 "Hey, Pal! That''s My Sister!" screencaps for you as incentive.  You want clips? You know what you gotta do!'
@@ -31,4 +31,4 @@ Click on the image below to see the whole gallery:
 <a href="https://jorjafox.net/gallery/tv/missingpersons/sister"><img src="//static.jorjafox.net/wordpress/2010/12/mysister-043.jpg" alt="" title="mysister-043" width="230" height="199" class="aligncenter size-full wp-image-2784" /></a>
 
 Want to see more? Then donate and you'll get video clips and images galore!  Click here:
-<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br /><strong>Animal Acres Winter 2010 Fundraiser</strong></a></center>
+<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br />**Animal Acres Winter 2010 Fundraiser**</a></center>

@@ -21,4 +21,4 @@ Did you see Jorja's tweet about the giant sunflower?
 
 https://twitter.com/JorjaFoxofficia/status/865285609929048064
 
-Seriously! That's <strong>huge</strong>!
+Seriously! That's **huge**!

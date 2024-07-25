@@ -53,13 +53,13 @@ tags:
     - photos
 ---
 
-<p>We have some press photos from Colbert:</p>
+We have some press photos from Colbert:
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-the-late-show-with-stephen-colbert-fans-of-lefox-gallery wp-block-embed-the-late-show-with-stephen-colbert-fans-of-lefox-gallery"><div class="wp-block-embed__wrapper">
 https://jorjafox.net/gallery/tv/talkshow/20211027-lateshow/
 </div></figure>
 
-<p>And a new article from Parade.com about why Jorja came back and who, exactly, is paying for that sweet suite!</p>
+And a new article from Parade.com about why Jorja came back and who, exactly, is paying for that sweet suite!
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-fans-of-lefox-library wp-block-embed-fans-of-lefox-library"><div class="wp-block-embed__wrapper">
 https://jorjafox.net/library/news/2021/1103-parade/

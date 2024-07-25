@@ -1,6 +1,6 @@
 ---
 id: 2654
-title: 'CSI 11&#215;07: &#8220;Bump and Grind&#8221; Press Release'
+title: 'CSI 11&#215;07: "Bump and Grind" Press Release'
 date: '2010-10-18T18:05:54-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sounds a little like "To Halve and to Hold" meets "Unfriendly Skies" in a weird way... Oh, and yes, we get Jorja.'
@@ -26,9 +26,9 @@ tags:
 
 At this point, we're singing "If you want to bump it, bump it with a trumpet" from Gypsy! (Watch <a href="http://www.youtube.com/watch?v=gFRSawe33sA">You Gotta Have A Gimmick</a> and remember, if you wanna grind it, wait till you've refined it.)
 
-<blockquote>"Bump and Grind" - When the CSI team discovers the shredded remains of a man, they find themselves with multiple suspects who may be responsible for his death, on CSI: CRIME SCENE INVESTIGATION, Thursday, Nov. 4 (9:00-10:00 PM, ET/PT) on the CBS Television Network. 
+<blockquote>"Bump and Grind" - When the CSI team discovers the shredded remains of a man, they find themselves with multiple suspects who may be responsible for his death, on CSI: CRIME SCENE INVESTIGATION, Thursday, Nov. 4 (9:00-10:00 PM, ET/PT) on the CBS Television Network.
 
-<strong>SERIES REGULARS:</strong>
+**SERIES REGULARS:**
 Dr. Raymond Langston: Laurence Fishburne
 Catherine Willows: Marg Helgenberger
 Nick Stokes: George Eads
@@ -38,7 +38,7 @@ Dr. Robbins: Robert David Hall
 David Phillips: David Berman
 Hodges: Wallace Langham
 
-<strong>RECURRING:</strong>
+**RECURRING:**
 Sara Sidle: Jorja Fox
 </blockquote>
 

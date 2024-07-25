@@ -1,6 +1,6 @@
 ---
 id: 11723
-title: '&#8220;Dead Rails&#8221; Screencaps and Recap'
+title: '"Dead Rails" Screencaps and Recap'
 date: '2014-12-15T03:00:12-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Dead twice but only two Sara scenes for two stars. What? You expected more?'

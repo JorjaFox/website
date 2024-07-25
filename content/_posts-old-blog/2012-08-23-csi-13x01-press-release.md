@@ -1,6 +1,6 @@
 ---
 id: 5105
-title: 'CSI 13&#215;01 &#8220;Karma To Burn&#8221; Press Release'
+title: 'CSI 13&#215;01 "Karma To Burn" Press Release'
 date: '2012-08-23T13:11:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'You know summer''s over when we get press releases again!'

@@ -26,7 +26,7 @@ Unless of course you're Animal Defenders International, who wanted to thank the 
 <blockquote>The lions, who lived as many as 8 in a cage the size of a double bed, now have 80 acres of land on which to roam, a top quality diet, and exceptional veterinary care. ADI’s campaign to end circus suffering in Bolivia, and the rescue and continued care of the lions we saved has all been supported by Jorja and her fans!
 Says Jorja, <em>“I hope you’ll join me in supporting Operation Lion Ark. These majestic animals have been through so much and now through the compelling and daring acts of ADI, they are finally going to have a life of ease, dignity, and grace. We’d love for you to be a part of this amazing and unprecedented epic event.”</em>
 
-Visitors to two of Jorja’s fan sites, <strong>http://www.jorjaallaround.org</strong> and <strong><a href="https://jorjafox.net/2011/a-lion-of-your-own">https://jorjafox.net</a></strong>, felt the same way!
+Visitors to two of Jorja’s fan sites, **http://www.jorjaallaround.org** and **<a href="https://jorjafox.net/2011/a-lion-of-your-own">https://jorjafox.net</a>**, felt the same way!
 
 They combined efforts to raise money for <em>Operation Lion Ark</em> – a generous $600! And both sites have further encouraged the adoption of the lions as a way to both bring in funding for their continued care, and to establish a positive bond between ADI supporters and these amazing creatures who care about giving these lions a wonderful future.</blockquote>
 And you know what? We really do!  Check out the full article on ADI: <a href="http://www.ad-international.org/take_action/go.php?id=2187&amp;si=95">Jorja Fox fans raise $600 for rescued lions</a> and pat yourself on the back.

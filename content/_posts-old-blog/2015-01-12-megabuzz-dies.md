@@ -17,7 +17,7 @@ tags:
     - csi
 ---
 
-<a href="http://www.tvguide.com/News/Mega-Buzz-CSI-Death-1092036.aspx">Mega Buzz: Who's Going to Die on <i>CSI</i>?</a>
+<a href="http://www.tvguide.com/News/Mega-Buzz-CSI-Death-1092036.aspx">Mega Buzz: Who's Going to Die on _CSI_?</a>
 <blockquote>A cast member who has been a part of the show since Season 1 will become a victim of the Gig Harbor Killer in the Season 15 finale, TVGuide.com has learned. Additionally, I hear the season-long serial killer case will also put <em>another </em>team member in harm's way — although his or her survival has yet to be determined.</blockquote>
 
 That doesn't give us much of a list to draw from, since we know it's not George who dies (he's being written out with a 'way to come back' though we've seen how well that went before).

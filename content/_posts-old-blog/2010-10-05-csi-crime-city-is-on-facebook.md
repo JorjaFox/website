@@ -24,6 +24,6 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2010/10/crimecity.jpg"><img src="//static.jorjafox.net/wordpress/2010/10/crimecity-100x100.jpg" alt="" title="crimecity" width="100" height="100" class="alignleft size-thumbnail wp-image-2627" /></a> I don't actually like Facebook, but this is possibly the cutest little wee Sara.  They're currently in Beta testing, so if you have a Facebook account and want to waste the rest of your life (I kid! I kid!) then sign up.
 
-<strong><a href="http://www.facebook.com/CSIcrimecity?utm_source=CSI_Twitter&utm_medium=tweet&utm_campaign=EarlyAccessBeta">CSI: Crime City Beta</a></strong>
+**<a href="http://www.facebook.com/CSIcrimecity?utm_source=CSI_Twitter&utm_medium=tweet&utm_campaign=EarlyAccessBeta">CSI: Crime City Beta</a>**
 
 If you write on the wall, tell them that Spectra sent you! Or Spectra and Jorja Fox: Online.  Whatever.

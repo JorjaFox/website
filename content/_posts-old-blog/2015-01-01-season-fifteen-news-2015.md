@@ -26,6 +26,6 @@ First, we have episode titles for all by the season finale. As I get them, I'll 
 	<li>Under My Skin - Feb. 1, 2015</li>
 	<li>Finale (untitled) - Feb. 8, 2015</li>
 </ol>
-And the really good news? Jorja will be in <strong>all</strong> of these episodes.
+And the really good news? Jorja will be in **all** of these episodes.
 
 Happy New Year, folks!

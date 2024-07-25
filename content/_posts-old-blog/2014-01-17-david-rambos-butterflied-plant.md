@@ -1,6 +1,6 @@
 ---
 id: 9716
-title: 'David Rambo&#8217;s &#8220;Butterflied&#8221; Plant'
+title: 'David Rambo's "Butterflied" Plant'
 date: '2014-01-17T07:43:56-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The Butterflied Plant lives on!'

@@ -1,6 +1,6 @@
 ---
 id: 4307
-title: '&#8220;Stealing Home&#8221; Stills'
+title: '"Stealing Home" Stills'
 date: '2012-02-06T14:24:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Some promo pics to make your Monday just a little bit better.'

@@ -1,6 +1,6 @@
 ---
 id: 7393
-title: 'Tweets from the Writers&#8217; Room'
+title: 'Tweets from the Writers' Room'
 date: '2013-06-20T12:58:47-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A couple tweets from the Writers'' Room... One about Sara!'

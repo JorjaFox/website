@@ -1,6 +1,6 @@
 ---
 id: 2553
-title: 'Jorja Asks Sweden&#8217;s PM to Ban Fur Farms'
+title: 'Jorja Asks Sweden's PM to Ban Fur Farms'
 date: '2010-08-16T20:16:53-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja addressed a letter to Fredrik Reinfeldt, Prime Minister of Sweden, telling him: Stäng minkfarmerna! Don''t worry, the letter is in English.'

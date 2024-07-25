@@ -1,6 +1,6 @@
 ---
 id: 10109
-title: 'Photos from 2003 &#8220;Life&#8217;s Not Still&#8221; Benefit'
+title: 'Photos from 2003 "Life's Not Still" Benefit'
 date: '2014-03-07T08:30:57-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Marg and Jorja at the "Life''s Not Still" event, benefitting the Huckleberry Fund'

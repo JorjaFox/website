@@ -1,6 +1,6 @@
 ---
 id: 8653
-title: '&#8220;Last Supper&#8221; Press Release'
+title: '"Last Supper" Press Release'
 date: '2013-10-03T15:00:12-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Do NOT read this press release while eating. Oh and Sara''s not in this episode.'

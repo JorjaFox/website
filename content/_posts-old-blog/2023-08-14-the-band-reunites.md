@@ -27,10 +27,10 @@ tags:
     - 'social media'
 ---
 
-<p>Marg Helgenberg shared that some of the old crew got together for a catchup:</p>
+Marg Helgenberg shared that some of the old crew got together for a catchup:
 
 <figure class="wp-block-embed is-type-rich is-provider-instagram wp-block-embed-instagram"><div class="wp-block-embed__wrapper">
 https://www.instagram.com/p/Cv7eN9ULZUm/?utm_source=ig_embed&amp;ig_rid=c4897cd2-843b-439c-aeb2-18a493593923
 </div></figure>
 
-<p>It's nice to see everyone smiling together and being goofy again!</p>
+It's nice to see everyone smiling together and being goofy again!

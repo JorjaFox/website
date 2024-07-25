@@ -1,6 +1,6 @@
 ---
 id: 3262
-title: 'CSI 11&#215;19 &#8220;Unleashed&#8221; Screencaps'
+title: 'CSI 11&#215;19 "Unleashed" Screencaps'
 date: '2011-04-08T09:29:07-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

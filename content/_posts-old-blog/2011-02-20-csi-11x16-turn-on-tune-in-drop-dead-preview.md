@@ -1,6 +1,6 @@
 ---
 id: 3136
-title: 'CSI 11&#215;16 &#8220;Turn On, Tune In, Drop Dead&#8221; Preview'
+title: 'CSI 11&#215;16 "Turn On, Tune In, Drop Dead" Preview'
 date: '2011-02-20T08:42:19-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"Reanimation?"  We''ve got zombies on CSI this week!  Check out the promo video and remember to keep a chainsaw handy!'

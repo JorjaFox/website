@@ -1,6 +1,6 @@
 ---
 id: 2533
-title: 'Keck on the CBS&#8217;s 2010 Press Tour'
+title: 'Keck on the CBS's 2010 Press Tour'
 date: '2010-07-29T11:07:38-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'TV Guide''s William Keck talked to Carol Mendelsohn about the great Sara/Grissom Divide!'

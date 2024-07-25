@@ -32,13 +32,13 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/08/s5extras-100x100.jpg" alt="s5extras" title="s5extras" width="100" height="100" class="alignleft size-thumbnail wp-image-1949" /> I don't know about you, but it's hot here in Chicago and I need something to take my mind off the struggling A/C in the corner.  Here are some entertaining clips and images from the vault.<br style="clear:both;" />
 
-<strong>Images</strong>
+**Images**
 Just some nice images from the extras on the Season 5 DVDs.
 <ul>
 	<li><a href="https://jorjafox.net/gallery/tv/csi/extras/2005-dvd/">Season 5 DVD extras</a></li>
 </ul>
 
-<strong>Videos</strong>
+**Videos**
 Sadly these are old and, as such, pretty poor quality, but they are still funny (if you lean in and squint). That's right, we've got some bloopers.
 <ul>
 	<li>Bloopers #1</li>

@@ -1,6 +1,6 @@
 ---
 id: 10716
-title: '&#8220;Dead In His Tracks&#8221; Preview'
+title: '"Dead In His Tracks" Preview'
 date: '2014-05-05T19:45:23-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Full, official, preview of the season 14 finale.'

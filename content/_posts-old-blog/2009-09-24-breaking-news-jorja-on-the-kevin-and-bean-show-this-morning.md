@@ -3,7 +3,7 @@ id: 2035
 title: 'Breaking News: Jorja on the Kevin and Bean show this morning!'
 date: '2009-09-24T08:42:19-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja will be interviewed this morning on KROQ (106.7FM)''s <strong><a href="http://www.kroq-data.com/kevinandbean/index.asp">Kevin and Bean Show</a></strong>.  The show airs from 5:30am to 10am Pacific so tune in!'
+excerpt: 'Jorja will be interviewed this morning on KROQ (106.7FM)''s **<a href="http://www.kroq-data.com/kevinandbean/index.asp">Kevin and Bean Show</a>**.  The show airs from 5:30am to 10am Pacific so tune in!'
 layout: post
 guid: 'https://jorjafox.net/?p=2035'
 permalink: /2009/breaking-news-jorja-on-the-kevin-and-bean-show-this-morning/
@@ -37,6 +37,6 @@ tags:
 
 You can listen on your radio if you're in California (probably just the LA/Pasadena area though).  The rest of us can listen live at <a href="http://kroq.com">http://kroq.com</a> OR via iTunes radio (it's under Alternative Rock).
 
-I wish I had a better time for y'all, but at least they're pimping her: <strong><a href="http://www.kroq-data.com/kevinandbean/index.asp">The Kevin and Bean Show</a></strong>
+I wish I had a better time for y'all, but at least they're pimping her: **<a href="http://www.kroq-data.com/kevinandbean/index.asp">The Kevin and Bean Show</a>**
 
 Update because... <a href="https://jorjafox.net/wiki/The_Kevin_and_Bean_Show_%2824_September_2009%29">Transcript is up!</a>

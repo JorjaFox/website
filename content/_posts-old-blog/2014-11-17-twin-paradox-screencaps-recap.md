@@ -1,6 +1,6 @@
 ---
 id: 11620
-title: '&#8220;The Twin Paradox&#8221; Screencaps and Recap'
+title: '"The Twin Paradox" Screencaps and Recap'
 date: '2014-11-17T03:38:45-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Yikes, didn''t see (all of) that coming on last night''s CSI! Did you?'

@@ -1,6 +1,6 @@
 ---
 id: 12799
-title: '&#8220;The End Game&#8221; Recap and Screencaps'
+title: '"The End Game" Recap and Screencaps'
 date: '2015-02-16T12:00:55-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The season fifteen finale was powerful and had some damn fine Jorja moments.'

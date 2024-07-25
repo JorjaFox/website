@@ -1,6 +1,6 @@
 ---
 id: 3520
-title: 'CSI News &#8211; DVDs and Casting'
+title: 'CSI News — DVDs and Casting'
 date: '2011-07-06T21:20:19-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI comes out on DVD and TV Guide gives us some tidbits for what kind of replacement they''re looking for.'
@@ -29,7 +29,7 @@ On the plus side, though, Justin Beiber <em>isn't</em> on the cover either, but
 Second up, new actors.
 
 TV Guide Magazine has some interesting tidbits.
-<blockquote><strong>CASTING CALL</strong>
+<blockquote>**CASTING CALL**
 The producers of <em>CSI</em> are still hunting for the lab's next investigator, but executive producer <em>Carol Mendelsohn</em> is said to have drawn up a character who is a bit more lighthearted than <em>Laurence Fishburne's Ray Langston</em> [and more in the vein of <em>Gil Grissom]</em>. CBS is expected to find someone with seasoned TV chops.</blockquote>
 Interestingly, they start filming on July 18th, so they really should have the person cast already.  But that's up to them.
 

@@ -1,6 +1,6 @@
 ---
 id: 2198
-title: '&#8216;CSI&#8217; Girl Crush'
+title: '&#8216;CSI' Girl Crush'
 date: '2010-02-05T13:49:13-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja and Marg dish about celeb crushes.'
@@ -21,7 +21,7 @@ tags:
     - video
 ---
 
-<blockquote><strong>Marg Helgenberger</strong> and <strong>Jorja Fox</strong>, stars of CBS' long-time hit show "<em>CSI</em>," sat down with "Extra's" Terri Seymour and dished on their celebrity crushes. Hear which stars really set these ladies off!</blockquote>
+<blockquote>**Marg Helgenberger** and **Jorja Fox**, stars of CBS' long-time hit show "<em>CSI</em>," sat down with "Extra's" Terri Seymour and dished on their celebrity crushes. Hear which stars really set these ladies off!</blockquote>
 
 Trivia tidbit - Jorja likes <em>Lost</em> and finds Naveen Andrews to be sexy.
 

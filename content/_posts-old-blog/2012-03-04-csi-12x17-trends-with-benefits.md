@@ -1,6 +1,6 @@
 ---
 id: 4391
-title: 'CSI 12&#215;17 &#8220;Trends With Benefits&#8221;'
+title: 'CSI 12&#215;17 "Trends With Benefits"'
 date: '2012-03-04T21:15:09-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The secret behind those tweetups CBS has been having is revealed on the March 14th episode of CSI, but without Sara Sidle.'

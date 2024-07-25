@@ -1,6 +1,6 @@
 ---
 id: 2300
-title: 'CSI&#8217;s Electronic Press Kit'
+title: 'CSI's Electronic Press Kit'
 date: '2010-03-08T19:53:12-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI''s EPK has some cute moments about why Jorja''s back on CSI, as well as a fangirl moment for Jorja, regarding Laurence Fishburne.'
@@ -40,10 +40,10 @@ The full video is rather long (11 minutes) and I'm not going to post the whole t
 
 Updated: Okay I didn't post the video on JFO.  I did it on YouTube.
 
-<strong>Part 1</strong>
+**Part 1**
 http://www.youtube.com/watch?v=7WQn9l67hu0
 
-<strong>Part 2</strong>
+**Part 2**
 http://www.youtube.com/watch?v=jFgEQM2wfUY
 
 Enjoy!

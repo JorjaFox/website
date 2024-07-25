@@ -1,6 +1,6 @@
 ---
 id: 2774
-title: 'Incentive &#8211; Coupon'
+title: 'Incentive — Coupon'
 date: '2010-12-03T13:29:47-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'No, no one donated. But here''s an incentive anyway!  An idea for how to share your animal love with others!'

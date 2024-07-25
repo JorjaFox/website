@@ -1,6 +1,6 @@
 ---
 id: 2032
-title: 'Not everyone&#8217;s happy about GSR (AfterEllen)'
+title: 'Not everyone's happy about GSR (AfterEllen)'
 date: '2009-09-23T14:46:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'From AfterEllen (a very pro-lesbian site), we learn that not all Jorja fans are thrilled about this Grissom/Sara spoiler.'

@@ -1,6 +1,6 @@
 ---
 id: 1906
-title: 'State of The Union &#8211; June'
+title: 'State of The Union — June'
 date: '2009-07-06T09:51:21-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'State of the JFO Union for June 2009! Things are just getting hot!'
@@ -44,17 +44,17 @@ tags:
 <span class="alignright">[polldaddy poll=1762408]</span>
 Summer is, generally, a pretty slow time for news.  More so when your favorite star is taking a break from the rigors of a TV series grind.  Thankfully, there's been some news to brighten up the days.
 
-<strong>Drop Dead Diva</strong>
+**Drop Dead Diva**
 A group of people who were lucky enough to film Jorja's Drop Dead Diva episode with her decided to <a href="https://jorjafox.net/2009/06/07/twittering-about-drop-dead-diva/">Twitter about it</a>, so the rest of us could feel more included.  Then <a href="https://jorjafox.net/2009/06/10/drop-dead-diva-airdate/">Lifetime sent me the airdate</a> of Aug 16th, so we knew when to set our DVRs to record!
 
-<strong>Emmy Awards</strong>
+**Emmy Awards**
 Jorja put her name in for Guest Actress in a Drama for "The Happy Place" and a small <a href="https://jorjafox.net/2009/06/22/considerjorja/">#considerjorja</a> <a href="https://jorjafox.net/2009/06/26/considerjorja-ballots-are-due-today/">campaign</a> tried to get her name out into the world for folks to vote on her (we won't find out how well it worked till July 16th at the latest).
 
-<strong>Events</strong>
+**Events**
 Jorja was a presenter at the <a href="https://jorjafox.net/2009/06/03/vfta-stand-up-for-the-animals-2009/">2009 Stand Up For the Animals</a> event, hosted by Voice For the Animals (VFTA).  She also attended the <a href="https://jorjafox.net/2009/06/08/vfta-save-billy-gallery/">2008 Save Billy Gallery</a>. Finally I found some "New To You" event galleries, like <a href="https://jorjafox.net/2009/06/12/new-to-you-galleries/">Marine Animal Rescue benefit at the epOxybOx Gallery (2006), MANIFESTHOPE:DC Gallery (2009) and the Washington Life Pollywood Dinner (2009)</a>.
 
-<strong>Galleries</strong>
+**Galleries**
 Keeping the spirit moving, I dug out some <a href="https://jorjafox.net/2009/06/21/csi-season-one-photos/">CSI Season One</a> photos, in much better quality.
 
-<strong>JFO</strong>
+**JFO**
 And lastly, there were upgrades here. <a href="https://jorjafox.net/2009/06/10/mediawiki-115/">wiki (aka the JorjaPedia)</a> got an upgrade, followed by the <a href="https://jorjafox.net/2009/06/11/wordpress-zenphoto-and-bbpress-upgraded/">blog, gallery and forums</a>. In the middle, I made a boneheaded maneuver and <a href="https://jorjafox.net/2009/06/02/did-your-id-here-vanish/">deleted 25 users</a>.

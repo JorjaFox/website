@@ -1,6 +1,6 @@
 ---
 id: 10044
-title: 'EW&#8217;s Pre Emmy Party, 2008, Interview'
+title: 'EW's Pre Emmy Party, 2008, Interview'
 date: '2014-03-02T19:56:27-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Interview from 2008? It''s not an Oscars thing, but it is for an award show back in the day!'

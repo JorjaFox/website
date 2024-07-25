@@ -1,6 +1,6 @@
 ---
 id: 11810
-title: '&#8220;The Greater Good&#8221; Recap and Screencaps'
+title: '"The Greater Good" Recap and Screencaps'
 date: '2015-01-05T06:12:40-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Not a ton of Sara, but a pretty intense episode.'
@@ -30,9 +30,9 @@ tags:
 ---
 
 This was not a Sara Heavy episode, but I didn't expect it to be. Not after last week. But when she had her last little scene with DB, I heard her being subtly disapproving, digging the dad who put his kid in danger and nearly killed her (or made her a killer). I think DB missed the sarcasm a bit.
-<blockquote><b>Sara Sidle:</b> You came close, DB. The greater good. Brisco's dead and Winthrope's on the run, a fugitive. You can plaster his face everywhere. Freeze his accounts. You're in the driver's seat.
+<blockquote>**Sara Sidle:** You came close, DB. The greater good. Brisco's dead and Winthrope's on the run, a fugitive. You can plaster his face everywhere. Freeze his accounts. You're in the driver's seat.
 
-<b>DB Russell:</b> Then why doesn't it feel like that?</blockquote>
+**DB Russell:** Then why doesn't it feel like that?</blockquote>
 This one gets two stars. Sara's scenes were good. I'm a little bummed they 'redeemed' Shaw though. It would have been more awesome, IMO, if he'd killed the Gig Harbor Boys and turned out to be the real killer. But I'm evil.
 <ul>
  	<li><a href="https://jorjafox.net/wiki/The_Greater_Good">Recap</a> (2 of 5 stars)</li>

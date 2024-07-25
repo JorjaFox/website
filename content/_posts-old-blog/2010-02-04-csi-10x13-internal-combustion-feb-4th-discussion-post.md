@@ -1,6 +1,6 @@
 ---
 id: 2192
-title: 'CSI 10&#215;13 &#8220;Internal Combustion&#8221; Feb 4th &#8211; Discussion Post (Updated)'
+title: 'CSI 10&#215;13 "Internal Combustion" Feb 4th — Discussion Post (Updated)'
 date: '2010-02-04T08:59:27-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"It blows up our whole theory!" CSI''s 13th episode, "Internal Combustion", airs tonight. <del datetime="2010-02-05T02:55:26+00:00">This post will be updated after the episode airs with a review and screenshot links.</del> Post updated!'
@@ -29,7 +29,7 @@ tags:
 "It blows up our whole theory!"  Sara and Nick rev it up on the race track for tonight's episode of <em>CSI</em>.  Discuss the episode here. Spoilers will happen and, as always, I'll update once the ep airs and we have caps etc.
 
 <h2>Official Release</h2>
-The case of two high school students, one dead and one missing, lead the CSIs into the underbelly of streetcar racing and a tangled web of deadly competition. 
+The case of two high school students, one dead and one missing, lead the CSIs into the underbelly of streetcar racing and a tangled web of deadly competition.
 
 <h2>Promo Videos</h2>
 http://www.youtube.com/watch?v=JXdkFPpj-Lg

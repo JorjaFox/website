@@ -1,6 +1,6 @@
 ---
 id: 5609
-title: '&#8220;Pick and Roll&#8221; Screencaps and Recap'
+title: '"Pick and Roll" Screencaps and Recap'
 date: '2012-11-08T08:01:10-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Shoutout to James Naismith, the father of basketball.'
@@ -26,4 +26,4 @@ I may go back and re-recap this (or if someone else wants to write up bits, plea
 	<li><a href="https://jorjafox.net/gallery/tv/csi/season13/06pick/">Screencaps</a></li>
 </ul>
 I give it three stars for Sara for the screen time and the sassy interactions with Hodges. Also yes, that was the dad from <em>Family Ties</em>.
-<blockquote><strong>Sidle:</strong> Simple maths get complicated sometimes, when passions are involved.</blockquote>
+<blockquote>**Sidle:** Simple maths get complicated sometimes, when passions are involved.</blockquote>

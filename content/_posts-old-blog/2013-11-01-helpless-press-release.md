@@ -1,6 +1,6 @@
 ---
 id: 9168
-title: '&#8220;Helpless&#8221; Press Release'
+title: '"Helpless" Press Release'
 date: '2013-11-01T05:00:16-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'And just when you thought they couldn''t come up with more original crimes...'

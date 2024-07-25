@@ -1,6 +1,6 @@
 ---
 id: 2105
-title: 'Animal Acres Thankful Turkey Celebration &#8211; Nov 21'
+title: 'Animal Acres Thankful Turkey Celebration — Nov 21'
 date: '2009-11-11T17:19:14-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'In the LA Area? Not gonna eat meat? Consider the alternatives and head on out to Animal Acres.'

@@ -20,13 +20,13 @@ tags:
     - tv
 ---
 
-<a href="https://jorjafox.net/2012/season-13-dreams/homecoming-3/" rel="attachment wp-att-4629"><img class="alignleft size-medium wp-image-4629" title="Mr and Mrs Russell" src="//static.jorjafox.net/wordpress/2012/05/homecoming-article-230x153.jpg" alt="Mr and Mrs Russell" width="230" height="153" /></a>Executive Producers <strong>Carol Mendelsohn</strong> and <strong>Don McGill</strong> give get their take on season 12 and what they would like in season 13.
-<blockquote><strong>What should fans look forward to next season? And if you haven’t gotten that far yet…what would your dream season be?</strong>
+<a href="https://jorjafox.net/2012/season-13-dreams/homecoming-3/" rel="attachment wp-att-4629"><img class="alignleft size-medium wp-image-4629" title="Mr and Mrs Russell" src="//static.jorjafox.net/wordpress/2012/05/homecoming-article-230x153.jpg" alt="Mr and Mrs Russell" width="230" height="153" /></a>Executive Producers **Carol Mendelsohn** and **Don McGill** give get their take on season 12 and what they would like in season 13.
+<blockquote>**What should fans look forward to next season? And if you haven’t gotten that far yet…what would your dream season be?**
 We start with our “Cape Fear”-style premiere, putting Russell and the team on the line. A villain from the past, former Under Sheriff Jeff McKeen (Conor O’Farrell), who took the life of CSI Warrick Brown (Gary Dourdan), is now out to get all of our CSIs. Also in the works is a mass killing at a favorite haunt of the lab rats. A trip back in time to old Vegas and the “Rat Pack.” And, on a personal front, the fans’ questions about the state of affairs between Grissom and Sara (Jorja Fox) will be answered.
 
 [...]
 
-<strong>Do you have a favorite episode, line, or scene from this season? If so, what?</strong>
+**Do you have a favorite episode, line, or scene from this season? If so, what?**
 There were so many great scenes:
 [...]
 Sara going mano a mano with a serial killer and bonding with Russell over painful chapters in their past.

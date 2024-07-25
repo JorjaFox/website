@@ -1,6 +1,6 @@
 ---
 id: 11696
-title: '&#8220;Dead Rails&#8221; Promo Video'
+title: '"Dead Rails" Promo Video'
 date: '2014-12-09T15:11:35-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Bad breaks and high stakes. Must be more CSI!'

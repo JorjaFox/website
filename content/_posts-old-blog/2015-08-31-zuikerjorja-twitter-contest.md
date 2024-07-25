@@ -1,6 +1,6 @@
 ---
 id: 13461
-title: 'Who&#8217;s Up for a Zuiker/Jorja Contest?'
+title: 'Who's Up for a Zuiker/Jorja Contest?'
 date: '2015-08-31T11:07:47-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Give your best shot at a CSI caption contest from Anthony Zuiker.'

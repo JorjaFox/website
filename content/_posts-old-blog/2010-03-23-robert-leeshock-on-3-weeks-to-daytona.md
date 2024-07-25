@@ -1,6 +1,6 @@
 ---
 id: 2319
-title: 'Robert Leeshock on &#8220;3 Weeks to Daytona&#8221;'
+title: 'Robert Leeshock on "3 Weeks to Daytona"'
 date: '2010-03-23T14:29:55-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s more on how he got to meet Rip Torn, but he does give us an adorable shot of Jorja in her role of crew chief.'

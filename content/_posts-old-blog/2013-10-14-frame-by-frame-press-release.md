@@ -1,6 +1,6 @@
 ---
 id: 8765
-title: '&#8220;Frame by Frame&#8221; Press Release'
+title: '"Frame by Frame" Press Release'
 date: '2013-10-14T14:58:15-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Flash back? Flash forward? It''s time for 300 episodes!'

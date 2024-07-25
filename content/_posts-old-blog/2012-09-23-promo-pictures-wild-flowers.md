@@ -1,6 +1,6 @@
 ---
 id: 5220
-title: 'Promo Pictures from Ep 3 &#8220;Wild Flowers&#8221;'
+title: 'Promo Pictures from Ep 3 "Wild Flowers"'
 date: '2012-09-23T09:52:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Three promo pics of Sara at the scene in "Wild Flowers"'

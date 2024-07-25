@@ -51,16 +51,16 @@ tags:
     - photos
 ---
 
-<p class="has-text-align-left">So. The photos came out. But Jorja's <strong>not</strong> in them.</p>
+<p class="has-text-align-left">So. The photos came out. But Jorja's **not** in them.
 
-<p>Grissom is...</p>
+Grissom is...
 
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://static.jorjafox.net/wordpress/2021/11/118097_0275b-640x960.jpg" alt="“Signed, Sealed, Delivered” – When David Hodges goes missing, the entire CSI team searches for any piece of evidence that can help locate him, clear his name and save the reputation of the entire crime lab, on the season finale of the CBS Original series CSI: VEGAS, Wednesday, Dec. 8 (10:00-11:00 PM, ET/PT) on the CBS Television Network, and available to stream live and on demand on Paramount+*. " class="wp-image-19051"/><figcaption>Pictured: William Petersen as Dr. Gil Grissom Photo: Sonja Flemming/CBS ©2021 CBS Broadcasting, Inc. All Rights Reserved.</figcaption></figure></div>
 
-<p>But no Jorja.</p>
+But no Jorja.
 
-<p>The first thought I had, because I'm a jerk, is that Sara's behind all this and wanted to get back at Hodges on behalf on Wendy.</p>
+The first thought I had, because I'm a jerk, is that Sara's behind all this and wanted to get back at Hodges on behalf on Wendy.
 
-<p>The second is Sara will be kidnapped at the end of next week's episode.</p>
+The second is Sara will be kidnapped at the end of next week's episode.
 
-<p>That second one is way more likely, but what are your theories?</p>
+That second one is way more likely, but what are your theories?

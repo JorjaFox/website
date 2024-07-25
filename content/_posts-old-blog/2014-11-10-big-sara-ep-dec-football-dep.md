@@ -1,6 +1,6 @@
 ---
 id: 11577
-title: '&#8220;Big&#8221; Sara Ep in December (Football Dependent)'
+title: '"Big" Sara Ep in December (Football Dependent)'
 date: '2014-11-10T13:00:14-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A big episode for Sara? I already have the can''t-hardly-waits!'

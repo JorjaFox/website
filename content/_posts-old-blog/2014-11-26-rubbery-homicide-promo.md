@@ -1,6 +1,6 @@
 ---
 id: 11648
-title: 'CSI 15&#215;08 &#8220;Rubbery Homicide&#8221; Promo'
+title: 'CSI 15&#215;08 "Rubbery Homicide" Promo'
 date: '2014-11-26T20:11:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Rubber dolls and a murder on this week''s CSI!'

@@ -1,6 +1,6 @@
 ---
 id: 6668
-title: '&#8220;Last Woman Standing&#8221; Discussion Post'
+title: '"Last Woman Standing" Discussion Post'
 date: '2013-02-27T14:05:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: ' Were prominent poker players dealt bad hands? David Cassidy guest stars on CSI tonight. '

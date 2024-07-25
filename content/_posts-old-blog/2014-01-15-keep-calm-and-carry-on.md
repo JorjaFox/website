@@ -1,6 +1,6 @@
 ---
 id: 9708
-title: '&#8220;Keep Calm and Carry-On&#8221; Discussion Post'
+title: '"Keep Calm and Carry-On" Discussion Post'
 date: '2014-01-15T10:00:37-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'One petty crime plus one murder on a plane equals one full investigation for the truth. Joel Grey guest stars on CSI tonight.'

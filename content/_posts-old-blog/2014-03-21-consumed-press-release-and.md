@@ -1,6 +1,6 @@
 ---
 id: 10211
-title: '&#8220;Consumed&#8221; Press Release and&#8230;'
+title: '"Consumed" Press Release and&#8230;'
 date: '2014-03-21T10:07:42-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Another cannibal case?'

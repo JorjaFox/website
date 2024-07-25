@@ -1,6 +1,6 @@
 ---
 id: 8827
-title: '&#8220;Passed Pawn&#8221; Press Release'
+title: '"Passed Pawn" Press Release'
 date: '2013-10-17T16:52:12-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Episode 301 involves yet another casino! In Las Vegas!'

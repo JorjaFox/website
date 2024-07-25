@@ -1,6 +1,6 @@
 ---
 id: 6755
-title: '&#8220;Dead of the Class&#8221; Discussion Post'
+title: '"Dead of the Class" Discussion Post'
 date: '2013-03-20T18:33:22-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Did you attend your high school reunion? What’s the craziest thing that happened? Bet David Phillips'' reunion tonight trumps it!'

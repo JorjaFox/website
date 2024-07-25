@@ -1,6 +1,6 @@
 ---
 id: 13504
-title: '&#8220;I&#8217;m Back&#8221; &#8211; CSI Finale Promo Video'
+title: '"I'm Back" — CSI Finale Promo Video'
 date: '2015-09-13T15:43:11-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI is back with William Petersen in just a few weeks. Watch the first promo video now.'

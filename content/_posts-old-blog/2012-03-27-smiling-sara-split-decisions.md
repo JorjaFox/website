@@ -1,6 +1,6 @@
 ---
 id: 4466
-title: 'Smiling Sara in &#8220;Split Decisions&#8221; Stills'
+title: 'Smiling Sara in "Split Decisions" Stills'
 date: '2012-03-27T08:42:39-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two promo pictures of Sara smiling away in episode 12x19.'

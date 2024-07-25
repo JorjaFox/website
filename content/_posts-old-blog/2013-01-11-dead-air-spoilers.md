@@ -1,6 +1,6 @@
 ---
 id: 6163
-title: '&#8220;Dead Air&#8221; Photos, Video, and Spoilers'
+title: '"Dead Air" Photos, Video, and Spoilers'
 date: '2013-01-11T10:34:51-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Breaking news this hour, CSI has a new episode on Wednesday and Sara is in it.'

@@ -1,6 +1,6 @@
 ---
 id: 9900
-title: '&#8220;De Los Muertos&#8221; Recap and Screencaps'
+title: '"De Los Muertos" Recap and Screencaps'
 date: '2014-02-06T06:04:13-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Send the boys to Mexico and leave Sara to chisel out the truth in Las Vegas.'

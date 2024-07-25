@@ -24,12 +24,12 @@ tags:
     - tv
 ---
 
-<blockquote><strong>Ainav in Israel: I found a piece of information on the web that episode 11.13 of <em>CSI</em> is called "The Two Mrs. Grissoms"! Now I don't really care much for <em>CSI</em> anymore, but if that's true then I care a whole lot!</strong>
+<blockquote>**Ainav in Israel: I found a piece of information on the web that episode 11.13 of <em>CSI</em> is called "The Two Mrs. Grissoms"! Now I don't really care much for <em>CSI</em> anymore, but if that's true then I care a whole lot!**
 
-It's true! The Mrs. Grissoms in question are Sarah Sidle (the current Mrs. Grissom)...and Grissom's mom! Producers are casting now for the older Mrs. Grissom, who is described as a "strong, confident, intelligent and influential woman has never allowed her lack of hearing to keep her from doing anything she wanted, and has no trouble making her feelings known to one and all." She's a former librarian, who, while being deaf, is fluent in American Sign Language as well as being a capable English speaker. Any ideas for casting other than maybe <strong>Marlee Matlin</strong> in old-lady makeup?
+It's true! The Mrs. Grissoms in question are Sarah Sidle (the current Mrs. Grissom)...and Grissom's mom! Producers are casting now for the older Mrs. Grissom, who is described as a "strong, confident, intelligent and influential woman has never allowed her lack of hearing to keep her from doing anything she wanted, and has no trouble making her feelings known to one and all." She's a former librarian, who, while being deaf, is fluent in American Sign Language as well as being a capable English speaker. Any ideas for casting other than maybe **Marlee Matlin** in old-lady makeup?
 
 Read more: <a href="http://www.eonline.com/uberblog/watch_with_kristin/b213428_spoiler_chat_smallville_glee_vampire.html">E! Online!</a></blockquote>
 
 So there we have it.  Everyone remember to thank the mole and, while you're thankful, consider giving to the Animal Acres fundraiser. You can donate as many times as you want, as someone smart pointed out ;) And yes, I'll reward you for multiple donations, within reason! If you donate a buck every day for a week, I may sic Nate Haskell on you.
 
-<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br /><strong>Animal Acres Winter 2010 Fundraiser</strong></a></center>
+<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br />**Animal Acres Winter 2010 Fundraiser**</a></center>

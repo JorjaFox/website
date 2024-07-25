@@ -25,8 +25,8 @@ tags:
     - tv
 ---
 
-<p>Yeah! I know!</p>
+Yeah! I know!
 
 <ul><li>Wednesday Oct 27 - <a href="https://www.cbs.com/shows/the-late-show-with-stephen-colbert/">The Late Show with Stephen Colbert</a> (11:35pm, CBS)</li><li>Thursday Oct 28 - <a href="https://kellyandryan.com/upcoming/70093/">LIVE with Kelly and Ryan</a> (9am, ABC)</li></ul>
 
-<p>Both film in NYC, so it's possible Jorja's in town for that. We'll find out later, I guess.</p>
+Both film in NYC, so it's possible Jorja's in town for that. We'll find out later, I guess.

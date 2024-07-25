@@ -1,6 +1,6 @@
 ---
 id: 2674
-title: 'Jorja credited as Series Regular for &#8220;Wild Life&#8221;'
+title: 'Jorja credited as Series Regular for "Wild Life"'
 date: '2010-11-04T17:32:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Starting with "Wild Life" Jorja''s credited as a series regular!'
@@ -22,7 +22,7 @@ tags:
     - tv
 ---
 
-<blockquote>"Wild Life" - A man's fatal fall from a hotel balcony launches the CSIs into an investigation to determine if his death was suicide or the result of foul play, on CSI: CRIME SCENE INVESTIGATION, Thursday, Nov. 18 (9:00-10:00 PM, ET/PT) on the CBS Television Network. 
+<blockquote>"Wild Life" - A man's fatal fall from a hotel balcony launches the CSIs into an investigation to determine if his death was suicide or the result of foul play, on CSI: CRIME SCENE INVESTIGATION, Thursday, Nov. 18 (9:00-10:00 PM, ET/PT) on the CBS Television Network.
 
 SERIES REGULARS:
 Dr. Raymond Langston...... Laurence Fishburne

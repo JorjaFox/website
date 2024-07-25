@@ -22,15 +22,15 @@ tags:
 
 <div class="alignleft">[polldaddy poll=3801625]</div>
 
-So CSI is back.  Did you miss it?  We made it though a long summer with me being out of town more often than not. An iPad, by the way, isn't quite up to par for running JFO on the road, and internet is spotty in the deep Southern US.  
+So CSI is back.  Did you miss it?  We made it though a long summer with me being out of town more often than not. An iPad, by the way, isn't quite up to par for running JFO on the road, and internet is spotty in the deep Southern US.
 
 <h2>Important News</h2>
-I've chatted with Jorja's assistant and have been assured that the 'JorjaFox' account on Twitter <strong>is not</strong> Jorja.  They're looking at having the account disabled for impersonation, though really all that account seems to want to do is tell you to join PETA and save the planet, it's not as bad as it could be.  Just remember, <em><a href="https://jorjafox.net/wiki/JorjaPedia:Troll">don't feed the trolls</a></em>.  Personally, I've blocked the account so I don't have to listen to it anymore.
+I've chatted with Jorja's assistant and have been assured that the 'JorjaFox' account on Twitter **is not** Jorja.  They're looking at having the account disabled for impersonation, though really all that account seems to want to do is tell you to join PETA and save the planet, it's not as bad as it could be.  Just remember, <em><a href="https://jorjafox.net/wiki/JorjaPedia:Troll">don't feed the trolls</a></em>.  Personally, I've blocked the account so I don't have to listen to it anymore.
 
 <h2>CSI</h2>
 We finally got news on the new season.  Some promo photos for  <a href="https://jorjafox.net/blog/csi-11x02-pool-shark-promotional-photos/">Ep 2 "Pool Shark"</a>, a video for <a href="https://jorjafox.net/blog/promo-video-shock-wave/">Ep 1 "Shock Waves"</a> and press releases for <a href="https://jorjafox.net/blog/press-release-blood-moon/">Ep 3 "Blood Moon"</a> and <a href="https://jorjafox.net/blog/press-release-sqweegel/">Ep 4 "Sqweegel"</a>.
 
-<strong>CSI Episodes</strong>
+**CSI Episodes**
 <ul>
 	<li>Sept 23rd "Shock Waves" | <a href="https://jorjafox.net/wiki/Shock_Waves">Recap</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/shockwaves/">Screencaps</a> | <a href="https://jorjafox.net/blog/csi-11x01-shock-waves/">Discussion Post</a></li>
 	<li>Sept 30th "Pool Shark" | <a href="https://jorjafox.net/wiki/Pool_Shark">Recap</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/poolshark/">Screencaps</a> | <a href="https://jorjafox.net/blog/csi-11x02-pool-shark/">Discussion Post</a></li>

@@ -1,6 +1,6 @@
 ---
 id: 1915
-title: 'It&#8217;s true! Jorja returns to CSI'
+title: 'It's true! Jorja returns to CSI'
 date: '2009-07-19T12:29:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Yes, it''s true. She''s back for at least 5 episodes, including the premiere, however this will be sans Grissom.'
@@ -60,7 +60,7 @@ Here's the break down:
 	<li>William Petersen IS NOT expected to be there.</li>
 </ul>
 
-I'm sure someone out there is mocking me because I had previously announced that, based on the script excerpts I saw, there was no Sara and there was no Grissom.  I <strong>did not</strong> lie to anyone and I <strong>was not</strong> incorrect.  To this day, the parts of the script I've seen, there's no Sara and I didn't see a way to fit her in without a re-write.  I can only assume there was a rewrite, or what I saw will not be the first episode of the season. It happens.
+I'm sure someone out there is mocking me because I had previously announced that, based on the script excerpts I saw, there was no Sara and there was no Grissom.  I **did not** lie to anyone and I **was not** incorrect.  To this day, the parts of the script I've seen, there's no Sara and I didn't see a way to fit her in without a re-write.  I can only assume there was a rewrite, or what I saw will not be the first episode of the season. It happens.
 
 So yes, it's true.  And I'm as delighted as you are!
 

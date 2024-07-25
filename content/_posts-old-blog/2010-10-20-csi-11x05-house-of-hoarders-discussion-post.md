@@ -1,6 +1,6 @@
 ---
 id: 2647
-title: 'CSI 11&#215;05 &#8220;House of Hoarders&#8221; Discussion Post (updated)'
+title: 'CSI 11&#215;05 "House of Hoarders" Discussion Post (updated)'
 date: '2010-10-20T20:00:12-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'House of Hoarders or House of Horrors?  A home, filled to the brim with ''stuff'' includes a dead body on tonight''s CSI. <em>Updated - WATCH THIS EPISODE!</em>'
@@ -29,7 +29,7 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2010/10/hoarders1-100x100.jpg" alt="" title="hoarders" width="100" height="100" class="alignleft size-thumbnail wp-image-2656" /> After last week's fiasco, CBS has (somewhat) redeemed themselves and put Jorja in the promo pics and the video!
 
-Speculate and spoil yourselves away. I'll update the post later tonight, once I have screencaps etc. They should all be up by midnight Eastern time. 
+Speculate and spoil yourselves away. I'll update the post later tonight, once I have screencaps etc. They should all be up by midnight Eastern time.
 
 <h3>Official Release</h3>
 A woman who suffers from a condition called "hoarding" becomes a murder suspect when a dead body is found buried under piles of trash and debris inside her home.

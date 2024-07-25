@@ -1,6 +1,6 @@
 ---
 id: 4631
-title: '&#8220;Homecoming&#8221; in Review'
+title: '"Homecoming" in Review'
 date: '2012-05-10T08:37:37-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Season 12 comes to a close with a decent episode. Just not a great one for Sara. Can''t win ''em all!'

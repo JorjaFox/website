@@ -1,6 +1,6 @@
 ---
 id: 2048
-title: 'Monthly Roundup &#8211; October'
+title: 'Monthly Roundup — October'
 date: '2009-11-01T11:38:43-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '<em>CSI</em>, <em>CSI</em>, and more <em>CSI</em>!  Read about that and what else happened in October here.'
@@ -37,8 +37,8 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/10/october-roundup-100x100.jpg" alt="october-roundup" title="october-roundup" width="100" height="100" class="alignleft size-thumbnail wp-image-2090" /> October was Breast Cancer Awareness Month.  JFO supports the <a href="http://ww5.komen.org/">Susan G. Komen for the Cure Foundation</a> and I ask that all of you to everything you can to increase your chances for survival.  Regular breast self-exams and, if you're higher risk, mammograms.  Because of that, JFO's been sporting a page-curl all month to remind you to check yourself and (if you can) donate.  A lot of companies are passing along funds if you buy their products (like Yoplait and Caribou Coffee) so if you can't outright donate, try to buy something that contributes for you.
 
-<strong>CSI</strong>
-We all heard the news halfway through the month (and if you didn't, you REALLY need to visit here more often!).  <a href="https://jorjafox.net/2009/10/14/sara-sidles-in-semi-permanently/">Jorja's sticking on CSI <strong>indefinitely</strong></a>.  For those of you too lazy to Google (or crack open a dictionary), that means "until you hear otherwise."
+**CSI**
+We all heard the news halfway through the month (and if you didn't, you REALLY need to visit here more often!).  <a href="https://jorjafox.net/2009/10/14/sara-sidles-in-semi-permanently/">Jorja's sticking on CSI **indefinitely**</a>.  For those of you too lazy to Google (or crack open a dictionary), that means "until you hear otherwise."
 
 Jorja was on the following CSI episodes this month:
 <ul>
@@ -49,10 +49,10 @@ Jorja was on the following CSI episodes this month:
 
 Coming up in November, we already know Sara will be in episode 10x6 (Death and the Maiden) and 10x08 (Lover's Lanes).  But that's November!  This is October!
 
-<strong>Images</strong>
+**Images**
 Updated the <a href="https://jorjafox.net/2009/10/09/updated-2007-sea-shepherd-gala-breaking-the-ice-gallery/">Breaking the Ice Gallery</a>.
 
-<strong>Jorja News Roundup!</strong>
+**Jorja News Roundup!**
 Jorja Fox will be acting as an <a href="https://jorjafox.net/2009/10/12/jorja-fox-executive-producer/">executive producer for a documentary series "Black Market"</a>. Also the <a href="https://jorjafox.net/2009/10/13/skin-trade-theatrical-trailer/">trailer for "Skin Trade" was released</a> and Jorja stepped up to ask people to <a href="https://jorjafox.net/2009/10/20/save-the-seals/">Save the Seals</a> in Canada.  The fellow who made the gang tracking software used in "Coup de Grace" (yes, it's real!) managed to <a href="https://jorjafox.net/2009/10/28/software-tracking-gangs-that-was-real-almost/">get a photo snapped with Jorja while on set</a>. Lucky guy!
 
 You can see all the articles we've re-posted here under <a href="https://jorjafox.net/wiki/News_Articles_%282009%29#October">October 2009</a> (which includes the gay/lesbian French magazine Têtu who loves Jorja too!).

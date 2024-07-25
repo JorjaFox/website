@@ -1,6 +1,6 @@
 ---
 id: 11593
-title: '&#8220;The Twin Paradox&#8221; Sneak Peek'
+title: '"The Twin Paradox" Sneak Peek'
 date: '2014-11-13T11:18:10-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara and Nick are there with SWAT for this sneak peek of Sunday''s episode!'

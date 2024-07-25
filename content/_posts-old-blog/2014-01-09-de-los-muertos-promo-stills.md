@@ -1,6 +1,6 @@
 ---
 id: 9673
-title: '&#8220;De Los Muertos&#8221; Promo Stills'
+title: '"De Los Muertos" Promo Stills'
 date: '2014-01-09T17:51:07-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'At long last we have something new and new! Eight photos of Jorja in "De Los Muertos" (the Feb 5th ep)'
@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-With massive credit to CSI Files for their <a href="http://www.csifiles.com/content/2014/01/csi-first-look-de-los-muertos/">'CSI' First Look: 'De Los Muertos'</a>, we have <strong>eight</strong> photos of Jorja in the episode![gallery ids="9677,9678,9679,9680,9681,9682,9683,9684"]
+With massive credit to CSI Files for their <a href="http://www.csifiles.com/content/2014/01/csi-first-look-de-los-muertos/">'CSI' First Look: 'De Los Muertos'</a>, we have **eight** photos of Jorja in the episode![gallery ids="9677,9678,9679,9680,9681,9682,9683,9684"]
 
 My first thought? "The tooth, the whole tooth, and nothing but the tooth."
 

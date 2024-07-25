@@ -1,6 +1,6 @@
 ---
 id: 9055
-title: 'Eric&#8217;s on Twitter'
+title: 'Eric's on Twitter'
 date: '2013-10-25T10:00:18-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'How about a cute picture of Jorja and Eric back in 2004?'

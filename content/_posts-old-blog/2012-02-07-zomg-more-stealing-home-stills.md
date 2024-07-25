@@ -1,6 +1,6 @@
 ---
 id: 4315
-title: 'ZOMG! More &#8220;Stealing Home&#8221; Stills!'
+title: 'ZOMG! More "Stealing Home" Stills!'
 date: '2012-02-07T20:59:11-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Even more "Stealing Home" pictures? It''s your lucky day!'

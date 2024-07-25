@@ -1,6 +1,6 @@
 ---
 id: 6771
-title: '&#8220;Sheltered&#8221; Press Release'
+title: '"Sheltered" Press Release'
 date: '2013-03-18T13:59:05-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Serial Killer Home Invasion? Stranger things have happened on CSI.'

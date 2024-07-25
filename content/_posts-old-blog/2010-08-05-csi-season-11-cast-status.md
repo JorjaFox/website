@@ -22,7 +22,7 @@ tags:
 ---
 
 CBS published their press release for Season 11 up on CBS PressExpress.  Since only people in the US can see that, here's a copy of the relevant bit:
-<blockquote><strong>STARRING:</strong>
+<blockquote>**STARRING:**
 
 Marg Helgenberger...................... Catherine Willows
 Laurence Fishburne...............Dr. Raymond Langston
@@ -37,4 +37,4 @@ Credit: <a href="http://www.cbspressexpress.com/div.php/cbs_entertainment/origin
 
 You may notice that Jorja's name <em>is not</em> listed.  And yet I did just post photos of her on set!  What does that mean?  It means we're back to special guest/recurring status for another season.  Thankfully, we still have that email list I made up: CSI Watch.
 
-CSI Watch is an <strong>announcement only</strong> email list and I use it to send you reminders when episodes with Jorja are going to air.  Any emails you send to the list are automatically deleted, so don't worry about spam.
+CSI Watch is an **announcement only** email list and I use it to send you reminders when episodes with Jorja are going to air.  Any emails you send to the list are automatically deleted, so don't worry about spam.

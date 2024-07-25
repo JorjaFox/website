@@ -1,6 +1,6 @@
 ---
 id: 6155
-title: '&#8220;Dead Air&#8221; Press Release'
+title: '"Dead Air" Press Release'
 date: '2013-01-02T19:51:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s not Anchorman, but CSI has a case of a dead news anchor on January 16th.'

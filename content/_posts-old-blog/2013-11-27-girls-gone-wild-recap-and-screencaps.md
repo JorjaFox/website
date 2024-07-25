@@ -1,6 +1,6 @@
 ---
 id: 9450
-title: '&#8220;Girls Gone Wild&#8221; Recap and Screencaps'
+title: '"Girls Gone Wild" Recap and Screencaps'
 date: '2013-11-27T23:36:31-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This was so touching close to 5 stars, I kicked it over because this is an episode I''d watch again for Sara.'

@@ -1,6 +1,6 @@
 ---
 id: 7315
-title: '&#8220;Forget Me Not&#8221; Airs in the UK'
+title: '"Forget Me Not" Airs in the UK'
 date: '2013-06-02T14:43:40-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Nice to know who your friends are when you cheat on god.'
@@ -23,7 +23,7 @@ The first airing of "Forget Me Not" hits the UK, and Radio Times ain't shy about
 
 Tonight these classic woes befall poor Sara Sidle when a man chats her up in a hotel dining room and is then found dead the next day, with Sara’s hair in his shower drain. It couldn’t have come at a worse time, either — she’s already unbalanced by the latest twists in her relationship with king-over-the-water Gil Grissom. All her colleagues are treating her like a liar. Nice to know who your friends are.
 
-<strong>ABOUT THIS PROGRAMME</strong>
+**ABOUT THIS PROGRAMME**
 
 15/22. Sara celebrates her birthday in a hotel with recent acquaintance Taylor Wynard, who is found dead the next morning having been stabbed with a steak knife. After Finn sends her home to get some rest, Sara gets the shock of her life when she opens her dishwasher and finds the murder weapon inside, while the team discovers a necklace belonging to her behind the victim's bed and records from her key card indicate she didn't return to her room when she said she did. Drama, starring Jorja Fox.</blockquote>
 Source: <a href="http://www.radiotimes.com/episode/wxkzw/csi-crime-scene-investigation--series-13---15-forget-me-not">Radio Times</a>

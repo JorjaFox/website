@@ -1,6 +1,6 @@
 ---
 id: 3815
-title: 'Jorja On Artists On Demand &#8211; Sept 21st!'
+title: 'Jorja On Artists On Demand — Sept 21st!'
 date: '2011-09-20T21:08:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Speaking of promoting the show, Jorja will be on Internet Radio tomorrow!'

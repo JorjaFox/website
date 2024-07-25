@@ -1,6 +1,6 @@
 ---
 id: 5096
-title: 'CSI 13&#215;01 &#8220;Karma To Burn&#8221; Promo Pics'
+title: 'CSI 13&#215;01 "Karma To Burn" Promo Pics'
 date: '2012-08-21T10:57:37-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Thanks to CSI Files, here''s your first official look at season 13.'

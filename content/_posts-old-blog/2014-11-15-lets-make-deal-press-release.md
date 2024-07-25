@@ -1,6 +1,6 @@
 ---
 id: 11603
-title: '&#8220;Let&#8217;s Make a Deal&#8221;  Press Release'
+title: '"Let's Make a Deal"  Press Release'
 date: '2014-11-15T04:32:12-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'There’s one prison murder and over 2000 caged suspects! Just no Sara.'

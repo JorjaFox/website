@@ -1,6 +1,6 @@
 ---
 id: 4056
-title: 'CSI 12&#215;10 &#8220;Genetic Disorder&#8221; Press Release'
+title: 'CSI 12&#215;10 "Genetic Disorder" Press Release'
 date: '2011-11-29T19:25:31-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Dr. Robbins'' wife finds a dead body in the bedroom!  Sara won''t be there to help solve the crime.'

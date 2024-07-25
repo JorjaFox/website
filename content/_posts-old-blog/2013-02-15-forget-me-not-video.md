@@ -1,6 +1,6 @@
 ---
 id: 6359
-title: 'Did she? &#8220;Forget Me Not&#8221; Promo Video'
+title: 'Did she? "Forget Me Not" Promo Video'
 date: '2013-02-15T14:00:15-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara Sidle: Cheater and Murderer? Please note: I am not responsible for any shortness of breath or heart palpitations caused by reading this post.'

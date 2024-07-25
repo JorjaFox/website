@@ -1,6 +1,6 @@
 ---
 id: 2635
-title: 'Jorja in ADI&#8217;s Summer 2010 Magazine'
+title: 'Jorja in ADI's Summer 2010 Magazine'
 date: '2010-10-10T20:00:44-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Did you get a copy?  If not, the scans are in and excerpts from the article typed up.'
@@ -27,7 +27,7 @@ tags:
 
 Do you remember that late night in May when four lions, rescued from the Bolivian circus, landed on US soil?  I'm sure it's a night etched in Jorja's memory forever:
 
-<blockquote><strong>The journey begins</strong>
+<blockquote>**The journey begins**
 
 [...]
 

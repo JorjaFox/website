@@ -1,6 +1,6 @@
 ---
 id: 7553
-title: 'Spoilers for Season 14&#8217;s First Two Episodes'
+title: 'Spoilers for Season 14's First Two Episodes'
 date: '2013-07-22T15:29:32-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Episode summaries are spoilers, when we have over two months to go until the first episode!'
@@ -19,9 +19,9 @@ tags:
 ---
 
 There are just a couple spoilers for the first two episodes of CSI, and nothing is Sara specific, but let's keep energized for Season 14!
-<blockquote>The CSI: Crime Scene Investigation Season 4 Premiere will be called "<b>The Devil and D.B. Russell</b>"
+<blockquote>The CSI: Crime Scene Investigation Season 4 Premiere will be called "**The Devil and D.B. Russell**"
 
-<i>With Morgan and Ellie's lives on the line, the CSIs race to stop a serial killer from completing his twisted homage to "Dante's Inferno".</i>
+_With Morgan and Ellie's lives on the line, the CSIs race to stop a serial killer from completing his twisted homage to "Dante's Inferno"._
 
 Source: <a href="http://stvplus.com/">STV Episode Database</a></blockquote>
 and

@@ -25,9 +25,9 @@ Since December 2008, JFO has been using Google Analytics to measure traffic.  G
 
 By comparing things and running various checks, I was able to sort something out. Here are the top three <em>CSI</em> days:
 <ul>
-	<li><strong>Most Page Views:</strong> "Dead Doll", "Immortality", "Forget Me Not"</li>
-	<li><strong>Most Sessions:</strong> "Immortality", "Forget Me Not", "Dead Doll"</li>
-	<li><strong>Busiest Day: </strong>"Immortality", "Forget Me Not", "Dead Doll"</li>
+	<li>**Most Page Views:** "Dead Doll", "Immortality", "Forget Me Not"</li>
+	<li>**Most Sessions:** "Immortality", "Forget Me Not", "Dead Doll"</li>
+	<li>**Busiest Day: **"Immortality", "Forget Me Not", "Dead Doll"</li>
 </ul>
 Page views is just 'How many pages were viewed.' Sessions is interesting, as that's the number of 'users' who do something on the site - so how many people. There's also 'users' but those numbers are very close to sessions for JFO. Busiest is a combination of the two, and would be the one that had the most sessions and pageviews.
 

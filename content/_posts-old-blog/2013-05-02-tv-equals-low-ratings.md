@@ -1,6 +1,6 @@
 ---
 id: 7103
-title: 'TV Equals &#8211; Low Ratings Due To Dull Triangle?'
+title: 'TV Equals — Low Ratings Due To Dull Triangle?'
 date: '2013-05-02T15:24:15-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Do you miss the Grissom-Sara-Heather days? Then you''re not alone.'

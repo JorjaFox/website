@@ -1,6 +1,6 @@
 ---
 id: 9477
-title: 'Merry Christmas &#8211; Go Watch &#8220;Wild Flowers&#8221;'
+title: 'Merry Christmas — Go Watch "Wild Flowers"'
 date: '2013-12-04T08:00:41-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Year end? May as well wrap up early.'

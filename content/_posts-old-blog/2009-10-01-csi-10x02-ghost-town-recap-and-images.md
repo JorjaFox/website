@@ -1,6 +1,6 @@
 ---
 id: 2050
-title: 'CSI 10&#215;02 &#8220;Ghost Town&#8221; &#8211; Recap and Images'
+title: 'CSI 10&#215;02 "Ghost Town" — Recap and Images'
 date: '2009-10-01T20:55:14-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Dead porn workers and drug stairs amidst the economic housing crisis?  A rather topical <em>CSI</em> episode that I give 3 stars to for Jorja.'
@@ -41,5 +41,5 @@ tags:
 <a href="//static.jorjafox.net/wordpress/2009/10/GhostTown.jpg"><img src="//static.jorjafox.net/wordpress/2009/10/GhostTown-100x100.jpg" alt="GhostTown" title="GhostTown" width="100" height="100" class="alignleft size-thumbnail wp-image-2052" /></a>What did you think about the episode. Indicative of our economic downturn? A realistic portrayal or how the CSIs would react to seeing Paul Millander's son?  Wish Sara took Grissom's last name?  Think she's NUTS for driving Craig home?  Speak up!
 
 &bull; <a href="https://jorjafox.net/wiki/Ghost_Town">Episode Recap</a>
-&bull; <a href="https://jorjafox.net/gallery/tv/csi/season10/ghosttown/">Screencaps</a> 
+&bull; <a href="https://jorjafox.net/gallery/tv/csi/season10/ghosttown/">Screencaps</a>
 &bull; <a href="https://jorjafox.net/forums/topic/csi-01x02-ghost-town-01-oct-2009">Forum Topic</a>

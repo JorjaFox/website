@@ -22,10 +22,10 @@ tags:
 
 <img class="alignleft size-medium wp-image-4505" title="Altered Stakes" src="//static.jorjafox.net/wordpress/2012/04/101672_d0291b_FULL-230x150.jpg" alt="" width="230" height="150" />You are <em>safe</em>... to not watch this episode. Sorry, kids, no Jorja tonight, so put your feet up and relax.
 
-<strong>Description</strong>
+**Description**
 
 When Stokes learns that a man he helped put in prison is going to have his conviction overturned, the CSI team needs to prove the killer is guilty again or he will be released.
 
-<strong>Video</strong>
+**Video**
 
 http://www.youtube.com/watch?v=stzou6Os-P8

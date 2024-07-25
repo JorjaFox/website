@@ -25,7 +25,7 @@ tags:
 
 I apologize for translation delays. I've got exactly one French lesson under my belt, so the lovely Angela of <a href="http://www.melinda-clarke.org/">Melinda-Clarke.org</a> translated for me!
 
-<blockquote><strong><em>CSI</em>'s Jorja Fox says she wasn't sure to re-sign</strong>
+<blockquote>**<em>CSI</em>'s Jorja Fox says she wasn't sure to re-sign**
 
 Asked by the weekly French magazine Télé Star, Jorja Fox talked about the season 11 of <em>CSI</em>. She re-signed for 11 episodes and will see in early 2011 if she wants to do more. Making only a few episodes works for her.
 

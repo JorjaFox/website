@@ -1,6 +1,6 @@
 ---
 id: 2286
-title: 'Spotlight Humane: Chicago (The Missus&#8217;s POV)'
+title: 'Spotlight Humane: Chicago (The Missus's POV)'
 date: '2010-03-01T19:02:40-08:00'
 author: 'Mrs. Ipstenu'
 excerpt: 'Exclusive!  Mrs. Ipstenu breaks years of silent partnership. Well, silent to you. She''s been my partner here and in real life for 11 years.'

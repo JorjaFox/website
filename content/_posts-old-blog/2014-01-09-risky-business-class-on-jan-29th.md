@@ -1,6 +1,6 @@
 ---
 id: 9671
-title: '&#8220;Risky Business Class&#8221; On Jan 29th'
+title: '"Risky Business Class" On Jan 29th'
 date: '2014-01-09T15:19:48-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Let''s try this again... maybe we''ll get to (re) watch it!'

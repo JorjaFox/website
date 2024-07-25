@@ -1,6 +1,6 @@
 ---
 id: 13007
-title: 'World Premiere of &#8220;Extinction Soup&#8221;'
+title: 'World Premiere of "Extinction Soup"'
 date: '2015-06-08T13:01:33-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja hosted the premiere of "Extinction Soup" last weekend.'

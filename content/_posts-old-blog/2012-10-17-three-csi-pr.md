@@ -20,7 +20,7 @@ tags:
 
 This just points out how behind I am. I don't even have a TV for tonight! Don't worry, I have the Internet at home.
 
-<strong>It Was A Very Good Year</strong> (Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=33283">CBS Press Express</a>)
+**It Was A Very Good Year** (Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=33283">CBS Press Express</a>)
 
 <blockquote>
 Sinatra and Rat Pack era music plays as the team looks for a killer!
@@ -28,7 +28,7 @@ Sinatra and Rat Pack era music plays as the team looks for a killer!
 When a famed music historian is murdered and left in a piano, it has an emotional effect on Sanders, who had a past with her, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Oct. 24 (10:00-11:00 PM, ET/PT) on the CBS Television Network.  Music from Frank Sinatra and the “Rat Pack” era, including “More Than You Know,” “Without A Song” and “It Was A Very Good Year,” are featured in the episode.
 </blockquote>
 
-<strong>Once Bitten</strong> (Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=33307">CBS Press Express</a>)
+**Once Bitten** (Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=33307">CBS Press Express</a>)
 
 <blockquote>The dog knows the truth about a murder but how will he tell the team?
 
@@ -36,10 +36,10 @@ When a K-9 is blamed for the death of his partner, the CSI team discovers there�
 
 <em>Jorja is not scheduled to appear in "Once Bitten."</em>
 
-<strong>Pick and Roll</strong> (Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=33307">CBS Press Express</a>)
+**Pick and Roll** (Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=33307">CBS Press Express</a>)
 
 <blockquote>
-Russell’s son plays defense as a suspect in his coach’s murder.  Could he be benched? 
+Russell’s son plays defense as a suspect in his coach’s murder.  Could he be benched?
 
 Things get personal when D.B. Russell is drawn into the investigation of the death of his son’s basketball coach, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Nov. 7 (10:00-11:00 PM, ET/PT) on the CBS Television Network.
 </blockquote>

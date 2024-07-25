@@ -1,6 +1,6 @@
 ---
 id: 2150
-title: 'CSI 10&#215;10: Better Off Dead &#8211; Dec 17th'
+title: 'CSI 10&#215;10: Better Off Dead — Dec 17th'
 date: '2009-12-11T11:48:01-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"Better Off Dead" airs December 17th, and Jorja will be in it. Huzzah!'

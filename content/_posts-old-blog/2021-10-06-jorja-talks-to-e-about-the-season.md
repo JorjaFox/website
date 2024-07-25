@@ -26,11 +26,11 @@ tags:
     - transcript
 ---
 
-<p>Jorja and Paula spoke with E! about coming back to <em>CSI</em> and what it means to both of them.</p>
+Jorja and Paula spoke with E! about coming back to <em>CSI</em> and what it means to both of them.
 
-<p>While the subject mentions a 'creepy' storyline, really it doesn't. When Jorja was asked about  the storylines, she explained how there are two plots: The over arching one we know about (the lab's under suspicion) and the weekly plots:</p>
+While the subject mentions a 'creepy' storyline, really it doesn't. When Jorja was asked about  the storylines, she explained how there are two plots: The over arching one we know about (the lab's under suspicion) and the weekly plots:
 
-<blockquote class="wp-block-quote"><p>There’s two really cool through lines that you’ll see in the whole season. One is a case that we will try and solve throughout the journey of the show, and then the other, the other through line here is every week we’re going to have a really amazing, cool, dark sometimes creepy story line that would generally resolve within that sort of 44 minutes that we have to tell the story. </p><cite>Jorja Fox</cite></blockquote>
+<blockquote class="wp-block-quote">There’s two really cool through lines that you’ll see in the whole season. One is a case that we will try and solve throughout the journey of the show, and then the other, the other through line here is every week we’re going to have a really amazing, cool, dark sometimes creepy story line that would generally resolve within that sort of 44 minutes that we have to tell the story. <cite>Jorja Fox</cite></blockquote>
 
 <h2>Article</h2>
 

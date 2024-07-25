@@ -20,13 +20,13 @@ tags:
 Can we take a moment to appreciate their choice of header image?
 <blockquote><a href="//static.jorjafox.net/wordpress/2012/12/OLD-SHOWS-CSI_510x510.jpg"><img class="alignnone size-full wp-image-6095" alt="OLD-SHOWS-CSI_510x510" src="//static.jorjafox.net/wordpress/2012/12/OLD-SHOWS-CSI_510x510.jpg" width="510" height="510" /></a>
 
-<strong>Age</strong>: 13, the second longest-running drama series on TV.
+**Age**: 13, the second longest-running drama series on TV.
 
-<strong>Senior Power</strong>: Frequently tops its slot with 13 million viewers.
+**Senior Power**: Frequently tops its slot with 13 million viewers.
 
-<strong>Survival Secret</strong>: <em>CSI</em> founded the hugely successful sleek high-tech crime procedural format that launched numerous spin-offs and knock-offs. Most dramas get too expensive and expire after about seven years, but CBS has offset rising costs by regularly shaking up the <em>CSI</em> cast. While ratings declined during Laurence Fishburne’s tenure, current star Ted Danson has helped the series endure a move to Wednesday nights. Plus, everybody wants to know who killed a hooker.
+**Survival Secret**: <em>CSI</em> founded the hugely successful sleek high-tech crime procedural format that launched numerous spin-offs and knock-offs. Most dramas get too expensive and expire after about seven years, but CBS has offset rising costs by regularly shaking up the <em>CSI</em> cast. While ratings declined during Laurence Fishburne’s tenure, current star Ted Danson has helped the series endure a move to Wednesday nights. Plus, everybody wants to know who killed a hooker.
 
-<strong>Life Expectancy</strong>: Fully expected to return next season. Beyond that, <em>CSI</em>‘s fate will rest on its performance and whether CBS can find new worthy replacements. (And if you’re wondering which show is the <em>oldest</em> drama on TV, that would be NBC’s modestly rated <em>Law &amp; Order: SVU</em>).
+**Life Expectancy**: Fully expected to return next season. Beyond that, <em>CSI</em>‘s fate will rest on its performance and whether CBS can find new worthy replacements. (And if you’re wondering which show is the <em>oldest</em> drama on TV, that would be NBC’s modestly rated <em>Law &amp; Order: SVU</em>).
 
-<strong>Runner-up</strong>: The more popular-yet-younger <em>NCIS</em> (10 years).</blockquote>
+**Runner-up**: The more popular-yet-younger <em>NCIS</em> (10 years).</blockquote>
 Credit: <a href="http://insidetv.ew.com/2012/12/19/old-hits/3/">EW</a>

@@ -1,6 +1,6 @@
 ---
 id: 4594
-title: 'CSI 12&#215;22 Promo &#8211; &#8220;Homecoming&#8221;'
+title: 'CSI 12&#215;22 Promo — "Homecoming"'
 date: '2012-05-04T09:56:11-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Three bodies and former Sheriff McKeen in the season twelve finale of CSI.'

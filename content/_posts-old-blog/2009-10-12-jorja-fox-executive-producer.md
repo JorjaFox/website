@@ -34,7 +34,7 @@ tags:
     - producer
 ---
 
-<strong>Rattle the Cage Productions</strong> is a video production group who raises awareness about animal and environmental protection issues.
+**Rattle the Cage Productions** is a video production group who raises awareness about animal and environmental protection issues.
 
 As this is a matter close to Jorja's heart, who can be surprised to find out that she's volunteering?
 

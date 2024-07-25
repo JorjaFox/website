@@ -1,6 +1,6 @@
 ---
 id: 9855
-title: 'Jorja&#8217;s on Twitter: @jorjafoxofficia'
+title: 'Jorja's on Twitter: @jorjafoxofficia'
 date: '2014-01-31T12:57:23-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Yes, it is her on Twitter.'

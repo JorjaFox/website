@@ -1,6 +1,6 @@
 ---
 id: 2786
-title: 'Incentive 15 &#8211; We broke $500!'
+title: 'Incentive 15 — We broke $500!'
 date: '2010-12-06T19:16:55-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Since we surpassed $500, I''m posting not one but TWO videos of Missing Persons episode 5 "That''s My Sister!"'
@@ -34,4 +34,4 @@ http://www.youtube.com/watch?v=7lPRcTgQyB4
 http://www.youtube.com/watch?v=NyhBfaIsRac
 
 Want to see more? Then donate and you'll get video clips and images galore!  Click here:
-<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br /><strong>Animal Acres Winter 2010 Fundraiser</strong></a></center>
+<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br />**Animal Acres Winter 2010 Fundraiser**</a></center>

@@ -1,6 +1,6 @@
 ---
 id: 9840
-title: 'More Set Pics from &#8220;Long Road Home&#8221;'
+title: 'More Set Pics from "Long Road Home"'
 date: '2014-01-30T11:18:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Another pair of set pictures from episode 17.'

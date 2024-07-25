@@ -1,6 +1,6 @@
 ---
 id: 6189
-title: 'Review of &#8220;Dead Air&#8221;'
+title: 'Review of "Dead Air"'
 date: '2013-01-18T15:47:47-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'One writer harbors deep concerns about GSR.'

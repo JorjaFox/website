@@ -1,6 +1,6 @@
 ---
 id: 11820
-title: 'Scheduling Nightmare: &#8220;Merchants of Menace&#8221; is Bumped'
+title: 'Scheduling Nightmare: "Merchants of Menace" is Bumped'
 date: '2015-01-07T03:35:03-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two CSIs plus one Night equals one crying webmaster.'

@@ -1,6 +1,6 @@
 ---
 id: 2815
-title: 'Incentive: The Man&#8217;s an Emotional Termite Screencaps'
+title: 'Incentive: The Man's an Emotional Termite Screencaps'
 date: '2010-12-17T08:00:00-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Screencaps for <em>The Man''s an Emotional Termite </em>'
@@ -28,7 +28,7 @@ tags:
 
 <a href="https://jorjafox.net/gallery/tv/missingpersons/termite/"><img src="//static.jorjafox.net/wordpress/2010/12/parasite-095-100x100.jpg" alt="" title="parasite-095" width="100" height="100" class="alignleft size-thumbnail wp-image-2816" /></a>  Well, I may not be able to post videos, but I can post screencaps, so you get new ones of the most annoying episode yet.  "The Man's an Emotional Termite" is about a guy who is, indeed, a termite.  A parasite.  I think it sucked my life away to re-screencap it.
 
-<strong><a href="https://jorjafox.net/gallery/tv/missingpersons/termite/">The Man's an Emotional Termite Gallery</a></strong>
+**<a href="https://jorjafox.net/gallery/tv/missingpersons/termite/">The Man's an Emotional Termite Gallery</a>**
 
 Want to see more? Then donate and you'll get video clips and images galore!  Click here:
-<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br /><strong>Animal Acres Winter 2010 Fundraiser</strong></a></center>
+<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br />**Animal Acres Winter 2010 Fundraiser**</a></center>

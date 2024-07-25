@@ -1,6 +1,6 @@
 ---
 id: 13777
-title: 'Jorja&#8217;s EMA Awards Interview'
+title: 'Jorja's EMA Awards Interview'
 date: '2015-10-26T15:40:01-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"You feel it in your heart, you feel it through your body. You just want to get up and do something."'

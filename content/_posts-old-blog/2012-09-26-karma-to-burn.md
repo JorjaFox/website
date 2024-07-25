@@ -1,6 +1,6 @@
 ---
 id: 5229
-title: '&#8220;Karma to Burn&#8221; Discussion Post'
+title: '"Karma to Burn" Discussion Post'
 date: '2012-09-26T08:00:33-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Who kidnapped D.B. Russell’s granddaughter? Find out in the 13th season premiere of #CSI tonight 10pm ET/PT '
@@ -17,17 +17,17 @@ tags:
     - 'discussion post'
 ---
 
-<strong><img class="alignleft size-slider-nav-thumbnail wp-image-5106" title="Karma to Burn - Press Release" src="//static.jorjafox.net/wordpress/2012/08/01-karma-csifiles02-110x70.jpg" alt="Karma to Burn - Press Release" width="110" height="70" />Official Release</strong>
+**<img class="alignleft size-slider-nav-thumbnail wp-image-5106" title="Karma to Burn - Press Release" src="//static.jorjafox.net/wordpress/2012/08/01-karma-csifiles02-110x70.jpg" alt="Karma to Burn - Press Release" width="110" height="70" />Official Release**
 
 D.B. Russell’s granddaughter was kidnapped in last season’s finale cliffhanger and now he leads the CSI team on a hunt to find her, on the 13th season premiere of CSI: CRIME SCENE INVESTIGATION,Wednesday, Sept. 26 (10:00-11:00 PM, ET/PT) on the CBS Television Network..
 
-<strong>Video</strong>
+**Video**
 
 http://vimeo.com/50008626
 
 http://www.youtube.com/watch?v=vW1PyGfLBwM
 
-<span style="color: #000000;"><strong>Recap</strong></span>
+<span style="color: #000000;">**Recap**</span>
 
 CSI Files got an advanced viewing of the episode, and it's looking good for Sara. <a href="http://www.csifiles.com/content/2012/09/advance-review-csi-crime-scene-investigation-karma-to-burn/">Read the review on CSI Files, if you're spoiler-okay</a>.
 

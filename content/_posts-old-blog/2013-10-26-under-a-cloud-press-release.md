@@ -1,6 +1,6 @@
 ---
 id: 9067
-title: '&#8220;Under a Cloud&#8221; Press Release'
+title: '"Under a Cloud" Press Release'
 date: '2013-10-26T11:00:41-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Maybe they should have had Lea Thompson in Ep 500... Well either way, she''s in the November 6th Episode.'

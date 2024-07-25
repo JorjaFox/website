@@ -1,6 +1,6 @@
 ---
 id: 3639
-title: 'Spoilers for Season 12&#8217;s First Three Episodes (Updated!)'
+title: 'Spoilers for Season 12's First Three Episodes (Updated!)'
 date: '2011-08-09T15:17:56-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'There are spoilers in this post!  This is your only warning.  If you read on, you don''t get to complain about it without being teased. (Updated Aug 10th)'
@@ -23,17 +23,17 @@ tags:
 <img class="aligncenter size-medium wp-image-3640" title="spoilerwarning" src="//static.jorjafox.net/wordpress/2011/08/spoilerwarning-230x153.jpg" alt="" width="230" height="153" />
 
 Massive thanks to the CSI-Mole who posts over on <a href="http://margamania.net/">Margamania</a>!  We have spoilers for the first three episodes, and number three is the one you want to know about.
-<blockquote><strong>CSI 12.01 "73 Seconds"</strong>
+<blockquote>**CSI 12.01 "73 Seconds"**
 
 STORY LINE: A crazy, chaotic shoot-out on a hotel tram leaves two dead, almost no witnesses, and a lot of contradictory evidence; another dead man in Panaca County has a young man's face and an old man's body...
 
-<strong>CSI 12.02 "Tell-Tale Hearts"</strong>
+**CSI 12.02 "Tell-Tale Hearts"**
 
 STORY LINE: The brutal slaying of an entire family has the CSI team stumped, particularly when an unlikely candidate comes forward to take responsibility for the killings...
 
-Yolanda  Latina, a spitfire, an ex-Marine, she's now the ballistics tech...GUEST STAR. <em><strong>POSSIBLY RECURRING</strong>.</em>
+Yolanda  Latina, a spitfire, an ex-Marine, she's now the ballistics tech...GUEST STAR. <em>**POSSIBLY RECURRING**.</em>
 
-<strong>CSI 12.03 "Bittersweet"</strong>
+**CSI 12.03 "Bittersweet"**
 
 STORY LINE: A sexual sadist walks free after getting a slap on the wrist by the system, and Sara makes it her personal crusade to put the woman back behind bars...
 

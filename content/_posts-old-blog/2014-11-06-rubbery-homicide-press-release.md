@@ -1,6 +1,6 @@
 ---
 id: 11558
-title: '&#8220;Rubbery Homicide&#8221; Press Release'
+title: '"Rubbery Homicide" Press Release'
 date: '2014-11-06T15:57:52-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Rubber ... dolls? CSI is back into kinky!'

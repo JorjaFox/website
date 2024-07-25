@@ -1,6 +1,6 @@
 ---
 id: 7069
-title: '&#8220;Fearless&#8221; Promo'
+title: '"Fearless" Promo'
 date: '2013-04-25T09:15:37-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Nick. Sara. Guns. Goat-- Wait. What? A goat?! Watch the promo video for Fearless (airs May 1st) and see if you can figure it out.'

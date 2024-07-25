@@ -40,17 +40,17 @@ tags:
 
 Going with the theme of 'Summer Blockbusters!' here are a few images from Jorja at movie premieres and concerts.  Given the low number of new photos, I've put thumbnails of all the new ones here.
 
-<strong>"Things Behind the Sun"</strong> (2001)
+**"Things Behind the Sun"** (2001)
 <a href="https://jorjafox.net/gallery/pub/premieres/20010416-tbts/tbts_p07.jpg"><img class="ZenphotoPress_thumb " alt="tbts_p07" title="tbts_p07" src="https://jorjafox.net/gallery/cache/pub/premieres/20010416-tbts/tbts_p07_200_cw200_ch200_thumb.jpg"  /></a>
 
-<strong>"The Emperor's Club"</strong> (2002)
+**"The Emperor's Club"** (2002)
 <a href="https://jorjafox.net/gallery/pub/premieres/20020000-emperors/emperorclub10.jpg"><img class="ZenphotoPress_thumb" alt="emperorclub10" title="emperorclub10" src="https://jorjafox.net/gallery/cache/pub/premieres/20020000-emperors/emperorclub10_200_cw200_ch200_thumb.jpg"  /></a>
 
-<strong>Ray Charles Tribute Concert</strong> 2004
+**Ray Charles Tribute Concert** 2004
 <a href="https://jorjafox.net/gallery/pub/benefits/20041008-raycharles/raycharles_23.jpg"><img class="ZenphotoPress_thumb " alt="raycharles_23" title="raycharles_23" src="https://jorjafox.net/gallery/cache/pub/benefits/20041008-raycharles/raycharles_23_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/pub/benefits/20041008-raycharles/raycharles_24.jpg"><img class="ZenphotoPress_thumb " alt="raycharles_24" title="raycharles_24" src="https://jorjafox.net/gallery/cache/pub/benefits/20041008-raycharles/raycharles_24_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/pub/benefits/20041008-raycharles/raycharles_25.jpg"><img class="ZenphotoPress_thumb " alt="raycharles_25" title="raycharles_25" src="https://jorjafox.net/gallery/cache/pub/benefits/20041008-raycharles/raycharles_25_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/pub/benefits/20041008-raycharles/raycharles_26.jpg"><img class="ZenphotoPress_thumb " alt="raycharles_26" title="raycharles_26" src="https://jorjafox.net/gallery/cache/pub/benefits/20041008-raycharles/raycharles_26_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/pub/benefits/20041008-raycharles/raycharles_27.jpg"><img class="ZenphotoPress_thumb " alt="raycharles_27" title="raycharles_27" src="https://jorjafox.net/gallery/cache/pub/benefits/20041008-raycharles/raycharles_27_200_cw200_ch200_thumb.jpg"  /></a>
 
-<strong>"Say Uncle</strong> (2005)
+**"Say Uncle** (2005)
 <a href="https://jorjafox.net/gallery/pub/premieres/20050610-sayuncle/sayuncle03.jpg"><img class="ZenphotoPress_thumb " alt="sayuncle03" title="sayuncle03" src="https://jorjafox.net/gallery/cache/pub/premieres/20050610-sayuncle/sayuncle03_200_cw200_ch200_thumb.jpg"  /></a>
 
-<strong>What a Pair 4!</strong> (2006)
+**What a Pair 4!** (2006)
 <a href="https://jorjafox.net/gallery/pub/advocacy/20060611-pair/whatapair030.jpg"><img class="ZenphotoPress_thumb " alt="whatapair030" title="whatapair030" src="https://jorjafox.net/gallery/cache/pub/advocacy/20060611-pair/whatapair030_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/pub/advocacy/20060611-pair/whatapair031.jpg"><img class="ZenphotoPress_thumb " alt="whatapair031" title="whatapair031" src="https://jorjafox.net/gallery/cache/pub/advocacy/20060611-pair/whatapair031_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/pub/advocacy/20060611-pair/whatapair032.jpg"><img class="ZenphotoPress_thumb " alt="whatapair032" title="whatapair032" src="https://jorjafox.net/gallery/cache/pub/advocacy/20060611-pair/whatapair032_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/pub/advocacy/20060611-pair/whatapair033.jpg"><img class="ZenphotoPress_thumb " alt="whatapair033" title="whatapair033" src="https://jorjafox.net/gallery/cache/pub/advocacy/20060611-pair/whatapair033_200_cw200_ch200_thumb.jpg"  /></a>

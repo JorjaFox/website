@@ -22,7 +22,7 @@ tags:
 Zuiker's back on CSI and he's going to be tweeting/spoiling us about CSI every day! But he isn't the only source of joy. David Rambo is back! So here's what we know from this week in CSI:
 
 Tuesday:
-> Ok fans! Tomorrow is Day One of the development of the 2-hour finale. I will be giving you updates until we air. <a href="http://t.co/P2sKZZnrj2">pic.twitter.com/P2sKZZnrj2</a></p>
+> Ok fans! Tomorrow is Day One of the development of the 2-hour finale. I will be giving you updates until we air. <a href="http://t.co/P2sKZZnrj2">pic.twitter.com/P2sKZZnrj2</a>
 > — Anthony E. Zuiker (@zuiker) <a href="https://twitter.com/zuiker/status/603028225501962240">May 26, 2015</a>
 
 and

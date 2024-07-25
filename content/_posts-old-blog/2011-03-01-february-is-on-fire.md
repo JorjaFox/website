@@ -25,10 +25,10 @@ tags:
 
 Oh... you know what? You know what happened in February for <em>CSI</em>.
 
-&bull; Ep 13: <strong>The Two Mrs. Grissoms</strong>: <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/2mrsgris">Screencaps</a> | <a href="https://jorjafox.net/wiki/The_Two_Mrs._Grissoms">Recap</a> | <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms-stills/">Promotional Stills</a> | <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms-videos/">Videos</a>
-&bull; Ep 14: <strong>All That Cremains</strong>: <a href="https://jorjafox.net/2011/csi-11x14-all-that-cremains/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/cremains">Screencaps</a> | <a href="https://jorjafox.net/wiki/All_That_Cremains">Recap</a>
-&bull; Ep 14: <strong>Targets of Obsession</strong>: <a href="https://jorjafox.net/2011/csi-11x15-targets-of-obsession/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/targets/">Screencaps</a> | <a href="https://jorjafox.net/wiki/Targets_of_Obsession">Recap</a> | <a href="https://jorjafox.net/2011/csi-11x16-targets-of-obsession-video/">Videos</a>
-&bull; Ep 16: <strong>Turn On, Tune In, Drop Dead</strong>: <a href="https://jorjafox.net/2011/csi-11x16-turn-on-tune-in-drop-dead/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/totidd">Screencaps</a> | <a href="https://jorjafox.net/wiki/Turn_On_Tune_In_Drop_Dead">Recap</a> | <a href="https://jorjafox.net/2011/csi-11x16-turn-on-tune-in-drop-dead-promo-pictures/">Promotional Stills</a>
+&bull; Ep 13: **The Two Mrs. Grissoms**: <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/2mrsgris">Screencaps</a> | <a href="https://jorjafox.net/wiki/The_Two_Mrs._Grissoms">Recap</a> | <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms-stills/">Promotional Stills</a> | <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms-videos/">Videos</a>
+&bull; Ep 14: **All That Cremains**: <a href="https://jorjafox.net/2011/csi-11x14-all-that-cremains/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/cremains">Screencaps</a> | <a href="https://jorjafox.net/wiki/All_That_Cremains">Recap</a>
+&bull; Ep 14: **Targets of Obsession**: <a href="https://jorjafox.net/2011/csi-11x15-targets-of-obsession/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/targets/">Screencaps</a> | <a href="https://jorjafox.net/wiki/Targets_of_Obsession">Recap</a> | <a href="https://jorjafox.net/2011/csi-11x16-targets-of-obsession-video/">Videos</a>
+&bull; Ep 16: **Turn On, Tune In, Drop Dead**: <a href="https://jorjafox.net/2011/csi-11x16-turn-on-tune-in-drop-dead/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/totidd">Screencaps</a> | <a href="https://jorjafox.net/wiki/Turn_On_Tune_In_Drop_Dead">Recap</a> | <a href="https://jorjafox.net/2011/csi-11x16-turn-on-tune-in-drop-dead-promo-pictures/">Promotional Stills</a>
 
 In April we'll get <a href="https://jorjafox.net/2011/lady-heather-returns-to-csi/">Lady Heather</a>.
 
@@ -49,11 +49,11 @@ For this, JAA is running a  <a href="http://www.crowdrise.com/lionark/fundraiser
 <h2>JFO news</h2>
 Things are running faster now.  The stress test of "The Two Mrs. Grissoms" let me sort out where and why some slowdowns were occurring.
 
-You may notice some new posts showing up without titles, links, or anything more than quick 'content'.  Kind of like tweets, right?  
+You may notice some new posts showing up without titles, links, or anything more than quick 'content'.  Kind of like tweets, right?
 <img src="//static.jorjafox.net/wordpress/2011/03/example-aside.jpg" alt="" title="example-aside" width="611" height="71" class="aligncenter size-full wp-image-3121" />
 These are 'asides' and are meant for short notes that don't really need a full blog post.  I'm going to use them sparingly, as they don't allow for comments (this is by MY design).  The goal is quick alerts that will either later become major posts, or stay just things you may want to know.
 
-Also, for those of you who use Twitter, the new grey bar at the top of the screen has a hidden surprise.  The <strong>Shortlink</strong> button takes you to a shorter version of the page URL, which you can then use in Tweets without running out of space.
+Also, for those of you who use Twitter, the new grey bar at the top of the screen has a hidden surprise.  The **Shortlink** button takes you to a shorter version of the page URL, which you can then use in Tweets without running out of space.
 
 If you're logged out, it looks like this:
 <img src="//static.jorjafox.net/wordpress/2011/03/loggedoutshort.png" alt="" title="loggedoutshort" width="429" height="125" class="aligncenter size-full wp-image-3132" />

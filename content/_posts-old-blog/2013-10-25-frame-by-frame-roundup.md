@@ -1,6 +1,6 @@
 ---
 id: 9047
-title: '&#8220;Frame by Frame&#8221; Roundup'
+title: '"Frame by Frame" Roundup'
 date: '2013-10-25T13:00:33-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Short round up from the 300th. Better than it has been, not as good as it once was, and thank God Sara pushed.'
@@ -26,7 +26,7 @@ First up, CBS's 'meme' (I've been calling theme ceme - pronounced like seem):
 <img class="aligncenter" title="The thing I said to you about pushing too hard ... thank God you did." alt="The thing I said to you about pushing too hard ... thank God you did." src="//static.jorjafox.net/wordpress/2013/10/1395254_10151766981759527_1315923377_n.jpg" width="500" height="500" />
 
 And the ratings were pretty okay. from <a href="http://tvline.com/2013/10/24/ratings-world-series-cardinals-red-sox/">TV|Line</a>:
-<blockquote>Similarly, <strong><em>CSI</em></strong>‘s 300th episode (10.4 mil/2.1) copped its largest audience since April 10 and inched up a tenth in the demo.</blockquote>
+<blockquote>Similarly, **<em>CSI</em>**‘s 300th episode (10.4 mil/2.1) copped its largest audience since April 10 and inched up a tenth in the demo.</blockquote>
 And we'll know more when the DVR results come in, but this is very much an improvement. See what happens when you advertise? It's extra awesome when you realize this was up against Game One of the World Series! And yes, I know it's nothing compared to the 30+ million CSI got when the 100th aired, but TV has changed a lot since then.
 
 Have you found any cool articles about 300? Specifically Jorja related, of course? Put a link in the comments!

@@ -1,6 +1,6 @@
 ---
 id: 11022
-title: 'The Fisher King Can&#8217;t Say!'
+title: 'The Fisher King Can't Say!'
 date: '2014-07-03T04:00:09-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Now I think they''re on Mars. The lab is on Mars, people!'

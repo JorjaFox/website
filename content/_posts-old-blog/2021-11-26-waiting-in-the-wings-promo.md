@@ -1,6 +1,6 @@
 ---
 id: 19060
-title: '&#8220;Waiting in the Wings&#8221; Promo'
+title: '"Waiting in the Wings" Promo'
 date: '2021-11-26T08:34:00-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The wild world of sideshows are even mores in Vegas.'
@@ -55,6 +55,6 @@ tags:
 https://www.youtube.com/watch?v=lWEgVXovMiU
 </div></figure>
 
-<p>So along with the metaphorical waiting for the Hodges' trial, we have body modifications.</p>
+So along with the metaphorical waiting for the Hodges' trial, we have body modifications.
 
-<p>Never change, Vegas. Never change.</p>
+Never change, Vegas. Never change.

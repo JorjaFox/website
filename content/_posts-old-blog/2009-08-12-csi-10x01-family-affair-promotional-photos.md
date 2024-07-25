@@ -1,6 +1,6 @@
 ---
 id: 1957
-title: 'CSI 10&#215;01 &#8220;Family Affair&#8221; &#8211; Promotional Photos (UPDATED)'
+title: 'CSI 10&#215;01 "Family Affair" — Promotional Photos (UPDATED)'
 date: '2009-08-12T13:40:22-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'HQ pictures for you, with credit to MaMa and BTA! <del datetime="2009-08-13T00:55:20+00:00">They are TEENY tiny, but as soon as I can get my hot little hands on HQ ones, you know I''ll share ''em.</del>'

@@ -1,9 +1,9 @@
 ---
 id: 1582
-title: 'Backstage at &#8220;No on H8!&#8221;'
+title: 'Backstage at "No on H8!"'
 date: '2009-02-12T16:20:40-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: "Jorja and Travis Wayne backstage before <strong>The Ian Harvie Show - NO on H8! Benefit</strong>. \n\nLink: <a href=\"http://i90.photobucket.com/albums/k246/gitusa/JorjaFoxTravisWayneCountryMusicHear.jpg\">Image</a>\nCredit: <strong>jorja82</strong>"
+excerpt: "Jorja and Travis Wayne backstage before **The Ian Harvie Show - NO on H8! Benefit**. \n\nLink: <a href=\"http://i90.photobucket.com/albums/k246/gitusa/JorjaFoxTravisWayneCountryMusicHear.jpg\">Image</a>\nCredit: **jorja82**"
 layout: post
 guid: 'https://jorjafox.net/?p=1582'
 permalink: /2009/backstage-at-no-on-h8/
@@ -35,7 +35,7 @@ tags:
     - photos
 ---
 
-<a href="http://i90.photobucket.com/albums/k246/gitusa/JorjaFoxTravisWayneCountryMusicHear.jpg"><img src="//static.jorjafox.net/wordpress/2009/02/noonh8-04-100x86.jpg" alt="Jorja and Travis Wayne" title="Jorja and Travis Wayne" width="100" height="86" class="alignleft size-thumbnail wp-image-1583" /></a> <a href="http://i90.photobucket.com/albums/k246/gitusa/JorjaFoxTravisWayneCountryMusicHear.jpg">Jorja and Travis Wayne</a> backstage before <strong>The Ian Harvie Show - NO on H8! Benefit</strong>. 
+<a href="http://i90.photobucket.com/albums/k246/gitusa/JorjaFoxTravisWayneCountryMusicHear.jpg"><img src="//static.jorjafox.net/wordpress/2009/02/noonh8-04-100x86.jpg" alt="Jorja and Travis Wayne" title="Jorja and Travis Wayne" width="100" height="86" class="alignleft size-thumbnail wp-image-1583" /></a> <a href="http://i90.photobucket.com/albums/k246/gitusa/JorjaFoxTravisWayneCountryMusicHear.jpg">Jorja and Travis Wayne</a> backstage before **The Ian Harvie Show - NO on H8! Benefit**.
 
 Link: <a href="http://i90.photobucket.com/albums/k246/gitusa/JorjaFoxTravisWayneCountryMusicHear.jpg">Image</a>
-Credit: <strong>jorja82</strong>
+Credit: **jorja82**

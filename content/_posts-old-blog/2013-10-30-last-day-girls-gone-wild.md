@@ -1,6 +1,6 @@
 ---
 id: 9135
-title: 'The Last Day of &#8220;Girls Gone Wild&#8221;'
+title: 'The Last Day of "Girls Gone Wild"'
 date: '2013-10-30T16:39:07-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja posted on Facebook about "Girls Gone Wild"'

@@ -3,7 +3,7 @@ id: 1914
 title: 'Is Jorja back on CSI?'
 date: '2009-07-17T19:20:59-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '<del datetime="2009-07-21T17:37:41+00:00">It''s starting to look that way. Naturally I''m in the woods, camping, but as soon as I get details, I''ll post.</del> <strong>This topic is closed. Please see <a href="https://jorjafox.net/2009/07/19/its-true-jorja-returns-to-csi/" rel="nofollow">It''s True! Jorja returns to CSI!</a></strong>'
+excerpt: '<del datetime="2009-07-21T17:37:41+00:00">It''s starting to look that way. Naturally I''m in the woods, camping, but as soon as I get details, I''ll post.</del> **This topic is closed. Please see <a href="https://jorjafox.net/2009/07/19/its-true-jorja-returns-to-csi/" rel="nofollow">It''s True! Jorja returns to CSI!</a>**'
 layout: post
 guid: 'https://jorjafox.net/2009/07/17/is-jorja-back-on-csi/'
 permalink: /2009/is-jorja-back-on-csi/
@@ -33,4 +33,4 @@ categories:
     - 'Jorja Fox'
 ---
 
-<del datetime="2009-07-21T17:37:41+00:00">It's starting to look that way. Naturally I'm in the woods, camping, but as soon as I get details, I'll post.</del> <strong>This topic is closed. Please see <a href="https://jorjafox.net/blog/its-true-jorja-returns-to-csi/" rel="nofollow">It's True! Jorja returns to CSI!</a></strong>
+<del datetime="2009-07-21T17:37:41+00:00">It's starting to look that way. Naturally I'm in the woods, camping, but as soon as I get details, I'll post.</del> **This topic is closed. Please see <a href="https://jorjafox.net/blog/its-true-jorja-returns-to-csi/" rel="nofollow">It's True! Jorja returns to CSI!</a>**

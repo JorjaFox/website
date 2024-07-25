@@ -1,6 +1,6 @@
 ---
 id: 13391
-title: 'What Happened to ET&#8217;s Preview?'
+title: 'What Happened to ET's Preview?'
 date: '2015-08-23T12:00:49-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'ET aired their ''preview'' segment and forgot to tell anyone.'

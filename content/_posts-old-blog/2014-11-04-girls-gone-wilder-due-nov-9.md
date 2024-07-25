@@ -1,6 +1,6 @@
 ---
 id: 11542
-title: '&#8220;Girls Gone Wilder&#8221; Due Nov. 9'
+title: '"Girls Gone Wilder" Due Nov. 9'
 date: '2014-11-04T13:00:17-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CBS swears it''ll air Girls Gone Wilder this weekend.'

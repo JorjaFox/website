@@ -26,9 +26,9 @@ tags:
 Do you remember this guy? Joe Pokaski? Used to work on this little show called <em>Heroes</em>, came over to CSI?
 
 Anyway, he gives us a tiny tidbit as to what to expect tomorrow night!
-<blockquote><strong>CSI Files</strong>: There’s word that Gil Grissom will somehow factor into the episode. Will there be an appearance by<strong>William Petersen</strong> before the end of the season?
+<blockquote>**CSI Files**: There’s word that Gil Grissom will somehow factor into the episode. Will there be an appearance by**William Petersen** before the end of the season?
 
-<strong>Pokaski</strong>: I can’t speak to the end of the season (or I might not make it past it myself), but part of Wednesday night’s story is dedicated to understanding Married life between Sara [Sidle, <strong>Jorja Fox</strong>] and Grissom. How it works, and why it works. And the last image in that sub-story makes me smile every time I see it.</blockquote>
+**Pokaski**: I can’t speak to the end of the season (or I might not make it past it myself), but part of Wednesday night’s story is dedicated to understanding Married life between Sara [Sidle, **Jorja Fox**] and Grissom. How it works, and why it works. And the last image in that sub-story makes me smile every time I see it.</blockquote>
 Credit: <a href="http://www.csifiles.com/content/2012/03/interview-joe-pokaski-2/#more-23266">CSI Files: Joe Poskaski Interview</a>
 
 Will you be smiling?

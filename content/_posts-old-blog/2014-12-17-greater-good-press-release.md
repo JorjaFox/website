@@ -1,6 +1,6 @@
 ---
 id: 11735
-title: '&#8220;The Greater Good&#8221; Press Release'
+title: '"The Greater Good" Press Release'
 date: '2014-12-17T06:00:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s double Mark-Paul for your money when we release the main suspect in the gig harbor killings from jail.'

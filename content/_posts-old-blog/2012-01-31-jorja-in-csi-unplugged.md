@@ -1,6 +1,6 @@
 ---
 id: 4287
-title: 'Jorja&#8217;s in &#8220;CSI Unplugged&#8221;'
+title: 'Jorja's in "CSI Unplugged"'
 date: '2012-01-31T20:01:49-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Frank Waldeck has a picture of Jorja and Ted on set.'

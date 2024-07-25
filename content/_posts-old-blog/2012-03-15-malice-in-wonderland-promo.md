@@ -1,6 +1,6 @@
 ---
 id: 4432
-title: 'CSI 12&#215;18: &#8220;Malice in Wonderland&#8221; Promo'
+title: 'CSI 12&#215;18: "Malice in Wonderland" Promo'
 date: '2012-03-15T13:15:19-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Watch Hodges pull a rabbit out of his mad hatter hat when his mother shows up in the lab.'

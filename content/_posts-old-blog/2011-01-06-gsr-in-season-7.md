@@ -1,6 +1,6 @@
 ---
 id: 3015
-title: 'Behind The Scenes Season 7 &#8211; GSR'
+title: 'Behind The Scenes Season 7 — GSR'
 date: '2011-01-06T16:26:41-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Check the tape! Billy and Jorja wanted GSR, and the fans are about 60/40 on it.  Yeah, I can see that.'

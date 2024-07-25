@@ -1,6 +1,6 @@
 ---
 id: 9930
-title: '&#8220;Love For Sale&#8221; Press Release'
+title: '"Love For Sale" Press Release'
 date: '2014-02-11T16:06:02-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Why did a 16-year old girl have ties to a brothel? Must be CSI!'

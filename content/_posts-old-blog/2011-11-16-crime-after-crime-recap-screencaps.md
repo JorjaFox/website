@@ -1,6 +1,6 @@
 ---
 id: 4022
-title: 'CSI 12&#215;08: Crime After Crime &#8211; Recap &#038; Screencaps'
+title: 'CSI 12&#215;08: Crime After Crime — Recap &#038; Screencaps'
 date: '2011-11-16T23:17:54-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Recap, screencaps and a sort of ... Hmm feeling for the episode.'
@@ -30,4 +30,4 @@ tags:
 
 If you think of Sara Sidle moments that deserve more description in the recap, leave a comment and I'll add it!
 
-There is <strong>no</strong> <em>CSI</em> next week, by the way.
+There is **no** <em>CSI</em> next week, by the way.

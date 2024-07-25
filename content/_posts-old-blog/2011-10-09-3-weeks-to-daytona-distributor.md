@@ -1,6 +1,6 @@
 ---
 id: 3896
-title: '&#8220;3 Weeks to Daytona&#8221; Has A Distributor!'
+title: '"3 Weeks to Daytona" Has A Distributor!'
 date: '2011-10-09T22:02:14-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'And a new poster featuring Jorja!'

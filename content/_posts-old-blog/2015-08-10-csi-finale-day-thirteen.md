@@ -26,7 +26,7 @@ There was no day twelve. You didn't miss anything. Of course, if you <em>did</em
 
 We got the <a href="https://jorjafox.net/2015/csi-finale-official-description/">finale's synopsis</a>.
 
-> <strong>SERIES FINALE:</strong> In the special two-hour series finale, a catastrophic event paralyzes Las Vegas, and Gil Grissom, Catherine Willows and Jim Brass return to help the team with the investigation. Also, D.B. Russell and Sara Sidle make decisions regarding the future of their crime-fighting careers, and Lady Heather returns, creating maniacal controversy between Grissom and Sidle. @CSI_CBS
+> **SERIES FINALE:** In the special two-hour series finale, a catastrophic event paralyzes Las Vegas, and Gil Grissom, Catherine Willows and Jim Brass return to help the team with the investigation. Also, D.B. Russell and Sara Sidle make decisions regarding the future of their crime-fighting careers, and Lady Heather returns, creating maniacal controversy between Grissom and Sidle. @CSI_CBS
 
 We knew about Lady Heather, but Sara makes a decision about her future? And 'maniacal' controversy sounds really, really, dramatic.
 

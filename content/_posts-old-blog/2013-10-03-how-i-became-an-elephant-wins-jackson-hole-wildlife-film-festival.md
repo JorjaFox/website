@@ -1,6 +1,6 @@
 ---
 id: 8649
-title: '&#8220;How I Became an Elephant&#8221; Wins Jackson Hole Wildlife Film Festival'
+title: '"How I Became an Elephant" Wins Jackson Hole Wildlife Film Festival'
 date: '2013-10-03T14:00:43-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The Elephants are the winners at the Jackson Hole Wildlife Film Festival!'

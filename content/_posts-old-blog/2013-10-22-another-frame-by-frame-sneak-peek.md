@@ -1,6 +1,6 @@
 ---
 id: 8994
-title: 'Another &#8220;Frame by Frame&#8221; Sneak Peek'
+title: 'Another "Frame by Frame" Sneak Peek'
 date: '2013-10-22T15:55:17-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The case that got away, only to come back. Sara''s first high profile case in Vegas comes back to haunt her!'

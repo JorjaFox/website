@@ -1,6 +1,6 @@
 ---
 id: 14391
-title: 'Jorja&#8217;s Experiment Day 3: Hug a Woman'
+title: 'Jorja's Experiment Day 3: Hug a Woman'
 date: '2017-04-19T12:16:08-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The experiment continues!'

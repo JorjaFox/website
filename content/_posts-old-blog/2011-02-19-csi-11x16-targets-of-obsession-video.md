@@ -1,6 +1,6 @@
 ---
 id: 3134
-title: 'CSI 11&#215;16 &#8220;Targets of Obsession&#8221; Video'
+title: 'CSI 11&#215;16 "Targets of Obsession" Video'
 date: '2011-02-19T20:22:20-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Only one video from CBS this week.  But you didn''t expect much, right?  Right.'
@@ -21,5 +21,5 @@ tags:
 
 Not too many this time with Sara, but that's only fair, seeing how little she was in the episode!
 
-<strong>I've been played!</strong>
+**I've been played!**
 http://www.youtube.com/watch?v=PHRVd_PbGJg

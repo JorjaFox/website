@@ -1,6 +1,6 @@
 ---
 id: 9398
-title: '&#8220;Girls Gone Wild&#8221; Discussion Post'
+title: '"Girls Gone Wild" Discussion Post'
 date: '2013-11-27T12:10:02-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A spa weekend ends up with Finlay missing + the team must piece together what happened to find her on CSI tonight - 10pm ET/PT'
@@ -22,7 +22,7 @@ tags:
 
 "Girls Gone Wild" — A spa weekend for Sara, Finlay and Morgan turns into a murder investigation and missing persons case when Finlay disappears, as the CSI team must piece together what happened in detail to find her, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Nov. 27 (10:00-11:00 PM, ET/PT) on the CBS Television Network.
 
-<strong>Video</strong>
+**Video**
 
 Both videos are region free. Enjoy!
 
@@ -32,6 +32,6 @@ https://vimeo.com/80420347
 
 Also there's a <a href="http://www.tvguide.com/News/CSI-Girls-Gone-Wild-Finn-1073966.aspx">sneak peek of Finn at TV Guide</a>. But it's only Finn, so I'm not embedding it. Ditto the <a href="http://tvline.com/2013/11/27/csi-spoilers-kris-polaha-seduces-finlay-video/">TV Line peek of Finn getting to first base</a> (kissing).
 
-<strong>Spoilers?</strong>
+**Spoilers?**
 
 Okay.... Karaoke.

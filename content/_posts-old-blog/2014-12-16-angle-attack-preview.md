@@ -1,6 +1,6 @@
 ---
 id: 11727
-title: '&#8220;Angle of Attack&#8221; Preview'
+title: '"Angle of Attack" Preview'
 date: '2014-12-16T06:00:22-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A jumper from nowhere? Must be another new CSI!'

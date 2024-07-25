@@ -1,6 +1,6 @@
 ---
 id: 6712
-title: 'PETA Celebrates International Women&#8217;s Day'
+title: 'PETA Celebrates International Women's Day'
 date: '2013-03-08T15:43:21-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Fighting crime, animal cruelty, and sexism? That''s our Jorja!'
@@ -26,7 +26,7 @@ PETA has been proud to work with many powerful women of every age, race, and sex
 
 [...]
 
-<strong>9. Ending cruelty <i>and</i> sexism? Jorja Fox is on the case.</strong>
+**9. Ending cruelty _and_ sexism? Jorja Fox is on the case.**
 
 <img class="aligncenter size-full wp-image-6713" alt="Jorja Fox: PETA" src="//static.jorjafox.net/wordpress/2013/03/5342.AdJorjaFox.jpg-550x0.jpg" width="550" height="714" /></blockquote>
 Credit: <a href="http://www.peta.org/b/thepetafiles/archive/2013/03/08/international-womens-day-powerful-women-peta.aspx">PETA</a>

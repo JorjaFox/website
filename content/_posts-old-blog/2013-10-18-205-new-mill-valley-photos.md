@@ -19,7 +19,7 @@ tags:
 ---
 
 Ow. Just ... Ow.
-<p style="text-align: center;"><a href="https://jorjafox.net/gallery/pub/filmfest/20131005-millvalley/page/2"><img class="size-medium wp-image-8824 aligncenter" alt="MVFF" src="//static.jorjafox.net/wordpress/2013/10/jpeg-77-300x200.jpg" width="300" height="200" /></a></p>
+<p style="text-align: center;"><a href="https://jorjafox.net/gallery/pub/filmfest/20131005-millvalley/page/2"><img class="size-medium wp-image-8824 aligncenter" alt="MVFF" src="//static.jorjafox.net/wordpress/2013/10/jpeg-77-300x200.jpg" width="300" height="200" /></a>
 Interestingly, this made me go back and fix the pagination issues with album pages, cause daaaymn. New images start as of the last image of page two.
 
 <a href="https://jorjafox.net/gallery/pub/filmfest/20131005-millvalley/page/2">Click here</a> to check out the images, start at the very last image on that page and carry on.

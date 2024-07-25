@@ -1,6 +1,6 @@
 ---
 id: 9251
-title: 'Promo Pics from &#8220;Helpless&#8221;'
+title: 'Promo Pics from "Helpless"'
 date: '2013-11-08T16:30:47-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'New CSI next Wednesday, enjoy some promo pics of Sara!'

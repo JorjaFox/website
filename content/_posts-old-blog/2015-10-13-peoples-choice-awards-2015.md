@@ -1,6 +1,6 @@
 ---
 id: 13742
-title: 'People&#8217;s Choice Awards &#8211; 2015'
+title: 'People's Choice Awards — 2015'
 date: '2015-10-13T07:31:28-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s the last chance to vote for CSI.'

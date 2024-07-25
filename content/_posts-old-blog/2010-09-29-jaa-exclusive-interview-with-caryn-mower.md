@@ -29,8 +29,8 @@ JAA snagged a nice interview with Caryn Mower (aka <a href="http://twitter.com/m
 This is NOT the only thing she said about Jorja, but it should whet your whistle.
 
 <blockquote>
-<strong>JAA:</strong> We saw you take a pretty hard punch from Sara Sidle (Jorja Fox) in the <em>CSI</em> season eleven premiere! How much preparation went into setting up the scene?
-<strong>CM:</strong> Again that's all set up by the Stunt Coordinator. Doing that shot with Jorja Fox took a few rehearsals but she was such a professional and a quick learner [that] it didn't take much time at all. She was having a blast!
+**JAA:** We saw you take a pretty hard punch from Sara Sidle (Jorja Fox) in the <em>CSI</em> season eleven premiere! How much preparation went into setting up the scene?
+**CM:** Again that's all set up by the Stunt Coordinator. Doing that shot with Jorja Fox took a few rehearsals but she was such a professional and a quick learner [that] it didn't take much time at all. She was having a blast!
 </blockquote>
 
 Credit (and the whole interview): <a href="http://community.livejournal.com/jorjaallaround/658307.html">JAA Exclusive: Interview with Caryn Mower</a>

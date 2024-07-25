@@ -22,7 +22,7 @@ tags:
 
 <img class="alignleft size-medium wp-image-4857" title="What Images Are You?" src="//static.jorjafox.net/wordpress/2012/06/whoareyou-230x156.png" alt="What Images Are You?" width="230" height="156" />
 
-<a href="https://jorjafox.net/content/unsorted/"><strong>I have no idea where/when these images are!</strong></a>
+<a href="https://jorjafox.net/content/unsorted/">**I have no idea where/when these images are!**</a>
 
 I spent a week trying to sort it out, gave up, came back, made a lot of headway and was stuck with 22 images I just could not figure out.
 

@@ -21,11 +21,11 @@ tags:
 Is it the kiss of death?
 
 CBS has moved <em>The Amazing Race</em> from Sunday to Friday, and then moved <em>CSI</em> to Sunday at 10pm.... for now. If you're confused, so am I.
-<blockquote><strong>“CSI: Crime Scene Investigation” Shifts to 10:00 PM Sundays;
-</strong><strong>Spinoff “CSI: Cyber” Moves into the Time Period in Spring 2015</strong></blockquote>
+<blockquote>**“CSI: Crime Scene Investigation” Shifts to 10:00 PM Sundays;
+****Spinoff “CSI: Cyber” Moves into the Time Period in Spring 2015**</blockquote>
 So that was the headline, which <em>implies</em> that CSI won't be on after Spring? No. Well ... yes, but no.
 <blockquote><img class="alignleft size-medium wp-image-10821" src="//static.jorjafox.net/wordpress/2014/05/7afbb1602613ec52b265d7a54ad27330.png" alt="Patricia Arquette" width="193" height="250" />SUNDAYS – Two key time period changes bolster the night. The renowned 60 MINUTES, television’s #1 news program, returns at 7:00 PM. Joining the night at 8:00 PM is the new stately drama series MADAM SECRETARY, providing an ideal bridge between 60 MINUTES and one of television’s finest dramas, THE GOOD WIFE, at 9:00 PM. The popular CSI: CRIME SCENE INVESTIGATION is new to the night at 10:00 PM. When it completes its run of original episodes, the new CSI spinoff, CSI: CYBER, will take over, creating an extended run of original episodes in the time period.</blockquote>
-This looks almost like a plan to have a CSI airing year-round, which is cool, but very, very, weird. Not on the list? <em>Intelligence</em>, Marg's new show. I had personally predicted that CBS would either pick up the new <em>CSI: Cyber</em> <strong>or</strong> <em>Intelligence</em>, but not both, so this doesn't shock me. CSI on Sunday is annoying, slightly, since football overruns have often been the pain of any show on after footie. That said, Sunday Night Football has moved to NBC, and CBS has <em>Thursday</em> night, which is part of why the shuffle's on. <em>CSI</em> following <em>The Good Wife</em> is a good thing, I think. Hard to say.
+This looks almost like a plan to have a CSI airing year-round, which is cool, but very, very, weird. Not on the list? <em>Intelligence</em>, Marg's new show. I had personally predicted that CBS would either pick up the new <em>CSI: Cyber</em> **or** <em>Intelligence</em>, but not both, so this doesn't shock me. CSI on Sunday is annoying, slightly, since football overruns have often been the pain of any show on after footie. That said, Sunday Night Football has moved to NBC, and CBS has <em>Thursday</em> night, which is part of why the shuffle's on. <em>CSI</em> following <em>The Good Wife</em> is a good thing, I think. Hard to say.
 
 This marks CSI's fourth time-slot in fourteen years.
 

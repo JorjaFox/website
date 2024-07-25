@@ -1,6 +1,6 @@
 ---
 id: 4467
-title: 'CSI 12&#215;19: &#8220;Split Decisions&#8221; Press Release'
+title: 'CSI 12&#215;19: "Split Decisions" Press Release'
 date: '2012-03-26T13:24:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'If you’re gambling at this casino you’re in the middle of a crime zone on #CSI 4/4 10pm ET/PT'

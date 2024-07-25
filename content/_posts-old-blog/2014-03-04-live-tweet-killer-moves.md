@@ -1,6 +1,6 @@
 ---
 id: 10052
-title: 'Jorja to Live Tweet &#8220;Killer Moves&#8221;'
+title: 'Jorja to Live Tweet "Killer Moves"'
 date: '2014-03-04T09:36:41-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja will be live tweeting tomorrow night''s episode at 10pm ET.'
@@ -44,7 +44,7 @@ Here's your cheat sheet:
 	<li><a href="https://twitter.com/Dastmalchian">@Dastmalchian</a> - David Dastmalchian (guest)</li>
 	<li><a style="line-height: 1.7; font-size: 1rem;" href="https://twitter.com/Alecdow">@Alecdow</a><span style="line-height: 1.7; font-size: 1rem;"> - Alec (director of the episode)</span></li>
 </ul>
-Again, this is 10pm <i>Eastern Time</i>, so to help you translate....
+Again, this is 10pm _Eastern Time_, so to help you translate....
 
 [eventtime time="22:00" length="1" date="03/05/2014" tz="ET"]
 

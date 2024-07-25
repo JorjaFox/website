@@ -19,7 +19,7 @@ tags:
     - spoilers
 ---
 
-<strong><img class="alignright size-thumbnail wp-image-9312" alt="Girls Gone Wild" src="//static.jorjafox.net/wordpress/2013/11/girls-gone-wild.png" width="275" height="140" />THIS IS ALL RUMOR AND UNCONFIRMED!</strong>
+**<img class="alignright size-thumbnail wp-image-9312" alt="Girls Gone Wild" src="//static.jorjafox.net/wordpress/2013/11/girls-gone-wild.png" width="275" height="140" />THIS IS ALL RUMOR AND UNCONFIRMED!**
 
 Was that enough for you? Even CSI Files is clear that this should not be taken as absolute.
 

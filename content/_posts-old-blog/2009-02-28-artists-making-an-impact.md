@@ -35,8 +35,8 @@ tags:
     - photos
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/02/iff-001-100x100.jpg" alt="Impact Film Festival" title="Impact Film Festival" width="100" height="100" class="alignleft size-thumbnail wp-image-1639" /> While in DC (for the Presidential Inauguration), Jorja attended the IMPACT Film Fund's "Artists Making an Impact" Party, celebrating Funny or Die, The Great Schlep, and many more, on January 18th. Our sister site, JAA snapped up some pics to share. 
+<img src="//static.jorjafox.net/wordpress/2009/02/iff-001-100x100.jpg" alt="Impact Film Festival" title="Impact Film Festival" width="100" height="100" class="alignleft size-thumbnail wp-image-1639" /> While in DC (for the Presidential Inauguration), Jorja attended the IMPACT Film Fund's "Artists Making an Impact" Party, celebrating Funny or Die, The Great Schlep, and many more, on January 18th. Our sister site, JAA snapped up some pics to share.
 
-&bull; <strong><a href="https://jorjafox.net/gallery/pub/advocacy/20090118-impact/">"Artists Making an Impact" Gallery</a></strong>
+&bull; **<a href="https://jorjafox.net/gallery/pub/advocacy/20090118-impact/">"Artists Making an Impact" Gallery</a>**
 
 The IMPACT FILM FUND (IFF) is a Washington, DC-based non-profit organization that was created as a platform for documentary and narrative filmmaking to engage with the political and policy arena of our nation's capital. IFF elevates the themes and topics in these films through screenings, panel discussions, promotional events and the press to educate and enlighten its audiences and create a climate for meaningful social impact.

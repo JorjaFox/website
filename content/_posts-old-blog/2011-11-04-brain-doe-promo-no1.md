@@ -1,6 +1,6 @@
 ---
 id: 3970
-title: 'CSI 12&#215;07 &#8220;Brain Doe&#8221; Promo Video'
+title: 'CSI 12&#215;07 "Brain Doe" Promo Video'
 date: '2011-11-04T13:25:05-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The first video for "Brain Doe" is up and there is a moment of Jorja.  Vacation''s over, kids!  Watch CSI on November 9th!'

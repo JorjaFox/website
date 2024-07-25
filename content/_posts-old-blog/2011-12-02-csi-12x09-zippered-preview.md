@@ -1,6 +1,6 @@
 ---
 id: 4068
-title: 'CSI 12&#215;09 &#8220;Zippered&#8221; Preview'
+title: 'CSI 12&#215;09 "Zippered" Preview'
 date: '2011-12-02T15:09:18-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promo video from Zippered, with a bit of Jorja!'

@@ -1,6 +1,6 @@
 ---
 id: 2841
-title: 'Jorja&#8217;s Resolutions for 2011'
+title: 'Jorja's Resolutions for 2011'
 date: '2010-12-30T20:31:47-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The Humane Society asked Jorja (and nine other celebrities) about their resolutions for 2011.'
@@ -27,7 +27,7 @@ This one's pretty self-contained, isn't it?
 
 <blockquote>[...]
 
-<strong>JORJA FOX:</strong> "My resolution is to support he HSUS’s effort to end dogfighting, and all they’re doing to help at-risk communities."
+**JORJA FOX:** "My resolution is to support he HSUS’s effort to end dogfighting, and all they’re doing to help at-risk communities."
 
 [...]
 

@@ -1,6 +1,6 @@
 ---
 id: 8177
-title: 'CSI&#8217;S Mystery Funeral'
+title: 'CSI'S Mystery Funeral'
 date: '2013-09-08T21:30:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'One new picture of the funeral from TV Guide. Oh and spoilers.'

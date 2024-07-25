@@ -21,41 +21,41 @@ tags:
 Thanks to fan <a href="https://twitter.com/tvcrazyeb/status/494312461646835712">Elizabeth Beaulieu for the tip</a>!
 
 This should get posted on their website eventually, but here's a copy of what it says:
-<blockquote><strong><img class="alignleft size-full wp-image-11088" src="//static.jorjafox.net/wordpress/2014/07/EW1.jpg" alt="Jorja Fox" width="360" height="480" />Jorja Fox</strong> of <em>CSI: Crime Scene Investigation</em> makes waves with her stylish selections
+<blockquote>**<img class="alignleft size-full wp-image-11088" src="//static.jorjafox.net/wordpress/2014/07/EW1.jpg" alt="Jorja Fox" width="360" height="480" />Jorja Fox** of <em>CSI: Crime Scene Investigation</em> makes waves with her stylish selections
 
-<em><strong>Vacation Spot:</strong></em>
-<strong>Hawaii.</strong>
+<em>**Vacation Spot:**</em>
+**Hawaii.**
 
-<em><strong>Workout:</strong></em>
-<strong>Surfing.</strong>
+<em>**Workout:**</em>
+**Surfing.**
 
-<em><strong>Designer:</strong></em>
-<strong>Stella McCartney.</strong>
+<em>**Designer:**</em>
+**Stella McCartney.**
 
-<em><strong>Purse:</strong></em>
-<strong>high*way NYC.</strong>
+<em>**Purse:**</em>
+**high*way NYC.**
 I love their nonleather stuff.
 
-<em><strong>Magazine:</strong></em>
-<strong>Surfer </strong>magazine.
+<em>**Magazine:**</em>
+**Surfer **magazine.
 
-<em><strong>Bling:</strong></em>
-A <strong>gold and amethyst ring</strong> my mother designed.
+<em>**Bling:**</em>
+A **gold and amethyst ring** my mother designed.
 
-<em><strong>Activity:</strong></em>
-All things <strong>romantic</strong>.
+<em>**Activity:**</em>
+All things **romantic**.
 
-<em><strong>Song:</strong></em>
-<strong>"Freedom and Its Owner"
-</strong>by Kings of Convenience.
+<em>**Song:**</em>
+**"Freedom and Its Owner"
+**by Kings of Convenience.
 
-<em><strong>Book:</strong></em>
-<strong>The Concious Cook</strong>
+<em>**Book:**</em>
+**The Concious Cook**
 by chef Tal Ronnen.
 
-<em><strong>Movie:</strong></em>
-<strong>Tootsie.</strong>
+<em>**Movie:**</em>
+**Tootsie.**
 
-<em><strong>Indulgence:</strong></em>
-<strong>Wine.</strong></blockquote>
+<em>**Indulgence:**</em>
+**Wine.**</blockquote>
 And of course remember that CSI airs Sunday, beginning "October 30". Except they're wrong and it starts September 28th. I guess they want you to miss the first four episodes? Who knows. The photo is from a <a href="https://jorjafox.net/gallery/pro/model/2007-ew/">2007 shoot for EW</a>.

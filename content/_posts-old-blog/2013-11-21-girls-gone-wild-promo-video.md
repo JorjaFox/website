@@ -1,6 +1,6 @@
 ---
 id: 9388
-title: '&#8220;Girls Gone Wild&#8221; Promo Video'
+title: '"Girls Gone Wild" Promo Video'
 date: '2013-11-21T08:00:04-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Three CSIs enjoying a night out. What could possibly go wrong?'

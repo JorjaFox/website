@@ -1,6 +1,6 @@
 ---
 id: 6000
-title: '&#8220;Strip Maul&#8221; Recap and Screencaps'
+title: '"Strip Maul" Recap and Screencaps'
 date: '2012-11-29T06:26:14-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two stars for Sara in a four star episode. I can live with that.'

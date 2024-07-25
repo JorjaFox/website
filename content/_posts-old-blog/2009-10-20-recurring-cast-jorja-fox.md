@@ -1,6 +1,6 @@
 ---
 id: 2076
-title: 'Recurring Cast &#8211; Jorja Fox'
+title: 'Recurring Cast — Jorja Fox'
 date: '2009-10-20T08:09:20-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja is listed as a ''Recurring Cast'' member for episode 10x06 "Death and the Maiden". Mild spoilers about the episode inside!'
@@ -84,10 +84,10 @@ Credit: <a href="http://www.thefutoncritic.com/listings.aspx?id=20091019cbs05">T
 
 Okay so I know the very first question I'm going to get here is 'What's a recurring cast member!?'  There are no official designations here to help you, since much like TV ratings, it's more of a feel than a definitive thing.  My general definitions are as follows:
 
-<strong>Main Cast:</strong> People who are in the credits.
-<strong>Guest Cast: </strong>Someone cast just for this episode or for multiple episodes, but with no plotline of their own (ie. most of the detectives on CSI)
-<strong>Special Guest Cast: </strong>A 'name' actor or an important role for the episode (Lady Heather or Catherine's ex, Eddie)
-<strong>Recurring Cast:</strong> Someone who's appeared in more than one episode in <em>unrelated </em>storylines, or has their own storyline.
+**Main Cast:** People who are in the credits.
+**Guest Cast: **Someone cast just for this episode or for multiple episodes, but with no plotline of their own (ie. most of the detectives on CSI)
+**Special Guest Cast: **A 'name' actor or an important role for the episode (Lady Heather or Catherine's ex, Eddie)
+**Recurring Cast:** Someone who's appeared in more than one episode in <em>unrelated </em>storylines, or has their own storyline.
 
 Maggie Doyle, on ER, was recurring, for example.  Now, this does not mean that this is how it all ends up for Jorja back on CSI.  This just means that, right now, she's listed as Recurring.  This ep is still within the first five she was contracted for, so it has little to no bearing on her status in the next episodes.
 

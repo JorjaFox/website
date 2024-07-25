@@ -1,6 +1,6 @@
 ---
 id: 9458
-title: 'Watch &#8220;Girls Gone Wild&#8221;'
+title: 'Watch "Girls Gone Wild"'
 date: '2013-11-28T17:54:29-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Catch up on some CSI ... if you''re not in a food coma.'

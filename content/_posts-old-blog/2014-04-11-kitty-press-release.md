@@ -1,6 +1,6 @@
 ---
 id: 10519
-title: '&#8220;Kitty&#8221; Press Release'
+title: '"Kitty" Press Release'
 date: '2014-04-11T16:27:02-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSIs investigate the cyber-related murder of a prominent casino owner’s wife and receive help from the FBI’s Cyber Crime Division, but not Sara Sidle.'

@@ -1,6 +1,6 @@
 ---
 id: 9527
-title: 'Schedule Change: Merry Christmas with &#8220;Risky Business Class&#8221;'
+title: 'Schedule Change: Merry Christmas with "Risky Business Class"'
 date: '2013-12-10T14:34:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Instead of a little subtle mention of GSR, how about a big ''ol episode for Sara and her ex? Yikes! Merry Christmas?'

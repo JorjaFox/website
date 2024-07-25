@@ -1,6 +1,6 @@
 ---
 id: 10186
-title: '&#8220;The Fallen&#8221; Press Release'
+title: '"The Fallen" Press Release'
 date: '2014-03-17T16:34:35-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'New CSI on April 2nd. Russell is taken hostage after a teenager opens fire in a police station.'
@@ -24,6 +24,6 @@ tags:
 “The Fallen” — Russell is taken hostage after a teenager opens fire in a police station, on CSI: CRIME SCENE INVESTIGATION, Wednesday, April 2 (10:00-11:00 PM, ET/PT) on the CBS Television Network.
 
 CHEAT TWEET:  Russell is taken hostage! What will he do 2 save himself &amp; others from a teenager gone mad?  #CSI #CBS 4/2 10pm ET/PT http://bit.ly/OpTvFe</blockquote>
-Jorja <strong>IS</strong> expected to be in this episode.
+Jorja **IS** expected to be in this episode.
 
 Irony? When I was on set, I remarked they didn't use a certain part of the set very much and Jorja agreed. This episode looks like it pretty much takes place in that section.

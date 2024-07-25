@@ -1,6 +1,6 @@
 ---
 id: 4550
-title: 'CSI 12&#215;21 &#8220;Dune and Gloom&#8221; Promo'
+title: 'CSI 12&#215;21 "Dune and Gloom" Promo'
 date: '2012-04-26T07:39:31-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two CSIs to go, and let''s hope they remember Sara loves taking apart cars.'

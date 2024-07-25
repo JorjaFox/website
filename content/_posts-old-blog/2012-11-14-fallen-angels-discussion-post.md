@@ -1,6 +1,6 @@
 ---
 id: 5751
-title: '&#8220;Fallen Angels&#8221; Discussion Post'
+title: '"Fallen Angels" Discussion Post'
 date: '2012-11-14T12:25:04-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSIs remember Warrick and question why someone was killed at his grave site. #CSI 11/14 10/9c'
@@ -21,19 +21,19 @@ tags:
 
 <img class="alignleft size-medium wp-image-5753" title="Fallen Angels" src="//static.jorjafox.net/wordpress/2012/11/07-fallen-csifiles01-210x140.jpeg" alt="" width="210" height="140" />
 
-<strong>Official Release</strong>
+**Official Release**
 
 The CSI team investigates the death of a reverend who was killed at the grave site of former CSI Warrick Brown, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Nov. 14 (10:00-11:00 PM, ET/PT) on the CBS Television Network.
 
 <a href="https://jorjafox.net/2012/fallen-angels-press-release/">Press Release</a>
 
-<strong>Video</strong>
+**Video**
 
 http://www.youtube.com/watch?v=yA7WPZURrJM
 
 http://www.youtube.com/watch?v=C-GSv5MuAjc
 
-<strong>Recap</strong>
+**Recap**
 
 Will be up tonight. I've been able to catch the East Coast feed the last couple weeks, so we'll see if that holds true.
 

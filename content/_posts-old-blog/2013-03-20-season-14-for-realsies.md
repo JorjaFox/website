@@ -21,7 +21,7 @@ tags:
 <img class="aligncenter size-full wp-image-6776" alt="season14" src="//static.jorjafox.net/wordpress/2013/03/season14.jpg" width="596" height="397" />
 
 From <a href="http://www.cbs.com/shows/csi/insider_blog/1000470/">CBS's CSI Insider Blog</a>:
-<blockquote><strong>CBS ANNOUNCES NEW CONTRACT EXTENSION FOR “CSI: CRIME SCENE INVESTIGATION” STAR TED DANSON</strong>
+<blockquote>**CBS ANNOUNCES NEW CONTRACT EXTENSION FOR “CSI: CRIME SCENE INVESTIGATION” STAR TED DANSON**
 
 <em>“CSI: Crime Scene Investigation,” the Most Watched Show in the World, Renewed for 2013-2014 Season</em>
 <em></em>

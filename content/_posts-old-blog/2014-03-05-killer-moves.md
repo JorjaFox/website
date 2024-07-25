@@ -1,6 +1,6 @@
 ---
 id: 10064
-title: '&#8220;Killer Moves&#8221; Discussion Post (for Twitter too!)'
+title: '"Killer Moves" Discussion Post (for Twitter too!)'
 date: '2014-03-05T13:00:37-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'What do an Elvis impersonator and a murdered bird have in common? Jorja will be live tweeting this one!'

@@ -1,6 +1,6 @@
 ---
 id: 11572
-title: 'Re-Recap and Screencaps of &#8220;Girls Gone Wilder&#8221;'
+title: 'Re-Recap and Screencaps of "Girls Gone Wilder"'
 date: '2014-11-10T07:39:12-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It aired! You all saw it! What did you think? I loved it.'

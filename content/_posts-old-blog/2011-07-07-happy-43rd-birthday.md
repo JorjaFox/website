@@ -23,11 +23,11 @@ tags:
 <img class="aligncenter size-medium wp-image-3502" title="birthday-43" src="//static.jorjafox.net/wordpress/2011/06/birthday-43-230x143.png" alt="" width="230" height="143" />Yeah, she's 43, and here's hoping I look that good when I am!
 <div>
 
-As a reminder, the summer fundraisers is, again, Surfrider!  Crowdrise is handling the money.  You just head over to the <a href="http://www.crowdrise.com/jfo-bday2011">JFO Birthday 2011</a> page and press that nice big 'Donate' button on the side there.   <strong>Donations will be open until September 10th, 2011</strong>.
+As a reminder, the summer fundraisers is, again, Surfrider!  Crowdrise is handling the money.  You just head over to the <a href="http://www.crowdrise.com/jfo-bday2011">JFO Birthday 2011</a> page and press that nice big 'Donate' button on the side there.   **Donations will be open until September 10th, 2011**.
 
 <a href="http://www.crowdrise.com/jfo-bday2011"><img class="aligncenter" title="crowdrise" src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" width="388" height="124" /></a>
 
 While I can't promise Jorja will see these, why not pass along your birthday wishes to her in the comments.
 
 </div>
-Oh and if you're on Twitter, use the hashtag <strong>#HappyBirthdayJorjaFox</strong> in your Tweets today.  Maybe we can make her a Trending Topic!
+Oh and if you're on Twitter, use the hashtag **#HappyBirthdayJorjaFox** in your Tweets today.  Maybe we can make her a Trending Topic!

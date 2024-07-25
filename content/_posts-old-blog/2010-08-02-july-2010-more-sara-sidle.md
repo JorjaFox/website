@@ -1,6 +1,6 @@
 ---
 id: 2528
-title: 'July 2010 &#8211; More Sara Sidle'
+title: 'July 2010 — More Sara Sidle'
 date: '2010-08-02T12:11:47-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Making the rounds for July 2010 is a surprising lot of news about <em>CSI</em>.  And yes, Jorja''s back for next season.'

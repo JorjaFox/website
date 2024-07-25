@@ -6,7 +6,7 @@ tags: ["movies"]
 slug: "jerky-boys"
 gallery: https://jorjafox.net/gallery/movies/jerky/
 imdb: https://www.imdb.com/title/tt0110189/
-image: /img/actor/jerky-boys.jpg
+image: /img/actors/jerky-boys.jpg
 ---
 
 When a former high school classmate brags about his mob connections, the Jerky Boys -- a pair of thirty-something slackers who pride themselves on devious prank phone calls -- decide to have a little fun in the Mafia underworld. However, when a cop mistakes the Jerky Boys for actual hit men, their innocent game causes more trouble than they would've ever imagined.

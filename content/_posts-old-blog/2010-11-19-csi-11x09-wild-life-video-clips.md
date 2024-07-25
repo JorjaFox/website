@@ -1,6 +1,6 @@
 ---
 id: 2709
-title: 'CSI 11&#215;09 &#8220;Wild Life&#8221; Video Clips'
+title: 'CSI 11&#215;09 "Wild Life" Video Clips'
 date: '2010-11-19T10:33:10-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two video clips from last night''s CSI episode, "Wild Life."'
@@ -26,8 +26,8 @@ tags:
 
 As promised!
 
-<strong>Sara and Doc Robbins at Autopsy</strong>
+**Sara and Doc Robbins at Autopsy**
 http://www.youtube.com/watch?v=PHx66IY5q4U
 
-<strong>Sara and Greg finding out who called 911</strong>
+**Sara and Greg finding out who called 911**
 http://www.youtube.com/watch?v=n8Y88T3A0is

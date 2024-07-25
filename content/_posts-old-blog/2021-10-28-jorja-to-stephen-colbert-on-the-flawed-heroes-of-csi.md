@@ -1,6 +1,6 @@
 ---
 id: 18952
-title: 'Jorja to Stephen Colbert on the Flawed Heroes of &#8220;CSI&#8221;'
+title: 'Jorja to Stephen Colbert on the Flawed Heroes of "CSI"'
 date: '2021-10-28T16:45:02-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja''s appearance on the Oct 27th episode of Stephen Colbert.'
@@ -52,15 +52,15 @@ tags:
     - video
 ---
 
-<p>Wednesday night Jorja was on the Colbert show, and talked to him about <em>CSI: Vegas</em></p>
+Wednesday night Jorja was on the Colbert show, and talked to him about <em>CSI: Vegas</em>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=V7_T2xNc_4s
 </div></figure>
 
-<p>Actually she mostly talked about DC and the time Brad Whitford got arrested by the Secret Service. But still it's a great moment.</p>
+Actually she mostly talked about DC and the time Brad Whitford got arrested by the Secret Service. But still it's a great moment.
 
-<p>And yes, here's your transcript:</p>
+And yes, here's your transcript:
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-fans-of-lefox-library wp-block-embed-fans-of-lefox-library"><div class="wp-block-embed__wrapper">
 https://jorjafox.net/library/transcript/2021/1027-latenight/

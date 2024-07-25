@@ -1,6 +1,6 @@
 ---
 id: 2043
-title: 'Jorja Fox &#8211; Guest DJ on KCRW'
+title: 'Jorja Fox — Guest DJ on KCRW'
 date: '2009-09-26T20:54:38-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Had enough Jorja on the radio? Of course not.  Jorja was the guest DJ on KCRW''s Guest DJ Project on Wednesday September 23rd.'

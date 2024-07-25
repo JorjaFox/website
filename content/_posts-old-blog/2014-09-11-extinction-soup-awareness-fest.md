@@ -20,6 +20,6 @@ tags:
 
 [embed]https://www.facebook.com/jorja.fox.545/posts/516721115129266[/embed]
 
-<b>Wednesday</b>, September 17 • 7:30pm - 9:00pm you can catch Extinction Soup at the <a href="http://awarenessfilmfestival2014.sched.org/event/2a9b4ffdbdfee5a5f7abb8f25ffd7648#.VBIAtmQmczG">Awareness Film Festival</a>.
+**Wednesday**, September 17 • 7:30pm - 9:00pm you can catch Extinction Soup at the <a href="http://awarenessfilmfestival2014.sched.org/event/2a9b4ffdbdfee5a5f7abb8f25ffd7648#.VBIAtmQmczG">Awareness Film Festival</a>.
 
 It appears you'll need to <a href="http://store.healoneworld.com/category-s/22.htm">buy a pass</a> to attend.

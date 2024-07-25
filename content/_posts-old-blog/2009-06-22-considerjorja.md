@@ -1,6 +1,6 @@
 ---
 id: 1898
-title: '#considerjorja &#8211; Social Networking an Emmy'
+title: '#considerjorja — Social Networking an Emmy'
 date: '2009-06-22T10:03:04-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The Emmy votes are due in just under four weeks. Let''s spread the word on Twitter and anywhere else you can think of to get Jorja''s name out there!'

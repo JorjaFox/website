@@ -1,6 +1,6 @@
 ---
 id: 11663
-title: '&#8220;Dead Rails&#8221; Press Release'
+title: '"Dead Rails" Press Release'
 date: '2014-12-03T04:21:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'December 14th''s CSI involves billiards and a double death!'

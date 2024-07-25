@@ -1,6 +1,6 @@
 ---
 id: 7289
-title: '&#8216;Lion Ark&#8217; Movie Hits Film Festivals Soon'
+title: '&#8216;Lion Ark' Movie Hits Film Festivals Soon'
 date: '2013-06-01T13:25:51-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"... what the human spirit can do when people come together."'

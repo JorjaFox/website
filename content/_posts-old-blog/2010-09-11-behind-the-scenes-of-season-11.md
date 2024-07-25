@@ -22,7 +22,7 @@ tags:
     - video
 ---
 
-From <a href="http://margamania.net/">Margamania</a> we have: 
+From <a href="http://margamania.net/">Margamania</a> we have:
 
-<strong>CSI: Justin Bieber on CSI (Behind the Scenes of Season 11 Premiere) [HD]</strong>
+**CSI: Justin Bieber on CSI (Behind the Scenes of Season 11 Premiere) [HD]**
 http://www.youtube.com/watch?v=I4O2v2w89RY

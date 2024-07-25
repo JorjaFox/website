@@ -1,6 +1,6 @@
 ---
 id: 3061
-title: 'CSI 11&#215;13 &#8220;The Two Mrs. Grissoms&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;13 "The Two Mrs. Grissoms" Discussion Post (Updated)'
 date: '2011-02-03T09:00:00-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two Mrs walk into a room, only one survives! It''s a Grissom vs Grissom smackdown on tonight''s CSI, with a side of Mr. Grissom.  You heard me.  He''s here for one night only. <em>Updated with screencaps and a recap</em>'
@@ -46,4 +46,4 @@ I .. I ... Right.  So yeah. There's that.  Watch this. 5 stars, no questions ask
 &bull; <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms-stills/">Publicity Stills</a>
 &bull; <a href="https://jorjafox.net/wiki/The_Two_Mrs._Grissoms">Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/season11/2mrsgris">Screencaps</a>
-[starrater] 
+[starrater]

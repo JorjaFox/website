@@ -1,6 +1,6 @@
 ---
 id: 9011
-title: 'Jorja (and CSI peeps) on &#8220;The Talk&#8221;'
+title: 'Jorja (and CSI peeps) on "The Talk"'
 date: '2013-10-23T13:31:25-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Tweets from The Talk (videos etc later, I promise)'

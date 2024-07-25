@@ -1,6 +1,6 @@
 ---
 id: 11765
-title: '&#8220;Dead Woods&#8221; Discussion Post'
+title: '"Dead Woods" Discussion Post'
 date: '2014-12-28T13:00:53-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '10-year-old memories are tested for the CSI team when Sara reopens a murder case.'
@@ -18,15 +18,15 @@ tags:
     - tv
 ---
 
-<strong>Notice</strong> - This is a day CSI <em>may</em> get bumped!
-<blockquote><strong>CBS Sunday, Dec. 21 and 28 (Football Doubleheaders)</strong>
+**Notice** - This is a day CSI <em>may</em> get bumped!
+<blockquote>**CBS Sunday, Dec. 21 and 28 (Football Doubleheaders)**
 8:30-9:30 PM, ET/8:00-9:00 PM, PT UNDERCOVER BOSS
 9:30-10:30 PM, ET/9:00-10:00 PM, PT THE MENTALIST
 10:30-11:30 PM, ET/10:00-11:00 PM, PT CSI</blockquote>
 
 So please keep that in mind. Hoping not.
 
-<strong>Press Release</strong>
+**Press Release**
 
 <blockquote>THE CSI TEAM REOPENS A 10-YEAR-OLD MURDER/SUICIDE CASE WHEN THE SOLE SURVIVOR CLAIMS HER ACCUSED FATHER WAS INNOCENT, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, DEC. 28
 
@@ -38,11 +38,11 @@ CHEAT TWEET: 10-year-old memories are tested when the #CSI team reopens a murder
 
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=41513">CBS Press Express</a>
 
-<strong>Promotional Photos</strong>
+**Promotional Photos**
 
 [gallery ids="11769"]
 
-<strong>Videos</strong>
+**Videos**
 
 https://vimeo.com/115195785
 

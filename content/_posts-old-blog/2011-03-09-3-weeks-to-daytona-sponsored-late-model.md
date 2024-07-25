@@ -1,6 +1,6 @@
 ---
 id: 3184
-title: '&#8220;3 Weeks to Daytona&#8221; Sponsored Late Model'
+title: '"3 Weeks to Daytona" Sponsored Late Model'
 date: '2011-03-09T13:00:53-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Real photos of a real race car, sponsored by the "3 Weeks to Daytona" guys.  And Jorja''s name is all over that car!'

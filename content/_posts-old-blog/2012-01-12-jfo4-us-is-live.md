@@ -21,7 +21,7 @@ tags:
 Shorter is better, and short URLs, like http://bit.ly, are all the rage these days. With good reason. You can remember something short, text it, tweet it, share it, all much faster than you can remember something like <a href="https://jorjafox.net/2012/jfo4-us-is-live/">https://jorjafox.net/2012/jfo4-us-is-live/</a>
 
 There are a bunch of great tools for handling this. In fact, WordPress (which I use here) has a plugin called Jetpack that will use wp.me URLs for any post. But. Well, I like 'owning' my own stuff, so after a little work, I bought a short domain.
-<p style="text-align: center;"><a href="http://jfo4.us">http://jfo4.us</a></p>
+<p style="text-align: center;"><a href="http://jfo4.us">http://jfo4.us</a>
 Now if you notice, the site just has a list of links. Nothing fancy, right? All those links are acutally to shorter URLs. Like <a href="http://jfo4.us/2">http://jfo4.us/2</a> goes to the post about
 <a title="“Willows in the Wind” Promotional Photos" href="https://jorjafox.net/2012/willows-in-the-wind-promotional-photos/" rel="bookmark">“Willows in the Wind” Promotional Photos</a> -- Yeah, that teeny URL kicks you over to the big one. And then there's the cool part about how I can name them whatever I want. So if I go to <a href="http://jfo4.us/com">http://jfo4.us/com</a> you go to <a href="http://jorjafox.com">http://jorjafox.com</a>! Okay, perhaps a bad example, since that's easy to remember too.
 

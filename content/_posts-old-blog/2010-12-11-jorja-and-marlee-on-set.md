@@ -1,6 +1,6 @@
 ---
 id: 2803
-title: 'Jorja and Marlee &#8211; On Set'
+title: 'Jorja and Marlee — On Set'
 date: '2010-12-11T19:41:40-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'All credit to Marlee Matlin for sharing this photo from filming.'

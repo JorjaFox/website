@@ -1,6 +1,6 @@
 ---
 id: 2414
-title: '&#8220;Doctor Who&#8221; Promotional Videos'
+title: '"Doctor Who" Promotional Videos'
 date: '2010-05-10T09:19:26-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A case like no other ... and how much do we really know about Langston? Talk about this Thursday''s ep here!'
@@ -19,14 +19,14 @@ tags:
     - tv
 ---
 
-<strong>Synopsis</strong>
+**Synopsis**
 The CSI team must investigate one of their own when Langston is accused by a former colleague of being part of the Dr. Jekyll murders, on part one of a two-part season finale.
 
-<strong>Videos</strong>
+**Videos**
 http://www.youtube.com/watch?v=aCZ1bCbquKc
 <em>Credit to allaboutmarg</em>
 
-<strong>Spoilers</strong>
+**Spoilers**
 From TV Guide, Carol Mendelsohn says:
 <blockquote>The final two installments in May have the team nipping at the heels of serial killer Dr. Jekyll-and questions are raised about Langston's involvement, they know him well enough to know that he wouldn't be capable of killing anyone. But there is some suspicion. Mendelsohn promises more twists and turns before the season is over:"Dr Jekyll won't be a problem anymore but there will definitely be a "cliff-hanger"</blockquote>
 

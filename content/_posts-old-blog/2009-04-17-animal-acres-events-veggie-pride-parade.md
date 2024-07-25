@@ -1,9 +1,9 @@
 ---
 id: 1777
-title: 'Animal Acres Events &#8211; Veggie Pride Parade'
+title: 'Animal Acres Events — Veggie Pride Parade'
 date: '2009-04-17T11:10:52-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'The first LA <strong>Veggie Pride Parade</strong> is on Sunday, April 26th, from 11am to 4pm. Karen Dawn (of Thanking the Monkey fame) will be a speaker.'
+excerpt: 'The first LA **Veggie Pride Parade** is on Sunday, April 26th, from 11am to 4pm. Karen Dawn (of Thanking the Monkey fame) will be a speaker.'
 layout: post
 guid: 'https://jorjafox.net/?p=1777'
 permalink: /2009/animal-acres-events-veggie-pride-parade/
@@ -39,7 +39,7 @@ Animal Acres event season is picking up.  The 2009 Calender of Events has been u
 
 If you're in LA, go check out the historic event, show some veggie pride and help educate people about health, the environment, and humanity.  There will be a rally with vegetarian food, entertainment, and bands, as well as special guest speakers including Karen Dawn (of 'Thanking the Monkey').
 
-For more information see <strong><a href="http://veggiepridela.com/">veggiepridela.com</a></strong>.
+For more information see **<a href="http://veggiepridela.com/">veggiepridela.com</a>**.
 
 If you're interested in other Animal Acres events, please visit AnimalAcres.com.
 

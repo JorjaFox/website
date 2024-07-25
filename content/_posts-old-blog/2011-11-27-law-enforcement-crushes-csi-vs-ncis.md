@@ -1,6 +1,6 @@
 ---
 id: 4042
-title: 'Law-Enforcement Crushes &#8211; CSI vs NCIS'
+title: 'Law-Enforcement Crushes — CSI vs NCIS'
 date: '2011-11-27T17:05:04-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s Sara Sidle vs Abbie Scuito on the TV|Line Law-Enforcement Crushes Tournament!  You know what to do.'

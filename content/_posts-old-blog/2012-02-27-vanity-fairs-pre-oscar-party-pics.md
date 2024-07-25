@@ -1,6 +1,6 @@
 ---
 id: 4381
-title: 'Vanity Fair&#8217;s Pre-Oscar Party (Pics)'
+title: 'Vanity Fair's Pre-Oscar Party (Pics)'
 date: '2012-02-27T09:18:21-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two pictures from Jorja at a little soiree Saturday night for this guy, Oscar.'
@@ -20,7 +20,7 @@ tags:
 ---
 
 Fiat and L'Oreal Paris had a smashing DJ Party for the Oscars and Jorja was in attendance, according to the <a href="http://www.mediabistro.com/fishbowlla/vanity-fairs-pre-oscar-d-j-party_b54452">Fishbowl LA</a>. Actually it was the "Strappies, Gold Polish - Vanity Fair D.J. Night With L'Oreal Paris &amp; Fiat" the day before the Oscars so ...
-<blockquote>Also spotted in the crowd: Actress <strong>Alicia Witt</strong>, <strong>James Valentine</strong> of Maroon 5, <em>Vanity Fair</em> publisher <strong>Edward Menicheschi</strong>, <strong>Bitsie Tulloch</strong>(<em>The Artist</em>, <em>Grimm</em>), <strong>Janina Gavankar</strong> (<em>True Blood</em>), <strong>Kathleen Robertson</strong>, <strong>Jorja Fox</strong>, and a bunch more hot actresses.</blockquote>
+<blockquote>Also spotted in the crowd: Actress **Alicia Witt**, **James Valentine** of Maroon 5, <em>Vanity Fair</em> publisher **Edward Menicheschi**, **Bitsie Tulloch**(<em>The Artist</em>, <em>Grimm</em>), **Janina Gavankar** (<em>True Blood</em>), **Kathleen Robertson**, **Jorja Fox**, and a bunch more hot actresses.</blockquote>
 Credit:  <a href="http://www.mediabistro.com/fishbowlla/vanity-fairs-pre-oscar-d-j-party_b54452">Fishbowl LA</a>
 
 Oh and I got you <a href="https://jorjafox.net/gallery/pub/events/20120225-vanityfair/">pictures</a>! Click on the pic below to see.

@@ -23,7 +23,7 @@ tags:
 <img class="alignleft size-thumbnail wp-image-3965" title="Circus Tent" src="//static.jorjafox.net/wordpress/2011/11/3_circus_tent_8x12-210x140.jpeg" alt="Circus Tent" width="100" height="75" />Tomorrow, a ground breaking law on animal circuses will be launched.  If I understand correctly, it won't be going into affect then, but the initiative is being started, and yes, that's why Jorja's going to be in DC.  She and Bob Barker will be running the press conference too.
 
 This is a big deal.
-<p align="LEFT"><strong>You will be able to watch the entire event live online, 10:30am EST/7:30am PST:</strong></p>
-<p align="LEFT">http://www.stickam.com/animaldefenders</p>
-<p align="LEFT">I do admit that the fact that Jorja's doing this the day that CSI airs an episode about a freak show/circus is amusing in a morbid way.</p>
-<p align="LEFT"></p>
+<p align="LEFT">**You will be able to watch the entire event live online, 10:30am EST/7:30am PST:**
+<p align="LEFT">http://www.stickam.com/animaldefenders
+<p align="LEFT">I do admit that the fact that Jorja's doing this the day that CSI airs an episode about a freak show/circus is amusing in a morbid way.
+<p align="LEFT">

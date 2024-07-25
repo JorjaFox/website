@@ -27,15 +27,15 @@ tags:
     - video
 ---
 
-<p>Fresh from the frozen north, ET Canada talked to Jorja and Paula (Newsome, who plays Max Roby) about why you're going to love <em>CSI: Vegas</em></p>
+Fresh from the frozen north, ET Canada talked to Jorja and Paula (Newsome, who plays Max Roby) about why you're going to love <em>CSI: Vegas</em>
 
-<blockquote class="wp-block-quote"><p>"CSI: Crime Scene Investigation" star Jorja Fox tells Morgan Hoffman why she thinks fans are going to "fall in love" with the rebooted fan-favourite crime scene procedural. Plus, franchise newcomer Paula Newsome shares what it was like working with Jorja and how the actress keeps her in line on set.</p></blockquote>
+<blockquote class="wp-block-quote">"CSI: Crime Scene Investigation" star Jorja Fox tells Morgan Hoffman why she thinks fans are going to "fall in love" with the rebooted fan-favourite crime scene procedural. Plus, franchise newcomer Paula Newsome shares what it was like working with Jorja and how the actress keeps her in line on set.</blockquote>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=hbqPoQIltgs
 </div></figure>
 
-<p>And, as always, the posting was delayed so I could get that <a href="https://jorjafox.net/library/transcript/2021/0930-et-canada/">transcript up for you</a>.</p>
+And, as always, the posting was delayed so I could get that <a href="https://jorjafox.net/library/transcript/2021/0930-et-canada/">transcript up for you</a>.
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-fans-of-lefox-library wp-block-embed-fans-of-lefox-library"><div class="wp-block-embed__wrapper">
 https://jorjafox.net/library/transcript/2021/0930-et-canada/

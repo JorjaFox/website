@@ -22,8 +22,8 @@ So Jorja is a producer as well as an actor, and she's been busy at work marrying
 
 So what's going on?
 
-<strong><a href="http://www.lionarkthemovie.com/">Lion Ark</a></strong> was selected for the <a href="http://www.lionarkthemovie.com/news/lions-come-roaring-into-the-palm-beach-international-film-festival/">Palm Beach Film Festival</a> and will be shown April5th and 9th (the later in Boca Raton). There will also be a <a href="http://www.austintheatre.org/site/Calendar?id=37522&amp;view=Detail">premiere in Texas and a VIP fundraiser</a> on May 25th.
+**<a href="http://www.lionarkthemovie.com/">Lion Ark</a>** was selected for the <a href="http://www.lionarkthemovie.com/news/lions-come-roaring-into-the-palm-beach-international-film-festival/">Palm Beach Film Festival</a> and will be shown April5th and 9th (the later in Boca Raton). There will also be a <a href="http://www.austintheatre.org/site/Calendar?id=37522&amp;view=Detail">premiere in Texas and a VIP fundraiser</a> on May 25th.
 
-There's also <a href="http://extinctionsoupmovie.com/"><strong>Extinction Soup,</strong></a> which will be at the <a href="http://www.americandocumentaryfilmfestival.com/#!official-selections-a-e/c1ejq">Palm Springs film festival</a> on March 27-31st.
+There's also <a href="http://extinctionsoupmovie.com/">**Extinction Soup,**</a> which will be at the <a href="http://www.americandocumentaryfilmfestival.com/#!official-selections-a-e/c1ejq">Palm Springs film festival</a> on March 27-31st.
 
 For everyone asking me when these will air near them, I really have no idea. Keep tabs on the websites (I linked, you know how to click) and follow them on Twitter/Facebook to get alerts.

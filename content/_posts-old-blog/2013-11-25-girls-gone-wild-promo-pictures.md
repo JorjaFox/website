@@ -1,6 +1,6 @@
 ---
 id: 9410
-title: '&#8220;Girls Gone Wild&#8221; Promo Pictures'
+title: '"Girls Gone Wild" Promo Pictures'
 date: '2013-11-25T18:24:49-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Stock up on paper bags before you read the post. Don''t say I didn''t warn you.'
@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-You ready? You <em>really really</em> ready? Totally? I mean come on, are you ready? Eleven images from CBS for this week's CSI. <em>Eleven</em>. With Jorja. And a couple without, but <strong>eleven</strong>. Eleeeeevvveeeeennn.
+You ready? You <em>really really</em> ready? Totally? I mean come on, are you ready? Eleven images from CBS for this week's CSI. <em>Eleven</em>. With Jorja. And a couple without, but **eleven**. Eleeeeevvveeeeennn.
 
 [gallery ids="9420,9422,9421,9416,9415,9418,9414,9417,9412,9419,9413"]
 

@@ -1,6 +1,6 @@
 ---
 id: 10014
-title: 'Promotional Photos from &#8220;Killer Moves&#8221;'
+title: 'Promotional Photos from "Killer Moves"'
 date: '2014-02-27T12:35:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Will it be the Jailhouse Rock for whoever killed this Elvis impersonator? Check out the First Look from CBS!'

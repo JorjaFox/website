@@ -1,6 +1,6 @@
 ---
 id: 9260
-title: '&#8220;Helpless&#8221; Promo Video'
+title: '"Helpless" Promo Video'
 date: '2013-11-09T18:30:37-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Follow the bouncing ball to solve the crime!'

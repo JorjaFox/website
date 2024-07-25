@@ -1,6 +1,6 @@
 ---
 id: 11700
-title: '&#8220;Dead Rails&#8221; Discussion Post'
+title: '"Dead Rails" Discussion Post'
 date: '2014-12-14T15:00:34-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team investigates the death of a man killed twice tonight on CBS.'
@@ -19,7 +19,7 @@ tags:
     - video
 ---
 
-<strong>Press Release</strong>
+**Press Release**
 
 THE CSI TEAM INVESTIGATES THE BIZARRE DEATH OF A MAN WHO WAS KILLED NOT ONCE, BUT TWICE, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, DEC. 14
 
@@ -29,10 +29,10 @@ THE CSI TEAM INVESTIGATES THE BIZARRE DEATH OF A MAN WHO WAS KILLED NOT ONCE, BU
 
 CHEAT TWEET: The #CSI team investigates the death of a man killed twice! @MrsSOsbourne guest stars 12/14 10pm ET/PT http://bit.ly/1w14Vnb
 
-<strong>Video</strong>
+**Video**
 
 <object width="480" height="270"><param name="movie" value="http://can.cbs.com/thunder/player/chrome/canplayer.swf?pid=U9ZG2m_JND1w&amp;partner=cbs&amp;gen=1" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed width="480" height="270" src="http://can.cbs.com/thunder/player/chrome/canplayer.swf?pid=U9ZG2m_JND1w&amp;partner=cbs&amp;gen=1" allowfullscreen="allowfullscreen" allowscriptaccess="always" type="application/x-shockwave-flash" /></object>
 
-<strong>Notes</strong>
+**Notes**
 
 This is not the Jorja Heavy ep, that one is Dead Woods. I know the names are similar.

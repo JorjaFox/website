@@ -1,6 +1,6 @@
 ---
 id: 6751
-title: '&#8220;Dead of the Class&#8221; Press Release'
+title: '"Dead of the Class" Press Release'
 date: '2013-03-12T17:34:33-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Super Dave is in Super Trouble when the prom queen is killed at his reunion on CSI, March 20th.'

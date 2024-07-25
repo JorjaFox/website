@@ -23,7 +23,7 @@ tags:
 
 While the transcript (and videos) aren't up yet, CNN is no slouch on posting the news.
 
-<strong>Lions rescued in Bolivia have new home on plains of Colorado</strong>
+**Lions rescued in Bolivia have new home on plains of Colorado**
 
 <blockquote>The ADI campaign and airlift got a big financial boost from TV game show host Bob Barker.
 Barker and actress Jorja Fox of "CSI" described the campaign Wednesday night on HLN's "Jane Velez-Mitchell.

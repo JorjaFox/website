@@ -1,6 +1,6 @@
 ---
 id: 9112
-title: 'MVFF &#8211; Transcript'
+title: 'MVFF — Transcript'
 date: '2013-10-29T02:00:48-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Transcript and screencaps of Jorja talking at the Mill Valley Film Festival'

@@ -39,6 +39,6 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/01/dusty-01-89x100.jpg" alt="Stay Forever" title="Stay Forever" width="89" height="100" class="alignleft size-thumbnail wp-image-1317" /> That's the rumor from our girlfriends at AfterEllen.com.
 
-<blockquote>[...] Viacom and CBS reportedly have a [...] project in the works produced by <em>CSI</em> star <strong>Jorja Fox</strong> and based on the live stage show <em>Stay Forever: The Life and Music [of Dusty Springfield]</em>, written by and starring <strong>Kirsten Holly Smith</strong>. (Fox produced the stage show at the Los Angeles Gay and Lesbian Center's Renberg Theater.)</blockquote>
+<blockquote>[...] Viacom and CBS reportedly have a [...] project in the works produced by <em>CSI</em> star **Jorja Fox** and based on the live stage show <em>Stay Forever: The Life and Music [of Dusty Springfield]</em>, written by and starring **Kirsten Holly Smith**. (Fox produced the stage show at the Los Angeles Gay and Lesbian Center's Renberg Theater.)</blockquote>
 
 Source: After Ellen

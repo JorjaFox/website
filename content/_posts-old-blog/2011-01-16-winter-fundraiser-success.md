@@ -21,7 +21,7 @@ tags:
     - fundraiser
 ---
 
-<img src="//static.jorjafox.net/wordpress/2011/01/think-pig-100x100.png" alt="" title="think-pig" width="100" height="100" class="alignleft size-thumbnail wp-image-3044" /> If I was better at graphics I'd make one that has a big honkin' <strong>$750</strong> on it.  I'm not, so you get a picture of Jorja the Pig saying thanks.
+<img src="//static.jorjafox.net/wordpress/2011/01/think-pig-100x100.png" alt="" title="think-pig" width="100" height="100" class="alignleft size-thumbnail wp-image-3044" /> If I was better at graphics I'd make one that has a big honkin' **$750** on it.  I'm not, so you get a picture of Jorja the Pig saying thanks.
 
 So I think CrowdRise was a success, in that the money goes right up where it's needed without me juggling PayPal stuff, or you guys having to worry about PayPal, which has always been an issue.  So <a href="http://animalacres.org/">Animal Acres</a> gets money (a little less than $750 actually, I think it's closer to $700, which is <em>STILL</em> more than PayPal deducts!) and we get to thank <a href="http://www.crowdrise.com">CrowdRise</a> for their service!
 

@@ -1,6 +1,6 @@
 ---
 id: 1984
-title: 'Jorja&#8217;s CSI Schedule'
+title: 'Jorja's CSI Schedule'
 date: '2009-08-26T08:31:09-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja is scheduled to appear as Sara Sidle in the first five episodes of Season 10.'

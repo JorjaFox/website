@@ -29,7 +29,7 @@ tags:
 ---
 
 I admit, I'm a huge Joni Mitchell fan. She's kooky and weird and I love singing her stuff with my family. I do a mean "Carey" if you must know. So I giggled like a teenager when Stacia clued me in to the photo of Jorja at the reception of Joni's exhibition of sixty
-new artworks titled <i>Green Flag Song / Mixed Media Originals</i>. The exhibit was on display from Nov. 10, 2006 until Jan. 18, 2007.
+new artworks titled _Green Flag Song / Mixed Media Originals_. The exhibit was on display from Nov. 10, 2006 until Jan. 18, 2007.
 
 https://www.facebook.com/jonimitchellfans1/photos/a.868489573200174.1073741841.182518505130621/1086585181390611/?type=3&amp;permPage=1
 

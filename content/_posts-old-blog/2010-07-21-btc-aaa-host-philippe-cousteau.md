@@ -27,7 +27,7 @@ Be The Change co-hosted the Update on the Gulf briefing, given by the Artists an
 
 http://www.youtube.com/watch?v=VpL0mApyfJE
 
-<strong>Jorja Fox:</strong> ... and thought provoking and, I think, most importantly, most everybody who was here tonight I think left with a sense of like 'Hey I can do something about this.' and 'What can I do?' and 'What should I do tomorrow?' and that's really a sort of good feeling amidst a lot of horrible feelings.  It was awesome.
+**Jorja Fox:** ... and thought provoking and, I think, most importantly, most everybody who was here tonight I think left with a sense of like 'Hey I can do something about this.' and 'What can I do?' and 'What should I do tomorrow?' and that's really a sort of good feeling amidst a lot of horrible feelings.  It was awesome.
 
 For more information on the event, visit Service Nation and be the change!
 

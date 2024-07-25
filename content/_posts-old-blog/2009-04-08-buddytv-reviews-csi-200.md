@@ -1,6 +1,6 @@
 ---
 id: 1775
-title: 'BuddyTV Reviews CSI&#8217;s 200th Episode (and misses Jorja too!)'
+title: 'BuddyTV Reviews CSI's 200th Episode (and misses Jorja too!)'
 date: '2009-04-08T12:47:49-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI reached 200 episodes, but maybe you weren''t the only ones who felt something (someone) was missing. BuddyTV Guest Blogger, Abi Kirk, misses Jorja too.'

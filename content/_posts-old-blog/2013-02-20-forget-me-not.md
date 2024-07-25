@@ -1,6 +1,6 @@
 ---
 id: 6414
-title: '&#8220;Forget Me Not&#8221; Discussion Post'
+title: '"Forget Me Not" Discussion Post'
 date: '2013-02-20T13:21:50-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara becomes a suspect after a brief encounter with another man. What about Grissom? Did she... or didn''t she? And will she ... or won''t she?'
@@ -32,7 +32,7 @@ Sara Sidle is accused of killing a man she met in a hotel, stabbing him seven ti
 <blockquote>"Forget Me Not" — Sara is a lead suspect in an investigation after a brief encounter with another man in which she was the last person to see him alive. Also, her separation from Grissom begins to take a toll, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Feb. 20 (10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>
 Things we know: Her mother is in town, brought (somehow) by Ronald Basderic (from "Code Blue Plate Special") as part of an elaborate frame for the murder of some poor guy. Also there's a lot going on with GSR, in that Sara's clearly not happy about everything. That said, she <em>is</em> wearing her ring at the beginning of the episode.
 
-<strong>Videos</strong>
+**Videos**
 
 http://www.youtube.com/watch?v=1FA7wbV_pjM
 
@@ -42,7 +42,7 @@ http://www.youtube.com/watch?v=1FA7wbV_pjM
 
 [video mp4="//static.jorjafox.net/videos/tv/csi/13x15-cbssneak.mp4" ogg="//static.jorjafox.net/videos/tv/csi/13x15-cbssneak.ogv" webm="//static.jorjafox.net/videos/tv/csi/13x15-cbssneak.webm"]
 
-<strong>Tweets of Note</strong>
+**Tweets of Note**
 
 https://twitter.com/CSIWritersRoom/statuses/303679478197010432
 
@@ -50,7 +50,7 @@ https://twitter.com/ShaneSSaunders/status/303950287020912640
 
 https://twitter.com/CSI_CBS/status/303969645038288896
 
-<strong>Images</strong>
+**Images**
 
 <a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/promos/15-forget-csifiles01.jpg"><img alt="" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s13/promos/15-forget-csifiles01_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a> <a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/promos/15-forget-csifiles02.jpg"><img alt="" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s13/promos/15-forget-csifiles02_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a> <a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/promos/15-forget-csifiles03.jpg"><img alt="" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s13/promos/15-forget-csifiles03_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a> <a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/promos/15-forget-csifiles04.jpg"><img alt="" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s13/promos/15-forget-csifiles04_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a> <a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/promos/15-forget-csifiles05.jpg"><img alt="" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s13/promos/15-forget-csifiles05_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a> <a href="//static.jorjafox.net/wordpress/2013/01/391782_465848766798306_1315487482_n.jpeg"><img alt="Karen Gaviola, Ted Danson, and I working our way out of the terrifying and mean worm hole called episode 15." src="//static.jorjafox.net/wordpress/2013/01/391782_465848766798306_1315487482_n-300x225.jpeg" width="170" /></a>
 

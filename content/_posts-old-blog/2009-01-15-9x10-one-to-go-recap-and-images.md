@@ -1,6 +1,6 @@
 ---
 id: 1422
-title: '9&#215;10 &#8220;One to Go&#8221; &#8211; Recap, Images and Video'
+title: '9&#215;10 "One to Go" — Recap, Images and Video'
 date: '2009-01-15T22:28:43-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Grissom''s farewell to the lab included a surprise (not to us) appearance by Jorja Fox as Sara Sidle in the final scene. Partake of a recap, screencaps and a video from "One to Go".'

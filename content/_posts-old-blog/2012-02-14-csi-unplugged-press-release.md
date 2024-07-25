@@ -21,8 +21,8 @@ tags:
 ---
 
 <img class="alignleft size-thumbnail wp-image-4335" title="csi-unplugged" src="//static.jorjafox.net/wordpress/2012/02/csi-unplugged-210x140.jpg" alt="" width="100" height="75" />Having already seen Jorja in the dark for this episode, we know we get some Sara in CSI Unplugged.
-<blockquote><strong>A CHILD ABDUCTION DURING A CITY-WIDE BLACKOUT HAS THE CSI TEAM REVERTING TO OLD SCHOOL METHODS TO SOLVE THE CASE, ON "CSI: CRIME SCENE INVESTIGATION," WEDNESDAY, FEB. 29</strong>
+<blockquote>**A CHILD ABDUCTION DURING A CITY-WIDE BLACKOUT HAS THE CSI TEAM REVERTING TO OLD SCHOOL METHODS TO SOLVE THE CASE, ON "CSI: CRIME SCENE INVESTIGATION," WEDNESDAY, FEB. 29**
 
-<strong>CHEAT TWEET: No electricity and no up-to-date equipment can't stop the CSI team from finding a missing child, 2/29 @10pm, ET/PT #CSI</strong>
+**CHEAT TWEET: No electricity and no up-to-date equipment can't stop the CSI team from finding a missing child, 2/29 @10pm, ET/PT #CSI**
 
 "CSI Unplugged" – When a blackout cripples the city, the CSIs must revert to old-school methods to solve the case of a missing child, on CSI: CRIME SCENE INVESTIGATION Wednesday, Feb. 29 (10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>

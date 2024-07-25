@@ -1,6 +1,6 @@
 ---
 id: 11492
-title: '&#8220;Girls Gone Wilder&#8221; Sneak Peek'
+title: '"Girls Gone Wilder" Sneak Peek'
 date: '2014-10-26T08:47:17-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A sneak peek of tonight''s CSI!'

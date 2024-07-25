@@ -19,7 +19,7 @@ I feel safe in stating that, at this juncture, every denizen of Bulldog Nation i
 It is time, therefore, to decide . . .
 
 <center>
-  <strong>Who's your favorite Fox?</strong>
+  **Who's your favorite Fox?**
 </center>
 
 Explanations for each of the options in the attached poll follow after the jump.

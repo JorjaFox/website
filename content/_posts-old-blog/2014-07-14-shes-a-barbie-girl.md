@@ -1,6 +1,6 @@
 ---
 id: 11054
-title: 'She&#8217;s a Barbie Girl?'
+title: 'She's a Barbie Girl?'
 date: '2014-07-14T15:54:42-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Life in plastic. It''s fantastic.'

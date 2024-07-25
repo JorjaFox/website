@@ -1,6 +1,6 @@
 ---
 id: 5769
-title: '&#8220;Fallen Angels&#8221; Screencaps and Recap'
+title: '"Fallen Angels" Screencaps and Recap'
 date: '2012-11-15T14:09:54-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four Stars for Sara.'

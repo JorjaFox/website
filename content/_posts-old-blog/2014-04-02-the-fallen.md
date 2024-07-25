@@ -1,6 +1,6 @@
 ---
 id: 10293
-title: '&#8220;The Fallen&#8221; Discussion Post'
+title: '"The Fallen" Discussion Post'
 date: '2014-04-02T13:00:43-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: "Russell is taken hostage! What will he do to save himself and others from a teenager gone mad?  CSI on CBS 10pm ET/PT tonight!\r\n"

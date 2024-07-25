@@ -1,6 +1,6 @@
 ---
 id: 4203
-title: 'CSI 12&#215;11: &#8220;Ms. Willows Regrets&#8221; Discussion Post'
+title: 'CSI 12&#215;11: "Ms. Willows Regrets" Discussion Post'
 date: '2012-01-18T01:00:23-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Assassins, FBI, old friends and a farewell, all on tonight''s CSI.'
@@ -25,7 +25,7 @@ tags:
 <h3>Unofficial Release</h3>
 When Catherine works with the FBI again after a professional hit occurs at a law firm she recommended to her friend, Laura (remember her with the mogul husband, Mark, who has a lot to hide behind his successful corporation?), the CSI team identifies shocking similarities at the crime scene. Did Mark hire the hit men to kill his own wife?
 
-<strong>Spoilers/Hints</strong>
+**Spoilers/Hints**
 
 https://twitter.com/ShaneSSaunders/status/159729193943449600
 

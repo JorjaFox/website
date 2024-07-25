@@ -1,6 +1,6 @@
 ---
 id: 3059
-title: 'CSI 11&#215;13 &#8220;The Two Mrs. Grissoms&#8221; Stills'
+title: 'CSI 11&#215;13 "The Two Mrs. Grissoms" Stills'
 date: '2011-01-20T17:48:28-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'That sound of a million people going *squeeeeee-THUMP* was probably because we''ve got pictures of Sara, in an evening dress. Oh yes.'

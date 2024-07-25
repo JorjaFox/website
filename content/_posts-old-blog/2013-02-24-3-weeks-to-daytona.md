@@ -1,6 +1,6 @@
 ---
 id: 6642
-title: '&#8220;3 Weeks to Daytona&#8221; Recap and Screencaps'
+title: '"3 Weeks to Daytona" Recap and Screencaps'
 date: '2013-02-24T14:24:20-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A review and thoughts on "3 Weeks to Daytona", plus screencaps and a video clip.'

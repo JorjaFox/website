@@ -1,6 +1,6 @@
 ---
 id: 6635
-title: '&#8220;Last Woman Standing&#8221; Promo'
+title: '"Last Woman Standing" Promo'
 date: '2013-02-23T19:13:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It looks like Aces and Eights aren''t the only deadly hand in Vegas. Poker players lose their chips on the next CSI.'

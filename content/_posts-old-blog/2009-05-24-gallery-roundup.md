@@ -35,15 +35,15 @@ tags:
 
 Various pictures of Jorja that were slipped into the Gallery recently didn't quite merit their own post. Have a great Memorial Day weekend, folks!
 
-<strong>CSI - Season Eight</strong>
+**CSI - Season Eight**
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/pub/s08/stills/801-deaddoll_003.jpg">Dustin Lee Abraham and cast on the set of Dead Doll</a>
 
-<strong><a href="https://jorjafox.net/gallery/pub/political/20081210-noonh8/">The Ian Harvie Show - No on H8!</a></strong>
+**<a href="https://jorjafox.net/gallery/pub/political/20081210-noonh8/">The Ian Harvie Show - No on H8!</a>**
 &bull; <a href="https://jorjafox.net/gallery/pub/political/20081210-noonh8/noonh8-05.jpg">Jorja and the cast of No on H8!</a>
 &bull; <a href="https://jorjafox.net/gallery/pub/political/20081210-noonh8/noonh8-06.jpg">Jorja and the cast of No on H8!</a>
 &bull; <a href="https://jorjafox.net/gallery/pub/political/20081210-noonh8/noonh8-07.jpg">Jorja and the cast of No on H8!</a>
 &bull; <a href="https://jorjafox.net/gallery/pub/political/20081210-noonh8/noonh8-08.jpg">Jorja and the cast of No on H8!</a>
 
-<strong><a href="https://jorjafox.net/gallery/pub/political/20080825-dnc/">2008 DNC</a></strong>
+**<a href="https://jorjafox.net/gallery/pub/political/20080825-dnc/">2008 DNC</a>**
 &bull; <a href="https://jorjafox.net/gallery/pub/political/20080825-dnc/dnc-vermontgmg.jpg">Jorja and VermontGMG</a>
 &bull; <a href="https://jorjafox.net/gallery/pub/political/20080825-dnc/dnc-unknown02.jpg">Jorja and other people (by Laurie Scavo</a>

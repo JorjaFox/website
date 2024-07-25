@@ -1,6 +1,6 @@
 ---
 id: 9226
-title: '&#8220;Under a Cloud&#8221; Screencaps and Recap'
+title: '"Under a Cloud" Screencaps and Recap'
 date: '2013-11-07T06:00:18-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara''s life may have flashed before her eyes, but not ours. She survived the bomb.'

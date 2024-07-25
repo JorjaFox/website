@@ -1,6 +1,6 @@
 ---
 id: 13606
-title: 'EW: The best &#8216;CSI&#8217; moments of all time'
+title: 'EW: The best &#8216;CSI' moments of all time'
 date: '2015-09-26T04:00:35-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'How many of their favorites are yours too? How many did they miss?'

@@ -1,6 +1,6 @@
 ---
 id: 19076
-title: 'Run Up to &#8220;Signed, Sealed, Delivered&#8221;'
+title: 'Run Up to "Signed, Sealed, Delivered"'
 date: '2021-12-06T10:50:51-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Everything ran by so fast, the end will be here Wednesday!'
@@ -52,7 +52,7 @@ tags:
     - video
 ---
 
-<p>The end is coming soon, only two more days!</p>
+The end is coming soon, only two more days!
 
 <h2 id="h-promo-video">Promo Video</h2>
 
@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=ccZvDx-wlrU
 
 <h2 id="h-access-hollywood">Access Hollywood</h2>
 
-<p>Jorja will be on Access Hollywood <strong>tomorrow</strong>:</p>
+Jorja will be on Access Hollywood **tomorrow**:
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
 https://twitter.com/JorjaFoxofficia/status/1467915145787719689

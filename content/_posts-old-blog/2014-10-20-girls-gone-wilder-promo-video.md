@@ -1,6 +1,6 @@
 ---
 id: 11449
-title: '&#8220;Girls Gone Wilder&#8221; Promo Video'
+title: '"Girls Gone Wilder" Promo Video'
 date: '2014-10-20T12:12:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara, Morgan, and Finn get a spa day. Yeah, right.'

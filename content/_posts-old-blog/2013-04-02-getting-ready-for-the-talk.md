@@ -1,6 +1,6 @@
 ---
 id: 6918
-title: 'Getting Ready for &#8220;The Talk&#8221;'
+title: 'Getting Ready for "The Talk"'
 date: '2013-04-02T11:43:17-07:00'
 author: 'JF Guest Author'
 excerpt: 'Makeup! Behind the scenes snaps of Jorja Fox getting ready for The Talk.'
@@ -27,7 +27,7 @@ http://instagram.com/p/XnLuNAFxj3/
 https://twitter.com/CharlesDujic/status/319155224222789633
 
 
-<a href="https://twitter.com/platinumbl0ndie/status/319148036125241345/">And from the audience</a>: 
+<a href="https://twitter.com/platinumbl0ndie/status/319148036125241345/">And from the audience</a>:
 
 http://instagram.com/p/XnJeB-sg5f/
 

@@ -1,6 +1,6 @@
 ---
 id: 3872
-title: 'CSI 12&#215;03 &#8220;Bittersweet&#8221; Sneak Peek'
+title: 'CSI 12&#215;03 "Bittersweet" Sneak Peek'
 date: '2011-10-04T14:45:19-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Lots of Sara in a sneak peek for you!  (Available everywhere)'

@@ -1,6 +1,6 @@
 ---
 id: 2010
-title: 'CSI Experience Opens in Las Vegas &#8211; Sept 12th'
+title: 'CSI Experience Opens in Las Vegas — Sept 12th'
 date: '2009-09-08T12:01:28-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja will be in Las Vegas on Sept 12th, for the opening of the CSI Experience at the MGM Grand.'
@@ -38,22 +38,22 @@ tags:
 At long last, the city that spawned <em>CSI</em> will get a chance to host the CSI Experience.  Having been to the one in Chicago, I would recommend going. It's a fun exhibit and while it doesn't quite make you feel like you're a CSI, it does give you little fan-girl (and boy) moments of glee when you outsmart the game.
 
 <blockquote id="tw3842537808" class="aTweet" cite="http://twitter.com/DaynaRoselli/status/3842537808">
-	<p>CSI Experience Red Carpet this Saturday at MGM.  I have the list of cast members attending.... here they are.... continuing tweet....
-</p>
-	<p><cite>-@<a href="http://twitter.com/DaynaRoselli" title="Twitter page : Dayna Roselli" rel="external">DaynaRoselli</a> (Dayna Roselli), <a href="http://twitter.com/DaynaRoselli/status/3842537808" rel="external">8-9-2009 15:54:55</a></cite></p>
+	CSI Experience Red Carpet this Saturday at MGM.  I have the list of cast members attending.... here they are.... continuing tweet....
+
+	<cite>-@<a href="http://twitter.com/DaynaRoselli" title="Twitter page : Dayna Roselli" rel="external">DaynaRoselli</a> (Dayna Roselli), <a href="http://twitter.com/DaynaRoselli/status/3842537808" rel="external">8-9-2009 15:54:55</a></cite>
 
 </blockquote><br />
 <blockquote id="tw3842558041" class="aTweet" cite="http://twitter.com/DaynaRoselli/status/3842558041">
-	<p>CSI Cast Confirmed: Marg Helgenberger, George Eads, Jorja Fox, Robert David Hall, David Berman, Liz Vassey, Eric Szmanda, Wallace Langham.
-</p>
-	<p><cite>-@<a href="http://twitter.com/DaynaRoselli" title="Twitter page : Dayna Roselli" rel="external">DaynaRoselli</a> (Dayna Roselli), <a href="http://twitter.com/DaynaRoselli/status/3842558041" rel="external">8-9-2009 15:56:01</a></cite></p>
+	CSI Cast Confirmed: Marg Helgenberger, George Eads, Jorja Fox, Robert David Hall, David Berman, Liz Vassey, Eric Szmanda, Wallace Langham.
+
+	<cite>-@<a href="http://twitter.com/DaynaRoselli" title="Twitter page : Dayna Roselli" rel="external">DaynaRoselli</a> (Dayna Roselli), <a href="http://twitter.com/DaynaRoselli/status/3842558041" rel="external">8-9-2009 15:56:01</a></cite>
 </blockquote><br />
 <blockquote id="tw3843043999" class="aTweet" cite="http://twitter.com/DaynaRoselli/status/3843043999">
-	<p>CSI Experience opens Sept. 13th.  Tickets cost 30 dollars.  Cast red carpet <a href="http://www.twitter.com/mgmgrand" rel="external">@mgmgrand</a> 7 p.m Sat. Sept. 12th
+	CSI Experience opens Sept. 13th.  Tickets cost 30 dollars.  Cast red carpet <a href="http://www.twitter.com/mgmgrand" rel="external">@mgmgrand</a> 7 p.m Sat. Sept. 12th
 
-</p>
-	<p><cite>-@<a href="http://twitter.com/DaynaRoselli" title="Twitter page : Dayna Roselli" rel="external">DaynaRoselli</a> (Dayna Roselli), <a href="http://twitter.com/DaynaRoselli/status/3843043999" rel="external">8-9-2009 16:21:23</a></cite></p>
-</blockquote> 
- 
+
+	<cite>-@<a href="http://twitter.com/DaynaRoselli" title="Twitter page : Dayna Roselli" rel="external">DaynaRoselli</a> (Dayna Roselli), <a href="http://twitter.com/DaynaRoselli/status/3843043999" rel="external">8-9-2009 16:21:23</a></cite>
+</blockquote>
+
 
 Tickets can be purchased at <a href="http://www.mgmgrand.com/entertainment/csi-the-experience.aspx">mgmgrand.com</a>.

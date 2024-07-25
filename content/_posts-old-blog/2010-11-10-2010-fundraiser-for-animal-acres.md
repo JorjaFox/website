@@ -28,7 +28,7 @@ So this Holiday Season, I'm running a fundraiser, but I'm doing it differently. 
 
 <a href="http://www.crowdrise.com/jfo-animalacres2010/"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /></a>
 
-Go to <strong><a href="http://www.crowdrise.com/jfo-animalacres2010/">http://www.crowdrise.com/jfo-animalacres2010/</a></strong> and donate by <strong>January 15, 2011</strong>.  I set the goal of $500 kind of arbitrarily, based on the last couple fundraisers.  If we make it, great! If not? Hey, we still did something!  Don't stress on that one too much.
+Go to **<a href="http://www.crowdrise.com/jfo-animalacres2010/">http://www.crowdrise.com/jfo-animalacres2010/</a>** and donate by **January 15, 2011**.  I set the goal of $500 kind of arbitrarily, based on the last couple fundraisers.  If we make it, great! If not? Hey, we still did something!  Don't stress on that one too much.
 
 If you want to join the fundraising team and help spread the word, let me know!
 

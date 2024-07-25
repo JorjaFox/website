@@ -1,6 +1,6 @@
 ---
 id: 9437
-title: '&#8220;Girls Gone Wild&#8221; Sneak Peek'
+title: '"Girls Gone Wild" Sneak Peek'
 date: '2013-11-26T16:00:45-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Shootings, helicopters, and Sara Sidle. It''s all you ever wanted in a sneak peek, isn''t it?'

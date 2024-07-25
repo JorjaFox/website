@@ -20,7 +20,7 @@ tags:
 
 Pull no punches, CBS!
 <blockquote>FIVE PEOPLE ARE KILLED IN A PLANE CRASH A MILE OFF THE VEGAS STRIP AND THE CSI TEAM IS CALLED TO INVESTIGATE, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, DEC. 12
-<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2012/11/rbc-small.png"><img class="size-full wp-image-5991 aligncenter" title="rbc-small" src="//static.jorjafox.net/wordpress/2012/11/rbc-small.png" alt="" width="350" height="233" /></a></p>
+<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2012/11/rbc-small.png"><img class="size-full wp-image-5991 aligncenter" title="rbc-small" src="//static.jorjafox.net/wordpress/2012/11/rbc-small.png" alt="" width="350" height="233" /></a>
 Guest Stars Include Pamela Reed as Donna Hoppe
 
 And Josh Randall as an NTSB Investigator

@@ -1,6 +1,6 @@
 ---
 id: 7651
-title: 'Jorja at Roosevelt Park&#8217;s HIBAE Screening'
+title: 'Jorja at Roosevelt Park's HIBAE Screening'
 date: '2013-08-08T13:04:35-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Photos from Jorja at the August 3rd screening of "How I Became an Elephant"'

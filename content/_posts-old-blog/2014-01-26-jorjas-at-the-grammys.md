@@ -1,6 +1,6 @@
 ---
 id: 9787
-title: 'Jorja&#8217;s at the Grammys!'
+title: 'Jorja's at the Grammys!'
 date: '2014-01-26T16:21:05-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Get to the TV! Jorja''s at the Grammys!'

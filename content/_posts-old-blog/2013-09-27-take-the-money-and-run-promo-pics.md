@@ -1,6 +1,6 @@
 ---
 id: 8572
-title: '&#8220;Take the Money and Run&#8221; Promo Pics'
+title: '"Take the Money and Run" Promo Pics'
 date: '2013-09-27T16:53:09-07:00'
 author: 'JF Guest Author'
 excerpt: 'Two promotional photos of Jorja from next week''s CSI.'

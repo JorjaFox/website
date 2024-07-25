@@ -1,6 +1,6 @@
 ---
 id: 4542
-title: 'CSI 12&#215;22 &#8220;Homecoming&#8221; Press Release'
+title: 'CSI 12&#215;22 "Homecoming" Press Release'
 date: '2012-04-24T16:56:15-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '3 bodies and unanswered questions have the CSI team searching for answers  #CSI 5/9 10pm ET/PT #TeamInTrouble'

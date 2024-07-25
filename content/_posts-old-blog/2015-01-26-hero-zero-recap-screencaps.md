@@ -1,6 +1,6 @@
 ---
 id: 12696
-title: '&#8220;Hero to Zero&#8221; Recap and Screencaps'
+title: '"Hero to Zero" Recap and Screencaps'
 date: '2015-01-26T11:00:49-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four stars for the second half of the double-header!'

@@ -1,6 +1,6 @@
 ---
 id: 2166
-title: 'Reminder &#8211; Spotlight Humane: Chicago'
+title: 'Reminder — Spotlight Humane: Chicago'
 date: '2010-01-04T16:21:54-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Going to be in Chicago on February 27th? Jorja Fox is expected to host the Fifth Annual Spotlight Humane: Chicago. This is a repost to remind folks that it''s only 2 months away!'

@@ -1,6 +1,6 @@
 ---
 id: 6682
-title: '&#8220;Last Woman Standing&#8221; Screencaps and Recap'
+title: '"Last Woman Standing" Screencaps and Recap'
 date: '2013-02-28T06:32:58-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'And here you thought Aces and Eights was the only killing hand in Poker.'

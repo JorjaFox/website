@@ -1,6 +1,6 @@
 ---
 id: 3879
-title: 'Jorja On Issues &#8211; Oct 6th'
+title: 'Jorja On Issues — Oct 6th'
 date: '2011-10-05T19:28:03-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja will, once again, be on "Issues with Jane" to talk about issues!  This time it''s Asian Elephants!'

@@ -1,6 +1,6 @@
 ---
 id: 10230
-title: 'That&#8217;s a Wrap on Fourteen'
+title: 'That's a Wrap on Fourteen'
 date: '2014-03-23T09:00:31-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Time to take a long break and enjoy the summer!'

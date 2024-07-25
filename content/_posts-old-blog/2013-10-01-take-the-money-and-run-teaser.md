@@ -1,6 +1,6 @@
 ---
 id: 8624
-title: '&#8220;Take The Money and Run&#8221; Teaser'
+title: '"Take The Money and Run" Teaser'
 date: '2013-10-01T14:55:00-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'More than a million dollars, in chips, were stolen! Dun dun dun! Oh, and yes, Sara''s in the clip.'

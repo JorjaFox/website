@@ -1,6 +1,6 @@
 ---
 id: 5568
-title: '&#8220;Pick and Roll&#8221; Promo'
+title: '"Pick and Roll" Promo'
 date: '2012-11-05T10:12:44-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja''s not in the promo, but she is in the episode.'

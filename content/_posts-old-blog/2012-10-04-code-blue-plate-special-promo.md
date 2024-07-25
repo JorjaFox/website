@@ -1,6 +1,6 @@
 ---
 id: 5245
-title: 'CSI 13&#215;02 &#8220;Code Blue Plate Special&#8221; Promo'
+title: 'CSI 13&#215;02 "Code Blue Plate Special" Promo'
 date: '2012-10-04T13:54:24-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Video clip for next week.'

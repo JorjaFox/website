@@ -8,7 +8,7 @@ slug: csi-vegas
 imdb: http://www.imdb.com/title/tt12887536/
 website: https://www.cbs.com/shows/csi-vegas/
 gallery: https://jorjafox.net/gallery/tv/csi-vegas/
-image: /img/actor/csi-vegas.jpg
+image: /img/actors/csi-vegas.jpg
 episodelist: true
 aliases:
   - /self/csi-vegas/

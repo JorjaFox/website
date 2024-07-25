@@ -1,6 +1,6 @@
 ---
 id: 6324
-title: '&#8220;Exile&#8221; Promo Video'
+title: '"Exile" Promo Video'
 date: '2013-02-09T18:58:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSIs investigate the demise of a famous Cuban singer''s sister who''s in town as part of a U.S. tour.'
@@ -23,4 +23,4 @@ http://www.youtube.com/watch?v=E2Ta0mOLuBE
 
 It's not my favorite episode when the promo only shows the back of Jorja's head, but hey, look! She's in this episode too!
 <blockquote>The CSIs investigate the demise of a famous Cuban singer's sister who's in town as part of a U.S. tour. Meanwhile, Hodges begins to get cold feet at the prospect of marrying his Italian bombshell girlfriend on the next episode of CSI: airing Wednesday at 10/9c. Only CBS</blockquote>
-If you can't see the video <strong>click here</strong>.
+If you can't see the video **click here**.

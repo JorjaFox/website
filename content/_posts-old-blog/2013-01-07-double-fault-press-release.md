@@ -1,6 +1,6 @@
 ---
 id: 6165
-title: '&#8220;Double Fault&#8221; Press Release'
+title: '"Double Fault" Press Release'
 date: '2013-01-07T16:39:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Blondes, bombshells, and tennis deaths. It can only be a new CSI on January 23rd.'

@@ -1,6 +1,6 @@
 ---
 id: 4092
-title: 'Marg Helgenberger&#8217;s Tearful &#8216;CSI&#8217; Goodbye'
+title: 'Marg Helgenberger's Tearful &#8216;CSI' Goodbye'
 date: '2011-12-07T09:16:31-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Marg can''t make it through without crying, but her tenure on CSI has come to an end.'

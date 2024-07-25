@@ -1,6 +1,6 @@
 ---
 id: 7042
-title: 'CSI &#8220;Fearless&#8221; Press Release'
+title: 'CSI "Fearless" Press Release'
 date: '2013-04-16T14:26:53-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Could a mud bath lead to a permanent dirt nap? The CSI team investigates a spiritual retreat. '

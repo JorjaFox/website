@@ -25,21 +25,21 @@ tags:
 Why the ladies who brought you "The Two Mrs. Grissoms" for goodness sake!
 
 Here's an excerpt of the interview, which you can <a href="http://www.csifiles.com/content/2012/02/interview-treena-hancock-melissa-r-byer/">read in full on CSI Files</a>:
-<blockquote><strong>CSI Files</strong>: This is your second season on the show, but you guys are two of just a handful of writers who’ve gotten to write for all three leads: <strong>William Petersen</strong> (Gil Grissom), <strong>Laurence Fishburne</strong> (Ray Langston), and <strong>Ted Danson</strong>. How does that feel?
+<blockquote>**CSI Files**: This is your second season on the show, but you guys are two of just a handful of writers who’ve gotten to write for all three leads: **William Petersen** (Gil Grissom), **Laurence Fishburne** (Ray Langston), and **Ted Danson**. How does that feel?
 
-<strong>Hancock</strong>: I never thought of it that way. That’s pretty cool. [Laughs.]
+**Hancock**: I never thought of it that way. That’s pretty cool. [Laughs.]
 
-<strong>Byer</strong>: We were so excited to get Billy to come in and do <a href="http://www.csifiles.com/episodes/csi/season11/the_two_mrs_grissoms.shtml" target="_blank">“The Two Mrs Grissoms.”</a> It was great meeting him, we loved working with Laurence, and Ted is awesome. He’s so funny and sweet. It was so cool for us getting to work with the original members and we’re so glad that we got to work with <strong>Marg</strong>[<strong>Helgenberger</strong>, Catherine Willows] and now to be introducing the new character.
+**Byer**: We were so excited to get Billy to come in and do <a href="http://www.csifiles.com/episodes/csi/season11/the_two_mrs_grissoms.shtml" target="_blank">“The Two Mrs Grissoms.”</a> It was great meeting him, we loved working with Laurence, and Ted is awesome. He’s so funny and sweet. It was so cool for us getting to work with the original members and we’re so glad that we got to work with **Marg**[**Helgenberger**, Catherine Willows] and now to be introducing the new character.
 
-<strong>CSI Files</strong>: I want to share a quote that <strong>Jorja Fox</strong> (Sara Sidle) <a href="http://www.csifiles.com/content/2011/09/interview-jorja-fox/" target="_blank">gave me </a>about you two back in September: “Melissa [Byer, Co-Executive Producer] and Treena [Hancock, Co-Executive Producer], watch out for those two. They have two of the darkest minds that I’ve ever met. [Laughs.] They’re really unassuming, sweet… like you would never in a million years think these two ladies were writing for <em>CSI</em> and writing some of our darkest stuff.” So I have to ask, which one of you has the darkest mind?
+**CSI Files**: I want to share a quote that **Jorja Fox** (Sara Sidle) <a href="http://www.csifiles.com/content/2011/09/interview-jorja-fox/" target="_blank">gave me </a>about you two back in September: “Melissa [Byer, Co-Executive Producer] and Treena [Hancock, Co-Executive Producer], watch out for those two. They have two of the darkest minds that I’ve ever met. [Laughs.] They’re really unassuming, sweet… like you would never in a million years think these two ladies were writing for <em>CSI</em> and writing some of our darkest stuff.” So I have to ask, which one of you has the darkest mind?
 
-<strong>Byer</strong>: [Laughs.] Well, together we’re kind of a brain.
+**Byer**: [Laughs.] Well, together we’re kind of a brain.
 
-<strong>Hancock</strong>: Yeah, I don’t think we can really say which one. It kind of depends on the day. That’s a hard one.
+**Hancock**: Yeah, I don’t think we can really say which one. It kind of depends on the day. That’s a hard one.
 
-<strong>Byer</strong>: I think Jorja’s got it all wrong. [Laughs.] We like to say it’s our unassuming Canadian style, but we like writing the dark stuff.
+**Byer**: I think Jorja’s got it all wrong. [Laughs.] We like to say it’s our unassuming Canadian style, but we like writing the dark stuff.
 
-<strong>Hancock</strong>: We like it when we can balance it with a sense of humor, rather than dark for the sake of being dark.</blockquote>
+**Hancock**: We like it when we can balance it with a sense of humor, rather than dark for the sake of being dark.</blockquote>
 Credit: <a href="http://www.csifiles.com/content/2012/02/interview-treena-hancock-melissa-r-byer/">CSI Files</a>
 
 Now go read the rest and don't forget to watch "Stealing Home" on <em>CSI</em> this Wednesday.

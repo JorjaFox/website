@@ -1,6 +1,6 @@
 ---
 id: 7054
-title: 'Press Release &#8220;Ghosts of the Past&#8221;'
+title: 'Press Release "Ghosts of the Past"'
 date: '2013-04-22T17:08:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Do you believe in ghosts? Probably not, since you watch CSI, but how about a dead ghost hunter? Ahhh, got your attention now!'

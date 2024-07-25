@@ -1,6 +1,6 @@
 ---
 id: 7325
-title: 'Jorja Visited Lion Ark&#8217;s Studio'
+title: 'Jorja Visited Lion Ark's Studio'
 date: '2013-06-04T11:39:54-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A still from the upcoming movie about Lion Ark.'

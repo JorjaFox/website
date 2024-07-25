@@ -6,7 +6,7 @@ tags: ["movies"]
 slug: "kill-off"
 gallery: https://jorjafox.net/gallery/movies/kill-off/
 imdb: https://www.imdb.com/title/tt0097665/
-image: /img/actor/the-kill-off.jpg
+image: /img/actors/the-kill-off.jpg
 ---
 
 ## Synopsis

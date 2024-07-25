@@ -1,6 +1,6 @@
 ---
 id: 11813
-title: '&#8220;Merchants of Menace&#8221; Promo'
+title: '"Merchants of Menace" Promo'
 date: '2015-01-06T03:42:47-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Murdering someone with a weapon already used for murder. Nifty.'

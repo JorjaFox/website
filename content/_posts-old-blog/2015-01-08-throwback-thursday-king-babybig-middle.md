@@ -1,6 +1,6 @@
 ---
 id: 11853
-title: 'Throwback Thursday &#8211; King Baby/Big Middle'
+title: 'Throwback Thursday — King Baby/Big Middle'
 date: '2015-01-08T20:34:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Let''s go way back when Billy had a black beard.'

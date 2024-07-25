@@ -1,6 +1,6 @@
 ---
 id: 2737
-title: 'Happy Thanksgiving &#8211; Save a Turkey'
+title: 'Happy Thanksgiving — Save a Turkey'
 date: '2010-11-25T08:00:18-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The US President always pardons one turkey. You can do more.'
@@ -31,13 +31,13 @@ The <a href="https://jorjafox.net/blog/2010-fundraiser-for-animal-acres/">2010 F
 &bull; <a href="https://jorjafox.net/blog/incentive-missing-persons-01x16-screencaps/">Screencaps from Episode 01x16 "Tell me you didn't do it..."</a>
 &bull; <a href="https://jorjafox.net/blog/incentive-missing-persons-01x01-pilot-screencaps/">Screencaps from Episode 01x01 "Pilot"</a>
 &bull; <a href="https://jorjafox.net/blog/incentive-3-missing-persons-pilot-vid-clip/">Video from Episode 01x01 "Pilot" of Connie flashing her badge</a>
-&bull;  <a href="https://jorjafox.net/blog/incentive-4-and-5-video-clip-01x01-and-screencaps-01x02/">Video from Episode 01x01 "Pilot" of Connie setting up a cheating husband <strong>AND</strong> Screencaps for 01x02 "Cabe? ... What kind of name is that?"</a>
+&bull;  <a href="https://jorjafox.net/blog/incentive-4-and-5-video-clip-01x01-and-screencaps-01x02/">Video from Episode 01x01 "Pilot" of Connie setting up a cheating husband **AND** Screencaps for 01x02 "Cabe? ... What kind of name is that?"</a>
 &bull; <a href="https://jorjafox.net/blog/incentive-6-connie-plays-mozart-video-clip-01x02/">Video from 01x02 "Cabe? ... What kind of name is that?" of Connie at the piano</a>
 &bull; <a href="https://jorjafox.net/blog/incentive-7-connie-gets-asked-on-a-date-01x02/">Video from 01x02 "Cabe? ... What kind of name is that?" of Connie being hit on by a married man</a>
 &bull; <a href="https://jorjafox.net/blog/incentive-8-screencaps-for-missing-persons-01x03/">Screencaps from 01x03 "People Don't Talk to Cops, People Lie to Cops"</a>
 &bull; <a href="https://jorjafox.net/blog/incentive-9-video-clip-for-missing-persons-01x03/">Video from 01x03 "People Don't Talk to Cops, People Lie to Cops" of Connie bringing in bagels</a>
 
 Donations are open until January 15th!
-<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br /><strong>Animal Acres Winter 2010 Fundraiser</strong></a></center>
+<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br />**Animal Acres Winter 2010 Fundraiser**</a></center>
 
 <blockquote>"I am pleased to be a supporter of Animal Acres ANIMAL CRUELTY INVESTIGATIONS. Animal Acres investigators go to animal "crime scenes" - our nation's stockyards, factory farms, and slaughterhouses. Documenting what most of us don't want to see, their work uncovers blatant animal cruelties and is helping prevent animal suffering." - Jorja Fox </blockquote>

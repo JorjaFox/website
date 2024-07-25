@@ -1,6 +1,6 @@
 ---
 id: 5319
-title: 'Stewie&#8217;s Guide to World Domination'
+title: 'Stewie's Guide to World Domination'
 date: '2012-10-12T17:20:58-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Stewie will stay up past his bedtime for a little Jorja Fox.'

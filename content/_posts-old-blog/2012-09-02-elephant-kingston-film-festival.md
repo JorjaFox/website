@@ -1,6 +1,6 @@
 ---
 id: 5128
-title: 'How I Became An Elephant &#8211; Kingston Film Festival'
+title: 'How I Became An Elephant — Kingston Film Festival'
 date: '2012-09-02T14:43:57-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Check out "How I Became An Elephant" in Kingston NY, down in the Catskills.'

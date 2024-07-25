@@ -1,6 +1,6 @@
 ---
 id: 8526
-title: '&#8220;The Devil and D.B. Russell&#8221; Screencaps and Recap'
+title: '"The Devil and D.B. Russell" Screencaps and Recap'
 date: '2013-09-28T21:00:23-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'In the end I have to give it three stars for Sara. Five for Brass, and I was caught surprised by that ending too!'
@@ -20,7 +20,7 @@ tags:
 
 The first one of the season is always hardest. Especially when you're not around this weekend. News on the homefront? My cousin's baby was born!
 
-By the way, if you want a quick and easy way to keep up with the news, <a href="https://jorjafox.net/updates/">join the mailing list</a>. It will <strong>only</strong> email you when there's a new post here. No announcements, no spam, no nothing but Jorja.
+By the way, if you want a quick and easy way to keep up with the news, <a href="https://jorjafox.net/updates/">join the mailing list</a>. It will **only** email you when there's a new post here. No announcements, no spam, no nothing but Jorja.
 
 Okay! On the the review!
 

@@ -6,7 +6,7 @@ tags: ["Television"]
 slug: "missing-persons"
 imdb: https://www.imdb.com/title/tt0106067/
 gallery: https://jorjafox.net/gallery/tv/missingpersons/
-image: /img/actor/missingpersons.png
+image: /img/actors/missingpersons.png
 episodelist: true
 ---
 

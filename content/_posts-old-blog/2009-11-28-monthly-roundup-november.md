@@ -1,6 +1,6 @@
 ---
 id: 2100
-title: 'Monthly Roundup &#8211; November'
+title: 'Monthly Roundup — November'
 date: '2009-11-28T21:08:43-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '<em>CSI</em>, saving the world, and a vegan Thanksgiving!  Read about that and what else happened in November here.'
@@ -35,7 +35,7 @@ tags:
     - roundup
 ---
 
-<span class="alignleft" style="width:175px;">[polldaddy poll=2272258]</span> I hope the ads interest you enough that you click on them to check them out, as they are our primary source of income and keeps the site moving and ensure I don't have to beg for donations. 
+<span class="alignleft" style="width:175px;">[polldaddy poll=2272258]</span> I hope the ads interest you enough that you click on them to check them out, as they are our primary source of income and keeps the site moving and ensure I don't have to beg for donations.
 
 <h2>Charity and Fundraisers</h2>
 November was the month JAA and JFO joined forces yet again for charity.  This time it's to raise money for <a href="http://ahopeforchildren.com">AHOPE</a>, to help children in Africa with AIDS.  This fundraiser runs through the end of the year, so please <a href="http://community.livejournal.com/jorjaallaround/607633.html">check out the details</a>
@@ -72,7 +72,7 @@ This month, George Eads had a <a href="http://www.tv.com/story/18820.html?tag=ho
 
 What I got was a slew of hate mail, accusatory PMs, and veiled threats.   As far as I can reason out, George Eads fans were blaming me for the action of Jorja Fox fans, and Jorja Fox fans were claiming I wasn't a 'real' fan because I wasn't defending them against the upset George fans.  The only actual 'argument' I got in about it was with someone who didn't like the name calling, and we ended up agreeing about the whole matter and I now follow her on Twitter.
 
-<a href="//static.jorjafox.net/wordpress/2009/11/NotInternetPolice.jpg"><img src="//static.jorjafox.net/wordpress/2009/11/NotInternetPolice-100x100.jpg" alt="NotInternetPolice" title="NotInternetPolice" width="100" height="100" class="alignleft size-thumbnail wp-image-2125" /></a>  The confusion came, in part, because I show up (in my guise as <strong>Ipstenu</strong>) as an admin on <a href="http://www.yourtaxdollarsatwork.org">YTDaW</a>, and I was posting there as a fan.  To clarify that matter, I'm not an admin on YTDaW. I host them, I run the server, and I assist with technical matters, but I'm not a part of the user/moderator staff, and I have no input in that aspect of the site. That confusion I understand, and I don't fault people for it at all. What I do fault people for is the strange idea that it's my job to police Jorja fans around the net.
+<a href="//static.jorjafox.net/wordpress/2009/11/NotInternetPolice.jpg"><img src="//static.jorjafox.net/wordpress/2009/11/NotInternetPolice-100x100.jpg" alt="NotInternetPolice" title="NotInternetPolice" width="100" height="100" class="alignleft size-thumbnail wp-image-2125" /></a>  The confusion came, in part, because I show up (in my guise as **Ipstenu**) as an admin on <a href="http://www.yourtaxdollarsatwork.org">YTDaW</a>, and I was posting there as a fan.  To clarify that matter, I'm not an admin on YTDaW. I host them, I run the server, and I assist with technical matters, but I'm not a part of the user/moderator staff, and I have no input in that aspect of the site. That confusion I understand, and I don't fault people for it at all. What I do fault people for is the strange idea that it's my job to police Jorja fans around the net.
 
 I am, in no way, responsible in any way shape or form for people acting like prats on any website, other than jorjafox.net.  So whatever punishment you get on those sites has jack to do with me.  I <em>only</em> admin/staff/mod here.  And if I ban you here, I will email you privately to explain why.  Just like you, I'm allowed to have my own personal views on matters related to CSI and Jorja Fox.  When I post here, I try to make it very clear when I'm being 'site admin' and reporting news, and when I'm being Ipstenu-the-Fan and speculating.
 

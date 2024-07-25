@@ -1,6 +1,6 @@
 ---
 id: 11483
-title: '&#8220;Girls Gone Wilder&#8221; Preview #2'
+title: '"Girls Gone Wilder" Preview #2'
 date: '2014-10-23T13:15:32-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'They''re killing CSIs at a CSI convention. Points for efficiency, I guess.'

@@ -1,6 +1,6 @@
 ---
 id: 8985
-title: 'Behind the Scenes of &#8220;Frame by Frame&#8221;'
+title: 'Behind the Scenes of "Frame by Frame"'
 date: '2013-10-22T15:10:04-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A glimpse behind the scenes shows us that the 300th episode will have a lot of Jorja. '
@@ -26,7 +26,7 @@ Credit: <a href="http://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1h
 
 Oh man. I got the sniffles just watching <em>that</em>, mostly because of the music.
 
-Oh and you know, you<i> know</i> I didn't forget you guys outside the US.
+Oh and you know, you_ know_ I didn't forget you guys outside the US.
 <ul>
 	<li><a href="https://jorjafox.net/wiki/CBS_CSI300_EPK_(22_October_2013)">Transcript</a></li>
 	<li><a href="https://jorjafox.net/gallery/tv/csi/extras/2014-csi300epk/">Screencaps</a></li>

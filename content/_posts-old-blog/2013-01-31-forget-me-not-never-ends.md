@@ -1,6 +1,6 @@
 ---
 id: 6254
-title: '&#8216;Forget Me Not&#8217; Never Ends'
+title: '&#8216;Forget Me Not' Never Ends'
 date: '2013-01-31T21:23:38-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A photo from Jorja from episode 15.'

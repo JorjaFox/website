@@ -1,6 +1,6 @@
 ---
 id: 6180
-title: '&#8220;Dead Air&#8221; Recap, Screencaps, and&#8230;'
+title: '"Dead Air" Recap, Screencaps, and&#8230;'
 date: '2013-01-17T08:30:37-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A second five star episode for Sara (two in a row), and some setup for "Forget Me Not." How nice!'

@@ -1,6 +1,6 @@
 ---
 id: 4375
-title: '12&#215;16 &#8220;CSI Unplugged&#8221; Promo'
+title: '12&#215;16 "CSI Unplugged" Promo'
 date: '2012-02-24T09:38:21-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'No phone, no lights, no motor cars, not a single luxury. Like ... Well like trying to solve a crime with no power!'

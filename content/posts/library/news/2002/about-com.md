@@ -18,7 +18,7 @@ newsurl: http://movies.about.com/library/weekly/aa112102f.htm
 
 JORJA FOX: I'm enormously surprised at the success of ?C.S.I.? I think that even in all of our wildest dreams that we could have imagined as great a run as we are having and I'm just thrilled about it. I feel blessed every day. I'm also surprised that, yes, there seems to be an increase in kids wanting to study forensics.
 
-I know that the big joke right now is with law enforcement, when they talk to people, everybody thinks that they can have their crime solved in 40 minutes or at least less than two days. Unfortunately, that's the key to our show. We're hearing about that right now and it'll be interesting to see if the kids stick to it or if it's something that looks more glossy than it is perhaps on a day-to-day basis.</p>
+I know that the big joke right now is with law enforcement, when they talk to people, everybody thinks that they can have their crime solved in 40 minutes or at least less than two days. Unfortunately, that's the key to our show. We're hearing about that right now and it'll be interesting to see if the kids stick to it or if it's something that looks more glossy than it is perhaps on a day-to-day basis.
 
 **How has the reaction been within the law enforcement community? Do you hear mostly positive responses?**
 

@@ -1,6 +1,6 @@
 ---
 id: 2695
-title: 'Incentive 6 &#8211; Connie plays Mozart video clip (01&#215;02)'
+title: 'Incentive 6 — Connie plays Mozart video clip (01&#215;02)'
 date: '2010-11-14T16:56:37-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'You did it again! Another donation means another media clip!  This time it''s a video clip from "Cabe? ... What kind of name is that?"'
@@ -29,6 +29,6 @@ I've decided the only annoying thing about <em>Missing Persons</em> is the episo
 http://www.youtube.com/watch?v=00G0Fa-j41Q
 
 Want to see more? Then donate and you'll get video clips and images galore!  Click here:
-<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br /><strong>Animal Acres Winter 2010 Fundraiser</strong></a></center>
+<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br />**Animal Acres Winter 2010 Fundraiser**</a></center>
 
 I'm going to limit these to once-a-day posts so I don't spend my WHOLE day running around, and instead just a couple hours of work for everything. That means there can be a bit of a lag between posts.  Don't think I've forgotten you!

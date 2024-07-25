@@ -1,6 +1,6 @@
 ---
 id: 10561
-title: 'CSI&#8217;s Ultimate Look Back: Season 14'
+title: 'CSI's Ultimate Look Back: Season 14'
 date: '2014-04-16T12:48:24-07:00'
 author: 'JF Guest Author'
 excerpt: 'From CBS.com - the ultimate look back on season 14.'

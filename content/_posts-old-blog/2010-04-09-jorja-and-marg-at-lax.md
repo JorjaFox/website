@@ -22,7 +22,7 @@ tags:
 
 We think they were headed to Las Vegas, since Dayna Roselli, the Morning News Anchor at KLAS-TV Channel 8 (CBS), reported that <a href="http://twitter.com/DaynaRoselli/statuses/11877840154">CSI is in town</a>.  They're probably filming the finale!
 
-<strong>Jorja and Marg at LAX Gallery</strong>
+**Jorja and Marg at LAX Gallery**
 [zenphotopress album=1200 sort=latest number=20]
 
 Thanks to Margamania for the pictures!

@@ -1,6 +1,6 @@
 ---
 id: 2049
-title: 'CSI ep 10&#215;02 &#8220;Ghost Town&#8221; Pre-Airing Topic'
+title: 'CSI ep 10&#215;02 "Ghost Town" Pre-Airing Topic'
 date: '2009-10-01T08:43:44-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Talk about tonight''s airing of the <em>CSI</em> episode "Ghost Town" here! When screencaps and a recap are up later tonight, it will be closed. Can anyone make out what name is on Sara''s vest?'
@@ -42,11 +42,11 @@ This post will be closed later tonight when the screencaps and recap are posted.
 
 Also cookies to the first person who figures out what name is on Sara's vest!
 
-<strong>Official Release</strong>
-When a porn producer and drug dealer are found dead in a relatively upscale Vegas area, the CSIs focus their investigation on members of the neighborhood.  
+**Official Release**
+When a porn producer and drug dealer are found dead in a relatively upscale Vegas area, the CSIs focus their investigation on members of the neighborhood.
 
-<strong>Videos</strong>
+**Videos**
 <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/jSsOSIS42Ck&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jSsOSIS42Ck&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 
-<strong>Spoilers We Know</strong>
+**Spoilers We Know**
 Not much! This is the episode that Dustin Lee Abrams was tweeting pictures from, so expect to see more of Sara in the red shirt. Or salmon. Or pink. Whatever.

@@ -22,7 +22,7 @@ tags:
 
 The movie <em>3 Weeks to Daytona</em> has a FaceBook page, and posted some more production stills!
 
-If you do that FaceyBooky thing, hit up <strong><a href="http://www.facebook.com/3WeeksToDaytona">http://www.facebook.com/3WeeksToDaytona</a></strong>
+If you do that FaceyBooky thing, hit up **<a href="http://www.facebook.com/3WeeksToDaytona">http://www.facebook.com/3WeeksToDaytona</a>**
 
 Oh and here are the production stills:
 

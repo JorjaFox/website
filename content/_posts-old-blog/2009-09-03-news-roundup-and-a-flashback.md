@@ -42,11 +42,11 @@ tags:
 
 Next we've got a pair of articles on CSI and Jorja's return:
 
-<blockquote><strong>Follow the (Ratings) Evidence:</strong> Looks like the addition of Laurence Fishburne hasn’t satisfied viewers as much as producers had hoped, who acknowledge the drop in ratings and claim to be ‘listening’ to fans who haven’t gotten over last year’s departure of three original cast members. Said fans were probably hoping for Grissom, but will more than likely happily ’settle’ for Sara. </blockquote>
+<blockquote>**Follow the (Ratings) Evidence:** Looks like the addition of Laurence Fishburne hasn’t satisfied viewers as much as producers had hoped, who acknowledge the drop in ratings and claim to be ‘listening’ to fans who haven’t gotten over last year’s departure of three original cast members. Said fans were probably hoping for Grissom, but will more than likely happily ’settle’ for Sara. </blockquote>
 
 Credit: Fancast
 
-<blockquote><strong>8. Getting Fooled Again</strong>
+<blockquote>**8. Getting Fooled Again**
 The last time 'CSI' fans saw Sara Sidle, Grissom had surprised her in the jungle in season 9 and the two shared a steamy kiss. Now Jorja Fox is back again for five -- count 'em, five! -- episodes in season 10. Is Grissom next? </blockquote>
 
 Credit: <a href="http://television.aol.com/feature/fall_tv/what-you-should-know-about-fall-tv">AOL TV</a>

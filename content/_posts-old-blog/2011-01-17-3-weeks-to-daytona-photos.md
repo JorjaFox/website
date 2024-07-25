@@ -1,6 +1,6 @@
 ---
 id: 3047
-title: '&#8220;3 Weeks to Daytona&#8221; Photos'
+title: '"3 Weeks to Daytona" Photos'
 date: '2011-01-17T11:18:20-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The website for "3 Weeks to Daytona" is up and running with photos for you!'

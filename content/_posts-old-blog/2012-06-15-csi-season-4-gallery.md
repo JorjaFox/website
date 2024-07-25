@@ -29,4 +29,4 @@ The Season Four Gallery got a total facelift. I don't know how else to put it, b
 The latest gallery update is that now when you click on the image it tells you how big the full sized one is. Some of them are 2000px wide. That's a significant improvement. Also soon the 'new' images will have a pretty little star on them so you know they're new. The downside to that is sometimes I do all this gallery work early, hide the new albums, and reveal it later. On those, you won't get the new image marker.
 
 But while you're here, consider donating to Jorja's Birthday charity:
-<p style="text-align: left;">[crowdrise id="jfo-bday2012"]</p>
+<p style="text-align: left;">[crowdrise id="jfo-bday2012"]

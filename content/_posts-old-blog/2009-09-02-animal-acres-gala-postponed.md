@@ -45,13 +45,13 @@ tags:
     - 'site notice'
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/09/stationfire-100x100.jpg" alt="stationfire" title="stationfire" width="100" height="100" class="alignleft size-thumbnail wp-image-1999" /> <strong>REMINDER! All JFO donations for September will be given to Animal Acres.</strong>
+<img src="//static.jorjafox.net/wordpress/2009/09/stationfire-100x100.jpg" alt="stationfire" title="stationfire" width="100" height="100" class="alignleft size-thumbnail wp-image-1999" /> **REMINDER! All JFO donations for September will be given to Animal Acres.**
 
 With the fire only 20% contained (depending on who you listen to), it's no shock that the Gala has been rescheduled to September 12th and moved to The Riviera Country Club in Pacific Palisades. The Gala is, usually, where up to half the operating costs for Animal Acres is recouped.  The evacuation will strain the budget, so if you have any extra funds in your pockets, please consider passing it on to the animals, who can't ask you for help.
 
 Their website has yet to be updated with the information (not surprising, they're a little busy) so I'm including the newsletter here again.  Jorja has not yet been confirmed as attending.
 
-<blockquote><img src="//static.jorjafox.net/wordpress/2009/09/gala_2009_ellen.jpg" alt="gala_2009_ellen" title="gala_2009_ellen" width="160" height="200" class="alignright size-full wp-image-2000" /> <strong>We are thrilled to write you with the exciting news. THE RIVIERA COUNTRY CLUB IN PACIFIC PALISADES WILL BE HOSTING THE ANIMAL ACRES GALA ON SEPTEMBER 12TH!</strong>
+<blockquote><img src="//static.jorjafox.net/wordpress/2009/09/gala_2009_ellen.jpg" alt="gala_2009_ellen" title="gala_2009_ellen" width="160" height="200" class="alignright size-full wp-image-2000" /> **We are thrilled to write you with the exciting news. THE RIVIERA COUNTRY CLUB IN PACIFIC PALISADES WILL BE HOSTING THE ANIMAL ACRES GALA ON SEPTEMBER 12TH!**
 
 As you know, Animal Acres is in the middle of the worst fire storm in California, prompting the evacuation of ALL of the sanctuary animals. We are all safe and sound, and working at the evacuation center to provide the best care possible by building additional shade shelters, installing automatic waters, misters to keep the animals cool, and other care needs.
 
@@ -63,18 +63,18 @@ Though we know you understand why the Gala had to be rescheduled, we do regret a
 
 As this alert is sent to you, we are working on the details, however here is information we have available to assist with your Gala plans.
 
-<strong>Location:</strong>  The Riviera Country Club  1250 Capri Drive Pacific Palisades, CA  90272   310-454-6591
-An internationally renowned country club noted for its spectacular beauty, elegance, and design. 
+**Location:**  The Riviera Country Club  1250 Capri Drive Pacific Palisades, CA  90272   310-454-6591
+An internationally renowned country club noted for its spectacular beauty, elegance, and design.
 For more information, please visit: www.therivieracountryclub.com
 
-<strong>Date & Time:</strong>  Saturday, September 12th    5:00 pm to midnight
+**Date & Time:**  Saturday, September 12th    5:00 pm to midnight
 
-<strong>Accommodations:</strong> The club has a limited number of rooms available -- please reserve immediately if you would like to stay here. The club is offering a special rate to Gala guests. Please call 310-454-6591 or email: kurtw@rccla.com. You will need to mention that you are attending the Animal Acres Gala.
+**Accommodations:** The club has a limited number of rooms available -- please reserve immediately if you would like to stay here. The club is offering a special rate to Gala guests. Please call 310-454-6591 or email: kurtw@rccla.com. You will need to mention that you are attending the Animal Acres Gala.
 
-<strong>Dress Code:</strong> The Gala event is "dressed to impress", and the country club has a dress code as well. Please note all Gala guests must follow the club's dress code or they will not be admitted. The code includes: 1) Dress shoes (no flip-flops, etc); 2) No denim of any color, code or style; 3) No t-shirts.
+**Dress Code:** The Gala event is "dressed to impress", and the country club has a dress code as well. Please note all Gala guests must follow the club's dress code or they will not be admitted. The code includes: 1) Dress shoes (no flip-flops, etc); 2) No denim of any color, code or style; 3) No t-shirts.
 We recommend gowns or upscale cocktail attire for women; Dress suits or tuxedos for men.
 
 <img src="//static.jorjafox.net/wordpress/2009/09/Riviera-Country-Club.jpg" alt="Riviera Country Club" title="Riviera Country Club" width="331" class="alignleft size-full wp-image-2001" /> We are re-confirming our celebrity hosts and performers and will post any changes or updates on our website: www.animalacres.org -- please click on the Gala button. The Gala cocktail party and dinner will be hosted by Madeleine Bistro.
- 
+
 Our heartfelt thanks to The Riviera Country Club, and to all of you who have helped us in every way possible during this emergency.  We look forward to spending a special evening with you to celebrate our farmed animal friends. Thank you from ALL of us at Animal Acres. </blockquote>
 

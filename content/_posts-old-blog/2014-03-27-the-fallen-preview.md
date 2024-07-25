@@ -1,6 +1,6 @@
 ---
 id: 10275
-title: '&#8220;The Fallen&#8221; Preview'
+title: '"The Fallen" Preview'
 date: '2014-03-27T15:50:43-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'First look at the next new CSI episode, when a gunman takes over LVPD.'

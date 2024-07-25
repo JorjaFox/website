@@ -1,6 +1,6 @@
 ---
 id: 6181
-title: '&#8220;Forget Me Not&#8221; Candid Photos'
+title: '"Forget Me Not" Candid Photos'
 date: '2013-01-18T08:25:32-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Something from "Forget Me Not" to warm your heart. Or make you wonder.'

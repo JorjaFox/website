@@ -39,7 +39,7 @@ It’s just frustrating watching the character float in limbo!</blockquote>
 Source: <a href="http://www.tvfanatic.com/2012/12/csi-review-shaking-the-family-tree/">TV Fanatic - CSI Review: Shaking the Family Tree</a>
 
 Kristen Elizabeth of TVEquals shares some of your GSR fears:
-<blockquote>Now that all of my fellow GSR fans have breathed a collective sigh of relief, although it might be a bit premature, I can honestly say that “Risky Business Class,” this week’s episode of <strong>CSI</strong>, will only ever be memorable as the episode that clearly exposed the rift in Grissom and Sara’s marriage.
+<blockquote>Now that all of my fellow GSR fans have breathed a collective sigh of relief, although it might be a bit premature, I can honestly say that “Risky Business Class,” this week’s episode of **CSI**, will only ever be memorable as the episode that clearly exposed the rift in Grissom and Sara’s marriage.
 
 There have been signs that the long distance arrangement is wearing on her all season, but it usually takes something big to make us wake up and realize there’s a problem in our lives, and for Sara it took the appearance of Doug Wilson, an NSTB investigator and former fling from San Francisco, who arrived in Vegas to investigate the crash of a small charter plane just off the Strip.
 

@@ -24,10 +24,10 @@ tags:
 
 <img class="alignleft size-thumbnail wp-image-3845" title="telltalehearts-038" src="//static.jorjafox.net/wordpress/2011/10/telltalehearts-038-210x140.jpg" alt="" width="100" height="75" />Happy Rosh Hashanah!  It's the Jewish year 5772 and now that I'm back on line, the first order of  business was to get you guys a recap and screencaps up!  Well that and laundry.  That's me, keeping it real.
 
-<strong>Screencaps:
-</strong>Oh let's just do it right.  There are 65 screencaps.  Go on.  <a href="https://jorjafox.net/gallery/tv/csi/season12/telltalehearts">See all the screencaps</a>.
+**Screencaps:
+**Oh let's just do it right.  There are 65 screencaps.  Go on.  <a href="https://jorjafox.net/gallery/tv/csi/season12/telltalehearts">See all the screencaps</a>.
 
-<strong>Recap:</strong>
+**Recap:**
 As an episode this was a good one.  As a <em>Sara</em> episode, it max's out at two stars.  We really only had four scenes with Sara, and while seeing her tease Morgan was cute, it wasn't a lot of Sara.  Thankfully next week looks to be Sara Heavy.
 
 <a href="https://jorjafox.net/wiki/Tell-Tale_Hearts">Read the full recap</a>

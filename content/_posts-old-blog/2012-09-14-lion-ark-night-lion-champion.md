@@ -20,7 +20,7 @@ tags:
 ---
 
 So if you're going to be in the LA area on October 13th, Jorja's getting an award! To quote ADI:
-<blockquote><strong>Join Bob Barker, Jorja Fox and Animal Defenders International in the Hollywood Hills on October 13 for a night to roar your support for ADI undercover investigations, the fight for new animal protection laws and to celebrate freedom for those animals who got away.</strong>
+<blockquote>**Join Bob Barker, Jorja Fox and Animal Defenders International in the Hollywood Hills on October 13 for a night to roar your support for ADI undercover investigations, the fight for new animal protection laws and to celebrate freedom for those animals who got away.**
 
 This special night will feature the presentation of a lifetime achievement award for TV host and philanthropist Bob Barker, the 2012 recipient of the international Lord Houghton Award for Services to Animal Welfare.
 

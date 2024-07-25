@@ -22,7 +22,7 @@ CSI
 (9:00-11:00 PM, ET/PT)
 Series Finale Sept. 27
 
-> <strong>SERIES FINALE:</strong> In the special two-hour series finale, a catastrophic event paralyzes Las Vegas, and Gil Grissom, Catherine Willows and Jim Brass return to help the team with the investigation. Also, D.B. Russell and Sara Sidle make decisions regarding the future of their crime-fighting careers, and Lady Heather returns, creating maniacal controversy between Grissom and Sidle. @CSI_CBS
+> **SERIES FINALE:** In the special two-hour series finale, a catastrophic event paralyzes Las Vegas, and Gil Grissom, Catherine Willows and Jim Brass return to help the team with the investigation. Also, D.B. Russell and Sara Sidle make decisions regarding the future of their crime-fighting careers, and Lady Heather returns, creating maniacal controversy between Grissom and Sidle. @CSI_CBS
 
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=43268">CBS Press Express</a>
 

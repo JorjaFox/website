@@ -39,6 +39,6 @@ tags:
 
 Interviewed by <a href="http://www.csifiles.com/interviews/robert_david_hall.shtml">CSI Files</a>, Robert David Hall (aka Dr. Al Robbins, the coroner) spoke about his work on <em>CSI</em> and how he feels about Jorja being gone.
 
-<blockquote><strong>Hall:</strong> Jorja Fox (Sara Sidle) was one of my closest friends on the show, and she just needed to move on in her life. I miss her every time I go on the lot, but she's surfing in the morning, getting ready to do some movie or something, and I think she's happy as a clam. It's wonderful to see somebody do what they want to do and be happy and I would have to say Jorja is quite happy.</blockquote>
+<blockquote>**Hall:** Jorja Fox (Sara Sidle) was one of my closest friends on the show, and she just needed to move on in her life. I miss her every time I go on the lot, but she's surfing in the morning, getting ready to do some movie or something, and I think she's happy as a clam. It's wonderful to see somebody do what they want to do and be happy and I would have to say Jorja is quite happy.</blockquote>
 
 Credit: <a href="http://www.csifiles.com/interviews/robert_david_hall.shtml">CSI Files</a> (hop on over for the whole interview).

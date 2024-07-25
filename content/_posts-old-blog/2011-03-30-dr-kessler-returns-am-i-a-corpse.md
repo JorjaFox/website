@@ -1,6 +1,6 @@
 ---
 id: 3235
-title: 'Dr. Kessler Returns &#8220;Am I a corpse?&#8221;'
+title: 'Dr. Kessler Returns "Am I a corpse?"'
 date: '2011-03-30T08:00:58-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Lady Heather''s back and just wants more time with Sara.  And Grissom.'

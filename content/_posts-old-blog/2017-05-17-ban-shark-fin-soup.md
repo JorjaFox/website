@@ -19,7 +19,7 @@ tags:
 Jorja has reminded us that we can't stop and just do one thing. We have to remember to protect the earth, among all the other reasons we're calling our House Reps and Congress this week.
 
 <a href="https://act.oceana.org/page/7296/petition/1?ea.tracking.id=fbad50817TM2&amp;utm_campaign=TM&amp;utm_content=fbad50817TM2&amp;utm_source=Facebook&amp;utm_medium=social&amp;utm_id=SzSRpHbeuaT3AD">Tell Congress to ban the sale of shark fins.</a>
-<blockquote><strong>Fins from up to 73 million sharks end up in the global fin trade every year.</strong>
+<blockquote>**Fins from up to 73 million sharks end up in the global fin trade every year.**
 
 Shark finning is a wasteful and inhumane practice in which a shark’s fins are cut off and the body is discarded at sea to drown. While shark finning is illegal in American waters, fins are still bought and sold in the United States.</blockquote>
 Sign the protest and keep fighting.

@@ -1,6 +1,6 @@
 ---
 id: 1413
-title: '9&#215;10 &#8220;One to Go&#8221; Open Post (updated &#8211; comments closed)'
+title: '9&#215;10 "One to Go" Open Post (updated — comments closed)'
 date: '2009-01-15T09:24:26-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Open post to talk about Jan 15th''s airing of "One to Go".'
@@ -42,7 +42,7 @@ tags:
 
 Post your rumors, spoilers, spec and hopes (and comments about the epsiode) here.  After the episode airs, I'll post again if there are to be screecaps and a recap.
 
-<strong>UPDATED</strong> Bless you Canada! Jorja is in this episode, in the last minute. There is no dialouge. Please don't keep hitting refresh, I won't have screencaps until about 11:30pm ET.
+**UPDATED** Bless you Canada! Jorja is in this episode, in the last minute. There is no dialouge. Please don't keep hitting refresh, I won't have screencaps until about 11:30pm ET.
 
 Of course, given what the newspapers say today... (spoilers below the cut)
 <!--more-->

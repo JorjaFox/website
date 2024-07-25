@@ -1,6 +1,6 @@
 ---
 id: 4339
-title: 'CSI 12&#215;14: &#8220;Seeing Red&#8221;'
+title: 'CSI 12&#215;14: "Seeing Red"'
 date: '2012-02-15T13:00:04-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Russell asks for advice from a former colleague on a case involving the death of a man’s ex-girlfriend, on CSI, Wednesday, Feb. 15 (10:00-11:00 PM, ET/PT).'
@@ -22,11 +22,11 @@ tags:
 
 <img class="alignleft size-thumbnail wp-image-4340" title="CSI: CRIME SCENE INVESTIGATION" src="//static.jorjafox.net/wordpress/2012/02/seeing-red-210x140.jpg" alt="Seeing Red" width="100" height="75" />There's no official word on if Jorja's in this one (I think not, but better safe than sorry!). It is Elizabeth Shue's first episode, though, so that should be interesting.
 
-<strong>Official Release</strong>
+**Official Release**
 
 Russell asks for advice from a former colleague on a case involving the death of a man’s ex-girlfriend. Elisabeth Shue joins the cast of <em>CSI</em> as CSI Julie Finlay.
 
-<strong>Videos</strong>
+**Videos**
 
 http://www.youtube.com/watch?v=JH5MVH-eXUw
 

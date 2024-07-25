@@ -23,4 +23,4 @@ Massive thanks to @veji_ninizik (on Twitter) for spotting this in her digital EW
 
 <img class="aligncenter size-full wp-image-6375" alt="csi-music-forget" src="//static.jorjafox.net/wordpress/2013/02/csi-music-forget.png" width="727" height="295" />
 
-For those who can't read the image, I typed it up and posted on the wiki: <a href="https://jorjafox.net/wiki/Entertainment_Weekly_(15_February_2012)"><b><i>CSI's</i> Long-Suffering Power Couple Face The Music</b></a>
+For those who can't read the image, I typed it up and posted on the wiki: <a href="https://jorjafox.net/wiki/Entertainment_Weekly_(15_February_2012)">**_CSI's_ Long-Suffering Power Couple Face The Music**</a>

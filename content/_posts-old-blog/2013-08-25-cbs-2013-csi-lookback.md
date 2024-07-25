@@ -1,6 +1,6 @@
 ---
 id: 7857
-title: 'CBS&#8217;s 2013 Fall Preview: CSI Ultimate Lookback Recap'
+title: 'CBS's 2013 Fall Preview: CSI Ultimate Lookback Recap'
 date: '2013-08-25T10:00:54-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A year of CSI in review. And a third of the year is all about Sara!'

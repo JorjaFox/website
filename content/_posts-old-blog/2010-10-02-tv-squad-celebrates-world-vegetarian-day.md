@@ -25,7 +25,7 @@ tags:
 
 October first was "World Vegetarian Day" and TV Squad cheered out their favorite TV veg-heads.
 <blockquote>
-<strong>Sara Sidle, 'CSI'</strong>
+**Sara Sidle, 'CSI'**
 
 Sara, like actress Jorja Fox, is a vegetarian. She became one after spending a night with a dead pig and Grissom. In the 2002 episode 'Burden of Proof,' Sara gets sassy with Grissom about her vegetarianism. "I'm a vegetarian, everyone here knows I'm a vegetarian," she said. "I haven't eaten meat since we stayed up that night with that dead pig. It pains me to see ground beef. Forget about cleaning it up." Bonus, Fox's 'ER' character, Dr. Maggie Doyle, was also a vegetarian.
 </blockquote>

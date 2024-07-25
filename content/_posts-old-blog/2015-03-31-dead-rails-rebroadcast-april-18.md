@@ -1,6 +1,6 @@
 ---
 id: 12863
-title: '&#8220;Dead Rails&#8221; Rebroadcast &#8211; April 18'
+title: '"Dead Rails" Rebroadcast — April 18'
 date: '2015-03-31T17:03:50-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A repeat of CSI on a special night and time.'

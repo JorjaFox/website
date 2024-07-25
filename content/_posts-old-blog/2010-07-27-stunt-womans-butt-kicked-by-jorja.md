@@ -1,6 +1,6 @@
 ---
 id: 2530
-title: 'Stunt Woman&#8217;s Butt Kicked by Jorja'
+title: 'Stunt Woman's Butt Kicked by Jorja'
 date: '2010-07-27T08:59:26-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Tweets from people filming CSI''s 11th season opener report that Jorja is in the episode, and she kicks some a**.'

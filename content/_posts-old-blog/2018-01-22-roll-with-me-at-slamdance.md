@@ -26,4 +26,4 @@ Slamdance's festival is in Park City, Utah (not Peru - Jorja's phone auto correc
 
 [caption id="attachment_14691" align="aligncenter" width="594"]<a href="https://jorjafox.net/gallery/pub/filmfest/20180119-slamdance/"><img class="size-full wp-image-14691" src="//static.jorjafox.net/wordpress/2018/01/gabriel-cordell-and-jorja-fox.jpeg" alt="" width="594" height="425" /></a> PARK CITY, UT - JANUARY 21: Gabriel Cordell and Jorja Fox attend the EcoLuxe Lounge - Park City on January 21, 2018 in Park City, Utah.[/caption]
 
-More photos will be <strong><a href="https://jorjafox.net/gallery/pub/filmfest/20180119-slamdance/">added to the gallery</a></strong> as they arrive.
+More photos will be **<a href="https://jorjafox.net/gallery/pub/filmfest/20180119-slamdance/">added to the gallery</a>** as they arrive.

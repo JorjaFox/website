@@ -1,6 +1,6 @@
 ---
 id: 2338
-title: 'CSI 10&#215;19 &#8211; &#8220;World&#8217;s End&#8221; Discussion Post (UPDATED)'
+title: 'CSI 10&#215;19 — "World's End" Discussion Post (UPDATED)'
 date: '2010-04-22T01:00:35-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara and Langston working together again.  Tune in at 9pm Eastern (8 Central) to see what happens on an all new episode of <em>CSI</em>. <em>Updated at 10:30pm ET</em>'

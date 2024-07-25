@@ -36,9 +36,9 @@ tags:
 
 The following episodes are the ones we expect to see Jorja in:
 
-&bull; <strong>10x02 "Ghost Town" on Oct 1st</strong> - Confirmed by Press Release and promo  pictures from Dustin Lee Abrams
-&bull; <strong>10x04 "Coup de Grace" on Oct 15th</strong> - Date confirmed. Appearance  confirmed by casting call (which specifically states Sara) and  officially released stills from CBS. Jorja is not listed on the press  release for this episode.  See  <a href="http://www.thefutoncritic.com/listings.aspx?id=20090928cbs03">The Futon Critic</a> for the press release.
-&bull; <strong>10x05 "Bloodsport" on Oct 22nd</strong> - Date NOT confirmed. Sara is  specifically mentioned in the casting call.
+&bull; **10x02 "Ghost Town" on Oct 1st** - Confirmed by Press Release and promo  pictures from Dustin Lee Abrams
+&bull; **10x04 "Coup de Grace" on Oct 15th** - Date confirmed. Appearance  confirmed by casting call (which specifically states Sara) and  officially released stills from CBS. Jorja is not listed on the press  release for this episode.  See  <a href="http://www.thefutoncritic.com/listings.aspx?id=20090928cbs03">The Futon Critic</a> for the press release.
+&bull; **10x05 "Bloodsport" on Oct 22nd** - Date NOT confirmed. Sara is  specifically mentioned in the casting call.
 
 Please note that episode 10x07 is the Multi Massive Mondo Crossover Extravaganza! and I suspect she's NOT in that episode.
 

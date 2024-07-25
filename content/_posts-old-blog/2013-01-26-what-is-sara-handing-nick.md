@@ -24,4 +24,4 @@ This was taken on the 25th, so they should be filming the episode <em>after</em>
 
 Interesting.
 
-<em>Edit: Jorja <strong>is</strong> in 13x16. Well then!</em>
+<em>Edit: Jorja **is** in 13x16. Well then!</em>

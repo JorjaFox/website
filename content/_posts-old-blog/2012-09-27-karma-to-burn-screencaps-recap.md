@@ -1,6 +1,6 @@
 ---
 id: 5241
-title: '&#8220;Karma to Burn&#8221; Screencaps and Recap'
+title: '"Karma to Burn" Screencaps and Recap'
 date: '2012-09-27T08:03:55-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It was a good episode. Nice start to the new season.'

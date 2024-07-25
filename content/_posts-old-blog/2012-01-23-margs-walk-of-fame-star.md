@@ -1,6 +1,6 @@
 ---
 id: 4249
-title: 'Jorja at Marg&#8217;s Walk of Fame Star Unveiling'
+title: 'Jorja at Marg's Walk of Fame Star Unveiling'
 date: '2012-01-23T15:45:49-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It rained but it didn''t keep the fans away! Marg has her star on the Walk of Fame.'

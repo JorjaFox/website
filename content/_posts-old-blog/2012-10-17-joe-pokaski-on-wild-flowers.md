@@ -1,6 +1,6 @@
 ---
 id: 5357
-title: 'Joe Pokaski on &#8220;Wild Flowers&#8221;'
+title: 'Joe Pokaski on "Wild Flowers"'
 date: '2012-10-17T15:35:06-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This episode, Sara brings up Grissom and an old episode? Is it my birthday?'

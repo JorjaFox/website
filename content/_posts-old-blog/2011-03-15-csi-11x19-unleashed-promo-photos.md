@@ -1,6 +1,6 @@
 ---
 id: 3206
-title: 'CSI 11&#215;19 &#8220;Unleashed&#8221; Promo Photos'
+title: 'CSI 11&#215;19 "Unleashed" Promo Photos'
 date: '2011-03-15T19:53:16-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Ten pictures of Sara from "Unleashed."  And yes, she''s in shots with Heather. Winning!'

@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2013/02/BAy0c37CIAA7baP.jpeg"><img class=" wp-image-6294 aligncenter" alt="Phone Call" src="//static.jorjafox.net/wordpress/2013/02/BAy0c37CIAA7baP.jpeg" width="360" height="202" /></a></p>
+<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2013/02/BAy0c37CIAA7baP.jpeg"><img class=" wp-image-6294 aligncenter" alt="Phone Call" src="//static.jorjafox.net/wordpress/2013/02/BAy0c37CIAA7baP.jpeg" width="360" height="202" /></a>
 Everyone wants to know what happened in the phone call. CSI Writers promise we'll find out in 13x15 (Forget Me Not):
 
 https://twitter.com/CSIWritersRoom/status/298897996827983873

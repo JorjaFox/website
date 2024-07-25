@@ -1,6 +1,6 @@
 ---
 id: 7637
-title: 'Behind the scenes on &#8220;Take the Money and Run&#8221;'
+title: 'Behind the scenes on "Take the Money and Run"'
 date: '2013-08-03T21:12:14-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'And just how far did this guy run for episode two?'

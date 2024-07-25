@@ -1,6 +1,6 @@
 ---
 id: 3243
-title: 'More &#8220;3 Weeks to Daytona&#8221; Photos'
+title: 'More "3 Weeks to Daytona" Photos'
 date: '2011-03-30T21:22:34-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four new photos for your viewing pleasure!'

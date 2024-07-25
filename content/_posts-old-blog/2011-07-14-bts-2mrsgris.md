@@ -1,6 +1,6 @@
 ---
 id: 3531
-title: 'Behind the Scenes of &#8220;The Two Mrs. Grissoms&#8221;'
+title: 'Behind the Scenes of "The Two Mrs. Grissoms"'
 date: '2011-07-14T20:03:21-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Behind the scene tidbits from our favorite episode of Season 11!'

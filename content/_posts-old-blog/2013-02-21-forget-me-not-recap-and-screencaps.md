@@ -1,6 +1,6 @@
 ---
 id: 6567
-title: '&#8220;Forget Me Not&#8221; Recap and Screencaps'
+title: '"Forget Me Not" Recap and Screencaps'
 date: '2013-02-21T06:38:39-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'She didn''t cheat on her husband, she didn''t stab anyone, and she didn''t shoot anyone... But she sure wanted to. Forget Me Not was great!'
@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-<a href="//static.jorjafox.net/wordpress/2013/02/vlcsnap-00536.jpeg"><img class="alignleft size-thumbnail wp-image-6575" alt="vlcsnap-00536" src="//static.jorjafox.net/wordpress/2013/02/vlcsnap-00536-250x250.jpeg" width="275" height="140" /></a>I said this last night on Twitter: If you came to Jorja via GSR, this episode is very painful. <strong>BUT</strong>. If you started a Jorja fan, this is <strong>THE EPISODE TO WATCH</strong>. I know it was really hard for you guys who are GSR First, but man alive, this was a great episode, and I am livid to know that Jorja probably won't even get an Emmy nomination.
+<a href="//static.jorjafox.net/wordpress/2013/02/vlcsnap-00536.jpeg"><img class="alignleft size-thumbnail wp-image-6575" alt="vlcsnap-00536" src="//static.jorjafox.net/wordpress/2013/02/vlcsnap-00536-250x250.jpeg" width="275" height="140" /></a>I said this last night on Twitter: If you came to Jorja via GSR, this episode is very painful. **BUT**. If you started a Jorja fan, this is **THE EPISODE TO WATCH**. I know it was really hard for you guys who are GSR First, but man alive, this was a great episode, and I am livid to know that Jorja probably won't even get an Emmy nomination.
 
 So what happened? What <em>didn't</em> happen!? GSR is done, Sara said Grissom was no longer her husband but admitted she didn't want to believe it was over either. Nick spoke for a lot of the fans, saying that the marriage let them hang on to Grissom.  She didn't cheat on Grissom, though. And she's still wearing her ring at the end.
 

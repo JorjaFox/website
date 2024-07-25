@@ -1,6 +1,6 @@
 ---
 id: 4976
-title: 'Forever Dusty &#8211; On Stage'
+title: 'Forever Dusty — On Stage'
 date: '2012-08-02T15:30:37-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Guess what''s going to be on stage? Go on, guess!'
@@ -24,5 +24,5 @@ tags:
 Guess what just got announced.
 
 <a href="http://broadwayworld.com/article/FOREVER-DUSTY-Starring-Kirsten-Holly-Smith-Receives-New-World-Stages-Run-This-Fall-20120802#ixzz22QBg5R7N">FOREVER DUSTY, Starring Kirsten Holly Smith, Receives New World Stages Run This Fall</a>
-<blockquote>Directed by Randal Myler (Love, Janis; It Ain't Nothin' But the Blues), performances will begin November 11, 2012 at New World Stages (340 West 50th Street), with an official Opening Night set for Sunday, November 18, 2012. Forever Dusty will be produced by <strong>Jorja Fox</strong>, Leslie Brockett, Jane Gullong, and Sandalphon Productions, with executive producer Eva Price of Maximum Entertainment Productions.</blockquote>
+<blockquote>Directed by Randal Myler (Love, Janis; It Ain't Nothin' But the Blues), performances will begin November 11, 2012 at New World Stages (340 West 50th Street), with an official Opening Night set for Sunday, November 18, 2012. Forever Dusty will be produced by **Jorja Fox**, Leslie Brockett, Jane Gullong, and Sandalphon Productions, with executive producer Eva Price of Maximum Entertainment Productions.</blockquote>
 How cool is that?

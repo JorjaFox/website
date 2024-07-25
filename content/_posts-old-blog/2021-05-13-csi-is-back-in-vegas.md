@@ -25,10 +25,10 @@ tags:
     - 'csi: vegas'
 ---
 
-<p>This week (and probably through the weekend) CSI is filming in Vegas. From LeFox herself:</p>
+This week (and probably through the weekend) CSI is filming in Vegas. From LeFox herself:
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
 https://twitter.com/JorjaFoxofficia/status/1392920005675831297
 </div></figure>
 
-<p>What crime happens in Vegas does not stay in Vegas.</p>
+What crime happens in Vegas does not stay in Vegas.

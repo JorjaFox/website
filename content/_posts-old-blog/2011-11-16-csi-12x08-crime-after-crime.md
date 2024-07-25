@@ -1,6 +1,6 @@
 ---
 id: 4020
-title: 'CSI 12&#215;08: &#8220;Crime After Crime&#8221; Discussion Post'
+title: 'CSI 12&#215;08: "Crime After Crime" Discussion Post'
 date: '2011-11-16T08:27:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'No Cyndi Lauper tonight, just old crimes (ones we never saw) being revenged on.  Three bodies later...'

@@ -1,6 +1,6 @@
 ---
 id: 11379
-title: '&#8220;Bad Blood&#8221; Promo Video'
+title: '"Bad Blood" Promo Video'
 date: '2014-10-09T00:05:33-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A little scary video for you!'

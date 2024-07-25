@@ -35,8 +35,8 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/04/friedkin-100x100.jpg" alt="William Friedkin " title="William Friedkin " width="100" height="100" class="alignleft size-thumbnail wp-image-1756" /> In an interview with <a href="http://www.tvguide.com/News/William-Friedkins-CSI-1004630.aspx">TV Guide</a>
 
-<blockquote><strong>TVGuide.com: Since Petersen remains an executive producer, did he come in and watch the filming? Did he seem like he was itching to get back in front of the camera?</strong>
-<strong>Friedkin:</strong> He came down for two or three days, yeah. [...]
+<blockquote>**TVGuide.com: Since Petersen remains an executive producer, did he come in and watch the filming? Did he seem like he was itching to get back in front of the camera?**
+**Friedkin:** He came down for two or three days, yeah. [...]
 
 I think he'll do a few [more episodes] as he said he would. I think if they can craft some special stories for him... I think Jorja [Fox] will as well. [...]</blockquote>
 

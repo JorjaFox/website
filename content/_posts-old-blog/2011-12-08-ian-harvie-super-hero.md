@@ -1,6 +1,6 @@
 ---
 id: 4099
-title: 'Ian Harvie &#8211; Super Hero'
+title: 'Ian Harvie — Super Hero'
 date: '2011-12-08T08:00:59-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Do you like to laugh?  Jorja''s friend Ian Harvie could use your help making more people laugh.'
@@ -23,13 +23,13 @@ tags:
 
 Ian's a comedian, if you didn't know, and he's actually the first FTM (female-to-male) transgender comic.     He's funny as all get out and he has a <em>week</em> to make his goal!  He's already halfway there, so if you think he's funny (and do watch the bit below), then consider tossing him $25. Hey, you'd blow it on coffee at Starbucks, right?  I'd rather give him the money then that neat swag I was looking at.
 
-His page is up at Kickstarter (which <em>only</em> charges you if the project is successful): <strong><a href="http://www.kickstarter.com/projects/ianharvie/super-hero-ian-harvies-standup-comedy-special-film">Super Hero - Ian Harvie's Standup Comedy Special Filming</a></strong>
+His page is up at Kickstarter (which <em>only</em> charges you if the project is successful): **<a href="http://www.kickstarter.com/projects/ianharvie/super-hero-ian-harvies-standup-comedy-special-film">Super Hero - Ian Harvie's Standup Comedy Special Filming</a>**
 
 <iframe frameborder="0" height="410px" src="http://www.kickstarter.com/projects/ianharvie/super-hero-ian-harvies-standup-comedy-special-film/widget/video.html" width="480px"></iframe>
 
-<blockquote>Ian Harvie’s debut standup comedy special “SUPER HERO” is slated for filming in Harvie’s hometown, Saturday, January 7, 2012 at Portland Stage Company in downtown Portland, Maine. 
+<blockquote>Ian Harvie’s debut standup comedy special “SUPER HERO” is slated for filming in Harvie’s hometown, Saturday, January 7, 2012 at Portland Stage Company in downtown Portland, Maine.
 
-Harvie will be wrapping up the last several years of his comedy writing into a collection titled "SUPER HERO", made for television and film. 
+Harvie will be wrapping up the last several years of his comedy writing into a collection titled "SUPER HERO", made for television and film.
 
 With equal parts candor and deadpan humor, Ian’s distinctive matter-of-fact delivery and almost surreal anecdotes about the intricacies of his exceptional life are so full of humanity that they become universal. Ian’s observations about gender-specific societal codes, privilege, coming out twice, and learning new bathroom etiquette, will have you peeing your pants and wanting to check your neighbor’s pants to see what’s inside.
 

@@ -24,16 +24,16 @@ tags:
     - 'New Day New Chef'
 ---
 
-<p>The popular vegan cooking show <em>New Day New Chef</em>&nbsp; is returning to Amazon Prime Video for a special series showcasing&nbsp;<em>Support and Feed,</em> a nonprofit organization helping those in need during the COVID-19 crisis and beyond.&nbsp;</p>
+The popular vegan cooking show <em>New Day New Chef</em>&nbsp; is returning to Amazon Prime Video for a special series showcasing&nbsp;<em>Support and Feed,</em> a nonprofit organization helping those in need during the COVID-19 crisis and beyond.&nbsp;
 
-<p>For those new to the idea, the <em>Support and Feed</em> organization supplies vegan food to children’s charities, homeless and domestic abuse shelters, food banks, family and senior centers by supporting vegan restaurants in Los Angeles, New York, and Philadelphia. After all, people shouldn't have to decide between safety and principles.</p>
+For those new to the idea, the <em>Support and Feed</em> organization supplies vegan food to children’s charities, homeless and domestic abuse shelters, food banks, family and senior centers by supporting vegan restaurants in Los Angeles, New York, and Philadelphia. After all, people shouldn't have to decide between safety and principles.
 
-<p>The creator of Support and Feed is <strong>Maggie Baird</strong> -- an actress, screenwriter, vegan, and just happens to be mother of musicians&nbsp;<strong>Billie Eilish</strong>&nbsp;and&nbsp;<strong>Finneas</strong>, who are also vegan. The series follows her passion project and how it's growing.</p>
+The creator of Support and Feed is **Maggie Baird** -- an actress, screenwriter, vegan, and just happens to be mother of musicians&nbsp;**Billie Eilish**&nbsp;and&nbsp;**Finneas**, who are also vegan. The series follows her passion project and how it's growing.
 
-<blockquote class="wp-block-quote"><p><em>New Day New Chef</em>&nbsp;bringing these chefs and celebrities together is a great way to focus on these wonderful restaurants, and the nourishing and delicious food they are providing to those in need through Support and Feed, A plant-based diet is so important for the health of our communities and our planet. I hope this show and these chefs will inspire people, because there is no better day to start, than today.</p><cite>Maggie Baird</cite></blockquote>
+<blockquote class="wp-block-quote"><em>New Day New Chef</em>&nbsp;bringing these chefs and celebrities together is a great way to focus on these wonderful restaurants, and the nourishing and delicious food they are providing to those in need through Support and Feed, A plant-based diet is so important for the health of our communities and our planet. I hope this show and these chefs will inspire people, because there is no better day to start, than today.<cite>Maggie Baird</cite></blockquote>
 
-<p>The series is hosted by journalist Jane Velez-Mitchell, with special appearances by Billie Elish, Finneas, <em>Downton Abbey’s</em> Lesley Nicol, the original “Bye Felicia” -- Angela Means-Kaaya, supermodel Joanna Krupa, influencer Kyle Krieger,<em> Dynasty</em>’s Elaine Hendrix, <em>CSI</em>’s Jorja Fox, <em>Lost</em>’s Emilie de Ravin, and American Idol announcer Mark Thompson. </p>
+The series is hosted by journalist Jane Velez-Mitchell, with special appearances by Billie Elish, Finneas, <em>Downton Abbey’s</em> Lesley Nicol, the original “Bye Felicia” -- Angela Means-Kaaya, supermodel Joanna Krupa, influencer Kyle Krieger,<em> Dynasty</em>’s Elaine Hendrix, <em>CSI</em>’s Jorja Fox, <em>Lost</em>’s Emilie de Ravin, and American Idol announcer Mark Thompson.
 
-<p>Two episodes have been released on <a href="https://www.amazon.com/gp/video/detail/B08B7GS4XV">Amazon Prime</a> (US only, but included in default Prime), but they're both the Lesley Nicol episodes. What that means? Well I have no idea when (or if!) Jorja's episode will air. They've already filmed it (don't worry, they social distanced and recorded from home!) but it may be hung up in post processing, which actually takes a lot longer with everyone remote.</p>
+Two episodes have been released on <a href="https://www.amazon.com/gp/video/detail/B08B7GS4XV">Amazon Prime</a> (US only, but included in default Prime), but they're both the Lesley Nicol episodes. What that means? Well I have no idea when (or if!) Jorja's episode will air. They've already filmed it (don't worry, they social distanced and recorded from home!) but it may be hung up in post processing, which actually takes a lot longer with everyone remote.
 
-<p>As soon as it's up, you know I'll share everything I can.</p>
+As soon as it's up, you know I'll share everything I can.

@@ -3,7 +3,7 @@ id: 1941
 title: 'Upcoming Server Maintenance'
 date: '2009-08-05T09:49:58-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'High priority security updates are being applied on <strong>August 11th</strong> starting at 12:01am Eastern US time.  This will cause an outage of between 5 and 30 minutes.'
+excerpt: 'High priority security updates are being applied on **August 11th** starting at 12:01am Eastern US time.  This will cause an outage of between 5 and 30 minutes.'
 layout: post
 guid: 'https://jorjafox.net/?p=1941'
 permalink: /2009/upcoming-server-maintenance/
@@ -42,4 +42,4 @@ tags:
     - 'site notice'
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/08/package_system-100x100.png" alt="package_system" title="package_system" width="100" height="100" class="alignleft size-thumbnail wp-image-1942" /> High priority security updates are being applied on <strong>August 11th</strong> starting at 12:01am Eastern US time.  This will cause an outage of between 5 and 30 minutes.
+<img src="//static.jorjafox.net/wordpress/2009/08/package_system-100x100.png" alt="package_system" title="package_system" width="100" height="100" class="alignleft size-thumbnail wp-image-1942" /> High priority security updates are being applied on **August 11th** starting at 12:01am Eastern US time.  This will cause an outage of between 5 and 30 minutes.

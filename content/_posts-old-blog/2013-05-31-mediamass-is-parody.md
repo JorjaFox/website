@@ -1,6 +1,6 @@
 ---
 id: 7291
-title: 'Jorja&#8217;s not dead yet &#8230; probably'
+title: 'Jorja's not dead yet &#8230; probably'
 date: '2013-05-31T08:13:58-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'No, Jorja is not dead, nor engaged, nor is she on Twitter or going Gangham style.'

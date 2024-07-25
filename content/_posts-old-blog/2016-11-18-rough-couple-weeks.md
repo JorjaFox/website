@@ -1,6 +1,6 @@
 ---
 id: 14266
-title: 'It&#8217;s Been A Rough Couple of Weeks'
+title: 'It's Been A Rough Couple of Weeks'
 date: '2016-11-18T13:40:23-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja, checking in with the world, feels like most of us in this moment of US political upheaval.'

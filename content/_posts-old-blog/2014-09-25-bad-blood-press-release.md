@@ -1,6 +1,6 @@
 ---
 id: 11296
-title: '&#8220;Bad Blood&#8221; Press Release'
+title: '"Bad Blood" Press Release'
 date: '2014-09-25T17:00:49-07:00'
 author: 'JF Editor'
 excerpt: 'Solve the homicide or Sara and Greg die? No big deal!'

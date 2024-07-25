@@ -1,6 +1,6 @@
 ---
 id: 11499
-title: '&#8220;Girls Gone Wilder&#8221; To Air Next Week (maybe)'
+title: '"Girls Gone Wilder" To Air Next Week (maybe)'
 date: '2014-10-27T17:08:56-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI didn''t air because of football. Yeah, I know.'

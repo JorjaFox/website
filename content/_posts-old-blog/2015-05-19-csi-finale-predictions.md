@@ -1,6 +1,6 @@
 ---
 id: 12939
-title: 'CSI Finale &#8211; Clarify It For Zuiker'
+title: 'CSI Finale — Clarify It For Zuiker'
 date: '2015-05-19T06:53:11-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'One more for the road? Things to expect for the end of CSI.'

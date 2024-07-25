@@ -1,6 +1,6 @@
 ---
 id: 6091
-title: '&#8220;Forget Me Not&#8221; Update'
+title: '"Forget Me Not" Update'
 date: '2012-12-18T16:55:31-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Spoilers that are so tight I hope they''re real. And I rarely squee over spoilers. '

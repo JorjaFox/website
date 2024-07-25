@@ -1,6 +1,6 @@
 ---
 id: 6277
-title: '&#8220;In Vino Veritas&#8221; Promo No. 2'
+title: '"In Vino Veritas" Promo No. 2'
 date: '2013-02-04T15:39:11-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'No ex-vins allowed, but Jorja is (briefly) in this promo video for Wednesday.'

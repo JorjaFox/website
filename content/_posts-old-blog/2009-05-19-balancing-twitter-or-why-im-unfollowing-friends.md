@@ -1,6 +1,6 @@
 ---
 id: 1865
-title: 'Balancing Twitter (or Why I&#8217;m unfollowing friends)'
+title: 'Balancing Twitter (or Why I'm unfollowing friends)'
 date: '2009-05-19T08:58:19-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Struggling to sort out who to follow on Twitter as @jorjafoxonline'

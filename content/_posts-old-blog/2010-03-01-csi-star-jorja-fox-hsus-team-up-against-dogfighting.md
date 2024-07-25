@@ -1,6 +1,6 @@
 ---
 id: 2283
-title: '&#8216;CSI&#8217; Star Jorja Fox, HSUS Team Up Against Dogfighting'
+title: '&#8216;CSI' Star Jorja Fox, HSUS Team Up Against Dogfighting'
 date: '2010-03-01T02:00:03-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"The more you know [about dog fighting], the less you want to know," says Jorja. And she''s right.'

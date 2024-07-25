@@ -1,6 +1,6 @@
 ---
 id: 3438
-title: 'BuddyTV&#8217;s Fav ER Stars (In Other Roles)'
+title: 'BuddyTV's Fav ER Stars (In Other Roles)'
 date: '2011-06-17T18:53:45-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Maybe it was "No meat, no men, I''m your woman."  Or perhaps it was that she practiced one-handed sutures on an eggplant, read Face-Off magazine, had a gun, and stashed beer in the hospital fridge.  Whatever your reason, you liked Maggie Doyle too.'
@@ -27,8 +27,8 @@ As long term fans of JFO know, Jorja was on ER for three seasons as our favorite
 After running for 15 seasons and more than 300 episodes, the NBC drama ER set the bar for medical TV shows. The show also featured a number of great actors who’ve done great work in film and television before and after the iconic series. Check out the list of our favorite TV and film roles for the show's stars outside of County General Hospital.
 
 [...]
-<h3 style="text-align: center;"><strong>Jorja Fox as Sara Sidle on <em>CSI </em></strong></h3>
-<strong><em>ER</em> Role: Dr. Maggie Doyle</strong>
+<h3 style="text-align: center;">**Jorja Fox as Sara Sidle on <em>CSI </em>**</h3>
+**<em>ER</em> Role: Dr. Maggie Doyle**
 
 Fox made plenty of waves on <em>ER</em> but her performance as Sara Sidle is what keeps her in demand.</blockquote>
 I'd argue that without <em>ER</em>, we'd never have had her on <em>The West Wing</em> and of course never on <em>CSI</em> at all.  But yeah.

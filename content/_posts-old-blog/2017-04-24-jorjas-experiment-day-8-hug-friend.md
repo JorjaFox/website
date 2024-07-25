@@ -1,6 +1,6 @@
 ---
 id: 14412
-title: 'Jorja&#8217;s Experiment Day 8: Hug a Friend'
+title: 'Jorja's Experiment Day 8: Hug a Friend'
 date: '2017-04-24T20:29:09-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Hug a friend today.'

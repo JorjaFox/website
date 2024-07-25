@@ -1,6 +1,6 @@
 ---
 id: 9761
-title: 'Jorja&#8217;s Thrilled About Lion Ark'
+title: 'Jorja's Thrilled About Lion Ark'
 date: '2014-01-23T14:18:24-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'As Jorja says, "Congrats to all!"'

@@ -23,4 +23,4 @@ tags:
 
 September 26, 2012 is the premiere for CSI. It'll be back at 1o ET/9 CT on Wednesdays, says <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=32320">CBS Press Express</a>
 
-Episode title? You want that? <strong>Karma to Burn</strong> (or so says SpoilerTV).
+Episode title? You want that? **Karma to Burn** (or so says SpoilerTV).

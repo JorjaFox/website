@@ -1,6 +1,6 @@
 ---
 id: 10752
-title: '&#8220;Dead In His Tracks&#8221; Recap and Screencaps'
+title: '"Dead In His Tracks" Recap and Screencaps'
 date: '2014-05-08T04:05:44-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Last wrap up for season 14! Three Sara Stars but a total five star CSI.'

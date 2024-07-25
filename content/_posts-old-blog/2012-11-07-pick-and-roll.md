@@ -1,6 +1,6 @@
 ---
 id: 5593
-title: '&#8220;Pick and Roll&#8221; Discussion Post'
+title: '"Pick and Roll" Discussion Post'
 date: '2012-11-07T06:54:49-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Russell’s son plays defense as a suspect in his coach’s murder. Could he be benched? #CSI tonight'
@@ -18,19 +18,19 @@ tags:
     - tv
 ---
 
-<strong>Official Release</strong>
+**Official Release**
 
 Things get personal when D.B. Russell is drawn into the investigation of the death of his son’s basketball coach.
 
 <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=33297">Press Release</a>
 
-<strong>Video</strong>
+**Video**
 
 https://vimeo.com/52977298
 
 http://www.youtube.com/watch?v=WJaCqRBLepo
 
-<strong>Recap</strong>
+**Recap**
 
 Will be up tonight. I've been able to catch the East Coast feed the last couple weeks, so we'll see if that holds true.
 

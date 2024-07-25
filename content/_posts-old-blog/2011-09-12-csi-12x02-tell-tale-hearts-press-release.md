@@ -24,7 +24,7 @@ tags:
 
 THE CSI TEAM MUST FIGURE OUT A FAMILY MURDER MYSTERY WITH A TWIST WHEN THREE DIFFERENT SUSPECTS EACH SAY THEY DID IT, ON "CSI," WEDNESDAY, SEPT. 28
 
-<strong>CHEAT TWEET:  <em>Three suspects confess to killing an entire family but which one is telling the</em></strong> <strong><em>truth? #CSI</em></strong><em> <strong>09/28 <a href="http://bit.ly/r0RiUo">http://bit.ly/r0RiUo</a></strong></em>
+**CHEAT TWEET:  <em>Three suspects confess to killing an entire family but which one is telling the</em>** **<em>truth? #CSI</em>**<em> **09/28 <a href="http://bit.ly/r0RiUo">http://bit.ly/r0RiUo</a>**</em>
 
 "Tell Tale Hearts" - Three suspects come forward with three different reasons why they killed an entire family and the CSI team has to determine who is telling the truth, on CSI, <span style="text-decoration: underline;">Wednesday, Sept. 28</span> (10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>
 Credit: <a href="http://www.cbspressexpress.com/div.php/cbs_entertainment/original/release?id=231&amp;dpid=56&amp;rid=29134">CBS Press Express</a>

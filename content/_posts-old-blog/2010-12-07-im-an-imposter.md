@@ -1,6 +1,6 @@
 ---
 id: 3008
-title: 'I&#8217;m an Imposter!?'
+title: 'I'm an Imposter!?'
 date: '2010-12-07T14:36:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Why you have to log in to post once you''ve registered.'
@@ -28,4 +28,4 @@ While anyone can comment on the blog posts, only registered users can post on th
 
 Now there's a small 'bug' with that, in that some people have the same domain, but most of the time this works just fine.
 
-Basically it's this: Once you make an account, you <strong>must</strong> log in to post anything. No more anonymous for you!
+Basically it's this: Once you make an account, you **must** log in to post anything. No more anonymous for you!

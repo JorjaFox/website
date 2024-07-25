@@ -1,6 +1,6 @@
 ---
 id: 2339
-title: '&#8220;Irradiator&#8221; to air at 10pm? (Maybe)'
+title: '"Irradiator" to air at 10pm? (Maybe)'
 date: '2010-04-01T14:32:00-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI will air this week and next week at 10pm ET.  I did warn y''all this might happen.  Also? Video! (updated on April 2)'

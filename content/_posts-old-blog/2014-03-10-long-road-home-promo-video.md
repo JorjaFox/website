@@ -1,6 +1,6 @@
 ---
 id: 10130
-title: '&#8220;Long Road Home&#8221; Promo Video'
+title: '"Long Road Home" Promo Video'
 date: '2014-03-10T17:00:22-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Rock and Roll is serious business on this week''s CSI.'

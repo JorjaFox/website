@@ -1,6 +1,6 @@
 ---
 id: 2091
-title: 'CSI 10&#215;05 &#8220;Bloodsport&#8221; &#8211; Oct 29th (Updated)'
+title: 'CSI 10&#215;05 "Bloodsport" — Oct 29th (Updated)'
 date: '2009-10-29T07:55:54-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"We play and we play hard!" When a beloved coach is killed, who''re you gonna call? New episode of <em>CSI</em> tonight, Oct 29th. (Updated ay 9:25pm ET with screencaps and a recap)'
@@ -44,19 +44,19 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/10/bloodsport-100x100.jpg" alt="bloodsport" title="bloodsport" width="100" height="100" class="alignleft size-thumbnail wp-image-2081" /> It worked so well last time, so the topic will remain open. <del datetime="2009-10-30T01:57:26+00:00">I will update this post with screencaps and recaps shortly after the episode airs on the East Coast US.</del>  <em>Post updated at 9:25pm ET</em>
 
-<strong>Official Release</strong>
+**Official Release**
 After a beloved college football coach is found dead and his house drenched and spattered with his blood, the CSI team hunts for the killer who didn't find Coach Jimmy lovable at all.
 
-<strong>Videos</strong>
+**Videos**
 
 http://www.youtube.com/v/U2RnH9_jHC
 
 CBS YouTub Promo (US only)
 
-<strong>Spoilers We Know</strong>
+**Spoilers We Know**
 Nothing Jorja specific. If you know something, post a comment!
 
-<strong>Screencaps and Recap</strong>
+**Screencaps and Recap**
 <del datetime="2009-10-30T01:57:26+00:00"><em>Posted after the episode airs (don't be greedy!)</em></del>  As promised. I give this 3 stars for enough Sara but it was on the edge.  Not as much as I would have liked to see!
 
 <ul>
@@ -64,6 +64,6 @@ Nothing Jorja specific. If you know something, post a comment!
 	<li><a href="https://jorjafox.net/wiki/Bloodsport">Recap</a></li>
 </ul>
 
-Best line: 
-<strong>Stokes:</strong> How's it going?
-<strong>Sidle:</strong> I'm kind of underwater on this one.
+Best line:
+**Stokes:** How's it going?
+**Sidle:** I'm kind of underwater on this one.

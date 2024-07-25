@@ -17,11 +17,11 @@ tags:
     - interview
 ---
 
-<blockquote><strong><a href="//static.jorjafox.net/wordpress/2013/02/url.jpeg"><img class="alignleft size-medium wp-image-6663" alt="Guitar" src="//static.jorjafox.net/wordpress/2013/02/url-300x243.jpeg" width="300" height="242" /></a>Is it true that you have a rather special guitar?</strong>
+<blockquote>**<a href="//static.jorjafox.net/wordpress/2013/02/url.jpeg"><img class="alignleft size-medium wp-image-6663" alt="Guitar" src="//static.jorjafox.net/wordpress/2013/02/url-300x243.jpeg" width="300" height="242" /></a>Is it true that you have a rather special guitar?**
 
 Oh, I do, I wish I could play it the way I feel like it should! I like to actually loan it to people to play because it’s just an amazing guitar and I never really do it any justice. I have this blonde 1965 hollow body Rickenbacher and they didn’t make many of them and it’s really just like listening to angels.
 
-<strong>Is music something you’d like to explore more then?</strong>
+**Is music something you’d like to explore more then?**
 
 I don’t have the time yet. Oddly enough when I was younger my number one dream was to be the lead singer in a rock and roll band. Acting ended up being the place where I was able to carve out a living for myself, so there was a point where I let go of music professionally.
 

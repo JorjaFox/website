@@ -1,6 +1,6 @@
 ---
 id: 1586
-title: 'Fan Links &#8211; Organized'
+title: 'Fan Links — Organized'
 date: '2009-02-12T21:08:02-08:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

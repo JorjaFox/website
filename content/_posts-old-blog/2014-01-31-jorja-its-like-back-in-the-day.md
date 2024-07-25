@@ -1,6 +1,6 @@
 ---
 id: 9851
-title: 'Jorja: &#8220;It&#8217;s like back in the day&#8221;'
+title: 'Jorja: "It's like back in the day"'
 date: '2014-01-31T12:07:54-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja and Michael Des Barres on set yesterday.'

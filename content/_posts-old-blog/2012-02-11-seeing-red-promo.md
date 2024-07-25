@@ -1,6 +1,6 @@
 ---
 id: 4328
-title: 'CSI 12&#215;14 &#8220;Seeing Red&#8221; Promo'
+title: 'CSI 12&#215;14 "Seeing Red" Promo'
 date: '2012-02-11T18:53:37-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'I don''t know if Jorja''s in this episode... But Elisabeth Shue is!'

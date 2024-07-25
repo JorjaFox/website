@@ -1,6 +1,6 @@
 ---
 id: 6827
-title: 'And That&#8217;s A Wrap&#8230;.'
+title: 'And That's A Wrap&#8230;.'
 date: '2013-03-27T21:40:10-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Season 13 is over for one Jorja Fox. '

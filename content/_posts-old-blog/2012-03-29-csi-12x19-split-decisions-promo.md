@@ -1,6 +1,6 @@
 ---
 id: 4479
-title: 'CSI 12&#215;19 &#8220;Split Decisions&#8221; Promo'
+title: 'CSI 12&#215;19 "Split Decisions" Promo'
 date: '2012-03-29T08:09:56-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team shuts down an entire casino in an effort to find the person who shot a man at point-blank range ... and is still in the casino.'

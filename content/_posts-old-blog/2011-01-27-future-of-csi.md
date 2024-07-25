@@ -1,6 +1,6 @@
 ---
 id: 3066
-title: 'The Future of CSI &#8211; Press Releases'
+title: 'The Future of CSI — Press Releases'
 date: '2011-01-27T20:31:01-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The future of CSI. Or at least as much of it as we can possibly know.  Three press releases for season 11, some speculation about season 12, and oh yeah, the return of Bieber.'

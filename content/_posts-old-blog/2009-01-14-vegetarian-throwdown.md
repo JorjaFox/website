@@ -3,7 +3,7 @@ id: 1408
 title: 'Vegetarian Throwdown!'
 date: '2009-01-14T21:22:41-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Who you would rather have a veggie burger with: <strong>Jorja Fox</strong> or <strong>Emily Deschanel</strong>? <a href="http://vegetarianstar.com/2009/01/14/who-would-you-jorja-fox-or-emily-deschanel/">Vote here!</a>'
+excerpt: 'Who you would rather have a veggie burger with: **Jorja Fox** or **Emily Deschanel**? <a href="http://vegetarianstar.com/2009/01/14/who-would-you-jorja-fox-or-emily-deschanel/">Vote here!</a>'
 layout: post
 guid: 'https://jorjafox.net/?p=1408'
 permalink: /2009/vegetarian-throwdown/
@@ -33,7 +33,7 @@ tags:
     - article
 ---
 
-<a href="http://vegetarianstar.com/2009/01/14/who-would-you-jorja-fox-or-emily-deschanel/">VegetarianStar.com</a> asks who you would rather have a veggie burger with: <strong>Jorja Fox</strong> or <strong>Emily Deschanel</strong>?
+<a href="http://vegetarianstar.com/2009/01/14/who-would-you-jorja-fox-or-emily-deschanel/">VegetarianStar.com</a> asks who you would rather have a veggie burger with: **Jorja Fox** or **Emily Deschanel**?
 
 <a href="http://vegetarianstar.com/2009/01/14/who-would-you-jorja-fox-or-emily-deschanel/">Vote here!</a>
 

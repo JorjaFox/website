@@ -1,6 +1,6 @@
 ---
 id: 8335
-title: 'Macy/AmEx &#8220;Passport 2002&#8221; Gala (2002)'
+title: 'Macy/AmEx "Passport 2002" Gala (2002)'
 date: '2013-09-21T10:00:56-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Continuing our flashbacks, here''s 2002 when Jorja and Eric went to an HIV/AIDs fundraiser.'

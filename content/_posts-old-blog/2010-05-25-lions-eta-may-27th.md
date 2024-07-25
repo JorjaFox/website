@@ -1,6 +1,6 @@
 ---
 id: 2436
-title: 'Lions ETA &#8211; May 27th'
+title: 'Lions ETA — May 27th'
 date: '2010-05-25T15:56:13-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The lions will make it to SFO this Thursday afternoon, Pacific time, and Jorja is still expected to be there.'

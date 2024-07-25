@@ -17,7 +17,7 @@ episode: 1
 
 In the two hour premiere of Missing Persons, we meet the detectives of Chicago's Missing Persons Bureau.
 
-Det. Johnny Sandowski searches for a four year-old Polish girl who vanished after being separated from her mother on an &#8220;El&#8221; train. Det. Bobby Davison is assigned a missing University of Chicago co-ed. Det. Sgt. Carlos Marrone tracks a patient who has possibly wandered off from the convalescence home where she lived. Carlos' wife goes into labor, so Lt. Ray McCauliffe takes over this case himself. When the wife of a National Guardsman comes in to report that her husband did not, Det. Dan Manaher sends her to Det. Connie Karadzic for help.
+Det. Johnny Sandowski searches for a four year-old Polish girl who vanished after being separated from her mother on an "El" train. Det. Bobby Davison is assigned a missing University of Chicago co-ed. Det. Sgt. Carlos Marrone tracks a patient who has possibly wandered off from the convalescence home where she lived. Carlos' wife goes into labor, so Lt. Ray McCauliffe takes over this case himself. When the wife of a National Guardsman comes in to report that her husband did not, Det. Dan Manaher sends her to Det. Connie Karadzic for help.
 
 ## Review
 

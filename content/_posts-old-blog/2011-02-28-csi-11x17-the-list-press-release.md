@@ -1,6 +1,6 @@
 ---
 id: 3162
-title: 'CSI 11&#215;17: &#8220;The List&#8221; Press Release'
+title: 'CSI 11&#215;17: "The List" Press Release'
 date: '2011-02-28T15:14:28-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The next new CSI will air March 10th!  We can take a couple weeks off, eh?'
@@ -23,10 +23,10 @@ Finally!  The next new CSI will be March 10th!
 
 <blockquote>THE BRUTAL SLAYING OF A CONVICTED EX-COP IN PRISON LEADS THE CSIs TO DISCOVER A LIST NAMING INDIVIDUALS HE SUSPECTED TO HAVE MURDERED HIS WIFE, ON "CSI: CRIME SCENE INVESTIGATION," THURSDAY, MARCH 10
 
-"The List" — While investigating the murder of a convicted ex-cop, the CSIs stumble upon a list in his prison cell with names of several individuals he believed might have been his wife's true killer, on CSI: CRIME SCENE INVESTIGATION, Thursday, March 10 (9:00-10:00 PM, ET/PT) on the CBS Television Network. 
+"The List" — While investigating the murder of a convicted ex-cop, the CSIs stumble upon a list in his prison cell with names of several individuals he believed might have been his wife's true killer, on CSI: CRIME SCENE INVESTIGATION, Thursday, March 10 (9:00-10:00 PM, ET/PT) on the CBS Television Network.
 
 SERIES REGULARS:
-Dr. Raymond Langston……………..Laurence Fishburne 
+Dr. Raymond Langston……………..Laurence Fishburne
 Catherine Willows……………..Marg Helgenberger
 Nick Stokes……………..George Eads
 Captain Jim Brass……………..Paul Guilfoyle

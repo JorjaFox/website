@@ -46,7 +46,7 @@ tags:
     - tv
 ---
 
-<blockquote> <strong>Submit Your CSI Burning Questions</strong>
+<blockquote> **Submit Your CSI Burning Questions**
 
 Calling all <em>CSI </em>fans! We'll be interviewing Marg Helgenberger (Catherine Willows) and the returning Jorja Fox (Sara Sidle) for an upcoming TV Guide Magazine story and they want to hear from you!
 

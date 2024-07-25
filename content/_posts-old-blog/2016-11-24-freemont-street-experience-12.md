@@ -1,6 +1,6 @@
 ---
 id: 14248
-title: 'Freemont Street Experience &#8217;12'
+title: 'Freemont Street Experience '12'
 date: '2016-11-24T06:57:37-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Flashback to 2012 and CSI when it filmed in Las Vegas.'

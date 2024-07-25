@@ -1,6 +1,6 @@
 ---
 id: 9975
-title: 'Jorja&#8217;s in an Upcoming Episode'
+title: 'Jorja's in an Upcoming Episode'
 date: '2014-02-22T18:37:16-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Behind the scenes shot from episode 19 or 20.'

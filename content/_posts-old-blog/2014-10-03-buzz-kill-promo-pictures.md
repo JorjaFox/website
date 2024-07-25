@@ -1,6 +1,6 @@
 ---
 id: 11341
-title: '&#8220;Buzz Kill&#8221; Promo Pictures'
+title: '"Buzz Kill" Promo Pictures'
 date: '2014-10-03T02:12:38-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Three promo pictures from "Buzz Kill" to brighten your Friday!'

@@ -1,6 +1,6 @@
 ---
 id: 11587
-title: '&#8220;The Twin Paradox&#8221; Preview'
+title: '"The Twin Paradox" Preview'
 date: '2014-11-12T08:04:42-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Frustration mounts for the CSI team as another victim surfaces and all evidence points to the Gig Harbor Killer.'

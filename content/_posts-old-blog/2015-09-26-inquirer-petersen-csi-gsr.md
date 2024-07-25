@@ -23,7 +23,7 @@ By Ruben V. Nepales at Inquirer.net: <a href="http://entertainment.inquirer.net/
 
 ...
 
-<strong>Will there be closure for Gil Grissom and Sara Sidle?</strong>
+**Will there be closure for Gil Grissom and Sara Sidle?**
 
 You have to watch. I don’t know how they edited it so who knows?
 

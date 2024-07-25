@@ -1,6 +1,6 @@
 ---
 id: 2475
-title: 'Was Jorja&#8217;s 2007 CSI Departure Endemic of TV?'
+title: 'Was Jorja's 2007 CSI Departure Endemic of TV?'
 date: '2010-06-15T14:08:36-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'We still don''t know if she''s back next season, but was her 2008 departure a sign of how TV mistreats its female stars?'

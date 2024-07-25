@@ -1,6 +1,6 @@
 ---
 id: 11836
-title: '&#8220;Merchants of Menace&#8221; Promo Pictures'
+title: '"Merchants of Menace" Promo Pictures'
 date: '2015-01-07T08:00:47-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'George and Jorja investigate the menacing merchants.'

@@ -1,6 +1,6 @@
 ---
 id: 9120
-title: '&#8220;Under a Cloud&#8221; Tweet Peek'
+title: '"Under a Cloud" Tweet Peek'
 date: '2013-10-29T16:23:08-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Get ready for next weeks CSI... Oh, there''s an episode tomorrow too, this is true!'

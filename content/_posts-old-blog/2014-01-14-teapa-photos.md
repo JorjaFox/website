@@ -19,7 +19,7 @@ tags:
     - 'social media'
 ---
 
-In 2011, Jorja went to Washington DC to talk to Congress about protecting animals while traveling. Also known as the <a href="http://www.federalcircusbill.org/">Federal Circus Bill</a>, with the passage of the <b>Traveling Exotic Animal Protection Act</b>, Congress aims to amend the Animal Welfare Act to restrict the use of exotic and wild animals in traveling circuses and traveling exhibitions.
+In 2011, Jorja went to Washington DC to talk to Congress about protecting animals while traveling. Also known as the <a href="http://www.federalcircusbill.org/">Federal Circus Bill</a>, with the passage of the **Traveling Exotic Animal Protection Act**, Congress aims to amend the Animal Welfare Act to restrict the use of exotic and wild animals in traveling circuses and traveling exhibitions.
 
 Here are two new pictures of the event:
 

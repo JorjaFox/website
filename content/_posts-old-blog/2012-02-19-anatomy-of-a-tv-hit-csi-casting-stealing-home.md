@@ -1,6 +1,6 @@
 ---
 id: 4350
-title: 'Anatomy of a TV Hit: CSI &#8211; Casting &#8220;Stealing Home&#8221;'
+title: 'Anatomy of a TV Hit: CSI — Casting "Stealing Home"'
 date: '2012-02-19T12:50:08-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Ever wonder what goes into casting for your favorite show? Watch the video for insight into what goes into finding the right players for one episode.'

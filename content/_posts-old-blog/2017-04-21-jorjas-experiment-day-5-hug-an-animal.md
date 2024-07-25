@@ -1,6 +1,6 @@
 ---
 id: 14401
-title: 'Jorja&#8217;s Experiment Day 5: Hug an Animal'
+title: 'Jorja's Experiment Day 5: Hug an Animal'
 date: '2017-04-21T16:00:04-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The last day! '

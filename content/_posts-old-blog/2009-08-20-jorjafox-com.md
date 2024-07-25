@@ -46,6 +46,6 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2009/08/jfcom.jpg"><img src="//static.jorjafox.net/wordpress/2009/08/jfcom-100x100.jpg" alt="jfcom" title="jfcom" width="100" height="100" class="alignleft size-thumbnail wp-image-1979" /></a> Another official website for Jorja Fox? Well, not really. <a href="http://jorjafox.org">JorjaFox.org</a> has always been a 'weird' website for an actor. It's not an attempt at shameless selling of self, nor is it a tell-all informational site (*cough*). Instead it's been a site about Jorja, the things she digs, and some random personal stuff. An insight to the mind of an amazing woman.  But promotional? No. It's never really been that.  So really why is anyone surprised that Jorja's got a 'work' website out there on the .com brand?
 
-<strong><a href="http://jorjafox.com">JorjaFox.com</a></strong> has photos, a clip reel, and some contact information.  I suspect a resume may be popping up in the future, but right now it's a very minimalistic approach to things.
+**<a href="http://jorjafox.com">JorjaFox.com</a>** has photos, a clip reel, and some contact information.  I suspect a resume may be popping up in the future, but right now it's a very minimalistic approach to things.
 
 Check it out. The clips are a nice highlight reel.

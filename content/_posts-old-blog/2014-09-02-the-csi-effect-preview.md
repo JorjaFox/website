@@ -1,6 +1,6 @@
 ---
 id: 11207
-title: '&#8220;The CSI Effect&#8221; Preview'
+title: '"The CSI Effect" Preview'
 date: '2014-09-02T15:30:21-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Bomb in a car? That''s a case of the Mondays.'

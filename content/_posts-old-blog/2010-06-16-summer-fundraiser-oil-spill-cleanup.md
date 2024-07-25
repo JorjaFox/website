@@ -1,6 +1,6 @@
 ---
 id: 2477
-title: 'Summer Fundraiser &#8211; Oil Spill Cleanup'
+title: 'Summer Fundraiser — Oil Spill Cleanup'
 date: '2010-06-16T09:17:55-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This summer, JFO will be raising money for the Surfrider Foundation, with the specific intent of helping clean up the BP Oil Spill.'

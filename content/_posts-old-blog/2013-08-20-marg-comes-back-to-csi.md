@@ -23,8 +23,8 @@ Episode five of season 14 is the 300th episode of CSI. That number blew my mind.
 
 https://twitter.com/marghelgen/status/369863642365181953
 <ul>
-	<li>TV Guide: <a href="http://www.tvguide.com/News/CSI-Marg-Helgenberger-300th-Episode-1069356.aspx">Marg Helgenberger Returning to <i>CSI</i> for 300th Episode</a></li>
-	<li>TV|Line: <a href="http://tvline.com/2013/08/20/marg-helgenberger-back-csi-300th-episode-returning-season-14/"><i>CSI</i> Exclusive: Marg Helgenberger Set to Return for Landmark 300th Episode</a></li>
+	<li>TV Guide: <a href="http://www.tvguide.com/News/CSI-Marg-Helgenberger-300th-Episode-1069356.aspx">Marg Helgenberger Returning to _CSI_ for 300th Episode</a></li>
+	<li>TV|Line: <a href="http://tvline.com/2013/08/20/marg-helgenberger-back-csi-300th-episode-returning-season-14/">_CSI_ Exclusive: Marg Helgenberger Set to Return for Landmark 300th Episode</a></li>
 	<li><a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=36354">CBS Press Express Press Release</a></li>
 </ul>
 <blockquote>Helgenberger's appearance will partially take place in a series of flashbacks. "We will flash back 14 years to seminal moments that show Catherine, Nick (George Eads), Sara (Jorja Fox), Greg (Eric Szmanda) and Ecklie (Marc Vann) as they were, [and how that] informed the evolution of the characters now. It's going to be a really fun episode, very emotional, that honors 14 years of <em>CSI</em>," McGill said.</blockquote>

@@ -1,6 +1,6 @@
 ---
 id: 2667
-title: 'CSI 11&#215;07 &#8220;Bump and Grind&#8221; Discussion Post (Updated)'
+title: 'CSI 11&#215;07 "Bump and Grind" Discussion Post (Updated)'
 date: '2010-11-04T09:00:27-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"We''ve got paper, plastic and yuck .... I''ve got yuck." - Sara Sidle dives into the yuck on tonight''s CSI. <em>Updated as of 10:38pm ET</em>'
@@ -30,7 +30,7 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2010/11/bumpgrind-100x100.jpg" alt="" title="bumpgrind" width="100" height="100" class="alignleft size-thumbnail wp-image-2670" /> <em>Updated as of 10:38pm ET</em>
 
-Rock, paper and yuck!  Speculate and spoil yourselves away. I'll update the post later tonight, once I have screencaps etc. They should all be up by midnight Eastern time. 
+Rock, paper and yuck!  Speculate and spoil yourselves away. I'll update the post later tonight, once I have screencaps etc. They should all be up by midnight Eastern time.
 
 <h3>Official Release</h3>
 When the CSI team discovers the shredded remains of a man, they find themselves with multiple suspects who may be responsible for his death.

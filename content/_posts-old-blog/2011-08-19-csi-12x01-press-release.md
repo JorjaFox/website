@@ -1,6 +1,6 @@
 ---
 id: 3671
-title: 'CSI 12&#215;01 &#8220;73 Seconds&#8221; Press Release'
+title: 'CSI 12&#215;01 "73 Seconds" Press Release'
 date: '2011-08-19T00:20:37-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The press release for the season premiere is out, and ... well we already knew it.'

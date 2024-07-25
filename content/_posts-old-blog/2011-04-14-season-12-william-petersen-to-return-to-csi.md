@@ -1,6 +1,6 @@
 ---
 id: 3283
-title: 'Season 12: William Petersen to return to &#8220;CSI&#8221;?'
+title: 'Season 12: William Petersen to return to "CSI"?'
 date: '2011-04-14T15:59:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Everyone''s contracts are up right now and being negotiated, so take all this with a big grain of salt.'
@@ -26,16 +26,16 @@ Bear in mind none of this is set in stone yet, but here's what it looks like.  C
 
 Today the rumors are:
 
-<em>RUMOR:</em> <strong>Jorja Fox</strong> is expected to return in some capacity.
+<em>RUMOR:</em> **Jorja Fox** is expected to return in some capacity.
 <em>FACT:</em> This is all my gut feeling.  I suspect it'll be similar to the same part-time/full-time capacity as she had in season 11 (that is, she will be listed as main cast, but not appear in every episode).
 
-<em>RUMOR:</em> <strong>William Petersen</strong> will also come back for some episodes.  Certainly for Marg's last episode(s), but the total number isn't determined yet.
-<em>FACT:</em>  Well he won't be back for the season finale, but the rest is up in the air.  Marg's recent interview with <strong>Télé Star</strong> magazine (see: Marg Helgenberger: “Grissom Will Return to CSI”) certainly seems to think so!
+<em>RUMOR:</em> **William Petersen** will also come back for some episodes.  Certainly for Marg's last episode(s), but the total number isn't determined yet.
+<em>FACT:</em>  Well he won't be back for the season finale, but the rest is up in the air.  Marg's recent interview with **Télé Star** magazine (see: Marg Helgenberger: “Grissom Will Return to CSI”) certainly seems to think so!
 
-<em>RUMOR:</em> <strong>Marg Helgenberger</strong> will be back for at least some episodes in some capacity.
+<em>RUMOR:</em> **Marg Helgenberger** will be back for at least some episodes in some capacity.
 <em>FACT:</em> Yes, she will be back, but we don't know for how many eps or how long.
 
-<em>RUMOR:</em> <strong>Laurence Fishburne</strong> is being written off.
+<em>RUMOR:</em> **Laurence Fishburne** is being written off.
 <em>FACT:</em> He may not be there for the whole season.  That is, quite literally, all I know about that matter!
 
 That's what we have right now folks. Take a deep breath!

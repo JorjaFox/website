@@ -15,7 +15,7 @@ episode: 5
 
 ## Synopsis
 
-While Connie and Carlos investigate the disappearance of a young Latino newly arrived from Mexico, Johnny has assigned himself an &#8220;unofficial&#8221; case. He thinks Connie's husband is cheating on her and decides to find out for sure. Enlisting an unwilling Bobby, who is working a case involving the disappearance of a middle-aged widower, they find out more than they want to know. Ray, contacted by the wife of a missing old colleague of his, has to find the man. He does, also finding out more than he wants know.
+While Connie and Carlos investigate the disappearance of a young Latino newly arrived from Mexico, Johnny has assigned himself an "unofficial" case. He thinks Connie's husband is cheating on her and decides to find out for sure. Enlisting an unwilling Bobby, who is working a case involving the disappearance of a middle-aged widower, they find out more than they want to know. Ray, contacted by the wife of a missing old colleague of his, has to find the man. He does, also finding out more than he wants know.
 
 ## Review
 

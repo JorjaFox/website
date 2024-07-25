@@ -24,8 +24,8 @@ tags:
 A one sheet is just what it sounds like.  One sheet of paper about a TV show.
 
 In CBS's case, they're incapable of spelling both Jorja Fox or Sara Sidle correctly in the same press-release.  Twelve years.
-<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2011/06/CSI-OneSheet.jpg"><img class="aligncenter size-full wp-image-3371" title="CSI-OneSheet" src="//static.jorjafox.net/wordpress/2011/06/CSI-OneSheet.jpg" alt="" width="611" height="473" /></a></p>
-Seriously, guys. Sara <strong>Sidel</strong>?  If you need a proofreader, I'm for hire!
+<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2011/06/CSI-OneSheet.jpg"><img class="aligncenter size-full wp-image-3371" title="CSI-OneSheet" src="//static.jorjafox.net/wordpress/2011/06/CSI-OneSheet.jpg" alt="" width="611" height="473" /></a>
+Seriously, guys. Sara **Sidel**?  If you need a proofreader, I'm for hire!
 
 It's sad that the spelling caught my attention more than the fact that, hey, wait a second, Jorja's listed on there to begin with!  I think signs are green for another season with Sara <del>Sidel</del> Sidle.  Oh, shuckey darn!  I did it too!
 

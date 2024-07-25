@@ -1,6 +1,6 @@
 ---
 id: 5311
-title: '&#8220;Code Blue Plate Special&#8221; Screencaps and Recap'
+title: '"Code Blue Plate Special" Screencaps and Recap'
 date: '2012-10-11T09:13:32-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Four stars for Sara again. I wonder if they have to find a new diner now...'

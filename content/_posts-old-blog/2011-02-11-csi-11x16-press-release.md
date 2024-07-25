@@ -1,6 +1,6 @@
 ---
 id: 3104
-title: 'CSI 11&#215;16 &#8220;Turn On, Tune In, Drop Dead&#8221; Press Release'
+title: 'CSI 11&#215;16 "Turn On, Tune In, Drop Dead" Press Release'
 date: '2011-02-11T10:00:39-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Brains.  BRAAAAAAAAAINS.  Braaaaaaaaaaaains!  Another CSI about the dead coming back to life.'
@@ -22,9 +22,9 @@ tags:
 
 Paul McCrane played Robert Romano on <em>ER</em>, with Jorja's Maggie Doyle!
 
-<blockquote>02.10.2011 THE CSIs MUST DEAL WITH A ZOMBIE EPIDEMIC AFTER TWO BODIES PRESUMED TO BE DEAD MYSTERIOUSLY COME BACK TO LIFE, ON "CSI: CRIME SCENE INVESTIGATION," THURSDAY, FEB. 24 
+<blockquote>02.10.2011 THE CSIs MUST DEAL WITH A ZOMBIE EPIDEMIC AFTER TWO BODIES PRESUMED TO BE DEAD MYSTERIOUSLY COME BACK TO LIFE, ON "CSI: CRIME SCENE INVESTIGATION," THURSDAY, FEB. 24
 
-"Turn On, Tune In, Drop Dead" - The CSIs are on zombie alert when two men initially pronounced dead mysteriously come back to life, on CSI: CRIME SCENE INVESTIGATION, Thursday, Feb. 24 (9:00-10:00 PM, ET/PT) on the CBS Television Network. 
+"Turn On, Tune In, Drop Dead" - The CSIs are on zombie alert when two men initially pronounced dead mysteriously come back to life, on CSI: CRIME SCENE INVESTIGATION, Thursday, Feb. 24 (9:00-10:00 PM, ET/PT) on the CBS Television Network.
 
 WRITTEN BY: Tom Mularz
 DIRECTED BY: Paul McCrane</blockquote>

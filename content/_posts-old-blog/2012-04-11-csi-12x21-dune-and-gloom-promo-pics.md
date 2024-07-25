@@ -1,6 +1,6 @@
 ---
 id: 4508
-title: 'CSI 12&#215;21 &#8220;Dune and Gloom&#8221; Promo Pics'
+title: 'CSI 12&#215;21 "Dune and Gloom" Promo Pics'
 date: '2012-04-11T20:57:21-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Dune and Gloom? We got dunes and Sara. And Morgan.'

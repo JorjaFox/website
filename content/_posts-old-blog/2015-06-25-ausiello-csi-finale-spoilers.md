@@ -21,7 +21,7 @@ tags:
 
 From <a href="http://tvline.com/2015/06/24/supernatural-season-11-spoilers-cast-amara-femme-fatale/">TV Line</a> here are the spoilers:
 
-> <strong>Question: Hey, Aus. Big Fan. Any inside scoop on the CSI finale movie? —Brandon</strong>
-> <strong>Ausiello:</strong> Hey, Bran. Rumor has it the show’s two-hour Sept. 27 swan song will kick off with a significant time jump — we’re talking roughly six months. I’m also hearing there’s a pivotal death.   
+> **Question: Hey, Aus. Big Fan. Any inside scoop on the CSI finale movie? —Brandon**
+> **Ausiello:** Hey, Bran. Rumor has it the show’s two-hour Sept. 27 swan song will kick off with a significant time jump — we’re talking roughly six months. I’m also hearing there’s a pivotal death.
 
 Who do you think the death is?

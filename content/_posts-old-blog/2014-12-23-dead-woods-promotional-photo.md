@@ -1,6 +1,6 @@
 ---
 id: 11768
-title: '&#8220;Dead Woods&#8221; Promotional Photo'
+title: '"Dead Woods" Promotional Photo'
 date: '2014-12-23T10:09:58-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara revisits an old case with a sole survivor.'

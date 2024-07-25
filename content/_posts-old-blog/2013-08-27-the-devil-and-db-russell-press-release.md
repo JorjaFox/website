@@ -1,6 +1,6 @@
 ---
 id: 8093
-title: '&#8220;The Devil and DB Russell&#8221; Press Release'
+title: '"The Devil and DB Russell" Press Release'
 date: '2013-08-27T18:27:12-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The new season starts on September 25th, with a hunt to find Morgan! Read all the details.'

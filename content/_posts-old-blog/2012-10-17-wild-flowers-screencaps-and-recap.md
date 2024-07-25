@@ -1,6 +1,6 @@
 ---
 id: 5365
-title: '&#8220;Wild Flowers&#8221; Screencaps and Recap'
+title: '"Wild Flowers" Screencaps and Recap'
 date: '2012-10-17T21:10:56-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Three stars and I will never watch this episode again. It weighs heavily on my soul.'
@@ -28,13 +28,13 @@ I do give it three stars for Sara, but that's an episode I <em>never</em> want t
 	<li><a href="https://jorjafox.net/gallery/tv/csi/season13/03wild/">Screencaps</a></li>
 </ul>
 Oh and here's the intro dialogue you may like.
-<blockquote><strong>Grissom:</strong> <em>[Voicemail]</em> This is Gill Grissom. I'm unable to take your call, please leave a message.
+<blockquote>**Grissom:** <em>[Voicemail]</em> This is Gill Grissom. I'm unable to take your call, please leave a message.
 
-<strong>Sidle:</strong> <em>[To her phone]</em> Hello, Gilbert. Happy Anniversary. I hope you're out there celebrating. And it's official, time differences really suck. Look, I miss you. I'm going to try to call you back later. It's been a while, you know, since we really caught up. Love you.
+**Sidle:** <em>[To her phone]</em> Hello, Gilbert. Happy Anniversary. I hope you're out there celebrating. And it's official, time differences really suck. Look, I miss you. I'm going to try to call you back later. It's been a while, you know, since we really caught up. Love you.
 
-<strong>Russell:</strong> <em>[To his phone]</em> ... nah, I'm taking good care of myself. Matter of fact, I had leftover pizza for breakfast... I'm kidding honey! ... I know you're needed up there, but I need you down here, too... Love you too, sweatheart. Bye bye.
+**Russell:** <em>[To his phone]</em> ... nah, I'm taking good care of myself. Matter of fact, I had leftover pizza for breakfast... I'm kidding honey! ... I know you're needed up there, but I need you down here, too... Love you too, sweatheart. Bye bye.
 
-<strong>Sidle:</strong> Welcome to the joys of long distance relationships.
+**Sidle:** Welcome to the joys of long distance relationships.
 
-<strong>Russell:</strong> I don't know how you do it...</blockquote>
+**Russell:** I don't know how you do it...</blockquote>
 Neither do we, DB.

@@ -24,10 +24,10 @@ tags:
     - birthday
 ---
 
-<p>Another year has gone by, and this year we're all looking forward to <em>CSI: Vegas</em>. We still don't know a lot, but likely Jorja's busy working on her birthday to get the series finished and wrapped.</p>
+Another year has gone by, and this year we're all looking forward to <em>CSI: Vegas</em>. We still don't know a lot, but likely Jorja's busy working on her birthday to get the series finished and wrapped.
 
-<p>Hopefully she gets some time off to enjoy the nice weather (seriously, it's really nice right now in SoCal) and catch some waves.</p>
+Hopefully she gets some time off to enjoy the nice weather (seriously, it's really nice right now in SoCal) and catch some waves.
 
-<p>See you on the small screen soon, Jorja!</p>
+See you on the small screen soon, Jorja!
 
 <figure class="wp-block-image size-large"><img src="https://static.jorjafox.net/wordpress/2021/07/toa-heftiba-nETT5VTozM0-unsplash-960x945.jpg" alt="" class="wp-image-18369"/></figure>

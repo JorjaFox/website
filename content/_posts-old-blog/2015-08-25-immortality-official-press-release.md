@@ -1,6 +1,6 @@
 ---
 id: 13366
-title: '&#8220;Immortality&#8221; Official Press Release'
+title: '"Immortality" Official Press Release'
 date: '2015-08-25T14:27:17-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'William Peterson and Marg Helgenberger return for a special 2-hour series finale of #CSI 9/27 9pm ET/PT '
@@ -20,17 +20,17 @@ tags:
 ---
 
 
-<blockquote><strong>GRISSOM AND WILLOWS RETURN TO HELP THE CSI TEAM SOLVE A CATASTROPHIC CASE THAT PARALYZES ALL OF LAS VEGAS, ON THE SPECIAL TWO-HOUR SERIES FINALE OF “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, SEPT. 27</strong>
+<blockquote>**GRISSOM AND WILLOWS RETURN TO HELP THE CSI TEAM SOLVE A CATASTROPHIC CASE THAT PARALYZES ALL OF LAS VEGAS, ON THE SPECIAL TWO-HOUR SERIES FINALE OF “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, SEPT. 27**
 
 <img src="//jfo-static.net/wordpress/2015/08/0564d4ec4885448fc55b26b11c1ae743.png" alt="0564d4ec4885448fc55b26b11c1ae743" width="836" height="642" class="aligncenter size-full wp-image-13410" />
 
-<strong>Current and Past Series Stars Scheduled to Appear Include William Petersen, Marg Helgenberger, Ted Danson, Jorja Fox, Eric Szmanda, Robert David Hall, Paul Guilfoyle, David Berman, Wallace Langham, Elisabeth Harnois and Jon Wellner
+**Current and Past Series Stars Scheduled to Appear Include William Petersen, Marg Helgenberger, Ted Danson, Jorja Fox, Eric Szmanda, Robert David Hall, Paul Guilfoyle, David Berman, Wallace Langham, Elisabeth Harnois and Jon Wellner
 
-Melinda Clarke Returns as Lady Heather</strong>
+Melinda Clarke Returns as Lady Heather**
 
 “Immortality Parts I and II” – Grissom and Willows return to help the CSI team solve a catastrophic case that paralyzes all of Las Vegas, on the special two-hour series finale of CSI: CRIME SCENE INVESTIGATION, Sunday, Sept. 27 (9:00-11:00 PM, ET/PT), on the CBS Television Network.  Past and current series stars scheduled to appear include William Petersen, Marg Helgenberger, Ted Danson, Jorja Fox, Eric Szmanda, Robert David Hall, Paul Guilfoyle, Wallace Langham, David Berman, Elisabeth Harnois and Jon Wellner.  Also, Melinda Clarke returns as Lady Heather.
 
-CHEAT TWEET: #WilliamPetersen + @MargHelgen return 4 a special 2-hour series finale of #CSI 9/27 9pm ET/PT http://bit.ly/1hZCUa6 
+CHEAT TWEET: #WilliamPetersen + @MargHelgen return 4 a special 2-hour series finale of #CSI 9/27 9pm ET/PT http://bit.ly/1hZCUa6
 
 SCHEDULED TO APPEAR:
 
@@ -47,7 +47,7 @@ Elisabeth Harnois (Morgan Brody)
 Jon Wellner (Henry Andrews)
 
 GUEST CAST – “IMMORTALITY PART I”:
- 
+
 Katie Stevens (Lindsey Willows)
 Marc Vann (Conrad Ecklie)
 Melinda Clarke (Lady Heather)

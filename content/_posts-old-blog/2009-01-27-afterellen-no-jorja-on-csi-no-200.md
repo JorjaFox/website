@@ -1,6 +1,6 @@
 ---
 id: 1494
-title: 'AfterEllen: No Jorja on CSI&#8217;s ep #200'
+title: 'AfterEllen: No Jorja on CSI's ep #200'
 date: '2009-01-27T09:38:31-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '<a href="http://www.afterellen.com/column/ask-afterellen-01-27-09?page=0%2C2">AfterEllen.com</a> answers ''Will Jorja be on CSI''s 200th Episiode?'' and ''Has Jorja ever said what her sexuality is?''  with "No'' to both.'
@@ -37,4 +37,4 @@ tags:
 
 Ask AfterEllen tackles the tough questions.  Will Jorja be on <em>CSI</em>'s 200th episode? Has Jorja ever stated her sexuality?  The answer, to both, is no. Read the full questions and answer at  Ask AfterEllen's Jan 27th release.
 
-Source: AfterEllen.com 
+Source: AfterEllen.com

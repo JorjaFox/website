@@ -1,6 +1,6 @@
 ---
 id: 10333
-title: 'What&#8217;s Your Cause? 2'
+title: 'What's Your Cause? 2'
 date: '2014-04-03T11:30:52-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'More causes, more Jorja. What''s yours?'

@@ -1,6 +1,6 @@
 ---
 id: 6286
-title: '&#8220;Forget Me Not&#8221; Promo Stills'
+title: '"Forget Me Not" Promo Stills'
 date: '2013-02-05T15:04:03-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Five Promo Stills with Sara, thanks to CSI Files!'

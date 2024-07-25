@@ -1,6 +1,6 @@
 ---
 id: 13601
-title: '&#8220;Immortality&#8221; Sneak Peeks'
+title: '"Immortality" Sneak Peeks'
 date: '2015-09-24T13:28:51-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two sneak peeks for CSI''s upcoming finale: Immortality.'

@@ -21,7 +21,7 @@ tags:
 
 This week's Fall Sneak Peek from TV Guide includes a two-page spread on CSI:
 
-<blockquote><strong>After 15 years and countless cases, <em>CSI</em> closes the lab for good with a two-hour send-off.</strong>
+<blockquote>**After 15 years and countless cases, <em>CSI</em> closes the lab for good with a two-hour send-off.**
 
 <img src="//jfo-static.net/wordpress/2015/08/20150827-tvguide01.jpg" alt="Sara Sidle investigates a crime" width="1943" height="1359" class="aligncenter size-full wp-image-13453" />
 

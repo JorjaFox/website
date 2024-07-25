@@ -1,6 +1,6 @@
 ---
 id: 2824
-title: 'Don&#8217;t Be a Creepy Fan'
+title: 'Don't Be a Creepy Fan'
 date: '2010-12-20T16:25:01-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Remember that everyone''s a person, so no matter how much you gush over them, try to be cool about it.'
@@ -22,7 +22,7 @@ tags:
     - misc
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/12/creepyfan.jpg" alt="" title="creepyfan" width="230" height="200" class="alignleft size-full wp-image-2825" /> This is slightly off topic, and apropos only of the people squeeing like fangirls at poor @MarleeMatlin about being on CSI (and acting with Jorja).  A friend of mine posted a pretty awesome reminder to some fans to not be that creepy fan.  It was so spot-on that I asked her if I could cross-post here, even though i know not all of you are watching <em>Rizzoli & Isles</em> (and I really want Jorja to guest on it so I can have even more of an excuse to watch that show!).  The idea of <strong>not</strong> being a creepy fan is true of all fandoms!
+<img src="//static.jorjafox.net/wordpress/2010/12/creepyfan.jpg" alt="" title="creepyfan" width="230" height="200" class="alignleft size-full wp-image-2825" /> This is slightly off topic, and apropos only of the people squeeing like fangirls at poor @MarleeMatlin about being on CSI (and acting with Jorja).  A friend of mine posted a pretty awesome reminder to some fans to not be that creepy fan.  It was so spot-on that I asked her if I could cross-post here, even though i know not all of you are watching <em>Rizzoli & Isles</em> (and I really want Jorja to guest on it so I can have even more of an excuse to watch that show!).  The idea of **not** being a creepy fan is true of all fandoms!
 
 <blockquote>[...]
 

@@ -1,6 +1,6 @@
 ---
 id: 3017
-title: 'CSI 11&#215;14 &#8220;All That Cremains&#8221; has Jorja and Katee'
+title: 'CSI 11&#215;14 "All That Cremains" has Jorja and Katee'
 date: '2011-01-07T17:15:39-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'TV sets across the nation (and for anyone of the many AfterEllen fans who come here) will implode.  Jorja. And. Katee.  Same episode.  Yay!'
@@ -26,7 +26,7 @@ tags:
 
 First, Jorja will be in the episode.
 
-Second?  Jorja <strong>AND</strong> Katee Sackhoff will be in the episode.
+Second?  Jorja **AND** Katee Sackhoff will be in the episode.
 
 Many thanks to Jeffery Hunt, CSI director, for the shot!
 

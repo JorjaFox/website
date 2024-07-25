@@ -1,6 +1,6 @@
 ---
 id: 2700
-title: 'Incentive 8 &#8211; Screencaps for Missing Persons (01&#215;03)'
+title: 'Incentive 8 — Screencaps for Missing Persons (01&#215;03)'
 date: '2010-11-16T19:18:06-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '127 images from "People Don''t Talk to Cops, People Lie to Cops", plus a repost of the video from Cabe, since it got borked by YouTube! '
@@ -36,4 +36,4 @@ Also, since YouTube screwed up the sound, here's a repost of the last video:
 http://www.youtube.com/watch?v=NbwC5Rpjb3Y
 
 Want to see more? Then donate and you'll get video clips and images galore!  Click here:
-<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br /><strong>Animal Acres Winter 2010 Fundraiser</strong></a></center>
+<center><a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline"><img src="//static.jorjafox.net/wordpress/2010/11/crowdrise.jpg" alt="" title="crowdrise" width="388" height="124" class="aligncenter size-full wp-image-2683" /><br />**Animal Acres Winter 2010 Fundraiser**</a></center>

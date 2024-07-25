@@ -1,6 +1,6 @@
 ---
 id: 5890
-title: '&#8220;CSI on Fire&#8221; Promo'
+title: '"CSI on Fire" Promo'
 date: '2012-11-19T14:28:07-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'No Sara in the promo nor the episode. Take a week off, JFO Nation.'

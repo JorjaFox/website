@@ -35,6 +35,6 @@ I have to say, I've heard a lot of interviews with Jorja over the years, but thi
 
 Click <a href="http://www.podtunecast.com/PetsInTheCity_038_JorjaFox.mp3">HERE</a>&nbsp;to listen to it.</blockquote>
 
-As for the interview itself, Ann graciously allowed me to repost it here: <strong><a href="https://jorjafox.net/wiki/Pets_In_The_City_(9_February_2011)">Pets In The City Transcript</a></strong>.
+As for the interview itself, Ann graciously allowed me to repost it here: **<a href="https://jorjafox.net/wiki/Pets_In_The_City_(9_February_2011)">Pets In The City Transcript</a>**.
 
 (By the way, it takes about three hours to transcript something of that length. I know I appreciate it when someone else takes the time out of their day to do it for me, so please send love and cookies to Ann!)

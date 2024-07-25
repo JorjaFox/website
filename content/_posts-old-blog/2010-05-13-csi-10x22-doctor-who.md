@@ -1,6 +1,6 @@
 ---
 id: 2387
-title: 'CSI 10&#215;22 &#8211; &#8220;Doctor Who&#8221; Discussion Post (UPDATED)'
+title: 'CSI 10&#215;22 — "Doctor Who" Discussion Post (UPDATED)'
 date: '2010-05-13T08:00:59-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team must investigate one of their own when Langston is accused by a former colleague of being part of the Dr. Jekyll murders. (UPDATED)'
@@ -28,7 +28,7 @@ tags:
 <img src="//static.jorjafox.net/wordpress/2010/05/doctorwho-100x100.jpg" alt="" title="doctorwho" width="100" height="100" class="alignleft size-thumbnail wp-image-2390" /> As usual, speculate and spoil yourselves. I'll update the post later tonight once I have screencaps etc.
 
 <h2>Official Release</h2>
-The CSI team must investigate one of their own when Langston is accused by a former colleague of being part of the Dr. Jekyll murders. Also Nate Haskell, the infamous "Dick and Jane" killer, may have valuable information about the case. 
+The CSI team must investigate one of their own when Langston is accused by a former colleague of being part of the Dr. Jekyll murders. Also Nate Haskell, the infamous "Dick and Jane" killer, may have valuable information about the case.
 
 <h2>Videos</h2>
 http://www.youtube.com/watch?v=aCZ1bCbquKc

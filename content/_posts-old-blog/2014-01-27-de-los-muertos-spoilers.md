@@ -1,6 +1,6 @@
 ---
 id: 9793
-title: '&#8220;De Los Muertos&#8221; Spoilers'
+title: '"De Los Muertos" Spoilers'
 date: '2014-01-27T04:00:44-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CSI leaves the country in "De Los Muertos"'

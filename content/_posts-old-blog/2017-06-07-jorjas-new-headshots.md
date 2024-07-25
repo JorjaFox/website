@@ -1,6 +1,6 @@
 ---
 id: 14565
-title: 'Jorja&#8217;s New Headshots'
+title: 'Jorja's New Headshots'
 date: '2017-06-07T14:46:28-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Amazing new headshots of Jorja.'

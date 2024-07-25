@@ -1,6 +1,6 @@
 ---
 id: 4342
-title: '&#8220;Seeing Red&#8221; Recap and Screencaps'
+title: '"Seeing Red" Recap and Screencaps'
 date: '2012-02-16T08:28:23-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Not tons of Sara, but it was smart, science Sara, and that''s always a great way to spend a Wednesday.'

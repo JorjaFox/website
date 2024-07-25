@@ -16,7 +16,7 @@ categories:
 
 <img src="//static.jorjafox.net/wordpress/2010/08/buddypress-100x100.jpg" alt="" title="buddypress" width="100" height="100" class="alignleft size-thumbnail wp-image-2545" /> This came up again, so I thought a main-site explanation was in order. While this information is all linked to under 'Site Help' on the grey bar at the top of every JFO page (it's the links in green), sometimes it helps to read about it.
 
-There are no forums on JFO right now. They MIGHT return one day, but there were a lot of problems with them.  Instead of forums, JFO runs on <strong>BuddyPress</strong>, which allows you to post to the Site Wide Activity Page, have your own special status page for anything you want to talk about (within reason, mind, no porn, for example), send private messages to people, and post in groups.
+There are no forums on JFO right now. They MIGHT return one day, but there were a lot of problems with them.  Instead of forums, JFO runs on **BuddyPress**, which allows you to post to the Site Wide Activity Page, have your own special status page for anything you want to talk about (within reason, mind, no porn, for example), send private messages to people, and post in groups.
 
 What are groups, activity, notifications, messaging and all this other stuff? Here's a breakdown!
 <ul>

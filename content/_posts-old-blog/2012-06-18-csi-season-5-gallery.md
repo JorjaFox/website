@@ -32,7 +32,7 @@ The coolest thing about the revamp for season five is I found a whole mess of 'N
 
 Click on the images to see the rest!
 
-Oh. Plus? <strong>Eagle</strong> got us a couple new images from Marg's Hollywood Star thingy.
+Oh. Plus? **Eagle** got us a couple new images from Marg's Hollywood Star thingy.
 
 <a title="Jorja" href="https://jorjafox.net/gallery/zp-core/i.php?a=pub/csi/20120123-margstar&amp;i=daylife-001.jpg&amp;s=540&amp;cw=&amp;ch=&amp;q=90&amp;wmk=!" rel="showcase"><img src="https://jorjafox.net/gallery/cache/pub/csi/20120123-margstar/daylife-001_200_cw200_ch200_thumb.jpg" alt="Jorja" width="150" height="150" /></a> <a title="Jorja and Marg" href="https://jorjafox.net/gallery/zp-core/i.php?a=pub/csi/20120123-margstar&amp;i=getty-001.jpg&amp;s=540&amp;cw=&amp;ch=&amp;q=90&amp;wmk=!" rel="showcase"><img src="https://jorjafox.net/gallery/cache/pub/csi/20120123-margstar/getty-001_200_cw200_ch200_thumb.jpg" alt="Jorja and Marg" width="150" height="150" /></a> <a title="The Cast" href="https://jorjafox.net/gallery/zp-core/i.php?a=pub/csi/20120123-margstar&amp;i=getty-002.jpg&amp;s=540&amp;cw=&amp;ch=&amp;q=90&amp;wmk=!" rel="showcase"><img src="https://jorjafox.net/gallery/cache/pub/csi/20120123-margstar/getty-002_200_cw200_ch200_thumb.jpg" alt="The Cast" width="150" height="150" /></a>
 

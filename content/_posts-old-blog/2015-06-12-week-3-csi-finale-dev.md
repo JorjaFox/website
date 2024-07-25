@@ -26,14 +26,14 @@ http://twitter.com/ShaneSSaunders/status/607037516496003073
 
 https://twitter.com/waldeckvision/status/608507829427642368
 
-This is true, but some things are being moved to <i>CSI: Cyber</i> so they'll be able to film the movie. They have to take it down in order to set up the new show for that location. I'm very thankful I got a chance to see the set once.
+This is true, but some things are being moved to _CSI: Cyber_ so they'll be able to film the movie. They have to take it down in order to set up the new show for that location. I'm very thankful I got a chance to see the set once.
 
-While Zuiker has been quiet about the filming, when he does talk about <i>CSI</i> he mentions GSR:
+While Zuiker has been quiet about the filming, when he does talk about _CSI_ he mentions GSR:
 
 http://twitter.com/zuiker/status/607175593365356545
 
 Marg was on some CBS talk shows for "The Dome" (which she'll guest on this summer) and said CSI starts filming in July.
 
-Liz Devine mentioned that in the CSI Writers' Room, they have <strong>EP. 1602, end of Act IV</strong> on the board and when she wrote "End of Series" everyone fell silent.
+Liz Devine mentioned that in the CSI Writers' Room, they have **EP. 1602, end of Act IV** on the board and when she wrote "End of Series" everyone fell silent.
 
 Based on that, I believe they're going to treat it like a two-part episode (so a TV movie) rather than just one super-long episode (think "Lady Heather's Box").

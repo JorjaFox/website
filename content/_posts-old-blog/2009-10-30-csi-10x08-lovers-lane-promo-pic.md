@@ -1,6 +1,6 @@
 ---
 id: 2093
-title: 'CSI 10&#215;08 &#8220;Lovers Lane&#8221; promo pic (Updated)'
+title: 'CSI 10&#215;08 "Lovers Lane" promo pic (Updated)'
 date: '2009-10-30T09:10:30-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '<del datetime="2009-10-30T19:11:07+00:00">We still have no word that Jorja''s actually in this episode, but</del> Jorja''s in the episode and we do have a promo picture of her and the gang at the bowling alley, thanks to Dustin Lee Abraham! '
@@ -45,7 +45,7 @@ That <a href="http://twitter.com/vegasoul">@vegasoul</a> is so sneaky! He saved 
 
 Credit: <a href="http://twitpic.com/nh21e">@vegasoul at TwitPic</a>
 
-<del datetime="2009-10-30T19:11:07+00:00">I should point out that we still don't know that Jorja's in this episode, but the complete press release isn't out yet. This may change.  Wait and see!</del>  
+<del datetime="2009-10-30T19:11:07+00:00">I should point out that we still don't know that Jorja's in this episode, but the complete press release isn't out yet. This may change.  Wait and see!</del>
 
 Confirmed! She's in it!
 <blockquote>vegasoul @jorjafoxonline Fox is all over Lover's Lanes.</blockquote>

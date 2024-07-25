@@ -1,6 +1,6 @@
 ---
 id: 9985
-title: '&#8220;Killer Moves&#8221; Press Release'
+title: '"Killer Moves" Press Release'
 date: '2014-02-24T14:56:02-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Elvis, birds, and ... Chess? What on earth is going on in CSI?'

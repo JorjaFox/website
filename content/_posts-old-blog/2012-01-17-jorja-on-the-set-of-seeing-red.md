@@ -1,6 +1,6 @@
 ---
 id: 4217
-title: 'Jorja on the set of &#8220;Seeing Red&#8221;?'
+title: 'Jorja on the set of "Seeing Red"?'
 date: '2012-01-17T12:46:29-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja and Alec Smight (director) on set for ... some episode. (ETA: Stealing Home!)'

@@ -20,7 +20,7 @@ newsurl: http://tvguide.com
 
 [...]
 
-**Question:** You can't just say "On the *<U>CSI: Crime Scene Investigation</U>* finale, Grissom and Sara will have sex.... Or will they?" and leave it like that. *We need to know.* Will they? Could they? &#8212; Cindy
+**Question:** You can't just say "On the ***CSI: Crime Scene Investigation*** finale, Grissom and Sara will have sex.... Or will they?" and leave it like that. *We need to know.* Will they? Could they? &#8212; Cindy
 
 **Ausiello:** Will they? Dunno. Could they? Sure! Seriously, folks, I was just kidding. Or *was* I... ?
 

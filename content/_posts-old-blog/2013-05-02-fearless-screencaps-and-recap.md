@@ -1,6 +1,6 @@
 ---
 id: 7085
-title: '&#8220;Fearless&#8221; Screencaps and Recap'
+title: '"Fearless" Screencaps and Recap'
 date: '2013-05-02T09:56:19-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A gun, a goat, a drug scam, and four stars for Sara in last night''s CSI. If you didn''t watch it, you should.'

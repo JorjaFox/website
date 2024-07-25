@@ -1,6 +1,6 @@
 ---
 id: 9142
-title: '&#8220;Passed Pawns&#8221; Recap and Screencaps'
+title: '"Passed Pawns" Recap and Screencaps'
 date: '2013-10-31T04:00:41-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'One star, one scene. What did you expect?'

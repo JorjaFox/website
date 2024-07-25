@@ -1,6 +1,6 @@
 ---
 id: 2604
-title: 'Press Release &#8211; CSI 11&#215;04: Sqweegel'
+title: 'Press Release — CSI 11&#215;04: Sqweegel'
 date: '2010-09-21T13:37:15-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sorry guys, we have to watch Sqweegel for Sara.  At least Ann-Margaret''s in it, too!'
@@ -25,7 +25,7 @@ tags:
 
 <blockquote> "Sqweegel" - Sqweegel, a serial killer who is punishing local heroes that harbor hidden secrets, is on the hunt in Las Vegas, on CSI: CRIME SCENE INVESTIGATION, Thursday, Oct. 14 (9:00-10:00 PM, ET/PT) on the CBS Television Network.  Golden Globe and Emmy Award winner Ann-Margret guest stars as Margot Wilton, a legendary icon of the Vegas strip.
 
-<strong>SERIES REGULARS:</strong>
+**SERIES REGULARS:**
 Dr. Raymond Langston: Laurence Fishburne
 Catherine Willows: Marg Helgenberger
 Nick Stokes: George Eads
@@ -35,10 +35,10 @@ Dr. Robbins: Robert David Hall
 David Phillips: David Berman
 Hodges: Wallace Langham
 
-<strong>RECURRING CAST:</strong>
+**RECURRING CAST:**
 Sara Sidle: Jorja Fox
 
-<strong>GUEST CAST:</strong>
+**GUEST CAST:**
 Margot Wilton: Ann-Margret
 </blockquote>
 

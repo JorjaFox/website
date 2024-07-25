@@ -1,6 +1,6 @@
 ---
 id: 9197
-title: '&#8220;Under a Cloud&#8221; is Based on True Events'
+title: '"Under a Cloud" is Based on True Events'
 date: '2013-11-05T10:00:04-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"Watch CSI tomorrow. Its a great ride. Based on true events ... with added drama."'

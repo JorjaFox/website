@@ -1,6 +1,6 @@
 ---
 id: 11580
-title: 'What&#8217;s Got Sara Spooked?'
+title: 'What's Got Sara Spooked?'
 date: '2014-11-11T04:12:43-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'So it''s not a dead body this time but ...'

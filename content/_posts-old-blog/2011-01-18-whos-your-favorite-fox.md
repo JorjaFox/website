@@ -1,6 +1,6 @@
 ---
 id: 3053
-title: 'Who&#8217;s Your Favorite Fox?'
+title: 'Who's Your Favorite Fox?'
 date: '2011-01-18T15:53:44-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja, Megan, Mulder?  Sure, University of Georgia fans will vote for their head coach, Mark, but I know you''re voting Jorja. Right? Riiiiight?'
@@ -20,7 +20,7 @@ tags:
     - article
 ---
 
-<img src="//static.jorjafox.net/wordpress/2011/01/favfox-100x100.jpg" alt="" title="favfox" width="100" height="100" class="alignleft size-thumbnail wp-image-3054" /> University of Georgia sports fansite <a href="http://www.dawgsports.com/">DawgSports</a> is pretty sure that every denizen of Bulldog Nation is a fan of Mark Fox (their head basketball coach, for those of you who don't know your NCAA from the Big Ten).  Still, T Kyle King manned up and asked <strong>Who’s your favorite Fox?</strong>
+<img src="//static.jorjafox.net/wordpress/2011/01/favfox-100x100.jpg" alt="" title="favfox" width="100" height="100" class="alignleft size-thumbnail wp-image-3054" /> University of Georgia sports fansite <a href="http://www.dawgsports.com/">DawgSports</a> is pretty sure that every denizen of Bulldog Nation is a fan of Mark Fox (their head basketball coach, for those of you who don't know your NCAA from the Big Ten).  Still, T Kyle King manned up and asked **Who’s your favorite Fox?**
 
 You knew our girl made the list, right?  Go visit <a href="http://www.dawgsports.com/2011/1/18/1942206/georgia-bulldogs-basketball-fans-is-mark-fox-your-favorite-fox">Dawg Sports.com</a> and vote for your favorite Fox!  I voted for Jorja. Of course.
 

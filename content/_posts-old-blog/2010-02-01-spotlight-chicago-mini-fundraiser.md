@@ -1,9 +1,9 @@
 ---
 id: 2196
-title: '&#8220;Spotlight: Chicago&#8221; Mini Fundraiser'
+title: '"Spotlight: Chicago" Mini Fundraiser'
 date: '2010-02-01T15:06:48-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Donations to JFO for February will go to <strong>Spotlight: Chicago</strong> (Updated with a video!)'
+excerpt: 'Donations to JFO for February will go to **Spotlight: Chicago** (Updated with a video!)'
 layout: post
 guid: 'https://jorjafox.net/?p=2196'
 permalink: /2010/spotlight-chicago-mini-fundraiser/
@@ -44,4 +44,4 @@ To donate, please click on the paypal button below.
 
 As always, there is absolutely NO expectation on you to donate.  I know the economy is utterly horrific for a lot of you, and I'd rather you keep your money!  Me? I'm putting in my 'treat' fund that I use to buy two fancy coffee drinks a month.
 
-Also remember that Paypal <strong>DOES</strong> deduct some from your transaction (unless it's a Paypal to Paypal transfer) so if you donate $20, I usually see $18.50 to $19, depending on what country you're from.
+Also remember that Paypal **DOES** deduct some from your transaction (unless it's a Paypal to Paypal transfer) so if you donate $20, I usually see $18.50 to $19, depending on what country you're from.

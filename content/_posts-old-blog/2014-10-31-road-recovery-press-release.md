@@ -1,6 +1,6 @@
 ---
 id: 11509
-title: '&#8220;Road To Recovery&#8221; Press Release'
+title: '"Road To Recovery" Press Release'
 date: '2014-10-31T14:45:03-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A woman full of alcohol and drugs found dead at a rehab facility? Tune in to a case not solved by Sara on November 16th.'

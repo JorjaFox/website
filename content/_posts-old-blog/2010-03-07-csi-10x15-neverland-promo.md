@@ -1,6 +1,6 @@
 ---
 id: 2296
-title: 'CSI 10&#215;15 &#8220;Neverland&#8221; Promo'
+title: 'CSI 10&#215;15 "Neverland" Promo'
 date: '2010-03-07T08:00:14-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Promotional video for next week''s CSI.'

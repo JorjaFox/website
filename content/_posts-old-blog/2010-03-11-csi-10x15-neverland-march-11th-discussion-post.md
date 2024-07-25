@@ -1,6 +1,6 @@
 ---
 id: 2305
-title: 'CSI 10&#215;15 &#8220;Neverland&#8221; March 11th &#8211; Discussion Post (Updated)'
+title: 'CSI 10&#215;15 "Neverland" March 11th — Discussion Post (Updated)'
 date: '2010-03-11T07:51:35-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: '"They have tried everything to get this guy off!"  Sara and Ray in a fire? Must be March sweeps! <em>Updated at 10:45pm ET.</em>'
@@ -30,11 +30,11 @@ tags:
 <img src="//static.jorjafox.net/wordpress/2010/03/neverland-100x100.jpg" alt="" title="unshockable" width="100" height="100" class="alignleft size-thumbnail wp-image-2290" />"They have tried everything to get this guy off!"  <em>CSI</em> fights fire with ... well, not fire.  Discuss the episode here. <del datetime="2010-03-12T03:39:32+00:00">Spoilers will happen and, as always, I'll update once the ep airs and we have caps etc.</del>
 
 <h2>Official Release</h2>
-When a young boy is found murdered, the CSI team uncovers evidence that may link his death to an old case that recently resurfaced. 
+When a young boy is found murdered, the CSI team uncovers evidence that may link his death to an old case that recently resurfaced.
 
 <h2>Spoilers</h2>
 ET broke the news this morning:
-<blockquote><strong>The Murder of a 14 Year Old Has Ties to the Past on 'CSI'</strong>
+<blockquote>**The Murder of a 14 Year Old Has Ties to the Past on 'CSI'**
 
 When a young boy is found murdered, the CSI team uncovers evidence that may link his death to an old case of Sara Sidle's (Jorja Fox) on tonight's episode of "CSI: Crime Scene Investigation." </blockquote>
 

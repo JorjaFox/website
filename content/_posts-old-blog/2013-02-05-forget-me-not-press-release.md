@@ -1,6 +1,6 @@
 ---
 id: 6266
-title: '&#8220;Forget Me Not&#8221; Press Release'
+title: '"Forget Me Not" Press Release'
 date: '2013-02-05T14:53:29-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'If you haven''t been keeping up, here''s everything you need to know for "Forget Me Not"'
@@ -33,9 +33,9 @@ Stan Egi (Joel Brenner)</blockquote>
 "Forget Me Not" has a lot going on, but for those who haven't kept up, here's what we know.
 
 Sara is accused of the murder of Taylor Wynard (played by Carter MacIntyre), and her mother, Laura Sidle (Kay Lenz) is brought in as part of the ploy. Sara claims both her innocence and that she did not sleep with Taylor, no matter what the evidence says. The frame is a set up of Ronald Basderic, the stalker from <a href="https://jorjafox.net/wiki/Code_Blue_Plate_Special">"Code Blue Plate Special."</a> To say that Sara was a little agressive towards Basderic when last they met would be an understatement. She was Sara Sidle of old, who chased rabbits and sometimes fought to make the evidence fit what she wanted.
-<blockquote><strong>Basderic:</strong> You see. You were wrong. I didn't hurt her. I couldn't. I loved her.
+<blockquote>**Basderic:** You see. You were wrong. I didn't hurt her. I couldn't. I loved her.
 
-<strong>Sidle:</strong> You loved her? Are you kidding me? You terrorized her. You kept her awake at night. You made her afraid to walk down the street. And you want to know what else your twisted love did? It killed her, Ronald. Edie was supposed to be off work at 4:00. She should have been gone when the shooting happened, it she was afraid to walk home because she was afraid that you were out there. It's because of you that she stayed, and now she's dead.</blockquote>
+**Sidle:** You loved her? Are you kidding me? You terrorized her. You kept her awake at night. You made her afraid to walk down the street. And you want to know what else your twisted love did? It killed her, Ronald. Edie was supposed to be off work at 4:00. She should have been gone when the shooting happened, it she was afraid to walk home because she was afraid that you were out there. It's because of you that she stayed, and now she's dead.</blockquote>
 Yeah, that's our old Sara.
 
 The episode airs Feb 20th on CBS.

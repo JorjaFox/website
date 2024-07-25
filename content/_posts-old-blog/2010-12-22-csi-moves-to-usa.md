@@ -21,10 +21,10 @@ tags:
     - article
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/12/20101222-075708.jpg" alt="" class="alignleft size-full" /> 
+<img src="//static.jorjafox.net/wordpress/2010/12/20101222-075708.jpg" alt="" class="alignleft size-full" />
 
-<p>So I don't know how I missed this, but <em>CSI</em> is moving... On cable that is.</p>
+So I don't know how I missed this, but <em>CSI</em> is moving... On cable that is.
 
-<p>Starting January, SpikeTV has lost the exclusive rights to re-air the show, and it will now be on USA. They'll kick it off with 24 hours of <em>CSI</em> on Friday, January 14th, 2011. Which means there's a great way to make your still hung-over friends puke. The extra fun zoom in camera feature! From now until 2014, both Spike and USAwill air the show.</p>
+Starting January, SpikeTV has lost the exclusive rights to re-air the show, and it will now be on USA. They'll kick it off with 24 hours of <em>CSI</em> on Friday, January 14th, 2011. Which means there's a great way to make your still hung-over friends puke. The extra fun zoom in camera feature! From now until 2014, both Spike and USAwill air the show.
 
-<p><a href="http://blog.sitcomsonline.com/2010/12/csi-joins-usa-network-in-january-2011.html">Source</a></p>
+<a href="http://blog.sitcomsonline.com/2010/12/csi-joins-usa-network-in-january-2011.html">Source</a>

@@ -1,6 +1,6 @@
 ---
 id: 4497
-title: '&#8220;Split Decisions&#8221; Screencaps and Recap'
+title: '"Split Decisions" Screencaps and Recap'
 date: '2012-04-05T08:38:28-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Screencaps, Recap and Review. This was a nice episode! Three stars. Think it should be four?'

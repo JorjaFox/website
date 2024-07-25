@@ -18,7 +18,7 @@ tags:
 
 It's like I'm never satisfied. It's actually been 21 months since a re-do, and this time it was for one major goal.
 
-<strong>Mobile</strong>
+**Mobile**
 
 <img class="aligncenter size-full wp-image-8491" alt="new-look" src="//static.jorjafox.net/wordpress/2013/09/new-look.png" width="1092" height="574" />
 

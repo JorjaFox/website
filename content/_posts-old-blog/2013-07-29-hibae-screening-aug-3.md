@@ -18,11 +18,11 @@ tags:
     - producer
 ---
 
-<blockquote>A screening of <strong><em>How I Became an Elephant</em></strong> will be held at Franklin D. Roosevelt Park on Saturday, August 3rd, 2013.
+<blockquote>A screening of **<em>How I Became an Elephant</em>** will be held at Franklin D. Roosevelt Park on Saturday, August 3rd, 2013.
 
-<strong>7:45pm</strong> Food &amp; Drink
+**7:45pm** Food &amp; Drink
 
-<strong>8:15pm</strong> Screening of <em>How I Became an Elephant</em>
+**8:15pm** Screening of <em>How I Became an Elephant</em>
 
 After the screening:
 
@@ -31,7 +31,7 @@ After the screening:
 
 and…
 
-a <strong>HUGE gift basket worth $250.</strong>
+a **HUGE gift basket worth $250.**
 
 Franklin D. Roosevelt Park
 7600 Graham Avenue

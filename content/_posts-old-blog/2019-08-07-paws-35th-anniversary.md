@@ -17,12 +17,12 @@ tags:
     - PAWS
 ---
 
-<p>Founded in 1984, the Performing Animal Welfare Society (PAWS) rescues, advocates, and provides humane sanctuary for captive wild animals. Jorja filmed a video for their 35th anniversary.</p>
+Founded in 1984, the Performing Animal Welfare Society (PAWS) rescues, advocates, and provides humane sanctuary for captive wild animals. Jorja filmed a video for their 35th anniversary.
 
 <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
 https://twitter.com/pawsark2000/status/1123289292971827200?s=21
 </div></figure>
 
-<p>Their anniversary celebration will be November 9th, 2019, in Orange County California, and will be open to the public.</p>
+Their anniversary celebration will be November 9th, 2019, in Orange County California, and will be open to the public.
 
-<p>Keep tabs on their <a href="http://www.pawsweb.org/calendar_of_events.html">Calendar of Events</a>.</p>
+Keep tabs on their <a href="http://www.pawsweb.org/calendar_of_events.html">Calendar of Events</a>.

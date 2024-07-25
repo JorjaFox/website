@@ -1,6 +1,6 @@
 ---
 id: 19071
-title: '&#8220;Signed, Sealed, Delivered&#8221; Sneak Peek'
+title: '"Signed, Sealed, Delivered" Sneak Peek'
 date: '2021-12-05T08:41:00-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Is the evidence left behind a trap or a clue? It''s hard to tell with a criminal who knows what evidence will and won''t sway a jury.'
@@ -52,7 +52,7 @@ tags:
     - video
 ---
 
-<p>I'm including both, since the first has Sara but the second has more case info:</p>
+I'm including both, since the first has Sara but the second has more case info:
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=qFWV90MHUqg
@@ -62,4 +62,4 @@ https://www.youtube.com/watch?v=qFWV90MHUqg
 https://www.youtube.com/watch?v=Ok3yrA3505U
 </div></figure>
 
-<p></p>
+

@@ -1,6 +1,6 @@
 ---
 id: 2333
-title: 'Dustin Lee Abraham &#8220;For the CSI heads&#8221;'
+title: 'Dustin Lee Abraham "For the CSI heads"'
 date: '2010-03-31T21:18:18-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'GORE WARNING! This pic is a little bloody, though really not all that much.'

@@ -1,6 +1,6 @@
 ---
 id: 4096
-title: 'CSI 12&#215;09 &#8220;Zippered&#8221; Screencaps and Recap'
+title: 'CSI 12&#215;09 "Zippered" Screencaps and Recap'
 date: '2011-12-07T23:36:23-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'I''m being really nice giving this one three stars.  There should have been more Sara.'

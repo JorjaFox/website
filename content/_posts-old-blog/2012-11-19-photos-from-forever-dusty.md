@@ -1,6 +1,6 @@
 ---
 id: 5885
-title: 'Photos From &#8220;Forever Dusty&#8221;'
+title: 'Photos From "Forever Dusty"'
 date: '2012-11-19T11:43:56-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Photos of Jorja in NYC for the premiere of "Forever Dusty"'

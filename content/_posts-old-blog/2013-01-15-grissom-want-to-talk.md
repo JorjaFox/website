@@ -29,4 +29,4 @@ Now please, remember to breathe and watch a <em>second</em> clip with Sara, th
 https://vimeo.com/57502101
 
 Well now. I'm excited!
-<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2013/01/vlcsnap-00001.jpg"><img class="size-full wp-image-6177 aligncenter" alt="Sara and Finn" src="//static.jorjafox.net/wordpress/2013/01/vlcsnap-00001.jpg" width="320" height="180" /></a></p>
+<p style="text-align: center;"><a href="//static.jorjafox.net/wordpress/2013/01/vlcsnap-00001.jpg"><img class="size-full wp-image-6177 aligncenter" alt="Sara and Finn" src="//static.jorjafox.net/wordpress/2013/01/vlcsnap-00001.jpg" width="320" height="180" /></a>

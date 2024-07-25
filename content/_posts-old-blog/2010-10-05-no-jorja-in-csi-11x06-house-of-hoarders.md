@@ -3,7 +3,7 @@ id: 2624
 title: 'No Jorja in CSI 11&#215;05: House of Hoarders'
 date: '2010-10-05T14:10:08-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja <strong>WILL NOT</strong> be in this episode. Sorry.'
+excerpt: 'Jorja **WILL NOT** be in this episode. Sorry.'
 layout: post
 guid: 'https://jorjafox.net/?p=2624'
 permalink: /2010/no-jorja-in-csi-11x06-house-of-hoarders/
@@ -25,7 +25,7 @@ tags:
 ---
 
 Here we go again.  CBS is changing the order of airing.  In order the next eps are:
-&bull; 233 (1104)	"Blood Moon" - October 07, 2010	
+&bull; 233 (1104)	"Blood Moon" - October 07, 2010
 &bull; 234 (1103)	"Sqweegel" - October 14, 2010
 &bull; 235 (1106) "House of Hoarders" - October 21, 2010 <em>NO JORJA</em>
 &bull; 236 (1105)	"Cold-Blooded" - October 28, 2010 <em>NO JORJA</em>
@@ -34,9 +34,9 @@ The two numbers you see are "episode number (production number)".  The episode n
 
 I do keep a running list of the episodes in which Jorja appears at the <a href="https://jorjafox.net/wiki/CSI:_Crime_Scene_Investigation_(season_11)">season 11 episode list</a>.
 
-<blockquote>"House of Hoarders" - A woman who suffers from a condition called "hoarding" becomes a murder suspect when a dead body is found buried under piles of trash and debris inside her home, on CSI: CRIME SCENE INVESTIGATION, Thursday, Oct. 21 (9:00-10:00 PM, ET/PT) on the CBS Television Network. 
+<blockquote>"House of Hoarders" - A woman who suffers from a condition called "hoarding" becomes a murder suspect when a dead body is found buried under piles of trash and debris inside her home, on CSI: CRIME SCENE INVESTIGATION, Thursday, Oct. 21 (9:00-10:00 PM, ET/PT) on the CBS Television Network.
 
-<strong>SERIES REGULARS:</strong>
+**SERIES REGULARS:**
 Dr. Raymond Langston: Laurence Fishburne
 Catherine Willows: Marg Helgenberger
 Nick Stokes: George Eads

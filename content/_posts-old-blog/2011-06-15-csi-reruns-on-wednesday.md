@@ -19,7 +19,7 @@ tags:
     - 'press release'
 ---
 
-<img class="alignleft size-thumbnail wp-image-3425" title="1113-2mrs05" src="//static.jorjafox.net/wordpress/2011/06/1113-2mrs05-100x100.jpg" alt="" width="100" height="100" />Starting Wednesday, June 29th, <em>CSI</em> will be airing on Wednesday.  I know this isn't a shock to you, since you've known our show was moving, but here's the happy part.  They're re-airing "The Two Mrs. Grissoms."  Yeah, I know!  The <strong>only</strong> episode I've ever gone out of my way to re-watch will re-air.  And of course I'll be on vacation that week.
+<img class="alignleft size-thumbnail wp-image-3425" title="1113-2mrs05" src="//static.jorjafox.net/wordpress/2011/06/1113-2mrs05-100x100.jpg" alt="" width="100" height="100" />Starting Wednesday, June 29th, <em>CSI</em> will be airing on Wednesday.  I know this isn't a shock to you, since you've known our show was moving, but here's the happy part.  They're re-airing "The Two Mrs. Grissoms."  Yeah, I know!  The **only** episode I've ever gone out of my way to re-watch will re-air.  And of course I'll be on vacation that week.
 
 Here's the schedule:
 <ul>

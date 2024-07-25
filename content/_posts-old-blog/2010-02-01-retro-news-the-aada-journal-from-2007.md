@@ -1,6 +1,6 @@
 ---
 id: 2194
-title: 'Retro News &#8211; The AADA Journal from 2007'
+title: 'Retro News — The AADA Journal from 2007'
 date: '2010-02-01T09:12:30-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Archeologists have recently discovered a missing interview of Jorja Fox, by the American Academy of Dramatic Arts (of which she is an alumni), dating back to 2007!'
@@ -25,7 +25,7 @@ The Journal of <a href="http://www.aada.org/">The American Academy of Dramatic A
 
 My favorite question was this:
 
-<blockquote><strong>How do you play a character that you do not connect to – or do not like?</strong>
+<blockquote>**How do you play a character that you do not connect to – or do not like?**
 
 I don’t. If my heart’s not in it, my work really suffers. It’s obvious when I’m not passionate about what I’m doing, which isn’t fair to my employers or me. I’ve had jobs I haven’t loved to pay the rent but never artistic ones. Bartending, temping, that kind of thing. If I don’t care for the story or the role I don’t take the job. </blockquote>
 

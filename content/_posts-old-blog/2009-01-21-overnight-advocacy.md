@@ -37,12 +37,12 @@ tags:
     - video
 ---
 
-Just can't get enough of Jorja's advocacy? We've got two videos of her, thanks to the eagle eyes of <a href="http://emptyeyes1.livejournal.com/">emptyeyes1</a> of JAA. 
+Just can't get enough of Jorja's advocacy? We've got two videos of her, thanks to the eagle eyes of <a href="http://emptyeyes1.livejournal.com/">emptyeyes1</a> of JAA.
 
-<b>Jorja Fox speaks at LA City Hall to close the elephant exhibit</b>
+**Jorja Fox speaks at LA City Hall to close the elephant exhibit**
 <center><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/wXQhRYBubD4&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wXQhRYBubD4&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 <a href="https://jorjafox.net/wiki/Voice_For_The_Animals_Foundation">Transcript</a> &bull; <a href="https://jorjafox.net/gallery/tv/advocacy/20081200-elephant/">Screencaps</a></center>
 
-<b>Orangutan Outreach PSA</b>
+**Orangutan Outreach PSA**
 <center><object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/_crwoONs7xE&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_crwoONs7xE&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
 <a href="https://jorjafox.net/wiki/Orangutan_Outreach">Transcript</a> &bull; <a href="https://jorjafox.net/gallery/tv/advocacy/20080500-redapes/">Screencaps</a></center>

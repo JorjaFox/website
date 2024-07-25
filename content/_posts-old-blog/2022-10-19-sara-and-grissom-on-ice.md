@@ -23,12 +23,12 @@ tags:
     - 'csi: vegas'
 ---
 
-<p>Sorry, I couldn't help the joke.</p>
+Sorry, I couldn't help the joke.
 
-<p>I know this is late, but my excuse is I started a new job AND I got Covid. The latter sucks. Please get vaxed and stay safe.</p>
+I know this is late, but my excuse is I started a new job AND I got Covid. The latter sucks. Please get vaxed and stay safe.
 
-<p>Anyway, as was revealed by <a href="https://tvline.com/2022/09/24/csi-vegas-video-season-2-premiere-sara-gil-not-returning/">TV Line back in September</a>, Grissom and Sara are up on the arctic circle.</p>
+Anyway, as was revealed by <a href="https://tvline.com/2022/09/24/csi-vegas-video-season-2-premiere-sara-gil-not-returning/">TV Line back in September</a>, Grissom and Sara are up on the arctic circle.
 
-<p>Sounds very chill.</p>
+Sounds very chill.
 
-<p>Would you like to see random updates about where in the world are GSR? And where would you go if you were them?</p>
+Would you like to see random updates about where in the world are GSR? And where would you go if you were them?

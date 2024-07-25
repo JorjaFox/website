@@ -1,6 +1,6 @@
 ---
 id: 3126
-title: 'Operation: Lion Ark &#8211; Videos'
+title: 'Operation: Lion Ark — Videos'
 date: '2011-02-17T08:55:09-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Two Operation: Lion Ark videos.  Jorja is over the moon and is trying to keep from crying.'
@@ -20,7 +20,7 @@ tags:
     - video
 ---
 
-<strong>Warning</strong>: Videos may not be available in all countries, though they should work for anyone in the USA.  Sorry about that, but it's outside my control. News media gets snippy if I try and work around that.
+**Warning**: Videos may not be available in all countries, though they should work for anyone in the USA.  Sorry about that, but it's outside my control. News media gets snippy if I try and work around that.
 
 The video is from ABC news, and has no one speaking.
 

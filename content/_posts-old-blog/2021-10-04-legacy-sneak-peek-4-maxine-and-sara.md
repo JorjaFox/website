@@ -1,6 +1,6 @@
 ---
 id: 18848
-title: '&#8220;Legacy&#8221; Sneak Peek #4 &#8211; Maxine and Sara'
+title: '"Legacy" Sneak Peek #4 — Maxine and Sara'
 date: '2021-10-04T12:17:01-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'When Sara Sidle meets Maxine Roby, it''s a chef-kiss friendship from the start.'
@@ -26,7 +26,7 @@ tags:
     - video
 ---
 
-<p>We're almost there!</p>
+We're almost there!
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=BlDGrU8lVxE

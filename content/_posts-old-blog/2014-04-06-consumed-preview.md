@@ -1,6 +1,6 @@
 ---
 id: 10366
-title: '&#8220;Consumed&#8221; Preview'
+title: '"Consumed" Preview'
 date: '2014-04-06T16:38:38-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'New CSI on Wednesday! Blood, gore, and sandwiches!'

@@ -1,6 +1,6 @@
 ---
 id: 2038
-title: 'CSI ep 10&#215;01: &#8220;Family Affair&#8221; Open Topic (closed)'
+title: 'CSI ep 10&#215;01: "Family Affair" Open Topic (closed)'
 date: '2009-09-24T12:17:14-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This topic is to talk about tonight''s airing of the season 10 premiere of <em>CSI</em>.  When screencaps and a recap are up later tonight, it will be closed.  Spoilers will happen here.'
@@ -39,13 +39,13 @@ tags:
 
 This post will be closed later tonight when the screencaps and recap are posted. Don't worry, I'll update this one to make sure you know!  <del datetime="2009-09-25T02:19:38+00:00">For now, share your spoilers, spec, hopes and dreams here!  And yes, you can post while the show airs.</del>  And now we're moved to <a href="https://jorjafox.net/2009/09/24/csi-10x01-family-affair-recap-and-images/">the recap and screencap post</a>!
 
-<strong>Official Release</strong>
-The CSI team, with the unexpected but welcome return of Sara, comes together to investigate the death of a famous young actress killed in a dubious traffic collision. 
+**Official Release**
+The CSI team, with the unexpected but welcome return of Sara, comes together to investigate the death of a famous young actress killed in a dubious traffic collision.
 
-<strong>Spoilers We Know</strong>
+**Spoilers We Know**
 Uh ... lesse, Grissom and Sara are hitched!  Someone leaks news from a crime scene and Ecklie yells at Catherine about it.  Greg and Nick (and Langston) get promoted.  Riley's gone and Sara's in ... For now.
 
-<strong>News Posts</strong>
+**News Posts**
 Also here's a collection of the most recent news posts about CSI and Jorja:
 <ul>
 	<li><a href="http://www.thefutoncritic.com/rant.aspx?id=20090924_csi">The Futon Critic</a> -- Interview: Executive Producer Naren Shankar on "CSI's" Post-Petersen World</li>

@@ -1,6 +1,6 @@
 ---
 id: 4347
-title: '&#8220;Stealing Home&#8221; Extended Preview'
+title: '"Stealing Home" Extended Preview'
 date: '2012-02-18T20:13:30-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja''s in the promos and you know that means another fun lovin'' episode of CSI on Wednesday.'

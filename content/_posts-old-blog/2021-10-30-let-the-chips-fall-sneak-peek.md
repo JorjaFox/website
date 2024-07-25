@@ -1,6 +1,6 @@
 ---
 id: 18968
-title: '&#8220;Let the Chips Fall&#8221; Sneak Peek'
+title: '"Let the Chips Fall" Sneak Peek'
 date: '2021-10-30T19:00:00-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Grissom and Sara delve deeper and get closer to uncovering who is framing David Hodges. '
@@ -50,12 +50,12 @@ tags:
     - video
 ---
 
-<p>There are three, but here's the GSR (and a rare-treat is revealed!)</p>
+There are three, but here's the GSR (and a rare-treat is revealed!)
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=nEV-RuPimA0
 </div></figure>
 
-<p>See also:</p>
+See also:
 
 <ul><li><a href="https://www.youtube.com/watch?v=XsMwaTAGqBM">Sneak Peek 2</a></li><li><a href="https://www.youtube.com/watch?v=SrSXKJUmLWc">Sneak Peek 3</a></li></ul>

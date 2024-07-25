@@ -1,6 +1,6 @@
 ---
 id: 10145
-title: '&#8220;Long Road Home&#8221; Discussion Post'
+title: '"Long Road Home" Discussion Post'
 date: '2014-03-12T13:45:24-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A rock groupie found murdered? KISS Rock & Roll Hall of Famer Gene Simmons guest stars! New CSI tonight 10pm ET/PT'

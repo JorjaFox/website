@@ -1,6 +1,6 @@
 ---
 id: 5225
-title: '&#8220;Karma to Burn&#8221; Clip'
+title: '"Karma to Burn" Clip'
 date: '2012-09-23T13:43:29-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara, Nick, a cell phone, beers, and a jail cell.'

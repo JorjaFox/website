@@ -1,6 +1,6 @@
 ---
 id: 7152
-title: 'CSI 13&#215;21 &#8220;Ghost of the Past&#8221; Sneak Peek'
+title: 'CSI 13&#215;21 "Ghost of the Past" Sneak Peek'
 date: '2013-05-07T18:22:07-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A dead serial killer? Why not! This is CSI after all.'

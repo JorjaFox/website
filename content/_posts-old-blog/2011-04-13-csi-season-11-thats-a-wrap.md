@@ -1,6 +1,6 @@
 ---
 id: 3269
-title: 'CSI Season 11 &#8211; That&#8217;s a Wrap!'
+title: 'CSI Season 11 — That's a Wrap!'
 date: '2011-04-13T07:52:18-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja and Eric were the last out for this season of CSI.  That''s all she wrote for season 11, folks!'

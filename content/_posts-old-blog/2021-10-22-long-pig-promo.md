@@ -1,6 +1,6 @@
 ---
 id: 18929
-title: '&#8220;Long Pig&#8221; Promo'
+title: '"Long Pig" Promo'
 date: '2021-10-22T10:26:40-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'This case is the pits! A body in a luau pit, and IA after GSR, it''s all in the next episode!'
@@ -26,12 +26,12 @@ tags:
     - video
 ---
 
-<blockquote class="wp-block-quote"><p>The CSI team investigates when a body is dug up in the luau pit of a Hawaiian-themed hotel. Also, Internal Affairs begins to question Grissom and Sara's return to the crime lab, on the CBS Original series CSI: VEGAS, Wednesday, Oct. 27 (10:00-11:00 PM, ET/PT) on the CBS Television</p></blockquote>
+<blockquote class="wp-block-quote">The CSI team investigates when a body is dug up in the luau pit of a Hawaiian-themed hotel. Also, Internal Affairs begins to question Grissom and Sara's return to the crime lab, on the CBS Original series CSI: VEGAS, Wednesday, Oct. 27 (10:00-11:00 PM, ET/PT) on the CBS Television</blockquote>
 
-<p>While Jorja (and Billy) are <strong>not</strong> in any of the sneak peeks, there's a hint of a kiss in the promo:</p>
+While Jorja (and Billy) are **not** in any of the sneak peeks, there's a hint of a kiss in the promo:
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=Kz2eUgnYPh8
 </div></figure>
 
-<p>I try to only post the official CBS promos (for reasons -- enforcement of copyrights has changed a lot in the last 5 years) but for some reason, CBS hasn't dropped this one.</p>
+I try to only post the official CBS promos (for reasons -- enforcement of copyrights has changed a lot in the last 5 years) but for some reason, CBS hasn't dropped this one.

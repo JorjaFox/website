@@ -1,6 +1,6 @@
 ---
 id: 3829
-title: 'CSI 12&#215;02 &#8220;Tell-Tale Hearts&#8221; Discussion Post'
+title: 'CSI 12&#215;02 "Tell-Tale Hearts" Discussion Post'
 date: '2011-09-28T08:00:51-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Who killed Whom on CSI tonight?  Three suspects lay claim to one killing!'

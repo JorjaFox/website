@@ -1,6 +1,6 @@
 ---
 id: 12813
-title: 'World CSI Day &#8211; March 4'
+title: 'World CSI Day — March 4'
 date: '2015-02-26T08:41:11-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'CBS has declared Wednesday, March 4 "World CSI Day", and will embark on a global effort for CSI to break the GUINNESS WORLD RECORDS Achievement for “Largest Ever TV Drama Simulcast.”'

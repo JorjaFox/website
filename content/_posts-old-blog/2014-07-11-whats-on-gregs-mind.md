@@ -1,6 +1,6 @@
 ---
 id: 11045
-title: 'What&#8217;s on Greg&#8217;s Mind?'
+title: 'What's on Greg's Mind?'
 date: '2014-07-11T20:30:57-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Sara and Greg still on the case!'
@@ -21,4 +21,4 @@ tags:
 
 http://twitter.com/CSIWritersRoom/status/487788875645865985
 
-There's a "Jorja on my mind" joke in here... By the way, they're starting episode one today. That means they filmed two, three, then one. <i>And</i> they're doing multiple episodes at once. Yikes!
+There's a "Jorja on my mind" joke in here... By the way, they're starting episode one today. That means they filmed two, three, then one. _And_ they're doing multiple episodes at once. Yikes!

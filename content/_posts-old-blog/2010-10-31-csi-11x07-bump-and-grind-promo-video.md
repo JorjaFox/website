@@ -1,6 +1,6 @@
 ---
 id: 2664
-title: 'CSI 11&#215;07: &#8220;Bump and Grind&#8221; Promo Video'
+title: 'CSI 11&#215;07: "Bump and Grind" Promo Video'
 date: '2010-10-31T10:06:11-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja''s in the promo, which means, you got it, we get her!'

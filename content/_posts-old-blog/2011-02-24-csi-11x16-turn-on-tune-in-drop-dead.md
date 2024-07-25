@@ -1,6 +1,6 @@
 ---
 id: 3110
-title: 'CSI 11&#215;16: &#8220;Turn On, Tune In, Drop Dead&#8221; Discussion Post (Updated!)'
+title: 'CSI 11&#215;16: "Turn On, Tune In, Drop Dead" Discussion Post (Updated!)'
 date: '2011-02-24T09:00:29-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Zombies and trailers?  We all know Zombies like brains and who''s the brainiest CSI we know?  Sara better watch out on tonight''s <em>CSI</em>. (Updated with Screencaps and recap!)'
@@ -37,4 +37,4 @@ Wow. Not a great episode, sort of decent with amusing moments, lots of one liner
 
 &bull; <a href="https://jorjafox.net/wiki/Turn_On_Tune_In_Drop_Dead">Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/season11/totidd">Screencaps</a>
-[starrater] 
+[starrater]

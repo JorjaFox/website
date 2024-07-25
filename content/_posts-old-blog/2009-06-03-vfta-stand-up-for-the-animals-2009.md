@@ -1,6 +1,6 @@
 ---
 id: 1876
-title: 'VFTA &#8211; Stand Up For the Animals 2009'
+title: 'VFTA — Stand Up For the Animals 2009'
 date: '2009-06-03T10:38:56-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja was a presenter at the 2009 Stand Up For the Animals event, hosted by Voice For the Animals (VTFA).  Pictures have been found.'

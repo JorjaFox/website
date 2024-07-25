@@ -1,6 +1,6 @@
 ---
 id: 1457
-title: 'Site Changes &#8211; Gallery and Forum'
+title: 'Site Changes — Gallery and Forum'
 date: '2009-01-26T15:54:46-08:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Adding links to forum topics, removing watermarks, upgrading image quality, and a farewell to fanart.'

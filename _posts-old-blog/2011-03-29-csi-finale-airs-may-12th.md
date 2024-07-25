@@ -18,4 +18,4 @@ tags:
 format: aside
 ---
 
-The <em>CSI </em>season finale will air May 12th.
+The _CSI _season finale will air May 12th.

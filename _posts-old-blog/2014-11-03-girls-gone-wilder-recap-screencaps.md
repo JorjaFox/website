@@ -29,7 +29,7 @@ tags:
     - tv
 ---
 
-Welcome to the week delayed recap of a week delayed show which <em>actually</em> aired for me at home. Seriously, I came home to find it on my DVR. Now I know that 90% of you have not seen this episode. To that I express my apologies. You know how to look this stuff up online, so please do, but <em>also</em> please send in actual letters (postal mail) to CBS and express that you want this show and this episode to air.
+Welcome to the week delayed recap of a week delayed show which _actually_ aired for me at home. Seriously, I came home to find it on my DVR. Now I know that 90% of you have not seen this episode. To that I express my apologies. You know how to look this stuff up online, so please do, but _also_ please send in actual letters (postal mail) to CBS and express that you want this show and this episode to air.
 
 ****If you have not seen the episode and do not want spoilers, turn back now.****
 

@@ -3,7 +3,7 @@ id: 2781
 title: 'Premiere of "How I Became An Elephant" — Photos (updated)'
 date: '2010-12-04T19:52:42-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'A pair of photos from Jorja at the premiere of "How I Became An Elephant".  <em>Updated December 5th</em>'
+excerpt: 'A pair of photos from Jorja at the premiere of "How I Became An Elephant".  _Updated December 5th_'
 layout: post
 guid: 'https://jorjafox.net/?p=2781'
 permalink: /2010/premiere-of-how-i-became-an-elephant-photos/

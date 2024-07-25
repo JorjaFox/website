@@ -3,7 +3,7 @@ id: 3153
 title: 'ADI and Issues with Jane Velez-Mitchell'
 date: '2011-02-24T11:38:16-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Images and a transcript from last night''s  <em>Issues with Jane Velez-Mitchell</em>.'
+excerpt: 'Images and a transcript from last night''s  _Issues with Jane Velez-Mitchell_.'
 layout: post
 guid: 'https://jorjafox.net/?p=3153'
 permalink: /2011/adi-and-issues-with-jane-velez-mitchell/
@@ -22,7 +22,7 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2011/02/issues-100x100.jpg" alt="" title="issues" width="100" height="100" class="alignleft size-thumbnail wp-image-3154" />Jorja (and Bob Barker) were on <em>Issues with Jane Velez-Mitchell</em> yesterday. I only knew becuase the ADI folks mentioned they were filming it right then!  The show re-aired at 3am, so I used my clever DVR skills and now we have screencaps and a transcript!  Okay, CNN made the transcript.
+<img src="//static.jorjafox.net/wordpress/2011/02/issues-100x100.jpg" alt="" title="issues" width="100" height="100" class="alignleft size-thumbnail wp-image-3154" />Jorja (and Bob Barker) were on _Issues with Jane Velez-Mitchell_ yesterday. I only knew becuase the ADI folks mentioned they were filming it right then!  The show re-aired at 3am, so I used my clever DVR skills and now we have screencaps and a transcript!  Okay, CNN made the transcript.
 
 &bull; <a href="https://jorjafox.net/wiki/Issues_with_Jane_Velez-Mitchell_(23_February_2011)">Transcript</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/talkshow/20110223-issues/">Screencaps</a>

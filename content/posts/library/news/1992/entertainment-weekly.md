@@ -19,4 +19,3 @@ Here's something different and ambitious from ABC's Afterschool Specials series:
 There are also Marla (Samaria Graham) and Diane (Jorjan Fox), waitresses in one of the mall's fast-food restaurants. Marla is perpetually cranky because her mom is remarrying without having consulted her, and because she has recently been passed over for a promotion to assistant manager. Diane is a recovering alcoholic and former drug addict whose will is being tested by the sudden reappearance of her old boyfriend (Todd Graff), who used to provide her with drugs.
 
 [...]
-

@@ -24,4 +24,3 @@ On tonight's ER ? airing 10 pm/ET on NBC ? many ex-cast members are expected to 
 "Honestly, every time I think I'm over it, they remind me how disturbing our show is," Fox ? who plays lab-rat Sara ? hints. "Two upcoming episodes are the grossest ones we've had on. This summer break will be nice. I'll do things where the sun is shining, and I'm not going to be interested in dead people at all!"
 
 So far, leading lady Marg Helgenberger has snagged most of CSI's awards show nods ? but has Fox any Emmy hopes for herself? "I'm so thrilled for Marg; she's brilliant," the 33-year-old says. "I would be a liar if I said I didn't have hopes for an acting nomination. Everybody does."
-

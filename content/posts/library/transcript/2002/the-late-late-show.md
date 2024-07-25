@@ -165,7 +165,7 @@ tags: ["2002"]
 
 **Craig Kilborn** That's amazing.
 
-**Jorja Fox** &#8212; other than United States.
+**Jorja Fox** - other than United States.
 
 **Craig Kilborn** How was uh, where'd you go in Europe?
 
@@ -187,7 +187,7 @@ tags: ["2002"]
 
 **Jorja Fox** Yeah, that's London.
 
-**Craig Kilborn** &#8212; sleeping. Beginning of the trip. No handcuffs in sight, thank goodness.
+**Craig Kilborn** - sleeping. Beginning of the trip. No handcuffs in sight, thank goodness.
 
 **Jorja Fox** There were no handcuffs!
 

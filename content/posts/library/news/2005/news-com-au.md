@@ -20,4 +20,3 @@ The *Reservoir Dogs* creator may be known for his fondness for graphic violence,
 "I was really surprised at how emotional it (the episode) was," she says. "There were a couple of times I just had to sort of not cry and I didn't ever imagine that I would get like that."
 
 [...]
-

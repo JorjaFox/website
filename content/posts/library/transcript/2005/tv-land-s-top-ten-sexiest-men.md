@@ -9,6 +9,6 @@ categories: ["Interviews"]
 tags: [ "2005" ]
 ---
 
-"TV Land's Top Ten" is a show about the top ten <whatever>.
+"TV Land's Top Ten" is a show about the top ten [whatever].
 
 Jorja Fox was on the June 15, 2005 episode for 'Sexiest Men'

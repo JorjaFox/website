@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-<blockquote>**<em>CSI</em> (CBS)**
+<blockquote>**_CSI_ (CBS)**
 
 Premieres: Sunday, Sept. 28 at 10/9c
 

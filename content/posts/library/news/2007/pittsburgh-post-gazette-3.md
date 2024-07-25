@@ -24,4 +24,3 @@ newsurl: http://www.post-gazette.com/pg/07334/837855-238.stm?cmpid=entertainment
 **Rob:** She's gone as a series regular, but she may return as a guest star.
 
 [...]
-

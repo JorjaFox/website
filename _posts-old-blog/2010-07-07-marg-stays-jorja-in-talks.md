@@ -24,9 +24,9 @@ Our eternal frenemy, Michael Ausiello has breaking news.
 
 <blockquote>Catherine Willows won’t be leaving Las Vegas anytime soon.
 
-Sources confirm to me exclusively that Marg Helgenberger has inked a new contract with <em>CSI</em>.
+Sources confirm to me exclusively that Marg Helgenberger has inked a new contract with _CSI_.
 
-With Helgenberger’s deal done, the spotlight shifts to fellow <em>CSI</em> vets George Eads (Nick), Eric Szmanda (Greg), and Paul Guilfoyle (Jim), all of whom are negotiating new deals ahead of the show’s 11th season. Jorja Fox is also in talks to return in some capacity.
+With Helgenberger’s deal done, the spotlight shifts to fellow _CSI_ vets George Eads (Nick), Eric Szmanda (Greg), and Paul Guilfoyle (Jim), all of whom are negotiating new deals ahead of the show’s 11th season. Jorja Fox is also in talks to return in some capacity.
 
 Liz Vassey, meanwhile, will not be back.
  </blockquote>
@@ -35,7 +35,7 @@ Credit: <a href="http://ausiellofiles.ew.com/2010/07/07/csi-exclusive-marg-helge
 
 ETA: Eric is staying!
 
-<blockquote>**Question: Any update on the <em>CSI</em> contract negotiations? I’m psyched Marg Helgenberger is sticking around but I’m worried about the others. —Luca**
+<blockquote>**Question: Any update on the _CSI_ contract negotiations? I’m psyched Marg Helgenberger is sticking around but I’m worried about the others. —Luca**
 
 **Ausiello: THIS JUST IN:** Eric Szmanda (Greg) has inked a new deal as well! That leaves George Eads (Nick), Paul Guilfoyle (Jim), and Jorja Fox as the only season 11 question marks.</blockquote>
 

@@ -24,4 +24,4 @@ Next week on CSI...
 
 http://www.youtube.com/watch?v=6KIrkDb7-Gc
 
-By the way, last night's <em>CSI</em> was down 20% from this time last year.  It's not all Haskell's fault though, remember that last night <em>Greys Anatomy</em> had a big wedding thing.  Just like last year, people are speculating that <em>CSI</em> will move to 10pm and <em>The Mentalist</em> to 9pm.  My feeling is that it depends on the pickups.  If they pick up <em>CSI</em> for one last season, it'll stay where it is.  If they pick it up and plan to keep with it for more than one year, it'll move.  Or they could just move it in the middle of the season.
+By the way, last night's _CSI_ was down 20% from this time last year.  It's not all Haskell's fault though, remember that last night _Greys Anatomy_ had a big wedding thing.  Just like last year, people are speculating that _CSI_ will move to 10pm and _The Mentalist_ to 9pm.  My feeling is that it depends on the pickups.  If they pick up _CSI_ for one last season, it'll stay where it is.  If they pick it up and plan to keep with it for more than one year, it'll move.  Or they could just move it in the middle of the season.

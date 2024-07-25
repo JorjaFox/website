@@ -12,7 +12,7 @@ newssource: In Style Magazine
 newsurl: http://www.instyle.com/
 
 ---
-*She's a dressed-down, seriously smart cookie in &#8216;CSI: Crime Scene Invesigation', but off-screen, Jorja Fox loves to get glammed-up for big nights out in Hollywood.*
+*She's a dressed-down, seriously smart cookie in 'CSI: Crime Scene Invesigation', but off-screen, Jorja Fox loves to get glammed-up for big nights out in Hollywood.*
 
 Brains and beauty can mix. That's if vivacious American actress Jorja Fox, 34, is anything to go by. The ex-model plays Sara Sidle, a bookishly sexy forensic scientist in Channel 5's number-one show, *CSI: Crime Scene Invesigation*, which also has the second biggest TV ratings in the US. But life on screen is more grit than glamour, with Sidle spending most of her time at Las Vegas murder scenes. "I'm more into make-up than Sara would be; she's practical, although she certainly flirts with the guys," Fox laughs.
 
@@ -63,4 +63,3 @@ Oh yes, I love the bath. I'll put essential oils in the bath and play a little m
 **How do you relax?**
 
 We get time to relax on set, so I go to my trailer and play guitar. The Winnebegos go everywhere with us and I take all my tapestries and games and cars, and I have a dog, so I take him with me. LA is very much an outdoor culture, so I go to the beach and to the mountains with my dog.
-

@@ -13,7 +13,7 @@ newssource: TV Zone
 newsurl: http://www.visimag.com
 
 ---
-As CSI's Sara Sidle, she has her hands full of blood, bugs and rotting parts &#8212; but Fox's passion for acting gives her the stomach to cope, as she explains to Jenny.
+As CSI's Sara Sidle, she has her hands full of blood, bugs and rotting parts - but Fox's passion for acting gives her the stomach to cope, as she explains to Jenny.
 
 **O**ver the last five years, CSI has been responsible for some of TV's goriest scenes. From bone cracking autopsies to flesh piercing special effects and horrific murders, there.s no holding back when it comes to blood and guts. Yet star Jorja Fox, who plays Sara Sidle, admits that after five years the realistic looking bodies can still ruin her stomach.
 
@@ -40,4 +40,3 @@ But that doesn't mean the 'Will they - won't they?' romance between Sara and Gri
 Like the other members of the original CSI cast, Fox admits she had reservations about the two spin-off series. With both Miami and New York competing for the viewers hears all the Las Vegas crew expressed doubts about the wisdom of created three rival CSIs. But Fox admits that, despite their fears, all the series seem to have found their own niche.
 
 "I think if you offer somebody a really great piece of cake, they're going to take it. But then if they're offered cake every day, you might start to want ice cream. I may have wished, you know, that there weren't any spin-offs of CSI but I think that the shows have been able to sort of find their own legs."
-

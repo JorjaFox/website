@@ -21,7 +21,7 @@ tags:
     - video
 ---
 
-In an effort to kill me, there's <em>another video</em> today.
+In an effort to kill me, there's _another video_ today.
 
 [video mp4="//static.jorjafox.net/videos/tv/csi/14x05-cbssneakpeek.mp4" webm="//static.jorjafox.net/videos/tv/csi/14x05-cbssneakpeek.webm"]
 

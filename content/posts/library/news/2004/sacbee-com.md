@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "&#8216;CSI' star, producer respond to firing of actors"
+newstitle: "'CSI' star, producer respond to firing of actors"
 newsauthor: Staff
 newssource: Sacbee.com
 newsurl: http://www.sacbee.com/
@@ -32,4 +32,3 @@ A CBS spokesman said the network had no comment.
 Though a search was underway for their replacements, it's unclear whether show creators will recast the characters or develop new ones, KCBS-TV and Variety reports said.
 
 The show picked up four Emmy nominations Thursday, including one for best drama series.
-

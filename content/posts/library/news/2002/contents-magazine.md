@@ -122,4 +122,3 @@ Who better than Eric Szmanda of the #1 television drama C.S.I. to investigate hi
 **JF:** I don't know if I'll ever stay anywhere forever. If I want to keep acting there's only really one place that I would want to go. I wasn't ready to quit acting so I came here. And it's been really good to me. It's been really good to you too.
 
 **ES:** I'd say. No reason to complain. [laughter]
-

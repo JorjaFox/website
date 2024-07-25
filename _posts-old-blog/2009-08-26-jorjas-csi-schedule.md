@@ -34,7 +34,7 @@ tags:
     - tv
 ---
 
-Jorja's appearance as Sara Sidle is confirmed in the following <em>CSI </em>episodes for season 10:
+Jorja's appearance as Sara Sidle is confirmed in the following _CSI _episodes for season 10:
 <ul>
 	<li>10x01 "Family Affair" Airdate September 24, 2009</li>
 	<li>10x02 "Ghost Town" Airdate October 01, 2009</li>
@@ -43,7 +43,7 @@ Jorja's appearance as Sara Sidle is confirmed in the following <em>CSI </em>epis
  	<li>10x05 "Bloodsport" Airdate TBD</li>
 </ul>
 
-Details (and mild spoilers) on season 10 can be found on the <a href="https://jorjafox.net/wiki/CSI:_Crime_Scene_Investigation_%28season_10%29"><em>CSI </em>Season 10 wiki page</a>.
+Details (and mild spoilers) on season 10 can be found on the <a href="https://jorjafox.net/wiki/CSI:_Crime_Scene_Investigation_%28season_10%29">_CSI _Season 10 wiki page</a>.
 
 A reminder of each airing will be mailed to the CSI Watch mailing list on the Monday before and again on the date of airing. Feel free to sign up to this announcement only email list.
 

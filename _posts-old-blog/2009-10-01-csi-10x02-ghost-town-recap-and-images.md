@@ -3,7 +3,7 @@ id: 2050
 title: 'CSI 10&#215;02 "Ghost Town" — Recap and Images'
 date: '2009-10-01T20:55:14-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Dead porn workers and drug stairs amidst the economic housing crisis?  A rather topical <em>CSI</em> episode that I give 3 stars to for Jorja.'
+excerpt: 'Dead porn workers and drug stairs amidst the economic housing crisis?  A rather topical _CSI_ episode that I give 3 stars to for Jorja.'
 layout: post
 guid: 'https://jorjafox.net/?p=2050'
 permalink: /2009/csi-10x02-ghost-town-recap-and-images/

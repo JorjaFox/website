@@ -19,4 +19,3 @@ Jorja Fox, who played Maggie Doyle on "ER" and the Secret Service agent assigned
 "I really love Gervase and I love Richard," she said at a CBS "Survivor"-themed party. Fox was there to promote her new CBS crime drama "C.S.I." "I was really hoping some of the cast would be here."
 
 [...]
-

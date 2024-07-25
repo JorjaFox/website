@@ -21,5 +21,4 @@ newsurl: http://www.tvinsider.com/article/44180/ask-matt-is-the-good-wife-better
 
 **Matt Roush:** Even if the sailing off into the sunset fadeout was a bit corny, it seemed appropriate, and most important, satisfying to the fans. When wrapping up a show with this much history and baggage, giving the faithful viewer a payoff should be a top priority. (Are you listening, _Castle_?) If Grissom hadn't come back for the final chapter, it would have been much more disappointing for everyone. So kudos for sure.
 
-
 [...]

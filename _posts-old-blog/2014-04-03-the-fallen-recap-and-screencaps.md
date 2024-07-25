@@ -20,7 +20,7 @@ tags:
     - tv
 ---
 
-<img class="alignleft size-medium wp-image-10342" src="//jfo-static.net/wordpress/2014/04/vlcsnap-00143.jpg" alt="Angry Sara" width="300" height="168" />While Sara spends most of the time of the episode in Desert Palms (really, they use that set <em>a lot</em>, you were right, Jorja), that last scene where she lays into Lt. Debra Hughes is one for the Righteous Sara Sidle Smackdown books.
+<img class="alignleft size-medium wp-image-10342" src="//jfo-static.net/wordpress/2014/04/vlcsnap-00143.jpg" alt="Angry Sara" width="300" height="168" />While Sara spends most of the time of the episode in Desert Palms (really, they use that set _a lot_, you were right, Jorja), that last scene where she lays into Lt. Debra Hughes is one for the Righteous Sara Sidle Smackdown books.
 
 You don't have one of those books where you mark down her glorious smackdowns? Just me? Okay then.
 

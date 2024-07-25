@@ -3,7 +3,7 @@ id: 2049
 title: 'CSI ep 10&#215;02 "Ghost Town" Pre-Airing Topic'
 date: '2009-10-01T08:43:44-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Talk about tonight''s airing of the <em>CSI</em> episode "Ghost Town" here! When screencaps and a recap are up later tonight, it will be closed. Can anyone make out what name is on Sara''s vest?'
+excerpt: 'Talk about tonight''s airing of the _CSI_ episode "Ghost Town" here! When screencaps and a recap are up later tonight, it will be closed. Can anyone make out what name is on Sara''s vest?'
 layout: post
 guid: 'https://jorjafox.net/?p=2049'
 permalink: /2009/csi-ep-10x02-ghost-town-pre-airing-topic/

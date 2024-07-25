@@ -20,13 +20,13 @@ Their relationship, which has been suggested went back years before the series b
 
 And as the seventh season of the show comes to a close, the situation could turn sour for the crime-scene couple.
 
-It's rumoured that actress Jorja Fox, who plays Sara, has grown restless with her role on the show, and has not signed a contract yet for season eight &#8212; a departure that could bring the relationship to an end.
+It's rumoured that actress Jorja Fox, who plays Sara, has grown restless with her role on the show, and has not signed a contract yet for season eight - a departure that could bring the relationship to an end.
 
 Further speculation suggests that in the season finale of "CSI," Sara will go missing, and will force Grissom to reveal their secret affair to the rest of the forensics team.
 
 Cheryl Charles is the creator of GrissomSaraRomance.com, the most popular site online devoted to the "CSI" relationship. She thinks that something big is in store Grissom and Sara.
 
-"I think it's a smart story line for &#8216;CSI,' and may play out to be the first &#8216;cliffhanger' they have done in the seven seasons it has been on television, which is a great move," said Charles.
+"I think it's a smart story line for 'CSI,' and may play out to be the first 'cliffhanger' they have done in the seven seasons it has been on television, which is a great move," said Charles.
 
 "The fact that no solid information has been given in regards to Jorja Fox's contract with CSI lends itself to that storyline and to the drama and mystery as to whether she'll be found. I hope and do think she will return, but by not releasing contract information, it obviously keeps viewers guessing."
 

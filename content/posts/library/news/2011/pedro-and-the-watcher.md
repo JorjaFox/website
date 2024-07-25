@@ -23,4 +23,3 @@ It's the second major cast change for "CSI," which announced last week that Ted 
 The audience for "CSI" has shrunk considerably the past two seasons, as the show has sunk from a regular Top 5 performer to No. 12 in the annual ratings list -- still good, but clearly trending in the wrong direction.
 
 More important than the cast changes may be the new night and time: After a decade at 9 p.m. Thursday, "CSI" will shift to 10 p.m. Wednesday when its new season begins Sept. 21.
-

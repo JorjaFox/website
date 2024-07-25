@@ -27,7 +27,7 @@ And for the one we're all looking forward too (posted by Rob Magnano):
 
 http://instagram.com/p/RsxFHkOWWU
 
-Oh and Jorja posted these herself on Facebook, while she was in NYC for <em>Forever Dusty</em>:
+Oh and Jorja posted these herself on Facebook, while she was in NYC for _Forever Dusty_:
 
 [gallery size="medium"]
 

@@ -29,4 +29,3 @@ Jorja says that when she met the director of *How I Became an Elephant*, Tim Gor
 The passion the Jorja has for this cause is apparent as she explains, "I cant' stress enough how dire things are for elephants right now. The poaching issue in Africa has exploded again over the last few years and the habitat issue is at critical mass. People have to act now. Twenty years from now will almost certainly be too late. We have the intelligence and the tools to fix so many of these issues and frankly, people need elephants for their own survival. If elephans go the way of extinction, Africa's rain forests will be right behind them and the air that people breath will be right behind that."
 
 [...]
-

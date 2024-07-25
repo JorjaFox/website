@@ -20,7 +20,7 @@ tags:
     - tv
 ---
 
-Paul McCrane played Robert Romano on <em>ER</em>, with Jorja's Maggie Doyle!
+Paul McCrane played Robert Romano on _ER_, with Jorja's Maggie Doyle!
 
 <blockquote>02.10.2011 THE CSIs MUST DEAL WITH A ZOMBIE EPIDEMIC AFTER TWO BODIES PRESUMED TO BE DEAD MYSTERIOUSLY COME BACK TO LIFE, ON "CSI: CRIME SCENE INVESTIGATION," THURSDAY, FEB. 24
 

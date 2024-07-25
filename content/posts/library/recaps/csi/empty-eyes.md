@@ -48,7 +48,6 @@ The killer confesses; however Sara admits she lost her perspective and got too c
 
 **Sara:** Hi, this is Sara. Leave a message after the tone. _(message on her answering machine)_
 
-
 - - -
 
 **Hodges:** You ever do the right thing and still feel guilty about it?

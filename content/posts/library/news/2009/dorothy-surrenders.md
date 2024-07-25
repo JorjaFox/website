@@ -30,4 +30,3 @@ Of course, the show already missed an equally golden opportunity when Det. Sofia
 And while I had hoped for some sort of Sara Sidle/Soup Chef chemistry this year, Lauren Lee Smith's character Riley is gone before the season premieres tonight. Riley wasn't my favorite anyway, not because of Lauren but because her character wasn't given much to work with. So tonight, I'm going to celebrate the return of Sara, if only for a little while, to my favorite crime procedural. Plus, there has always been an unspoken agreement in the community that Jorja is one of ours.
 
 So welcome back to my TV, homegirl. We've missed that gap-tooth grin. Now go get the bad guys.
-

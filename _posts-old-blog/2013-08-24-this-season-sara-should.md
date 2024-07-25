@@ -24,6 +24,6 @@ No one here has any influence over the writers, but we do have hopes and dreams 
 
 You'll notice I left GSR off the list? Because right now it's a null entity in the future. Nothing will happen until everyone agrees to it, so since the odds of that happening are slim, so for now, lets leave it out of our picture.
 
-Besides, Sara should <em>not ****</em>be defined as just 'Grissom's Wife.' She was a lot more before, and she's still a lot now, so what about the now? What more can she do that you'd like to see?
+Besides, Sara should _not ****_be defined as just 'Grissom's Wife.' She was a lot more before, and she's still a lot now, so what about the now? What more can she do that you'd like to see?
 
-<em>Edit: I did not phrase that well. What I mean is, if you take every single possible story with Grissom off the table, what do **YOU** want to see Sara do this season. Is that better?</em>
+_Edit: I did not phrase that well. What I mean is, if you take every single possible story with Grissom off the table, what do **YOU** want to see Sara do this season. Is that better?_

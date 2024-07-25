@@ -7,7 +7,7 @@ permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
-newstitle: "Jorja Fox Makes Her &#8216;CSI' Comeback  "
+newstitle: "Jorja Fox Makes Her 'CSI' Comeback  "
 newsauthor: Kris De Leon
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/articles/csi/jorja-fox-makes-her-csi-comeba-19848.aspx

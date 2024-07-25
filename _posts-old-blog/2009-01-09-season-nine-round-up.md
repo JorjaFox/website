@@ -3,7 +3,7 @@ id: 1370
 title: 'Season Nine Round-Up'
 date: '2009-01-09T17:24:27-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'The CSI Magazine seems to think that <em>One To Go</em> will have a little Sara Sidle.'
+excerpt: 'The CSI Magazine seems to think that _One To Go_ will have a little Sara Sidle.'
 layout: post
 guid: 'https://jorjafox.net/?p=1370'
 permalink: /2009/season-nine-round-up/
@@ -37,7 +37,7 @@ tags:
 
 The January 13th issue of the CSI Magazine (Issue #8, with CSI: Miami on the cover) has a little gem for you.
 
-<blockquote>Following the introduction of Doctor Raymond Langston in episode nine (<em>19 Down</em>), episode 10, entitled <em>One To Go</em>, sees the much-mourned departure of William Petersen's Gil Grissom.  Though the exact way in which he leaves had not been revealed at the time of going to press, it seems that <em>One To Go</em> will also feature the finale return of Sara Sidle (Jorja Fox). [...]</blockquote>
+<blockquote>Following the introduction of Doctor Raymond Langston in episode nine (_19 Down_), episode 10, entitled _One To Go_, sees the much-mourned departure of William Petersen's Gil Grissom.  Though the exact way in which he leaves had not been revealed at the time of going to press, it seems that _One To Go_ will also feature the finale return of Sara Sidle (Jorja Fox). [...]</blockquote>
 
 And <a href="https://jorjafox.net/gallery/media/print/misc/csimag008-1.jpg">this photo of Jorja and Billy</a>
 

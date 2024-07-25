@@ -3,7 +3,7 @@ id: 1969
 title: 'More CSI News (roundup!)'
 date: '2009-08-17T18:16:11-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Roundup post with some <em>CSI</em> news and a few new photos from "Dead Doll" (with credit to Dustin Lee Abraham).'
+excerpt: 'Roundup post with some _CSI_ news and a few new photos from "Dead Doll" (with credit to Dustin Lee Abraham).'
 layout: post
 guid: 'https://jorjafox.net/?p=1969'
 permalink: /2009/more-csi-news-roundup/

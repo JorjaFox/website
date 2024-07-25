@@ -17,9 +17,8 @@ Maybe they should rename the show CSI: Celibate Scientists Investigating. The br
 
 "Our show is not about Gil dating Catherine," Zuiker says. "[It's] about science, about process, about teamwork, about solving crime, about intellect."
 
-Well, when another powerhouse drama series ? NBC's ER ? launched eight years ago, it too was all business and no pleasure. Now, six thousand emergency tracheotomies later (Yawn...), viewers are likelier to catch Noah Wyle using his tongue than his tongue depresser. "Obviously, ER, [after all these years] can't say, &#8216;Here's [another] transfusion,'" Zuiker concedes. "[But] I don't think we're going to run out of science.
+Well, when another powerhouse drama series ? NBC's ER ? launched eight years ago, it too was all business and no pleasure. Now, six thousand emergency tracheotomies later (Yawn...), viewers are likelier to catch Noah Wyle using his tongue than his tongue depresser. "Obviously, ER, [after all these years] can't say, 'Here's [another] transfusion,'" Zuiker concedes. "[But] I don't think we're going to run out of science.
 
 "When we feel we need to go in a more character direction, the show [will] sort of guide us," he continues. "I think in Years Four, Five, Six ? hopefully we are on the air that long ? then we'll get deeper into the character stuff. But right now, people are digging the science. They love the puzzles."
 
 That's great, but what about those of us who would love to see George Eads and Jorja Fox take a shower together?
-

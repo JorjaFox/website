@@ -31,4 +31,3 @@ Grissom and Catherine investigate the murder of a wealthy couple who are discove
 **Sara:** _pause_ On my own.
 **Grissom:** _pause_ Solo.
 **Sara:** _LONG pause_ _irritated_ See you around.
-

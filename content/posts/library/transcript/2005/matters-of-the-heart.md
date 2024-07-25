@@ -17,7 +17,7 @@ So we'll wipe that out for a while, and probably do a lot of blowing things up a
 
 **New direction...**
 
-The episode that I did, Committed, with Richard Lewis, was one of the greatest working moments of my life. We had a lot of fun and it was dangerous. It felt kind of intense. And I'm really excited to see, you know, where Sara might go this year. She's been so heavy for just a long time. There've been all these different things sort of working against her, and I have a *feeling* that the hot air balloon that she's been looking for is gonna sail this season. And, uh, she'll lighten up a little bit and maybe we'll return to some of those story-lines from time to time.
+The episode that I did, Committed, with Richard Lewis, was one of the greatest working moments of my life. We had a lot of fun and it was dangerous. It felt kind of intense. And I'm really excited to see, you know, where Sara might go this year. She's been so heavy for just a long time. There've been all these different things sort of working against her, and I have a _feeling_ that the hot air balloon that she's been looking for is gonna sail this season. And, uh, she'll lighten up a little bit and maybe we'll return to some of those story-lines from time to time.
 
 **Jorja on SARA...**
 

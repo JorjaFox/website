@@ -21,13 +21,13 @@ tags:
 ---
 
 <img class="alignleft size-medium wp-image-4638" title="Jorja's In!" src="//static.jorjafox.net/wordpress/2012/05/jorja_fox_csi-230x152.jpg" alt="Jorja's In!" width="230" height="152" />From The Hollywood Reporter we have some nice news today!
-<blockquote><em>CSI: Crime Scene Investigation</em>'s **Jorja Fox **is remaining on the case.
+<blockquote>_CSI: Crime Scene Investigation_'s **Jorja Fox **is remaining on the case.
 
-The actress has signed a new one-year deal with CBS Television Studios to remain on the long-running procedural,<em><a href="http://www.hollywoodreporter.com/">The Hollywood Reporter</a> </em>has learned exclusively.
+The actress has signed a new one-year deal with CBS Television Studios to remain on the long-running procedural,_<a href="http://www.hollywoodreporter.com/">The Hollywood Reporter</a> _has learned exclusively.
 
 Fox plays forensic scientist Sara Sidle on the CBS drama, a role she first stepped into in the second episode of the **Anthony Zuiker** procedural in 2000. The actress, who departed the series as a regular in late 2007, returned in May 2008 as a guest star in a handful of episodes. She was later upped to recurring in 2009 and returned to her role as a series regular in July 2011.
 
-Fox's new deal comes less than two weeks after co-star**George Eads **re-upped with the studio to return for<em>CSI</em>'s upcoming 13th season.
+Fox's new deal comes less than two weeks after co-star**George Eads **re-upped with the studio to return for_CSI_'s upcoming 13th season.
 
 Following a tumultuous season that saw the series uprooted from its longtime Thursday time slot to Wednesdays, the billion-dollar franchise saw **Ted Danson **take over for **Laurence Fishburne** at the beginning of the season, later being joined by**Elisabeth Shue**, who replaced **Marg Helgenberger**. **Peri Gilpin** made her debut as <a href="http://www.hollywoodreporter.com/live-feed/csi-peri-gilpin-ted-danson-wife-308772">the wife to Danson's D.B. Russell</a> during Wednesday's Season 12 finale, which was up a tenth of a point week-over-week with a 2.4 rating in the key adults 18-49 demographic.
 

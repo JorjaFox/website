@@ -28,7 +28,7 @@ Seventy-Nine (79) episode stills.
 
 Ginourmous Promos.
 
-You kind of forget how amazing Season Six was until you get to spend a day looking back on it. Or three days. I had to sort and organize all these, and then I found out that some images were <em>too big</em>! They broke the server. Oops.
+You kind of forget how amazing Season Six was until you get to spend a day looking back on it. Or three days. I had to sort and organize all these, and then I found out that some images were _too big_! They broke the server. Oops.
 
 So the Promo Photos aren't as big as they could be. They're half as big (the big ones), topping out around 3000px wide. Every time I tried the 5000px ones, the images were 10megs and they wouldn't render.
 

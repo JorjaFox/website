@@ -3,7 +3,7 @@ id: 3289
 title: 'CSI Season 11 Press Releases'
 date: '2011-04-18T16:02:26-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Here are the press releases for the last two episodes of <em>CSI</em>!'
+excerpt: 'Here are the press releases for the last two episodes of _CSI_!'
 layout: post
 guid: 'https://jorjafox.net/?p=3289'
 permalink: /2011/csi-season-11-press-releases/
@@ -20,7 +20,7 @@ tags:
     - tv
 ---
 
-Here are the press releases for the last two episodes of <em>CSI</em>!
+Here are the press releases for the last two episodes of _CSI_!
 
 <blockquote>THE SEARCH FOR THE NOTORIOUS NATE HASKELL CONTINUES AFTER HE KIDNAPS LANGSTON'S EX-WIFE AND LEAVES A MESSAGE WRITTEN IN BLOOD, ON THE 250TH EPISODE OF "CSI: CRIME SCENE INVESTIGATION," THURSDAY, MAY 5
 Bill Irwin ("Rachel Getting Married") Returns as Serial Killer Nate Haskell;

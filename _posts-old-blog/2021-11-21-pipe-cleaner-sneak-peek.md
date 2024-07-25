@@ -52,7 +52,7 @@ tags:
     - video
 ---
 
-Yes, Thanksgiving and all we'll have a new episode of<em> CSI: Vegas</em> to watch.
+Yes, Thanksgiving and all we'll have a new episode of_ CSI: Vegas_ to watch.
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=m2Rus7roYxU

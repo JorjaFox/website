@@ -26,7 +26,7 @@ And then he asked such a dangerous question...
 
 https://twitter.com/zuiker/status/600055557207117825
 
-I just said "Divorced" and linked him to the Wiki about the last couple seasons. If you do reply, please be polite and don't harangue him about how everything's ruined. We get two hours. Inspire him to write something <em>brilliant</em>, don't make him think you hate him or CSI.
+I just said "Divorced" and linked him to the Wiki about the last couple seasons. If you do reply, please be polite and don't harangue him about how everything's ruined. We get two hours. Inspire him to write something _brilliant_, don't make him think you hate him or CSI.
 
 But there are things we know. Like Marg told us:
 

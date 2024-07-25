@@ -18,7 +18,7 @@ Deb struggles to learn more about her inherited life, learning lessons about sel
 
 In addition to working with Grayson at the law firm, Deb (as Jane) also contends with her professional rival, Kim Kaswell, who briefly dates Grayson after Deb's passing.
 
-##Episode: "Second Chances"
+## Episode: "Second Chances"
 
 * Aired 16 August 2009
 * Season 1, Episode 6

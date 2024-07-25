@@ -20,7 +20,7 @@ tags:
     - 'social media'
 ---
 
-Today CBS was taking new cast photos for <em>CSI</em> and Vernon Cheek (the uber cool Press Manager for a few of their shows, including <em>CSI</em> and <em>Criminal Minds</em>) snapped a pic of Jorja right after her photo shoot.
+Today CBS was taking new cast photos for _CSI_ and Vernon Cheek (the uber cool Press Manager for a few of their shows, including _CSI_ and _Criminal Minds_) snapped a pic of Jorja right after her photo shoot.
 <p style="text-align: center;"><a href="https://jorjafox.net/gallery/tv/csi/pub/s12/candid/photoshoot.jpg"><img class="aligncenter size-medium wp-image-3631" title="photoshoot" src="//static.jorjafox.net/wordpress/2011/08/photoshoot-230x153.jpg" alt="" width="230" height="153" /></a>
 Click to embiggen, obviously.  Nice to see the jacket's sticking around, eh?
 

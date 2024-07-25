@@ -19,7 +19,7 @@ tags:
     - article
 ---
 
-<a href="//static.jorjafox.net/wordpress/2010/05/lionrescue.jpg"><img src="//static.jorjafox.net/wordpress/2010/05/lionrescue-100x100.jpg" alt="" title="lionrescue" width="100" height="100" class="alignleft size-thumbnail wp-image-2437" /></a> The former circus lions will make their way from Bolivia this week and will land in San Francisco International Airport at 3:30pm US Pacific time.  If you're in San Francisco, don't bother going, as this will be a 'media only' event.  And besides, I know <em>I'm</em> cranky after a long flight.  Imagine the lions!
+<a href="//static.jorjafox.net/wordpress/2010/05/lionrescue.jpg"><img src="//static.jorjafox.net/wordpress/2010/05/lionrescue-100x100.jpg" alt="" title="lionrescue" width="100" height="100" class="alignleft size-thumbnail wp-image-2437" /></a> The former circus lions will make their way from Bolivia this week and will land in San Francisco International Airport at 3:30pm US Pacific time.  If you're in San Francisco, don't bother going, as this will be a 'media only' event.  And besides, I know _I'm_ cranky after a long flight.  Imagine the lions!
 
 Broadcast video and photographs of the lions with the circus as well as the rescue operation in Bolivia are available via <a href="http://adinternationalmedia.org/">http://adinternationalmedia.org/</a>
 

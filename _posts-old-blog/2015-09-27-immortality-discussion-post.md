@@ -24,7 +24,7 @@ tags:
     - 'press release'
 ---
 
-This is it, folks. This is the end of <em>CSI</em>. It airs tonight.
+This is it, folks. This is the end of _CSI_. It airs tonight.
 
 **Press Release**
 
@@ -44,7 +44,7 @@ Source: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crim
 
 <ul><li><a href="https://jorjafox.net/gallery/tv/csi/pub/s16/promo/">Promo Gallery</a></li><li><a href="https://jorjafox.net/gallery/tv/csi/pub/s16/candid/">Candids Gallery</a></li></ul>
 
-I'll have the recap and screencaps up as soon as I can. It may be slow because this is a lot to take in, and I expect two hours of a&nbsp;<em>lot</em> of Jorja!
+I'll have the recap and screencaps up as soon as I can. It may be slow because this is a lot to take in, and I expect two hours of a&nbsp;_lot_ of Jorja!
 
 **Social Media**
 

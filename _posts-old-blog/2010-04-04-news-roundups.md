@@ -26,4 +26,4 @@ The Rumor Rat has spies that report CSI gets two more seasons and there are some
 
 TVGuide.com thinks that Grissom and Sara should be on the list for <a href="http://www.tvguide.com/PhotoGallery/TVs-Dysfunctional-Couples-1016443/1016445">TV's Most Dysfunctional Couples</a>.
 
-And, finally, the most important question: WHEN is CSI airing this week?  The answer is an unconfirmed **9pm Eastern (8 Central)**.  That Jorja's in it is the only thing I <em>can</em> confirm.  I'll be watching at 9pm.
+And, finally, the most important question: WHEN is CSI airing this week?  The answer is an unconfirmed **9pm Eastern (8 Central)**.  That Jorja's in it is the only thing I _can_ confirm.  I'll be watching at 9pm.

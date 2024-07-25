@@ -3,7 +3,7 @@ id: 1935
 title: 'State of the Union — August'
 date: '2009-08-31T01:00:47-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'This month, we got <em>CSI</em> spoilers and a guest spot on <em>Drop Dead Diva</em>.  Want more? Keep reading! And don''t worry, this post is spoiler-free!'
+excerpt: 'This month, we got _CSI_ spoilers and a guest spot on _Drop Dead Diva_.  Want more? Keep reading! And don''t worry, this post is spoiler-free!'
 layout: post
 guid: 'https://jorjafox.net/?p=1935'
 permalink: /2009/state-of-the-union-august/
@@ -44,7 +44,7 @@ tags:
 <span class="alignright">[polldaddy poll=1857078]</span> I hope the ads interest you enough that you click on them to check them out, as they are our primary source of income and keeps the site moving and ensure I don't have to beg for donations.
 
 **Drop Dead Diva**
-There was a surprising kerfluffle over Jorja not being mentioned in the <em>Drop Dead Diva</em> trailers for her episode, and some people decided it clearly meant that her episode had been postponed. I want to remind people that the final authority in any tidbit is the show itself. Spoilers, previews, etc are all subject to change up until the day of airing, and what TPTB feel are important aren't always what fans find important. Take everything, even spoilers I share here, with a grain of salt. The world is subject to change.
+There was a surprising kerfluffle over Jorja not being mentioned in the _Drop Dead Diva_ trailers for her episode, and some people decided it clearly meant that her episode had been postponed. I want to remind people that the final authority in any tidbit is the show itself. Spoilers, previews, etc are all subject to change up until the day of airing, and what TPTB feel are important aren't always what fans find important. Take everything, even spoilers I share here, with a grain of salt. The world is subject to change.
 
 In the end, it was no surprise to me that "Second Chances" aired as planned. Seeing Jorja as a suburban housewife criminal was interesting. If you missed it, we have <a href="https://jorjafox.net/wiki/Drop_Dead_Diva">a recap</a>, <a href="https://jorjafox.net/gallery/tv/guest/drop-dead-diva/secondchances/">screencaps</a> and selected clips.
 

@@ -20,12 +20,12 @@ tags:
     - tv
 ---
 
-Things are starting to pick up a little on set, though the <a href="https://twitter.com/csiwritersroom">CSIWritersRoom</a> twitter account is still fairly quiet. You <em>are</em> being respectful to them, like you would be to everyone in the world, right? Remember, never say anything to someone online that you wouldn't say to their face!
+Things are starting to pick up a little on set, though the <a href="https://twitter.com/csiwritersroom">CSIWritersRoom</a> twitter account is still fairly quiet. You _are_ being respectful to them, like you would be to everyone in the world, right? Remember, never say anything to someone online that you wouldn't say to their face!
 
 Okay, on to spoilers and I am a little impressed at their handwriting... No, I'm a lot impressed. I need white-board handwriting classes.
 
 https://twitter.com/csiwritersroom/status/362306400640200704
 
-This picture by Melanie Liebetrau is <em>probably</em> from episode two (it was taken at 11pm on Tuesday the 30th, YMMV).
+This picture by Melanie Liebetrau is _probably_ from episode two (it was taken at 11pm on Tuesday the 30th, YMMV).
 
 http://instagram.com/p/ca-g6OlYot/

@@ -17,7 +17,7 @@ tags:
     - csi
 ---
 
-<em>19 Signs You’ve Seen Too Much "CSI"</em> (aka I could _totally_ be a forensic scientist, you guys.) from <a href="http://www.buzzfeed.com/katieheaney/19-signs-youve-seen-too-much-csi">BuzzFeed</a>:
+_19 Signs You’ve Seen Too Much "CSI"_ (aka I could _totally_ be a forensic scientist, you guys.) from <a href="http://www.buzzfeed.com/katieheaney/19-signs-youve-seen-too-much-csi">BuzzFeed</a>:
 
 <blockquote>
 **11. You can hear Sara Sidle’s deep gravelly-voiced wisecracks in your head.**

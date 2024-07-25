@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "The Miniature Killer Is Revealed &#8212; But Where's Sara?"
+newstitle: "The Miniature Killer Is Revealed - But Where's Sara?"
 newsauthor: Staff
 newssource: TV Guide
 newsurl: http://www.tvguide.com

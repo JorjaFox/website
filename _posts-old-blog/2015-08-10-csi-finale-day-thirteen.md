@@ -20,7 +20,7 @@ tags:
     - tv
 ---
 
-There was no day twelve. You didn't miss anything. Of course, if you <em>did</em> miss any images, the <a href="https://jorjafox.net/gallery/tv/csi/pub/s16/candid/">CSI Season 16 Candid Gallery</a> has all the images.
+There was no day twelve. You didn't miss anything. Of course, if you _did_ miss any images, the <a href="https://jorjafox.net/gallery/tv/csi/pub/s16/candid/">CSI Season 16 Candid Gallery</a> has all the images.
 
 ## News
 

@@ -26,4 +26,4 @@ I think I was there for this photo, and if so I'm sitting to the side of Robyn (
 
 <img class="aligncenter size-full wp-image-9841" alt="Jamie Gambell" src="//static.jorjafox.net/wordpress/2014/01/BfN_EsSCYAAn9Ge.jpg" width="600" height="600" />
 
-This one is from Jamie Gambell and was after I'd left. Jorja said this stage was the one they always used to build locations, and any time you were set to work there, you knew you'd be there <em>all day long</em>. Which makes sense. You want to use the set all day.
+This one is from Jamie Gambell and was after I'd left. Jorja said this stage was the one they always used to build locations, and any time you were set to work there, you knew you'd be there _all day long_. Which makes sense. You want to use the set all day.

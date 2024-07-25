@@ -51,7 +51,7 @@ And clearly this explains why they're back to work:
 
 <figure class="wp-block-image size-large"><img src="https://static.jorjafox.net/wordpress/2021/08/BackToWork-960x543.jpg" alt="" class="wp-image-18651"/></figure>
 
-And finally we actually get more PDA than we usually get on <em>CSI</em>:
+And finally we actually get more PDA than we usually get on _CSI_:
 
 <figure class="wp-block-image size-large"><img src="https://static.jorjafox.net/wordpress/2021/08/GSR-Hug-960x540.jpg" alt="" class="wp-image-18649"/></figure>
 
@@ -63,17 +63,17 @@ Whew. That's a lot! And I didn't even begin to unpack the remix of the song, tha
 
 Okay. Jim being attacked makes me think that, since he's only in two episodes, he's going to be killed at the end of episode one. If I wanted to rip the rug out from everyone, that's how I'd do it. Start the episode attacking Brass, which absolutely will bring Grissom back. Of course Sara came with.
 
-Interestingly, we <em>don't</em> know if they're married, really. We all suspect as much, but what if they're just happily living together without being married? You don't have to get married, and frankly I think they're both generally happier without that Damoclean dread hanging over them.
+Interestingly, we _don't_ know if they're married, really. We all suspect as much, but what if they're just happily living together without being married? You don't have to get married, and frankly I think they're both generally happier without that Damoclean dread hanging over them.
 
 We didn't see anyone else for the old gang, but we know....
 
-<ul><li>**Hodges** is an expert witness now, so he'll show up for court at least once</li><li>**Nick** moved to San Diego (which is probably how Sara keeps up her CSI certs)</li><li>**DB** moved to DC for <em>CSI: Cyber</em> (the actor is on an NBC show and unlikely to appear)</li><li>**Riley** left, pissed off at Catherine's running the lab</li><li>**Wendy** became a CSI in Portland to be close to her sister </li><li>**Ray Langston** retired after killing a serial killer</li><li>**Warrick**, **Holly**, and **Finn** are all dead</li></ul>
+<ul><li>**Hodges** is an expert witness now, so he'll show up for court at least once</li><li>**Nick** moved to San Diego (which is probably how Sara keeps up her CSI certs)</li><li>**DB** moved to DC for _CSI: Cyber_ (the actor is on an NBC show and unlikely to appear)</li><li>**Riley** left, pissed off at Catherine's running the lab</li><li>**Wendy** became a CSI in Portland to be close to her sister </li><li>**Ray Langston** retired after killing a serial killer</li><li>**Warrick**, **Holly**, and **Finn** are all dead</li></ul>
 
 And here's my guesses about the rest:
 
 <ul><li>**Catherine**'s retired and moved somewhere to be closer to Lindsey who's in university (or graduated by now unless she went for a PhD)</li><li>**Ecklie** retired as well and moved to a quieter coast</li><li>**Greg** finally wrote his book and is living the author life</li><li>**Sofia** joined the FBI or moved to another city to be the chief of detectives</li><li>**Doc Robbins** has died (possibly related to the 'attack' on the crime lab?)</li><li>"**Super Dave**" decided to shift careers to be more available for his wife and child (he had those before the end of the original series)</li><li>**Morgan** finally made up with her father, Ecklie (remember that one?), and moved to be closer to him</li><li>**Henry**, **Archie**, **Mandy**, and **Bobby** have all moved on to other labs</li></ul>
 
-There are, of course, hundreds of other fly-by guests I haven't mentioned, but seeing as the show started to taper off with the return lab-rats near the end, I don't think we'll see most anyone. Since Marg's <em>All Rise</em> got canceled (though it's in talks to be rescued by OWN), she may show up, but I wouldn't think it's a lock. Marc Vann hasn't done much acting since the show ending (IMDb has one credit since) so I doubt we'll see him.
+There are, of course, hundreds of other fly-by guests I haven't mentioned, but seeing as the show started to taper off with the return lab-rats near the end, I don't think we'll see most anyone. Since Marg's _All Rise_ got canceled (though it's in talks to be rescued by OWN), she may show up, but I wouldn't think it's a lock. Marc Vann hasn't done much acting since the show ending (IMDb has one credit since) so I doubt we'll see him.
 
 Everyone else though ...
 

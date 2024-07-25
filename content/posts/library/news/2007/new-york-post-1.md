@@ -14,7 +14,7 @@ newsurl: http://www.nypost.com
 
 ---
 
-** &#8216;CSI' STAR REFUSES TO DIE**
+** 'CSI' STAR REFUSES TO DIE**
 
 JORJA Fox was supposed to die at the end of **"CSI"** this year - but she has refused to show up on the set to film her "death scene," according to a published report.
 

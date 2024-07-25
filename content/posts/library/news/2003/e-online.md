@@ -17,7 +17,6 @@ newsurl: http://www.eonline.com/
 
 **From copssister: Any scoop on CSI?**
 
-
 The scuttlebutt going around is that producers are planning for Grissom and Sara to hookity-hook it, but that stars William Petersen and Jorja Fox have conflicting opinions on whether they want to. She does; he doesn't.
 
 [...]
@@ -26,4 +25,3 @@ The scuttlebutt going around is that producers are planning for Grissom and Sara
 I hear there are office romances on Without a Trace, CSI and CSI: Miami this year.
 
 [...]
-

@@ -22,4 +22,3 @@ Okay, first the good stuff. Larry Fishburne enters his third season on the show 
 Marg Helgenberger seems to be trying very hard *not* to check out as this is her last season, which is a good thing. I imagine that she's going to become the focus of the show towards the end of the season so she can get the big send off. I do wonder, though, who is going to take her place on the show when she leaves. Will Jorja Fox's Sara take the lead female spot, or will the show create a new character, sort of like how "CSI: New York" did with Sela Ward? I'm not sure what I'd rather see. Will CBS allow Jerry Bruckheimer to hire another "name" actor?
 
 [...]
-

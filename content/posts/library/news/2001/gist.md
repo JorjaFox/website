@@ -22,9 +22,9 @@ On the show, about a team of Las Vegas crime-scene analysts, Fox plays a hard-ed
 
 Apparently, the mood on the set of CSI's morgue is so jovial that Fox doesn't mind the phony blood and guts that much anymore. "It's make-believe," she says. "And we have so much fun on the set."
 
-Much of the "fun" is derived from Fox and her co-stars &#8212; Petersen, Marg Helgenberger, Gary Dourdan and George Eads &#8212; joking about the show's gory special effects. According to Fox, a typical on-set quip would be, "Oh my God, look at that great bullet hole!" or "The morgue looks really nice today."
+Much of the "fun" is derived from Fox and her co-stars - Petersen, Marg Helgenberger, Gary Dourdan and George Eads - joking about the show's gory special effects. According to Fox, a typical on-set quip would be, "Oh my God, look at that great bullet hole!" or "The morgue looks really nice today."
 
-Fox also enjoys herself when the cast flies to Vegas from L.A. to do location shots. "I'm not a big gambler, but there's something really, really good about being in Las Vegas and having the excuse that you're working to do all kinds of bad things. If you hit the slot machine with a gin and tonic in your hand, you can say, &#8216;Well, I'm working.' "
+Fox also enjoys herself when the cast flies to Vegas from L.A. to do location shots. "I'm not a big gambler, but there's something really, really good about being in Las Vegas and having the excuse that you're working to do all kinds of bad things. If you hit the slot machine with a gin and tonic in your hand, you can say, 'Well, I'm working.' "
 
 The high-tech crime-solving methods employed by the CSI team on the show are nothing short of fascinating. So far, the team has found forensic clues in toenail clippings, blood, saliva and other icky substances either left at the crime scene or found in the dead victims themselves. In fact, would-be criminals watching the show may be deterred from committing illegal acts when they see how easily they can be caught by today's technology.
 
@@ -37,4 +37,3 @@ Though the show is high on gore in its depictions of brutal crime scenes, it is 
 Yet, as a crime-scene investigator, Sara does wield a pistol on CSI, as did Gina Toscano on The West Wing. "Yeah, and Maggie Doyle was really into guns," adds Fox. "So I'm three-for-three on playing women who carry guns."
 
 Though she seems destined to play strong butt-kicking women on television, it is a fate Fox welcomes. "I'm lucky that I've been cast to play these really tough women. My God, if I'm going to be typecast, it couldn't be better to be this type of chick. I love it."
-

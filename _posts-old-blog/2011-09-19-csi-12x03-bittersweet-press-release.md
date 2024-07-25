@@ -25,7 +25,7 @@ AN ART EXHIBIT TURNS INTO A CRIME SCENE FOR THE CSIs WHEN NICK REALIZES ONE OF T
 
 **Kelly Hu ("Hawaii Five-0," "The Vampire Diaries") Guest Stars as Angie Salinger**
 
-**CHEAT TWEET:  <em>Worst date ever for Stokes after he discovers pieces of a decomposing body at an art exhibit #CSI</em>**<em> </em><a href="http://bit.ly/qRD9la"><em>**http://bit.ly/qRD9la**</em></a>
+**CHEAT TWEET:  _Worst date ever for Stokes after he discovers pieces of a decomposing body at an art exhibit #CSI_**_ _<a href="http://bit.ly/qRD9la">_**http://bit.ly/qRD9la**_</a>
 
 "Bittersweet" - While on a date, Stokes realizes a piece of art at an exhibit has decomposing body parts in it, which leads to a full-blown investigation. Also, D.B. Russell makes a decision to ground one of the staff from the case, on CSI: CRIME SCENE INVESTIGATION, <span style="text-decoration: underline;">Wednesday, Oct. 5</span> (10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>
 <img class="alignleft size-thumbnail wp-image-3808" title="Bittersweet" src="//static.jorjafox.net/wordpress/2011/09/bittersweet-210x140.jpg" alt="This chocolate bar wants the tooth, the whole tooth, and nothing but the tooth! 100% cotton t-shirt with screen print." width="100" height="75" />Source: <a href="http://www.cbspressexpress.com/div.php/cbs_entertainment/original/release?id=231&amp;dpid=56&amp;rid=29202">CBS Press Express</a>

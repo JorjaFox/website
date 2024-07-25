@@ -27,4 +27,4 @@ And what's on the menu?
 
 https://twitter.com/waldeckvision/status/441291022702616576
 
-Hey, wait... I know that set! It's where I was, redressed! Oh, man that means Jorja and Eric will be there <em>all freaking day</em>. And then they're going to do a live chat? Yikes.
+Hey, wait... I know that set! It's where I was, redressed! Oh, man that means Jorja and Eric will be there _all freaking day_. And then they're going to do a live chat? Yikes.

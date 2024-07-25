@@ -26,7 +26,7 @@ tags:
     - video
 ---
 
-"It blows up our whole theory!"  Sara and Nick rev it up on the race track for tonight's episode of <em>CSI</em>.  Discuss the episode here. Spoilers will happen and, as always, I'll update once the ep airs and we have caps etc.
+"It blows up our whole theory!"  Sara and Nick rev it up on the race track for tonight's episode of _CSI_.  Discuss the episode here. Spoilers will happen and, as always, I'll update once the ep airs and we have caps etc.
 
 <h2>Official Release</h2>
 The case of two high school students, one dead and one missing, lead the CSIs into the underbelly of streetcar racing and a tangled web of deadly competition.
@@ -37,7 +37,7 @@ http://www.youtube.com/watch?v=JXdkFPpj-Lg
 http://www.youtube.com/watch?v=FFcC6KUdSgQ
 
 <h2>Review</h2>
-<del datetime="2010-02-05T02:55:26+00:00"><em>Coming Soon!</em></del>
+<del datetime="2010-02-05T02:55:26+00:00">_Coming Soon!_</del>
 
 This was a fun episode, enjoyable, not super-predictable, and with a nice amount of Sara.  Four Stars.  I'll work on clips tomorrow, so if you have suggestions, post them in the comments and I'll see what I can do.
 

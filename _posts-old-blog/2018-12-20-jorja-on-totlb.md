@@ -22,11 +22,11 @@ tags:
     - transcript
 ---
 
-TOTLB, <a href="http://totlb.com/">Thinking Outside The Long Box</a>, is a pop culture podcast and in a recent episode, they talked with Jorja Fox about <a href="https://jorjafox.net/library/actor/memento/"><em>Memento</em></a>, <em><a href="https://jorjafox.net/library/producer/roll-with-me">Roll With Me</a></em>, and a new movie!
+TOTLB, <a href="http://totlb.com/">Thinking Outside The Long Box</a>, is a pop culture podcast and in a recent episode, they talked with Jorja Fox about <a href="https://jorjafox.net/library/actor/memento/">_Memento_</a>, _<a href="https://jorjafox.net/library/producer/roll-with-me">Roll With Me</a>_, and a new movie!
 
 Whaaaat? New movie?
 
-<em><a href="https://jorjafox.net/library/actor/3022/">3022</a></em> is a SciFi movie and Omar Epps, Kate Walsh, Angus McFadden, and Sonya Walger. And yes, Jorja.
+_<a href="https://jorjafox.net/library/actor/3022/">3022</a>_ is a SciFi movie and Omar Epps, Kate Walsh, Angus McFadden, and Sonya Walger. And yes, Jorja.
 
 You can check out the podcast:
 
@@ -36,4 +36,4 @@ http://media.blubrry.com/totlb/p/totlb.com/wp-content/uploads/2018/12/TOTLB-S22-
 
 <ul><li><a href="http://totlb.com/podcast/totlb-s22-jorja-fox/">Podcast</a></li><li><a href="https://jorjafox.net/library/transcript/2018/totlb/">Transcription</a></li></ul>
 
-If you ask me, <em>Memento</em> totally holds up, even though it's twenty years old, and the only part that makes it feel dated is the use of Polaroids.
+If you ask me, _Memento_ totally holds up, even though it's twenty years old, and the only part that makes it feel dated is the use of Polaroids.

@@ -26,7 +26,7 @@ You've done so much this year already for the world. You're at premiers and q&as
 
 Thank you.
 
-Maybe next year, for your birthday, we can convince the Discovery Channel to air <em>Extinction Soup.</em>
+Maybe next year, for your birthday, we can convince the Discovery Channel to air _Extinction Soup._
 
 Until then, lets have some rain, some waves, some sun, and some dancing. Let's have some more happiness and joy in our lives.
 

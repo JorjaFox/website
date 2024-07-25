@@ -27,13 +27,13 @@ So in the greatest Letterman tradition, here are your top ten reasons to explain
 
 9. She had a couple thousand dollars in casino chips to trade in.
 
-8. She missed the really cheap, all you can eat buffets. <em>(from Staci32)</em>
+8. She missed the really cheap, all you can eat buffets. _(from Staci32)_
 
-7. It's easier to have straight hair when you're in <em>dry</em> heat!
+7. It's easier to have straight hair when you're in _dry_ heat!
 
-6. She's tired of doing laundry in the jungle. <em>(from VegaWriters)</em>
+6. She's tired of doing laundry in the jungle. _(from VegaWriters)_
 
-5. You can't get Reeses Peanut Butter Cups in France. <em>(from KaseyOnline)</em>
+5. You can't get Reeses Peanut Butter Cups in France. _(from KaseyOnline)_
 
 4. There's no internet access in a Costa Rican Jungle, and she's addicted to Brass' Twitter account.
 
@@ -45,4 +45,4 @@ And the number one reason Sara came back to Vegas is ....
 
 1. The beard itches.
 
-All non-credited suggestions came from friends and family.  What are your favorite, silly reasons Sara came back?  Don't post <em>real</em> reasons, make the most out-there, totally never happen, reason ever!
+All non-credited suggestions came from friends and family.  What are your favorite, silly reasons Sara came back?  Don't post _real_ reasons, make the most out-there, totally never happen, reason ever!

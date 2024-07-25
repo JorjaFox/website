@@ -56,4 +56,3 @@ When Russell tells Sara about his cousin, who became a paranoid schizophrenic, s
 **Sara:** Yeah, I know a little bit about that kid of sad ending myself. My mom.
 **Russell:** I didn't know that. I'm sorry.
 **Sara:** Me too.
-

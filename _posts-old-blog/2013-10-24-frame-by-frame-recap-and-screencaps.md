@@ -28,7 +28,7 @@ tags:
     - screencaps
 ---
 
-Anyone remember what episode 100 was? Ch-ch-changes. That was the last 'milestone' episode we celebrated on CSI. Well, we here at JFO. I suppose we <em>kinda</em> did Living Legend, but both were 3-star episodes for Sara.
+Anyone remember what episode 100 was? Ch-ch-changes. That was the last 'milestone' episode we celebrated on CSI. Well, we here at JFO. I suppose we _kinda_ did Living Legend, but both were 3-star episodes for Sara.
 
 This was not that.
 

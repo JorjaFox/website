@@ -28,11 +28,11 @@ tags:
 
 CBS's Watch magazine is an in-house magazine to promote their shows. You can actually get it <a href="https://connect.cbswatchmagazine.com/free/">delivered for free</a> in a lot of places. But for those who can't, it's available online at <a href="https://cbswatchmagazine.com">CBSWatchMagazine.com</a>.
 
-This year's Fall Preview (which has two covers) has a major article about <em>CSI: Vegas</em>. In that article, they interviewed Paula Newsome, Mandeep Dillon, and (of course) Jorja Fox.
+This year's Fall Preview (which has two covers) has a major article about _CSI: Vegas_. In that article, they interviewed Paula Newsome, Mandeep Dillon, and (of course) Jorja Fox.
 
 Our big takes:
 
-<ul><li>Jorja's been working behind the camera a lot more since <em>CSI</em> went off the air.</li><li>Sara is more chill! "Now there’s a lightness of being with her," says Jorja, which comes from Sara's work for the planet.</li><li>Yes, Grissom and Sara are still married, and for those who didn't know, yes, Jorja knew from day one that Sara was a love interest. That pesky popularity of CSI slowed things down.</li><li>The new series is more action-y than before, and goes off like a bottle rocket.</li></ul>
+<ul><li>Jorja's been working behind the camera a lot more since _CSI_ went off the air.</li><li>Sara is more chill! "Now there’s a lightness of being with her," says Jorja, which comes from Sara's work for the planet.</li><li>Yes, Grissom and Sara are still married, and for those who didn't know, yes, Jorja knew from day one that Sara was a love interest. That pesky popularity of CSI slowed things down.</li><li>The new series is more action-y than before, and goes off like a bottle rocket.</li></ul>
 
 <figure class="wp-block-image size-large is-resized"><a href="https://jorjafox.net/gallery/media/print/watch/2021-10-01.jpg.htm"><img src="https://static.jorjafox.net/wordpress/2021/09/2021-10-01-960x630.jpg" alt="" class="wp-image-18777" width="640" height="420"/></a><figcaption>Photo © Sonja Flemming (<a href="https://jorjafox.net/gallery/media/print/watch/2021-10-01.jpg.htm">Full Sized</a>)</figcaption></figure>
 

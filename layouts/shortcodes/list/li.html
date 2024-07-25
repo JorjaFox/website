@@ -1,15 +1,14 @@
 <li class="list-group-item d-flex justify-content-between align-items-start">
 	<div class="ms-2 me-auto">
-		{{ $target := .Get "target" }}
 		{{ $icon   := .Get "icon" }}
-		<div class="fw-bold">{{ with .Get "link" }}{{ $icon }}<a href="{{ . }}" target={{ $target }}>{{ end }}{{ .Get "title" }}{{ if .Get "link" }}</a>{{ end }}</div>
+		<div class="fw-bold">{{ with .Get "link" }}{{ $icon }}<a href="{{ . }}">{{ end }}{{ .Get "title" }}{{ if .Get "link" }}</a>{{ end }}</div>
 		{{ if .Get "content" }}{{ .Get "content" }}{{ end }}
 	</div>
 
 	{{ if .Get "showslug" }}
 
 		{{ $section    := .Get "showslug" }}
-		{{ $recaps     := (where .Site.RegularPages "Section" "recaps" ) }}
+		{{ $recaps     := (where .Site.RegularPages "Layout" "recaps" ) }}
 		{{ $showRecaps := (where .Site.Pages "Params.showslug" $section ) }}
 		{{ $filtered   := $recaps | intersect $showRecaps }}
 		{{ $postCount  := len $filtered }}

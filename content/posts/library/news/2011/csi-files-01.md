@@ -25,4 +25,3 @@ As CSI Files previously reported, Fishburne will not be returning for the upcomi
 Additionally, **Elisabeth Harnois **(Morgan Brody), who was first introduced in season eleven’s “Cello and Goodbye,” will “return and be reintroduced,” the source says. Her first appearance will be in this fall’s premiere, which will also include the appearance of **Marc Vann** (Conrad Ecklie), who plays her estranged father
 
 Season twelve will, however, see the departure of **Marg Helgenberger **(Catherine Willows). “Marg will be with us for most of the season, [but it's looking] like she’ll be leaving in February,” the source reveals. “There’s flexibility to how we air episodes this season.”
-

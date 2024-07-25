@@ -22,6 +22,6 @@ tags:
     - video
 ---
 
-Lets whet whistles one more time before show time. Here's the <em>official</em> sneak peek from CBS.
+Lets whet whistles one more time before show time. Here's the _official_ sneak peek from CBS.
 
 [video mp4="//static.jorjafox.net/videos/tv/csi/13x15-cbssneak.mp4" ogg="//static.jorjafox.net/videos/tv/csi/13x15-cbssneak.ogv" webm="//static.jorjafox.net/videos/tv/csi/13x15-cbssneak.webm"]

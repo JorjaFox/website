@@ -29,7 +29,7 @@ Okay! On the the review!
  	<li><a href="https://jorjafox.net/wiki/The_Devil_and_D.B._Russell">Recap</a> - (3 of 5 stars)</li>
  	<li><a href="https://jorjafox.net/gallery/tv/csi/season14/01-dadbr/">Screencaps</a> - 142 images</li>
 </ul>
-How did you feel about the episode? Did you enjoy it? I loved the new credits (seeing Sara smiling is always a win), and the ending really surprised me. I was fairly certain I knew who was going to die, but I did not expect <em>that</em> ending. Nice to see CSI can still surprise me, all these years later! I thought James Callis (the news reporter John Merchiston) would be the killer, and having it be 'people you didn't see until now' always is a cop out to me, because I can't make my own hypotheses without the evidence! But Ellie was a welcome surprise won a mild remark of "Well I guess Miniature Killer has a new cellmate in crazy town." As tragic as it is, Ellie was pretty screwed up and if the current 'only' man in her life fed her crazy, then yes, I could see this as a logical turn of events. I never really thought of Ellie as particularly stable in the first place. Murder? Sure, that crazy guy made her think it was nothing!
+How did you feel about the episode? Did you enjoy it? I loved the new credits (seeing Sara smiling is always a win), and the ending really surprised me. I was fairly certain I knew who was going to die, but I did not expect _that_ ending. Nice to see CSI can still surprise me, all these years later! I thought James Callis (the news reporter John Merchiston) would be the killer, and having it be 'people you didn't see until now' always is a cop out to me, because I can't make my own hypotheses without the evidence! But Ellie was a welcome surprise won a mild remark of "Well I guess Miniature Killer has a new cellmate in crazy town." As tragic as it is, Ellie was pretty screwed up and if the current 'only' man in her life fed her crazy, then yes, I could see this as a logical turn of events. I never really thought of Ellie as particularly stable in the first place. Murder? Sure, that crazy guy made her think it was nothing!
 
 Here's a bonus picture for you:
 
@@ -37,6 +37,6 @@ Here's a bonus picture for you:
 
 I don't know, I thought it was a little funny... Maybe cruel.
 
-My fondest hope is that it turns out that Merchiston <em>was</em> the mastermind behind all this, and he's been trying to make D.B. crazy for years. Basically? I want him to be D.B.'s Millander.
+My fondest hope is that it turns out that Merchiston _was_ the mastermind behind all this, and he's been trying to make D.B. crazy for years. Basically? I want him to be D.B.'s Millander.
 
 Okay, enough of my rambling! Have at!

@@ -17,7 +17,7 @@ TIM PHILLIPS, ANIMAL DEFENDERS INTERNATIONAL: These lions have lived their life 
 
 VELEZ-MITCHELL: Tonight, an unprecedented flight to freedom for 25 magnificent animals. Bravo. Abused lions rescued from hideous conditions in Bolivia are now living out their lives in an amazing Colorado sanctuary. Last week's operation was the largest ever rescue of its kind. It could not have been done without the help of two amazing animal-loving celebrity who join me right here on ISSUES tonight. I'm talking about my dear friends and my heroes, Bob Barker and Jorja Fox.
 
-Now, when Jorja is not busy solving murders on CSI &#8212; come on, how many episodes have you seen her on, right? This time she is investigating real life crimes against animals.
+Now, when Jorja is not busy solving murders on CSI - come on, how many episodes have you seen her on, right? This time she is investigating real life crimes against animals.
 
 And of course, Bob Barker is a legend from "The Price is Right" fame. You know, he is my hero because he helped pay for this massive rescue mission. I think he gave something like $200,000. He is an amazing, amazing hero for the animals and he's long time vegetarian and just an activist all the way around for these animals.
 
@@ -61,7 +61,7 @@ BARKER: Well, let me say first, that I have heard nothing that has been said thu
 
 VELEZ-MITCHELL:L Tell me about the zoos, Bob, come on. Tell us about the zoos and why you are against them?
 
-BARKER: I am against zoos. I consider them prisons for animals. And the Los Angeles Zoo has kept that poor Billy out there for years, alone with &#8212;
+BARKER: I am against zoos. I consider them prisons for animals. And the Los Angeles Zoo has kept that poor Billy out there for years, alone with -
 
 VELEZ-MITCHELL: More after the break. More Bob.
 
@@ -103,7 +103,7 @@ VELEZ-MITCHELL: Absolutely. Yes. And I want to thank some of the organizations. 
 
 Listen, Bob Barker, I am going to give you the last word. You are just a hero. What would you say to Americans about zoos?
 
-BARKER: Well, I think that the progressive, well-informed zoos are already closing their elephant exhibits. I would like to see them close all of the big animal exhibits. I think that the sooner that there are &#8212;
+BARKER: Well, I think that the progressive, well-informed zoos are already closing their elephant exhibits. I would like to see them close all of the big animal exhibits. I think that the sooner that there are -
 
 VELEZ-MITCHELL: We are out of time. I love both of you. Thank you.
 

@@ -24,7 +24,7 @@ tags:
     - birthday
 ---
 
-Another year has gone by, and this year we're all looking forward to <em>CSI: Vegas</em>. We still don't know a lot, but likely Jorja's busy working on her birthday to get the series finished and wrapped.
+Another year has gone by, and this year we're all looking forward to _CSI: Vegas_. We still don't know a lot, but likely Jorja's busy working on her birthday to get the series finished and wrapped.
 
 Hopefully she gets some time off to enjoy the nice weather (seriously, it's really nice right now in SoCal) and catch some waves.
 

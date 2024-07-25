@@ -30,7 +30,7 @@ I thought about recapping everything we know but ... Let me sum up. Buttercup is
 
 Sara Sidle is accused of killing a man she met in a hotel, stabbing him seven times. Evidence says she cheated on Grissom. Did she ... or didn't she?
 <blockquote>"Forget Me Not" — Sara is a lead suspect in an investigation after a brief encounter with another man in which she was the last person to see him alive. Also, her separation from Grissom begins to take a toll, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Feb. 20 (10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>
-Things we know: Her mother is in town, brought (somehow) by Ronald Basderic (from "Code Blue Plate Special") as part of an elaborate frame for the murder of some poor guy. Also there's a lot going on with GSR, in that Sara's clearly not happy about everything. That said, she <em>is</em> wearing her ring at the beginning of the episode.
+Things we know: Her mother is in town, brought (somehow) by Ronald Basderic (from "Code Blue Plate Special") as part of an elaborate frame for the murder of some poor guy. Also there's a lot going on with GSR, in that Sara's clearly not happy about everything. That said, she _is_ wearing her ring at the beginning of the episode.
 
 **Videos**
 

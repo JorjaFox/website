@@ -41,6 +41,6 @@ tags:
 
 With credit to our sister site, JAA, the <a href="https://jorjafox.net/gallery/awards/pub/20090329-ga/">Genesis Awards Gallery</a> is up and running!  I'll add more as they come in.
 
-<em>**March 31:** Updated with a few more pictures, but also check out the Humane Society's <a href="http://www.flickr.com/photos/humanesociety/sets/72157616047971433/detail/">Genesis Awards on Flikr</a>.  They promise more to come (backstage and party pics!).</em>
+_**March 31:** Updated with a few more pictures, but also check out the Humane Society's <a href="http://www.flickr.com/photos/humanesociety/sets/72157616047971433/detail/">Genesis Awards on Flikr</a>.  They promise more to come (backstage and party pics!)._
 
-<em>**April 1:** <a href="http://www.celebrityfeetures.com/?p=6653">Celebrity Feetures</a> (not a typo) notes that Jorja needs a pedicure.</em>
+_**April 1:** <a href="http://www.celebrityfeetures.com/?p=6653">Celebrity Feetures</a> (not a typo) notes that Jorja needs a pedicure._

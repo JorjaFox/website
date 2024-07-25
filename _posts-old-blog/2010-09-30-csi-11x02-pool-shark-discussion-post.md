@@ -3,7 +3,7 @@ id: 2613
 title: 'CSI 11&#215;02 — "Pool Shark" Discussion Post (Updated)'
 date: '2010-09-30T10:00:08-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Jump the shark? Let''s feed the shark! New CSI tonight! <em>Updated October 2nd, 10:30pm</em>'
+excerpt: 'Jump the shark? Let''s feed the shark! New CSI tonight! _Updated October 2nd, 10:30pm_'
 layout: post
 guid: 'https://jorjafox.net/?p=2613'
 permalink: /2010/csi-11x02-pool-shark-discussion-post/
@@ -36,7 +36,7 @@ http://www.youtube.com/watch?v=iluCn2u3t5E
 http://www.youtube.com/watch?v=ZkjRGflmL1Q
 
 <h2>Recap</h2>
-<del><em>Coming Soon!</em></del>
+<del>_Coming Soon!_</del>
 
 So ... That was a very cute episode, not a great one again, but a cute one.  Two stars for very Jorja Lite.
 

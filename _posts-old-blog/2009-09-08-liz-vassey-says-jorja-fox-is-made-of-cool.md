@@ -3,7 +3,7 @@ id: 2008
 title: 'Liz Vassey says Jorja Fox is "made of cool"'
 date: '2009-09-08T08:40:27-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '<em>CSI</em> star Liz Vassey talks about <em>CSI</em>, Jorja Fox and Marg Helgenberger, <em>Ladycops</em>, and Save the Ta-tas'
+excerpt: '_CSI_ star Liz Vassey talks about _CSI_, Jorja Fox and Marg Helgenberger, _Ladycops_, and Save the Ta-tas'
 layout: post
 guid: 'https://jorjafox.net/?p=2008'
 permalink: /2009/liz-vassey-says-jorja-fox-is-made-of-cool/
@@ -43,7 +43,7 @@ tags:
     - article
 ---
 
-<a href="//static.jorjafox.net/wordpress/2009/09/liz-vassey-interview-1.jpg"><img src="//static.jorjafox.net/wordpress/2009/09/liz-vassey-interview-1-100x100.jpg" alt="liz-vassey-interview-1" title="liz-vassey-interview-1" width="100" height="100" class="alignleft size-thumbnail wp-image-2009" /></a> Liz Vassey, best known to <em>CSI</em> fans as "Wendy Simms", sat down with <a href="http://afterellen.com">After Ellen</a> to talk about <em>CSI</em>, <em>Dr. Horrible</em>, and just a wee little bit about how nice it is to work with Jorja Fox.
+<a href="//static.jorjafox.net/wordpress/2009/09/liz-vassey-interview-1.jpg"><img src="//static.jorjafox.net/wordpress/2009/09/liz-vassey-interview-1-100x100.jpg" alt="liz-vassey-interview-1" title="liz-vassey-interview-1" width="100" height="100" class="alignleft size-thumbnail wp-image-2009" /></a> Liz Vassey, best known to _CSI_ fans as "Wendy Simms", sat down with <a href="http://afterellen.com">After Ellen</a> to talk about _CSI_, _Dr. Horrible_, and just a wee little bit about how nice it is to work with Jorja Fox.
 
 <blockquote>**AE: How was it working with Jorja Fox?**
 **LV:** I got to work with Jorja quite a bit when I first joined the show. She and Laurence Fishburne are both made of cool. When you're around her, Jorja has this thing where you feel like, "It's OK. I'm with Jorja." It's a feeling that they both exude — they're really comfortable and fun to be around.

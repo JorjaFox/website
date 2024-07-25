@@ -16,7 +16,7 @@ newsurl: http://www.etonline.com
 
 The CSI team investigates the suspicious death of a go-cart racer who took his hobby to the highway, when a severed head rolls through tonight's episode of "CSI: Crime Scene Investigation," airing at 9 p.m. on CBS.
 
-Then the murder rate doubles when the team gets a second case &#8212; the murder of a **HUGH HEFNER**-like publisher at a hip new restaurant where customers dine in the dark.
+Then the murder rate doubles when the team gets a second case - the murder of a **HUGH HEFNER**-like publisher at a hip new restaurant where customers dine in the dark.
 
 [...]
 
@@ -26,4 +26,4 @@ The best part of the episode for many fans may be the return of Sara Sidle (**JO
 
 In real life, the hardest part for Jorja was having to keep the secret of whether or not she survived her attack by the miniature killer.
 
-"I lied to my own family," she admits. "[I said,] &#8216;I don't know anything.' It was hard, but what was great about it, too, was there were people that actually wanted to know."
+"I lied to my own family," she admits. "[I said,] 'I don't know anything.' It was hard, but what was great about it, too, was there were people that actually wanted to know."

@@ -24,7 +24,7 @@ Two Dead Air clips for you.
 
 https://vimeo.com/57501700
 
-Now please, remember to breathe and watch a <em>second</em> clip with Sara, this time at <a href="http://cbspressexpress.com/cbs-entertainment/video?watch=2ydi9mrs7d">CBS Press Express</a>
+Now please, remember to breathe and watch a _second_ clip with Sara, this time at <a href="http://cbspressexpress.com/cbs-entertainment/video?watch=2ydi9mrs7d">CBS Press Express</a>
 
 https://vimeo.com/57502101
 

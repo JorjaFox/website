@@ -26,7 +26,7 @@ Regular @vida-blue emailed me this over the weekend!
 
 So now's the time to tell you YouTube shut down the JFO channel for Copyright Infringement.  Which... well. Yes.  The length of clips, legally, are within the limits of fair use, and they weren't posted for profit, the sad truth is the clips belong to someone else, and if they say 'No' then that's it.  And they've said no.
 
-This means I cannot post video clips for the rest of the <em>Missing Persons</em> episodes.  Or <em>CSI</em> actually, but that's another story.
+This means I cannot post video clips for the rest of the _Missing Persons_ episodes.  Or _CSI_ actually, but that's another story.
 
 To say I'm bummed is putting it mildly.  I really love you guys and I love being able to publicly reward you, but I'm hoping that you guys don't actually care!  I mean, we made over $500, and while I hope we can raise more, I'm going to put my faith in you guys as cool people.
 

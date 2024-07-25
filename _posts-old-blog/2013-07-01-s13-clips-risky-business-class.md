@@ -19,7 +19,7 @@ tags:
     - video
 ---
 
-Let's have some meat to the videos, shall we? An episode we all know and love, <em>Risky Business Class</em>. Didn't watch it when it re-aired? Check out the clips!
+Let's have some meat to the videos, shall we? An episode we all know and love, _Risky Business Class_. Didn't watch it when it re-aired? Check out the clips!
 
 http://www.cbs.com/shows/csi/video/AAD6EE4E-31D7-363D-6E16-91DB98240A81/csi-crash-investigation/
 

@@ -3,7 +3,7 @@ id: 2305
 title: 'CSI 10&#215;15 "Neverland" March 11th — Discussion Post (Updated)'
 date: '2010-03-11T07:51:35-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '"They have tried everything to get this guy off!"  Sara and Ray in a fire? Must be March sweeps! <em>Updated at 10:45pm ET.</em>'
+excerpt: '"They have tried everything to get this guy off!"  Sara and Ray in a fire? Must be March sweeps! _Updated at 10:45pm ET._'
 layout: post
 guid: 'https://jorjafox.net/wp/?p=2305'
 permalink: /2010/csi-10x15-neverland-march-11th-discussion-post/
@@ -27,7 +27,7 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/03/neverland-100x100.jpg" alt="" title="unshockable" width="100" height="100" class="alignleft size-thumbnail wp-image-2290" />"They have tried everything to get this guy off!"  <em>CSI</em> fights fire with ... well, not fire.  Discuss the episode here. <del datetime="2010-03-12T03:39:32+00:00">Spoilers will happen and, as always, I'll update once the ep airs and we have caps etc.</del>
+<img src="//static.jorjafox.net/wordpress/2010/03/neverland-100x100.jpg" alt="" title="unshockable" width="100" height="100" class="alignleft size-thumbnail wp-image-2290" />"They have tried everything to get this guy off!"  _CSI_ fights fire with ... well, not fire.  Discuss the episode here. <del datetime="2010-03-12T03:39:32+00:00">Spoilers will happen and, as always, I'll update once the ep airs and we have caps etc.</del>
 
 <h2>Official Release</h2>
 When a young boy is found murdered, the CSI team uncovers evidence that may link his death to an old case that recently resurfaced.
@@ -40,7 +40,7 @@ When a young boy is found murdered, the CSI team uncovers evidence that may link
 
 Credit: ET Online
 
-<em>Updated (3:30pm ET)</em>
+_Updated (3:30pm ET)_
 
 From <a href="http://www.tvguide.com/News/CSI-Dr-Jekyll-1016161.aspx">TV Guide</a>
 
@@ -50,7 +50,7 @@ From <a href="http://www.tvguide.com/News/CSI-Dr-Jekyll-1016161.aspx">TV Guide</
 http://www.youtube.com/watch?v=JuU-6_y70B8
 
 <h2>Review</h2>
-<del datetime="2010-03-12T03:39:32+00:00"><em>Coming Soon!</em></del>
+<del datetime="2010-03-12T03:39:32+00:00">_Coming Soon!_</del>
 
 Updated at 10:45pm ET.  This was a good episode, not great, but good. Sara gets it four stars, but really more like 3.5.
 

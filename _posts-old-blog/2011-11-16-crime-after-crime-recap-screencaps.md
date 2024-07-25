@@ -30,4 +30,4 @@ tags:
 
 If you think of Sara Sidle moments that deserve more description in the recap, leave a comment and I'll add it!
 
-There is **no** <em>CSI</em> next week, by the way.
+There is **no** _CSI_ next week, by the way.

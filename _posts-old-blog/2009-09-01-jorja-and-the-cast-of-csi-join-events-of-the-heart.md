@@ -30,9 +30,9 @@ tags:
     - photos
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/09/eventheart-100x100.jpg" alt="eventheart" title="eventheart" width="100" height="100" class="alignleft size-thumbnail wp-image-1994" /> <a href="http://www.eventsoftheheart.org/about_us.asp">Events of the Heart</a> is a non-profit organization dedicated to telling the real truth about women and heart disease. They tour the country (US only at this point in time) educating and using media (like the stars of <em>CSI</em>) to promote the urgent message that heart disease is no longer an old man's problem, but is affecting 500,000 American women. 
+<img src="//static.jorjafox.net/wordpress/2009/09/eventheart-100x100.jpg" alt="eventheart" title="eventheart" width="100" height="100" class="alignleft size-thumbnail wp-image-1994" /> <a href="http://www.eventsoftheheart.org/about_us.asp">Events of the Heart</a> is a non-profit organization dedicated to telling the real truth about women and heart disease. They tour the country (US only at this point in time) educating and using media (like the stars of _CSI_) to promote the urgent message that heart disease is no longer an old man's problem, but is affecting 500,000 American women.
 
 You can see pictures of <a href="http://www.eventsoftheheart.org/events.asp?section=100004&rec_id=100042">Lawrence Fishburne, Jorja Fox, Marg Helgenberger, and Wally Langham</a> signing bikes before they're auctioned off.
 
-<em>Updated to give you a lager image</em>
+_Updated to give you a lager image_
 <a href="https://jorjafox.net/gallery/pub/advocacy/20090831-eventsheart/eventsheart002.jpg"><img class="ZenphotoPress_thumb " alt="Promotional" title="Promotional" src="https://jorjafox.net/gallery/pub/advocacy/20090831-eventsheart/eventsheart002.jpg"  /></a>

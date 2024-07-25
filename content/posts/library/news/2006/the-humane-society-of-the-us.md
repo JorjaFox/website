@@ -15,4 +15,3 @@ newsurl: http://www.hsus.org
 ---
 
 **Jorja Fox of *CSI*:** "I've always loved animals. I grew up in a very small town...Grandma was a huge lover of animals, even crabs and snakes and things that a lot of people would shy away from. She taught me a real reverence for everything that is on the planet."
-

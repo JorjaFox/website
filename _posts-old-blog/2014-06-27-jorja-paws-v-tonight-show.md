@@ -16,9 +16,9 @@ tags:
     - advocacy
 ---
 
-Don't expect to see Jorja on Jimmy Fallon's <em>The Tonight Show</em> any time soon.
+Don't expect to see Jorja on Jimmy Fallon's _The Tonight Show_ any time soon.
 
-Jorja, along with Bob Barker, Kim Basinger, Kristin Bauer van Straten, Ross McCall and Lily Tomlin, have joined the Performing Animal Welfare Society (PAWS) in petitioning <em>The Tonight Show</em> to stop using wild and exotic animal acts on the show.
+Jorja, along with Bob Barker, Kim Basinger, Kristin Bauer van Straten, Ross McCall and Lily Tomlin, have joined the Performing Animal Welfare Society (PAWS) in petitioning _The Tonight Show_ to stop using wild and exotic animal acts on the show.
 
 The letter is embedded below.
 

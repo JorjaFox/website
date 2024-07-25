@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Jorja Fox makes it official: She's leaving &#8216;CSI'"
+newstitle: "Jorja Fox makes it official: She's leaving 'CSI'"
 newsauthor: Staff
 newssource: Entertainment Weekly
 newsurl: http://www.ew.com

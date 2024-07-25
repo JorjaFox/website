@@ -3,7 +3,7 @@ id: 2169
 title: 'CSI 10.13: Internal Combustion — Promotional Photos'
 date: '2010-01-07T10:06:13-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Five promo photos of Jorja and George running around for an upcoming <em>CSI</em> episode. Yay!'
+excerpt: 'Five promo photos of Jorja and George running around for an upcoming _CSI_ episode. Yay!'
 layout: post
 guid: 'https://jorjafox.net/?p=2169'
 permalink: /2010/internal-combustion-promotional-photos/

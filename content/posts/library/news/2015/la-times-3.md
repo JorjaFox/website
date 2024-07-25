@@ -19,7 +19,7 @@ In the end, 'CSI: Crime Scene Investigation' died as it lived: fun, flabby, and 
 
 Though Petersen's return for the series finale gave the show a badly needed jolt of original 'CSI' magic, it also meant that the love story of Gil Grissom and Sara Sidle returned to center stage.
 
-Sidle, played by Jorja Fox, was another of the show's originating characters. She initially was Grissom's subordinate but eventually became friend, lover, wife, estranged wife, ex-wife &#8212; in the most uninteresting ways possible. Fox and Petersen always existed within the show's universe without an ounce of chemistry, so when the series opted to make the two its 'one true pairing,' it went all in on the show's least interesting relationship.
+Sidle, played by Jorja Fox, was another of the show's originating characters. She initially was Grissom's subordinate but eventually became friend, lover, wife, estranged wife, ex-wife - in the most uninteresting ways possible. Fox and Petersen always existed within the show's universe without an ounce of chemistry, so when the series opted to make the two its 'one true pairing,' it went all in on the show's least interesting relationship.
 
 Sadly, there was plenty of Grissom-and-Sidle relationship drama in the finale, as we quickly learn that the two have divorced and it becomes clear, when Grissom returns to Las Vegas to help investigate a string of suicide bombings, that they are still in love with each other. It's this misguided commitment to its own worst tendencies that made 'Immortality, Parts 1 and 2' such a fitting sendoff for 'CSI.'
 
@@ -34,4 +34,3 @@ But perhaps the most egregious misstep the finale makes is in its conclusion whe
 It's a weird and contrary message, the opposite of what love is, and, in a way, the perfect summation of a relationship that never really worked. Sidle and Grissom sail off into the sunset, something the show believes is a happy ending but reality makes less clear.
 
 [...]
-

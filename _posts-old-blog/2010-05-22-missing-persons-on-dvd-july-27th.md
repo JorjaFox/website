@@ -23,7 +23,7 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2010/05/missing-dvd.jpg"><img src="//static.jorjafox.net/wordpress/2010/05/missing-dvd-100x100.jpg" alt="" title="missing-dvd" width="100" height="100" class="alignleft size-thumbnail wp-image-2430" /></a> <a href="http://www.tvshowsondvd.com/news/Unsub-Prime-Time-Crime-SJC-Collection/13792">TV Shows on DVD</a> has some of the best news for serious Jorja Fans.
 
-Mill Creek Entertainment is releasing a 10-DVD set called  "<em>Prime Time Crime: The Stephen J. Cannell Collection</em>".   Why do you care?  Because it has the complete series run of all four of his programs. That means **all 18 original episodes of <em>Missing Persons</em>**.  Plus some other shows you've never heard of, though I suspect 80s kids like me will whoop over some classic <em>21 Jump Street</em>.
+Mill Creek Entertainment is releasing a 10-DVD set called  "_Prime Time Crime: The Stephen J. Cannell Collection_".   Why do you care?  Because it has the complete series run of all four of his programs. That means **all 18 original episodes of _Missing Persons_**.  Plus some other shows you've never heard of, though I suspect 80s kids like me will whoop over some classic _21 Jump Street_.
 
 The expected price for this is $29.98 and the DVD goes on sale July 27th.  They're not yet available for pre-sale on Amazon, but I'll keep track!  This is, most likely, US and Canada only, as the DVDs are Region-1. Have I mentioned that I hate DVD regions?
 

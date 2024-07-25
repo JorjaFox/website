@@ -18,11 +18,11 @@ tags:
     - producer
 ---
 
-<blockquote>A screening of **<em>How I Became an Elephant</em>** will be held at Franklin D. Roosevelt Park on Saturday, August 3rd, 2013.
+<blockquote>A screening of **_How I Became an Elephant_** will be held at Franklin D. Roosevelt Park on Saturday, August 3rd, 2013.
 
 **7:45pm** Food &amp; Drink
 
-**8:15pm** Screening of <em>How I Became an Elephant</em>
+**8:15pm** Screening of _How I Became an Elephant_
 
 After the screening:
 

@@ -25,10 +25,10 @@ But that was easier than getting this documentary to the people.
 
 Director&nbsp;Lisa France was a&nbsp;struggling LA filmmaker, thinking about giving it up for nursing when she learned about Cordell and his plan to cross the country in an unmodified wheelchair. One promo video and a Kickstarter later, they were on their way. It wasn't easy, as crew members struggled with their own demons, but they made a family and made it through.
 
-The drama didn't end with filming, however. Even though Jorja Fox and Sharon Swart, a former journalist in Los Angeles, &nbsp;joined on as producer, they weren't able to get distribution. Relegated to the film festival circuit (where they did well), the next jump camp when&nbsp;&nbsp;Ava DuVernay's company, Array, picked up <em>Roll With Me</em> with an eye to releasing it on Netflix.
+The drama didn't end with filming, however. Even though Jorja Fox and Sharon Swart, a former journalist in Los Angeles, &nbsp;joined on as producer, they weren't able to get distribution. Relegated to the film festival circuit (where they did well), the next jump camp when&nbsp;&nbsp;Ava DuVernay's company, Array, picked up _Roll With Me_ with an eye to releasing it on Netflix.
 
 And that brings us to today.
 
-<a href="http://www.arraynow.com/roll-with-me">ARRAY</a> will release <em>Roll With Me</em> on select screens around the country starting in Los Angeles and New York on November 26 and on Netflix beginning **December 1**, just prior to International Day of Persons with Disabilities on December 3. This day honors the estimated one billion people living with disabilities worldwide.
+<a href="http://www.arraynow.com/roll-with-me">ARRAY</a> will release _Roll With Me_ on select screens around the country starting in Los Angeles and New York on November 26 and on Netflix beginning **December 1**, just prior to International Day of Persons with Disabilities on December 3. This day honors the estimated one billion people living with disabilities worldwide.
 
-Don't have Netflix? Check out the <a href="http://www.arraynow.com/roll-with-me">ARRAY <em>Roll With Me</em></a> page for more screenings.
+Don't have Netflix? Check out the <a href="http://www.arraynow.com/roll-with-me">ARRAY _Roll With Me_</a> page for more screenings.

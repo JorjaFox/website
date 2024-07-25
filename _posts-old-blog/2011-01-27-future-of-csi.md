@@ -21,7 +21,7 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2011/01/csi-100x100.jpg" alt="" title="csi" width="100" height="100" class="alignleft size-thumbnail wp-image-3067" />There's no new <em>CSI</em> tonight, which you knew, but here's what's coming next.
+<img src="//static.jorjafox.net/wordpress/2011/01/csi-100x100.jpg" alt="" title="csi" width="100" height="100" class="alignleft size-thumbnail wp-image-3067" />There's no new _CSI_ tonight, which you knew, but here's what's coming next.
 
 February 3rd is "The Two Mrs. Grissoms" and if you're not amped for that, boy are you on the wrong site!
 <blockquote>"The Two Mrs. Grissoms" - A night full of celebration ends with a bang when the director of a scholarship foundation for the deaf is killed by a deadly car bomb, prompting Sara to interrogate the students and faculty of the college where her mother-in-law works, on CSI: CRIME SCENE INVESTIGATION, Thursday, Feb. 3 (9:00-10:00 PM, ET/PT) on the CBS Television Network.  Academy Award winner Marlee Matlin ("Children of a Lesser God," "The L Word") guest stars as a deaf professor and Grissom's ex-girlfriend, Julia Holden.  Phyllis Frelich ("Santa Barbara") guest stars as Grissom's deaf mother/Sara's mother-in-law.</blockquote>

@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Tuned In Journal: Sara sidles away from &#8216;CSI'  "
+newstitle: "Tuned In Journal: Sara sidles away from 'CSI'  "
 newsauthor: Rob Owen
 newssource: Pittsburgh Post-Gazette
 newsurl: http://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm
@@ -20,4 +20,3 @@ To really get into a critique of her departure would entail giving away things t
 The episode finds Sara confronting a case from her past when a crime in the present sends a coed plunging out a dorm room window. This crime, the characters involved and Sara's recent stint trapped under a car in the desert all play into Sara's good-bye.
 
 As for where Sara's headed, well, I think she may be hanging on a tropical island with Jason Gideon (Mandy Patinkin) from "Criminal Minds" given some parallels in their swan songs.
-

@@ -16,7 +16,7 @@ newsurl: http://www.tvguide.com
 
 [...]
 
-**Have you found out anything definitive about Jorja Fox staying or going on "CSI?" &#8212; Betsy**
+**Have you found out anything definitive about Jorja Fox staying or going on "CSI?" - Betsy**
 
 **Ausiello:** Yes, I have.
 

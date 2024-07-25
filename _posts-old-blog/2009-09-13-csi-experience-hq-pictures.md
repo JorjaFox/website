@@ -43,7 +43,7 @@ tags:
     - photos
 ---
 
-I can't thank **<a href="http://www.margamania.net/">Margamania</a>** enough for finding these for us!  And I know there's been a lot of sniping and backbiting going on in the <em>CSI</em> fandom, about Jorja being back and what it means, positive and negative.  The thing that always rings true for me is that the <em>CSI</em> cast are a family, and so are we fans.  Regardless of who you fan for, who you ship and who you love the most, we all became an internet family over this strange little show, and we should never forget that.
+I can't thank **<a href="http://www.margamania.net/">Margamania</a>** enough for finding these for us!  And I know there's been a lot of sniping and backbiting going on in the _CSI_ fandom, about Jorja being back and what it means, positive and negative.  The thing that always rings true for me is that the _CSI_ cast are a family, and so are we fans.  Regardless of who you fan for, who you ship and who you love the most, we all became an internet family over this strange little show, and we should never forget that.
 
 Now before I break into Kum-Bay-Ya-Yas, let's celebrate with some highly adorable high quality pictures of Jorja and Eric at the event!
 

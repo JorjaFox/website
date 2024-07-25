@@ -18,9 +18,9 @@ tags:
     - tv
 ---
 
-Remember we talked about <a title="Ranking the Cast of ER" href="https://jorjafox.net/2014/ranking-the-cast-of-er/">Maggie Doyle on <em>ER</em> last week</a>? Let's look at <em>West Wing</em> this week! Jorja really has been on all the hit shows in the last 20 years, which is really wild.
+Remember we talked about <a title="Ranking the Cast of ER" href="https://jorjafox.net/2014/ranking-the-cast-of-er/">Maggie Doyle on _ER_ last week</a>? Let's look at _West Wing_ this week! Jorja really has been on all the hit shows in the last 20 years, which is really wild.
 <blockquote>
-<p dir="ltr">As of this month, <em>The West Wing </em>is 15 years old. We'll pause as you absorb how long you've been without Jed Bartlet and his merry band in your life. Doesn't it feel like just yesterday we all fell in love with Aaron Sorkin's bastion of liberal idealism wrapped up in fast-paced dialogue usually said while walking?
+<p dir="ltr">As of this month, _The West Wing _is 15 years old. We'll pause as you absorb how long you've been without Jed Bartlet and his merry band in your life. Doesn't it feel like just yesterday we all fell in love with Aaron Sorkin's bastion of liberal idealism wrapped up in fast-paced dialogue usually said while walking?
 &nbsp;
 
 [...]
@@ -32,4 +32,4 @@ Remember we talked about <a title="Ranking the Cast of ER" href="https://jorjafo
 </blockquote>
 <p dir="ltr">That moment, that shot of her screaming "GUN!" marked a major change in this site. All of the sudden, everyone wanted to know about this woman. And the next thing we all knew, she was on CSI (with a haircut) and solving crimes like a boss. I really loved Gina, her five episodes were a hoot, especially how she spent her breaks going over photos of skinheads. We never found out why she wore a wedding ring, but we knew she'd keep Zoey's secrets about boys safe from her father, even if dad was the President.
 <p dir="ltr">Read about all the characters on <a href="http://www.thewire.com/entertainment/2014/09/a-definitive-ranking-of-every-character-on-the-west-wing/380098/">The Wire's Definitive Ranking of Every Character on 'The West Wing'</a>
-<p dir="ltr">My favorite tidbit about that show? Jorja got run over by a car. When the shooter fires, she jumps to protect her charge. There's a limo that runs up to block the, and it ran right over Jorja's leg. She was fine, but they took her to the ER ... where everyone recognized her from <em>ER</em>.
+<p dir="ltr">My favorite tidbit about that show? Jorja got run over by a car. When the shooter fires, she jumps to protect her charge. There's a limo that runs up to block the, and it ran right over Jorja's leg. She was fine, but they took her to the ER ... where everyone recognized her from _ER_.

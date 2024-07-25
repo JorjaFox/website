@@ -36,7 +36,7 @@ http://www.youtube.com/watch?v=aj6f-8JkMf0
 http://www.youtube.com/watch?v=OkEOvjOCnz0
 
 <h2>Recap</h2>
-<del datetime="2010-04-09T02:24:33+00:00"><em>Coming Soon!</em></del>
+<del datetime="2010-04-09T02:24:33+00:00">_Coming Soon!_</del>
 
 Updated at 10:25pm ET.  This was ... Wow. I enjoyed a CSI episode on it's own merits for the first time since probably "Ending Happy."  I'm a twisted person.  Good episode, obvious twists, and a lot of Sara!
 

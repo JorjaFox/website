@@ -28,7 +28,7 @@ Fox read at the Los Angeles book launch of Karen Dawn's Thanking the Monkey: Ret
 
 Every year she is nominated for the World's Sexiest Vegetarian.
 
-<em>'I can see myself in a snail or a whale. It's easy, actually. My empathy and compassion for the human condition came first, and then it expanded.' (IMDB)</em>
+_'I can see myself in a snail or a whale. It's easy, actually. My empathy and compassion for the human condition came first, and then it expanded.' (IMDB)_
 
 ...</blockquote>
 Credit: <a href="http://www.femalefirst.co.uk/vegan/jorja-fox-vegan-peta-958255.html">FemaleFirst</a>

@@ -39,6 +39,6 @@ http://twitter.com/CSIWritersRoom/status/390700004538466304
 
 http://twitter.com/CSIWritersRoom/status/390695516285063169
 
-I am really pleased to see them saying they don't mind being reminded about GSR, and I'm equally delighted to see how many people are being <em>nice</em> to them about it. You and I don't always agree about the plots or the storylines, but I'm pretty sure we all enjoy the show, so there's no harm in us being polite to people about that. I mean... I don't know about you, but that's what I was taught growing up. Be polite to people. And then come sit by my grandmother to tell her all the dirt.
+I am really pleased to see them saying they don't mind being reminded about GSR, and I'm equally delighted to see how many people are being _nice_ to them about it. You and I don't always agree about the plots or the storylines, but I'm pretty sure we all enjoy the show, so there's no harm in us being polite to people about that. I mean... I don't know about you, but that's what I was taught growing up. Be polite to people. And then come sit by my grandmother to tell her all the dirt.
 
 Also I'm excited for next week! Of course, as soon as I put up screencaps, I'm off to Boston to speak at the NERD center about webhosting!

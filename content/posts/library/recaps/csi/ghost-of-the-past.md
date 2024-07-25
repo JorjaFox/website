@@ -43,4 +43,3 @@ After the case, Sara asks DB for a leave to return to San Francisco and work on 
 - - -
 
 **Sara:** Hmm. Twenty years has done nothing to cure the crazy.
-

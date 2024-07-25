@@ -35,7 +35,7 @@ tags:
     - 'social media'
 ---
 
-At long last, the city that spawned <em>CSI</em> will get a chance to host the CSI Experience.  Having been to the one in Chicago, I would recommend going. It's a fun exhibit and while it doesn't quite make you feel like you're a CSI, it does give you little fan-girl (and boy) moments of glee when you outsmart the game.
+At long last, the city that spawned _CSI_ will get a chance to host the CSI Experience.  Having been to the one in Chicago, I would recommend going. It's a fun exhibit and while it doesn't quite make you feel like you're a CSI, it does give you little fan-girl (and boy) moments of glee when you outsmart the game.
 
 <blockquote id="tw3842537808" class="aTweet" cite="http://twitter.com/DaynaRoselli/status/3842537808">
 	CSI Experience Red Carpet this Saturday at MGM.  I have the list of cast members attending.... here they are.... continuing tweet....

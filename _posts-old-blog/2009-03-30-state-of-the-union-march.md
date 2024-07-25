@@ -42,12 +42,12 @@ tags:
 So let's get down to the stuff you give a hoot about!
 
 **Jorja Fox**
-It's been a quieter month, with some news about <a href="https://jorjafox.net/2009/03/03/animal-acres-updates/">Animal Acres events</a> and <a href="https://jorjafox.net/2009/03/04/did-george-eads-call-jorja-a-diva/">DivaGate (or: Did George call Jorja a 'diva'?)</a>.  There was a blip sighting of <a href="https://jorjafox.net/2009/03/22/doyle-sighted-again/">Doyle's name on <em>ER</em></a>, but no verbal mention of our heroine.
+It's been a quieter month, with some news about <a href="https://jorjafox.net/2009/03/03/animal-acres-updates/">Animal Acres events</a> and <a href="https://jorjafox.net/2009/03/04/did-george-eads-call-jorja-a-diva/">DivaGate (or: Did George call Jorja a 'diva'?)</a>.  There was a blip sighting of <a href="https://jorjafox.net/2009/03/22/doyle-sighted-again/">Doyle's name on _ER_</a>, but no verbal mention of our heroine.
 
 For the Grissom/Sara fans, William Petersen called Sara the <a href="https://jorjafox.net/2009/03/11/petersen-sara-is-the-heart-of-grissom/">heart of Grissom</a>.  As "One To Go" finally aired in the UK, there were some late reviews of the final episode, and many with Sara in mind:
 &bull; <a href="http://www.indielondon.co.uk/TV-Review/csi-grissom-s-farewell-episodes">IndieLondon: CSI - Grissom's farewell episodes</a>
 &bull; <a href="http://crushedwithkisses.blogspot.com/2009/03/love-of-grissom-and-sara-true-romance.html">Crushed by Ingsoc: The Love of Grissom and Sara- A True Romance</a>
-&bull; <a href="http://www.shewired.com/Article.cfm?ID=22058">SheWired.com - Girls, Girls, Girls and Gossip!</a> (Mentioning Jorja while discussing <em>ER</em>)
+&bull; <a href="http://www.shewired.com/Article.cfm?ID=22058">SheWired.com - Girls, Girls, Girls and Gossip!</a> (Mentioning Jorja while discussing _ER_)
 
 **Community**
 Sometimes I have links to other blogs and all that I'm not sure what to do with. Like, how do you classify a blog post about CSI, animal activism and a little bit of Jorja Fox?  So I'm going to try listing the links here about articles that are related to Jorja Fox in a Venn Diagram, but I can't find a home for. Yet.

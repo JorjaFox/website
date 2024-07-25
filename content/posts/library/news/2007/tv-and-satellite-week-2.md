@@ -16,7 +16,7 @@ newsurl: http://www.tvandsatelliteweek.com/
 
 [...]
 
-While cast and crew remain tight-lipped on the details, we can reveal that the violent outcome has a major bearing on another of the show's most intriguing storylines &#8212; the clandestine relationship between Grissom and his fiesty colleague Sara Sidle (Jorja Fox).
+While cast and crew remain tight-lipped on the details, we can reveal that the violent outcome has a major bearing on another of the show's most intriguing storylines - the clandestine relationship between Grissom and his fiesty colleague Sara Sidle (Jorja Fox).
 
 As the CSI team tries to track down the killer, Sara goes missing and her secret relationship with Grissom is forced into the open.
 

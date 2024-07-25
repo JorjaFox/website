@@ -31,4 +31,3 @@ If you'd like to adopt a Lion Ark lion, either in support of Jorja Fox on her fa
 You'll get periodic updates about your lion, plus our special Animal Adopters magazine, "Toto News," three times a year. Animal Adoptions make great gifts too -- for the animal lover in your life, or just for yourself. To find out all about Animal Adoptions, **[click here](http://www.ad-international.org/take_action/animal_adoptions/)**.
 
 ADI wishes to thank everyone who has donated to help support our work to protect and save animals. Operation Lion Ark has meant a wonderful new life for all the lucky Bolivian ex-circus lions, but for animals the world over, it means HOPE!
-

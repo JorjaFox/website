@@ -16,7 +16,7 @@ tags:
     - birthday
 ---
 
-Seriously? You're 45? Okay, I can see you're older than you were in <em>Missing Persons</em>, but 45? No way.
+Seriously? You're 45? Okay, I can see you're older than you were in _Missing Persons_, but 45? No way.
 
 <a href="//static.jorjafox.net/wordpress/2013/07/Happy-Birthday.jpg"><img class="aligncenter size-large wp-image-7490" alt="Happy-Birthday" src="//static.jorjafox.net/wordpress/2013/07/Happy-Birthday.jpg" width="600" height="450" /></a>
 

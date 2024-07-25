@@ -17,7 +17,7 @@ Starring Loretta Gross, Jackson Sims, Cathy Haase, Steve Monroe, Andrew Lee Barr
 
 Cinematography by Declan Quinn.
 
-**Grim but Worthy &#8212; Low-Life Study**
+**Grim but Worthy - Low-Life Study**
 
 Maggie Greenwald's dark, low-budget adaptation of *The Kill-Off* is considered one of the finest translations of a Jim Thompson novel from page to screen. Completed in 1989 the movie documents the sleazy lowlife of an East Coast nowheresville and its inhabitants who share a common hatred of monstrous bed-ridden gossip Luane (played by Loretta Gross) who terrorizes the town with her tales and accusations. ER semi-regular Jorja Fox features as the naive junkie daughter of the local bar-owner who has half-hopes of escaping to a better existence. Claustrophobic and very slow-paced, The Kill Off makes for grim but worthy viewing.
 

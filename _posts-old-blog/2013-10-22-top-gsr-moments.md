@@ -18,7 +18,7 @@ tags:
     - 'social media'
 ---
 
-I <em>told</em> you there was sequel, right?
+I _told_ you there was sequel, right?
 
 If you haven't looked at the <a title="Top Sara Moments" href="https://jorjafox.net/2013/top-sara-moments/">Top Sara Moments</a>, go back. Then come here.
 

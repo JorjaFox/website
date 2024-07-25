@@ -26,7 +26,7 @@ tags:
 
 **There's a new group called <a href="https://jorjafox.net/groups/gsr-fans/">GSR Fans</a>**
 
-This group is for people who are PRO GSR.  If you don't like Grissom/Sara, stay the heck out!  In that group, members can post all about their relationship. The only thing I ask you <em>not</em> post is fan fiction.  But treat it like an open forum to just go bonkers about GSR.  And yes, the butterfly image was intentional.
+This group is for people who are PRO GSR.  If you don't like Grissom/Sara, stay the heck out!  In that group, members can post all about their relationship. The only thing I ask you _not_ post is fan fiction.  But treat it like an open forum to just go bonkers about GSR.  And yes, the butterfly image was intentional.
 
 There are some other <a href="https://jorjafox.net/groups/">Groups</a> out there, but if you have an idea for another group we should have, let me know!
 

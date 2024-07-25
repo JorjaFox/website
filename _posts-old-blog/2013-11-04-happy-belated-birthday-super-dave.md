@@ -18,7 +18,7 @@ tags:
     - 'social media'
 ---
 
-It was a big party for David Berman, who had <em>CSI</em> stars past and present shining bright at his big day. Including Liz Vassey, Marg Helgenberger, and ....
+It was a big party for David Berman, who had _CSI_ stars past and present shining bright at his big day. Including Liz Vassey, Marg Helgenberger, and ....
 
 https://twitter.com/MargHelgen/status/397248966573584384
 

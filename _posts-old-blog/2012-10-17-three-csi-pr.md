@@ -34,7 +34,7 @@ When a famed music historian is murdered and left in a piano, it has an emotiona
 
 When a K-9 is blamed for the death of his partner, the CSI team discovers there’s more to the case. &nbsp;Meanwhile, Finlay and Morgan investigate the death of a high-profile divorce lawyer with a lot of enemies, on CSI: CRIME SCENE INVESTIGATION,&nbsp;Wednesday, Oct. 31&nbsp;(10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>
 
-<em>Jorja is not scheduled to appear in "Once Bitten."</em>
+_Jorja is not scheduled to appear in "Once Bitten."_
 
 **Pick and Roll** (Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=33307">CBS Press Express</a>)
 

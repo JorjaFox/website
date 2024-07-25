@@ -17,7 +17,7 @@ tags:
     - 'press release'
 ---
 
-Jorja <em>is not</em> in this episode.
+Jorja _is not_ in this episode.
 
 THE CSIs INVESTIGATE THE CYBER-RELATED MURDER OF A PROMINENT CASINO OWNER’S WIFE AND RECEIVE HELP FROM THE FBI’s CYBER CRIME DIVISION, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, APRIL 30
 

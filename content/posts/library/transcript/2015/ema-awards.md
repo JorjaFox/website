@@ -9,7 +9,7 @@ categories: ["Interviews"]
 tags: [ "2015" ]
 ---
 
-**Renee Bargh:** ... Ah but first up we've got Jorja Fox from <em>CSI</em>. Hi, how are you?
+**Renee Bargh:** ... Ah but first up we've got Jorja Fox from _CSI_. Hi, how are you?
 
 **Jorja Fox:** You look amazing.
 
@@ -19,7 +19,7 @@ tags: [ "2015" ]
 
 **Renee:** You look great. So tell me, why is it so important to be at this event?
 
-**Jorja:** I think it's one of the most important events that you could attend in Los Angeles. Bringing attention to environmental awareness, which is at such a critical, frightening stage right now. I'm super excited to celebrate <em>[Racing Extinction](/library/advocacy/racing-extinction/)</em> tonight, I've had the pleasure of seeing it already. It's one of the greatest films I've ever seen.
+**Jorja:** I think it's one of the most important events that you could attend in Los Angeles. Bringing attention to environmental awareness, which is at such a critical, frightening stage right now. I'm super excited to celebrate _[Racing Extinction](/library/advocacy/racing-extinction/)_ tonight, I've had the pleasure of seeing it already. It's one of the greatest films I've ever seen.
 
 **Renee:** Really?
 

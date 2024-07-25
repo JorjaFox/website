@@ -26,6 +26,6 @@ The Artists &amp; Athletes Alliance hosted a private briefing for members of the
 
 More pictures can be found on Facebook at <a href="https://www.facebook.com/media/set/?set=a.551695014868933.1073741824.128590747179364&amp;type=1">Briefing on Global Environmental Challenges - June 05, 2013</a>
 
-<em>ETA:</em>
+_ETA:_
 
 https://twitter.com/caafoundation/status/343110954285932544

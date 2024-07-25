@@ -49,6 +49,6 @@ Of course, given what the newspapers say today... (spoilers below the cut)
 <blockquote>Chicago favorite William Petersen makes his finale apperance as CSI leader Gil Grissom, who leaves the squad to spend more time with the loves of his life, Sara Sidle (Jorja Fox) and bugs.</blockquote>
 Source: RedEye
 
-<em>Update - 1pm ET</em>
+_Update - 1pm ET_
 <blockquote>In the final minutes, however, there's actually sunshine and an ending similar to Julianna Marguiles' departure from "ER"; for fans, it's a fine payoff.</blockquote>
 Source:<a href="http://www.news-leader.com/article/20090115/ENTERTAINMENT10/901150375/1005/RSS04">News-Leader</a>

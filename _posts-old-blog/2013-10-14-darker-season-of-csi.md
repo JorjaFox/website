@@ -34,4 +34,4 @@ Credit: <a href="http://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-w
 
 For those who don't know, <a href="http://en.wikipedia.org/wiki/Impostor_syndrome">Impostor Syndrome</a> is where you can't visualize your own worth in certain things. It's a pretty common phenomena.
 
-What do you think about CSI going <em>even</em> darker?
+What do you think about CSI going _even_ darker?

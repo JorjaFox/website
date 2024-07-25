@@ -14,7 +14,7 @@ categories:
     - 'Jorja Fox'
 ---
 
-Jorja was up at Soho House in West Hollywood earlier this week to watch a showing of <em>Extinction Soup</em>. She was on hand for chatting and photos before and after.
+Jorja was up at Soho House in West Hollywood earlier this week to watch a showing of _Extinction Soup_. She was on hand for chatting and photos before and after.
 
 <a href="https://jorjafox.net/gallery/pub/animals/20150302-react/"><img src="//jfo-static.net/wordpress/2015/03/10995925_909150242440098_5228811761156874794_n.jpg" alt="React to Film Presents Extinction Soup" width="960" height="640" class="aligncenter size-full wp-image-12840" /></a>
 

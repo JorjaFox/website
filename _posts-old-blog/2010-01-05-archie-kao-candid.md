@@ -29,4 +29,4 @@ It looks like it's from the first episode Jorja was back for, but then again, it
 
 Credit: <a href="http://twitpic.com/wqrbo">@ArchieKao</a>
 
-<em>Edit: Archie <a href="http://twitter.com/archiekao/statuses/7426218684">tweeted</a> the photo was taken on the 4th of January</em>
+_Edit: Archie <a href="http://twitter.com/archiekao/statuses/7426218684">tweeted</a> the photo was taken on the 4th of January_

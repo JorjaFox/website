@@ -3,7 +3,7 @@ id: 1918
 title: 'State of the Union — July'
 date: '2009-07-31T09:36:03-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'July 2009 can be summed up as follows: Jorja returns to <em>CSI</em> for 5 episodes. Also **JFO: TV** goes live and **CSI Watch** returns!'
+excerpt: 'July 2009 can be summed up as follows: Jorja returns to _CSI_ for 5 episodes. Also **JFO: TV** goes live and **CSI Watch** returns!'
 layout: post
 guid: 'https://jorjafox.net/?p=1918'
 permalink: /2009/state-of-the-union-july/
@@ -40,20 +40,20 @@ I hope the ads interest you enough that you click on them to check them out, as 
 
 Usually this where I remind people that "Summer Is Slow" but ... let's take it from the top.
 
-**Jorja's returning to <em>CSI</em>**
-This is not a joke nor a hoax, but the honest factoid truth.  I repeat: <a href="https://jorjafox.net/blog/its-true-jorja-returns-to-csi/">It's True! Jorja Returns to <em>CSI</em>!</a>  Okay? Good.  Now the details are slim, but it's for 5 non-consecutive episodes, including the season premiere on Sept 24th, so please set DVRs to Stun.
+**Jorja's returning to _CSI_**
+This is not a joke nor a hoax, but the honest factoid truth.  I repeat: <a href="https://jorjafox.net/blog/its-true-jorja-returns-to-csi/">It's True! Jorja Returns to _CSI_!</a>  Okay? Good.  Now the details are slim, but it's for 5 non-consecutive episodes, including the season premiere on Sept 24th, so please set DVRs to Stun.
 
 Rather than list all the 200+ articles on the subject, I'm going to cheat with a <a href="http://news.google.com/news/more?ned=us&cf=all&ncl=doUGjX_cEz7A6KMBjGpiYNWzy_jQM">Google News Search for "Jorja Fox Returns to CSI"</a>.  That'll show you everything.
 
 Also, to answer the most common questions: No, there's no confirmation about William Petersen coming with her, but Naren Shankar insists that Grissom and Sara are "absolutely together." Even if people like Ausiello need a little convincing. Sara's returning for the same reason Jorja is: someone asked her and she said yes.
 
-In honor of this, I've resurrected CSI Watch, an announcement only email list, where I will email you updates as to when Jorja will appear on NEW episodes of <em>CSI</em>.
+In honor of this, I've resurrected CSI Watch, an announcement only email list, where I will email you updates as to when Jorja will appear on NEW episodes of _CSI_.
 
 **JFO: TV**
 Yes, JFO: TV, found at <a href="http://tv.jorjafox.net">http://tv.jorjafox.net</a>, is up and running as a video repository!  The idea behind it is for videos that, for whatever reason, can't be done on youTube, or are preventing our overseas fans (and Canadians) from seeing the coolness of Jorja.  There won't be full episodes or even all the Jorja scenes from an episode posted.  Just one or two, perhaps, and promos and other things that are hard to find. Like I Love the 70s.  You won't be able to (easily) download these, and you won't be able to embed them on your site at all. I'm sure someone clever can download them, and I have no plans to stop you on that note.
 
 **More Jorja on TV**
-Jorja's episode of <em>Drop Dead Diva</em> airs August 16th. Don't forget to watch! You can also check out our <a href="https://jorjafox.net/gallery/tv/guest/drop-dead-diva/promo/">Promo pics</a>
+Jorja's episode of _Drop Dead Diva_ airs August 16th. Don't forget to watch! You can also check out our <a href="https://jorjafox.net/gallery/tv/guest/drop-dead-diva/promo/">Promo pics</a>
 
 **No Emmy for Jorja**
 The Emmy people are very cliquish. Nuff said.

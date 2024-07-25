@@ -3,7 +3,7 @@ id: 3110
 title: 'CSI 11&#215;16: "Turn On, Tune In, Drop Dead" Discussion Post (Updated!)'
 date: '2011-02-24T09:00:29-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Zombies and trailers?  We all know Zombies like brains and who''s the brainiest CSI we know?  Sara better watch out on tonight''s <em>CSI</em>. (Updated with Screencaps and recap!)'
+excerpt: 'Zombies and trailers?  We all know Zombies like brains and who''s the brainiest CSI we know?  Sara better watch out on tonight''s _CSI_. (Updated with Screencaps and recap!)'
 layout: post
 guid: 'https://jorjafox.net/?p=3110'
 permalink: /2011/csi-11x16-turn-on-tune-in-drop-dead/
@@ -31,9 +31,9 @@ The CSIs are on zombie alert when two men initially pronounced dead mysteriously
 http://www.youtube.com/watch?v=pEi6-DiJwLo
 
 <h3>Recap</h3>
-<del datetime="2011-02-25T03:09:53+00:00"><em>Coming Soon!</em></del>
+<del datetime="2011-02-25T03:09:53+00:00">_Coming Soon!_</del>
 
-Wow. Not a great episode, sort of decent with amusing moments, lots of one liners, and Sara's mom taking her to see <em>Altered States</em> (a movie I will not watch at night or with lights off ... I'm a coward about movies like that, though).  It wasn't the best mystery, but it was a trip.  Yes, did that on purpose.
+Wow. Not a great episode, sort of decent with amusing moments, lots of one liners, and Sara's mom taking her to see _Altered States_ (a movie I will not watch at night or with lights off ... I'm a coward about movies like that, though).  It wasn't the best mystery, but it was a trip.  Yes, did that on purpose.
 
 &bull; <a href="https://jorjafox.net/wiki/Turn_On_Tune_In_Drop_Dead">Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/season11/totidd">Screencaps</a>

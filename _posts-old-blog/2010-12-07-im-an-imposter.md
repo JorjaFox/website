@@ -24,7 +24,7 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2010/12/puppet-100x100.png" alt="" width="150" height="150" class="alignleft size-thumbnail wp-image-63" /> I guess I thought this was obvious when it's really not.  That's what happens when you assume something, folks!
 
-While anyone can comment on the blog posts, only registered users can post on the groups.  Simple, right?  Except that once you register for an account, you can no longer post <em>without</em> logging in on the blog posts!  See, the whole site is interconnected, and in order to make sure impostors don't pretend to be you, I updated a bit of code called 'Impostercide' to tell you 'Hey, that user ID, email or URL is the same as someone who registered here.  Please log in!'
+While anyone can comment on the blog posts, only registered users can post on the groups.  Simple, right?  Except that once you register for an account, you can no longer post _without_ logging in on the blog posts!  See, the whole site is interconnected, and in order to make sure impostors don't pretend to be you, I updated a bit of code called 'Impostercide' to tell you 'Hey, that user ID, email or URL is the same as someone who registered here.  Please log in!'
 
 Now there's a small 'bug' with that, in that some people have the same domain, but most of the time this works just fine.
 

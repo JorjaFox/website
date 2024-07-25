@@ -25,7 +25,7 @@ tags:
     - video
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/03/unshockable-100x100.jpg" alt="" title="unshockable" width="100" height="100" class="alignleft size-thumbnail wp-image-2290" />"This doesn't make any sense."  <em>CSI</em> brings in the band Rascal Flatts for a matter of rock'n'roll and national security.  Discuss the episode here. Spoilers will happen and, as always, I'll update once the ep airs and we have caps etc.
+<img src="//static.jorjafox.net/wordpress/2010/03/unshockable-100x100.jpg" alt="" title="unshockable" width="100" height="100" class="alignleft size-thumbnail wp-image-2290" />"This doesn't make any sense."  _CSI_ brings in the band Rascal Flatts for a matter of rock'n'roll and national security.  Discuss the episode here. Spoilers will happen and, as always, I'll update once the ep airs and we have caps etc.
 
 <h2>Official Release</h2>
 When a band member of Rascal Flatts is electrocuted by his own guitar during a concert, the CSI team investigates if it was a case of foul play.
@@ -36,9 +36,9 @@ http://www.youtube.com/watch?v=c84ZDO0DQiU
 http://www.youtube.com/watch?v=-LxOiHggJcE
 
 <h2>Review</h2>
-<del datetime="2010-03-05T03:01:15+00:00"><em>Coming Soon!</em></del>
+<del datetime="2010-03-05T03:01:15+00:00">_Coming Soon!_</del>
 
-This one gets four stars, for <em>finally</em> mentioning that Sara and Grissom are, you know, married, and had a honeymoon. Looking for bugs in a canoe.  Oh, you silly scientists.
+This one gets four stars, for _finally_ mentioning that Sara and Grissom are, you know, married, and had a honeymoon. Looking for bugs in a canoe.  Oh, you silly scientists.
 
 <ol>
 	<li><a href="https://jorjafox.net/wiki/Unshockable">Recap</a></li>

@@ -20,7 +20,7 @@ tags:
     - tv
 ---
 
-First, yes @TheRealMsClarke <em>is</em> Melinda Clarke (aka Lady Heather, or rather Dr. Lady Heather, to you).
+First, yes @TheRealMsClarke _is_ Melinda Clarke (aka Lady Heather, or rather Dr. Lady Heather, to you).
 
 Secondly, wishes do come true.  She tweeted "On set of CSI working with Mr. Fishburne and Ms. Fox....what a treat!"
 

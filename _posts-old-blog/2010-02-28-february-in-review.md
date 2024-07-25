@@ -22,7 +22,7 @@ tags:
 
 <h2>CSI</h2>
 <span class="alignright" style="width:175px;">[polldaddy poll=2608686]</span>
-Thanks to the Olympics (which I love!), February sort of sucks for <em>CSI</em> news, when you get down to it, since there's not much <em>CSI</em> (basketball).  Extra TV sat down with Jorja and Marg and asked who their <a href="https://jorjafox.net/2010/02/05/csi-girl-crush/">Celebrity Crushes</a> were (hint: Jorja likes <em>Lost</em>). Matt Roush explained why <a href="https://jorjafox.net/blog/2010/02/16/matt-roush-explains-why-jorjas-back-on-csi/">Sara came back to Las Vegas</a> (hint: it was ratings).  And Singapore's The Electric New Paper <a href="https://jorjafox.net/blog/2010/02/17/new-csi-eps-for-singapore-but-jorja-would-rather-be-lost/">rejoiced in season 10's airing on AXN</a> (and pointed out, again, that Jorja would like to be on <em>Lost</em>). <a href="https://jorjafox.net/blog/2010/02/25/forgetting-sara-sidle-yeah-that-didnt-work/">TODAYonline chatted to Jorja about coming back to CSI</a> (and accidentally called her 'Sara' - See? It's not just you!).
+Thanks to the Olympics (which I love!), February sort of sucks for _CSI_ news, when you get down to it, since there's not much _CSI_ (basketball).  Extra TV sat down with Jorja and Marg and asked who their <a href="https://jorjafox.net/2010/02/05/csi-girl-crush/">Celebrity Crushes</a> were (hint: Jorja likes _Lost_). Matt Roush explained why <a href="https://jorjafox.net/blog/2010/02/16/matt-roush-explains-why-jorjas-back-on-csi/">Sara came back to Las Vegas</a> (hint: it was ratings).  And Singapore's The Electric New Paper <a href="https://jorjafox.net/blog/2010/02/17/new-csi-eps-for-singapore-but-jorja-would-rather-be-lost/">rejoiced in season 10's airing on AXN</a> (and pointed out, again, that Jorja would like to be on _Lost_). <a href="https://jorjafox.net/blog/2010/02/25/forgetting-sara-sidle-yeah-that-didnt-work/">TODAYonline chatted to Jorja about coming back to CSI</a> (and accidentally called her 'Sara' - See? It's not just you!).
 
 <h3>CSI Episode</h3>
 <ul>
@@ -44,7 +44,7 @@ So ... yeah, there was that thing that I totally sat on and didn't tell you guys
 I posted quite a bit in *ahem* squeeling fangirl detail on my personal blog.
 
 <h3>Site Updates</h3>
-I did some subtle changes to the Gallery (and was reminded of why you make a backup BEFORE doing that).  The end result is now any album with new images has a little "New!" marker. Which images are new? Well, that's not available right now, so you'll have to look at the whole album. The reason is that when I add 100 new images for a <em>CSI</em> episode, all of them would be marked 'new', which you already knew so why bother.
+I did some subtle changes to the Gallery (and was reminded of why you make a backup BEFORE doing that).  The end result is now any album with new images has a little "New!" marker. Which images are new? Well, that's not available right now, so you'll have to look at the whole album. The reason is that when I add 100 new images for a _CSI_ episode, all of them would be marked 'new', which you already knew so why bother.
 
 The whole site was <a href="https://jorjafox.net/blog/2010/02/08/backend-change-for-jfo-code-not-people/">upgraded to WP 3.0</a>, which means I can maintain everything through one admin section, and not two (which is nice for me, you probably don't care).  But if links went weird for a while, that's why. I tried to fix it all, and I hope I did.
 
@@ -52,4 +52,4 @@ The whole site was <a href="https://jorjafox.net/blog/2010/02/08/backend-change-
 Early in the month, <a href="https://jorjafox.net/videos/">JFO TV</a> had comments turned on. Thanks to WordPress (3.0) I have merged the two blogs and run them off the same DB. Which means I could turn on comments for people, without everyone having to deal with multiple logins and what not.  And if you don't have an ID? Don't worry, you can still comment here and there.  Everyone's first post is moderated, but after that, enjoy!
 
 <h2>In March ...</h2>
-It was a long time, but the next episode of <em>CSI</em> will be next week, so come back then for more screencaps and recaps!
+It was a long time, but the next episode of _CSI_ will be next week, so come back then for more screencaps and recaps!

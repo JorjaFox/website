@@ -20,4 +20,3 @@ Sickos claiming to be fans have been getting too close to stars like Marg Helgen
 A set insider says, "Producers didn't take the threats lightly. They immediately brought in a private security firm to work on the set and then warned everyone associated with the show about the dangers.
 
 "The show is a huge hit, but it has also caught the attention of some real sickos who are obsessed with autopsies."
-

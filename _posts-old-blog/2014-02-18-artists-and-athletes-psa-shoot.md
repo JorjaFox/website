@@ -26,6 +26,6 @@ https://twitter.com/jorjafoxofficia/status/435926980391739392
 
 Yay! PSA information forthcoming (well... when A&amp;A gets it up!)
 
-<em>Edit: And oops, they got me mistaken with Jorja!</em>
+_Edit: And oops, they got me mistaken with Jorja!_
 
 https://twitter.com/ArtistsAthletes/status/435932886240227328

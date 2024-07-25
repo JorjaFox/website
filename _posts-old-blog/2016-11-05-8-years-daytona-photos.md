@@ -30,7 +30,7 @@ tags:
 
 The movie was filmed in 2009, which was eight years ago. Wow, how time flies!
 
-<a href="https://www.facebook.com/akammler">Amanda Kammler</a> worked on the movie <em><a href="https://jorjafox.net/library/actor/3-weeks-to-daytona/">3 Weeks to Daytona</a></em>, and posted almost 200 photos of her time on set:
+<a href="https://www.facebook.com/akammler">Amanda Kammler</a> worked on the movie _<a href="https://jorjafox.net/library/actor/3-weeks-to-daytona/">3 Weeks to Daytona</a>_, and posted almost 200 photos of her time on set:
 
 [gallery columns="0" ids="14197,14198,14199,14200,14201,14202,14203,14204,14205,14206,14207,14208,14209,14210,14211,14212,14213,14214,14215,14216,14217"]
 

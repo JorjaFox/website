@@ -7,7 +7,7 @@ permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
-newstitle: "Jorja Fox Returning To Rescue &#8216;CSI'  "
+newstitle: "Jorja Fox Returning To Rescue 'CSI'  "
 newsauthor: Actress Archives
 newssource: Actress Archives
 newsurl: http://www.actressarchives.com/news.php?id=17528

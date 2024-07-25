@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "CSI star fired in &#8216;pay dispute'"
+newstitle: "CSI star fired in 'pay dispute'"
 newsauthor: Staff
 newssource: BBC
 newsurl: http://news.bbc.co.uk/1/hi/entertainment/film/3899613.stm
@@ -40,4 +40,3 @@ A CBS spokesman said the network had no comment.
 The news emerged on the day CSI was nominated for four Emmys, including best drama series.
 
 A search is under way to find replacements for Fox and Eads, although it is not known whether the characters will be recast or new ones developed.
-

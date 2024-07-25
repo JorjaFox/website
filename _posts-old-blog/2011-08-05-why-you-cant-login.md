@@ -25,7 +25,7 @@ Because of that, right now, no one (but me) can log in.
 
 This **does not** affect anything.  It just means you have to type in your name and email every time you comment, and you can't use the groups right now.  Which is a pain, because I really do like them, but ... I'm actually still not sure exactly what happened (the experts and I agree it's probably due to my shenanigans in 2009).  In order to get the site back up and running, I've brought it back to basics: a blog where anyone can comment.
 
-Where we go from there is up to <em>you</em>.
+Where we go from there is up to _you_.
 
 [polldaddy poll=5353072]
 

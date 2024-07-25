@@ -17,7 +17,7 @@ newsurl: http://tvguide.com
 
 We can already picture the opening scene for the fifth-season premiere of *CSI* this fall. Lifeless prosthetic versions of **George Eads** and **Jorja Fox** will be laid out on the examining table in the morgue. **Robert David Hall** will shake his head as he writes down the cause of death: breach of contract.
 
-Eads and Fox are the first victims in Viacom co-president **Leslie Moonves**&#8216; war on rising programming cost. Eads and Fox didn't report for work for start of production on *CSI*, so Moonves went **Donald Trump** on them last week.
+Eads and Fox are the first victims in Viacom co-president **Leslie Moonves**' war on rising programming cost. Eads and Fox didn't report for work for start of production on *CSI*, so Moonves went **Donald Trump** on them last week.
 
 "We offered them more money after Season 4," said Moonves at CBS's Sunday session at the Television Critics Assoc. press tour. "And it wasn't enough. This behavior has to stop if the people in network television want to stay in business. The lawyers, agents and managers have to realize if we're going to be in business for a long time, things have to change. It's time that people realize that we can't be the whipping boy."
 
@@ -36,4 +36,3 @@ But this is also an opportunity for Moonves to make a larger point. While CBS's 
 "There comes a point where we all have to look out for the future of the network television business," Moonves said. "It's no secret that four of the six television networks lost money last year &#151 we are one of the two that didn't. NBC is the other one."
 
 Moonves' hard-line approach could also be a byproduct of his new role at Viacom, which puts him in direct competition with former MTV Networks head **Tom Freston** for the chairman's job. Moonves is already known as a talent-friendly showman. Now he could be out to show he's a tough business operator as well.
-

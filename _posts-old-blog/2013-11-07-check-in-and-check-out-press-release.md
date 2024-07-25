@@ -17,7 +17,7 @@ tags:
     - 'press release'
 ---
 
-Jorja <em>is not</em> in this episode. I'll be taking the week off for recaps and screencaps, but I will be watching.
+Jorja _is not_ in this episode. I'll be taking the week off for recaps and screencaps, but I will be watching.
 
 <blockquote>THE CSI TEAM INVESTIGATES THE STABBING OF A COUPLE FOUND AT A LOCAL MOTEL THAT IS REMINISCENT OF PREVIOUS INCIDENTS, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, NOV. 20
 
@@ -29,4 +29,4 @@ CHEAT TWEET:  .@JordinSparks guest stars as a teacher who ends up in the wrong p
 
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=37249">CBS Pressexpress</a>
 
-Jorja <em>will</em> be in next week's episode, "Helpless."
+Jorja _will_ be in next week's episode, "Helpless."

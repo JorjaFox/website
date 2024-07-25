@@ -23,7 +23,7 @@ tags:
 From TV Guide we get this exclusive first look:
 <p style="text-align: center;"><a href="https://jorjafox.net/gallery/tv/csi/pub/s12/stills/1201-promo.jpg"><img class="size-full wp-image-3566 aligncenter" title="marg-ted-jorja" src="//static.jorjafox.net/wordpress/2011/07/marg-ted-jorja.jpg" alt="" width="299" height="206" /></a>
 
-<blockquote>Ted Danson's on the case with Marg Helgenberger (left) and Jorja Fox as the three filmed at the Golden Nugget Casino in Las Vegas on July 25. Danson joins the CBS series, currently filming its 12th season, playing the new head of the graveyard shift at the crime lab. <em>CSI</em> premieres on its new night, Wednesday, September 21, at 10pm.</blockquote>
+<blockquote>Ted Danson's on the case with Marg Helgenberger (left) and Jorja Fox as the three filmed at the Golden Nugget Casino in Las Vegas on July 25. Danson joins the CBS series, currently filming its 12th season, playing the new head of the graveyard shift at the crime lab. _CSI_ premieres on its new night, Wednesday, September 21, at 10pm.</blockquote>
 Credit: <a href="http://www.tvguide.com/News/Ted-Danson-CSI-1035847.aspx">TVGuide.com</a>
 
 For an even bigger and better pic, check it out here: <a href="https://jorjafox.net/gallery/tv/csi/pub/s12/stills/1201-promo.jpg">12x01 promo shot</a>

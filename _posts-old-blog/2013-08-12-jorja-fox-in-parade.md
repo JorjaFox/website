@@ -28,4 +28,4 @@ Born in New York City, Jorja moved with her family to Melbourne Beach, FL, when 
 “I learned a lot about conservation from my grandmother, and my family always cared about animals,” she adds. “Caring for the environment impacts all of us—people and animals. We had a family dog, and lots of wildlife around us, which I grew to appreciate.”
 
 Today, she has a three-year old rescue dog, which she says, “is the most brilliant dog in the world.”</blockquote>
-Check out the full article at Parade.com: <a href="http://www.parade.com/55620/michelechollow/csis-jorja-fox-on-animal-advocacy-on-tv-and-in-real-life/">**<em>CSI</em>'s Jorja Fox on Animal Advocacy on TV and in Real Life **</a>
+Check out the full article at Parade.com: <a href="http://www.parade.com/55620/michelechollow/csis-jorja-fox-on-animal-advocacy-on-tv-and-in-real-life/">**_CSI_'s Jorja Fox on Animal Advocacy on TV and in Real Life **</a>

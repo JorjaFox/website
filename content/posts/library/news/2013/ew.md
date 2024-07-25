@@ -7,7 +7,7 @@ permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
-newstitle: "&#8216;CSI': What is sad Sara waiting for? &#8212; EXCLUSIVE VIDEO  "
+newstitle: "'CSI': What is sad Sara waiting for? - EXCLUSIVE VIDEO  "
 newsauthor: Lynette Rice
 newssource: EW.com
 newsurl: http://insidetv.ew.com/2013/02/19/csi-jorja-fox-william-petersen/
@@ -25,4 +25,3 @@ Does that mean she doesnt want Gil anymore? Fox is predictably coy, though she a
 But will that be the case for Sara? See for yourself.
 
 [...]
-

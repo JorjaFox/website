@@ -15,7 +15,7 @@ tags: [ "2003" ]
 
 [...]
 
-**Jorja Fox** And I think for her, you know, the type of person that she is and what she does for a living, she's so sure that she knows the truth about everyone, and to find out that two people she was very very close to were, were lying to her all along is a pretty hard thing for her to digest. You know, just above and beyond the fact that these relationships both go sour but then &#8216;wow, that somebody, she was fooled, she was tricked' by people she was close to. Then, ah, we see her again in another episode and the lab blows up and she, she walks away from the explosion, her and Greg Sanders get blown up together, and that was a very hard thing, I think for her, you know, personally, and, and the episode ends with-
+**Jorja Fox** And I think for her, you know, the type of person that she is and what she does for a living, she's so sure that she knows the truth about everyone, and to find out that two people she was very very close to were, were lying to her all along is a pretty hard thing for her to digest. You know, just above and beyond the fact that these relationships both go sour but then 'wow, that somebody, she was fooled, she was tricked' by people she was close to. Then, ah, we see her again in another episode and the lab blows up and she, she walks away from the explosion, her and Greg Sanders get blown up together, and that was a very hard thing, I think for her, you know, personally, and, and the episode ends with-
 
 ## Play With Fire
 

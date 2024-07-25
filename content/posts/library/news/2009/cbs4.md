@@ -30,7 +30,7 @@ And now that Catherine is in charge, tensions may mount.
 
 "Sara hasn't always been completely comfortable with anyone in the authority track; but there's been some changes in Sara's life. She got married to Grissom.
 
-Getting back into CSI mode has been a breeze for Jorja Fox. "My big line today is &#8216;hi guys', and I'm like all right, I think I can do that, I think I can pull it off."
+Getting back into CSI mode has been a breeze for Jorja Fox. "My big line today is 'hi guys', and I'm like all right, I think I can do that, I think I can pull it off."
 
 Fox says there's something unique to CSA and it's still thrilling after all this time to just get to be a part of it.
 

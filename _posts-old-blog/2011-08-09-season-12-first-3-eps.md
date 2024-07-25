@@ -31,7 +31,7 @@ STORY LINE: A crazy, chaotic shoot-out on a hotel tram leaves two dead, almost n
 
 STORY LINE: The brutal slaying of an entire family has the CSI team stumped, particularly when an unlikely candidate comes forward to take responsibility for the killings...
 
-Yolanda  Latina, a spitfire, an ex-Marine, she's now the ballistics tech...GUEST STAR. <em>**POSSIBLY RECURRING**.</em>
+Yolanda  Latina, a spitfire, an ex-Marine, she's now the ballistics tech...GUEST STAR. _**POSSIBLY RECURRING**._
 
 **CSI 12.03 "Bittersweet"**
 

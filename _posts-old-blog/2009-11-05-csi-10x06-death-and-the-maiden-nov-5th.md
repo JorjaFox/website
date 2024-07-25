@@ -3,7 +3,7 @@ id: 2098
 title: 'CSI 10&#215;06 &#8216;Death and the Maiden' — Nov 5th (Updated)'
 date: '2009-11-05T09:16:47-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '"We''ve got three confessions and three suspects." New episode of <em>CSI</em> tonight, Nov. 5th. (Updated - No Sara! Shocking!)'
+excerpt: '"We''ve got three confessions and three suspects." New episode of _CSI_ tonight, Nov. 5th. (Updated - No Sara! Shocking!)'
 layout: post
 guid: 'https://jorjafox.net/?p=2098'
 permalink: /2009/csi-10x06-death-and-the-maiden-nov-5th/

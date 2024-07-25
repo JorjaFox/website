@@ -19,4 +19,3 @@ It's been two years since Jorja Fox returned to CSI, and considering her long hi
 Fox, 43, used to be a series regular during the first seven seasons of CSI; however, she left the show at the start of Season 8. There were occasional guest appearances, of course, but even after she came back to the show on a recurring basis in Season 9, Fox opted to remain a special guest star. But no more! When Season 12 premieres in Sept. 21, Fox will be a full-time cast member once again. (Now, if only Grissom would come back, too.)
 
 It's just the latest in a series of big changes for CSI. Earlier this year, Laurence Fishburne revealed he would be leaving the show, and last week, CBS announced that Ted Danson had been cast as CSI's new shift supervisor.
-

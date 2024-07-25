@@ -14,12 +14,13 @@ newsurl: http://www.calendarlive.com/
 
 ---
 
-## This &#8216;CSI' snoop knows how to locate L.A.'s vegetarian options
+## This 'CSI' snoop knows how to locate L.A.'s vegetarian options
+
 YOU know the face. Jorja Fox has had major roles in three of TV's biggest hits -- "ER" (as Dr. Maggie Doyle), "The West Wing" (as Agent Gina Toscano) and for the last seven seasons as Investigator Sara Sidle on CBS' "CSI." Keep your eye out tonight for this single-but-involved, very vegetarian L.A. resident. She's featured in a "CSI" episode called "Empty Eyes."
 
 A microbrew and a song
 
-One of my favorite restaurants is within walking distance from my house, **Blair's** in Silver Lake. It's got a very bistro vibe, American contemporary cuisine and a fantastic wine list. The place is mostly candle-lit, and they play cool ambient jazz. The menu is seasonal and pulls a lot of stuff from the Pacific Northwest, so you'll find huckleberries, linden berries, freshwater fish. They do unbelievable things with side dishes; I love the cauliflower and braised Brussels sprouts, and the truffled mac &#8216;n' cheese.
+One of my favorite restaurants is within walking distance from my house, **Blair's** in Silver Lake. It's got a very bistro vibe, American contemporary cuisine and a fantastic wine list. The place is mostly candle-lit, and they play cool ambient jazz. The menu is seasonal and pulls a lot of stuff from the Pacific Northwest, so you'll find huckleberries, linden berries, freshwater fish. They do unbelievable things with side dishes; I love the cauliflower and braised Brussels sprouts, and the truffled mac 'n' cheese.
 
 If I was in the mood for a nightcap, there's a bar across the street called the **Edendale Grill**, which is a converted firehouse. They have a cool 40-foot-long bar, microbrews on tap and a lot of great martini drinks. There's usually a good crowd there long after the dinner hour; they attract a vibrant, late-night cocktail fan.
 

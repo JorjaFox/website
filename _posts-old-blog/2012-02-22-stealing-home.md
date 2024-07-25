@@ -30,4 +30,4 @@ http://www.youtube.com/watch?v=7KiXd7Ae4-c
 
 http://www.youtube.com/watch?v=NopDjHtHbek
 
-<em>Recap and screencaps will be up Thursday morning. This is going to be the new standard, since I simply cannot stay up till 1am anymore. If anyone else wants to help do screencaps, drop me a line at webmaster[at]jorjafox.net </em>
+_Recap and screencaps will be up Thursday morning. This is going to be the new standard, since I simply cannot stay up till 1am anymore. If anyone else wants to help do screencaps, drop me a line at webmaster[at]jorjafox.net _

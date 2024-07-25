@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "&#8216;BYE GEORGE & JORJA"
+newstitle: "'BYE GEORGE & JORJA"
 newsauthor: Staff
 newssource: New York Post
 newsurl: http://www.nypost.com/
@@ -32,4 +32,3 @@ In the last few years a slew of familiar faces from prime time have famously dug
 James Gandolfini reportedly came close to shutting down "The Sopranos" for good in 2003 when he renegotiated his big-bucks deal with the show, and the cast of "West Wing" has been embroiled in several high-profile salary negotiations over the years.
 
 Other high profile hold-outs included "Everybody Loves Raymond" star Brad Garrett, who plays sad-sack older brother Robert Barone. The move was said to have infuriated CBS execs, who eventually were able to settle the dispute with more money.
-

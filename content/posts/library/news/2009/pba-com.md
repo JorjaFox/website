@@ -21,4 +21,3 @@ This Thursday night (November 19) on CBS at 9pm, one of the most-watched shows o
 As I made my way through the various set-pieces, word of my arrival must have somehow percolated through the building, as everywhere I went I overheard various actors and crew members giddily discussing bowling. In one instance, the gorgeous (and surprisingly tall) Jorja Fox, who plays workaholic Sara Sidle on the show, mentioned how she "hates" bowling because she "sucks at it." I pretty much feel the same way about acting (and those of you who've seen my show "Let's Go Bowling" would probably agree with me-that I suck at acting, that is), so Jorja, at least we have that in common.
 
 [...]
-

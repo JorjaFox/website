@@ -28,7 +28,7 @@ tags:
 
 From TV Insider we have a new (short) article about that TV Guide Magazine cover, and asks some details about Sara, Grissom, and what their relationship will be like:
 
-<blockquote class="wp-block-quote">The new series brings the scientific technology crime-solving back to our TVs for the first time since mothership series <em>CSI</em> signed off in 2015. The action begins when a threat comes upon the <em>CSI</em> lab in Las Vegas, which brings Sara, then Grissom, back to help. But given time has passed since we last saw the married couple, will they have changed much?<cite>Source: <a href="https://jorjafox.net/library/news/2021/tvinsider-20210831/">TV Insider </a>(local copy)</cite></blockquote>
+<blockquote class="wp-block-quote">The new series brings the scientific technology crime-solving back to our TVs for the first time since mothership series _CSI_ signed off in 2015. The action begins when a threat comes upon the _CSI_ lab in Las Vegas, which brings Sara, then Grissom, back to help. But given time has passed since we last saw the married couple, will they have changed much?<cite>Source: <a href="https://jorjafox.net/library/news/2021/tvinsider-20210831/">TV Insider </a>(local copy)</cite></blockquote>
 
 The accompanying video goes into more detail:
 

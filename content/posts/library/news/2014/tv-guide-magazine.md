@@ -15,7 +15,7 @@ newsurl: http://tvguidemagazine.com
 
 **RETURNS Sunday, Sept 28, 10/9c, CBS**
 
-**I**s the wrong man on death row thanks to D.B. Russell? Season 15 has the CSI night-shift chief, played by Ted Danson, dealing with a crisis of conscience, and a threat to his career, when Las Vegas is rattled by a series of murders strikingly similar to those committed by the Gig Harbor Killer &#8212; aka Jared Briscoe (Mark-Paul Gossalaar) &#8212; a sicko Russell put behind bars years ago.
+**I**s the wrong man on death row thanks to D.B. Russell? Season 15 has the CSI night-shift chief, played by Ted Danson, dealing with a crisis of conscience, and a threat to his career, when Las Vegas is rattled by a series of murders strikingly similar to those committed by the Gig Harbor Killer - aka Jared Briscoe (Mark-Paul Gossalaar) - a sicko Russell put behind bars years ago.
 
 The season-long story arc will also "threaten the reputation of the entire crime lab," says executive producer Don McGill, who will add to Russell's troubles by bringing in an old foe from the Seattle PD, Daniel Shaw (Mark Valley). A rule-bending, authority-flaunting crime solver, Shaw comes to Vegas in search of his former partner, who went missing while working on a case there. "Russell has great reason to distrust him," hints McGill.
 

@@ -18,11 +18,11 @@ tags:
 
 It's July 7th, my friends, and that means it's Jorja's birthday.
 
-Life's been a series of ups and downs, and we're all bummed that <em>Chiefs</em> didn't get picked up, but let's hang on to the good news.
+Life's been a series of ups and downs, and we're all bummed that _Chiefs_ didn't get picked up, but let's hang on to the good news.
 
 Jorja's been spending time at the beach, and frankly it peaked at nearly 120 where I live yesterday - so that sounds awesome. For her birthday, let's all enjoy the day as much as we can. Here are some of the best news Jorja's shared with the world recently, and other good vibes for the day:
 <ul>
- 	<li><a href="https://www.weforum.org/agenda/2018/07/belizes-barrier-reef-is-off-endangered-list-after-banning-oil-activity">Belize's Barrier Reef is <em>off</em> the endangered list</a></li>
+ 	<li><a href="https://www.weforum.org/agenda/2018/07/belizes-barrier-reef-is-off-endangered-list-after-banning-oil-activity">Belize's Barrier Reef is _off_ the endangered list</a></li>
  	<li><a href="https://www.facebook.com/TheOceanCleanup/?hc_ref=ARTXFdieAYSh3FekL729CmlQF1s_5OTdqVROXkAQKR4HJIH-zkq9Wirp5nQ_EiLiHDI&amp;fref=nf">The Ocean Project's cleanup trials are going well</a></li>
  	<li><a href="https://www.eea.europa.eu/highlights/european-waters-getting-cleaner-but">Waters in Europe are getting cleaner (but we still have work to do)</a></li>
  	<li><a href="https://www.npr.org/sections/thetwo-way/2018/05/02/607765760/hawaii-approves-bill-banning-sunscreen-believed-to-kill-coral-reefs">Hawaii bans sunscreens with components believed to harm coral reefs</a></li>

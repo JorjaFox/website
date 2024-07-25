@@ -17,7 +17,7 @@ tags:
     - spoilers
 ---
 
-So Elisabeth Shue was in "Back to the Future" with Lea Thompson, and while they only had one scene together, it counts, right? Right. Lea's in <em>CSI</em> investigating Greg for miscondunct (dun dun dun), and while talking about it, Shue mentioned episode ten:
+So Elisabeth Shue was in "Back to the Future" with Lea Thompson, and while they only had one scene together, it counts, right? Right. Lea's in _CSI_ investigating Greg for miscondunct (dun dun dun), and while talking about it, Shue mentioned episode ten:
 
 <blockquote>In the season's 10th episode, Shue's Finlay will be at the center of another wild adventure when she, Sara (Jorja Fox) and Morgan (Elisabeth Harnois) head out for what executive producer Carol Mendelsohn calls "a fun spa weekend that turns tense, scary and violent." Says Shue, "It's our Girls Gone Wild-Hangover-Road Trip episode. And I heard we'll be singing karaoke."</blockquote>
 

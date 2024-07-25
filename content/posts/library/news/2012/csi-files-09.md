@@ -21,4 +21,3 @@ Sources close to the show tell CSI Files exclusively that Sara Sidle (**Jorja Fo
 [...]
 
 To fill the rest of the season out: an episode that has some Latin music flavor, an odd forensics murder mystery at an all-female poker tournament that has a unique murder weapon, and maybe another visit or two from some of *CSI*"s iconic characters from the past. 'There"s a possibility of a Lady Heather [**Melinda Clarke**] and Sofia Curtis [**Louise Lombard**], but the writers have stories they"re working on and it all depends on a case and story basis.'
-

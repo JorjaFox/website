@@ -3,7 +3,7 @@ id: 2711
 title: 'Help Put Dusty Springfield on Broadway'
 date: '2010-11-20T20:02:48-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Kirsten Holly Smith needs <em>our</em> help to put "Forever Dusty" on Off-Broadway! But you only have until December 1st to chip in!'
+excerpt: 'Kirsten Holly Smith needs _our_ help to put "Forever Dusty" on Off-Broadway! But you only have until December 1st to chip in!'
 layout: post
 guid: 'https://jorjafox.net/?p=2711'
 permalink: /2010/help-put-dusty-springfield-on-broadway/

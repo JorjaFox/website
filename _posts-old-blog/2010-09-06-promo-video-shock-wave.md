@@ -1,6 +1,6 @@
 ---
 id: 2589
-title: 'Promo Video &#8212; CSI 11&#215;01: Shock Waves'
+title: 'Promo Video - CSI 11&#215;01: Shock Waves'
 date: '2010-09-06T18:17:36-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'It''s a bit of CSI and the Mentalist, but it''s got Jorja, so it''s a win!'

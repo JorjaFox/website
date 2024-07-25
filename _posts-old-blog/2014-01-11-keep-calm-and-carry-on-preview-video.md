@@ -22,4 +22,4 @@ How about a Saturday AM present? Hosted for International users to view.
 
 https://vimeo.com/83924109
 
-Jaleel White <em>and</em> Joel Grey? It's my childhood. Did I do that?
+Jaleel White _and_ Joel Grey? It's my childhood. Did I do that?

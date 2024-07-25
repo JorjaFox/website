@@ -26,8 +26,8 @@ tags:
 
 <a href="https://jorjafox.net/gallery/tv/csi/season12/stealinghome">Screencaps</a>
 
-I enjoyed the episode. It was funny, it was entertaining, and Sara was both smart <em>and </em>the voice of reason. Her and Finn at the end was great.
+I enjoyed the episode. It was funny, it was entertaining, and Sara was both smart _and _the voice of reason. Her and Finn at the end was great.
 
-That said. What the <em>hell </em>happened to Sara's brother? You all remember <a href="https://jorjafox.net/wiki/One-hit_Wonder">One-hit Wonder</a> (season three):
+That said. What the _hell _happened to Sara's brother? You all remember <a href="https://jorjafox.net/wiki/One-hit_Wonder">One-hit Wonder</a> (season three):
 <blockquote>When I was a kid I was playing hide-and-seek one day and I found this plastic bag under my big brother's bed. I thought it was a bag of dirt so I took it to my mom. Turned out it was his bag of weed. He was grounded for a year.</blockquote>
-Now this is the only time the brother is mentioned as a brother, however later on in Season five, it's implied she has <em>a </em>sibling. I'm sure you're not shocked to know I have a wiki page for "<a href="https://jorjafox.net/wiki/Sara_Sidle%27s_Older_Brother">Sara Sidle's Older Brother</a>."
+Now this is the only time the brother is mentioned as a brother, however later on in Season five, it's implied she has _a _sibling. I'm sure you're not shocked to know I have a wiki page for "<a href="https://jorjafox.net/wiki/Sara_Sidle%27s_Older_Brother">Sara Sidle's Older Brother</a>."

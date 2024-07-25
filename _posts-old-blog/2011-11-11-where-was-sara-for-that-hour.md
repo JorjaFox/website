@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-<img class="alignleft size-thumbnail wp-image-4011" title="One Missing Hour" src="//static.jorjafox.net/wordpress/2011/11/one-hour1-210x140.png" alt="One Missing Hour" width="100" height="75" />So in the last episode of <em>CSI</em> (<a href="https://jorjafox.net/2011/csi-12x07-brain-doe-recap-and-screencaps/">Brain Doe</a>), Hodges told Sara he was trying to reach her for an hour.  This begs the question ... what exactly was Sara doing for an hour in the middle of the work day?  Does it have anything to do with<a href="https://jorjafox.net/2011/if-jorja-wrote-csi/"> Jorja being hugely pro GSR</a>?
+<img class="alignleft size-thumbnail wp-image-4011" title="One Missing Hour" src="//static.jorjafox.net/wordpress/2011/11/one-hour1-210x140.png" alt="One Missing Hour" width="100" height="75" />So in the last episode of _CSI_ (<a href="https://jorjafox.net/2011/csi-12x07-brain-doe-recap-and-screencaps/">Brain Doe</a>), Hodges told Sara he was trying to reach her for an hour.  This begs the question ... what exactly was Sara doing for an hour in the middle of the work day?  Does it have anything to do with<a href="https://jorjafox.net/2011/if-jorja-wrote-csi/"> Jorja being hugely pro GSR</a>?
 
 Let your speculation run rampant!
 

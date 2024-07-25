@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "&#8216;CSI' outshines stars"
+newstitle: "'CSI' outshines stars"
 newsauthor: Doug Elfman
 newssource: Chicago Sun-Times
 newsurl: http://www.suntimes.com
@@ -20,7 +20,7 @@ Jorja Fox fans surely will be bummed when "CSI" returns with a new episode tonig
 
 [...]
 
-And Fox &#8212; who was named the 80th sexiest woman in the world by Stuff magazine in 2003 &#8212; was great in her best moments. But she too was just a cog in the wheel of an ensemble show that (like "Law & Order") barely notices its detectives have personal lives, including Sara's long affair with Grissom.
+And Fox - who was named the 80th sexiest woman in the world by Stuff magazine in 2003 - was great in her best moments. But she too was just a cog in the wheel of an ensemble show that (like "Law & Order") barely notices its detectives have personal lives, including Sara's long affair with Grissom.
 
 [...]
 
@@ -35,4 +35,3 @@ Where "CSI" goes dumb is in the easy confessions cops get out of criminals. And 
 That said, Sara's departure brought about a sweet scene where Fox portrayed quiet despair. When she finally split the Las Vegas cop shop, Fox commanded long and lovely little scenes for Sara to just be, to just sit, to deteriorate on camera.
 
 [...]
-

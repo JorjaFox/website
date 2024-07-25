@@ -18,4 +18,3 @@ Boots are a fashion must-have this fall and Earth has styles to accompany the bi
 Celebrities such as Diane Lane, Salma Hayek, Marcia Cross, Amber Tamblyn, Jorja Fox and Tyra Banks have all put in their orders for the sought-after Earth boots this fall. [...]
 
 [...]
-

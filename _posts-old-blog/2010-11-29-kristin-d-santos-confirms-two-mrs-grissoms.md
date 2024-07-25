@@ -24,7 +24,7 @@ tags:
     - tv
 ---
 
-<blockquote>**Ainav in Israel: I found a piece of information on the web that episode 11.13 of <em>CSI</em> is called "The Two Mrs. Grissoms"! Now I don't really care much for <em>CSI</em> anymore, but if that's true then I care a whole lot!**
+<blockquote>**Ainav in Israel: I found a piece of information on the web that episode 11.13 of _CSI_ is called "The Two Mrs. Grissoms"! Now I don't really care much for _CSI_ anymore, but if that's true then I care a whole lot!**
 
 It's true! The Mrs. Grissoms in question are Sarah Sidle (the current Mrs. Grissom)...and Grissom's mom! Producers are casting now for the older Mrs. Grissom, who is described as a "strong, confident, intelligent and influential woman has never allowed her lack of hearing to keep her from doing anything she wanted, and has no trouble making her feelings known to one and all." She's a former librarian, who, while being deaf, is fluent in American Sign Language as well as being a capable English speaker. Any ideas for casting other than maybe **Marlee Matlin** in old-lady makeup?
 

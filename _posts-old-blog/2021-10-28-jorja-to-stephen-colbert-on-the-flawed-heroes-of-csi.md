@@ -52,7 +52,7 @@ tags:
     - video
 ---
 
-Wednesday night Jorja was on the Colbert show, and talked to him about <em>CSI: Vegas</em>
+Wednesday night Jorja was on the Colbert show, and talked to him about _CSI: Vegas_
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=V7_T2xNc_4s

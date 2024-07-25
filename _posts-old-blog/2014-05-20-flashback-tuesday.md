@@ -22,4 +22,4 @@ https://twitter.com/waldeckvision/status/468838038840176640
 
 That one is from the CSI 300th episode celebration.
 
-You have no idea how hard it has been not to make "This. Is. <em>CSI!</em>" jokes all this time.
+You have no idea how hard it has been not to make "This. Is. _CSI!_" jokes all this time.

@@ -24,4 +24,3 @@ As a result, the opportunity to star in a TV show came soon after. Although [Emi
 "It is different. It is a very unusual style of acting which is specific only to it. And far more challenging than it looks to come up with various ways to look across from a person and tell them exactly what you both know."
 
 [...]
-

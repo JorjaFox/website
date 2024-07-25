@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-You're not alone! but ... Bitching to me or @csi_cbs or even the lovely @csiwritersroom won't help. What <em>will</em> help is a focused barrage of complaints.
+You're not alone! but ... Bitching to me or @csi_cbs or even the lovely @csiwritersroom won't help. What _will_ help is a focused barrage of complaints.
 
 https://twitter.com/csiwritersroom/status/529370475470659584
 

@@ -20,7 +20,7 @@ tags:
 
 If you're looking at the schedule, you'll notice there's no new CSI tonight.
 
-If you're looking <em>here</em> you may have noticed a new theme with a notice at the top telling you there are two new episodes next week.
+If you're looking _here_ you may have noticed a new theme with a notice at the top telling you there are two new episodes next week.
 
 <img src="//jfo-static.net/wordpress/2015/01/new-header.png" alt="What thew new header looks like" width="1030" height="288" class="aligncenter size-full wp-image-11928" />
 

@@ -20,7 +20,7 @@ tags:
     - politics
 ---
 
-<a href="//static.jorjafox.net/wordpress/2011/10/capitol.jpg"><img class="alignleft size-thumbnail wp-image-3953" title="Capitol Hill" src="//static.jorjafox.net/wordpress/2011/10/capitol-210x140.jpg" alt="Capitol Hill" width="100" height="75" /></a>This is not an episode of <em>The West Wing.</em>
+<a href="//static.jorjafox.net/wordpress/2011/10/capitol.jpg"><img class="alignleft size-thumbnail wp-image-3953" title="Capitol Hill" src="//static.jorjafox.net/wordpress/2011/10/capitol-210x140.jpg" alt="Capitol Hill" width="100" height="75" /></a>This is not an episode of _The West Wing._
 
 Congress is back in session, and Jorja's headed to the Hill on November 2nd to take on animal cruelty!
 <blockquote>CSI's Jorja Fox and The Price is Right's Bob Barker hold a press conference to discuss legislation to improve animal treatment in entertainment. It begins at 10:30 a.m. in B-308 Rayburn.</blockquote>

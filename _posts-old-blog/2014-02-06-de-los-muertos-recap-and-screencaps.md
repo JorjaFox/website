@@ -26,4 +26,4 @@ I missed the live tweets being out at the hockey game (and then stayed up late t
  	<li><a href="https://jorjafox.net/wiki/De_Los_Muertos">Recap</a> (3 of 5 stars)</li>
  	<li><a href="https://jorjafox.net/gallery/tv/csi/season14/14-dlm/">Screencaps</a> (<del>100 photos - low quality</del> 136 photos)</li>
 </ul>
-No new CSI next week, but the week after is "Love for Sale" which Jorja is <em>not</em> in. Sorry.
+No new CSI next week, but the week after is "Love for Sale" which Jorja is _not_ in. Sorry.

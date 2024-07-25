@@ -40,7 +40,7 @@ By uncanny coincidence, the three lead actresses and old friends - Fox, Mara and
 
 Though the thought of simply working together would be enough for the actresses - who saw more of each other at casting calls than movie sets - playing good friends and acting out scenes that reflected their own lives were a doubly rewarding experience. Such a scene had Hortense, who diets profusely to please her boyfriend, confess that she wished to be beautiful and thin like Missy, played by Katherine Kendall.
 
-"Katherine and I met when we were 17, and we lived together on East 16th Street in New York. I've always hated her and was jealous of her for being so thin," Mara said. "When we had to do the scene, I said to Gregory, &#8216;Let's not even rehearse, let's just do it,' and it came off perfectly on the first take."
+"Katherine and I met when we were 17, and we lived together on East 16th Street in New York. I've always hated her and was jealous of her for being so thin," Mara said. "When we had to do the scene, I said to Gregory, 'Let's not even rehearse, let's just do it,' and it came off perfectly on the first take."
 
 That may partially explain how natural and low-key this film feels when done by three friends who used to act in plays together, moved to Hollywood from the East Coast together and founded their own Los Angeles theater company, Honeypot Productions.
 

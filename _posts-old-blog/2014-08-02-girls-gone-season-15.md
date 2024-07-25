@@ -21,6 +21,6 @@ tags:
 
 https://twitter.com/waldeckvision/status/495624663553155072
 
-Girls Gone <em>Wilder</em>?
+Girls Gone _Wilder_?
 
 This could be interesting!

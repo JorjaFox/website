@@ -3,7 +3,7 @@ id: 1920
 title: 'Drop Dead Diva Promo Pictures'
 date: '2009-07-23T17:41:20-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'HQ promo shots for <em>Drop Dead Diva</em> for your enjoyment.'
+excerpt: 'HQ promo shots for _Drop Dead Diva_ for your enjoyment.'
 layout: post
 guid: 'https://jorjafox.net/?p=1920'
 permalink: /2009/drop-dead-diva-promo-pictures/
@@ -45,7 +45,7 @@ tags:
     - tv
 ---
 
-I was going to save these for a little closer to <em>Drop Dead Diva</em>'s airdate, assuming that news would be slow. But with Jorja coming back to <em>CSI</em>, I figured I should work on keeping your summer bright.
+I was going to save these for a little closer to _Drop Dead Diva_'s airdate, assuming that news would be slow. But with Jorja coming back to _CSI_, I figured I should work on keeping your summer bright.
 
 <a href="https://jorjafox.net/gallery/tv/guest/drop-dead-diva/promo/dropdeaddiva_01.jpg"><img class="ZenphotoPress_thumb " alt="" src="https://jorjafox.net/gallery/cache/tv/guest/drop-dead-diva/promo/dropdeaddiva_01_200_cw200_ch200_thumb.jpg" /></a> <a href="https://jorjafox.net/gallery/tv/guest/drop-dead-diva/promo/dropdeaddiva_02.jpg"><img class="ZenphotoPress_thumb " alt="" src="https://jorjafox.net/gallery/cache/tv/guest/drop-dead-diva/promo/dropdeaddiva_02_200_cw200_ch200_thumb.jpg" /></a>
 

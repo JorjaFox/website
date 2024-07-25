@@ -3,7 +3,7 @@ id: 2516
 title: 'The Twitchhiker (Almost) Met Jorja'
 date: '2010-07-16T10:08:49-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Paul Smith decided to travel the world, using only Twitter for help, and in doing so, <em>almost</em> met Jorja Fox.  Almost?  Read on!'
+excerpt: 'Paul Smith decided to travel the world, using only Twitter for help, and in doing so, _almost_ met Jorja Fox.  Almost?  Read on!'
 layout: post
 guid: 'https://jorjafox.net/?p=2516'
 permalink: /2010/twitchhiker-almost-met-jorja/
@@ -20,9 +20,9 @@ tags:
 
 I don't know how to explain this, except Paul Smith managed to use Twitter to travel the globe.  Along the way he met many celebs. Including Jorja Fox.  Well... Sort of.
 
-<blockquote>At another Hollywood party, I recognised Jorja Fox, who plays Sara Sidle in CSI. Buoyed by my earlier success with Liv Tyler, and fortified by several beers, I loitered with intent, waiting for the right time to introduce myself. 
+<blockquote>At another Hollywood party, I recognised Jorja Fox, who plays Sara Sidle in CSI. Buoyed by my earlier success with Liv Tyler, and fortified by several beers, I loitered with intent, waiting for the right time to introduce myself.
 
-It is possible that I appeared to be a wild-eyed, leering madman. Apparently sensing that I was standing a little too close to be innocently passing by, Jorja stood up and, well . . . ran away from me. 
+It is possible that I appeared to be a wild-eyed, leering madman. Apparently sensing that I was standing a little too close to be innocently passing by, Jorja stood up and, well . . . ran away from me.
 
 The only positive thing to come out of this encounter is that the police were never called.</blockquote>
 

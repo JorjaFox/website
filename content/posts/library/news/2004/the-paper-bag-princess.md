@@ -16,4 +16,3 @@ newsurl: http://www.thepaperbagprincess.com
 **September 19, 2004 (Los Angeles)** In support of her Emmy-nominated series CSI: Crime Scene Investigation, this raven-haired beauty will hit the red carpet at tomorrow night's Emmys ceremony in a glamorous pale pink vintage Christian Dior slip gown with ivory lace insets from The Paper Bag Princess. Jorja will accessorize her gorgeous gown with a vintage ivory floral beaded pouch bag with gold edge and handle, also from The Paper Bag Princess.
 
 [...]
-

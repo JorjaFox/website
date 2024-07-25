@@ -33,4 +33,3 @@ Jan Creamer, ADI USA President said, "We are heartened that the people of Austin
 Some of the worst abuse revealed featured a trainer from Cut and Shoot north of Houston who was allegedly filmed by ADI viciously beating an elephant and even dragging the animal to its knees and kicking it in the face.
 
 "We believe Texans will be horrified that such cruelty could be taking place on their doorstep," Creamer said in closing.
-

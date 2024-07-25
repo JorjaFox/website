@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "CBS sacks 2 stars in &#8216;CSI' salary flap"
+newstitle: "CBS sacks 2 stars in 'CSI' salary flap"
 newsauthor: Staff
 newssource: USA Today
 newsurl: http://www.usatoday.com
@@ -22,4 +22,3 @@ George Eads, who plays Nick Stokes, and Jorja Fox, who plays Sara Sidle, were di
 The network, which refused to comment, is said to already have begun casting replacement actors for similar roles. CBS chief Leslie Moonves appears to be setting a hard-line example by refusing to negotiate with actors still under contract, particularly those in supporting roles. Co-star Marg Helgenberger also is angling for more money, and although she called in sick Thursday, she is expected to return. The other actors, including William Petersen, were not affected.
 
 *CSI* is TV's top drama, averaging nearly 27 million viewers. It is a critical asset to the network, which is preparing to launch a second spinoff, *CSI: NY*, this fall.
-

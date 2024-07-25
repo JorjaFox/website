@@ -19,7 +19,7 @@ tags:
 
 Alas, I think this is US only.
 
-<em>Video removed by CBS for reasons unknown</em>
+_Video removed by CBS for reasons unknown_
 
 Blink and you'll miss Sara (again), but she's there working.
 

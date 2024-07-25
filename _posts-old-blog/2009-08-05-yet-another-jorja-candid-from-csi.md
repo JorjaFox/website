@@ -3,7 +3,7 @@ id: 1943
 title: 'Yet another Jorja Candid from CSI (UPDATED!)'
 date: '2009-08-05T13:26:14-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Props to Dustin Lee Abraham for sharing yet another picture of Jorja on the set of <em>CSI</em>. (Updated at 9pm Central with a second photo!)'
+excerpt: 'Props to Dustin Lee Abraham for sharing yet another picture of Jorja on the set of _CSI_. (Updated at 9pm Central with a second photo!)'
 layout: post
 guid: 'https://jorjafox.net/?p=1943'
 permalink: /2009/yet-another-jorja-candid-from-csi/
@@ -43,14 +43,14 @@ tags:
     - tv
 ---
 
-Known as <a href="http://twitter.com/vegasoul">vegasoul</a> on Twitter, Dustin Lee Abraham has been happily snapping away from the set of <em>CSI</em>. He's promises ... well, I'll let him say it.
+Known as <a href="http://twitter.com/vegasoul">vegasoul</a> on Twitter, Dustin Lee Abraham has been happily snapping away from the set of _CSI_. He's promises ... well, I'll let him say it.
 
 <!-- QuoteURL styled embed start -->
 <blockquote class="quoteurl-block" style="margin:0;padding:0;">
 <ol class="quoteurl-quote" style="background-color:#fff;color:#000;padding:.4em;border:1px solid #888;-moz-border-radius: .5em;border-radius: .5em;width:90%;max-width:700px;margin:auto;">
 	<li class="hentry status u-jorjafoxonline" style="clear:both;list-style:none;padding-top:.7em;padding-bottom:.7em;border-top:1px dashed #ccc;position:relative;background-color:#fff;">
 	<div class="status-body" style="margin-right:30px;padding-right:1em;">
-		<a class="author" style="font-weight:bold;" title="Jorja Fox: Online" href="http://twitter.com/vegasoul">vegasoul</a> <span class="entry-content" style="font-style:normal">Come on CSI fans, get me to 1,000 followers at least... N the pics will continue to flow...</span> <span class="meta entry-meta" style="color:#888;font-family:georgia;font-size:0.8em;font-style:italic;">  <span title="2009-08-04 21:55:28" class="published">04 Aug 2009</span>  <span>from <a href="http://twitter.com">web</a></span> </span> </div> <div class="actions" style="position:relative;clear:both;"></div> </li> 
+		<a class="author" style="font-weight:bold;" title="Jorja Fox: Online" href="http://twitter.com/vegasoul">vegasoul</a> <span class="entry-content" style="font-style:normal">Come on CSI fans, get me to 1,000 followers at least... N the pics will continue to flow...</span> <span class="meta entry-meta" style="color:#888;font-family:georgia;font-size:0.8em;font-style:italic;">  <span title="2009-08-04 21:55:28" class="published">04 Aug 2009</span>  <span>from <a href="http://twitter.com">web</a></span> </span> </div> <div class="actions" style="position:relative;clear:both;"></div> </li>
 </ol> </blockquote>
 <!-- QuoteURL embed end -->
 

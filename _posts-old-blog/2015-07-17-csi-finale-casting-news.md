@@ -27,7 +27,7 @@ Catherine, Brass, SuperDave, Henry, Greg, DB, Morgan, Hodges, Doc Robins, and La
 
 Wait... Go back one.
 
-<em>Lady Heather</em>!?
+_Lady Heather_!?
 
 There's a shocker!
 

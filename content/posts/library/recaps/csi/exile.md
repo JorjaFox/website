@@ -39,4 +39,3 @@ Sara works the case and is in somewhat of a hostile mood towards the club owner,
 - - -
 
 **Sara:** I don't wanna go to that CIA place but ... I'm kinda going to that CIA place.
-

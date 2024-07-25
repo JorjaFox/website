@@ -21,11 +21,11 @@ tags:
 
 So we have Sara (his wife), Julia (his ex), Betty (mom), Lady Heather (ex...something) and now?  Sofia's back!  All we need now is Teri Miller and Dr. Gilbert.
 
-<blockquote>The return of serial killer Nate Haskell isn’t <em>all</em> bad for the Vegas crimefighters of <em>CSI</em>. Rather, his latest reign of terror will actually set the stage for the return of former series regular Louise Lombard!
+<blockquote>The return of serial killer Nate Haskell isn’t _all_ bad for the Vegas crimefighters of _CSI_. Rather, his latest reign of terror will actually set the stage for the return of former series regular Louise Lombard!
 
-TVLine has learned exclusively that the <em>CSI</em> alumna will reprise her role as the well-liked Sofia Curtis during May sweeps — and one major thing has changed since we last saw her back in Season 8.
+TVLine has learned exclusively that the _CSI_ alumna will reprise her role as the well-liked Sofia Curtis during May sweeps — and one major thing has changed since we last saw her back in Season 8.
 
 “Sofia’s a deputy chief now,” executive producer Carol Mendelsohn reveals. “She’s gotten her shield and she has a real ‘take no prisoners’ attitude.”
 As such, when Sofia gets introduced to Langston (Laurence Fishburne), things do not go smoothly.</blockquote>
 
-Credit: <a href="http://www.tvline.com/2011/03/csi-louise-lombard-returns-may-sweeps/">TVLine - <em>CSI</em> Exclusive: Lombard Is Back With a Bang!</a>
+Credit: <a href="http://www.tvline.com/2011/03/csi-louise-lombard-returns-may-sweeps/">TVLine - _CSI_ Exclusive: Lombard Is Back With a Bang!</a>

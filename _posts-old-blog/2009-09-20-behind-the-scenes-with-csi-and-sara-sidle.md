@@ -3,7 +3,7 @@ id: 2023
 title: 'Behind the Scenes with CSI (and Sara Sidle!)'
 date: '2009-09-20T20:07:43-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Behind the scenes with Marg and Jorja, and a sneak peek of Sara''s return to <em>CSI</em>.  But I''ll let the video talk for itself.'
+excerpt: 'Behind the scenes with Marg and Jorja, and a sneak peek of Sara''s return to _CSI_.  But I''ll let the video talk for itself.'
 layout: post
 guid: 'https://jorjafox.net/?p=2023'
 permalink: /2009/behind-the-scenes-with-csi-and-sara-sidle/

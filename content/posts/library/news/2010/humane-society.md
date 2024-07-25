@@ -27,4 +27,3 @@ We asked some favorite celebrities to share their resolutions for animals in 201
 *Jorja Fox, star of the hit TV series CSI, has been a long-time supporter of The HSUS and our End Dogfighting campaign.*
 
 [...]
-

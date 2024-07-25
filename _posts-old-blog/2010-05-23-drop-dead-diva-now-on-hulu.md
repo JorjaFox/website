@@ -24,6 +24,6 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2009/07/dropdeaddiva.jpg"><img src="//static.jorjafox.net/wordpress/2009/07/dropdeaddiva-100x100.jpg" alt="" title="dropdeaddiva" width="100" height="100" class="alignleft size-thumbnail wp-image-1921" /></a> So you live in the US, don't get Lifetime and are broke?
 
-Hulu has <em>Drop Dead Diva</em> for free (with commercials).
+Hulu has _Drop Dead Diva_ for free (with commercials).
 
 Yeah.  It's a good weekend!

@@ -34,4 +34,4 @@ http://www.youtube.com/watch?v=RaLNeEun2y0
 
 http://www.youtube.com/watch?v=xfCbjY9gNDs
 
-<em>Recap and screencaps will be up Wednesday night or Thursday morning.</em>
+_Recap and screencaps will be up Wednesday night or Thursday morning._

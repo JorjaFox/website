@@ -20,7 +20,7 @@ tags:
     - tv
 ---
 
-<img class="alignleft size-thumbnail wp-image-4111" title="Joe Pokaski" src="//static.jorjafox.net/wordpress/2011/12/joe_p-210x140.jpg" alt="Joe Pokaski" width="100" height="75" />Wonder Boy Shane interviewed Joe Pokaski about Marg's final days on <em>CSI</em>.
+<img class="alignleft size-thumbnail wp-image-4111" title="Joe Pokaski" src="//static.jorjafox.net/wordpress/2011/12/joe_p-210x140.jpg" alt="Joe Pokaski" width="100" height="75" />Wonder Boy Shane interviewed Joe Pokaski about Marg's final days on _CSI_.
 
 Joe who?  Why he's the new supervising producer!  Don't worry, though, he's the guy who did "Tell-Tale Hearts" so we know he knows how to handle our girl Sara!  Here are a couple tidbits:
 <blockquote>**CSI Files**: When you guys ‘broke’ this season, how did the writers decide what kind of note Catherine would go out on? Was that part of the dinner conversation?

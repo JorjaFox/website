@@ -3,7 +3,7 @@ id: 2013
 title: 'CSI News Roundup'
 date: '2009-09-10T13:52:22-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'A small collection of <em>CSI</em> news about both Jorja and just general information that might interest you.'
+excerpt: 'A small collection of _CSI_ news about both Jorja and just general information that might interest you.'
 layout: post
 guid: 'https://jorjafox.net/?p=2013'
 permalink: /2009/csi-news-roundup/
@@ -42,8 +42,8 @@ tags:
 
 <blockquote>**Who's back -- and who's not** Riley Adams (Lauren Lee Smith) has left the building, making way for Sara Sidle (Jorja Fox) to return for five episodes and help out the under-staffed lab.  "You definitely get some clues as to how things have been going in Grissom and Sara Land.  I mean, last time we saw them, they were kissing in the jungle," says [Naren] Shankar. Does that mean it's over?  Laughs Shankar, "It's not like she's got his shrunked head in her kit."</blockquote>
 
-**Margamania** has some stills from <em>CSI</em>'s second episode of season 10, "Ghost Town" up. None are of Jorja, but Marg makes some great faces.
+**Margamania** has some stills from _CSI_'s second episode of season 10, "Ghost Town" up. None are of Jorja, but Marg makes some great faces.
 
 **CBS** has caught on to this whole viral social thing on the internet, and there is now an <a href="http://twitter.com/CSI_CBS">Official CSI Twitter Account</a> (aka <a href="http://twitter.com/CSI_CBS">@CSI_CBS</a>), and they have a CSI Channel on YouTube (which is US only, sorry).
 
-And a bonus from <a href="http://ausiellofiles.ew.com/2009/09/09/ask-ausiello-spoilers-on-gossip-girl-office-house-and-more/">Ask Ausiello</a>, the rumors about Louise Lombard (Sophia) returning to <em>CSI</em>? False.  There will be no return for her.
+And a bonus from <a href="http://ausiellofiles.ew.com/2009/09/09/ask-ausiello-spoilers-on-gossip-girl-office-house-and-more/">Ask Ausiello</a>, the rumors about Louise Lombard (Sophia) returning to _CSI_? False.  There will be no return for her.

@@ -20,4 +20,3 @@ Which Celebrity's Closet Would You Love To Raid?
 Jorja Fox (CSI): Prince's. All the sequins and the velvet? That would be fabulous.
 
 [...]
-

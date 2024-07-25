@@ -16,7 +16,7 @@ tags:
     - 'site notice'
 ---
 
-The Guest Author was <em>not</em> an April Fools joke, nor was it a sign of the apocalypse.
+The Guest Author was _not_ an April Fools joke, nor was it a sign of the apocalypse.
 
 So I was gone Monday and Tuesday, and I knew that there was CSI news coming. I lamented to a friend, who said they were willing to step in and post 'like [I] do' on JFO for a couple days. The line was drawn at figuring out screenshots, which was okay by me. Posting youtube videos and articles and making sure there was an image was all I really wanted. We decided on 'Guest Author' since what if someone else fills in later.
 
@@ -36,7 +36,7 @@ Q: Were you telling Guest Author what to post?
 A: Yes and no. I did say "If there's news about Jorja, post it. If you don't feel okay posting, leave it as a draft and I'll get to it Tuesday night."
 
 Q: Why did Guest call Jorja 'Fox' or 'Jorja Fox'
-A: Why <em>did</em> you call her that? "I've never met her."
+A: Why _did_ you call her that? "I've never met her."
 
 Q: Will Guest come back?
 A: Maybe. The situation doesn't come up very often.

@@ -32,7 +32,7 @@ And so is Doc Robbins!
 
 https://twitter.com/zuiker/status/627182063611875328
 
-And Grissom (that's <em>barely</em> a beard, Gris... But Sara doesn't like the beard so that's a good GSR sign?):
+And Grissom (that's _barely_ a beard, Gris... But Sara doesn't like the beard so that's a good GSR sign?):
 
 https://twitter.com/zuiker/status/627192197448765441
 

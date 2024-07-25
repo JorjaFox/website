@@ -25,4 +25,4 @@ I didn't watch the show when it initially began, it was one of those things that
 I was instantly hooked. The storytelling, the technology, the intelligence of it; It was just wonderful.
 <div id="modulous_mid_article" class="ad_spot">But then in episode six a new character turned up and I saw someone just like me on TV for the first time in my life. I was 27 years old and I'd never seen myself reflected on TV before.</div>
 Sure, Doc Robbins wasn't **exactly** like me. He was 30 years older than me, male, and heterosexual. But it was the first time I had ever seen a realistic disabled character on TV.</blockquote>
-It's important to remember the other ways in which <em>CSI</em> changed the world. We all started watching because we knew a certain brunette. We kept watching for a lot of other reasons.
+It's important to remember the other ways in which _CSI_ changed the world. We all started watching because we knew a certain brunette. We kept watching for a lot of other reasons.

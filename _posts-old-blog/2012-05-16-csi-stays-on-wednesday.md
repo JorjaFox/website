@@ -19,7 +19,7 @@ tags:
     - csi
 ---
 
-<img class="alignleft size-medium wp-image-4646" title="CSI (Danson)" src="//static.jorjafox.net/wordpress/2012/05/csi-danson-230x153.jpg" alt="CSI (Danson)" width="230" height="153" />CBS released its new schedule for 2012-13 today, and guess what? CSI is staying put. That means if you want to watch Jorja on CSI, tune in on Wednesdays. And remember, I'm not going to be running CSI Watch this year, so if you want to know if she's in the episode, you can either come here and visit the site <em>or </em>go to the <a href="http://jfo4.us/csieps">http://jfo4.us/csieps</a> page, which has all the CSI episodes. If there are zero stars, there's no Sara Sidle (stars with a line means 'we don't know yet.')
+<img class="alignleft size-medium wp-image-4646" title="CSI (Danson)" src="//static.jorjafox.net/wordpress/2012/05/csi-danson-230x153.jpg" alt="CSI (Danson)" width="230" height="153" />CBS released its new schedule for 2012-13 today, and guess what? CSI is staying put. That means if you want to watch Jorja on CSI, tune in on Wednesdays. And remember, I'm not going to be running CSI Watch this year, so if you want to know if she's in the episode, you can either come here and visit the site _or _go to the <a href="http://jfo4.us/csieps">http://jfo4.us/csieps</a> page, which has all the CSI episodes. If there are zero stars, there's no Sara Sidle (stars with a line means 'we don't know yet.')
 
 For those who can't get to CBS Press Express (US only) here's their new schedule:
 <blockquote>

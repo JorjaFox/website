@@ -62,7 +62,7 @@ You didn't hallucinate. That scene (and the hand holding one) were filmed! Here 
 https://twitter.com/JorjaFoxofficia/status/1455980359959539717
 </div></figure>
 
-This isn't the first time this has happened, and not even to Jorja! Us oldies remember the part about how Maggie Doyle (back on ye olde <em>ER</em> days!) was getting a scene where she quit? Anyone remember "File that yourself, bastard"? Right. Never materialized on screen.
+This isn't the first time this has happened, and not even to Jorja! Us oldies remember the part about how Maggie Doyle (back on ye olde _ER_ days!) was getting a scene where she quit? Anyone remember "File that yourself, bastard"? Right. Never materialized on screen.
 
 Why do these things happen? Generally they're cut for time. If the episode runs over, then the scene is pulled since it doesn't really add to the story that much. However, usually those are **also** pulled from the previews so no one gets their hopes up! Likely what happened here is the network cut the episode for time and forgot. That happens. The editors on this are human, same as you and me.
 

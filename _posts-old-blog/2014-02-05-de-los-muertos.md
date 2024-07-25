@@ -23,7 +23,7 @@ tags:
 
 This case is mostly Doc Robbins and Nick down south of the border, but there will be Sara and Greg working the case back at home.
 
-<em><span style="line-height: 1.7; font-size: 1rem;">When the CSI team works two separate investigations, one involving a woman found murdered in Mexico and another of a local couple found dead in their driveway, they find the evidence in one case may help the other.</span></em>
+_<span style="line-height: 1.7; font-size: 1rem;">When the CSI team works two separate investigations, one involving a woman found murdered in Mexico and another of a local couple found dead in their driveway, they find the evidence in one case may help the other.</span>_
 
 https://vimeo.com/85872010
 

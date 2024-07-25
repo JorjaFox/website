@@ -7,7 +7,7 @@ permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
-newstitle: "Hollywood Privacy Watch: Gene Simmons Drains The Python Before Midnight &#8216;Snakes' Screening  "
+newstitle: "Hollywood Privacy Watch: Gene Simmons Drains The Python Before Midnight 'Snakes' Screening  "
 newsauthor: Seth
 newssource: Defamer
 newsurl: http://defamer.com/hollywood/sightings/hollywood-privacywatch-gene-simmons-drains-the-python-before-midnight-snakes-screening-195292.php

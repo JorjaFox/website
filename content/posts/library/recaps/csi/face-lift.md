@@ -42,4 +42,3 @@ Warrick asks Sara to meet him behind CSI and to bring a cotton nightgown (she co
 **Warrick:** Yeah.
 **Sara:** You know I, I haven't eaten meat since Grissom used one to estimate postmortem insect growth.
 **Warrick:** I tried for a human volunteer, but no takers.
-

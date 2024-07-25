@@ -28,4 +28,4 @@ Okay, this was a good episode. First of all, no one died. I always like a case w
 </ul>
 I maybe went screenshot happy? There were a lot of moments where Sara's face was really important, okay.
 
-Oh and I know a lot of people were talking about "chemistry" with Sara and the bomb guy. I'd like to point out, when Sara got blown up in <a href="https://jorjafox.net/wiki/Play_With_Fire">Play with Fire</a>, she was reckless afterwards, and asked Grissom out. This time? She was calm, controlled, and lost her appetite. No, I don't see any chemistry with her and the bomb guy, which is <em>very</em> telling when you consider she told Brass it made her rethink things.
+Oh and I know a lot of people were talking about "chemistry" with Sara and the bomb guy. I'd like to point out, when Sara got blown up in <a href="https://jorjafox.net/wiki/Play_With_Fire">Play with Fire</a>, she was reckless afterwards, and asked Grissom out. This time? She was calm, controlled, and lost her appetite. No, I don't see any chemistry with her and the bomb guy, which is _very_ telling when you consider she told Brass it made her rethink things.

@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-The schedule for the upcoming CSI episodes (in Eastern US time, please use your math skills and adjust) is below. I'm <em>not</em> listing repeats.
+The schedule for the upcoming CSI episodes (in Eastern US time, please use your math skills and adjust) is below. I'm _not_ listing repeats.
 
 <ul>
 	<li>Jan. 25 (Sunday) @ 9pm: 15x14 <a href="https://jorjafox.net/wiki/Merchants_of_Menace">'Merchants of Menace</a>'</li>

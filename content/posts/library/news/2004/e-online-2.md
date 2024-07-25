@@ -21,7 +21,7 @@ I wish I could! The past two days at Press Tour have been CBS, and everyone, inc
 
 That has been *the* question at Press Tour. I have a *very* long quote from Les Moonves with his take on what happened, just for you. Here goes:
 
-"I'm sort of old-fashioned. I believe when you and I shake hands and we sign a deal, it's a deal. A deal is a deal. And if by the fourth episode of the season, we had decided that George Eades, we wanted to fire him, guess what? I couldn't pick up a phone and say, &#8216;You know what, I want to fire you, but the contract really doesn't matter, so I'm not going to pay you for the other 18 episodes that I owe you.'
+"I'm sort of old-fashioned. I believe when you and I shake hands and we sign a deal, it's a deal. A deal is a deal. And if by the fourth episode of the season, we had decided that George Eades, we wanted to fire him, guess what? I couldn't pick up a phone and say, 'You know what, I want to fire you, but the contract really doesn't matter, so I'm not going to pay you for the other 18 episodes that I owe you.'
 
 "We feel very important that it's time people realize that a contract is a contract. By the way, what hasn't been written is we renegotiated with these people after the second year of the show already once. What also has not been reported is we did offer them a raise, even though we didn't have to. When somebody doesn't show up for work, that says to us that, okay, they don't want to work for us anymore, and that's our attitude."
 

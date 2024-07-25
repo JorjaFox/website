@@ -3,7 +3,7 @@ id: 2063
 title: 'CSI 10&#215;04 — Coup de Grace Promo (updated)'
 date: '2009-10-08T21:29:06-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Dead cops, killed by a cop, plus Sara Sidle.  Next week''s <em>CSI</em> will be here in seven days. Talk about it here. <em>Updated October 9th</em>'
+excerpt: 'Dead cops, killed by a cop, plus Sara Sidle.  Next week''s _CSI_ will be here in seven days. Talk about it here. _Updated October 9th_'
 layout: post
 guid: 'https://jorjafox.net/?p=2063'
 permalink: /2009/csi-10x04-coup-de-grace-promo/
@@ -39,5 +39,5 @@ tags:
 
 And I am aware that Jorja is NOT listed in the press release for this episode, but Dustin Lee Abraham (aka vegasoul) has confirmed this for us <a href="http://twitter.com/vegasoul/status/4718292046">on twitter of course</a>.
 
-<em>Updated 10/9 for second Promo</em>
+_Updated 10/9 for second Promo_
 <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/g6hYgEDxn_c&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/g6hYgEDxn_c&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>

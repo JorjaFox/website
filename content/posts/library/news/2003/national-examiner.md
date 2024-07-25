@@ -12,7 +12,7 @@ newsauthor: Laurie Campbell
 newssource: National Examiner
 ---
 
-There's a battle royal going on behind the scenes at CSI: Crime Scene Investigation &#8212; should Gil Grissom leap into the sack with Sara Sidle?
+There's a battle royal going on behind the scenes at CSI: Crime Scene Investigation - should Gil Grissom leap into the sack with Sara Sidle?
 
 Fans of TV's top-rated show, now in its fourth season, think it's a pretty hot drama. But backstage fights over what should happen between the characters played by William Petersen and Jorja Fox make the on-screen happenings seem like winter in Antarctica, say insiders.
 

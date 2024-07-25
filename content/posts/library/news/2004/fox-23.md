@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "&#8216;CSI' Stars Fired After Pay Requests"
+newstitle: "'CSI' Stars Fired After Pay Requests"
 newsauthor: Staff
 newssource: FOX 23
 newsurl: http://www.fox23news.com
@@ -26,4 +26,3 @@ The actors were in the fifth of their seven-year contracts, but asked for more m
 Though a search was underway for their replacements, it's unclear whether show creators will recast the characters or develop new ones.
 
 Despite the major blow for the show, "CSI" picked up four Emmy nominations Thursday, including one for best drama series.
-

@@ -34,7 +34,7 @@ The CSI team must investigate one of their own when Langston is accused by a for
 http://www.youtube.com/watch?v=aCZ1bCbquKc
 
 <h2>Recap</h2>
-<del datetime="2010-05-14T02:04:04+00:00"><em>Coming Soon!</em></del>
+<del datetime="2010-05-14T02:04:04+00:00">_Coming Soon!_</del>
 
 This gets three stars.  The household argued about it being three or four, but in the old days, this would have been barely a three, so a three it remains.  We got two small mentions of Sara's past (not wanting to share details of her personal life and serial killers having 'special plans'), but mostly just some good, solid police work.
 

@@ -25,7 +25,6 @@ That was the one hesitation I had about taking the role if I was lucky enough to
 
 **How do you relate to Sara?**
 
-
 She is a renegade who has some problems relating to people on a social level. She is very, very good at what she does, but sometimes consumes herself almost entirely with her work. At the moment, she is also a little in love with a coworker who is very unresponsive to her ... but I won't give any more away on that front! It's a joy and a dream to play her, but I sometimes get confused playing somebody for so long. When I go shopping, buy an outfit and look at it a month later, I go, "Who bought that? Sara or me?"
 
 **Do you think criminals are scared after watching CSI: Crime Scene Investigation?**
@@ -35,4 +34,3 @@ I hope so, but it's a bit of a double-edged sword. On some levels we probably gi
 "There has been some work done to raise money for crime labs across the country, and that's something," Jorja Fox says. "But it would be great if we could encourage the government to spend more money on this stuff. Then those crimes would get solved faster."
 
 [...]
-

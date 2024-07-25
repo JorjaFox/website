@@ -21,41 +21,41 @@ tags:
 Thanks to fan <a href="https://twitter.com/tvcrazyeb/status/494312461646835712">Elizabeth Beaulieu for the tip</a>!
 
 This should get posted on their website eventually, but here's a copy of what it says:
-<blockquote>**<img class="alignleft size-full wp-image-11088" src="//static.jorjafox.net/wordpress/2014/07/EW1.jpg" alt="Jorja Fox" width="360" height="480" />Jorja Fox** of <em>CSI: Crime Scene Investigation</em> makes waves with her stylish selections
+<blockquote>**<img class="alignleft size-full wp-image-11088" src="//static.jorjafox.net/wordpress/2014/07/EW1.jpg" alt="Jorja Fox" width="360" height="480" />Jorja Fox** of _CSI: Crime Scene Investigation_ makes waves with her stylish selections
 
-<em>**Vacation Spot:**</em>
+_**Vacation Spot:**_
 **Hawaii.**
 
-<em>**Workout:**</em>
+_**Workout:**_
 **Surfing.**
 
-<em>**Designer:**</em>
+_**Designer:**_
 **Stella McCartney.**
 
-<em>**Purse:**</em>
+_**Purse:**_
 **high*way NYC.**
 I love their nonleather stuff.
 
-<em>**Magazine:**</em>
+_**Magazine:**_
 **Surfer **magazine.
 
-<em>**Bling:**</em>
+_**Bling:**_
 A **gold and amethyst ring** my mother designed.
 
-<em>**Activity:**</em>
+_**Activity:**_
 All things **romantic**.
 
-<em>**Song:**</em>
+_**Song:**_
 **"Freedom and Its Owner"
 **by Kings of Convenience.
 
-<em>**Book:**</em>
+_**Book:**_
 **The Concious Cook**
 by chef Tal Ronnen.
 
-<em>**Movie:**</em>
+_**Movie:**_
 **Tootsie.**
 
-<em>**Indulgence:**</em>
+_**Indulgence:**_
 **Wine.**</blockquote>
 And of course remember that CSI airs Sunday, beginning "October 30". Except they're wrong and it starts September 28th. I guess they want you to miss the first four episodes? Who knows. The photo is from a <a href="https://jorjafox.net/gallery/pro/model/2007-ew/">2007 shoot for EW</a>.

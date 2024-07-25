@@ -3,7 +3,7 @@ id: 3045
 title: 'CSI 11&#215;12 "A Kiss Before Frying" Discussion Post (Updated)'
 date: '2011-01-20T10:00:43-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Classic Vegas, burlesque and a very Greg episode.  Tonight''s CSI promises to be titillating. <em>Updated - No Jorja, but still good!</em>'
+excerpt: 'Classic Vegas, burlesque and a very Greg episode.  Tonight''s CSI promises to be titillating. _Updated - No Jorja, but still good!_'
 layout: post
 guid: 'https://jorjafox.net/?p=3045'
 permalink: /2011/csi-11x12-a-kiss-before-frying/

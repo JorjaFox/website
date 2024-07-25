@@ -26,4 +26,4 @@ Don't have Facebook? You can still get involved via their official webpage.
 
 Please Donate Now: <a href="https://www.secure.adi-navs-ldf.org/donate.asp?id=921&amp;cachefixer">US</a> | <a href="https://www.secure.adi-navs-ldf.org/donate.asp?id=951&amp;cachefixer">UK</a>
 
-<em>Donations from US supporters are tax-deductible. ADI USA is a 501(c)(3) non-profit organization, EIN: 03-0538111.</em>
+_Donations from US supporters are tax-deductible. ADI USA is a 501(c)(3) non-profit organization, EIN: 03-0538111._

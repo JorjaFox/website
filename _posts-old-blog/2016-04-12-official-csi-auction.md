@@ -26,6 +26,6 @@ tags:
     - csi
 ---
 
-Not mine. I'll be doing it (I hope...) end of this month or early next month (the tl;dr is that I spent March <em>very</em> sick, but I seem to be doing better now).
+Not mine. I'll be doing it (I hope...) end of this month or early next month (the tl;dr is that I spent March _very_ sick, but I seem to be doing better now).
 
 However starting Friday, CBS is auctioning off a whole bunch of CSI memorabilia. And yes, there's a whole <a href="http://auction.screenbid.com/view-auctions/catalog/id/52/?page=1&amp;key=Sara&amp;cat=&amp;xclosed=yes">Sara Section</a> you can pic through. I won't be bidding but a lot of Sara's necklaces are there so those of you who have always asked about them, jump in!

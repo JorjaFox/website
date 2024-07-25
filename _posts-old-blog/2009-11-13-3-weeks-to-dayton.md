@@ -43,7 +43,7 @@ tags:
 
 How wild is that Jorja would be in a movie about race cars?  And I find this out on the day I buy my first car (not a race car, a Hybrid)?
 
-But, yes, Jorja will be in an indie film called <em>3 Weeks To Dayton</em>, featuring Jorja Fox as Cheryl, Lucas Ardagna as Worm and Scott Cohen as Chuck.
+But, yes, Jorja will be in an indie film called _3 Weeks To Dayton_, featuring Jorja Fox as Cheryl, Lucas Ardagna as Worm and Scott Cohen as Chuck.
 
 <blockquote>Soon to race into a theater near you, 3 Weeks to Daytona is the story of a down on his luck stock car racer with one dream left to hold onto, drive with best. Unfortunately, with a busted car, no money, and bad job, Chuck's limelight could be fading fast. When a final chance falls his way, can he patch things up with his son, crew chief, and turn himself around before its too late?</blockquote>
 

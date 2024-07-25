@@ -23,10 +23,10 @@ tags:
 From <a href="http://www.cbs.com/shows/csi/insider_blog/1000470/">CBS's CSI Insider Blog</a>:
 <blockquote>**CBS ANNOUNCES NEW CONTRACT EXTENSION FOR “CSI: CRIME SCENE INVESTIGATION” STAR TED DANSON**
 
-<em>“CSI: Crime Scene Investigation,” the Most Watched Show in the World, Renewed for 2013-2014 Season</em>
-<em></em>
+_“CSI: Crime Scene Investigation,” the Most Watched Show in the World, Renewed for 2013-2014 Season_
+__
 
-<em>Series Stars Elisabeth Shue, George Eads, Jorja Fox, Eric Szmanda, Paul Guilfoyle, Robert David Hall, Wallace Langham, Elisabeth Harnois, David Berman and Jon Wellner Will Also Return Next Season</em>
+_Series Stars Elisabeth Shue, George Eads, Jorja Fox, Eric Szmanda, Paul Guilfoyle, Robert David Hall, Wallace Langham, Elisabeth Harnois, David Berman and Jon Wellner Will Also Return Next Season_
 
 CBS announced today a new contract extension for CSI: CRIME SCENE INVESTIGATION star Ted Danson and that the U.S. and global hit series has been renewed for the 2013-2014 season. &nbsp;In addition, Academy Award nominee Elisabeth Shue (“Leaving Las Vegas”) and original cast members George Eads, Jorja Fox, Eric Szmanda, Paul Guilfoyle and Robert David Hall along with Wallace Langham, Elisabeth Harnois, David Berman and John Wellner will also return next season.
 

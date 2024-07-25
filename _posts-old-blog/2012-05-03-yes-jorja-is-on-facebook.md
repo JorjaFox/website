@@ -21,10 +21,10 @@ tags:
 
 <img class="alignleft size-medium wp-image-4602" title="Facebook" src="//static.jorjafox.net/wordpress/2012/05/facebook-230x153.jpg" alt="Facebook" width="230" height="153" />
 
-In a recent interview, Jorja said she <em>does</em> have a Facebook page.
+In a recent interview, Jorja said she _does_ have a Facebook page.
 
 <a href="https://www.facebook.com/JorjaFoxworldwide">https://www.facebook.com/JorjaFoxworldwide</a>
 
 That is, officially, her page. It's 'broken' right now she says (which I suspect means she's having FB issues, and if so, Jorja, have your people ping me, you know I'm willing to help out!)
 
-She has messaging turned on but <em>**please**</em> don't spam her. Be cool, be nice, and be respectful.
+She has messaging turned on but _**please**_ don't spam her. Be cool, be nice, and be respectful.

@@ -15,7 +15,7 @@ newsurl: http://tvguide.com
 ---
 [...]
 
-**D | Double-Ups** Ever find yourself puzzled (or elated) when a particular *CSI* episode features, say, only Grissom (William Petersen) and Nick (George Eads), and is followed the next week by one about only Sara (Jorja Fox) and Catherine (Helgenberger)? Such character divisions occasionally happen because of a production double-up &#8212; when the show's scheduling demands require the series to shoot two episodes simultaneously.
+**D | Double-Ups** Ever find yourself puzzled (or elated) when a particular *CSI* episode features, say, only Grissom (William Petersen) and Nick (George Eads), and is followed the next week by one about only Sara (Jorja Fox) and Catherine (Helgenberger)? Such character divisions occasionally happen because of a production double-up - when the show's scheduling demands require the series to shoot two episodes simultaneously.
 
 [...]
 
@@ -24,4 +24,3 @@ newsurl: http://tvguide.com
 [...]
 
 **Z | Zamboni** The gliding, boxlike machine that clean and smooth ice-skating rinks. In Season 2's "Primum Non Nocere," one Zamboni holds a key piece of evidence in the death of a hockey player. Ever the hopeless romantic, Grissom opines in an intimate moment with Sara: "There are three things people love to stare at: a rippling stream, a sunset and a Zamboni going around and around." Sigh...
-

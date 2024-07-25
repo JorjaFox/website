@@ -25,4 +25,3 @@ The *CSI* team players are just as likeable as their superior officers.
 The women are sex bombs ? Catherine Willows (Marg Helgenberger), Calleigh Duquesne (Emily Procter), Yelina Salas (Sofia Milos), Aiden Burn (Vanessa Ferlito) and Stella Bonasera (Melina Kanakaredes) are always ready for the camera ? ever wondered why none of them ever wear their hair up? Surely all those long, luscious locks get in the way of all that investigative work? Even Sara Sidle (Jorja Fox) - who's not your typical heart-throb - has her own unique appeal - angst, smarts and a kick-a** attitude.
 
 [...]
-

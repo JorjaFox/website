@@ -24,6 +24,6 @@ tags:
 Guest Stars Include Peri Gilpin (“Frasier”) as D.B. Russell’s wife, Barbara, Enrique Murciano (“Without a Trace”) as Detective Carlos Moreno, Conor O’Farrell (“Justified”) Reprising His Role as Former Undersheriff Jeffrey McKeen and Jaclyn Smith (Charlie’s Angels) as Hodges’ Mother, Olivia.</blockquote>
 <img class="alignleft size-medium wp-image-4543" title="Homecoming" src="//static.jorjafox.net/wordpress/2012/04/homecoming-230x153.jpg" alt="" width="230" height="153" />Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=31515">CBS Press Express</a>
 
-Can you believe it's already the season finale? I know it's been over so fast. Jorja <em>will</em> be in this episode, though.
+Can you believe it's already the season finale? I know it's been over so fast. Jorja _will_ be in this episode, though.
 
-If you want to have a laugh, Peri Gilpin was Roz on <em>Fraiser</em> which was a spin off of <em>Cheers</em> which stared ... Ted Danson. Everything is related.
+If you want to have a laugh, Peri Gilpin was Roz on _Fraiser_ which was a spin off of _Cheers_ which stared ... Ted Danson. Everything is related.

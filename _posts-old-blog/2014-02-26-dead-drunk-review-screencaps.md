@@ -28,4 +28,4 @@ In so far as it goes as a movie to watch for Jorja, this is two stars. She has a
 
 While I can't post clips, I did manage to upgrade the screencaps: <a href="https://jorjafox.net/gallery/tv/movies/deaddrunk">**126 larger images**</a>.
 
-This takes me down <em>one</em> released movie/tv-movie I don't have at least screencaps of: Summer Stories (ABC After School Specials). While I'd love to find some of the more rare one-shot things, like the TV shows and stuff, that's going to be crazy wicked hard to find stuff that has never been released.
+This takes me down _one_ released movie/tv-movie I don't have at least screencaps of: Summer Stories (ABC After School Specials). While I'd love to find some of the more rare one-shot things, like the TV shows and stuff, that's going to be crazy wicked hard to find stuff that has never been released.

@@ -54,4 +54,4 @@ Thanks to Jorja82 for finding two pictures of Christoph Brown and Jorja Fox at a
 &bull; <a href="https://jorjafox.net/gallery/unknown/chrisbrown_01.jpg">Christoph and Jorja (and an Etch-e-Sketch)</a>
 &bull; <a href="https://jorjafox.net/gallery/unknown/chrisbrown_02.jpg">Jorja, with Christoph playing on an Etch-e-Sketch</a>
 
-<em>Edited becuase Chris Brown and Christoph Brown are NOT the same person.  This is the <a href="http://www.etchu.com/">Etch-a-Sketch Man</a>).</em>
+_Edited becuase Chris Brown and Christoph Brown are NOT the same person.  This is the <a href="http://www.etchu.com/">Etch-a-Sketch Man</a>)._

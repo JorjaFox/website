@@ -23,7 +23,7 @@ This post is an example of general user generated activity.  In this example, I'
 
 There's a reply button to these posts because they're self-contained. It's just a comment, people reply, and so on and so forth. It's like commenting on a FaceBook post, or a Tweet.
 
-On the other hand, sitewide activity also includes all blog posts and comments, and those, you <em>cannot</em> reply too within sitewide activity:
+On the other hand, sitewide activity also includes all blog posts and comments, and those, you _cannot_ reply too within sitewide activity:
 <a href="//static.jorjafox.net/wordpress/2010/04/cantreply.png"><img src="//static.jorjafox.net/wordpress/2010/04/cantreply.png" alt="" width="300" height="110" class="aligncenter size-medium wp-image-36" /></a>
 <a href="//static.jorjafox.net/wordpress/2010/04/centreply2.png"><img src="//static.jorjafox.net/wordpress/2010/04/centreply2.png" alt="" width="300" height="120" class="aligncenter size-medium wp-image-37" /></a>
 

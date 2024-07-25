@@ -26,6 +26,6 @@ Video? Oh okay.
 
 Credit: <a href="http://omg.yahoo.com/video/csi-star-jorja-fox-spills-200000745.html">OMG! Insider</a>
 
-Can't watch it? Yes, I did a transcription. I am <em>way</em> out of practice for this stuff. <a href="https://jorjafox.net/wiki/CSI_Star_Jorja_Fox_Spills_Show_Secrets_-_OMG_Insider_(23_January_2012)">Read the transcript</a>. Want screencaps? <a href="https://jorjafox.net/gallery/tv/talkshow/20130220-omginsider/">Go grab the screencaps</a>!
+Can't watch it? Yes, I did a transcription. I am _way_ out of practice for this stuff. <a href="https://jorjafox.net/wiki/CSI_Star_Jorja_Fox_Spills_Show_Secrets_-_OMG_Insider_(23_January_2012)">Read the transcript</a>. Want screencaps? <a href="https://jorjafox.net/gallery/tv/talkshow/20130220-omginsider/">Go grab the screencaps</a>!
 
 Yeah, I've been busy.

@@ -16,6 +16,7 @@ Comics, rock stars, actors, writers and other celebs past and present weigh in o
 Viewers are treated to a barrage of retro clips from sitcoms, movies, network news, commercials and other sources. And it won't be just TV, music and film. It's be cars, junk food, fashion and everything else that went into making the delicious pop culture stew that was the 70s.
 
 ## Appearances
+
 Jorja appeared in 5 episodes of the miniseries:
 
 * 1970 — Original Airdate 08.18.2003

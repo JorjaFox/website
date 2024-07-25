@@ -3,7 +3,7 @@ id: 2798
 title: 'No Sara in "A Kiss Before Frying"?'
 date: '2010-12-09T17:00:21-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'They are <em>KILLING</em> me.  The press release is out and Jorja''s not listed.'
+excerpt: 'They are _KILLING_ me.  The press release is out and Jorja''s not listed.'
 layout: post
 guid: 'https://jorjafox.net/?p=2798'
 permalink: /2010/no-sara-in-a-kiss-before-frying/

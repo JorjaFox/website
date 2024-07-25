@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "&#8216;CSI' makes strong case to be &#8216;Scene'"
+newstitle: "'CSI' makes strong case to be 'Scene'"
 newsauthor: NY Daily News
 newssource: NY Daily News
 newsurl: http://www.nydailynews.com/

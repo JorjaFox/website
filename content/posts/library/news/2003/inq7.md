@@ -88,4 +88,3 @@ Aaron Sorkin's Emmy award-winning drama "The West Wing."
 
 But her role as Sara is one of Fox's prayers that have been
 answered.
-

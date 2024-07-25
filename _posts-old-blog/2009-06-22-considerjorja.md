@@ -47,9 +47,9 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2009/06/considerjorja.jpg"><img src="//static.jorjafox.net/wordpress/2009/06/considerjorja-100x100.jpg" alt="considerjorja" title="considerjorja" width="100" height="100" class="alignleft size-thumbnail wp-image-1899" /></a> Short of buying advertising space in newspapers and on billboards, it's hard to get an actor's name out there for an Emmy. But in the last few years, social networking has moved beyond blogs and communities and into a broad spectrum splattering of information via FaceBook, MySpace, Twitter, OurSpace, SecondLife... you get the idea. In fact, I'm willing to bet that most of you have one of those accounts, if not multiple, in addition to your blog or LiveJournal.
 
-Since I'm particularly fond of Twitter, I decided back when I announced that Jorja's name was in the ring for a Guest Actress Emmy, that it might be a fun thing to start promoting her via Twitter.  The best way to do that is to use hashtags, which allow for easy searching, and the best tag I could think up was <em>#considerjorja</em>.
+Since I'm particularly fond of Twitter, I decided back when I announced that Jorja's name was in the ring for a Guest Actress Emmy, that it might be a fun thing to start promoting her via Twitter.  The best way to do that is to use hashtags, which allow for easy searching, and the best tag I could think up was _#considerjorja_.
 
-A step back for those of you who are new to all this (the old fogies can go get a coffee).  Hashtags are a community-driven convention for adding additional context and metadata to your tweets. They're like tags on Flickr, or the tags I use here on JFO to flag this post as 'Media: Twitter'.  Only with Twitter, you add them inline to your post. You create a hashtag simply by prefixing a word with a hash symbol: <em>#hashtag</em>.
+A step back for those of you who are new to all this (the old fogies can go get a coffee).  Hashtags are a community-driven convention for adding additional context and metadata to your tweets. They're like tags on Flickr, or the tags I use here on JFO to flag this post as 'Media: Twitter'.  Only with Twitter, you add them inline to your post. You create a hashtag simply by prefixing a word with a hash symbol: _#hashtag_.
 
 Example: "Jorja made me cry when she realized she couldn't be a CSI anymore. #considerjorja"
 

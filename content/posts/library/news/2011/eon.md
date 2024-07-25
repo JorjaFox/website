@@ -16,7 +16,7 @@ newsurl: http://eon.businesswire.com/news/eon/20110214007416/en/Animal-Defenders
 
 **Bob Barker and CSI Actress Jorja Fox to Greet Lions**
 
-##WHAT
+## WHAT
 
 **'OPERATION LION ARK' TO LAND AT DENVER INTERNATIONAL AIRPORT
 Animal Defenders International Media Briefing/Photo Opportunity/Record Breaking Rescued Bolivian Lion Arrival**
@@ -28,4 +28,3 @@ The lions will then travel to The Wild Animal Sanctuary (TWAS) in Keenesburg, CO
 CSI actress Jorja Fox will be participating in the rescue operation along with TV personality Bob Barker, who funded the rescue. Fox, Barker and other ADI personnel are available to brief media about the operation and journey from Bolivia in advance of the arrival. Spanish spokespersons are also available.
 
 [...]
-

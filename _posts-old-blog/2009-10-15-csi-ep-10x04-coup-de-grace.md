@@ -3,7 +3,7 @@ id: 2070
 title: 'CSI ep 10&#215;04 "Coup de Grace" (updated)'
 date: '2009-10-15T08:00:34-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Tonight we get a racist cop killed by cops. Talk about the episode here!  This post will be updated with screencaps and a recap after the episode airs. <em>Updated at 10pm Central with screencaps and a recap</em>'
+excerpt: 'Tonight we get a racist cop killed by cops. Talk about the episode here!  This post will be updated with screencaps and a recap after the episode airs. _Updated at 10pm Central with screencaps and a recap_'
 layout: post
 guid: 'https://jorjafox.net/?p=2070'
 permalink: /2009/csi-ep-10x04-coup-de-grace/
@@ -46,7 +46,7 @@ tags:
     - video
 ---
 
-<a href="//static.jorjafox.net/wordpress/2009/10/coupdegrace.jpg"><img src="//static.jorjafox.net/wordpress/2009/10/coupdegrace-100x100.jpg" alt="coupdegrace" title="coupdegrace" width="100" height="100" class="alignleft size-thumbnail wp-image-2071" /></a> <em>Updated at 10pm Central with screencaps and a recap</em>
+<a href="//static.jorjafox.net/wordpress/2009/10/coupdegrace.jpg"><img src="//static.jorjafox.net/wordpress/2009/10/coupdegrace-100x100.jpg" alt="coupdegrace" title="coupdegrace" width="100" height="100" class="alignleft size-thumbnail wp-image-2071" /></a> _Updated at 10pm Central with screencaps and a recap_
 
 This time the topic will remain open! Too many people complained about the multiple posts, and I think you guys are totally right! I will update this post with screencaps and recaps shortly after the episode.
 

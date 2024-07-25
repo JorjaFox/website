@@ -24,6 +24,6 @@ http://www.youtube.com/watch?v=6WSc8MaPAaQ
 
 While there isn't a ton of Sara in the teaser, this is supposed to be a Sara heavy episode.
 
-Speaking of Sara episodes, she's <em>not</em> in episode five, and they're having another title-contest. Pick your own title for ep five at CBS.com: <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.cbs.com%2Fshows%2Fcsi%2Ftitle_vote&amp;h=FAQEmL2LL&amp;s=1" target="_blank">http://www.cbs.com/shows/csi/title_vote</a>
+Speaking of Sara episodes, she's _not_ in episode five, and they're having another title-contest. Pick your own title for ep five at CBS.com: <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.cbs.com%2Fshows%2Fcsi%2Ftitle_vote&amp;h=FAQEmL2LL&amp;s=1" target="_blank">http://www.cbs.com/shows/csi/title_vote</a>
 
 It's got puppies!

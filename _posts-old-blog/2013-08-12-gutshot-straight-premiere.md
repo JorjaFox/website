@@ -19,7 +19,7 @@ tags:
     - 'social media'
 ---
 
-Jorja was at the premiere of George Eads's movie, <em><a href="https://www.facebook.com/gutshotstraightfilm">Gutshot Straight</a></em>, which is a thriller that has not yet been released.
+Jorja was at the premiere of George Eads's movie, _<a href="https://www.facebook.com/gutshotstraightfilm">Gutshot Straight</a>_, which is a thriller that has not yet been released.
 
 http://twitter.com/ShaneSSaunders/status/367111068297867264
 
@@ -27,4 +27,4 @@ http://instagram.com/p/c7-B8EwGUG/
 
 Oh and that lucky sod, Shane was there.
 
-<em>Edited: Photos are being added to the <a href="https://jorjafox.net/gallery/pub/premieres/20130812-gutshot">Gutshot Gallery Page</a> constantly. Yay!</em>
+_Edited: Photos are being added to the <a href="https://jorjafox.net/gallery/pub/premieres/20130812-gutshot">Gutshot Gallery Page</a> constantly. Yay!_

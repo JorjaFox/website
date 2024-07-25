@@ -26,7 +26,7 @@ Okay, how about a title and a brief?
 With Morgan and Ellie's lives on the line, the CSIs race to stop a serial killer from completing his twisted homage to "Dante's Inferno".</blockquote>
 Credit: <a href="http://www.spoilertv.com/2013/07/csi-las-vegas-season-14-premiere-title.html">Spoiler TV</a>
 
-For those of you who are too young to know, the title is an homage to a story (and later play and movie) called "The Devil and Daniel Webster" whereby a lawyer (Daniel Webster) talks his way out of a case with the Devil and wins. Interestingly, he technically lost the case based on evidence. Wonder what <em>that</em> implies of this episode...
+For those of you who are too young to know, the title is an homage to a story (and later play and movie) called "The Devil and Daniel Webster" whereby a lawyer (Daniel Webster) talks his way out of a case with the Devil and wins. Interestingly, he technically lost the case based on evidence. Wonder what _that_ implies of this episode...
 
 For those who want to keep up, the <a href="https://jorjafox.net/wiki/CSI:_Crime_Scene_Investigation_(season_14)">JFO Episode Guide for CSI Season 14</a> is up and running. Need a short URL? <a href="http://jfo4.us/csi14">http://jfo4.us/csi14</a>
 

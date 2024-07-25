@@ -32,4 +32,4 @@ Epsisode 21 (the spin-off setup) is called <a href="https://jorjafox.net/wiki/Ki
 
 http://instagram.com/p/lys0vxIRSF/
 
-BUT. Jorja's not in it. She <em>is</em> in Consumed though, and the finale.
+BUT. Jorja's not in it. She _is_ in Consumed though, and the finale.

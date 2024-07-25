@@ -27,6 +27,6 @@ Wow, it's really that time again!
 <p style="text-align: center;">**And Mark Valley as Detective Daniel Shaw**
 “The CSI Effect” – Finlay must deal with a bomb planted in her car, while Russell gets a call from someone claiming to be the Gig Harbor killer, on the 15th season premiere of CSI: CRIME SCENE INVESTIGATION, Sunday, Sept 28 (10:00-11:00, ET/PT), on the CBS Television Network. Mark-Paul Gosselaar guest stars as twins Jared Briscoe and Paul Winthrop, and Mark Valley as Detective Daniel Shaw.
 
-<em>**CHEAT TWEET: How can the Gig Harbor killer B killing again if he’s N prison? @MPG guest stars #CSI season premiere 9/28 10pm ET/PT http://bit.ly/1wIyUAb**</em>
+_**CHEAT TWEET: How can the Gig Harbor killer B killing again if he’s N prison? @MPG guest stars #CSI season premiere 9/28 10pm ET/PT http://bit.ly/1wIyUAb**_
 
 <span style="font-weight: inherit; font-style: inherit;"><span style="font-weight: bold; font-style: italic;"> </span></span>

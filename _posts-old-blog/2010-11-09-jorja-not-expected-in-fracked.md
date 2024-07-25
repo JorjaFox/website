@@ -23,7 +23,7 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/11/either-or-100x100.jpg" alt="" title="either-or" width="100" height="100" class="alignleft size-thumbnail wp-image-2680" /> Right now, Jorja's not listed in Fracked, and all my sources have indicated that she's not in the episode.  Which is fine by me, really, I don't mind a night off, but it does make me wonder why CBS is giving us <em>either</em> Katee Sackhoff <em>or</em> Jorja Fox!
+<img src="//static.jorjafox.net/wordpress/2010/11/either-or-100x100.jpg" alt="" title="either-or" width="100" height="100" class="alignleft size-thumbnail wp-image-2680" /> Right now, Jorja's not listed in Fracked, and all my sources have indicated that she's not in the episode.  Which is fine by me, really, I don't mind a night off, but it does make me wonder why CBS is giving us _either_ Katee Sackhoff _or_ Jorja Fox!
 
 Obviously CSI is a bit shy on strong women, or rather regular female cast members, in general right now.  Pretty much all we have are Jorja and Marg, so the introduction of Katee (who was the wish-list to replace Jorja when she left) is a bonus for the show.  They need more female characters.  But why, like back in the early seasons of CSI, are they keeping Katee and Jorja apart like they did Marg and Jorja?
 

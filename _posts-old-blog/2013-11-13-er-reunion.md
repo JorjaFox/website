@@ -20,7 +20,7 @@ tags:
 
 <img class="alignright size-medium wp-image-8673" alt="Don't Ask, Don't Tell" src="//static.jorjafox.net/wordpress/2013/10/dontask_02.jpg" width="300" height="168" />Former ER doc Sherry Stringfield is returning to the procedural realm with a meaty guest stint on CSI, says <a href="http://tvline.com/2013/10/02/csi-season-14-sherry-stringfield-cast/">TV Line</a>.
 
-Jorja and Sherry were together (briefly) in 1996 for six episodes on <em>ER</em>. You can check out the screenshots at the <a href="https://jorjafox.net/gallery/tv/er/season03/">ER Season 3 Gallery</a>. I included the first time they met here. It's kinda cool and makes me feel really old at the same time.
+Jorja and Sherry were together (briefly) in 1996 for six episodes on _ER_. You can check out the screenshots at the <a href="https://jorjafox.net/gallery/tv/er/season03/">ER Season 3 Gallery</a>. I included the first time they met here. It's kinda cool and makes me feel really old at the same time.
 
 Given that Sherry's working on the rape case (sorry) <a href="http://www.tvguide.com/News/CSI-First-Look-Sherry-Stringfield-1073336.aspx">as evidenced by this video from TVGuide</a>, the odds are we'll get to see them act together! <del>(Sadly the video's not super embed friendly.)</del>
 

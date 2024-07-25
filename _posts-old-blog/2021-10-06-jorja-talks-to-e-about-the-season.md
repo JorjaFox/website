@@ -26,7 +26,7 @@ tags:
     - transcript
 ---
 
-Jorja and Paula spoke with E! about coming back to <em>CSI</em> and what it means to both of them.
+Jorja and Paula spoke with E! about coming back to _CSI_ and what it means to both of them.
 
 While the subject mentions a 'creepy' storyline, really it doesn't. When Jorja was asked about  the storylines, she explained how there are two plots: The over arching one we know about (the lab's under suspicion) and the weekly plots:
 

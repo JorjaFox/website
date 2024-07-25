@@ -29,7 +29,6 @@ Example: The _CSI: Crime Scene Investigation_ episode "Pilot".
 
 Example: The _CSI: Crime Scene Investigation_ episode "High and Low" or the movie [The Jerky Boys](/library/actor/jerky-boys).
 
-
 ### 2 Gold Stars
 
 {{< star color="gold-star" count="2" >}}{{< star color="grey-star" count="3" >}} - Some dialogue, acting as a supporting character.

@@ -3,7 +3,7 @@ id: 2813
 title: 'Aaron Sanchez Interview Screencaps'
 date: '2010-12-16T14:17:05-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Screencaps from the Aaron Sanchez interview, at the <em>How I Became an Elephant</em> premiere.'
+excerpt: 'Screencaps from the Aaron Sanchez interview, at the _How I Became an Elephant_ premiere.'
 layout: post
 guid: 'https://jorjafox.net/?p=2813'
 permalink: /2010/sanchez-screencaps/

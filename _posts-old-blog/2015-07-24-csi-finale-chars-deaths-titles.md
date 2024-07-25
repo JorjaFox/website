@@ -29,9 +29,9 @@ I'm still betting Finn dies. It's pivotal. So I bet Finn dies and that's why DB 
 And then we have this from [Ask Kristen (E!)](http://www.eonline.com/news/678080/spoiler-chat-scoop-on-american-horror-story-pretty-little-liars-arrow-the-mindy-project-and-more)
 
 > Elena: What is going on with the CSI series finale movie? No George Eads and no Elisabeth Shue? Who's in this special?
-> Remember Lindsey, Catherine Willows' daughter? Well, she's now in her early 20s and a CSI in training and she's very eager to help with the big case. 
+> Remember Lindsey, Catherine Willows' daughter? Well, she's now in her early 20s and a CSI in training and she's very eager to help with the big case.
 
-I would guess that Lindsey is the 'replacement' for Nick, since George bowed out of the finale. Now I wonder <em>which</em> Lindsey (remember, they recast her).
+I would guess that Lindsey is the 'replacement' for Nick, since George bowed out of the finale. Now I wonder _which_ Lindsey (remember, they recast her).
 
 And finally....
 

@@ -22,7 +22,7 @@ tags:
     - tv
 ---
 
-Is it just me, or didn't we used to complain that Catherine and Sara never got GOOD episodes together?  Today we get Jorja, Marg <em>and</em> Elliot freakin' Gould (whom I absolutely adore).
+Is it just me, or didn't we used to complain that Catherine and Sara never got GOOD episodes together?  Today we get Jorja, Marg _and_ Elliot freakin' Gould (whom I absolutely adore).
 
 <a href="https://jorjafox.net/gallery/tv/csi/pub/s11/stills/1102-poolshark002.jpg"><img class="ZenphotoPress_thumb " alt="Episode 02 - Pool Shark" title="Episode 02 - Pool Shark" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s11/stills/1102-poolshark002_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/tv/csi/pub/s11/stills/1102-poolshark003.jpg"><img class="ZenphotoPress_thumb " alt="Episode 02 - Pool Shark" title="Episode 02 - Pool Shark" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s11/stills/1102-poolshark003_200_cw200_ch200_thumb.jpg"  /></a> <a href="https://jorjafox.net/gallery/tv/csi/pub/s11/stills/1102-poolshark001.jpg"><img class="ZenphotoPress_thumb " alt="Episode 02 - Pool Shark" title="Episode 02 - Pool Shark" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s11/stills/1102-poolshark001_200_cw200_ch200_thumb.jpg"  /></a>
 

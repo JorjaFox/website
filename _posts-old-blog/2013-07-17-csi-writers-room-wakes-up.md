@@ -26,7 +26,7 @@ I like the mix of iPads and paper.
 
 https://twitter.com/csiwritersroom/status/357565829061148672
 
-Wait. <em>Clues</em>? This could be fun!
+Wait. _Clues_? This could be fun!
 
 https://twitter.com/csiwritersroom/status/357577613251850241
 
@@ -34,7 +34,7 @@ https://twitter.com/csiwritersroom/status/357577613251850241
 
 https://twitter.com/csiwritersroom/status/357581846890024960
 
-Well we're devoted to <em>something</em>. Maybe not CSI for some of us as much as Sara Sidle...
+Well we're devoted to _something_. Maybe not CSI for some of us as much as Sara Sidle...
 
 And then they asked about our fav CSI episodes...
 

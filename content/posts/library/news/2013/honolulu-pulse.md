@@ -71,4 +71,3 @@ Asked what she learned from working on "Lion Ark," Fox said, "Anything is possib
 The Hawaiian Humane Society has teamed up with Animal Defenders International to promote "Lion Ark" at HIFF. For more on efforts to improve conditions for captive or domesticated animals here in Hawaii, go to hawaiianhumane.org.
 
 [...]
-

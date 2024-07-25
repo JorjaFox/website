@@ -24,4 +24,4 @@ Credit: <a href="http://www.usatoday.com/life/tv/story/2012/09/14/more-of-falls-
 
 So take it with a grain of salt.
 
-FWIW: They're not breaking up Grissom and Sara. Both Billy and Jorja are too fond of the character's relationships for that to happen. And don't pin your hopes on a geek-baby, guys, we've been told <em>many</em> times that won't be happening.
+FWIW: They're not breaking up Grissom and Sara. Both Billy and Jorja are too fond of the character's relationships for that to happen. And don't pin your hopes on a geek-baby, guys, we've been told _many_ times that won't be happening.

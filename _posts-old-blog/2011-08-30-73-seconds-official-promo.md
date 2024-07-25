@@ -25,6 +25,6 @@ A lot can happen in 73 seconds.  We're Jorja light, but ...
 
 [vimeo]http://vimeo.com/28373687[/vimeo]
 
-<del>I was going to hold off on posting this until I could get a version <em>I</em> could watch.  My office now blocks cbs.com/video so ... I've not seen this yet!  As soon as it's up online for everyone, I'll swap the video out.</del>
+<del>I was going to hold off on posting this until I could get a version _I_ could watch.  My office now blocks cbs.com/video so ... I've not seen this yet!  As soon as it's up online for everyone, I'll swap the video out.</del>
 
 Okay! Un-locked! Now viewable by all nations!

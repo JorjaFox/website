@@ -7,7 +7,7 @@ permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
-newstitle: "&#8216;CSI' Jorja Fox Q&A: &#8216;I'm hoping for a Sara, Grissom reunion'  "
+newstitle: "'CSI' Jorja Fox Q&A: 'I'm hoping for a Sara, Grissom reunion'  "
 newsauthor: Morgan Jeffery
 newssource: Digital Spy
 newsurl: http://www.digitalspy.com/tv/interviews/a459941/csi-jorja-fox-qa-im-hoping-for-a-sara-grissom-reunion.html
@@ -16,7 +16,7 @@ newsurl: http://www.digitalspy.com/tv/interviews/a459941/csi-jorja-fox-qa-im-hop
 
 
 
-*CSI* returns to UK screens early next week - Channel 5 will begin airing season 13, which kicks off with thrill-packed premiere &#8216;Karma to Burn', this coming Tuesday. After the events of the season 12 finale, the *CSI* team find themselves in crisis, but must overcome the odds to rescue Russell's granddaughter and bring the kidnappers to justice.
+*CSI* returns to UK screens early next week - Channel 5 will begin airing season 13, which kicks off with thrill-packed premiere 'Karma to Burn', this coming Tuesday. After the events of the season 12 finale, the *CSI* team find themselves in crisis, but must overcome the odds to rescue Russell's granddaughter and bring the kidnappers to justice.
 
 To mark the show's triumphant return, **Digital Spy** spoke with *CSI* star **Jorja Fox** - who plays Sara Sidle - to get all the scoop on the new season, the show's future and the possibility of a Sara / Grissom reunion...
 
@@ -32,7 +32,7 @@ To mark the show's triumphant return, **Digital Spy** spoke with *CSI* star **Jo
 
 "To have three new characters in such a short period of time, it almost feels like we're doing a completely new show, but with all the perks of having done a show for such a long time - the people that you trust, the short-hand and the collaboration.
 
-"So it's been an amazing season - season 12 and season 13 so far have been some of the most fun seasons I've ever been a part of - and yes, you're absolutely right to use the world &#8216;stable'. I would say &#8216;stable' maybe for the first time!
+"So it's been an amazing season - season 12 and season 13 so far have been some of the most fun seasons I've ever been a part of - and yes, you're absolutely right to use the world 'stable'. I would say 'stable' maybe for the first time!
 
 "Even before cast members began departing, there was always something exciting that would shake up the show at least once a year so, knock on wood, I've been enjoying that feeling [of stability].
 
@@ -44,7 +44,7 @@ To mark the show's triumphant return, **Digital Spy** spoke with *CSI* star **Jo
 
 "It's something that we've tended to avoid often in the past - we'd maybe do this kind of stuff every ten episodes, or once a season - but we're getting to the core and the heart of the matter with season 13, so I hope everybody enjoys it."
 
-**Episode seven &#8216;Fallen Angels' also contains nods to the past and to the character of Warrick Brown - what can you reveal about that?**
+**Episode seven 'Fallen Angels' also contains nods to the past and to the character of Warrick Brown - what can you reveal about that?**
 
 "It was a tough one to shoot, because I miss Gary Dourdan every day. It's funny - he's been gone for a long time and I still miss him on the show. I miss his character, I miss his energy - so it was hard to go back.
 
@@ -81,4 +81,3 @@ To mark the show's triumphant return, **Digital Spy** spoke with *CSI* star **Jo
 "We've reached a place with the show where we pretty much get picked up for one season at a time and that's okay - it's always been a pleasant surprise to find out that we were going to go another year. I think that we're certainly one of the grandparents of TV right now in the States - if we were a person, we'd have our little cane and hearing aid and that's a very nice place to be in!"
 
 [...]
-

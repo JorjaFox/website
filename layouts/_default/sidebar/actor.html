@@ -53,7 +53,7 @@
                 {{ if $station }}<li class="list-group-item">{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
                 {{ if .Params.imdb }}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{ end }}
                 {{ if .Params.episodelist }}<li class="list-group-item">
-                    <a href="/library/actor/{{ .File.TranslationBaseName }}-episodes/">List of Appearances</a>
+                    <a href="/library/recaps/{{ .File.TranslationBaseName }}/">List of Appearances</a>
                     {{ if or $seasons $episodes}}
                         <br /><small>(
                             {{ if $seasons }}{{$seasons}} season{{ if gt $seasons "1" }}s{{end}}{{ end }}

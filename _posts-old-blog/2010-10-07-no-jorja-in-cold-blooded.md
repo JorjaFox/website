@@ -24,12 +24,12 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/10/coldblooded-100x100.jpg" alt="" title="coldblooded" width="100" height="100" class="alignleft size-thumbnail wp-image-2633" /> Updated list. CBS is making some changes, so after this I will only be posting when Jorja <em>is</em> going to be in an episode.
+<img src="//static.jorjafox.net/wordpress/2010/10/coldblooded-100x100.jpg" alt="" title="coldblooded" width="100" height="100" class="alignleft size-thumbnail wp-image-2633" /> Updated list. CBS is making some changes, so after this I will only be posting when Jorja _is_ going to be in an episode.
 
 &bull; 233 (1104)	"Blood Moon" - October 07, 2010
 &bull; 234 (1103)	"Sqweegel" - October 14, 2010
-&bull; 235 (1106) "House of Hoarders" - October 21, 2010 <em>NO JORJA</em>
-&bull; 236 (1105)	"Cold-Blooded" - October 28, 2010 <em>NO JORJA</em>
+&bull; 235 (1106) "House of Hoarders" - October 21, 2010 _NO JORJA_
+&bull; 236 (1105)	"Cold-Blooded" - October 28, 2010 _NO JORJA_
 
 <blockquote> "Cold Blooded" - When a college student ends up dead after a "Walking with Dinosaurs" show, the CSIs must determine if his death was murder or accidental, on CSI: CRIME SCENE INVESTIGATION, Thursday, Oct. 28 (9:00-10:00 PM, ET/PT) on the CBS Television Network.  Actress Katee Sackhoff ("Battlestar Galactica") guest stars as Detective Frankie Reed, a tough, smart officer who assists the CSIs on a missing persons case.
 

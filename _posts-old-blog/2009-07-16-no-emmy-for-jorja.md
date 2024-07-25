@@ -49,15 +49,15 @@ tags:
 Outstanding Guest Actress In A Drama Series
 
 **Grey's Anatomy** &#8226; **No Good At Saying Sorry (One More Chance)** &#8226; **ABC** &#8226; **ABC Studios**
-Sharon Lawrence, <em>as Robbie Stevens</em>
+Sharon Lawrence, _as Robbie Stevens_
 
 **Law &amp; Order: Special Victims Unit** &#8226; **Swing** &#8226; **NBC** &#8226; **Wolf Films in association with Universal Media Studios**
-Ellen Burstyn, <em>as Bernadette Stabler</em>
+Ellen Burstyn, _as Bernadette Stabler_
 
 **Law &amp; Order: Special Victims Unit** &#8226; **Persona** &#8226; **NBC** &#8226; **Wolf Films in association with Universal Media Studios**
-Brenda Blethyn, <em>as Linnie Malcolm/Caroline Cantwell</em>
+Brenda Blethyn, _as Linnie Malcolm/Caroline Cantwell_
 
 **Law &amp; Order: Special Victims Unit** &#8226; **Ballerina** &#8226; **NBC** &#8226; **Wolf Films in association with Universal Media Studios**
-Carol Burnett, <em>as Bridget "Birdie" Sulloway</em>
+Carol Burnett, _as Bridget "Birdie" Sulloway_
 
-**The No. 1 Ladies' Detective Agency** &#8226; **The Boy With The African Heart** &#8226; **HBO** &#8226; **Mirage Enterprises and Cinechicks in association with The Weinstein Company, BBC and HBO Entertainment**CCH Pounder, <em>as Mrs. Curtin</em></blockquote>
+**The No. 1 Ladies' Detective Agency** &#8226; **The Boy With The African Heart** &#8226; **HBO** &#8226; **Mirage Enterprises and Cinechicks in association with The Weinstein Company, BBC and HBO Entertainment**CCH Pounder, _as Mrs. Curtin_</blockquote>

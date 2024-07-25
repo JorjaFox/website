@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-**Notice** - This is a day CSI <em>may</em> get bumped!
+**Notice** - This is a day CSI _may_ get bumped!
 <blockquote>**CBS Sunday, Dec. 21 and 28 (Football Doubleheaders)**
 8:30-9:30 PM, ET/8:00-9:00 PM, PT UNDERCOVER BOSS
 9:30-10:30 PM, ET/9:00-10:00 PM, PT THE MENTALIST

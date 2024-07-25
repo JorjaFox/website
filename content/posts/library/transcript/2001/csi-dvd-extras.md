@@ -22,7 +22,7 @@ tags: ["2001"]
 
 [...]
 
-**Jorja Fox** I can only say that my biggest concern about being so excited to do the show was the day to day of being in the gore and how I deal with that, you know, like &#8216;would that be fun' or would that be like I wasn't quite sure and... I think it's going to be... okay, you know, I still know like if there's something particularly disturbing I probably will skip lunch until we shoot it, finish it.
+**Jorja Fox** I can only say that my biggest concern about being so excited to do the show was the day to day of being in the gore and how I deal with that, you know, like 'would that be fun' or would that be like I wasn't quite sure and... I think it's going to be... okay, you know, I still know like if there's something particularly disturbing I probably will skip lunch until we shoot it, finish it.
 
 [...]
 

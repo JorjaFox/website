@@ -63,4 +63,3 @@ Outside CSI, Jorja flexes her creative muscles with her side project Honeypot Pr
 While the theatre work is an exciting string to her bow, Jorja maintains she is happy to stay with CSI and can't wait to start work on the seventh season.
 
 "I would have thought after two or three years I would have been bored of the character. But it's still a great feeling to know I'm going back."
-

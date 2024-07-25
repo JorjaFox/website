@@ -21,7 +21,7 @@ tags:
     - 'social media'
 ---
 
-<a href="https://jorjafox.net/2010/facebook-rumors-are-unconfirmed/facebook-qs/" rel="attachment wp-att-2511"><img src="//static.jorjafox.net/wordpress/2010/07/facebook-qs-100x100.png" alt="" title="facebook-qs" width="100" height="100" class="alignleft size-thumbnail wp-image-2511" /></a> I know there are rumors running around Facebook right now that Jorja has "signed on for all of season 11."  Those are just what you think they are: <em>rumors</em>.
+<a href="https://jorjafox.net/2010/facebook-rumors-are-unconfirmed/facebook-qs/" rel="attachment wp-att-2511"><img src="//static.jorjafox.net/wordpress/2010/07/facebook-qs-100x100.png" alt="" title="facebook-qs" width="100" height="100" class="alignleft size-thumbnail wp-image-2511" /></a> I know there are rumors running around Facebook right now that Jorja has "signed on for all of season 11."  Those are just what you think they are: _rumors_.
 
 We should expect Jorja to be back next season, but right now it would be wildly presumptuous to say if it's for the whole season or not.
 

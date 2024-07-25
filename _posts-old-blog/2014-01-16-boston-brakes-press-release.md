@@ -17,7 +17,7 @@ tags:
     - 'press release'
 ---
 
-Jorja is <em>not</em> in this episode.
+Jorja is _not_ in this episode.
 <blockquote>THE CSIs ARE CALLED TO INVESTIGATE A CAR CRASH AND ARE SHOCKED TO DISCOVER THE VICTIM IS SOMEONE THEY KNOW, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, JAN. 22
 
 <img class="aligncenter size-full wp-image-9705" alt="Boston Brakes" src="//static.jorjafox.net/wordpress/2014/01/4a47a0db6e60853dedfcfdf08a5ca249.png" width="600" height="400" />

@@ -20,7 +20,7 @@ tags:
 
 https://www.facebook.com/jorja.fox.545/posts/367002523434460
 
-<em>Lion Ark</em> is opening for a week long run in Los Angeles on November 15 to the 21st. You can get tickets from the venue at <a href="http://www.laemmle.com/theaters/4">Laemmle</a> directly.
+_Lion Ark_ is opening for a week long run in Los Angeles on November 15 to the 21st. You can get tickets from the venue at <a href="http://www.laemmle.com/theaters/4">Laemmle</a> directly.
 
 In addition? There's a VIP screening at the Aidikoff Screening Room on Rodeo Drive, Friday the 15th, at 6:3pm. Tickets are $500.... let me quote:
 <blockquote>Tickets are $500 and include a wonderful opportunity to hear about the rescue plans and enjoy a very special Hollywood Executive style screening with sparkling wine, vegan food and celebrity guests including Bob Barker, Jorja Fox, Kate Linder, Tonya Kay and Mindy Sterling.</blockquote>

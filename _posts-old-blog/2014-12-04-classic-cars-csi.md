@@ -23,13 +23,13 @@ From Episode #16:
 
 https://twitter.com/waldeckvision/status/540304428578770944
 
-Wonder if the car did it. I heard they're remaking <em>Route 66</em>.
+Wonder if the car did it. I heard they're remaking _Route 66_.
 
 Also I missed this one two weeks ago (thank you, Instagram and your lack of alerts) from Ep #14 or #15 (Hero To Zero)
 
 http://instagram.com/p/vpUPQ6oRbW/
 
-And I'm <em>pretty</em> sure that's Jorja in the back right:
+And I'm _pretty_ sure that's Jorja in the back right:
 
 http://instagram.com/p/vpjeBdIRS2/
 

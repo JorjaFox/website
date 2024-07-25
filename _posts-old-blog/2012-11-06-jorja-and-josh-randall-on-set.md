@@ -33,7 +33,7 @@ https://twitter.com/adevinegal/status/265906243523186688
 
 Well now. That's going to be interesting.
 
-<em>Edited to add:</em>
+_Edited to add:_
 
 From Shane
 

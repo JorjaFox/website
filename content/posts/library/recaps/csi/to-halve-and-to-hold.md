@@ -56,4 +56,3 @@ Meg (the bride-to-be) confesses to having consensual sex with the victim and the
 - - -
 
 **Sara:** This is the vagina, and it does tell a monologue.
-

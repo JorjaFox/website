@@ -16,18 +16,16 @@ A Mama's Boys Prods. release of a Taggart Transcontinental and Managed Passion F
 
 Directed by Gregory Ruzzin. Screenplay, Fred Dresch, Ron Ratliff, based on the novel by Lynn Scott Myers. Camera (FotoKem color), Robert Smith; supervising editors, Stephen Myers, Andrew Frank; music, Larry Brown; music supervisor, Spencer Proffer; production designer, Timothy Duffy; costumes, Katie Saunders; sound (Dolby), David Schaaf; supervising sound editor, Tim Kimmel; line producer, Jim Glander; assistant director, Jonathan Southard; casting, Peggy Larson. Reviewed at the Avco Cinema, L.A., Nov. 13, 1999. MPAA Rating: PG-13. Running time: 93 MIN.
 
-<PRE><br />
-     Hannibal Youngblood     Candice Azzara<br />
-     Harold Spinner          Michael Des Barres<br />
-     Delmar Youngblood       Jorja Fox<br />
-     Missy Bainbridge        Katherine Kendall<br />
-     Hortense                Suzanne Mara<br />
-     Jethro Youngblood       Peter Murnik<br />
-     Moses Grady             Bill Nunn<br />
-     Stanley Diggers         Paul Provenza<br />
-     Marlon                  David Shackelford<br />
-     Mr. Ringold             W. Morgan Sheppard<br />
-</PRE>
+* Hannibal Youngblood - Candice Azzara
+* Harold Spinner - Michael Des Barres
+* Delmar Youngblood - Jorja Fox
+* Missy Bainbridge - Katherine Kendall
+* Hortense - Suzanne Mara
+* Jethro Youngblood - Peter Murnik
+* Moses Grady - Bill Nunn
+* Stanley Diggers - Paul Provenza
+* Marlon - David Shackelford
+* Mr. Ringold - W. Morgan Sheppard
 
 The Hungry Bachelors Club" is a low-cal affair in which none of the ingredients are properly measured and the final dish is nothing to give thanks for. Self-styled romantic comedy offers few if any laughs, with only a happy (albeit ridiculous) ending making pica "comedy" in literary sense of the word. Ultra-soft approach to a quasi-Altmanesque tale featuring numerous characters in a Southern city severely throttles any B.O. potential for the project, which understandably lured no distribs.
 
@@ -39,7 +37,7 @@ Typical of story's arch notions is character of Jethro, who explains to new budd
 
 Before pic's 93 minutes are up, wads of distracting, tragic backstory are unleashed about Missy, Moses and Jethro, with characters instantly bonding in ways that defy life and good dramatics. Even Delmar and Moses' eventual link-up comes too easily, and the restaurant opening and Delmar's pregnancy go without the least bit of struggle.
 
-With their pic dramatically walking in its sleep, filmmakers attempt an 11th-hour resuscitation by injecting a nonsensical flurry of plot conflicts in final minutes, including the birth of Delmar's baby, which all are shocked to see is mixed race, meaning that Moses is the father &#8212; which is logically and chronologically impossible.
+With their pic dramatically walking in its sleep, filmmakers attempt an 11th-hour resuscitation by injecting a nonsensical flurry of plot conflicts in final minutes, including the birth of Delmar's baby, which all are shocked to see is mixed race, meaning that Moses is the father - which is logically and chronologically impossible.
 
 Stronger thesps may have punched up flat material, but the actors here are undone by the flabby script. It should be Fox's movie, and though she's robbed of much screen time, ex-"ER" thesp doesn't generate much rooting interest in an indifferent perf. The usually strong Nunn wastes his time in a part that goes nowhere. Only Kendall generates some true moments of passing emotion.
 

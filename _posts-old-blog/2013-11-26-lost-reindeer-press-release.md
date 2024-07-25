@@ -17,7 +17,7 @@ tags:
     - 'press release'
 ---
 
-Before we get into this... Jorja <em>is not</em> in this episode. That makes the third episode this season she's not in.
+Before we get into this... Jorja _is not_ in this episode. That makes the third episode this season she's not in.
 
 You can keep up with what episodes Jorja is and is not in at the <a href="https://jorjafox.net/wiki/CSI:_Crime_Scene_Investigation_(season_14)">CSI: Crime Scene Investigation (season 14)</a> page. Stars with a line through them are episodes that have not yet aired, and as such, aren't graded, but are expected to have Jorja present. All grey stars is zero stars, and Jorja's not in the episode.
 <blockquote>THE CSI TEAM IS BROUGHT IN TO INVESTIGATE THE DEATH OF A MAN AT AN ELABORATE HOLIDAY PARTY, ON “CSI: CRIME SCENE INVESTIGATION,” WED., DEC. 11

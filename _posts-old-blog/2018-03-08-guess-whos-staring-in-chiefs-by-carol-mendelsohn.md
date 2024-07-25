@@ -20,7 +20,7 @@ tags:
 
 Seriously. I squeed.
 
-<em>Chiefs</em> is about three successful police chiefs in different precincts in L.A. County. Jorja will be Vicky, the Santa Monica Chief of Police. They rewrote the role <em>for her</em>.
+_Chiefs_ is about three successful police chiefs in different precincts in L.A. County. Jorja will be Vicky, the Santa Monica Chief of Police. They rewrote the role _for her_.
 <blockquote>Stubborn and uncompromising, Vicky’s a bull in a china shop. She’s tough and focused — the type of person you’d pick to win in a fight. The mother of a 15-year-old and happily married to a software consultant, she is devoted to her family and to her job.
 
 -- <a href="http://deadline.com/2018/03/jorja-fox-cast-chiefs-cbs-pilot-csi-reunion-carol-mendelsohn-cbs-1202319808/">Deadline</a></blockquote>

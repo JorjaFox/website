@@ -3,7 +3,7 @@ id: 2072
 title: 'Sara Sidles in (Semi)-permanently (updated)'
 date: '2009-10-14T18:28:14-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Wednesday? Check. Ausiello news? Check. Ausiello **GOOD** news!? That''s right, Jorja''s sticking around for the foreseeable future.  You may commence the celebration. <em>Updated 10/14 at 11pm CT & 10/15 at 10:30am CT</em>'
+excerpt: 'Wednesday? Check. Ausiello news? Check. Ausiello **GOOD** news!? That''s right, Jorja''s sticking around for the foreseeable future.  You may commence the celebration. _Updated 10/14 at 11pm CT & 10/15 at 10:30am CT_'
 layout: post
 guid: 'https://jorjafox.net/?p=2072'
 permalink: /2009/sara-sidles-in-semi-permanently/
@@ -43,16 +43,16 @@ Michael Ausiello and Jorja fans are frenemies.  Most of us don't like him all th
 
 Well today he gave us this.
 
-<blockquote>Exec producer Carol Mendelsohn confirms to me exclusively that Jorja Fox’s five-episode comeback has been extended <em>indefinitely</em>.</blockquote>
+<blockquote>Exec producer Carol Mendelsohn confirms to me exclusively that Jorja Fox’s five-episode comeback has been extended _indefinitely_.</blockquote>
 
-That's right.  Jorja is sticking by <em>CSI</em> for a while. How long a while? An unknown while, but a while.
+That's right.  Jorja is sticking by _CSI_ for a while. How long a while? An unknown while, but a while.
 
 <blockquote>The exact number of episodes that Fox will appear in is still being worked out, but Mendelsohn says it’s substantially more than five. “From our point of view, the more the better,” she says. “As many episodes as we can have Jorja for we want her for.”</blockquote>
 
 Credit: <a href="http://ausiellofiles.ew.com/2009/10/14/exclusive-jorja-fox-makes-her-csi-return-more-permanent/">Ausiello Files</a>
 
-<em>Updated 10/14 at 11pm CT</em>
+_Updated 10/14 at 11pm CT_
 <a href="http://ausiellofiles.ew.com/2009/10/14/ask-ausiello-spoilers-on-ncis-house-greys-csi-and-more/">Ask Ausiello confirms Sara was off in Paris last week</a>
 
-<em>Updated 10/15 at 10:30am CT</em>
+_Updated 10/15 at 10:30am CT_
 <a href="http://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx">TV Guide is happy too!</a>

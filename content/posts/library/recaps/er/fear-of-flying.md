@@ -36,11 +36,11 @@ A dying Patrick Brazil is brought in by his caregiver, who explains to Jeanie an
 **Jeanie:** Can you do us a favor? We have a patient who wants to be cryogenically preserved
 **Maggie:** We've gotta freeze a dead guy.
 
-<hr>
+---
 
 **Maggie:** There you go, Mr. Brazil. Shrimp cocktail time.
 
-<hr>
+---
 
 **Maggie:** Is he a doctor?
 **Jeanie:** I don't think so. What should be do?

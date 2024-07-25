@@ -26,7 +26,7 @@ tags:
     - 'press release'
 ---
 
-October 20th (2 weeks) we have the third episode of <em>CSI: Vegas</em>
+October 20th (2 weeks) we have the third episode of _CSI: Vegas_
 
 <blockquote class="wp-block-quote">“Under the Skin” – Grissom and Sara’s investigation into charges against David Hodges heats up as Internal Affairs joins the hunt. Also, pressure rises for the CSIs when a video game developer’s body is found floating in a fountain before a huge gaming tournament, on CSI: VEGAS, Wednesday, Oct. 20 (10:00-11:00 PM, ET/PT) on the CBS Television Network, and available to stream live and on demand on Paramount+.<cite>CBS</cite></blockquote>
 

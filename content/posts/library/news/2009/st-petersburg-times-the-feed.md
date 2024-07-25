@@ -28,11 +28,10 @@ Fox's Sara Sidle is due back for five episodes next season. With the TV critics'
 
 Frankly, I think the show's big mistake was making Fishburne's character come in as a junior member of the CSI team, pretending he was just another member of the ensemble. The only way to make that character really interesting was to spend some time with him; instead, the show's supporting characters were used to carry more of the stories, leading to some boring stuff.
 
-Fox may be the most unlikely, ambivalent network TV star since *ER*&#8216;s **Anthony Edwards**. Will her return be enough to juice a show which seems to be slipping into old age doldrums?
+Fox may be the most unlikely, ambivalent network TV star since *ER*'s **Anthony Edwards**. Will her return be enough to juice a show which seems to be slipping into old age doldrums?
 
 Will producers juice Fishburne's role enough to make the character interesting again? Or is this all just a setup for Petersen to come back during November sweeps?
 
 Questions worthy of a CSI episode. Here's hoping producers figure a way to answer them in a way that saves the show.
 
 [...]
-

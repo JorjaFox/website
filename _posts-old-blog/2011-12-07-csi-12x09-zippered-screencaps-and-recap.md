@@ -19,7 +19,7 @@ tags:
     - recap
 ---
 
-<img class="alignleft size-medium wp-image-4097" title="zippered-recap" src="//static.jorjafox.net/wordpress/2011/12/zippered-recap-230x153.jpg" alt="" width="230" height="153" />It's a <em>very</em> generous three stars for Sara on this one, but mostly because she used science on this one.  Four scenes, two short, three with science goodness, one with snark.  It could be a lot worse.
+<img class="alignleft size-medium wp-image-4097" title="zippered-recap" src="//static.jorjafox.net/wordpress/2011/12/zippered-recap-230x153.jpg" alt="" width="230" height="153" />It's a _very_ generous three stars for Sara on this one, but mostly because she used science on this one.  Four scenes, two short, three with science goodness, one with snark.  It could be a lot worse.
 <ul>
 	<li><a href="https://jorjafox.net/gallery/tv/csi/season12/zippered/">Screencaps are up in the gallery for Zippered</a></li>
 	<li><a href="https://jorjafox.net/wiki/Zippered">Recap is up on the Wiki for Zippered</a></li>

@@ -24,10 +24,10 @@ tags:
 
 **Official Release**
 
-Russell asks for advice from a former colleague on a case involving the death of a man’s ex-girlfriend. Elisabeth Shue joins the cast of <em>CSI</em> as CSI Julie Finlay.
+Russell asks for advice from a former colleague on a case involving the death of a man’s ex-girlfriend. Elisabeth Shue joins the cast of _CSI_ as CSI Julie Finlay.
 
 **Videos**
 
 http://www.youtube.com/watch?v=JH5MVH-eXUw
 
-<em>Recap and screencaps will be up Wednesday night or Thursday morning, if Jorja's in it.</em>
+_Recap and screencaps will be up Wednesday night or Thursday morning, if Jorja's in it._

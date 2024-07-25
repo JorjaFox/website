@@ -3,7 +3,7 @@ id: 3061
 title: 'CSI 11&#215;13 "The Two Mrs. Grissoms" Discussion Post (Updated)'
 date: '2011-02-03T09:00:00-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Two Mrs walk into a room, only one survives! It''s a Grissom vs Grissom smackdown on tonight''s CSI, with a side of Mr. Grissom.  You heard me.  He''s here for one night only. <em>Updated with screencaps and a recap</em>'
+excerpt: 'Two Mrs walk into a room, only one survives! It''s a Grissom vs Grissom smackdown on tonight''s CSI, with a side of Mr. Grissom.  You heard me.  He''s here for one night only. _Updated with screencaps and a recap_'
 layout: post
 guid: 'https://jorjafox.net/?p=3061'
 permalink: /2011/csi-11x13-the-two-mrs-grissoms/
@@ -39,7 +39,7 @@ http://vimeo.com/19339907
 http://vimeo.com/19499869
 
 <h3>Recap</h3>
-<del datetime="2011-02-04T04:31:37+00:00"><em>Coming Soon!</em></del>
+<del datetime="2011-02-04T04:31:37+00:00">_Coming Soon!_</del>
 
 I .. I ... Right.  So yeah. There's that.  Watch this. 5 stars, no questions asked, and I'm going to go watch it again.  This time without having to pay attention for recapping.
 

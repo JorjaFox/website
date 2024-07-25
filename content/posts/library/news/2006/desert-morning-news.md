@@ -20,7 +20,7 @@ Jorja Fox said that when she auditioned for the role of Sara, the "tiny little c
 
 And the idea of bringing them together has been kicked around, debated and fought about for six seasons.
 
-"There have been raging debates in the writers' room since season one about Sara's relationship with Grissom pre-Las Vegas &#8212; what actually happened in San Francisco," said executive producer Carol Mendelsohn. "And the room is fairly divided and has been over the seasons. I happen to think that they were intimate in San Francisco, but not intimate once they got to Las Vegas, at least in the beginning.
+"There have been raging debates in the writers' room since season one about Sara's relationship with Grissom pre-Las Vegas - what actually happened in San Francisco," said executive producer Carol Mendelsohn. "And the room is fairly divided and has been over the seasons. I happen to think that they were intimate in San Francisco, but not intimate once they got to Las Vegas, at least in the beginning.
 
 "And since I'm the show runner, I won the debate."
 
@@ -38,7 +38,7 @@ Mendelsohn said she's been told the split on the Sara-Gil romance has been about
 
 The fact that fans are reacting as strongly as they are is a good sign either way, the thinking goes.
 
-"When you've got a split that is that significant, all you can really do is to kind of just tell what you feel passionate about and hope that people go on the road with you," Fox said. "But it is really exciting, yeah, and scary, because then you step out into these storylines and you're like &#8212; what if they go badly? There is an element of safety sometimes with sticking with the hair fibers and the flies."
+"When you've got a split that is that significant, all you can really do is to kind of just tell what you feel passionate about and hope that people go on the road with you," Fox said. "But it is really exciting, yeah, and scary, because then you step out into these storylines and you're like - what if they go badly? There is an element of safety sometimes with sticking with the hair fibers and the flies."
 
 The feeling among the writers and producers seems to be that the time had come to play the Gil-Sara romance card.
 
@@ -57,4 +57,3 @@ The good news is that, in addition to a seemingly endless supply of gruesome mur
 "I think one of the greatest gifts of being on this show is that we're starting our seventh year, and there's still so many intimate stories that we could tell about these characters," Fox said. "I think it's pretty rare for a show to be on for seven seasons and hopefully you still want to know more about the people than you do."
 
 [...]
-

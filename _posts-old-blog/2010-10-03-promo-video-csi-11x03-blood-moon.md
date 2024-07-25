@@ -1,6 +1,6 @@
 ---
 id: 2623
-title: 'Promo Video &#8212; CSI 11&#215;03: Blood Moon'
+title: 'Promo Video - CSI 11&#215;03: Blood Moon'
 date: '2010-10-03T13:00:05-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Howling mad or blood lust?  Or should that be Team Edward or Team Jacob?'

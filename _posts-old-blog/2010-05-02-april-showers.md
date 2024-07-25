@@ -29,7 +29,7 @@ tags:
 <img src="//static.jorjafox.net/wordpress/2010/05/aprilshowers-100x100.jpg" alt="" title="aprilshowers" width="100" height="100" class="alignleft size-thumbnail wp-image-2376" /> I know.  Ads suck, but if you click on the ones that catch your attention, you're helping make sure I don't have to ask for money! Isn't that nice? I thought so too! Also, if you buy through the Amazon.com links off this site, I get a small percentage back (so get yer blue-rays through JFO!). Finally, if you're interested in putting your own ads up here, please visit <a href="https://www.projectwonderful.com/">Project Wonderful</a>. If you have an idea for alternative ad-free solutions, let me know.
 
 <h2>CSI</h2>
-CBS played an interesting run-around, moving CSI to 10pm for one night. Then hey had online promos saying it would be on 10pm for the next week, but changed their minds and never bothered to edit the online promos and just pushed the on-tv ones (which was stupid if you ask me). 
+CBS played an interesting run-around, moving CSI to 10pm for one night. Then hey had online promos saying it would be on 10pm for the next week, but changed their minds and never bothered to edit the online promos and just pushed the on-tv ones (which was stupid if you ask me).
 
 On the plus side, they did announce when the finale would air (May 20th), and Michael Ausiello spoiled two things: <a href="https://jorjafox.net/blog/ask-ausiellos-csi-spoilers/">Jorja's in the finale, which is two parts, and the finale is a 'To Be Continued' episode</a>. DUN DUN DUN!
 
@@ -47,7 +47,7 @@ We had a handful of miscellaneous <a href="https://jorjafox.net/blog/news-roundu
 The photogs caught candids of <a href="https://jorjafox.net/blog/jorja-and-marg-at-lax/">Jorja and Marg at LAX</a> early in the month, and reporter <a href="http://twitter.com/DaynaRoselli/statuses/11877840154">Dayna Roselli</a> told us CSI was filming in Las Vegas the day after. Coincidence? I think not!
 
 <h2>JFO News</h2>
-Reaching out to some of the actors in <em>3 Weeks to Daytona</em> got us a short Q&A with <a href="https://jorjafox.net/blog/quick-chat-with-alicia-dupuis/">Alicia Dupuis</a> (who, alas, did not get to act with Jorja or Rip Torn!).
+Reaching out to some of the actors in _3 Weeks to Daytona_ got us a short Q&A with <a href="https://jorjafox.net/blog/quick-chat-with-alicia-dupuis/">Alicia Dupuis</a> (who, alas, did not get to act with Jorja or Rip Torn!).
 
 Also, the ability to subscribe to comments via email has been enabled. The catch? You have to be posting a comment.  The way I see it, you don't care about comments unless you're looking for replies, so from now on, when you post a comment, you get the ability to check the little tick box below to "Notify [you] via email when new comments are added to this post!"  Magic!
 

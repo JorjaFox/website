@@ -33,4 +33,3 @@ Meanwhile, Sara and Grissom have to examine a grisly corpse whose head has been 
 Jorja hopes to pen an episode in season seven, which starts filming this autumn. "Part of the deal is that I have to work with a group of writers," she says. "It'll be a learning experience."
 
 "I'm really excited about next season."
-

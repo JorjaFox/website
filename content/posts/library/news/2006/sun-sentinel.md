@@ -22,7 +22,7 @@ Who knew?
 
 Actually, Fox did. Given that the series has been almost all business, it might seem the detour into romance is a reaction to the move of *Grey's Anatomy* into the Thursday-night-at-9 time slot this fall. Not so, Fox said; this has been in the works since the very beginning six years ago.
 
-"In this tiny little character description that you get when you're trying out for a show, it suggested that she was a love interest for Gil Grissom," Fox said. "Being that it was there, along with other little strange things &#8212; she could drink anybody under the table and had some social problems &#8212; I was very intrigued and sort of had been gearing up from the beginning of the show that this might happen."
+"In this tiny little character description that you get when you're trying out for a show, it suggested that she was a love interest for Gil Grissom," Fox said. "Being that it was there, along with other little strange things - she could drink anybody under the table and had some social problems - I was very intrigued and sort of had been gearing up from the beginning of the show that this might happen."
 
 Even after the decision to go ahead had been made, there were fine points to be worked out. "There have been raging debates in the writers' room since season one about Sara's relationship with Grissom pre-Las Vegas. What actually happened in San Francisco [where both previously worked]?" executive producer Carol Mendelsohn said.
 
@@ -37,4 +37,3 @@ Fan approval seems to be running about 60-40 in favor. Even those who disagree f
 "That's this season," Fox countered. "Billy and I have been working out all summer."
 
 She was kidding. However, if *Grey's Anatomy* proves to be a really tough competitor, you never know.
-

@@ -33,11 +33,11 @@ Twofer!
 
 TV Line has a <a href="https://tvline.com/2021/10/25/csi-vegas-sara-grissom-video-episode-4/">sneak peek</a>, where Sara is urging Gil to keep the faith.
 
-<blockquote class="wp-block-quote">Sara and Grissom can hear the clock tick-tick-ticking this week on CBS’ <a href="http://tvline.com/tag/csi-vegas"><em>CSI: Vegas</em></a>, as they labor to prove Hodges’ innocence amid assorted mounting pressures.For one, Detective Nora Cross (played by Kat Foster) and her Internal Affairs team this week begin questioning Sara and Gil (played by Jorja Fox and William Petersen) about their semi-official returns to the Las Vegas crime lab. But also, Hodges’ trial is now looming on the horizon, and his former colleagues have yet to zero in on who is behind the frame job.</blockquote>
+<blockquote class="wp-block-quote">Sara and Grissom can hear the clock tick-tick-ticking this week on CBS’ <a href="http://tvline.com/tag/csi-vegas">_CSI: Vegas_</a>, as they labor to prove Hodges’ innocence amid assorted mounting pressures.For one, Detective Nora Cross (played by Kat Foster) and her Internal Affairs team this week begin questioning Sara and Gil (played by Jorja Fox and William Petersen) about their semi-official returns to the Las Vegas crime lab. But also, Hodges’ trial is now looming on the horizon, and his former colleagues have yet to zero in on who is behind the frame job.</blockquote>
 
 <h2>"Funhouse" Details</h2>
 
-I have to say, this does <em>not</em> look fun.
+I have to say, this does _not_ look fun.
 
 <blockquote class="wp-block-quote">“Funhouse” – Max puts CSI on lockdown when evidence in a new murder tips Grissom and Sara to a new suspect in the crime lab. Also, Folsom and Allie investigate a series of chilling killings at a dilapidated clown-themed hotel, on the CBS Original series CSI: VEGAS, Wednesday, Nov. 10 (10:00-11:00 PM, ET/PT) on the CBS Television Network, and available to stream live and on demand on Paramount+.</blockquote>
 

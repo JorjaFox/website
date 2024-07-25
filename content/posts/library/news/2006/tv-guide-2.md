@@ -14,13 +14,12 @@ newsurl: http://tvguide.com
 
 ---
 
-**Question:** OK, we've been waiting for six years. Is something going to happen between Grissom and Sara on CSI before the end of this season? &#8212; Cindy
+**Question:** OK, we've been waiting for six years. Is something going to happen between Grissom and Sara on CSI before the end of this season? - Cindy
 
-**Ausiello:** Does sexual subtext qualify as "something" in your book? Because you're gonna get heaps of it in the May 4 episode when someone with unbelievable powers of perception picks up on the heat between G-S &#8212; and promptly calls them on it.
+**Ausiello:** Does sexual subtext qualify as "something" in your book? Because you're gonna get heaps of it in the May 4 episode when someone with unbelievable powers of perception picks up on the heat between G-S - and promptly calls them on it.
 
 [...]
 
-**Question:** Enough Lost and Grey's Anatomy spoilers already! Tell me something about CSI! &#8212; Elaina
+**Question:** Enough Lost and Grey's Anatomy spoilers already! Tell me something about CSI! - Elaina
 
 **Ausiello:** The person who calls Grissom and Sara on their suppressed feelings would know a thing or two about romantic longing: He/she specializes in fantasy fulfillment.
-

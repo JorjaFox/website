@@ -24,9 +24,8 @@ Measures that could see an end to elephants, lions, tigers, monkeys and bears to
 
 [...]
 
-Known to 73 million CSI viewers as Sara Sidle, today **Jorja Fox** said: <em"It is time to say that elephants should not be kept in chains nor lions, tigers, bears and monkeys in small cages on the backs of trucks. This Bill has the potential to eradicate considerable animal suffering and I believe it will be embraced by Americans."</em>
+Known to 73 million CSI viewers as Sara Sidle, today **Jorja Fox** said: <em"It is time to say that elephants should not be kept in chains nor lions, tigers, bears and monkeys in small cages on the backs of trucks. This Bill has the potential to eradicate considerable animal suffering and I believe it will be embraced by Americans."_
 
 [...]
 
 n the coming months Members of Congress will be urged to sign the Bill. Jorja Fox concluded: *"Everyone now has a chance to end this suffering, people should contact their Member of Congress today urging them to sign the Bill. It's a practical and reasonable measure to protect animals. Don't take no for an answer."*
-

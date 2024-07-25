@@ -38,6 +38,6 @@ And who do we get on Wednesday, Sept. 25: 10:00 PM, ET / 7:00 PM, PT for CSI: CR
 
 [caption id="attachment_8382" align="alignnone" width="275"]<img class="size-thumbnail wp-image-8382" alt="Writer Chris Barbour (@CSIWritersRoom)" src="//static.jorjafox.net/wordpress/2013/09/x7z1svjyb4kxvtgwvpk4.jpeg" width="275" height="140" /> <a href="https://twitter.com/CSIWritersRoom">Writer Chris Barbour (@CSIWritersRoom)</a>[/caption]
 
-Chris Barbour wrote “The Two Mrs. Grissoms.” Which is why I'm posting this. Prep your <em>POLITE</em> questions.
+Chris Barbour wrote “The Two Mrs. Grissoms.” Which is why I'm posting this. Prep your _POLITE_ questions.
 
 All the details are posted in the <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=36631">Press Release</a>.

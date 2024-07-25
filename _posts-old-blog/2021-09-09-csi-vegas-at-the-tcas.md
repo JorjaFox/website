@@ -25,13 +25,13 @@ tags:
     - 'press release'
 ---
 
-If you're not familiar, the TCAs are the TV Critics' Association's upfront, where networks come to talk about what's coming and how cool it is. <em>CSI: Vegas</em> had a panel where they introduced the new trailer.
+If you're not familiar, the TCAs are the TV Critics' Association's upfront, where networks come to talk about what's coming and how cool it is. _CSI: Vegas_ had a panel where they introduced the new trailer.
 
 <h2>The Panel</h2>
 
 The panel included Jorja Fox, Paula Newsome, Matt Lauria, Mandeep Dhillon, Mel Rodriguez and EPs William Peterson, Anthony Zuiker, and Jason Tracey.
 
-21 years later, we get CSI again. This time, the actors weren't able to do ride-alongs, due to COVID, but everyone is excited. They do want to get more <em>CSI</em> vets back, but Petersen was excited about coming back, even though they were all a little out of date with the work. Jorja said she was more than a little rusty on all things science and just being on a set because of the pandemic.
+21 years later, we get CSI again. This time, the actors weren't able to do ride-alongs, due to COVID, but everyone is excited. They do want to get more _CSI_ vets back, but Petersen was excited about coming back, even though they were all a little out of date with the work. Jorja said she was more than a little rusty on all things science and just being on a set because of the pandemic.
 
 <blockquote class="wp-block-quote">The world is more topsy-turvy than it was in 2000. It's great to come back to Sara and Gil Grissom.<cite>-- Jorja Fox</cite></blockquote>
 

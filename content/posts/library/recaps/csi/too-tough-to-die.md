@@ -54,4 +54,3 @@ Sara goes to the hospital to tell the unconscious victim that they found the ass
 - - -
 
 **Sara:** I wish I was like you, Grissom. I wish I didn't feel anything.
-

@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-Another good episode. <em>CSI</em> has always done a decent job with kink. Interestingly, I'd watched <em>Kinky Boots</em> right before this episode...
+Another good episode. _CSI_ has always done a decent job with kink. Interestingly, I'd watched _Kinky Boots_ right before this episode...
 
 <img class="aligncenter size-large wp-image-11656" src="//jfo-static.net/wordpress/2014/11/vlcsnap-00109-900x506.jpg" alt="Sara and Morgan at the scene of the car dump" width="600" height="337" />
 

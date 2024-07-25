@@ -11,9 +11,7 @@
 {{ end }}
 
 {{ if eq $color "grey-star" }}
-    {{ $class = "text-light" }}
+    {{ $class = "text-secondary" }}
 {{ end }}
 
-{{ range ( seq $count ) }}
-	<span class="star-rating {{ $class }}">{{ partial "assets/icon.html" (dict "icon" "fas star") }}</span>
-{{ end }}
+{{ range ( seq $count ) }}<span class="star-rating {{ $class }}">{{ partial "assets/icon.html" (dict "icon" "fas star" "spacing" false) }}</span>{{ end }}

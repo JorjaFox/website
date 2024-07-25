@@ -3,7 +3,7 @@ id: 1939
 title: 'TV Guide has Jorja on their mind. Again.'
 date: '2009-08-04T18:52:48-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja talks a little about <em>CSI</em> and being on the other side of the law in <em>Drop Dead Diva</em>.'
+excerpt: 'Jorja talks a little about _CSI_ and being on the other side of the law in _Drop Dead Diva_.'
 layout: post
 guid: 'https://jorjafox.net/?p=1939'
 permalink: /2009/tv-guide-has-jorja-on-their-mind-again/

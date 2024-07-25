@@ -19,9 +19,9 @@ tags:
 
 At 4 pm ET, in Carnegie Hall, CBS will begin their upfronts.
 
-Does that mean we won't know about <em>CSI</em> beforehand? No. ABC is doing their upfronts on the 12th, but last night we found out that <em>Marvel's Agent Carter</em> got a season two pickup (yay!) while <em>Forever</em> died a final death (boo).
+Does that mean we won't know about _CSI_ beforehand? No. ABC is doing their upfronts on the 12th, but last night we found out that _Marvel's Agent Carter_ got a season two pickup (yay!) while _Forever_ died a final death (boo).
 
-It's really sucky, waiting. But if you think it's bad for <em>us</em> think about the hundreds of people who literally don't know if they'll have jobs and are waiting to find out. It's like a small company goes out of business every time this happens.
+It's really sucky, waiting. But if you think it's bad for _us_ think about the hundreds of people who literally don't know if they'll have jobs and are waiting to find out. It's like a small company goes out of business every time this happens.
 
 I think the odds are that we'll get a final, short order, season. If CBS has a soul. Which I don't think they do. I do think we'll find out today or this weekend, though. CBS has nothing to win by keeping it under wraps.
 

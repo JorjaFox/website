@@ -24,6 +24,6 @@ tags:
 
 Yeah, everyone at home said '90210 day?  Really?'
 
-<blockquote>HSUS President and CEO Wayne Pacelle will present special awards that night to [<em>The Big Bang Theory</em> actress Kaley] Cuoco as well as <em>Hot in Cleveland</em> star Wendi Malick, and <em>CSI: Crime Scene Investigation</em>’s Jorja Fox for their work on behalf of animals.</blockquote>
+<blockquote>HSUS President and CEO Wayne Pacelle will present special awards that night to [_The Big Bang Theory_ actress Kaley] Cuoco as well as _Hot in Cleveland_ star Wendi Malick, and _CSI: Crime Scene Investigation_’s Jorja Fox for their work on behalf of animals.</blockquote>
 
 Source: Beverly Hills Courier

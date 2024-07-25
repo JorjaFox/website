@@ -22,7 +22,7 @@ tags:
 
 First, it's episode #3,
 
-Second? They <em>are</em> quarantined!
+Second? They _are_ quarantined!
 
 http://twitter.com/LouisMilito/status/485503271843291136
 

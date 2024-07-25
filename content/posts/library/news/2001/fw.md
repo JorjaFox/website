@@ -16,9 +16,10 @@ Fresh for the fall and taking over living rooms across North America, FW brings 
 
 "Personally I would define success as the amount of joy or passion you have for what you are doing. If people are doing what they love or if it means a lot to them, then that really is successful and really blessed and lucky."
 
-**Jorja Fox**<br /> <BR />She has starred in three acclaimed TV series: **ER**, **The West Wing** and currently **CSI: Crime Scene Investigation**
+**Jorja Fox**
+
+She has starred in three acclaimed TV series: **ER**, **The West Wing** and currently **CSI: Crime Scene Investigation**
 
 11 movies, including last year's thriller, **Memento**
 
 Composed song 'Lullaby' for the 1998 movie **Traveling Companion**
-

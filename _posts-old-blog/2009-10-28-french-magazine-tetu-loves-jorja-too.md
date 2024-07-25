@@ -3,7 +3,7 @@ id: 2088
 title: 'French Magazine Têtu loves Jorja too!'
 date: '2009-10-28T14:50:24-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Têtu is a gay and lesbian magazine and website, and they too are delighted to have Jorja back on <em>CSI</em>.'
+excerpt: 'Têtu is a gay and lesbian magazine and website, and they too are delighted to have Jorja back on _CSI_.'
 layout: post
 guid: 'https://jorjafox.net/?p=2088'
 permalink: /2009/french-magazine-tetu-loves-jorja-too/
@@ -38,7 +38,7 @@ tags:
     - magazine
 ---
 
-<a href="//static.jorjafox.net/wordpress/2009/10/tetu.jpg"><img src="//static.jorjafox.net/wordpress/2009/10/tetu-100x100.jpg" alt="tetu" title="tetu" width="100" height="100" class="alignleft size-thumbnail wp-image-2089" /></a> Translated from French by <a href="http://twitter.com/nadiarichard">@nadiarichard</a>. An attempt was made to translate idioms for native English speakers but .. well, there's often a lot lost in translation!  And for the record, 'butch' means the same in French as it does in English.  They think Sara's a lesbian.  So do the girls at <a href="http://afterellen.com">AfterEllen</a>.  The article probably makes a little more sense in French, but we've done the best we can (I took Latin in school, and the most French I know I learned by watching Eddie Izzard and my <em>Blazing Saddles</em> DVD in French just for kicks).
+<a href="//static.jorjafox.net/wordpress/2009/10/tetu.jpg"><img src="//static.jorjafox.net/wordpress/2009/10/tetu-100x100.jpg" alt="tetu" title="tetu" width="100" height="100" class="alignleft size-thumbnail wp-image-2089" /></a> Translated from French by <a href="http://twitter.com/nadiarichard">@nadiarichard</a>. An attempt was made to translate idioms for native English speakers but .. well, there's often a lot lost in translation!  And for the record, 'butch' means the same in French as it does in English.  They think Sara's a lesbian.  So do the girls at <a href="http://afterellen.com">AfterEllen</a>.  The article probably makes a little more sense in French, but we've done the best we can (I took Latin in school, and the most French I know I learned by watching Eddie Izzard and my _Blazing Saddles_ DVD in French just for kicks).
 
 <blockquote>The hair style, the vibes she send when she walks in a room, the displeased look, the sheriff star on her sleeveless vest, the leather jacket, the boots, the hands in her pockets, to add, the gun and that she uses a few judo moves on a suspect who wants nothing to do with her, is a bonus.</blockquote>
 

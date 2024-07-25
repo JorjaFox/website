@@ -3,7 +3,7 @@ id: 2012
 title: 'State of the Union — September'
 date: '2009-09-30T18:13:46-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Spoilers, award shows, CSI: The Experience openings, Animal Acres and something else. What was that ... Oh yeah! The return of Sara Sidle on <em>CSI</em>.'
+excerpt: 'Spoilers, award shows, CSI: The Experience openings, Animal Acres and something else. What was that ... Oh yeah! The return of Sara Sidle on _CSI_.'
 layout: post
 guid: 'https://jorjafox.net/?p=2012'
 permalink: /2009/state-of-the-union-september/
@@ -39,13 +39,13 @@ tags:
 **CSI**
 Let's start big. You up for that?
 
-Okay! So we got Sara Sidle back!  Wow. I really didn't see that coming, since Billy wasn't there anymore, but stranger things have happened.  What did you think about the episode? See also: <a href="https://jorjafox.net/2009/09/24/csi-10x01-family-affair-recap-and-images/">10x01 "Family Affair" discussion post</a> -- Episode 10x02 airs <em>tomorrow night</em>, but that's October and this is September.  We did get a lot of cute little promos, and there was rampant speculation about that 'smudge' on Sara's left hand which was either edited in or edited out (depending on which GSR camp you're in).  In the end, the truth won out and the spoiler was determined to be true.  Sara and Grissom were married.
+Okay! So we got Sara Sidle back!  Wow. I really didn't see that coming, since Billy wasn't there anymore, but stranger things have happened.  What did you think about the episode? See also: <a href="https://jorjafox.net/2009/09/24/csi-10x01-family-affair-recap-and-images/">10x01 "Family Affair" discussion post</a> -- Episode 10x02 airs _tomorrow night_, but that's October and this is September.  We did get a lot of cute little promos, and there was rampant speculation about that 'smudge' on Sara's left hand which was either edited in or edited out (depending on which GSR camp you're in).  In the end, the truth won out and the spoiler was determined to be true.  Sara and Grissom were married.
 
-Of course, most of us knew that beforehand.  On Tuesday the 22nd, People Magazine broke the news with a video of <a href="https://jorjafox.net/2009/09/22/jorja-fox-reveals-shocking-news-on-csi/">Catherine and Sara talking about baseball and marriage</a>.  Then TV Guide (.com, not the magazine) put up their MegaBuzz saying <a href="https://jorjafox.net/2009/09/22/tvguide-coms-mega-buzz-scoop-on-csi/">Sara was finding it hard to be a housewife</a>.  So by the time we got to Thursday, people were ready.  Then again, on Wednesday, TV Guide Magazine published their article with<a href="https://jorjafox.net/2009/09/23/jorjas-the-coolest-chick-on-the-planet-tv-guide-magazine/"> Jorja and Marg answering questions we sent in</a>!  Apparently life does revolve around the idea of <em>CSI: The Musical</em>.
+Of course, most of us knew that beforehand.  On Tuesday the 22nd, People Magazine broke the news with a video of <a href="https://jorjafox.net/2009/09/22/jorja-fox-reveals-shocking-news-on-csi/">Catherine and Sara talking about baseball and marriage</a>.  Then TV Guide (.com, not the magazine) put up their MegaBuzz saying <a href="https://jorjafox.net/2009/09/22/tvguide-coms-mega-buzz-scoop-on-csi/">Sara was finding it hard to be a housewife</a>.  So by the time we got to Thursday, people were ready.  Then again, on Wednesday, TV Guide Magazine published their article with<a href="https://jorjafox.net/2009/09/23/jorjas-the-coolest-chick-on-the-planet-tv-guide-magazine/"> Jorja and Marg answering questions we sent in</a>!  Apparently life does revolve around the idea of _CSI: The Musical_.
 
-Also, Jorja made it out to Vegas for the opening of <a href="https://jorjafox.net/gallery/pub/csi/20090912-csilv/">CSI: The Experience (gallery link)</a> at the MGM Grand, <em>and</em> she and other cast members took part in <a href="https://jorjafox.net/2009/09/01/jorja-and-the-cast-of-csi-join-events-of-the-heart/">Events of the Heart</a> to promote healthy heart awareness for women.
+Also, Jorja made it out to Vegas for the opening of <a href="https://jorjafox.net/gallery/pub/csi/20090912-csilv/">CSI: The Experience (gallery link)</a> at the MGM Grand, _and_ she and other cast members took part in <a href="https://jorjafox.net/2009/09/01/jorja-and-the-cast-of-csi-join-events-of-the-heart/">Events of the Heart</a> to promote healthy heart awareness for women.
 
-I don't know about you, but I'm ready for a break! So maybe it's good that Jorja's not going to be in the first five <em>CSI</em> episodes.  She's not in episode #3 (which airs October 8th). There's a brief <a href="https://jorjafox.net/2009/09/30/confirmed-sara-sidle-apperances/">list of confirmed appearances</a> up, but it's subject to change.  Such as I think she may actually be in the crossover episode, but I'm not certain. If your head is spinning, you're not alone.
+I don't know about you, but I'm ready for a break! So maybe it's good that Jorja's not going to be in the first five _CSI_ episodes.  She's not in episode #3 (which airs October 8th). There's a brief <a href="https://jorjafox.net/2009/09/30/confirmed-sara-sidle-apperances/">list of confirmed appearances</a> up, but it's subject to change.  Such as I think she may actually be in the crossover episode, but I'm not certain. If your head is spinning, you're not alone.
 
 **Advocacy**
 Due to the massive fires in the LA area, Animal Acres <a href="https://jorjafox.net/2009/09/02/animal-acres-gala-postponed">gala was postponed</a> to Sept 12th, which was the same weekend as the Las Vegas opening of CSI: The Experience.  In the end, Jorja did not make it out to the Gala.
@@ -53,7 +53,7 @@ Due to the massive fires in the LA area, Animal Acres <a href="https://jorjafox.
 She did make it to the <a href="https://jorjafox.net/2009/09/23/jorja-speaks-out-against-puppy-mills/">NSF and GQ Join Forces To Stop Puppy Mills Humane Society Benefit</a> on September 22nd, though.
 
 **Radio Star**
-Jorja also made time to visit various radio shows.  On the 23rd, she was on <a href="https://jorjafox.net/2009/09/26/jorja-fox-guest-dj-on-kcrw/">KCRW as a Guest DJ</a>, spinning five of her favorite songs.  Then on the 24th, she went to <a href="https://jorjafox.net/2009/09/24/breaking-news-jorja-on-the-kevin-and-bean-show-this-morning/">KROQ to talk about the <em>CSI</em> premiere</a> later that day.
+Jorja also made time to visit various radio shows.  On the 23rd, she was on <a href="https://jorjafox.net/2009/09/26/jorja-fox-guest-dj-on-kcrw/">KCRW as a Guest DJ</a>, spinning five of her favorite songs.  Then on the 24th, she went to <a href="https://jorjafox.net/2009/09/24/breaking-news-jorja-on-the-kevin-and-bean-show-this-morning/">KROQ to talk about the _CSI_ premiere</a> later that day.
 
 **News Roundup!**
 In an effort to start making things easier for you, I've consolidated the news.  How?  Well, it's still sorted by year, but on the year page, you can now just go to <a href="https://jorjafox.net/wiki/News_Articles_%282009%29#September">September 2009</a>.  That should help!

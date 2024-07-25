@@ -23,4 +23,3 @@ It deals with a bunch of kids that end up in a cult, and a spaceship is supposed
 **A BULLET RUNS THROUGH IT NOV. 10, 2005**
 
 I love the idea of all these different communities and their perception of events that have a little bit to do with how they see the world and what happened. And we have to piece it together just purely through the evidence, which is sort of the bible of our show, not taking any of those opinions to heart, to find out the truth of the situation. And that's so prevalent right now - people jump very quickly to conclusions about all types of things, from politics to their own neighborhoods.
-

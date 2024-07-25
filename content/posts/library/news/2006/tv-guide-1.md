@@ -37,4 +37,3 @@ newsurl: http://tvguide.com
 **Will you be in it?** I wish I had the talent to do musical theater. I'd put together a band and go on the road. We do have a lunchtime jam band on the *CSI* set, though. Lots of crew people are in it. Gary Dourdan [Warrick] plays a mean guitar and bass. Robert David Hall [Dr. Robbins] plays guitar. Marg Helgenberger [Catherine] plays piano.
 
 **Is any of this jamming going to show up on *CSI*?** I have been pushing an all-musical *CSI* episode for five years. Grissom is in the lab and some chemical affects him badly and so this whole thing takes place in his head. While he's delirious, the show becomes a musical. Everybody would have to sing. Quite probably it would be the last episode ever.
-

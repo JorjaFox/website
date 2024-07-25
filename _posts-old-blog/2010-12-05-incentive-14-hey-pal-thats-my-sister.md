@@ -25,7 +25,7 @@ tags:
     - tv
 ---
 
-The boys think Connie's upset because they saw the guy in her wedding photos sucking face with a red-head at a bar.  Little do they know he's not her husband, he's her brother.  And Connie's actually upset because of a cancer scare.  It occurred to me, as I was capping this episode, that 1993 was around the time Jorja's mother's cancer diagnosis came through.  She died a mere five years later, while Jorja was working on <em>ER</em>.
+The boys think Connie's upset because they saw the guy in her wedding photos sucking face with a red-head at a bar.  Little do they know he's not her husband, he's her brother.  And Connie's actually upset because of a cancer scare.  It occurred to me, as I was capping this episode, that 1993 was around the time Jorja's mother's cancer diagnosis came through.  She died a mere five years later, while Jorja was working on _ER_.
 
 Click on the image below to see the whole gallery:
 <a href="https://jorjafox.net/gallery/tv/missingpersons/sister"><img src="//static.jorjafox.net/wordpress/2010/12/mysister-043.jpg" alt="" title="mysister-043" width="230" height="199" class="aligncenter size-full wp-image-2784" /></a>

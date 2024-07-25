@@ -31,4 +31,4 @@ You can read the whole interview at <a href="http://www.csifiles.com/content/201
 
 Also that picture of Daley and Fox is from the set of Sheltered, so we're right and tight that she's in this week's episode!
 
-<em>This post was written by a guest author filling in for Mika while on a long weekend break for holiday.</em>
+_This post was written by a guest author filling in for Mika while on a long weekend break for holiday._

@@ -21,5 +21,4 @@ Issue has come to a head in recent days following the Eye's decision to ax "CSI"
 
 Exec alluded to "certain veiled threats" from Eads' and Fox's reps about the actors "not showing up"; Moonves suggested those threats led to the thesps' dismissal. Both Moonves and Tellem seemed to indicate that asking for more coin is acceptable; threatening not to show up for work, on the other hand, is not. "A renegotiation without threats always works better for us," Moonves said.
 
-Moonves noted that CBS isn't able to tell actors four months into a contract that their services are no longer wanted &#8212; and then decline to pay out the rest of the contract. By not showing up to work, or not returning a letter promising to keep working during a renegotiation, Eads and Fox essentially said, "They don't want to work for us anymore," Moonves said.
-
+Moonves noted that CBS isn't able to tell actors four months into a contract that their services are no longer wanted - and then decline to pay out the rest of the contract. By not showing up to work, or not returning a letter promising to keep working during a renegotiation, Eads and Fox essentially said, "They don't want to work for us anymore," Moonves said.

@@ -6,7 +6,7 @@ layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
-newstitle: "TV Q&A: Did &#8216;CSI' star ever feel &#8216;Lonesome'?"
+newstitle: "TV Q&A: Did 'CSI' star ever feel 'Lonesome'?"
 newsauthor: Staff
 newssource: The Dallas Morning News
 newsurl: http://www.desertnews.com

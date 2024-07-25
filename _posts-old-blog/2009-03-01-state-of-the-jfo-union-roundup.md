@@ -56,4 +56,4 @@ The GSR communities are still the noisiest (they know I love 'em!) and <a href="
 
 I'm sure I'm missing some things, and hopefully I'll get better at these!
 
-<em>Updated at 8:52 for the extra dollar reported by Google and the extra $30 (before 'taxes') donated! **$300**, people! I'm in awe!</em>
+_Updated at 8:52 for the extra dollar reported by Google and the extra $30 (before 'taxes') donated! **$300**, people! I'm in awe!_

@@ -23,6 +23,7 @@ The station is on lockdown, but Russell is allowed to call Jim Brass so the shoo
 Russell is able to talk Powell down, but the cop he'd been planning the shooting with kills him as he surrenders. The CSIs are able to trace the emails to the computer used by Officer Dolan, but he didn't send them. Lt. Debra Hughes, who's husband (also an officer) was shot first. She'd had an affair with Dolan, and was a mentor to Powell, so she used him to clean up her messy life.
 
 ## Review
+
 Sara goes to the hospital to get evidence and information from the wounded. She spends most of the episode at the hospital, checking with the officers wounded, but also with Lt. Hughes. When the evidence points to Hughes as the mastermind, Sara's there to accuse and arrest her.
 
 ## Notes

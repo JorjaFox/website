@@ -22,7 +22,7 @@ tags:
 
 Today is the last day of filming, but instead of waiting until 8 PM or so Pacific to post, here's a roundup of things from later last night. There will be another post later today, and I'll have all the photos up on the Gallery.
 
-From the awesome <em>Shane Saunders</em>, who spent his last day on the set (and that couldn't happen to a nicer person):
+From the awesome _Shane Saunders_, who spent his last day on the set (and that couldn't happen to a nicer person):
 
 https://instagram.com/p/6lkxcZQGSA/
 
@@ -40,4 +40,4 @@ https://twitter.com/littmanji/status/634255111124979712
 
 Notice I left out two big names?
 
-Jorja and Billy <em>still aren't done</em>! Expect tears today. The WPAP and I are buying stock in Kleenex.
+Jorja and Billy _still aren't done_! Expect tears today. The WPAP and I are buying stock in Kleenex.

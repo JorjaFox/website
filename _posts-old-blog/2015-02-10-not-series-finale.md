@@ -23,9 +23,9 @@ https://twitter.com/sepinwall/status/565340684258140161
 
 Alan Sepinwall is a writer for HitFix.com and a verified Twitter account.
 
-<em>Yes</em>, there was a banner ad for the "series" finale of CSI during tonight's NCIS.
+_Yes_, there was a banner ad for the "series" finale of CSI during tonight's NCIS.
 
-<em>No</em>, it's not. Though someone may be getting fired.
+_No_, it's not. Though someone may be getting fired.
 
 CBS Rewteeted this:
 

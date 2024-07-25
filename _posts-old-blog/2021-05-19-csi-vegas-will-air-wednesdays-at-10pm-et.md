@@ -24,7 +24,7 @@ tags:
     - 'csi: vegas'
 ---
 
-CBS has released their new 2021-22 schedule and the time and date for <em>CSI: Vegas</em> is set at 10pm ET (9pm CT), on Wednesdays. We do not yet have the release DAY yet, but should soon.
+CBS has released their new 2021-22 schedule and the time and date for _CSI: Vegas_ is set at 10pm ET (9pm CT), on Wednesdays. We do not yet have the release DAY yet, but should soon.
 
 From the <a href="https://www.viacomcbspressexpress.com/cbs-entertainment/shows/csi-vegas/releases/view?id=57660">announcement</a>:
 

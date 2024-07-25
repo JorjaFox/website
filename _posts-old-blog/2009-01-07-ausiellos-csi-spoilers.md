@@ -33,9 +33,9 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/01/grissom-43x100.png" alt="Grissom" title="Grissom" width="43" height="100" class="alignleft size-thumbnail wp-image-1324" /> I know, I know. But this is important.  Grissom's final episode is going to run long, so pad your DVRs, VCRs, and whatever other recording equipment you've got by at <em>least</em> ten minutes.  Also, expect WP on the cover of Friday's EW magazine.
+<img src="//static.jorjafox.net/wordpress/2009/01/grissom-43x100.png" alt="Grissom" title="Grissom" width="43" height="100" class="alignleft size-thumbnail wp-image-1324" /> I know, I know. But this is important.  Grissom's final episode is going to run long, so pad your DVRs, VCRs, and whatever other recording equipment you've got by at _least_ ten minutes.  Also, expect WP on the cover of Friday's EW magazine.
 
-<blockquote>**Question: Any scoop on Grissom's last episode of <em>CSI</em>? -- Nicole**
-**Ausiello:** Just a tip: Set your DVR to record a few minutes past 10 pm on Jan. 15, just as a precaution. You do <em>not</em> want to miss the final scene. Trust me. Also, you'll want to pick up a copy of the new EW when it goes on sale this Friday. I think you'll fancy the cover subject.</blockquote>
+<blockquote>**Question: Any scoop on Grissom's last episode of _CSI_? -- Nicole**
+**Ausiello:** Just a tip: Set your DVR to record a few minutes past 10 pm on Jan. 15, just as a precaution. You do _not_ want to miss the final scene. Trust me. Also, you'll want to pick up a copy of the new EW when it goes on sale this Friday. I think you'll fancy the cover subject.</blockquote>
 
 Source: <a href="http://ausiellofiles.ew.com/2009/01/ask-ausiello-sp.html">EW.com</a>

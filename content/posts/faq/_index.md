@@ -65,4 +65,3 @@ Mostly advocacy work, a couple movies, you know, keeping busy.
 The story interested her, and she got to work with William Petersen again.
 
 ### What about ... ?
-

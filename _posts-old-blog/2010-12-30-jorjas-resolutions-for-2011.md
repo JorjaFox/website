@@ -31,7 +31,7 @@ This one's pretty self-contained, isn't it?
 
 [...]
 
-<em>Jorja Fox, star of the hit TV series CSI, has been a long-time supporter of The HSUS and our End Dogfighting campaign.</em>
+_Jorja Fox, star of the hit TV series CSI, has been a long-time supporter of The HSUS and our End Dogfighting campaign._
 
 [...]
 </blockquote>

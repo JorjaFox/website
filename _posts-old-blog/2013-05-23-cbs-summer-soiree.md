@@ -18,7 +18,7 @@ tags:
     - 'social media'
 ---
 
-I knew this was last night, and I was <em>so</em> freaking exhausted from my trip (the tl;dr is that my grandmother broke her leg and is in the hospital still), that I was passed out in bed at 8:45pm yesterday.
+I knew this was last night, and I was _so_ freaking exhausted from my trip (the tl;dr is that my grandmother broke her leg and is in the hospital still), that I was passed out in bed at 8:45pm yesterday.
 
 I feel more awake now, so let's all enjoy new pictures of the CBS 2013 Summer Soiree!
 

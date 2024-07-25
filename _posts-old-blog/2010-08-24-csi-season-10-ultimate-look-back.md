@@ -3,7 +3,7 @@ id: 2564
 title: 'CSI Season 10 Ultimate Look Back'
 date: '2010-08-24T07:56:19-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'CBS posted an ''ultimate look back'' on last season of <em>CSI</em>.  And the best news? Some promo monkey put some Sara in there for you. Oh and there''s a bonus for Season 11 in this post.'
+excerpt: 'CBS posted an ''ultimate look back'' on last season of _CSI_.  And the best news? Some promo monkey put some Sara in there for you. Oh and there''s a bonus for Season 11 in this post.'
 layout: post
 guid: 'https://jorjafox.net/?p=2564'
 permalink: /2010/csi-season-10-ultimate-look-back/
@@ -23,7 +23,7 @@ tags:
     - video
 ---
 
-CBS posted an 'ultimate look back' on last season of <em>CSI</em>.  And the best news? Some promo monkey put some Sara in there for you.
+CBS posted an 'ultimate look back' on last season of _CSI_.  And the best news? Some promo monkey put some Sara in there for you.
 
 <object width="480" height="270"><param name="movie" value="http://www.cbs.com/e/K2WcwFJbdPx9JlWKktvNMAETUXTlCFge/cbs/1/" /><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed width="480" height="270" src="http://www.cbs.com/e/K2WcwFJbdPx9JlWKktvNMAETUXTlCFge/cbs/1/" allowFullScreen="true" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></object>
 

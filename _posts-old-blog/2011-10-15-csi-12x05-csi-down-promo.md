@@ -24,4 +24,4 @@ tags:
 
 Now, before we get shafted like last week, <a href="https://jorjafox.net/2011/george-jorja-and-ted-on-set/">this photo is from that episode</a>.  So there. Now we know.
 
-And yes, I'm going to go have words with someone, cause I was told she <em>was</em> in "Maid Man."
+And yes, I'm going to go have words with someone, cause I was told she _was_ in "Maid Man."

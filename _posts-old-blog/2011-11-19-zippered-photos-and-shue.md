@@ -21,7 +21,7 @@ tags:
     - tv
 ---
 
-<a href="http://www.deadline.com/2011/11/csis-new-leading-lady-elisabeth-shue-to-replace-marg-helgenberger-on-cbs-series/">Elisabeth Shue  is the official replacement as lead for Marg Helgenberger</a> (and is a darling to some of us from the 80s - <em>Karate Kid</em> was the first drive in I ever saw).  This makes sense, she's an older (mature!) woman, she's an actress with weight, and it means Jorja gets to keep her bizarre part-time/full-time status like she enjoys.  If she's back next year (signs are good, but contracts won't be signed for another 8 months, so let's be patient).
+<a href="http://www.deadline.com/2011/11/csis-new-leading-lady-elisabeth-shue-to-replace-marg-helgenberger-on-cbs-series/">Elisabeth Shue  is the official replacement as lead for Marg Helgenberger</a> (and is a darling to some of us from the 80s - _Karate Kid_ was the first drive in I ever saw).  This makes sense, she's an older (mature!) woman, she's an actress with weight, and it means Jorja gets to keep her bizarre part-time/full-time status like she enjoys.  If she's back next year (signs are good, but contracts won't be signed for another 8 months, so let's be patient).
 
 Meanwhile, if that depresses you, as I'm sure it will for some, how about some pictures of the cast from the upcoming episode, "Zippered."  This airs December 7th, **not** in November.
 

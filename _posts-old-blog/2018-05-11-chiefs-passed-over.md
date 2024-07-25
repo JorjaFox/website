@@ -16,8 +16,8 @@ tags:
     - chiefs
 ---
 
-CBS has opted <em>not</em> to put <em>Chiefs</em> to series, making it a no-go for 2018-19.
+CBS has opted _not_ to put _Chiefs_ to series, making it a no-go for 2018-19.
 
 The pilot, which starred Alana de la Garza, Jorja Fox and Aunjanue Ellis, focused on three female police chiefs in California, who band together to create a task force and catch a serial killer.
 
-Oddly, CBS also passed on a <em>Cagney &amp; Lacey</em> reboot, but picked up <em>Magnum PI</em>. Well. Maybe it's not that odd
+Oddly, CBS also passed on a _Cagney &amp; Lacey_ reboot, but picked up _Magnum PI_. Well. Maybe it's not that odd

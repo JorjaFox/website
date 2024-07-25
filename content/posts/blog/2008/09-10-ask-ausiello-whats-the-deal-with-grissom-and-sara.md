@@ -18,7 +18,6 @@ It's Wednesday, and our favorite (hah) gossip monger is back.  This time it's so
 
 > **Question: So, you are one of the lucky privileged people who got to see the premiere of _CSI_ early.  What is the deal with Grissom-Sara? All of these interviews and articles make it sound like their relationship is in huge amounts of trouble. -- Sarah**
 >
-> **Ausiello:** I didn't see any signs of trouble in the first episode, but the hour isn't really about them; it's about Warrick. If anything, the one significant scene they _do_ share in the Oct. 9 opener is rather moving and, dare I say, hopeful.</blockquote>
-
+> **Ausiello:** I didn't see any signs of trouble in the first episode, but the hour isn't really about them; it's about Warrick. If anything, the one significant scene they _do_ share in the Oct. 9 opener is rather moving and, dare I say, hopeful.
 
 Source: EW's [Ask Ausiello](http://ausiellofiles.ew.com/2008/09/ask-ausiello--1.html)

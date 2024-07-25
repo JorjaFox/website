@@ -19,4 +19,3 @@ Jorja Fox, who plays gung-ho investigator Sara Sidel, said writers are thinking 
 The approach makes for some wonderful scenes. At the end of "If These Walls Could Talk," Grissom is leaving the office after finishing the long, gruesome case. On the way out, he grabs an apple from the break room and notices a half-finished crossword puzzle on the table. He stops for a moment, fills in a clue, then heads toward the door. Suddenly, he stops, sits down at the table and digs into the puzzle. The moment tells us more about Grissom's obsessive nature than eight pages of dialogue.
 
 [...]
-

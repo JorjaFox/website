@@ -22,21 +22,21 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2011/04/tv-married-100x100.jpg" alt="" title="tv-married" width="100" height="100" class="alignleft size-thumbnail wp-image-3284" /> I held off on posting this till Shane could confirm a couple more facts, but yeah.  Remember to go give <a href="http://shanessaunders.com">ShaneSSaunders.com</a> credit when you repost this, folks!  If you don't, bad karma will happen to you!
 
-Bear in mind none of this is set in stone yet, but here's what it looks like.  Contracts are signed in May-June, with filming starting in July normally.  Right now, <em> everyone </em>'s contract is being negotiated, so we're not going to know for sure for a month!  With that in mind, Shane talked to Christopher Barbour today to clear up rumors and truth.
+Bear in mind none of this is set in stone yet, but here's what it looks like.  Contracts are signed in May-June, with filming starting in July normally.  Right now, _ everyone _'s contract is being negotiated, so we're not going to know for sure for a month!  With that in mind, Shane talked to Christopher Barbour today to clear up rumors and truth.
 
 Today the rumors are:
 
-<em>RUMOR:</em> **Jorja Fox** is expected to return in some capacity.
-<em>FACT:</em> This is all my gut feeling.  I suspect it'll be similar to the same part-time/full-time capacity as she had in season 11 (that is, she will be listed as main cast, but not appear in every episode).
+_RUMOR:_ **Jorja Fox** is expected to return in some capacity.
+_FACT:_ This is all my gut feeling.  I suspect it'll be similar to the same part-time/full-time capacity as she had in season 11 (that is, she will be listed as main cast, but not appear in every episode).
 
-<em>RUMOR:</em> **William Petersen** will also come back for some episodes.  Certainly for Marg's last episode(s), but the total number isn't determined yet.
-<em>FACT:</em>  Well he won't be back for the season finale, but the rest is up in the air.  Marg's recent interview with **Télé Star** magazine (see: Marg Helgenberger: “Grissom Will Return to CSI”) certainly seems to think so!
+_RUMOR:_ **William Petersen** will also come back for some episodes.  Certainly for Marg's last episode(s), but the total number isn't determined yet.
+_FACT:_  Well he won't be back for the season finale, but the rest is up in the air.  Marg's recent interview with **Télé Star** magazine (see: Marg Helgenberger: “Grissom Will Return to CSI”) certainly seems to think so!
 
-<em>RUMOR:</em> **Marg Helgenberger** will be back for at least some episodes in some capacity.
-<em>FACT:</em> Yes, she will be back, but we don't know for how many eps or how long.
+_RUMOR:_ **Marg Helgenberger** will be back for at least some episodes in some capacity.
+_FACT:_ Yes, she will be back, but we don't know for how many eps or how long.
 
-<em>RUMOR:</em> **Laurence Fishburne** is being written off.
-<em>FACT:</em> He may not be there for the whole season.  That is, quite literally, all I know about that matter!
+_RUMOR:_ **Laurence Fishburne** is being written off.
+_FACT:_ He may not be there for the whole season.  That is, quite literally, all I know about that matter!
 
 That's what we have right now folks. Take a deep breath!
 

@@ -7,7 +7,7 @@ permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
-newstitle: "Behind The Scenes Of &#8216;CSI'  "
+newstitle: "Behind The Scenes Of 'CSI'  "
 newsauthor: Staff
 newssource: CBS News
 newsurl: http://www.cbsnews.com/
@@ -25,4 +25,3 @@ It's not only a tough job emotionally, the logistics of shooting "CSI" can also 
 "Certainly I think we've brought our competitive game," said Jorja Fox, who plays Sara Sidle. "I think that we still definitely want to win, you know. I want to win. Who doesn't want to win?"
 
 [...]
-

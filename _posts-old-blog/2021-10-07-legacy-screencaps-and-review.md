@@ -40,7 +40,7 @@ So! Here are my big thoughts:
 
 <ul><li>Brass being blind(ish), which we knew going in, makes the whole thing feel a lot more personal</li><li>Grissom only showing up to have the closing line was a chef-kiss perfection</li><li>Sara getting the pre-credits line (plus the new credits) was so much what I needed back on TV</li><li>I really like Hugo and Maxine, and I'm actually interesting in Hugo's paintings</li><li>Sara breaking the lock, gun or not, is peak Sara Sidle</li><li>Isn't the arm she hurt rolling on the same one she broke thanks to Natalie Davis?</li></ul>
 
-But of course ... <em>could</em> Hodges be the guy? I have to be honest folks... Yeah, I can totally see that.
+But of course ... _could_ Hodges be the guy? I have to be honest folks... Yeah, I can totally see that.
 
 A couple non-Sara screenshots of note:
 
@@ -50,4 +50,4 @@ The fact that it says "wedges of his shoes" is a shout out to us Wedges Shippers
 
 <figure class="wp-block-image size-large"><img src="https://static.jorjafox.net/wordpress/2021/10/Natalie-960x540.jpg" alt="" class="wp-image-18885"/></figure>
 
-Hodges <em>was</em> super into that case, wasn't he?
+Hodges _was_ super into that case, wasn't he?

@@ -33,4 +33,4 @@ http://instagram.com/p/XnJeB-sg5f/
 
 The Talk airs today at 2pm ET / 1pm PT &amp; CT on CBS.
 
-<em>This post was written by a guest author filling in for Mika while she's on a long weekend break for holiday.</em>
+_This post was written by a guest author filling in for Mika while she's on a long weekend break for holiday._

@@ -87,7 +87,7 @@ Okay so I know the very first question I'm going to get here is 'What's a recurr
 **Main Cast:** People who are in the credits.
 **Guest Cast: **Someone cast just for this episode or for multiple episodes, but with no plotline of their own (ie. most of the detectives on CSI)
 **Special Guest Cast: **A 'name' actor or an important role for the episode (Lady Heather or Catherine's ex, Eddie)
-**Recurring Cast:** Someone who's appeared in more than one episode in <em>unrelated </em>storylines, or has their own storyline.
+**Recurring Cast:** Someone who's appeared in more than one episode in _unrelated _storylines, or has their own storyline.
 
 Maggie Doyle, on ER, was recurring, for example.  Now, this does not mean that this is how it all ends up for Jorja back on CSI.  This just means that, right now, she's listed as Recurring.  This ep is still within the first five she was contracted for, so it has little to no bearing on her status in the next episodes.
 

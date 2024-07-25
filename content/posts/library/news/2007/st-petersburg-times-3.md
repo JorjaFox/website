@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "&#8216;CSI' fan says losing Sara would be a crime  "
+newstitle: "'CSI' fan says losing Sara would be a crime  "
 newsauthor: Eric Deggans
 newssource: St. Petersburg Times
 newsurl: http://www.sptimes.com/
@@ -41,7 +41,7 @@ That example has proved to be an inspiration and benchmark for Pierce and her cr
 
 The problem: All this effort may have come too late.
 
-Representatives of CBS and Fox won't comment on whether the actor is leaving the show, citing the need to avoid spoiling upcoming episodes. "The fans. . . &#8216;heart' Jorja Fox and so does everyone at "CSI" . . . although we've stopped short of sending her chocolate-dipped insects and cases of Lifesavers," wrote CSI executive producer Carol Mendelsohn in an e-mail to the St. Petersburg Times. "Sara Sidle will always be a part of "CSI"."
+Representatives of CBS and Fox won't comment on whether the actor is leaving the show, citing the need to avoid spoiling upcoming episodes. "The fans. . . 'heart' Jorja Fox and so does everyone at "CSI" . . . although we've stopped short of sending her chocolate-dipped insects and cases of Lifesavers," wrote CSI executive producer Carol Mendelsohn in an e-mail to the St. Petersburg Times. "Sara Sidle will always be a part of "CSI"."
 
 But "TV Guide" and "Entertainment Weekly" magazines have reported that Fox is leaving at the end of her contract. Fox and castmate George Eads were fired briefly in 2004, amid tough contract negotiations.
 
@@ -61,7 +61,7 @@ And Sidle's survival of a serial killer's attack this season after a kidnapping,
 
 Still, Pierce thrives on the unique community she has helped create.
 
-A user known as Committed wrote Oct. 8: "I'm shamelessly getting two of my kids involved in this campaign. . . . My 5-year-old picked up a cell phone and pretended to make a call; she said, &#8216;Hello, I don't want Sara to go.' . . . Should I worry that I'm dragging my young children down into my obsession?"
+A user known as Committed wrote Oct. 8: "I'm shamelessly getting two of my kids involved in this campaign. . . . My 5-year-old picked up a cell phone and pretended to make a call; she said, 'Hello, I don't want Sara to go.' . . . Should I worry that I'm dragging my young children down into my obsession?"
 
 "You become wrapped up in the characters . . . (and) it wouldn't be the same if you couldn't talk about it," said Andrea Dawkins, a 25-year-old computer programmer who helped Pierce build the Web site from her Raleigh, N.C., home. "Pretty much everyone knows Jorja Fox is leaving the show. But it makes people feel better that they're speaking out . . . letting CBS know this isn't going by unnoticed."
 

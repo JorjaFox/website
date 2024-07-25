@@ -3,7 +3,7 @@ id: 2408
 title: 'Strictly Ink Trading Cards'
 date: '2010-05-09T11:51:26-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Scans of some trading cards, made by <a href="http://strictlyink.com">Strictly Ink</a> of Jorja on <em>CSI</em>.'
+excerpt: 'Scans of some trading cards, made by <a href="http://strictlyink.com">Strictly Ink</a> of Jorja on _CSI_.'
 layout: post
 guid: 'https://jorjafox.net/?p=2408'
 permalink: /2010/strictly-ink-trading-cards/

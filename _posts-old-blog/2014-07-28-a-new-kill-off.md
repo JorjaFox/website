@@ -21,6 +21,6 @@ After acquiring a DVD copy of The Kill-Off, I went and took new, better, screens
 
 <a href="https://jorjafox.net/gallery/movies/kill-off/">The Kill-Off Gallery - 204 photos</a>
 
-<a href="https://jorjafox.net/gallery/movies/kill-off/"><img class="aligncenter size-large wp-image-11082" src="//static.jorjafox.net/wordpress/2014/07/killoff-204.jpg" alt="The Kill-Off" width="600" height="450" /></a>I'll see about video clips, but the movie is <em>really</em> dark and the quality is sketchy.
+<a href="https://jorjafox.net/gallery/movies/kill-off/"><img class="aligncenter size-large wp-image-11082" src="//static.jorjafox.net/wordpress/2014/07/killoff-204.jpg" alt="The Kill-Off" width="600" height="450" /></a>I'll see about video clips, but the movie is _really_ dark and the quality is sketchy.
 
 &nbsp;

@@ -18,7 +18,7 @@ tags:
     - 'site notice'
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/04/groups-100x100.jpg" alt="" width="150" height="150" class="alignleft size-thumbnail wp-image-33" /> Groups are BuddyPress Groups in this case, which are ... well, I want to just say 'They're <em>groups</em>!' and be done with it, but I'm sure someone will give me the stink eye.  BuddyPress defines them as "Powerful public, private or hidden groups allow your users to break the discussion down into specific topics."  Which I hope is enough to get your heads around the idea that a group on this site is like a 'subtopic' of JFO.
+<img src="//static.jorjafox.net/wordpress/2010/04/groups-100x100.jpg" alt="" width="150" height="150" class="alignleft size-thumbnail wp-image-33" /> Groups are BuddyPress Groups in this case, which are ... well, I want to just say 'They're _groups_!' and be done with it, but I'm sure someone will give me the stink eye.  BuddyPress defines them as "Powerful public, private or hidden groups allow your users to break the discussion down into specific topics."  Which I hope is enough to get your heads around the idea that a group on this site is like a 'subtopic' of JFO.
 
 And the question of the day is: Should I be in charge of defining all groups, or should you guys have free rein?
 

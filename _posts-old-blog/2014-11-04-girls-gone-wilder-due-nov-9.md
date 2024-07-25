@@ -29,13 +29,13 @@ The reason for the non-airing was football double headers. Personally I'm a base
 
 By now most of you have read The National Report's article that <a href="http://nationalreport.net/cbs-cancels-csi-crime-scene-investigation-will-return-mid-season-break/">CBS Cancels ‘CSI: Crime Scene Investigation'; Will Not Return After Mid-season Break</a>.
 
-They're not correct. There's no mid-season break, never was. <em>CSI</em> was always supposed to air all episodes straight through, and we already talked about why it was <a href="https://jorjafox.net/2014/short-order-csi-15/">scaled back to 18 episodes</a>.
+They're not correct. There's no mid-season break, never was. _CSI_ was always supposed to air all episodes straight through, and we already talked about why it was <a href="https://jorjafox.net/2014/short-order-csi-15/">scaled back to 18 episodes</a>.
 
 https://twitter.com/csiwritersroom/status/529427119277752321
 
 See? Not true.
 
-Is this the show's last season? It really depends on a couple things. First, how well is the uptick from the recent two ep postponement (which means please watch!) and second, <a title="Pissed About The Scheduling Drama?" href="https://jorjafox.net/2014/pissed-scheduling-drama/">do take the time to write in and tell CBS that you want CSI to stick around</a>. And let me stress, that national news site? It's the <em>only</em> one reporting on this. You really think TV|Line would miss out on that juicy news?
+Is this the show's last season? It really depends on a couple things. First, how well is the uptick from the recent two ep postponement (which means please watch!) and second, <a title="Pissed About The Scheduling Drama?" href="https://jorjafox.net/2014/pissed-scheduling-drama/">do take the time to write in and tell CBS that you want CSI to stick around</a>. And let me stress, that national news site? It's the _only_ one reporting on this. You really think TV|Line would miss out on that juicy news?
 
 https://twitter.com/csiwritersroom/status/529675589955756032
 

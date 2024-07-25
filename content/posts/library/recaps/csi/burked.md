@@ -41,4 +41,3 @@ Sara hands off 20 rolls of film to be processed, then finds an earring backing o
 - - -
 
 **Sara:** Listen to you. Would you rather hit a home run in the fourth or the bottom of the ninth?
-

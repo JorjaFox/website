@@ -20,4 +20,4 @@ tags:
 
 http://www.youtube.com/watch?v=rGCYhKcsENo
 
-Jorja <em>and</em> Katee Sackhoff?  They're really trying to make up for two episodes in a row without Jorja, aren't they?
+Jorja _and_ Katee Sackhoff?  They're really trying to make up for two episodes in a row without Jorja, aren't they?

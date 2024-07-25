@@ -20,7 +20,7 @@ tags:
 
 Without a whole lot of notice (thanks guys) the event date has changed to 9/16.
 
-That's <em>WEDNESDAY the 16th</em>
+That's _WEDNESDAY the 16th_
 
 Don't bother asking me about the details, I know nothing more than I've posted here. So while the Tweets and DMs and emails are always polite, you're going to get a lot of "I don't know." because I don't have any additional information.
 

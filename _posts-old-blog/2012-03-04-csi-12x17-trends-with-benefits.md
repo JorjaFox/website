@@ -19,7 +19,7 @@ tags:
     - 'press release'
 ---
 
-<img class="alignleft size-thumbnail wp-image-4392" title="Trends With Benefits" src="//static.jorjafox.net/wordpress/2012/03/101566_D0016b-210x140.jpeg" alt="Trends With Benefits" width="100" height="75" />Nothing new till March 14th, but we get "Trends with Benefits" then! Sadly, Jorja's <em>not</em> in it, but it should be interesting to see how they mangle up social networks. And remember, Brass Tweets.
+<img class="alignleft size-thumbnail wp-image-4392" title="Trends With Benefits" src="//static.jorjafox.net/wordpress/2012/03/101566_D0016b-210x140.jpeg" alt="Trends With Benefits" width="100" height="75" />Nothing new till March 14th, but we get "Trends with Benefits" then! Sadly, Jorja's _not_ in it, but it should be interesting to see how they mangle up social networks. And remember, Brass Tweets.
 <blockquote>THE CSIs MUST USE SOCIAL MEDIA TO TRACK DOWN THE KILLER OF A COLLEGE STUDENT, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, MARCH 14
 
 CHEAT TWEET: Forensic techniques always help but can social media must solve this case? 3/14 10pm ET/PT #CSI http://bit.ly/zKJlBi

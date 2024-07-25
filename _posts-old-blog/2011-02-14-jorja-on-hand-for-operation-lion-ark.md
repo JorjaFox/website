@@ -24,7 +24,7 @@ tags:
 
 Credit: <a href="http://eon.businesswire.com/news/eon/20110214007416/en/Animal-Defenders-International/ADI/Bob-Barker">Enhanced Online News</a>
 
-Maybe we can't be there, but we <em>can</em> help the lions too!  Donate to the JAA <a href="http://www.crowdrise.com/lionark/fundraiser/jorjafoxonline">ADI Crowdrise Fundraiser</a>.
+Maybe we can't be there, but we _can_ help the lions too!  Donate to the JAA <a href="http://www.crowdrise.com/lionark/fundraiser/jorjafoxonline">ADI Crowdrise Fundraiser</a>.
 
 There should be some photos of the event after the fact, so I'll post when I've got some.
 

@@ -20,7 +20,7 @@ tags:
 
 In this week's print issue of EW, Lynette Rice talked to the cast about saying goodbye to CSI:
 
-> Longtime faves William Petersen, Marg Helgenberger, Paul Guilfoyle, and Melinda Clarke r returned to the <em>CSI</em> set earlier this month to help wrap 15 seasons and more than 300 episodes of the CBS drama with the two-hour finale (Sept. 27). Newer stars, including Ted Danson and Elisabeth Harnois, team with the vets to investigate a catastrophic event that paralyzes all of Sin City, but the two-parter -- titled "Immortality, Parts I and II" -- also was one last excuse to reunite old friends. "It's been one of the most surreal times of my life, but it seemed like the most natural thing," says Jorja Fox. "It's been like <em>Groundhog Day</em>."
+> Longtime faves William Petersen, Marg Helgenberger, Paul Guilfoyle, and Melinda Clarke r returned to the _CSI_ set earlier this month to help wrap 15 seasons and more than 300 episodes of the CBS drama with the two-hour finale (Sept. 27). Newer stars, including Ted Danson and Elisabeth Harnois, team with the vets to investigate a catastrophic event that paralyzes all of Sin City, but the two-parter -- titled "Immortality, Parts I and II" -- also was one last excuse to reunite old friends. "It's been one of the most surreal times of my life, but it seemed like the most natural thing," says Jorja Fox. "It's been like _Groundhog Day_."
 
 For your own copy of the article, grab the EW with Lady Gaga on the cover. You can [buy EW directly here](http://backissues.ew.com/storefront/2015/American_Horror_Story_First_Look/prodEW20150904.html?tcmid=American_Horror_Story_First_Look&amp;link=1031621&amp;fpa_oc=EW+Back+Issue+Store) (and yes the online version works fine).
 

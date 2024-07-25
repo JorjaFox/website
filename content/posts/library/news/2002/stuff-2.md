@@ -33,5 +33,4 @@ Jorja had a role in the indie-film sensation Memento.
 
 "You're not going to ask me what my favorite dildo is or something?"
 
-"I think &#8216;Make love, not war' might be the most profound statement that's ever been made. If people were spending more time having sex, they'd be a lot less inclined to be violent."
-
+"I think 'Make love, not war' might be the most profound statement that's ever been made. If people were spending more time having sex, they'd be a lot less inclined to be violent."

@@ -24,7 +24,7 @@ tags:
     - video
 ---
 
-I've decided the only annoying thing about <em>Missing Persons</em> is the episode titles.  The rest of it's just stock standard TV for the day!  Anyway, <a href="http://allaboutmarg.com/wordp/">All About Marg</a>'s donation rewards you all with a video clip that should delight the Jorja fans, because yes, that is Jorja playing the piano in this scene!
+I've decided the only annoying thing about _Missing Persons_ is the episode titles.  The rest of it's just stock standard TV for the day!  Anyway, <a href="http://allaboutmarg.com/wordp/">All About Marg</a>'s donation rewards you all with a video clip that should delight the Jorja fans, because yes, that is Jorja playing the piano in this scene!
 
 http://www.youtube.com/watch?v=00G0Fa-j41Q
 

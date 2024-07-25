@@ -19,7 +19,7 @@ tags:
     - video
 ---
 
-Do you have iTunes?  Do you like free things?  Then head over and download **free** copies of some <em>CSI</em> episodes.
+Do you have iTunes?  Do you like free things?  Then head over and download **free** copies of some _CSI_ episodes.
 
 Which ones?  Oh, how about "Squeegel" and "House of Hoarders"?  Too bad it's not "The Two Mrs. Grissoms" but at least one of the episodes is Sara heavy!
 <blockquote>CBS Television Studios has kicked off Emmy campaign season by offering “for-your-consideration” episodes of hit shows in HD for free download on the iTunes Store.  Launching today on <a href="http://www.iTunes.com/CBSFYC">www.iTunes.com/CBSFYC</a> are four episodes of the critically acclaimed series “The Good Wife.” The roster of shows with free HD episodes available for download on iTunes will also include “Blue Bloods,” “Hawaii Five-0,” “NCIS,” “NCIS: Los Angeles,” “CSI,” “CSI: Miami,” “CSI: NY,” “Survivor” and “The Amazing Race,” to watch on your Mac or PC, iPad, iPhone, iPod touch or widescreen television with Apple TV.</blockquote>

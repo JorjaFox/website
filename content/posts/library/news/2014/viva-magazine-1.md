@@ -54,4 +54,3 @@ Fox says she has a love an appreciation for fashion, however she appreciates it 
 "I think as actors we sometimes forget to have an artistic hobby," says Fox who has played the guitar since age 12. "Music is more my story." If she were to write a tune about her life, what would the title be?
 
 "Lady Luck. I know it's been used before, but that's what I'd title my song." Nor Georgia On My Mind? "I've heard that thousands of time, especially growing up in the South. It's a song I love and I don't think I'd ever get tired of hearing it." Still, with Fox's success and a peaceful existence, Lady Luck seems more fitting.
-

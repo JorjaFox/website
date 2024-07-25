@@ -18,7 +18,7 @@ tags:
     - 'press release'
 ---
 
-If you didn't make any of the myriad showings of "<a href="http://www.howibecameanelephant.com/">How I Became an Elephant</a>" and are a little bummed out to have missed Jorja's first film production, you're in luck! The film is getting an <em>international</em> release (yes, you folks not in the US are not omitted this time)!
+If you didn't make any of the myriad showings of "<a href="http://www.howibecameanelephant.com/">How I Became an Elephant</a>" and are a little bummed out to have missed Jorja's first film production, you're in luck! The film is getting an _international_ release (yes, you folks not in the US are not omitted this time)!
 <blockquote>After multiple successful global tours, the award-winning documentary film How I Became an Elephant, is being released internationally through iTunes, Google Play, Distrify, and Amazon via streaming rental, download to own, and DVD sales.</blockquote>
 Credit: <a href="http://www.prweb.com/releases/2013/4/prweb10622627.htm">PR Web</a>
 

@@ -16,7 +16,6 @@ newsurl: http://www.instyle.com/instyle/read/ci/startalk/0,10285,167332,00.html
 
 **Jorja Fox**
 
-
 Actress, *CSI*
 
 "I have a cat ball in a plastic container with catnip and dog vitamins that look like sausages."

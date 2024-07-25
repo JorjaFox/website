@@ -26,4 +26,4 @@ On the Sara front, she had a decent amount of screentime in the front half of th
  	<li><a href="https://jorjafox.net/wiki/Dead_In_His_Tracks">Recap</a>: (3 of 5 stars)</li>
  	<li><a href="https://jorjafox.net/gallery/tv/csi/season14/22-dead">Screencaps</a>: 127 pictures</li>
 </ul>
-I'm <em>really</em> going to miss Paul. It's just painful.
+I'm _really_ going to miss Paul. It's just painful.

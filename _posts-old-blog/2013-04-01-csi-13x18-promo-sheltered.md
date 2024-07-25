@@ -22,4 +22,4 @@ http://www.youtube.com/watch?v=Uwq1cN_nyGE
 
 CSI 13x18 "Sheltered" - When the CSIs find a body near a forest reserve, they discover what might be a serial killer and his bizarre lair, on CSI: CRIME SCENE INVESTIGATION, Wednesday, April 3rd on CBS. Ted Danson's daughter, Kate Danson, guest stars as lawyer Jill McDermott.
 
-<em>This post was written by a guest author filling in for Mika while on a long weekend break for holiday.</em>
+_This post was written by a guest author filling in for Mika while on a long weekend break for holiday._

@@ -40,7 +40,7 @@ tags:
 
 And now a collection of news sites reporting on what we always knew. Jorja was on CSI last night.
 
-<blockquote>Sappy sendoff? Perhaps. Satisfying? You bet [...] I don't know if these two characters will go on to get hitched -- hell, I don't even know if they'll make it out of that jungle -- but this is exactly the payoff I wanted if I were going to have to accept a <em>CSI</em> without Petersen.</blockquote>
+<blockquote>Sappy sendoff? Perhaps. Satisfying? You bet [...] I don't know if these two characters will go on to get hitched -- hell, I don't even know if they'll make it out of that jungle -- but this is exactly the payoff I wanted if I were going to have to accept a _CSI_ without Petersen.</blockquote>
 Source: <a href="http://popwatch.ew.com/popwatch/2009/01/csi-william-pet.html">Lynette Rice - EW</a>
 
 <blockquote>When Fox left "CSI" last season, Shankar and executive producer Carol Mendelsohn always intended to bring her back for Grissom's exit.</blockquote>

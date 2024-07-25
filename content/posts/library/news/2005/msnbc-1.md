@@ -21,4 +21,3 @@ newsurl: http://msnbc.com
 **Gooey buns with a kick:** Sara discovers that one member of her dead couple was using gooey buns to transport cocaine. Now that's original. Sara seems to be enjoying her role as Greg's mentor, when he realizes that they may find the identity of the killer by checking for bite marks in the gooey buns, he tells her, "And the student becomes the master." Let's hope these two keep working together. They make a great team.
 
 [...]
-

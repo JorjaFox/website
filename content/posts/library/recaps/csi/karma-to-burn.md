@@ -58,4 +58,3 @@ As the episode ends, Nick, Sara, and Greg are sitting in the break room again, j
 **Nick:** You've got a lot of nerve to talk to me about quitting, you really do--
 **Sara:** I needed a break--
 **Greg:** Alright alright alright! This is not how family treats each other! Well. Yes it is.
-

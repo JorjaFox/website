@@ -3,7 +3,7 @@ id: 2040
 title: 'CSI 10&#215;01 "Family Affair" — Recap and Images'
 date: '2009-09-24T21:17:49-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Sara''s back, Catherine''s the boss, and there''s a gunfight at the lab!  <em>CSI</em> is back with a giant bang and a thrilling episode.'
+excerpt: 'Sara''s back, Catherine''s the boss, and there''s a gunfight at the lab!  _CSI_ is back with a giant bang and a thrilling episode.'
 layout: post
 guid: 'https://jorjafox.net/?p=2040'
 permalink: /2009/csi-10x01-family-affair-recap-and-images/
@@ -47,7 +47,7 @@ tags:
     - tv
 ---
 
-I'm out of shape for this!  Well, you wanted her back and we got her back.  A very 'in your face' episode of <em>CSI</em>.  Was it everything you were hoping for?
+I'm out of shape for this!  Well, you wanted her back and we got her back.  A very 'in your face' episode of _CSI_.  Was it everything you were hoping for?
 
 &bull; <a href="https://jorjafox.net/wiki/Family_Affair">Episode Recap</a>
 &bull; <a href="https://jorjafox.net/gallery/tv/csi/season10/familyaffair/">Screencaps</a>

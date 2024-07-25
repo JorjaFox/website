@@ -18,7 +18,7 @@ tags:
     - transcript
 ---
 
-I must love you guys. Transcribing 18 minutes and change is not simple, fast, or easy. In fact, it's only <em>slightly</em> less annoying than it was in 2000. It's 2013! Where's my flying car and auto-transcription service!?
+I must love you guys. Transcribing 18 minutes and change is not simple, fast, or easy. In fact, it's only _slightly_ less annoying than it was in 2000. It's 2013! Where's my flying car and auto-transcription service!?
 
 So here's the audio:
 

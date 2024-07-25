@@ -24,7 +24,7 @@ The CSI team must investigate one of their own when Langston is accused by a for
 
 **Videos**
 http://www.youtube.com/watch?v=aCZ1bCbquKc
-<em>Credit to allaboutmarg</em>
+_Credit to allaboutmarg_
 
 **Spoilers**
 From TV Guide, Carol Mendelsohn says:

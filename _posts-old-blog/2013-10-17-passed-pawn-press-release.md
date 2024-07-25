@@ -31,4 +31,4 @@ CHEAT TWEET: Homeless man gets lucky in cards but not in life &amp; his streak u
 
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=37011">CBS PressExpress</a>
 
-Jorja <em>should</em> be in this episode, but given it sounds like she's the major force in Episode 300 (i.e. it's her old case) I wouldn't expect her to be in too many scenes. Predicting 1 to 2 stars, at most.
+Jorja _should_ be in this episode, but given it sounds like she's the major force in Episode 300 (i.e. it's her old case) I wouldn't expect her to be in too many scenes. Predicting 1 to 2 stars, at most.

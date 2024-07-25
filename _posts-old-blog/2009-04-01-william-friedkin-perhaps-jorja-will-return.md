@@ -3,7 +3,7 @@ id: 1755
 title: 'William Friedkin says perhaps Jorja will return to CSI'
 date: '2009-04-01T20:20:23-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'William Friedkin is positive that Jorja (and Billy) might come back to <em>CSI</em> if the stories are right.'
+excerpt: 'William Friedkin is positive that Jorja (and Billy) might come back to _CSI_ if the stories are right.'
 layout: post
 guid: 'https://jorjafox.net/?p=1755'
 permalink: /2009/william-friedkin-perhaps-jorja-will-return/
@@ -40,4 +40,4 @@ tags:
 
 I think he'll do a few [more episodes] as he said he would. I think if they can craft some special stories for him... I think Jorja [Fox] will as well. [...]</blockquote>
 
-Source: TVGuide.com article <a href="http://www.tvguide.com/News/William-Friedkins-CSI-1004630.aspx"><em>French Connection</em> Director William Friedkin Returns to <em>CSI</em> for 200th Episode</a>
+Source: TVGuide.com article <a href="http://www.tvguide.com/News/William-Friedkins-CSI-1004630.aspx">_French Connection_ Director William Friedkin Returns to _CSI_ for 200th Episode</a>

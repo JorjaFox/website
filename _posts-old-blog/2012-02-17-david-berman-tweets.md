@@ -21,7 +21,7 @@ tags:
     - tv
 ---
 
-As part of the new extras they're pushing with <em>CSI</em>, CBS got David "Super Dave" Berman to tweet with us this afternoon. Reader Jeremy didn't believe it was him, so David proved it!
+As part of the new extras they're pushing with _CSI_, CBS got David "Super Dave" Berman to tweet with us this afternoon. Reader Jeremy didn't believe it was him, so David proved it!
 
 https://twitter.com/#!/CSI_CBS/status/170612174698463233
 

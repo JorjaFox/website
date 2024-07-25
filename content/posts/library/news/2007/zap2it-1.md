@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Rock On &#8212; This Year's Emmy Winner Returns"
+newstitle: "Rock On - This Year's Emmy Winner Returns"
 newsauthor: TVGal
 newssource: TVGal
 newsurl: http://blog.zap2it.com

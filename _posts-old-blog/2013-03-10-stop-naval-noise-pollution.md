@@ -26,4 +26,4 @@ Learn more about the issue here: <a href="http://foodintegritynow.org/2013/02/2
 
 SIGN THE PETITION HERE:
 <a href="http://signon.org/sign/stop-us-navy-plans-to-1" target="_blank" rel="nofollow nofollow">http://signon.org/sign/<wbr />stop-us-navy-plans-to-1</a></blockquote>
-For those who are a little confused, the US Navy (and all navies) generates a <em>lot</em> of noise in the ocean, from their boats just being there to planes dropping external fuel tanks, to active and passive sonar. It's not really helping the animals who live in the ocean any more than it would help you if you lived by an airport.
+For those who are a little confused, the US Navy (and all navies) generates a _lot_ of noise in the ocean, from their boats just being there to planes dropping external fuel tanks, to active and passive sonar. It's not really helping the animals who live in the ocean any more than it would help you if you lived by an airport.

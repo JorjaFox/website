@@ -23,4 +23,3 @@ This CSI is in desperate need of the style police. Hopefully she puts more of an
 **Style Verdict: Fashion Loser** "(credit: Vespa/WireImage) "
 
 [...]
-

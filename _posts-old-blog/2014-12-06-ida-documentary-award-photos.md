@@ -18,7 +18,7 @@ tags:
     - photos
 ---
 
-While there's no Jorja on tomorrow's <em>CSI</em>, you can at least get some joy out of the 35 photos of her at the IDA Documentary Awards.
+While there's no Jorja on tomorrow's _CSI_, you can at least get some joy out of the 35 photos of her at the IDA Documentary Awards.
 
 <img class="aligncenter size-full wp-image-11686" src="//static.jorjafox.net/wordpress/2014/12/460032852.jpg" alt="International Documentary Association's 2014 IDA Documentary Awa" width="519" height="594" />
 

@@ -30,7 +30,6 @@ In November, Jorja Fox joined Bob Barker, Congressman Jim Moran and the ADI team
 
 Fox says, 'It is time for people to realize these circus and elephant rides at fairs are not harmless fun. These are living animals whose lives have been destroyed. I urge people to get in touch with their Member of Congress and ask them to help end this suffering.'
 
-The CSI star"s crusade to end the suffering of elephants in entertainment also includes screenings this weekend of &#8216;How I became an Elephant' at the Sarasota Film Festival in Florida and the First Glance Film Festival in Hollywood. The film, produced by Fox, explores the treatment of elephants through the eyes of a 14 year old girl.
+The CSI star"s crusade to end the suffering of elephants in entertainment also includes screenings this weekend of 'How I became an Elephant' at the Sarasota Film Festival in Florida and the First Glance Film Festival in Hollywood. The film, produced by Fox, explores the treatment of elephants through the eyes of a 14 year old girl.
 
 [...]
-

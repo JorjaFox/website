@@ -46,7 +46,7 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/08/tvgal-100x100.jpg" alt="tvgal" title="tvgal" width="100" height="100" class="alignleft size-thumbnail wp-image-1956" /> Zap2It's Amy Amantangelo, better known to many as the TV Gal, has never been shy about expressing the fact that she likes Jorja Fox. Thus to many of you it's no shock that her "fearless prediction" is that Jorja will return to <em>CSI </em>full time.  What do you think? Would you rather see Jorja as a recurring guest star, or back to the weekly grind?
+<img src="//static.jorjafox.net/wordpress/2009/08/tvgal-100x100.jpg" alt="tvgal" title="tvgal" width="100" height="100" class="alignleft size-thumbnail wp-image-1956" /> Zap2It's Amy Amantangelo, better known to many as the TV Gal, has never been shy about expressing the fact that she likes Jorja Fox. Thus to many of you it's no shock that her "fearless prediction" is that Jorja will return to _CSI _full time.  What do you think? Would you rather see Jorja as a recurring guest star, or back to the weekly grind?
 
 <blockquote>Jorja Fox, who we will soon see back on "CSI," guest stars as housewife in jail in desperate need of legal services on **"Drop Dead Diva"** (Sunday, Lifetime, 9 p.m.). Do you remember a few years ago, when "CSI" acted like they didn’t need Jorja Fox or George Eads and that basically the cast was replaceable a la "Law & Order?" It’s interesting to see that this hasn’t turned out to be the case. The show has suffered in the ratings since all the cast changes. My fearless prediction – Fox will soon be back as a full-time member of the cast. </blockquote>
 

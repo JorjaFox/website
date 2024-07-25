@@ -14,7 +14,7 @@ newsurl:  http://okmagazine.com/
 
 ---
 
-"My six-pack is not like most actresses' &#8212; my six-pack is beer."
+"My six-pack is not like most actresses' - my six-pack is beer."
 
 **From gritty crime scenes to sexy love scenes, JORJA FOX's role on "CSI" has been through a lot of changes due to her new romance.**
 
@@ -41,4 +41,3 @@ The 38-year-old star who once played rock music has put it on the back burner to
 Jorja's other favorite side project is producing plays. On her next hiatus, she hopes to help her friend, actress Kirsten Holly Smith, continue her one-woman show, "Blue-Eyed Soul: The Life and Times of Music Legend Dusty Springfield", the story of the famed '60s soul singer.
 
 But her focus this fall is on her show, as "CSI" faces a ratings challenge from the sexy doctors of "Grey's Anatomy". "We've been number one for longer than I ever thought it would be possible to hold that title," she said. "it's been an amazing ride. I'd love to stay there. I think that we've all got our game faces on and we're going into the season very humble and very hungry. It's nice to have some competition. But I do hope we win!"
-

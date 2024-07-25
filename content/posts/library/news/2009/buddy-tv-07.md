@@ -20,7 +20,7 @@ Lauren Lee Smith is not going to be back for the tenth season of "CSI", executiv
 
 "It was an issue of how we were feeling the ensemble was working," Shankar said. "When we brought in the character of Riley, it got lost in the shuffle a little bit because we had lost Warrick, we had lost Sara, and then in the middle of last season Grissom finally left. I think, as a result, the character never quite found its footing in terms of the rest of the gang."
 
-And, perhaps, the fact that some "CSI" fans never really warmed to her, at least as a replacement for Jorja Fox, who left the show in the eighth season. Well, that's moot, then, as Fox's returning to the show for, according to Shankar, at least five episodes. "She shows up because the team is understaffed," he said. "The undersheriff reaches out for a recommendation and Sara says, &#8216;I think that person might be me.'"
+And, perhaps, the fact that some "CSI" fans never really warmed to her, at least as a replacement for Jorja Fox, who left the show in the eighth season. Well, that's moot, then, as Fox's returning to the show for, according to Shankar, at least five episodes. "She shows up because the team is understaffed," he said. "The undersheriff reaches out for a recommendation and Sara says, 'I think that person might be me.'"
 
 "The team has had a rough year-there has been a lot going on-and so Sara comes back mostly just to see if she can help for a while, because she loves those guys and she misses them," Fox told the magazine in a separate interview.
 

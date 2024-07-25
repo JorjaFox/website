@@ -22,7 +22,7 @@ tags:
 
 <img class="alignleft size-full wp-image-3759" title="CSI Ad - Main Cast" src="//static.jorjafox.net/wordpress/2011/09/ad-fullcsi.png" alt="CSI Ad - Main Cast" width="201" height="370" />
 
-CBS has been running this ad on Facebook, and while I'm not a fan of the <em>very</em> obvious digital retouching going on (seriously, Marg and Ted look weird), the photos are clearly from the new photo shoot, and there's Jorja on the right!
+CBS has been running this ad on Facebook, and while I'm not a fan of the _very_ obvious digital retouching going on (seriously, Marg and Ted look weird), the photos are clearly from the new photo shoot, and there's Jorja on the right!
 
 That's a good sign?  Right?
 

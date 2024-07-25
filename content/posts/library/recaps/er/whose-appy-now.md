@@ -34,7 +34,7 @@ Yet again, Carter and Doyle's friendly rivalry rears its head, as the two clash 
 **Carter:** Really?
 **Maggie:** You should see my gun collection.
 
-<hr>
+---
 
 **Carter:** What are you doing?
 **Maggie:** Practicing one-handed sutures.

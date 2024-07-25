@@ -45,4 +45,3 @@ Sara and Nick work the case of a liquified corpse found in a bag, which was shov
 **Sara:** Science nerd.
 **Nick:** Have you changed [your clothes]? _(he sniffs her shirt)_ You still smell [like death].
 **Sara:** _(grimaces)_
-

@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-<em><a href="https://jorjafox.net/2015/paley-center-farewell-date-change/">NOTICE! THE DATE HAS CHANGED TO SEPTEMBER 16TH</a></em>
+_<a href="https://jorjafox.net/2015/paley-center-farewell-date-change/">NOTICE! THE DATE HAS CHANGED TO SEPTEMBER 16TH</a>_
 
 Thursday, September 17, the Paley Center will have an exclusive screening and special farewell salute panel.
 
@@ -35,7 +35,7 @@ You can buy tickets tomorrow if you're a member (I'm not) at <a href="http://www
 
 The rest of us? Well we have to wait until the 31st at 9am PT. Tickets are $30 a person and that includes the reception, panel, and screenings. The event is up in Beverley Hills and, yes, I'm going to try and go.
 
-Can't go? <em>Everything</em> will be streamed on Yahoo.
+Can't go? _Everything_ will be streamed on Yahoo.
 
 I have to admit, this moment is when it all sunk in for me. God. It's almost all over.
 

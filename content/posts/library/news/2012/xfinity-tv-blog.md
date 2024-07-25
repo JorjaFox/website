@@ -29,4 +29,3 @@ newsurl: http://xfinity.comcast.net/blogs/tv/2012/09/11/csi-boss-season-13-will-
 [...]
 
 **'CSI: Crime Scene Investigation' premieres its 13th season on Wednesday, Sept. 26 at 10/9c on CBS.**
-

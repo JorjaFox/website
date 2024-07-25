@@ -50,7 +50,7 @@ This has been a great year for Sara. It's really rare that you get a Season Seve
 
 After we dropped the proverbial bomb at the end of last season, we decided to just let it breathe a little bit -- sort of like, "well now you know, and here's what it looks like." It was a great first half of the year for them -- it was very pleasant and there wasn't a lot of tension, we just wanted the dust to settle. From here on out, there's going to be some interesting stuff that takes place between the two of them and I was really excited about it.
 
-And I kind of decided at the beginning of the year that, even though I was under the umbrella of "CSI" &#8212; I, personally, was in a romantic comedy.
+And I kind of decided at the beginning of the year that, even though I was under the umbrella of "CSI" - I, personally, was in a romantic comedy.
 
 **Really?**
 
@@ -166,11 +166,11 @@ There were so many. (laughs)
 
 Probably one of the craziest things was that I had a modeling agent in New York City -- god bless him -- he sent me to Italy with another model and told us that we would start working right away. Our books were ready, he got us ready to go. I had brought 600 bucks with me at that time because I was supposed to start working right away. I think the girl that went with me brought, like, 250 dollars. And we got to Italy and they took one look at our books and said, "these are awful, you have to start all over, these are never going to work here."
 
-They told us what to do &#8212; we had to meet with different photographers that were really hip and happening in Milan and then make a book from there and they said that they could get us work. In the meantime, I think we spent eight or nine days in a pensione before the lady literally tossed us out on the street. So I was homeless in Milan, Italy at 17. Luckily, it was a situation where I met a guy from San Diego who was going to college in Milan for architecture. He was young too, he was 19. He had an apartment instead of a dorm. I met him on the street at an ice cream parlor and I lived with him for four weeks. It all worked out fine. But probably being homeless in Italy at 17 was pretty crazy.
+They told us what to do - we had to meet with different photographers that were really hip and happening in Milan and then make a book from there and they said that they could get us work. In the meantime, I think we spent eight or nine days in a pensione before the lady literally tossed us out on the street. So I was homeless in Milan, Italy at 17. Luckily, it was a situation where I met a guy from San Diego who was going to college in Milan for architecture. He was young too, he was 19. He had an apartment instead of a dorm. I met him on the street at an ice cream parlor and I lived with him for four weeks. It all worked out fine. But probably being homeless in Italy at 17 was pretty crazy.
 
 **My jaw is on the floor. I can't imagine what that was like.**
 
-At 17, it was fun and crazy. I probably could have called my parents &#8212; I didn't come from means but certainly they would have bailed me out. But I had this pride that I wasn't going to call them and tell them that I was failing in Italy. And also, I didn't want them to worry that I had become "that" destitute (laughs). So that was a highlight!
+At 17, it was fun and crazy. I probably could have called my parents - I didn't come from means but certainly they would have bailed me out. But I had this pride that I wasn't going to call them and tell them that I was failing in Italy. And also, I didn't want them to worry that I had become "that" destitute (laughs). So that was a highlight!
 
 It had a very happy ending -- we both started working and we made money and we came home. There were two years when I got back from Europe that I was living in New York City going to acting classes and I didn't have to have a side job.
 
@@ -186,6 +186,6 @@ The biggest thing for me now is that people know my name. For years, people woul
 
 **Wow, I've never thought about that before. How surreal it must be to have someone call out to you, by name, that you don't know.**
 
-And it's embarrassing every once in a while &#8212; when it happens with somebody who really knows me, and I think I don't know them. Like, we went to yoga class together four years ago.
+And it's embarrassing every once in a while - when it happens with somebody who really knows me, and I think I don't know them. Like, we went to yoga class together four years ago.
 
 For me, it's been a good thing -- it's a friendly world. People are nice to me wherever I go. It's really been a positive thing for me.

@@ -17,8 +17,8 @@ tags:
     - csi
 ---
 
-<blockquote>**I'm crushed that the <em>CSI </em>writers broke up Sara and Grissom! What are they thinking? —<em>Lisa</em>
-ADAM:** Hopefully, this news will console you. "We don't feel like it's <em>over</em>," executive producer Don McGill tells us. "We felt the relationship had hit the true rocks and things were really at a breaking point. But they're not divorced or even separated. They're really just taking a very big time out." More good news: The writers aren't planning to throw Sara into any rebound flings and are actually hoping that this relationship hiccup might lure Grissom himself, William Petersen, back to the show. "The door is always open," McGill says. Silver lining?</blockquote>
+<blockquote>**I'm crushed that the _CSI _writers broke up Sara and Grissom! What are they thinking? —_Lisa_
+ADAM:** Hopefully, this news will console you. "We don't feel like it's _over_," executive producer Don McGill tells us. "We felt the relationship had hit the true rocks and things were really at a breaking point. But they're not divorced or even separated. They're really just taking a very big time out." More good news: The writers aren't planning to throw Sara into any rebound flings and are actually hoping that this relationship hiccup might lure Grissom himself, William Petersen, back to the show. "The door is always open," McGill says. Silver lining?</blockquote>
 Interesting.
 
 Credit: <a href="http://www.tvguide.com/News/Mega-Buzz-Once-CSI-Revolution-Spoilers-1061957.aspx">TV Guide's Mega Buzz</a>

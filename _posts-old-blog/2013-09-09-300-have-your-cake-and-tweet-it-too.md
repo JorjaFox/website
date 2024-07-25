@@ -36,7 +36,7 @@ http://twitter.com/CSIVegasQuotes/status/376938822170206208
 
 https://twitter.com/csiwritersroom/status/377139565137371136
 
-And then they <em>did it all again</em>! Shane was there too:
+And then they _did it all again_! Shane was there too:
 
 https://twitter.com/shanessaunders/status/377178471727759360
 

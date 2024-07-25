@@ -14,9 +14,9 @@ newsurl: http://www.variety.com/article/VR1118018864.html
 
 ---
 
-**Chat with the exec producer of the &#8216;CSI' franchise**
+**Chat with the exec producer of the 'CSI' franchise**
 
-Chat Live with Anthony E. Zuiker, creator/executive producer of the &#8216;CSI' franchise, today at 4 p.m. PT/7 p.m. EST.
+Chat Live with Anthony E. Zuiker, creator/executive producer of the 'CSI' franchise, today at 4 p.m. PT/7 p.m. EST.
 
 [...]
 
@@ -28,4 +28,3 @@ Thursday April 29, 2010 4:29 Guest
 Anthony E. Zuiker:** All questions are Sara Sidle will be answered. Stay tuned!
 
 [...]
-

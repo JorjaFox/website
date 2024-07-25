@@ -22,7 +22,7 @@ tags:
 
 <blockquote>**THE CSI TEAM INVESTIGATES THREE SEEMINGLY UNRELATED MURDERS, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, NOV. 16**
 
-**CHEAT TWEET: Someone is getting revenge for cold case murders that were never solved 11/16 10pm ET/PT #CSI <em><a href="http://bit.ly/u2mivi">http://bit.ly/u2mivi</a></em>**
+**CHEAT TWEET: Someone is getting revenge for cold case murders that were never solved 11/16 10pm ET/PT #CSI _<a href="http://bit.ly/u2mivi">http://bit.ly/u2mivi</a>_**
 
 “Crime After Crime” – When the CSI team investigates three seemingly unrelated murders, they discover someone is getting revenge for cold case murders that were never solved, on CSI: CRIME SCENE INVESTIGATION,Wednesday, Nov. 16 (10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>
 <img class="alignleft size-thumbnail wp-image-3957" title="Cyndi Lauper - Time After Time" src="//static.jorjafox.net/wordpress/2011/10/timeaftertime-210x140.jpg" alt="Cyndi Lauper - Time After Time" width="100" height="75" />Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=29659">CBS Press Express</a>

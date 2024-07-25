@@ -30,4 +30,3 @@ Talk of relationships seems so implausible when it comes to the characters of th
 "If organically in a story two people reach out to each other, then you may see something," confirms Mendelsohn. "It is not going to be a show about Catherine and Warrick taking a trip. (Anyway.) It was just a desire to keep the show evolving and exciting for our actors too. We are blessed with such a talented cast," she says.
 
 Shankar concurs. "After five years, you want to get a little bit more of a sense of the characters as people. You want to catch a little glimpse of someone's inner life in the context of the story or something that's going on. It is a good thing for the show in general."
-

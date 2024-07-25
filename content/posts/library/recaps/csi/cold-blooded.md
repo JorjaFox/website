@@ -21,4 +21,3 @@ When a college student ends up dead after a 'Walking with Dinosaurs' show, the C
 ## Review
 
 _Sara Sidle does not appear in this episode._
-

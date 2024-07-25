@@ -16,7 +16,7 @@ It's a Strip-to-strip week for "C.S.I."
 
 The new prime-time crime drama about Las Vegas forensic investigators, which debuted last Friday on CBS, visits its small-screen hometown for three days starting Thursday.
 
-And the whole "C.S.I" starring crew will be along for the ride &#8212; one of them literally.
+And the whole "C.S.I" starring crew will be along for the ride - one of them literally.
 
 Series star William L. Petersen, who plays Criminalistics Bureau chief Gil Grissom, will brave the Manhattan Express roller coaster atop New York-New York for one scene. (If the grisly crime scenes he investigates don't make him sick, he should be able to endure the coaster's trademark heartline loop without losing his lunch.)
 

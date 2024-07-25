@@ -20,7 +20,7 @@ tags:
     - video
 ---
 
-<img class="alignleft size-medium wp-image-4505" title="Altered Stakes" src="//static.jorjafox.net/wordpress/2012/04/101672_d0291b_FULL-230x150.jpg" alt="" width="230" height="150" />You are <em>safe</em>... to not watch this episode. Sorry, kids, no Jorja tonight, so put your feet up and relax.
+<img class="alignleft size-medium wp-image-4505" title="Altered Stakes" src="//static.jorjafox.net/wordpress/2012/04/101672_d0291b_FULL-230x150.jpg" alt="" width="230" height="150" />You are _safe_... to not watch this episode. Sorry, kids, no Jorja tonight, so put your feet up and relax.
 
 **Description**
 

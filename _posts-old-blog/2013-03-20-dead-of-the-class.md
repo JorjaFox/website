@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-<img class="alignleft size-thumbnail wp-image-6756" alt="CSI-1_FULL" src="//static.jorjafox.net/wordpress/2013/03/CSI-1_FULL.jpg" width="275" height="140" /><em>No Jorja In This Episode!</em>
+<img class="alignleft size-thumbnail wp-image-6756" alt="CSI-1_FULL" src="//static.jorjafox.net/wordpress/2013/03/CSI-1_FULL.jpg" width="275" height="140" />_No Jorja In This Episode!_
 
 It's almost a shame they killed Howard Hessman in "Turn On, Tune In, Drop Dead" (he was the teacher in "Head of the Class").
 

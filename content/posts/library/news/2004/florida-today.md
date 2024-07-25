@@ -40,4 +40,3 @@ In 2000, she hit the big screen appearing in the film "Memento."
 Fox, who was a candy-striper at Holmes Regional Medical Center while she called Melbourne Beach home, got her big break at the Melbourne Square mall.
 
 She entered a modeling contest which led to the opportunity to work at Elite modeling agency in New York.
-

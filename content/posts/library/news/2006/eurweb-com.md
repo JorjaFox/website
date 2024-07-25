@@ -7,7 +7,7 @@ permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
-newstitle: "TCA BLOG: Diggs gets defensive; V. Williams gets &#8216;Ugly'; Where are the black folks on CBS?; Rachel Ray rides Oprah into daytime; &#8216;CSI' vs. &#8216;Grey's Anatomy.'  "
+newstitle: "TCA BLOG: Diggs gets defensive; V. Williams gets 'Ugly'; Where are the black folks on CBS?; Rachel Ray rides Oprah into daytime; 'CSI' vs. 'Grey's Anatomy.'  "
 newsauthor: Staff
 newssource: EURweb.com
 newsurl: http://EURweb.com
@@ -23,4 +23,3 @@ newsurl: http://EURweb.com
 Jorja Fox says of her storyline: "The idea right now going into season seven, if I'm not mistaken, is that Grissom and Sara are the only people, and the beautiful audience, that know this is actually taking place."
 
 [...]
-

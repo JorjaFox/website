@@ -22,7 +22,7 @@ tags:
     - tv
 ---
 
-<a href="//static.jorjafox.net/wordpress/2012/01/mwr-screenre.png"><img class="alignleft size-thumbnail wp-image-4232" title="Ms. Willows Regrets" src="//static.jorjafox.net/wordpress/2012/01/mwr-screenre-210x140.png" alt="Ms. Willows Regrets" width="100" height="75" /></a>Three stars, again, because Sara saved the day with science, twice, <em>and</em> we got a mention of Natalie! Sara also charged into a house with her gun, and totally had Catherine's back. It was impossible to watch those scenes without knowing what was coming.
+<a href="//static.jorjafox.net/wordpress/2012/01/mwr-screenre.png"><img class="alignleft size-thumbnail wp-image-4232" title="Ms. Willows Regrets" src="//static.jorjafox.net/wordpress/2012/01/mwr-screenre-210x140.png" alt="Ms. Willows Regrets" width="100" height="75" /></a>Three stars, again, because Sara saved the day with science, twice, _and_ we got a mention of Natalie! Sara also charged into a house with her gun, and totally had Catherine's back. It was impossible to watch those scenes without knowing what was coming.
 <blockquote>**Sidle:** You know, the only janitor I knew who cleaned this throughly turned out to be a serial killer.</blockquote>
 It's nice to see that Sara can talk about this now.
 <ul>

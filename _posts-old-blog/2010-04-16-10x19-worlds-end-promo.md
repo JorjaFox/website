@@ -26,6 +26,6 @@ http://www.youtube.com/watch?v=tTmY__rJvNI
 
 Credit to <a href="http://allaboutmarg.net">AllAboutMarg</a>.
 
-<em>Edited to add the official CBS promo</em>
+_Edited to add the official CBS promo_
 
 http://www.youtube.com/watch?v=W5i6fCosWzM

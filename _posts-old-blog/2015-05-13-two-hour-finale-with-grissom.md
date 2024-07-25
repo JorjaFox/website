@@ -28,9 +28,9 @@ Wow.
 
 > To start the season, CSI: CRIME SCENE INVESTIGATION will have a special two-hour series finale farewell. Then, CSI: CYBER will move in at 10:00 PM to carry on the CSI legacy, with Emmy Award winner Ted Danson joining Academy Award winner Patricia Arquette on the cast.
 
-Wait. WHAT!? Ted Danson is joining <em>CSI: Cyber</em>?
+Wait. WHAT!? Ted Danson is joining _CSI: Cyber_?
 
-I officially have no idea what's going on, but hey look! <em>GRISSOM!!!!</em>
+I officially have no idea what's going on, but hey look! _GRISSOM!!!!_
 
 Edited to add:
 

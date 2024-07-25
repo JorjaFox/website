@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=Sjw5w3jFBJc
 
 Who was Kline on the phone with!? Who killed him? What's the end game with all this?
 
-My favourite (far out and unlikely theory) is that it's Greg, in a revenge against Grissom. Remember how Greg always had a crush on Sara? And none of <em>her</em> cases are up for review? Hmmm.
+My favourite (far out and unlikely theory) is that it's Greg, in a revenge against Grissom. Remember how Greg always had a crush on Sara? And none of _her_ cases are up for review? Hmmm.
 
 But ... Kline wanted to talk to Sara and Grissom about the cause of death. Why would he want to do that? Is the cause of death for Riley Jones a clue?
 

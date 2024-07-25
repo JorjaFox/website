@@ -27,6 +27,6 @@ tags:
 
 Nate Millando from CBS has put together some top GSR moments. Yes, that kind of GSR
 
-<blockquote class="wp-block-quote">In forensics, "GSR" refers to gunshot residue, but to&nbsp;<em>CSI: Crime Scene Investigation&nbsp;</em>fans, it's all about the "Grissom Sara Romance." That's why we're so psyched to see that 'ship continue to sail in this fall's highly anticipated reboot,&nbsp;<em>CSI: Vegas,&nbsp;</em>which welcomes the OGs back to Sin City.&nbsp;<em>Watch</em>&nbsp;rounds up some of our favorite GSR moments!<cite><a href="https://cbswatchmagazine.com/shows/csi-crime-scene-investigation/cool-change">CBS Watch Magazine</a></cite></blockquote>
+<blockquote class="wp-block-quote">In forensics, "GSR" refers to gunshot residue, but to&nbsp;_CSI: Crime Scene Investigation&nbsp;_fans, it's all about the "Grissom Sara Romance." That's why we're so psyched to see that 'ship continue to sail in this fall's highly anticipated reboot,&nbsp;_CSI: Vegas,&nbsp;_which welcomes the OGs back to Sin City.&nbsp;_Watch_&nbsp;rounds up some of our favorite GSR moments!<cite><a href="https://cbswatchmagazine.com/shows/csi-crime-scene-investigation/cool-change">CBS Watch Magazine</a></cite></blockquote>
 
 Check out the <a href="https://cbswatchmagazine.com/shows/csi-crime-scene-investigation/cool-change">full article</a>. Did your moment make the list?

@@ -21,7 +21,7 @@ And we're into week two! Looks like Zuiker had to take down his tweets from last
 
 Since then... it's been very very quiet.
 
-Last week was everyone sitting around the writers' room, talking about the plot. Once they have the breakdown done, the script is next. So far we know that David Rambo will be involved, Anthony Zuiker is writing the script (or at least part of it), and Billy and Marg have signed on to be in the movie. Seeing as Ted Danson's moving to <em>CSI: Cyber</em>, it's a good bet he'll be in.
+Last week was everyone sitting around the writers' room, talking about the plot. Once they have the breakdown done, the script is next. So far we know that David Rambo will be involved, Anthony Zuiker is writing the script (or at least part of it), and Billy and Marg have signed on to be in the movie. Seeing as Ted Danson's moving to _CSI: Cyber_, it's a good bet he'll be in.
 
 Now that said... that's all we know. It's summer, and Eric Szmanda's off in Pennsylvania performing in The Nerd:
 

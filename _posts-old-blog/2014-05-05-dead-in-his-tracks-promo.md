@@ -18,7 +18,7 @@ tags:
     - video
 ---
 
-Apologies that this is both low quality <em>and</em> combined with "Criminal Minds"
+Apologies that this is both low quality _and_ combined with "Criminal Minds"
 
 https://www.youtube.com/watch?v=GLwJN1Vn2iM
 

@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-<em>This is not a mistake.</em> The episode airs tonight.
+_This is not a mistake._ The episode airs tonight.
 
 **Press Release**
 

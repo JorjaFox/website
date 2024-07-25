@@ -7,7 +7,7 @@ permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
-newstitle: "&#8216;CSI' faces competition with love  "
+newstitle: "'CSI' faces competition with love  "
 newsauthor: Staff
 newssource: The Detroit News
 newsurl: http://www.detroitnews.com/
@@ -18,7 +18,7 @@ TV's highest-rated scripted show, which is all about science, has proven a cruci
 
 Opposites attract.
 
-The stoic Gil Grissom (William Peterson) and the more emotional Sara Sidle (Jorja Fox) have become a couple on "CSI: Crime Scene Investigation" (9 p.m. Thursdays on CBS, Channel 62 &#8212; currently in reruns). But it's no surprise to executive producer Carol Mendelsohn, who has seen this coming for a long time.
+The stoic Gil Grissom (William Peterson) and the more emotional Sara Sidle (Jorja Fox) have become a couple on "CSI: Crime Scene Investigation" (9 p.m. Thursdays on CBS, Channel 62 - currently in reruns). But it's no surprise to executive producer Carol Mendelsohn, who has seen this coming for a long time.
 
 Mendelsohn says the writers have debated since the first season whether Grissom and Sidle, two forensic investigators, were ever together. "I happen to think that they were intimate in San Francisco (where they worked together), but not intimate once they got to Las Vegas, at least not in the beginning. And since I'm the showrunner, you know, I won the debate."
 The romance comes as "CSI" faces some competition. "Grey's Anatomy," a popular medical drama with its share of love, will move this fall to 9 p.m. Thursdays on ABC.
@@ -30,4 +30,3 @@ Fox says she liked how the writers ended last season by showing Grissom and Sidl
 "I think the idea right now going into season seven is that Grissom and Sara and the beautiful audience are the only people who know this is actually taking place," Fox says.
 
 Fox says viewers are split 50-50 about whether "CSI" should focus strictly on its murder stories or allow some character-driven tales, such as the new love story. "And I think the writers did something bold and brilliant by trying to just really follow their hearts, which is what I think we try to do."
-

@@ -18,7 +18,7 @@ tags:
     - spoilers
 ---
 
-First we found out <a href="https://jorjafox.net/2012/season-13-sara-spoilers/">Sara would be suspected of murder</a>. And finally we had some confirmation that <a href="https://jorjafox.net/2012/forget-me-not-update/">her mother was showing up</a>. Personally I was starting to consider maybe the world <em>was</em> ending.
+First we found out <a href="https://jorjafox.net/2012/season-13-sara-spoilers/">Sara would be suspected of murder</a>. And finally we had some confirmation that <a href="https://jorjafox.net/2012/forget-me-not-update/">her mother was showing up</a>. Personally I was starting to consider maybe the world _was_ ending.
 
 So here's the question for the end of 2012. Who should play Laura Sidle? I listened to your comments, tweets, FB remarks, and emails, and here's the unscientific top four contestants!
 

@@ -3,7 +3,7 @@ id: 3031
 title: 'Should they or shouldn't they?'
 date: '2011-01-11T14:00:14-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'The question''s moot because they <em>did</em>, but it''s a measure of something that people still argue if GSR should have happened.'
+excerpt: 'The question''s moot because they _did_, but it''s a measure of something that people still argue if GSR should have happened.'
 layout: post
 guid: 'https://jorjafox.net/?p=3031'
 permalink: /2011/should-they-or-shouldnt-they/

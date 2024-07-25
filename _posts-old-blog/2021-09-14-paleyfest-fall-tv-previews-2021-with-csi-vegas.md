@@ -34,9 +34,9 @@ If you're a Paley member (or have a CitiBank card) you can check out the preview
 
 First of all, while all these actors are playing the smartest people in the rooms, it took them all a minute to set up "Do not Disturb" on their computers.
 
-Jason Tracey, one of the EPs, explained that since the ending of <em>CSI: Crime Scene Investigation</em> was literally Grissom and Sara sailing off into the sunset, they had to figure out how to get our heroes back off the boat. And the way to do that was to have a disaster in the lab and a massive danger to an old friend.
+Jason Tracey, one of the EPs, explained that since the ending of _CSI: Crime Scene Investigation_ was literally Grissom and Sara sailing off into the sunset, they had to figure out how to get our heroes back off the boat. And the way to do that was to have a disaster in the lab and a massive danger to an old friend.
 
-They plan to deliver everything we had in the old <em>CSI</em>, but also we're going to follow people home, now, and see some new science. The show will still be consumable by people who've never watched the original.
+They plan to deliver everything we had in the old _CSI_, but also we're going to follow people home, now, and see some new science. The show will still be consumable by people who've never watched the original.
 
 While the preview was pre-taped, and thus they were cagey about the details (like Grissom coming back and them still being married) that hadn't yet been revealed, Tracey also explained that the danger to the lab is both very real and very existential. Much like we're facing now with the crisis of science deniers and climate change, anti-vaxing, and so on, once faith is lost in science, what do we have?
 

@@ -20,7 +20,7 @@ tags:
     - 'public events'
 ---
 
-CSI is filming with Jordin Sparks, and Jorja is in Hawaii at the Hawaii International Film Festival, presenting the <em>Lion Ark</em> film.
+CSI is filming with Jordin Sparks, and Jorja is in Hawaii at the Hawaii International Film Festival, presenting the _Lion Ark_ film.
 
 https://twitter.com/aussieinhi/status/388981812342435841
 

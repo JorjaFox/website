@@ -35,4 +35,4 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/01/picture-1.png" alt="#42" title="#42" width="298" height="38" class="aligncenter size-full wp-image-1443" />
 
-I guess y'all like the site. So from me, Ipstenu, to all of you, thanks.  I hope that, even with Jorja's time on <em>CSI</em> at an end, you find something to keep you coming back for more.  I have no idea where we'll all be next year, or what Jorja will do, but I plan to be right here at JFO.
+I guess y'all like the site. So from me, Ipstenu, to all of you, thanks.  I hope that, even with Jorja's time on _CSI_ at an end, you find something to keep you coming back for more.  I have no idea where we'll all be next year, or what Jorja will do, but I plan to be right here at JFO.

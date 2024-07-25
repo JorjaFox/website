@@ -19,7 +19,7 @@ tags:
     - video
 ---
 
-Is it any surprise that the most clips CBS has (that we want to see) are from <em>Forget Me Not</em>? Nope, not at all!
+Is it any surprise that the most clips CBS has (that we want to see) are from _Forget Me Not_? Nope, not at all!
 
 http://www.cbs.com/shows/csi/video/A5821229-80F8-A135-3701-FA62E208B5C2/csi-party-of-two/
 

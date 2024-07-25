@@ -21,7 +21,7 @@ tags:
     - tv
 ---
 
-So ... there wasn't a whole lot new to learn from <em>The Talk</em>, but Jorja looked great!  How great?
+So ... there wasn't a whole lot new to learn from _The Talk_, but Jorja looked great!  How great?
 
 <a href="https://jorjafox.net/gallery/tv/talkshow/20110421-thetalk/JorjaTheTalk.jpg"><img src="https://jorjafox.net/gallery/cache/tv/talkshow/20110421-thetalk/JorjaTheTalk_595.jpg" alt="Jorja on the Talk" /></a>
 

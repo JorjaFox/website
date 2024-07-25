@@ -20,11 +20,11 @@ tags:
 
 Expect the screencaps and recap tomorrow morning, and remember to **<a title="Updates" href="https://jorjafox.net/updates/">sign up for email alerts</a>** if you want to know right away when they're up.
 
-<em>Synopsis:</em>
+_Synopsis:_
 
 <img class="alignright size-medium wp-image-8618" alt="Torch Song" src="//static.jorjafox.net/wordpress/2013/10/103676_D0331b.jpg" width="300" height="199" />"Torch Song" — The CSI team investigates a fire at a music venue that leaves four people dead, including two band members, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Oct. 9 (10:00-11:00 PM, ET/PT) on the CBS Television Network. John Ratzenberger guest stars as club owner Stu Kirchoff.
 
-<em>Videos:</em>
+_Videos:_
 
 https://vimeo.com/77311151
 

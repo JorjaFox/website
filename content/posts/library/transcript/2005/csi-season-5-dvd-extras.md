@@ -21,4 +21,4 @@ tags: [ "2005" ]
 
 [...]
 
-**Jorja Fox** I was hoping, &#8216;wow, I was hoping we can pull this off in a way that it's good' and it's dark and it's funny but you also don't end up making somebody, you know, sort of seem like the exhibit at the zoo or something like that, and I think Richard Lewis {director} pulled that off brilliantly.
+**Jorja Fox** I was hoping, 'wow, I was hoping we can pull this off in a way that it's good' and it's dark and it's funny but you also don't end up making somebody, you know, sort of seem like the exhibit at the zoo or something like that, and I think Richard Lewis {director} pulled that off brilliantly.

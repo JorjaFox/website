@@ -41,4 +41,3 @@ Today, she has a three-year old rescue dog, which she says, "is the most brillia
 Elephants are known as a keystone species because of their impact on their environment and their impact on other species that share their space. "Elephants are very good at finding underground water," Jorja explains. "They locate water and dig watering holes. Without that water, other animals and humans would be harmed. Mass extinctions could occur."
 
 Elephants also disperse seeds through their digestive systems. Thanks to elephants who spread these seeds, more plants appear, which other animals are dependent on. "Its an important cycle," says Jorja. "That is why we all need to care about animals."
-

@@ -17,7 +17,7 @@ tags:
     - 'social media'
 ---
 
-Liz Devine has been tweeting and FB'ing about tomorrow's CSI, and the more she does, the more interested I get. First of all, it's based on a real event, but more importantly it's <em>not</em> a 'CSI in peril' episode.
+Liz Devine has been tweeting and FB'ing about tomorrow's CSI, and the more she does, the more interested I get. First of all, it's based on a real event, but more importantly it's _not_ a 'CSI in peril' episode.
 
 As Liz said: "it's more about what you can come across when you work the field in law enforcement. I know--it happened to me!"
 

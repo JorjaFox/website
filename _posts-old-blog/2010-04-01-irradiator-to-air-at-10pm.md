@@ -30,4 +30,4 @@ Yeah, 10pm.
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/aj6f-8JkMf0&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/aj6f-8JkMf0&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-Oh and CBS yanked the video down.  My guess is <em>either</em> they just want to wait till Friday, like normal, or they aren't 100% sold on the 10pm thing.  We'll have to see.
+Oh and CBS yanked the video down.  My guess is _either_ they just want to wait till Friday, like normal, or they aren't 100% sold on the 10pm thing.  We'll have to see.

@@ -3,7 +3,7 @@ id: 1762
 title: 'ER 15&#215;24 — Retrospective'
 date: '2009-04-03T09:19:35-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja was in the <em>ER</em> ''episode'' "Retrospective", where cast members, past and present, talked about the show.  Videos, recaps and images included in the post.'
+excerpt: 'Jorja was in the _ER_ ''episode'' "Retrospective", where cast members, past and present, talked about the show.  Videos, recaps and images included in the post.'
 layout: post
 guid: 'https://jorjafox.net/?p=1762'
 permalink: /2009/er-15x24-retrospective/

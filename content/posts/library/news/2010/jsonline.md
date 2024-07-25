@@ -7,7 +7,7 @@ permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
-newstitle: "It can be difficult to keep track of &#8216;CSI' character  "
+newstitle: "It can be difficult to keep track of 'CSI' character  "
 newsauthor: Staff
 newssource: JSOnline
 newsurl: http://www.jsonline.com/entertainment/tvradio/98760869.html

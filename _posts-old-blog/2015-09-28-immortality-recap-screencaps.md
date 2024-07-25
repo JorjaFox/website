@@ -38,7 +38,7 @@ Well. That was the end. If you're still reading this, you better be okay with sp
 
 And speaking of, let's get this one out of the way.
 
-<em>We got the GSR happy ending.</em>
+_We got the GSR happy ending._
 
 Grissom and Sara run off to save the ocean and Catherine runs the lab with her daughter. You got that right? Catherine put her hat in the ring and Sara left.
 

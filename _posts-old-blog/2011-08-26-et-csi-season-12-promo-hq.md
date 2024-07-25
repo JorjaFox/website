@@ -23,4 +23,4 @@ The only problem with <a href="https://jorjafox.net/2011/et-first-look-at-db/">l
 
 [vimeo]http://vimeo.com/28195206[/vimeo]
 
-As you can see, Sara had no lines at all, and we only catch glimpses of her with her camera.  What we <em>do</em> get is Nick being snippy, Catherine being petty and DB being kind of like Grissom lite.  Which is okay.  I'd rather have the science, personally!
+As you can see, Sara had no lines at all, and we only catch glimpses of her with her camera.  What we _do_ get is Nick being snippy, Catherine being petty and DB being kind of like Grissom lite.  Which is okay.  I'd rather have the science, personally!

@@ -15,7 +15,7 @@ newsurl: http://www.orlandosentinel.com/entertainment/tv/tv-guy/os-csi-gil-griss
 
 Gil Grissom (William Petersen) returned to "CSI" to talk to bees, lecture about whale songs and tell of a flower whose fragrance can make anyone lose control. For a final time, Grissom's offbeat brilliance brightened the forensics work.
 
-As the influential CBS crime procedural ended its 15-year run &#8212; SPOILER ALERT &#8212; Grissom also stopped a mad bomber and found personal happiness. Petersen's return was a reminder that "CSI" had never been the same since Grissom left.
+As the influential CBS crime procedural ended its 15-year run - SPOILER ALERT - Grissom also stopped a mad bomber and found personal happiness. Petersen's return was a reminder that "CSI" had never been the same since Grissom left.
 
 An oft-repeated promotional spot signaled the ending. After working a final case, Grissom realized he wanted to be with ex-wife and former colleague Sara Sidle (Jorja Fox). She joined him in the final moments, and they sailed away.
 
@@ -32,4 +32,3 @@ The "CSI" finale played tricks, too: Grissom came up on a corpse that turned out
 But, of course, she wasn't. Grissom, however, did thank her for opening his heart and making him realize his love for Sara.
 
 Now they live in TV history, sailing away and enjoying a happily-ever-after that will not end. After all that forensics, why not love?
-

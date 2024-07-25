@@ -23,7 +23,7 @@ tags:
     - video
 ---
 
-Jorja is in this episode! Huzzah!  You'll catch it tonight on an all new <em>CSI</em>!
+Jorja is in this episode! Huzzah!  You'll catch it tonight on an all new _CSI_!
 <h3>Official Release</h3>
 A string of deaths, including a gamer found dead on his couch and a newly divorced man at the bottom of a pool, instigate a bet among the CSIs as to whether they've "hit for the cycle" – a homicide, a suicide, an accidental and a natural death all in one night.
 <h3>Videos</h3>

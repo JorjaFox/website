@@ -42,4 +42,4 @@ As this is a matter close to Jorja's heart, who can be surprised to find out tha
 
 Credit: RattleTheCage.org
 
-This work is <em>not completed</em>, so it's not certain exactly what everyone's role/involvement will be.  As with all things, it may not happen, but either way, it's nice to see Jorja still slogging away for the world.
+This work is _not completed_, so it's not certain exactly what everyone's role/involvement will be.  As with all things, it may not happen, but either way, it's nice to see Jorja still slogging away for the world.

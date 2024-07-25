@@ -44,9 +44,9 @@ tags:
     - tv
 ---
 
-<a href="//static.jorjafox.net/wordpress/2009/08/truestory.jpg"><img src="//static.jorjafox.net/wordpress/2009/08/truestory-100x100.jpg" alt="truestory" title="truestory" width="100" height="100" class="alignleft size-thumbnail wp-image-1981" /></a> <em>The True Story</em> was a TV pilot about a surgical intern (played by Jorja Fox) and her brother, a rookie cop (Mark Ruffulo). The essential premise was the kids getting on with their life, now that their father was in jail for killing their mother when they were young children.
+<a href="//static.jorjafox.net/wordpress/2009/08/truestory.jpg"><img src="//static.jorjafox.net/wordpress/2009/08/truestory-100x100.jpg" alt="truestory" title="truestory" width="100" height="100" class="alignleft size-thumbnail wp-image-1981" /></a> _The True Story_ was a TV pilot about a surgical intern (played by Jorja Fox) and her brother, a rookie cop (Mark Ruffulo). The essential premise was the kids getting on with their life, now that their father was in jail for killing their mother when they were young children.
 
-It was later reworked into <em>The Beat</em>, which was sans Jorja. Thanks to the magic of the internet, we now have screencaps for you from the unaired pilot.
+It was later reworked into _The Beat_, which was sans Jorja. Thanks to the magic of the internet, we now have screencaps for you from the unaired pilot.
 
 If you want to see the clip, go to <a href="http://jorjafox.com/popup.html">JorjaFox.com's Reel</a> and watch the video there.
 

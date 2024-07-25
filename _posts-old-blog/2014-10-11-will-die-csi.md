@@ -26,9 +26,9 @@ At least, that's what the promo for Sunday's episode of **"CSI: Crime Scene Inve
 
 From the looks of it, the virus hits one of the pair harder than the other. At one point in the promo, we see a pale, sweaty Sara collapse to the floor while Greg looks on helplessly.
 
-Unfortunately, Russell (<em>Ted Danson</em>) doesn't have much time to worry about his friends and co-workers, since the pathogen ended up on planes headed to four different continents. Still, that doesn't stop a concerned Russell from giving the pair direct orders not to die.
+Unfortunately, Russell (_Ted Danson_) doesn't have much time to worry about his friends and co-workers, since the pathogen ended up on planes headed to four different continents. Still, that doesn't stop a concerned Russell from giving the pair direct orders not to die.
 
 The official synopsis for 'Bad Blood' reads:
 
-<em>Sara and Greg are quarantined after responding to a crime scene that's contaminated with a deadly pathogen.</em></blockquote>
+_Sara and Greg are quarantined after responding to a crime scene that's contaminated with a deadly pathogen._</blockquote>
 https://www.youtube.com/watch?v=WD2Eq8dOqjE

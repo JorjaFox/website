@@ -3,7 +3,7 @@ id: 3064
 title: 'Marlee Matlin on "The Two Mrs. Grissoms"'
 date: '2011-01-24T18:00:35-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '“I think I have the proficiency of a clam right now.” So she''s not great at ASL just yet, we skill find out some cool bits about next week''s <em>CSI</em>.'
+excerpt: '“I think I have the proficiency of a clam right now.” So she''s not great at ASL just yet, we skill find out some cool bits about next week''s _CSI_.'
 layout: post
 guid: 'https://jorjafox.net/?p=3064'
 permalink: /2011/marlee-matlin-two-mrs-grissoms/
@@ -24,7 +24,7 @@ tags:
 
 I'd quote, but let's just go over what we learn:
 
-&bull; Sara <em>did not</em> know about Julia (Marlee) before hand.
+&bull; Sara _did not_ know about Julia (Marlee) before hand.
 &bull; Sara has been trying to forge a relationship with Grissoms' mom off camera (hence the learning of ASL).
 &bull; Sara and Betty don't get along ("there have been looks that could kill" says Jorja).
 &bull; Jorja talked to Billy about the episode beforehand.

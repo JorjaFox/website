@@ -18,7 +18,7 @@ tags:
     - video
 ---
 
-Before we say goodbye to CSI, let's talk about <em>not</em> saying goodbye to animals.
+Before we say goodbye to CSI, let's talk about _not_ saying goodbye to animals.
 
 https://www.facebook.com/JorjaFoxworldwide/posts/892494467467065
 

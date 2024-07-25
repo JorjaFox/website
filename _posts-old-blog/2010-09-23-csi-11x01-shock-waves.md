@@ -33,7 +33,7 @@ Langston fights for his life after being stabbed by psychopath Nate Haskell, whi
 http://www.youtube.com/watch?v=f1sNanoSW5M
 
 <h2>Recap</h2>
-<del><em>Coming Soon!</em></del>
+<del>_Coming Soon!_</del>
 
 Three stars.  Not a bad ep, but a very standard CSI episode, as opposed to a great season premiere.  And yes, Jorja was in the opening credits.  I found out shortly after I was out of the house and without a way to share!  But I did like that the episode ended with a 'This isn't over....' ending.
 

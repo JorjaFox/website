@@ -26,4 +26,4 @@ http://www.youtube.com/watch?v=U5ijVyH503k
 
 <img class="alignleft size-medium wp-image-4591" title="Dune and Gloom" src="//static.jorjafox.net/wordpress/2012/05/dune-preview-230x153.jpg" alt="Dune and Gloom" width="230" height="153" />By the way, yes, George Eads is coming back next season. There's a post up in the forums: <a href="https://jorjafox.net/agora/on/season-13-whos-in-whos-out/">Who's In, Who's Out</a>
 
-We don't know about Jorja <em>yet</em>, and please don't panic. We usually don't find out before June anyway, so just be patient.
+We don't know about Jorja _yet_, and please don't panic. We usually don't find out before June anyway, so just be patient.

@@ -32,7 +32,7 @@ https://twitter.com/bravo_george/status/676855895259660288
 
 <h2>From the news</h2>
 
-The A.V. Club <a href="http://www.avclub.com/article/william-petersen-manhattan-michael-mann-and-sailin-229108">interviewed William Petersen</a> and asked him about <em>Manhattan</em> and <em>CSI</em> (of course).
+The A.V. Club <a href="http://www.avclub.com/article/william-petersen-manhattan-michael-mann-and-sailin-229108">interviewed William Petersen</a> and asked him about _Manhattan_ and _CSI_ (of course).
 
 <blockquote>
   **AVC: So were you happy to come back in order for Gil and Sara to literally sail off into the sunset?**

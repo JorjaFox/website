@@ -18,7 +18,7 @@ tags:
     - producer
 ---
 
-In case the world <em>doesn't</em> end today, did you ever wonder how Jorja got involved in Forever Dusty?
+In case the world _doesn't_ end today, did you ever wonder how Jorja got involved in Forever Dusty?
 
 <a href="//static.jorjafox.net/wordpress/2012/12/slide_269197_1869946_free.jpg"><img class="aligncenter size-full wp-image-6101" alt="Danger High Voltage" src="//static.jorjafox.net/wordpress/2012/12/slide_269197_1869946_free.jpg" width="750" height="380" /></a>
 <blockquote>**How long have you been working on this show**

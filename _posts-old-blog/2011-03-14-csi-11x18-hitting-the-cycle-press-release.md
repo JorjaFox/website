@@ -20,16 +20,16 @@ tags:
     - tv
 ---
 
-<del datetime="2011-03-14T23:39:47+00:00">Just since I know the episode <em>after</em> this one is Lady Heather's, I suspect Sara's <em>not</em> in this one.  Since she's a regular, though, she's listed.</del>
+<del datetime="2011-03-14T23:39:47+00:00">Just since I know the episode _after_ this one is Lady Heather's, I suspect Sara's _not_ in this one.  Since she's a regular, though, she's listed.</del>
 
 <a href="https://jorjafox.net/2011/season-11-csi-cast-schedule/">I was wrong! Yay!</a>
 
 <blockquote>WHEN A GAMER IS FOUND DEAD ON HIS COUCH AND A NEWLY DIVORCED MAN IS DISCOVERED AT THE BOTTOM OF A POOL, THE CSI's BET ON WHETHER THEY'VE HIT FOR THE CYCLE – HOMICIDE, SUICIDE, ACCIDENTAL AND NATURAL DEATHS – ALL IN ONE SHIFT, ON "CSI: CRIME SCENE INVESTIGATION," THURSDAY, MARCH 31
 
-"Hitting for the Cycle" — A string of deaths, including a gamer found dead on his couch and a newly divorced man at the bottom of a pool, instigate a bet among the CSIs as to whether they've "hit for the cycle" – a homicide, a suicide, an accidental and a natural death all in one night, on CSI: CRIME SCENE INVESTIGATION, Thursday, March 31 (9:00-10:00 PM, ET/PT) on the CBS Television Network. 
+"Hitting for the Cycle" — A string of deaths, including a gamer found dead on his couch and a newly divorced man at the bottom of a pool, instigate a bet among the CSIs as to whether they've "hit for the cycle" – a homicide, a suicide, an accidental and a natural death all in one night, on CSI: CRIME SCENE INVESTIGATION, Thursday, March 31 (9:00-10:00 PM, ET/PT) on the CBS Television Network.
 
 SERIES REGULARS:
-Dr. Raymond Langston............. Laurence Fishburne 
+Dr. Raymond Langston............. Laurence Fishburne
 Catherine Willows............. Marg Helgenberger
 Nick Stokes.............. George Eads
 Captain Jim Brass................ Paul Guilfoyle

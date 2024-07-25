@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "Actresses ready for &#8216;Dear Bernard' opening"
+newstitle: "Actresses ready for 'Dear Bernard' opening"
 newsauthor: Staff
 newssource: Hollywood Reporter
 newsurl: http://www.hollywoodreporter.com

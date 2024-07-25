@@ -27,8 +27,8 @@ tags:
 Here we go again.  CBS is changing the order of airing.  In order the next eps are:
 &bull; 233 (1104)	"Blood Moon" - October 07, 2010
 &bull; 234 (1103)	"Sqweegel" - October 14, 2010
-&bull; 235 (1106) "House of Hoarders" - October 21, 2010 <em>NO JORJA</em>
-&bull; 236 (1105)	"Cold-Blooded" - October 28, 2010 <em>NO JORJA</em>
+&bull; 235 (1106) "House of Hoarders" - October 21, 2010 _NO JORJA_
+&bull; 236 (1105)	"Cold-Blooded" - October 28, 2010 _NO JORJA_
 
 The two numbers you see are "episode number (production number)".  The episode number is the order of how many episodes have aired and in what order. So the "Pilot" was 1, and so on.  The production number, however, was the order the script was written and filmed!  Now it's normal for CBS to switch a couple episodes every season.  It's abnormal for them to do it twice.
 

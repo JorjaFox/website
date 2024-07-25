@@ -24,7 +24,7 @@ tags:
 
 **Guest Stars Include Grant Show As Agent Viggo McQuaid and Matt Lauria As Agent Pratt, Who Work With The CSI Team On The Case; Titus Welliver As CEO Mark Gabriel And Annabeth Gish As His Wife, Laura Gabriel**
 
-**CHEAT TWEET: <em>This guy had two jobs before his death: Rancher and ballistics expert. Find out why. 12/7 10pm ET/PT #CSI <a href="http://bit.ly/tZsuyj">http://bit.ly/tZsuyj</a></em>**
+**CHEAT TWEET: _This guy had two jobs before his death: Rancher and ballistics expert. Find out why. 12/7 10pm ET/PT #CSI <a href="http://bit.ly/tZsuyj">http://bit.ly/tZsuyj</a>_**
 
 “Zippered” – When the CSI team discovers a deceased rancher was also a ballistics expert, they have to work with the FBI to solve the case, on CSI, Wednesday, Dec. 7 (10:00-11:00 PM, ET/PT) on the CBS Television Network.  Grant Show guest stars as Agent Viggo McQuaid and Matt Lauria guest stars as Agent Pratt, who both work with the CSI team on the case.  Titus Welliver guest stars as CEO Mark Gabriel, and Annabeth Gish guest stars as his wife, Laura Gabriel.</blockquote>
 <img class="alignleft size-thumbnail wp-image-4034" title="Zippered" src="//static.jorjafox.net/wordpress/2011/11/zippered-210x140.jpg" alt="Zippered" width="100" height="75" />Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/shows/csi-crime-scene-investigation/releases/view?id=29916">CBS Press Express</a>

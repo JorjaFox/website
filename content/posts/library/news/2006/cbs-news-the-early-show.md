@@ -7,7 +7,7 @@ permalink: /news/2006/:title/
 categories: ["Articles", "News"]
 tags: ["2006"]
 
-newstitle: "The Early Show: Inside Minds Of &#8216;CSI' Characters"
+newstitle: "The Early Show: Inside Minds Of 'CSI' Characters"
 newsauthor: Staff
 newssource: CBS News
 newsurl: http://www.cbsnews.com
@@ -32,9 +32,9 @@ Also this season, the ticking time bomb of attraction continued between Grissom 
 
 "You're more Sara than Jorja," Chen observed.
 
-"Yeah, yeah, no, it's confusing sometimes," Fox responded. "Certain times of the year, I'll buy a piece of wardrobe and I'll look at it in the summer and I'll be like, &#8216;Who bought that? Who did... Oh, right, Sara must have bought that!'" she laughed. "You know, it's a strange thing that you go in and out of."
+"Yeah, yeah, no, it's confusing sometimes," Fox responded. "Certain times of the year, I'll buy a piece of wardrobe and I'll look at it in the summer and I'll be like, 'Who bought that? Who did... Oh, right, Sara must have bought that!'" she laughed. "You know, it's a strange thing that you go in and out of."
 
-Last season ended with Nick Stokes, portrayed by George Eads, buried alive &#8212; and this season appeared to follow in that dark tradition, Chen said. There was a murder scene that echoed the Holocaust, another episode in which a woman was sealed alive inside a chimney, and the team even investigated a mass suicide.
+Last season ended with Nick Stokes, portrayed by George Eads, buried alive - and this season appeared to follow in that dark tradition, Chen said. There was a murder scene that echoed the Holocaust, another episode in which a woman was sealed alive inside a chimney, and the team even investigated a mass suicide.
 
 "I think the word has come down on the Internet," said Gary Dourdan, who plays Warrick Brown. "I think they've been getting feedback, that's what people like. They like watching the train wreck. They like watching the car accident. They like watching the dark stuff. We can show things on our show, on network television, the bloodiest stuff.
 
@@ -42,7 +42,7 @@ Last season ended with Nick Stokes, portrayed by George Eads, buried alive &#821
 
 In Thursday night's episode, a Las Vegas casino becomes a maze of chases and deceptions after only one man survives the brutal killing of his wife and co-workers.
 
-Dourdan told Chen with a chuckle that the soundstage t is so realistic, "When you walk on the set, it's, you're, you're in a casino. (laugh) They had to walk around and tell the extras, &#8216;Don't put money in the slot machines! You won't get it back! They do not work!' "
+Dourdan told Chen with a chuckle that the soundstage t is so realistic, "When you walk on the set, it's, you're, you're in a casino. (laugh) They had to walk around and tell the extras, 'Don't put money in the slot machines! You won't get it back! They do not work!' "
 
 Chen notes the actors couldn't be happier that "CSI" is heading into its final two episodes with two cliffhangers on tap, even though it's not something "CSI" usually does.
 

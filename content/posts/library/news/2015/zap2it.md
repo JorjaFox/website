@@ -26,4 +26,3 @@ The episode was largely dominated by Grissom, which seems only right since the c
 Grissom had a lot of great lines, including a poem: 'Evidence may bear, even if rare,' he said. 'It's what's not there that gives you a scare.' But ultimately a lot of it came down to terrorism, Catherine's box and a lonely 52-Hertz whale. And although some may not love Gil's happy ending that had him and Sara boating off together (many consider their romance as the moment when 'CSI' jumped its own shark), it was a beautiful farewell to a beloved character.
 
 With 'CSI' gone for good, fans will undoubtedly be sad that they're losing a landmark show that some feared had hung on too long. Then again, as Gil said in one of his final moments: 'You can't lose something you never had.'
-

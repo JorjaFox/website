@@ -52,4 +52,3 @@ As the cargo doors on the Transportes Aereos Bolivianos plane were opened, lions
 As the crated animals were unloaded, they moved in closer.
 
 "We are just here for protection," one officer said, adding that they did not anticipate that any of the animals would escape from the steel crates.
-

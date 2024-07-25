@@ -3,7 +3,7 @@ id: 3041
 title: 'Nina Tassler sees CSI in CBS's Future'
 date: '2011-01-14T16:17:18-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'While CBS'' Winter TCA press day in Pasadena, CA didn''t outright say <em>CSI</em> is sticking around, signs are good.'
+excerpt: 'While CBS'' Winter TCA press day in Pasadena, CA didn''t outright say _CSI_ is sticking around, signs are good.'
 layout: post
 guid: 'https://jorjafox.net/?p=3041'
 permalink: /2011/nina-tassler-sees-csis-future/

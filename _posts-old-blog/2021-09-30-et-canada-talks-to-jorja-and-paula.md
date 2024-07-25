@@ -27,7 +27,7 @@ tags:
     - video
 ---
 
-Fresh from the frozen north, ET Canada talked to Jorja and Paula (Newsome, who plays Max Roby) about why you're going to love <em>CSI: Vegas</em>
+Fresh from the frozen north, ET Canada talked to Jorja and Paula (Newsome, who plays Max Roby) about why you're going to love _CSI: Vegas_
 
 <blockquote class="wp-block-quote">"CSI: Crime Scene Investigation" star Jorja Fox tells Morgan Hoffman why she thinks fans are going to "fall in love" with the rebooted fan-favourite crime scene procedural. Plus, franchise newcomer Paula Newsome shares what it was like working with Jorja and how the actress keeps her in line on set.</blockquote>
 

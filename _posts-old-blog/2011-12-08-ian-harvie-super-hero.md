@@ -19,11 +19,11 @@ tags:
     - fundraiser
 ---
 
-<img src="//static.jorjafox.net/wordpress/2011/12/jpeg-186x140.jpeg" alt="Super Hero - Ian Harvie&#039;s Standup Comedy Special Filming" title="Super Hero - Ian Harvie&#039;s Standup Comedy Special Filming" width="100" height="75" class="alignleft size-thumbnail wp-image-4100" />You guys know how Jorja did the <em>Ian Harvie Show</em> and then was with him for his NoH8 performace (with Margaret Cho too)?  Well Ian asked me if I'd pass this along, and since he's been one of my favorite comics since before Jorja did his show, I said "Hell yes!"
+<img src="//static.jorjafox.net/wordpress/2011/12/jpeg-186x140.jpeg" alt="Super Hero - Ian Harvie&#039;s Standup Comedy Special Filming" title="Super Hero - Ian Harvie&#039;s Standup Comedy Special Filming" width="100" height="75" class="alignleft size-thumbnail wp-image-4100" />You guys know how Jorja did the _Ian Harvie Show_ and then was with him for his NoH8 performace (with Margaret Cho too)?  Well Ian asked me if I'd pass this along, and since he's been one of my favorite comics since before Jorja did his show, I said "Hell yes!"
 
-Ian's a comedian, if you didn't know, and he's actually the first FTM (female-to-male) transgender comic.     He's funny as all get out and he has a <em>week</em> to make his goal!  He's already halfway there, so if you think he's funny (and do watch the bit below), then consider tossing him $25. Hey, you'd blow it on coffee at Starbucks, right?  I'd rather give him the money then that neat swag I was looking at.
+Ian's a comedian, if you didn't know, and he's actually the first FTM (female-to-male) transgender comic.     He's funny as all get out and he has a _week_ to make his goal!  He's already halfway there, so if you think he's funny (and do watch the bit below), then consider tossing him $25. Hey, you'd blow it on coffee at Starbucks, right?  I'd rather give him the money then that neat swag I was looking at.
 
-His page is up at Kickstarter (which <em>only</em> charges you if the project is successful): **<a href="http://www.kickstarter.com/projects/ianharvie/super-hero-ian-harvies-standup-comedy-special-film">Super Hero - Ian Harvie's Standup Comedy Special Filming</a>**
+His page is up at Kickstarter (which _only_ charges you if the project is successful): **<a href="http://www.kickstarter.com/projects/ianharvie/super-hero-ian-harvies-standup-comedy-special-film">Super Hero - Ian Harvie's Standup Comedy Special Filming</a>**
 
 <iframe frameborder="0" height="410px" src="http://www.kickstarter.com/projects/ianharvie/super-hero-ian-harvies-standup-comedy-special-film/widget/video.html" width="480px"></iframe>
 

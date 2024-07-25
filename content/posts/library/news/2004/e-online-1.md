@@ -58,4 +58,3 @@ Sometimes not even stars have been immune. In 1982, Dukes of Hazzard pin-ups Joh
 None of Thursday's wrangling is likely to bolster the mood of CSI main man Petersen. The actor/producer has been griping for months about CBS' franchising of CSI, as evidenced in CSI: Miami and the upcoming CSI: New York.
 
 Last spring, Petersen warned that this coming TV year would be his last on the show, which averaged more than 25 million viewers each week.
-

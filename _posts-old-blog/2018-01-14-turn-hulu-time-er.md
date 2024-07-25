@@ -16,7 +16,7 @@ tags:
     - er
 ---
 
-All fifteen seasons of <a href="http://variety.com/2018/tv/news/er-streaming-hulu-deal-330-episodes-1202664169/"><em>ER</em> will be available on Hulu</a> as of today!
+All fifteen seasons of <a href="http://variety.com/2018/tv/news/er-streaming-hulu-deal-330-episodes-1202664169/">_ER_ will be available on Hulu</a> as of today!
 
 That's over 330 episodes, stat! Of course, you probably only want to watch the Jorja(n) Fox episodes. And you know I've got your back for that.
 

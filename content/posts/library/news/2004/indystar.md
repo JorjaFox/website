@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "Fired &#8216;CSI' stars will return to show after all"
+newstitle: "Fired 'CSI' stars will return to show after all"
 newsauthor: Staff
 newssource: IndyStar
 newsurl: http://www.indystar.com/
@@ -18,4 +18,3 @@ Actors **George Eads** and **Jorja Fox** will both be back on the job next week 
 Eads reached an agreement Friday to return to television's most popular drama after he was fired for skipping work in what CBS believed was a contract dispute, CBS entertainment spokesman **Chris Ender** said. Eads rejoins Fox, who came to her own agreement to come back on Thursday after being fired. A spokeswoman for Eads did not immediately return a call seeking comment Friday.
 
 [...]
-

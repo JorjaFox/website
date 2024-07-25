@@ -33,7 +33,7 @@ A thrift store donation turns gruesome when a dead body is found in a box; meanw
 http://vimeo.com/19712872
 
 <h3>Recap</h3>
-<del datetime="2011-02-11T03:37:18+00:00"><em>Coming Soon!</em></del>
+<del datetime="2011-02-11T03:37:18+00:00">_Coming Soon!_</del>
 
 That was adorable.  It was funny, it was a little slow paced, and I saw the killer a mile away (maybe she'll be in therapy with Hannah).  Also now I really want a buddy cop show with Jorja and Katee Sackhoff.  I hope Katee comes back next season!
 

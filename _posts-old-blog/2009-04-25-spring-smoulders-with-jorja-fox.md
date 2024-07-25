@@ -38,4 +38,4 @@ tags:
 
 Visit Green With Glamour's Jorja Profile for all of their Jorja Love.
 
-<em>Edited to add a link to the A smouldering photoshoot with Jorja Fox… where do we begin?</em>
+_Edited to add a link to the A smouldering photoshoot with Jorja Fox… where do we begin?_

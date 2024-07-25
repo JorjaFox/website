@@ -58,4 +58,3 @@ Did you know that...
 - her weakness (peccadillo) is French wine.
 
 - she speaks French a little bit; her mother was from Quebec.
-

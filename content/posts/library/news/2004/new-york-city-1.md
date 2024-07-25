@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "Las Vegas &#8216;CSI' makes news on Press Tour"
+newstitle: "Las Vegas 'CSI' makes news on Press Tour"
 newsauthor: Staff
 newssource: New York City
 newsurl: http://www.nynewsday.com
@@ -24,4 +24,3 @@ The man who said, "You're fired," Leslie Moonves, co-president and co-chief oper
 At his news conference, Moonves was also asked about the possibility that the FCC may fine the network and its owned stations for singer Janet Jackson's notorious "wardrobe malfunction" at this year's Super Bowl. He said it was "patently ridiculous" to blame CBS for an incident over which it had no control and that the network would fight any fine levied.
 
 [...]
-

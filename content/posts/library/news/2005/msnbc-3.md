@@ -22,4 +22,3 @@ newsurl: http://msnbc.com
 **Sara, do you still work at CSI?** Sara is getting less and less screen time this season. Coroner's assistant Super Dave seems to log more screen time than she does. Does a CSI have to get buried alive to rate a little more storyline? Or is it time for Sara to move on to a new lab?
 
 [...]
-

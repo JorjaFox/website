@@ -18,6 +18,6 @@ newsurl: http://tv.msn.com/tv/galleryfeature/tvs-top-cops/?photoidx=7
 
 **Nerdiest Cop: Sara Sidle, "CSI: Crime Scene Investigation"**
 
-You gotta love her: She's dry, supersmart, slightly damaged and obsessed with cadavers. The original "CSI" isn't what you'd call a character-driven show, but Sara Sidle has more personality than all her co-workers combined. Too bad depression got the best of this geek guru. We can only hope for the surprise return of her character &#8212; and, hopefully, no more lab explosions.
+You gotta love her: She's dry, supersmart, slightly damaged and obsessed with cadavers. The original "CSI" isn't what you'd call a character-driven show, but Sara Sidle has more personality than all her co-workers combined. Too bad depression got the best of this geek guru. We can only hope for the surprise return of her character - and, hopefully, no more lab explosions.
 
 [...]

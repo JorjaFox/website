@@ -32,7 +32,7 @@ The first half of a CSI double header!
 <blockquote>
 THE CSI TEAM INVESTIGATES A HOMICIDE AT A CONVENTION FOR PEOPLE WHO COLLECT MACABRE MURDER MEMORABILIA, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, JAN. 25
 
-<em>Editor’s note: The air time for this episode has changed.</em>
+_Editor’s note: The air time for this episode has changed._
 
 <img src="//static.jorjafox.net/wordpress/2014/12/0564d4ec4885448fc55b26b11c1ae7436.png" alt="0564d4ec4885448fc55b26b11c1ae743" width="700" height="482" class="aligncenter size-full wp-image-11762" />
 

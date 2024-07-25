@@ -44,4 +44,4 @@ For more information see **<a href="http://veggiepridela.com/">veggiepridela.com
 If you're interested in other Animal Acres events, please visit AnimalAcres.com.
 
 Finally, Jorja is on the front page of the spring newsletter, with a quote from last year's gala:
-<blockquote>Actress Jorja Fox, who stared on "CSI: Crime Scene Investigation," said she is a longtime supporter [of Animal Acres] and follower.  <em>"If you can spend a little time with these creatures, you can connect them again to animals that you love, which I think helps everybody remember the importance of treating them humanely and with dignity."</em></blockquote>
+<blockquote>Actress Jorja Fox, who stared on "CSI: Crime Scene Investigation," said she is a longtime supporter [of Animal Acres] and follower.  _"If you can spend a little time with these creatures, you can connect them again to animals that you love, which I think helps everybody remember the importance of treating them humanely and with dignity."_</blockquote>

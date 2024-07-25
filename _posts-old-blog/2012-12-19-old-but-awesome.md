@@ -24,9 +24,9 @@ Can we take a moment to appreciate their choice of header image?
 
 **Senior Power**: Frequently tops its slot with 13 million viewers.
 
-**Survival Secret**: <em>CSI</em> founded the hugely successful sleek high-tech crime procedural format that launched numerous spin-offs and knock-offs. Most dramas get too expensive and expire after about seven years, but CBS has offset rising costs by regularly shaking up the <em>CSI</em> cast. While ratings declined during Laurence Fishburne’s tenure, current star Ted Danson has helped the series endure a move to Wednesday nights. Plus, everybody wants to know who killed a hooker.
+**Survival Secret**: _CSI_ founded the hugely successful sleek high-tech crime procedural format that launched numerous spin-offs and knock-offs. Most dramas get too expensive and expire after about seven years, but CBS has offset rising costs by regularly shaking up the _CSI_ cast. While ratings declined during Laurence Fishburne’s tenure, current star Ted Danson has helped the series endure a move to Wednesday nights. Plus, everybody wants to know who killed a hooker.
 
-**Life Expectancy**: Fully expected to return next season. Beyond that, <em>CSI</em>‘s fate will rest on its performance and whether CBS can find new worthy replacements. (And if you’re wondering which show is the <em>oldest</em> drama on TV, that would be NBC’s modestly rated <em>Law &amp; Order: SVU</em>).
+**Life Expectancy**: Fully expected to return next season. Beyond that, _CSI_‘s fate will rest on its performance and whether CBS can find new worthy replacements. (And if you’re wondering which show is the _oldest_ drama on TV, that would be NBC’s modestly rated _Law &amp; Order: SVU_).
 
-**Runner-up**: The more popular-yet-younger <em>NCIS</em> (10 years).</blockquote>
+**Runner-up**: The more popular-yet-younger _NCIS_ (10 years).</blockquote>
 Credit: <a href="http://insidetv.ew.com/2012/12/19/old-hits/3/">EW</a>

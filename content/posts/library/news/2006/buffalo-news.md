@@ -19,4 +19,3 @@ newsurl: http://www.buffalonews.com
 **7.** Yes, you might have seen Jorja Fox at a local restaurant. Fox, who plays Sara Sidle, Grissom's (William Petersen) love interest on "CSI," occasionally visits Western New York because she has relatives here.
 
 [...]
-

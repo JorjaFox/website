@@ -20,4 +20,3 @@ A hundred or so hearty fans -or maybe foolhardy fans -stood under umbrellas acro
 White canvas tenting sheltered fans lucky enough to get bleacher seats, as well as the pampered and preened stars.
 
 "It's one of those days you want to stay in, watch a movie, eat takeout, but this is too good to pass up," "CSI" co-star Jorja Fox said in the hallway before the show started.
-

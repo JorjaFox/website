@@ -24,7 +24,7 @@ It was to Iceland. For Eric Szmanda's birthday.
 
 https://twitter.com/jorjafoxofficia/status/624230429370019840
 
-<em>Iceland</em>!! Dudes.
+_Iceland_!! Dudes.
 
 I need to check with the lists of conventions to see if there's one I can go to there. I've always wanted to.
 

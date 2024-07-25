@@ -24,12 +24,14 @@ With that security under her belt, she has worked on a few films here and there,
 ## Other Credits
 
 ### Film
-- The Hungry Bachelor's Club: Delmar Youngblood - 1999
-- How to Make the Cruelest Month: Sarah Bryant - 1999
-- Velocity Trap: Pallas - 1997
-- Kill-Off: Myra Pavlov - 1989
+
+* The Hungry Bachelor's Club: Delmar Youngblood - 1999
+* How to Make the Cruelest Month: Sarah Bryant - 1999
+* Velocity Trap: Pallas - 1997
+* Kill-Off: Myra Pavlov - 1989
 
 ### Television
-- CSI: Sara Sidle - 2000
-- The West Wing: Special Agent Gina Tuscano - 1999-2000
-- ER: Dr. Maggie Doyle - 1996-1999
+
+* CSI: Sara Sidle - 2000
+* The West Wing: Special Agent Gina Tuscano - 1999-2000
+* ER: Dr. Maggie Doyle - 1996-1999

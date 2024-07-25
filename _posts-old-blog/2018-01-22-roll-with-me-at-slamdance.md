@@ -18,9 +18,9 @@ tags:
     - producer
 ---
 
-The <a href="http://slamdance.com">Slamdance</a> is a showcase for raw and innovative filmmaking self governed - by filmmakers, for filmmakers. The year-round organization serves new and emerging artists, filmmakers and storytellers. They hold a yearly film festival and this year, <a href="https://jorjafox.net/library/producer/roll-with-me/"><em>Roll with Me</em></a>, a film Jorja's <a href="https://jorjafox.net/library/seafox/">Seafox Productions</a> helped produce, was shown.
+The <a href="http://slamdance.com">Slamdance</a> is a showcase for raw and innovative filmmaking self governed - by filmmakers, for filmmakers. The year-round organization serves new and emerging artists, filmmakers and storytellers. They hold a yearly film festival and this year, <a href="https://jorjafox.net/library/producer/roll-with-me/">_Roll with Me_</a>, a film Jorja's <a href="https://jorjafox.net/library/seafox/">Seafox Productions</a> helped produce, was shown.
 
-<em>Roll With Me</em> is about Gabriel Cordell's attempt to become the first person to roll across the United States in a standard, manual wheelchair.
+_Roll With Me_ is about Gabriel Cordell's attempt to become the first person to roll across the United States in a standard, manual wheelchair.
 <blockquote>After hitting rock-bottom, a newly sober paraplegic attempts to save his gang-banger nephew’s life by bringing him along on a 3,100-mile wheelchair trek across the United States. What starts out as a challenge to push an unmodified wheelchair from California to New York, morphs into a transcendent journey.</blockquote>
 Slamdance's festival is in Park City, Utah (not Peru - Jorja's phone auto corrected to that over the weekend!) and she and Gabriel are in attendance.
 

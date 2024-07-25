@@ -21,9 +21,9 @@ tags:
 
 <blockquote>THE CSIs INVESTIGATE A MURDER NEAR THE FREAKISH ATTRACTIONS OF A 19th-CENTURY-INSPIRED TRAVELING SIDESHOW, ON “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, NOV. 2
 
-**CHEAT TWEET: A cast of characters appears when a Jane Doe is found at a traveling sideshow 11/2 10pm ET/PT #CSI <em><a href="http://bit.ly/tawubY">http://bit.ly/tawubY</a></em>**
+**CHEAT TWEET: A cast of characters appears when a Jane Doe is found at a traveling sideshow 11/2 10pm ET/PT #CSI _<a href="http://bit.ly/tawubY">http://bit.ly/tawubY</a>_**
 
 “Freaks &amp; Geeks” – When a Jane Doe is found near the freakish attractions of a 19th-century-inspired traveling sideshow, the team investigates a cast of unusual characters, on CSI: CRIME SCENE INVESTIGATION, Wednesday, Nov. 2 (10:00-11:00 PM, ET/PT) on the CBS Television Network.</blockquote>
 <a href="//static.jorjafox.net/wordpress/2011/10/sideshow.jpg"><img class="alignleft size-thumbnail wp-image-3934" title="sideshow" src="//static.jorjafox.net/wordpress/2011/10/sideshow-210x140.jpg" alt="" width="100" height="75" /></a>Source: <a href="http://cbspressexpress.com/cbs-entertainment/releases/view?id=29586">CBS Press Express</a>
 
-Jorja's listed, but that's because she's <em>main cast</em>. By all reports she is **not** in this episode.
+Jorja's listed, but that's because she's _main cast_. By all reports she is **not** in this episode.

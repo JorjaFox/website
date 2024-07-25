@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-It's time for Season fourteen to hit the air! Screencaps and a recap will probably be up Saturday unless someone else fills in for me (of <em>course</em> I won't be home till then!). Actually I'm not home now... I love being able to schedule things.
+It's time for Season fourteen to hit the air! Screencaps and a recap will probably be up Saturday unless someone else fills in for me (of _course_ I won't be home till then!). Actually I'm not home now... I love being able to schedule things.
 
 Oh right! There's a new episode in a couple hours!
 <blockquote><img class="alignright size-medium wp-image-8477" alt="The Devil and D.B. Russell" src="//static.jorjafox.net/wordpress/2013/09/Morgan.jpeg" width="300" height="199" /> THE CSI TEAM RACES TO FIND MORGAN AND ELLIE BRASS FOLLOWING THEIR KIDNAPPING, ON THE 14th SEASON PREMIERE OF “CSI: CRIME SCENE INVESTIGATION,” WEDNESDAY, SEPT. 25

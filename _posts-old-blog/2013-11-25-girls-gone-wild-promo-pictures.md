@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-You ready? You <em>really really</em> ready? Totally? I mean come on, are you ready? Eleven images from CBS for this week's CSI. <em>Eleven</em>. With Jorja. And a couple without, but **eleven**. Eleeeeevvveeeeennn.
+You ready? You _really really_ ready? Totally? I mean come on, are you ready? Eleven images from CBS for this week's CSI. _Eleven_. With Jorja. And a couple without, but **eleven**. Eleeeeevvveeeeennn.
 
 [gallery ids="9420,9422,9421,9416,9415,9418,9414,9417,9412,9419,9413"]
 

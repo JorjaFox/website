@@ -24,7 +24,7 @@ tags:
 
 On November 15, 2000, I registered JorjaFox.net, bought the hosting, and brought us all here, to this very place.
 
-Well, not this place.  We started on SimpleNet, moved to Yahoo, and then eventually to <a href="http://www.liquidweb.com/?RID=JFO123">LiquidWeb</a> (where we are today on a big ol' server!).  Last year, I put the date in my calendar, and it beeped at me today to remind me that this is the end of year 11 and the start of year 12.  I remember the reason I got the domain: <em>CSI</em> had just gotten it's full season pickup.
+Well, not this place.  We started on SimpleNet, moved to Yahoo, and then eventually to <a href="http://www.liquidweb.com/?RID=JFO123">LiquidWeb</a> (where we are today on a big ol' server!).  Last year, I put the date in my calendar, and it beeped at me today to remind me that this is the end of year 11 and the start of year 12.  I remember the reason I got the domain: _CSI_ had just gotten it's full season pickup.
 
 That was a long time ago, and who knew then that today I'd be pulling off the curtain on a winter fundraiser!
 

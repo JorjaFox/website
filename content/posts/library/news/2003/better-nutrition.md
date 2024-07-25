@@ -45,7 +45,6 @@ Along the way, Fox began to examine the way she'd been eating. A lifelong meat-a
 
 **sweet success**
 
-
 At age 19, Fox got her first movie role in *The Kill-Off*, a dark and disturbing independant film that was shown at the Sundance Film Festival. And soon after, other roles started coming her way. "By age 25, I knew I could make a living as an actor," she says.
 
 At 34, she has ample proof that she was right. Her resume includes stints on the best and brightest of what's on the small screen. in addition to her roles on *ER* and *The West Wing*, Fox has also appeared on *Law & Order*, the "coming out" episode of *Ellen*, and in such films as *The Jerky Boys*, *Dead Funny* and *The Hungry Bachelor's Club*.
@@ -71,7 +70,6 @@ She also exercises when she can. "I'm not a gym person," she says. So when she w
 Her favorite workout partner is Ali, the boxer, who's always up for a run whenever she is, which more than likely is late in the evening. While the two of them often go for a run at 10 p.m., after working, you'll never see them out before the sun rises. "I'm not a morning person," says Fox, "I wake up slowly."
 
 **on the go**
-
 
 Despite the struggle to get out of bed each morning, Fox unfailingly shows up to breathe life into Sidle, a key player on the CSI autopsy team and a role that Fox embodies with pleasure. "I love my character," she says. "She's so smart. She's at the top of her game. Every day is a learning experience."
 

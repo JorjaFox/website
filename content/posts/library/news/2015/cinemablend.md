@@ -22,4 +22,3 @@ Although Ted Danson and the new players--minus Elisabeth Shue and George Eads' c
 Which leads us to the lovely final few minutes of the series, when Grissom tells the bomber that he understands bombs as much as he understands oceans, talking to the criminal about a whale and comparing the whale to the bomber's ultimate love for Lady Heather. Catherine Willows decides to put her 'hat in the ring' for a director's position, and D.B. Russell packed up and got ready to go. While we got closure for many of the main characters, the best moment was when Sara decided to come with him on his boat to try a relationship again.
 
 [...]
-

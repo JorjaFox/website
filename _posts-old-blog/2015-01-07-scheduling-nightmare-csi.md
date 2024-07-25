@@ -21,7 +21,7 @@ The <a href="http://www.cbs.com/schedule/">CBS Schedule</a> is confusing at best
 
 [gallery ids="11821,11822" columns="2"]
 
-It looks like there's no CSI this week and none next week. Now, next week makes sense. There's a playoff game. But <em>this</em> week, there's suddenly the "NFL AFC Divisional Playoff Game: IND @ DEN" which I gather was less planned than it may have been? The game starts Sunday January 11, at 4:40pm ET. It's not likely to be over by 7pm, which is when <em>60 Minutes</em> starts. The game on the 18th starts at 6:30pm, so no way in hell will it be done in time for <em>CSI</em>. <a href="http://www.fbschedules.com/nfl/nfl-playoffs-schedule.php">NFL's playoff schedule</a> is very confusing.
+It looks like there's no CSI this week and none next week. Now, next week makes sense. There's a playoff game. But _this_ week, there's suddenly the "NFL AFC Divisional Playoff Game: IND @ DEN" which I gather was less planned than it may have been? The game starts Sunday January 11, at 4:40pm ET. It's not likely to be over by 7pm, which is when _60 Minutes_ starts. The game on the 18th starts at 6:30pm, so no way in hell will it be done in time for _CSI_. <a href="http://www.fbschedules.com/nfl/nfl-playoffs-schedule.php">NFL's playoff schedule</a> is very confusing.
 
 But why not this week? Shouldn't we have been warned in advance? Who the hell knows. I don't watch football, I like baseball.
 

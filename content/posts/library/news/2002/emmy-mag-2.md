@@ -28,4 +28,3 @@ And in a show where everyone seems to get along. "I've never felt closer to a gr
 Fox, a Florida beach girl, is the "cool-but-sweet chick" who surfs and downs veggie burgers. And "I'm the mother hen, for sure," says Helgenberger. She's even been known to bring in pies for the cast and crew. "I'm not exactly Betty Crocker, so I don't actually *make* them," she laughs. "I just try to make sure everyone's doing okay, keep the spirits up."
 
 [...]
-

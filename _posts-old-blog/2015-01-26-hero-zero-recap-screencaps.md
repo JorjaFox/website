@@ -36,4 +36,4 @@ There's enough of Sara in here, with some backstory, to give this a four star ra
  	<li><a href="https://jorjafox.net/wiki/Hero_to_Zero">Recap</a> (4 of 5 stars)</li>
  	<li><a href="https://jorjafox.net/gallery/tv/csi/season15/15-herozero/">Screencaps</a> (238 images)</li>
 </ul>
-That was our first double header CSI. We have another new episode on <em>Tuesday</em> the 25th, and then the last two episodes of the season on the 15th of February.
+That was our first double header CSI. We have another new episode on _Tuesday_ the 25th, and then the last two episodes of the season on the 15th of February.

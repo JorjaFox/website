@@ -22,7 +22,7 @@ tags:
 Thank you Shane!  I asked him, in passing, if Jorja was or wasn't in "Hitting for the Cycle" and bless his little black heart, he went and found out.
 
 So here's the skinny:
-<blockquote>This season on <em>CSI</em> multiple actors have been in-and-out of episodes, most notably** Marg Helgenberger** (Catherine Willows), **Jorja Fox** (Sara Sidle), and **Paul Guilfoyle** (Captain Jim Brass). As the season grows closer to the finish line <em>CSI</em> writer **Christopher Barbour** reveals who will be missing from the final 5 episodes and says: “I sincerely hope fans of all the characters will tune in to each and every episode.  It’ll be quite a ride to the end of the season.”
+<blockquote>This season on _CSI_ multiple actors have been in-and-out of episodes, most notably** Marg Helgenberger** (Catherine Willows), **Jorja Fox** (Sara Sidle), and **Paul Guilfoyle** (Captain Jim Brass). As the season grows closer to the finish line _CSI_ writer **Christopher Barbour** reveals who will be missing from the final 5 episodes and says: “I sincerely hope fans of all the characters will tune in to each and every episode.  It’ll be quite a ride to the end of the season.”
 
 Episode 18 this season will feature the entire cast; episode 19 will have series regulars Marg Helgenberger and **Eric Szmanda** (Greg Sanders) M.I.A.; the following episode regulars Jorja Fox and Wallace Langham (Hodges) will not be present; episode 21 Paul Guilfoyle and **David Berman** (David Phillips) will not be present; and in the season finale you can look forward to seeing the entire cast.</blockquote>
 
@@ -33,6 +33,6 @@ So here's what we get with Jorja:
 	<li>Ep 18 - Hitting for the Cycle - Mar. 31, 2011</li>
 	<li>Ep 19 - Unleashed</li>
 	<li>Ep 21 - Cello and Goodbye</li>
-	<li>Ep 22 - <em>Season Finale</em></li>
+	<li>Ep 22 - _Season Finale_</li>
 </ul>
 

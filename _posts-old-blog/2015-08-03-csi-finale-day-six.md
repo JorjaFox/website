@@ -20,9 +20,9 @@ tags:
     - tv
 ---
 
-To clarify something (and explain the titles change), the finale <em>filming</em> is on day four as of Monday. But everyone's been working on it longer, and Jorja's been back for six days, so today is day six of the filming recap.
+To clarify something (and explain the titles change), the finale _filming_ is on day four as of Monday. But everyone's been working on it longer, and Jorja's been back for six days, so today is day six of the filming recap.
 
-Over the weekend was a memorial for Roberta Custer. You may have seen the various tweets from cast members. 
+Over the weekend was a memorial for Roberta Custer. You may have seen the various tweets from cast members.
 
 > Ms. Custer, 71, died Monday [July 6] in California while house-sitting for William Petersen, a friend from her Chicago stage days, said her son, Christopher. She had segued from acting to become his 20-year personal assistant, handling everything from organizing schedules and reading scripts for Petersen, star of CBS-TV’s long-running “CSI: Crime Scene Investigation.”
 

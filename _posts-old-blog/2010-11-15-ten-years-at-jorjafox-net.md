@@ -26,7 +26,7 @@ tags:
 
 November 15, 2000, I registered JorjaFox.net, bought the hosting, and moved it all off my personal domain and into its own entity.  Which means it's been a decade that you guys have been visiting this URL!  I'm a bit agog at the fact that it's all lasted this long, and that it's all been my baby.
 
-I'm supposed to make a top ten or something about the best moments running the site, but I've never really tried to catalogue my life that way (I always miss something!) and I'm not going to start now! I'm also not going to **stop** any time soon. See, I really love doing this stuff.  I love meeting people, talking to them, raising money for charities, and making folks happy!  Sure, sometimes (usually around March) I hate everyone because <em>CSI</em> sucks up a lot of my life, and oh my GOD, how many times do I have to tell people Jorja's not pregnant (she's not), but by the time August rolls around, I'm raring to go again!
+I'm supposed to make a top ten or something about the best moments running the site, but I've never really tried to catalogue my life that way (I always miss something!) and I'm not going to start now! I'm also not going to **stop** any time soon. See, I really love doing this stuff.  I love meeting people, talking to them, raising money for charities, and making folks happy!  Sure, sometimes (usually around March) I hate everyone because _CSI_ sucks up a lot of my life, and oh my GOD, how many times do I have to tell people Jorja's not pregnant (she's not), but by the time August rolls around, I'm raring to go again!
 
 So thank you for sticking with me for a decade (plus the 5 years we we bounced around), and you're welcome in advance!
 

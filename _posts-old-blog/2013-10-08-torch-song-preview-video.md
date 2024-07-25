@@ -24,6 +24,6 @@ Watch the video on <a href="http://www.cbs.com/shows/csi/video/25D8EFFB-0E66-0A0
 
 https://vimeo.com/77311151
 
-See I <em>told</em> you it was Sara there! I'm loving the hair this season.
+See I _told_ you it was Sara there! I'm loving the hair this season.
 
 This reminds me of the <a href="http://en.wikipedia.org/wiki/2003_E2_nightclub_stampede">E2 fire disaster in Chicago</a> .... 10 years ago. Ow.

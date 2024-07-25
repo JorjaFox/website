@@ -18,9 +18,9 @@ tags:
     - photos
 ---
 
-<em>Edit: Gallery updated with 30 more photos!</em>
+_Edit: Gallery updated with 30 more photos!_
 
-My first thought? "Wow, that is a <em>nice</em> dress!" I really like the color. My second thought was "Wait, Environmental Media Awards?" The <a href="http://www.ema-online.org/">24th EMAs</a> were yesterday, shown on E! It doesn't look like <em>Lion Ark</em> was up for anything, but that doesn't mean much.
+My first thought? "Wow, that is a _nice_ dress!" I really like the color. My second thought was "Wait, Environmental Media Awards?" The <a href="http://www.ema-online.org/">24th EMAs</a> were yesterday, shown on E! It doesn't look like _Lion Ark_ was up for anything, but that doesn't mean much.
 
 Click the image below to see all the lovely photos:
 

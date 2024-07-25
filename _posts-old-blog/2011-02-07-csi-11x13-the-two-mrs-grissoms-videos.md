@@ -25,19 +25,19 @@ All videos are from CBS's CSI Channel on YouTube. They may not be available outs
 Jorja is in all the videos listed below.
 
 **CSI: - Clean Over**
-<em>The car "accident" is looking less and less like an accident.</em>
+_The car "accident" is looking less and less like an accident._
 http://www.youtube.com/watch?v=JfW8ATvBvgc
 
 **CSI: - The Two Mrs. Grissoms**
-<em>What happens when Grissom's mom comes to visit and Sara meets one of Grissom's ex-lovers?</em>
+_What happens when Grissom's mom comes to visit and Sara meets one of Grissom's ex-lovers?_
 http://www.youtube.com/watch?v=TJwfUpEr1SI
 
 **CSI: - You're a Fraud**
-<em>Someone at the hearing impaired academy isn't actually deaf.</em>
+_Someone at the hearing impaired academy isn't actually deaf._
 http://www.youtube.com/watch?v=L-0MnbIEUww
 
 **CSI: - I'm Invisible**
-<em>Two people were involved in creating the bombs, all for money.</em>
+_Two people were involved in creating the bombs, all for money._
 http://www.youtube.com/watch?v=C7Jr6NBjr-U
 
 Oh and in the featured image shot, she's signing 'Are you okay?'

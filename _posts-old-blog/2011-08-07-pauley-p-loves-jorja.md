@@ -20,7 +20,7 @@ tags:
     - 'social media'
 ---
 
-Pauley Perrette (@PauelyP - aka Abby Sciuto from <em>NCIS)</em> has, apparently, known Jorja since their NYC days!
+Pauley Perrette (@PauelyP - aka Abby Sciuto from _NCIS)_ has, apparently, known Jorja since their NYC days!
 
 https://twitter.com/pauleyp/status/100037339845365760
 

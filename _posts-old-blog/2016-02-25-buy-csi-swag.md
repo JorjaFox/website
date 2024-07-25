@@ -30,7 +30,7 @@ No, really. She contacted me, asking if I knew anyone who wanted this stuff. Yes
 
 https://vimeo.com/156725720
 
-So now I have all this stuff and, as I catalogued it, I realized I <em>might</em> be in over my head. I had no idea how to ship these things. My original plan was to just offer these as perks or rewards for donation via something like GoFundMe. Then I got them weighed and estimated at FedEx (looks like about $40 for shipping the big ones across the US) and did the only thing logical.
+So now I have all this stuff and, as I catalogued it, I realized I _might_ be in over my head. I had no idea how to ship these things. My original plan was to just offer these as perks or rewards for donation via something like GoFundMe. Then I got them weighed and estimated at FedEx (looks like about $40 for shipping the big ones across the US) and did the only thing logical.
 
 I went to eBay.
 

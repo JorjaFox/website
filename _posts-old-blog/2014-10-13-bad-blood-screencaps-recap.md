@@ -30,6 +30,6 @@ Also there's a nice review from Zap2It: <a href="http://www.zap2it.com/blogs/cs
 
 Here's something to think about... that episode was written months ago and I promise you, the ebola mentions were in there from day one. Pretty awesome timing.
 
-What did you think about this week's <em>CSI</em>?
+What did you think about this week's _CSI_?
 
-There's no Jorja in next week's <em>CSI</em>, so I'll take a week off and catch up on sleep!
+There's no Jorja in next week's _CSI_, so I'll take a week off and catch up on sleep!

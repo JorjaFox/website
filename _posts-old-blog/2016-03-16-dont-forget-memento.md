@@ -35,5 +35,5 @@ Memento hit the silver screen fifteen years ago today!
 People Magazine looks back at 15 things you should know, including...
 <blockquote>
 <h4>7. It provided a stepping-stone role for Jorja Fox</h4>
-Fox appears in a small role, as Leonard's wife in his flashbacks. She was essentially unknown at the time, but just a few months later she'd become much better-known to mainstream audiences when she joined the first-season cast of <em>CSI</em>.</blockquote>
-Credit: People Magazine – <a href="http://www.people.com/article/memento-movie-trivia">Don't Forget: 15 Things You Didn't Know About <em>Memento</em>, 15 Years Later</a>
+Fox appears in a small role, as Leonard's wife in his flashbacks. She was essentially unknown at the time, but just a few months later she'd become much better-known to mainstream audiences when she joined the first-season cast of _CSI_.</blockquote>
+Credit: People Magazine – <a href="http://www.people.com/article/memento-movie-trivia">Don't Forget: 15 Things You Didn't Know About _Memento_, 15 Years Later</a>

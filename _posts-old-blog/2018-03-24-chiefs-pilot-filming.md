@@ -18,12 +18,12 @@ tags:
     - tv
 ---
 
-By all reports (thank you <a href="http://season-zero.com">Season Zero</a>), <em>Chiefs</em> starts filming their pilot on Sunday in Atlanta.
+By all reports (thank you <a href="http://season-zero.com">Season Zero</a>), _Chiefs_ starts filming their pilot on Sunday in Atlanta.
 
-Let's take the time to wish Jorja, Carol, Liz, and everyone working on the show the best of luck. Remember, the last pilot Jorja filmed that didn't get picked up died a horrible, ugly death (<em>The True Story)</em>. So clearly she's good luck for shows.
+Let's take the time to wish Jorja, Carol, Liz, and everyone working on the show the best of luck. Remember, the last pilot Jorja filmed that didn't get picked up died a horrible, ugly death (_The True Story)_. So clearly she's good luck for shows.
 
 Got that, CBS?
 
-In other <em>Chiefs</em> related news, this appears to be a cop drama and **not** a procedural, which is a change from how CBS has been picking shows. This is a good thing.
+In other _Chiefs_ related news, this appears to be a cop drama and **not** a procedural, which is a change from how CBS has been picking shows. This is a good thing.
 
 Jorja's character is a married Texan with a child in the current write-up, but that may change since they're apparently retooling things for her. Keep your fingers crossed.

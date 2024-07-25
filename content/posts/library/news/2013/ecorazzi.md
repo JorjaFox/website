@@ -23,4 +23,3 @@ The two have become buddies, though. Fox added, "Then all of a sudden, it flippe
 The star of CSI: Crime Scene Investigation"might be a full-time rescuer if not her for her acting job. She said, "If my life had gone in a different direction, this is something I mightve gone into. Animal welfare has given me an anchor in life."
 
 Among other efforts, Fox has also advocated for a vegetarian diet, spoken out against circus cruelty, and been honored for her work helping to rescue 29 circus lions with Bob Barker and Animal Defenders International (ADI). Fox is one of ADIs ambassadors.
-

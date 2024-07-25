@@ -31,4 +31,3 @@ The relationship also changes the usual dynamic between viewers and the characte
 "In this one instance the viewers will be ahead of the CSI's," she said.
 
 [...]
-

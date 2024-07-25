@@ -32,23 +32,23 @@ http://twitter.com/#!/ShaneSSaunders/status/134319905825767424
 
 <center><iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=5YT5W&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe></center><iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=1ZARR&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe>
 
-<em>3:00pm ET</em>
+_3:00pm ET_
 <iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=SL1SY&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe>
 
-<em>3:45pm ET</em>
+_3:45pm ET_
 <iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=8WANV&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe>
 
-<em>4:20pm ET</em>
+_4:20pm ET_
 <iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=VNSY3&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe>
 
-<em>5:30pm ET</em>
+_5:30pm ET_
 <iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=YONJU&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe>
 
-<em>7:30pm ET</em>
+_7:30pm ET_
 <iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=AQJZD&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe>
 
-<em>7:50pm ET</em>
+_7:50pm ET_
 <iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=MMQ3J&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe>
 
-<em>8:20pm ET</em>
+_8:20pm ET_
 <iframe title="Twitvid video player" src="http://www.twitvid.com/embed.php?guid=TKCYM&amp;autoplay=0" frameborder="0" width="480" height="360"></iframe>

@@ -3,7 +3,7 @@ id: 2815
 title: 'Incentive: The Man's an Emotional Termite Screencaps'
 date: '2010-12-17T08:00:00-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Screencaps for <em>The Man''s an Emotional Termite </em>'
+excerpt: 'Screencaps for _The Man''s an Emotional Termite _'
 layout: post
 guid: 'https://jorjafox.net/?p=2815'
 permalink: /2010/incentive-termite-screencaps/

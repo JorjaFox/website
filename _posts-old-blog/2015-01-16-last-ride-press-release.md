@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-<em>This episode airs on a **Tuesday**!</em>
+_This episode airs on a **Tuesday**!_
 
 <blockquote>“The Last Ride” – The CSI team investigates a death involving a vintage Rolls Royce and a chrome-covered victim, on CSI: CRIME SCENE INVESTIGATION, on a special night and time, Tuesday, Jan. 27 (10:00-11:00 PM, ET/PT), on the CBS Television Network.
 

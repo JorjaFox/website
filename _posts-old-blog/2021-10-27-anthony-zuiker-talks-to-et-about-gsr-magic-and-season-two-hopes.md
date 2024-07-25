@@ -25,7 +25,7 @@ tags:
     - 'csi: vegas'
 ---
 
-<em>CSI</em> and <em>CSI: Vegas</em> executive producer Anthony Zuiker spoke to Phillipa Ng about reuniting with Billy and Jorja, what's new and what's old, and what his hopes are for season two.
+_CSI_ and _CSI: Vegas_ executive producer Anthony Zuiker spoke to Phillipa Ng about reuniting with Billy and Jorja, what's new and what's old, and what his hopes are for season two.
 
 The big takeaway in the article is the reality that we **do not** yet have a season two pickup. While signs are decent, that really means very little in 2021.
 

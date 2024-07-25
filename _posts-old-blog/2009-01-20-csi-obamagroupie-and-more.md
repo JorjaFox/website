@@ -3,7 +3,7 @@ id: 1460
 title: 'CSI, ObamaGroupie, and more!'
 date: '2009-01-20T21:31:01-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Three news articles about the surprise <em>CSI</em> appearance and Jorja''s admission of being an Obama Groupie.'
+excerpt: 'Three news articles about the surprise _CSI_ appearance and Jorja''s admission of being an Obama Groupie.'
 layout: post
 guid: 'https://jorjafox.net/?p=1460'
 permalink: /2009/csi-obamagroupie-and-more/
@@ -34,7 +34,7 @@ tags:
     - photos
 ---
 
-When asked by the <a href="http://www.dcexaminer.com/opinion/blogs/YeasandNays/Superhero_summit_at_Milano_0120.html">Washington DC Examiner</a>, Jorja confessed "I think I'm a groupie" when it comes to Obama. 
+When asked by the <a href="http://www.dcexaminer.com/opinion/blogs/YeasandNays/Superhero_summit_at_Milano_0120.html">Washington DC Examiner</a>, Jorja confessed "I think I'm a groupie" when it comes to Obama.
 
 <a href="http://www.shewired.com/Article.cfm?ID=21380">SheWired.com</a> felt Jorja's cameo was way too short.
 

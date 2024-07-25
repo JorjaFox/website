@@ -25,7 +25,7 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2010/11/gala_2008_fox-100x100.jpg" alt="" title="gala_2008_fox" width="100" height="100" class="alignleft size-thumbnail wp-image-2682" /> I hope everyone in the US has managed to get a day off.  While you're digesting your dinner, I have a suggestion.  Instead of Black Friday, or Cyber Monday, how about you give someone the present of life and a better planet?  I'm raising money for Animal Acres this holiday season, in the hopes of keeping animals safe, happy and warm.  Maybe it's just proof of humanity, maybe it's just because this is the right thing to do to keep the planet's ecosystem in check.
 
-Donate to Animal Acres and help teach compassion to a world sorely in need of a little love.  And if you need some incentive, I have posted new <em>Missing Persons</em> screencaps and videos for every new person who donates.  Actually, I've done it for every person who donates (I draw the line if you decide to donate $1 every other day, though).  You get to help a great cause, and you get pressies!
+Donate to Animal Acres and help teach compassion to a world sorely in need of a little love.  And if you need some incentive, I have posted new _Missing Persons_ screencaps and videos for every new person who donates.  Actually, I've done it for every person who donates (I draw the line if you decide to donate $1 every other day, though).  You get to help a great cause, and you get pressies!
 
 The <a href="https://jorjafox.net/blog/2010-fundraiser-for-animal-acres/">2010 Fundraiser for Animal Acres</a> has brought us the following rewards so far:
 &bull; <a href="https://jorjafox.net/blog/incentive-missing-persons-01x16-screencaps/">Screencaps from Episode 01x16 "Tell me you didn't do it..."</a>

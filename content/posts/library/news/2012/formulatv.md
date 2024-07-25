@@ -7,7 +7,7 @@ permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
-newstitle: "Jorja Fox: 'Grissom's return to &#8216;CSI: Las Vegas' was very exciting'"
+newstitle: "Jorja Fox: 'Grissom's return to 'CSI: Las Vegas' was very exciting'"
 newsauthor: Staff
 newssource: Forumla TV
 newsurl: http://www.formulatv.com/noticias/26889/jorja-fox-regreso-grissom-csi-las-vegas-muy-excitante/
@@ -22,7 +22,7 @@ Chain broadcast every Thursday from 22:00 two new episodes of the long-running f
 
 **In the episode "The Two Mrs. Grissom" Sara Sidle uses sign language. Was it challenging for you?**
 
-At first, I panicked. I thought I would have to learn sign language for a scene and suddenly became half of the episode. The writers of &#8216;CSI' give the best of themselves and go for broke.
+At first, I panicked. I thought I would have to learn sign language for a scene and suddenly became half of the episode. The writers of 'CSI' give the best of themselves and go for broke.
 
 **Did you enjoy learning sign language?**
 
@@ -63,4 +63,3 @@ Everything I've heard about Grissom's return. It was incredible to see him again
 **Would you still like to play Sara Sidle?**
 
 I still have not spent a single minute playing Sara boring. Your life is fascinating and interesting. Changes and dangerous, but somehow always has a way out of the difficulties. If you keep calling me to play Sara, I will come.
-

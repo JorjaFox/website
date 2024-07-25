@@ -21,4 +21,3 @@ In this post-Jericho era, any network executive or TV producer who's just signed
 Reinforcing the story that leaving was Fox's decision alone and that the producers were powerless to stop their beloved star from following her creative muse is a savvy move; perhaps the misguided fans will take the hint and direct their next act of devotion towards the actress instead of the show's staff, like hiring a plane trailing a "JORJA! GO BACK TO CSI! WE LOVE YOU BUT WE'RE PRETTY SURE THIS IS THE BEST GIG YOU'LL EVER HAVE!" banner* to circle her house until she realizes the terrible career miscalculation she's just made.
 
 [*OK, maybe they'll need to break that up across a couple of planes and banners.]
-

@@ -17,4 +17,3 @@ newsurl: http://www.filmhead.com/reviews/2001/memento.html
 Jorja Fox as Leonard's wife has just a few moments to make the audience love her, and she succeeds.
 
 [...]
-

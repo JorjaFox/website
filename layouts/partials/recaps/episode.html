@@ -6,7 +6,7 @@
 {{ range $episodes }}
     {{ if eq .title $eptitle }}
         <ul class="list-group list-group-flush">
-            <li class="list-group-item"><a href="/library/actor/{{ $showslug }}-episodes/#season-{{.season}}">Season {{ .season }}</a></li>
+            <li class="list-group-item"><a href="/library/recaps/{{ $showslug }}/#season-{{.season}}">Season {{ .season }}</a></li>
             <li class="list-group-item">Episode {{ .epnum }}{{ if .prodnum}} ({{ .prodnum }}){{ end }}</li>
             <li class="list-group-item">{{ dateFormat "02 January 2006" .airdate }}</li>
         </ul>

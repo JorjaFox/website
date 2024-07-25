@@ -37,7 +37,7 @@ tags:
     - tv
 ---
 
- First, here's a little flashback to the 1990s (spotted by JAA). A promotional photo of Jorja with Big Hair for "<em>Missing Persons</em>"
+ First, here's a little flashback to the 1990s (spotted by JAA). A promotional photo of Jorja with Big Hair for "_Missing Persons_"
 <a href="https://jorjafox.net/gallery/tv/missingpersons/missingpersons.png"><img class="ZenphotoPress_thumb " alt="Promotional" title="Promotional" src="https://jorjafox.net/gallery/cache/tv/missingpersons/missingpersons_200_cw200_ch200_thumb.png"  /></a>
 
 Next we've got a pair of articles on CSI and Jorja's return:

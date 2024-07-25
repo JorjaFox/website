@@ -24,4 +24,3 @@ The actors were in the fifth of their seven-year contracts. Danica Smith, public
 Though a search was under way for their replacements, it's unclear whether show creators will recast the characters or develop new ones, the reports said.
 
 A spokesman for television network CBS refused to comment.
-

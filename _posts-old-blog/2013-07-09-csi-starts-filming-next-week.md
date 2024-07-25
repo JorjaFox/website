@@ -18,7 +18,7 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2013/07/1017121837-1024x682.jpg"><img class="alignright size-medium wp-image-7503" alt="1017121837-1024x682" src="//static.jorjafox.net/wordpress/2013/07/1017121837-1024x682.jpg" width="300" height="199" /></a>Clearly they're waiting for the dust to settle from summer vacations and all that, but <a href="https://twitter.com/Alecdow">@Alecdow</a> will be directing the season 14 premiere.
 
-I know absolutely nothing about CSI's next season, except that I <em>do</em> know that Jorja is in the premiere.
+I know absolutely nothing about CSI's next season, except that I _do_ know that Jorja is in the premiere.
 
 https://twitter.com/Alecdow/status/354462470112423938
 

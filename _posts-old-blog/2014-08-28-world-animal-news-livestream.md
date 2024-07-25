@@ -19,10 +19,10 @@ tags:
     - video
 ---
 
-This video <em>should</em> be world wide... I hope. If not, leave comments and I'll see what can be done.
+This video _should_ be world wide... I hope. If not, leave comments and I'll see what can be done.
 
 [livestream url=http://new.livestream.com/accounts/5644803/events/2458640/videos/60605064]
 
-While Jorja <em>is</em> in the first 45 minutes, she's not the focus of the interview. Still it's very interesting and they talk about <em>Blackfish</em> and <em>Extinction Soup</em> and some of the thoughts behind it. I won't be transcribing since she didn't talk that much and it would be very disjointed. I will try to get some screenshots.
+While Jorja _is_ in the first 45 minutes, she's not the focus of the interview. Still it's very interesting and they talk about _Blackfish_ and _Extinction Soup_ and some of the thoughts behind it. I won't be transcribing since she didn't talk that much and it would be very disjointed. I will try to get some screenshots.
 
 I greatly appreciate that Jorja uses her fame to push issues like this. It's one of the myriad reasons I love running this site.

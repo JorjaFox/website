@@ -33,4 +33,4 @@ https://twitter.com/TheTalk_CBS/status/319212536312496129
 
 https://twitter.com/JulieChen/status/319227723585298432
 
-I have video for you. You will have it <em>TONIGHT</em> because I missed you all. And I'm a geek.
+I have video for you. You will have it _TONIGHT_ because I missed you all. And I'm a geek.

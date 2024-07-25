@@ -7,7 +7,7 @@ permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
-newstitle: "&#8216;CSI Cast & Crew Say Goodbye To Helgenberger  "
+newstitle: "'CSI Cast & Crew Say Goodbye To Helgenberger  "
 newsauthor: Shane S. Saunders
 newssource: CSI Files
 newsurl: http://www.csifiles.com/content/2012/01/csi-cast-crew-say-goodbye-to-helgenberger/
@@ -23,4 +23,3 @@ Tonight, "'Marg Helgenberger"s"' run as sexy, smart, and sassy crime scene inves
 "'-- Jorja Fox"' (Sara Sidle)
 
 [...]
-

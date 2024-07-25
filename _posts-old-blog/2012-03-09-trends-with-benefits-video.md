@@ -22,4 +22,4 @@ tags:
 
 http://www.youtube.com/watch?v=-d2sUe5BBYA
 
-Remember, Jorja's <em>not</em> in this episode. So watch if you want, on March 14th. I will, just to see if Brass talks about how he Tweets again.
+Remember, Jorja's _not_ in this episode. So watch if you want, on March 14th. I will, just to see if Brass talks about how he Tweets again.

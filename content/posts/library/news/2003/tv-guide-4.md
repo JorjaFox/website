@@ -39,4 +39,3 @@ CSI fans. Which makes me think it's dangerous territory they're all better
 off just avoiding. I tune in for the weird cases, the fascinating gadgets,
 and the pleasure of watching some good actors play detective. If I want a
 soap opera, I've got plenty of other places to go.
-

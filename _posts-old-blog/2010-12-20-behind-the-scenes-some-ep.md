@@ -25,4 +25,4 @@ tags:
 
 <a href="https://jorjafox.net/gallery/tv/csi/pub/s10/1019-worldsend.jpg"><img src="//static.jorjafox.net/wordpress/2010/12/behind-scenes-100x100.jpg" alt="" title="behind-scenes" width="100" height="100" class="alignleft size-thumbnail wp-image-2823" /></a> See that image to your left?  No idea where it's from.  It looks like this season (based on Jorja's hair) but that's all I know.  Thanks to Mr. Anonymous (not his real handle) for snagging it!
 
-<em>Aha! It's Season 10 episode 19, "World's End"</em>
+_Aha! It's Season 10 episode 19, "World's End"_

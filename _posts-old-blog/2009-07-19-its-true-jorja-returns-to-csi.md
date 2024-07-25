@@ -65,7 +65,7 @@ I'm sure someone out there is mocking me because I had previously announced that
 So yes, it's true.  And I'm as delighted as you are!
 
 <ul>
-	<li><a href="http://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx">Breaking: Jorja Fox Returns to<em> CSI</em> (TVGuide.com)</a></li>
+	<li><a href="http://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx">Breaking: Jorja Fox Returns to_ CSI_ (TVGuide.com)</a></li>
 	<li><a href="http://ausiellofiles.ew.com/2009/07/breaking-jorja-fox-returns-to-csi.html">Breaking: Jorja Fox returns to 'CSI' (EW)</a></li>
 	<li><a href="http://blog.zap2it.com/frominsidethebox/2009/07/csis-jorja-fox-returns.html">'CSI's' Jorja Fox returns (Zap2it)</a></li>
 	<li><a href="http://perezhilton.com/2009-07-18-jorja-fox-returns-to-csi">Jorja Fox Returns To CSI (PerezHilton)</a></li>

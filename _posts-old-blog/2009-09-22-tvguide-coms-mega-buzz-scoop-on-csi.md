@@ -43,7 +43,7 @@ tags:
     - tv
 ---
 
-<blockquote>**Will we get an update on how Sara and Grissom are doing when Jorja Fox returns to <em>CSI</em>? — Michael**
+<blockquote>**Will we get an update on how Sara and Grissom are doing when Jorja Fox returns to _CSI_? — Michael**
 **ADAM: **What kind of an update are you looking for, Jennifer? A big one? OK, then: Sara and Gil got hitched! Unfortunately, it sounds like married life doesn't suit Sara. "I think she's struggling a little bit with being a housewife," Marg Helgenberger says, explaining why Mrs. Grissom returns to the team. "She comes [to help us] from Paris, where her husband is giving some kind of a lecture series." Come on, Gil — PowerPoints bore everyone, especially wives.
 </blockquote>
 

@@ -35,4 +35,4 @@ tags:
 
 <img src="//static.jorjafox.net/wordpress/2009/02/site-200902-55x100.png" alt="site-200902" title="site-200902" width="55" height="100" class="alignleft size-thumbnail wp-image-1521" /> I know, it seems like just yesterday we re-did the layout (we 'updated' in December), but this is prompted by a technical need.  The <a href="http://gallery.menalto.com/">Gallery</a> code has been overhauled by its maintainers to a whole new template system and I've re-written everything to mesh with that, as well as to work better with older versions of IE (yes, I listened). The image in this post is the current mock up of the site. Unlike previous site upgrades, this will be staged. First the blog, then the wiki, then forums, and finally gallery in a month or two. Why the delay?  It's based on which software is upgrading, when and how.  Once I'm sure that the new design does all I want it to, I'll flip it live here. Until then, if there's something in the layout you love, hate, or want to see, speak up!
 
-<em>Updated: Gallery of how the new design will look on many browsers</em>
+_Updated: Gallery of how the new design will look on many browsers_

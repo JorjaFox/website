@@ -28,11 +28,11 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** The tension getting towards the end of that shot must have been extraordinary.
 
-**Jorja Fox:** Yeah.t was &#8212;
+**Jorja Fox:** Yeah.t was -
 
 **Simon Mayo:** Don't mess up now!
 
-**Jorja Fox:** &#8212; the most stressful day of my life, to be at the end of that scene you know? And If everybody else did it well, the pressure is on you to get through it. [[The West Wing]], there is several, but the one I think I'll call out today, Martin Sheen. Obviously who played the president, very brilliantly on the West Wing. For at least the first couple of seasons on the show, when ever he would go to set or come back from set in the van he would request the actual presidential theme music that we use in the States when the President, you know, our official President, makes entrances and exits.
+**Jorja Fox:** - the most stressful day of my life, to be at the end of that scene you know? And If everybody else did it well, the pressure is on you to get through it. [[The West Wing]], there is several, but the one I think I'll call out today, Martin Sheen. Obviously who played the president, very brilliantly on the West Wing. For at least the first couple of seasons on the show, when ever he would go to set or come back from set in the van he would request the actual presidential theme music that we use in the States when the President, you know, our official President, makes entrances and exits.
 
 **Simon Mayo:** Right.
 
@@ -70,7 +70,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Jorja Fox:** Thank you.
 
-**Simon Mayo:** Would I be correct in saying that sort of politically you are with the West Wing? There is a link to Michael Moore for example, so you are very much of the &#8212;
+**Simon Mayo:** Would I be correct in saying that sort of politically you are with the West Wing? There is a link to Michael Moore for example, so you are very much of the -
 
 **Jorja Fox:** Yes, you might put me ...
 
@@ -136,7 +136,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** Why is that?
 
-**Jorja Fox:** I think we've evolved. Los Angeles is very much around film and television, it's got a great name for itself in that area and most people that come to seek their fame and fortune in Los Angeles come, not only for the entertainment business but specifically for film and television. I think, in American ,when we think of theater we think of Chicago or New York. The theater company that I have, most of us are originally from New York City so that was always something that we loved and we did. In LA it became something to do really because it wasn't what we were trying to do professionally. It was that thing that we got to do for fun and we got to do think that people probably wouldn't pay us to do and be more experimental because we weren't &#8212; It wasn't even sort of a professional calling card for us. It was something to do on the weekends that we enjoyed, that we missed about New York.
+**Jorja Fox:** I think we've evolved. Los Angeles is very much around film and television, it's got a great name for itself in that area and most people that come to seek their fame and fortune in Los Angeles come, not only for the entertainment business but specifically for film and television. I think, in American ,when we think of theater we think of Chicago or New York. The theater company that I have, most of us are originally from New York City so that was always something that we loved and we did. In LA it became something to do really because it wasn't what we were trying to do professionally. It was that thing that we got to do for fun and we got to do think that people probably wouldn't pay us to do and be more experimental because we weren't - It wasn't even sort of a professional calling card for us. It was something to do on the weekends that we enjoyed, that we missed about New York.
 
 We'll do more in a moment, the news i coming up.
 

@@ -32,6 +32,6 @@ It has few goals.
 
 That's really it!  The goal is for entertainment, not to be taken seriously in any way, shape or form.
 
-If you happen to be a Tumblr expert and have suggestions, let me have 'em! I set up IntenseDebate for comments (because a friend of mine works there and suggested it - I'm easy!) and I'm slowly getting that I have to 'friend' people to let them comment so I'm friending everyone), but I <em>think</em> I got it working so anyone can submit content... If you have a Tumblr of course.
+If you happen to be a Tumblr expert and have suggestions, let me have 'em! I set up IntenseDebate for comments (because a friend of mine works there and suggested it - I'm easy!) and I'm slowly getting that I have to 'friend' people to let them comment so I'm friending everyone), but I _think_ I got it working so anyone can submit content... If you have a Tumblr of course.
 
 Enjoy!

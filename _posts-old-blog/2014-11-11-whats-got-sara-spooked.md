@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-This photo from Frank Waldek comes <em>after</em> the lovely people at the CSI Writer's Room confirmed that the big Sara episode this winter is Ep #12. That's "Dead Woods" and is due to air end of December... except with Football Delays, I think it'll be the third week of January.
+This photo from Frank Waldek comes _after_ the lovely people at the CSI Writer's Room confirmed that the big Sara episode this winter is Ep #12. That's "Dead Woods" and is due to air end of December... except with Football Delays, I think it'll be the third week of January.
 
 Still...
 

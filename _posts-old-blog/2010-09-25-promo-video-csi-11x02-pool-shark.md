@@ -1,6 +1,6 @@
 ---
 id: 2609
-title: 'Promo Video &#8212; CSI 11&#215;02: Pool Shark'
+title: 'Promo Video - CSI 11&#215;02: Pool Shark'
 date: '2010-09-25T21:44:22-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'Just when you thought it was safe to go in the water....'

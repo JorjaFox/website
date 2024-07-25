@@ -24,7 +24,7 @@ More Tweets from the <a href="http://twitter.com/csiwritersroom">CSI Writer's Ro
 
 https://twitter.com/csiwritersroom/status/357955990454423552
 
-Oooh! Sara's in the <em>teaser</em> -- wait. Someone's dead, and Ellie, Brass, Ex-Mrs Brass, and Morgan <em>aren't</em> in that list of people. Uh oh.
+Oooh! Sara's in the _teaser_ -- wait. Someone's dead, and Ellie, Brass, Ex-Mrs Brass, and Morgan _aren't_ in that list of people. Uh oh.
 
 https://twitter.com/csiwritersroom/status/357956401630433280
 

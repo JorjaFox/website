@@ -34,4 +34,4 @@ http://www.youtube.com/watch?v=U5ijVyH503k
 
 **Recaps?**
 
-<em>Recap and screencaps will be up Thursday. </em>
+_Recap and screencaps will be up Thursday. _

@@ -23,4 +23,4 @@ tags:
 
 Credit: <a href="http://www.broadwayworld.com/bwwtv/article/Scoop-THE-TALK-on-CBS-Week-of-October-21-2013-20131017">BroadwayWorld</a>
 
-Don't worry, it was verified. I've set my DVR to record, but <em>naturally</em> I'm getting on a plane on Thursday morning to go to Boston for a long weekend (work related) so I may not get video clips or screencaps up very quickly. It's always harder to get these than normal episodes.
+Don't worry, it was verified. I've set my DVR to record, but _naturally_ I'm getting on a plane on Thursday morning to go to Boston for a long weekend (work related) so I may not get video clips or screencaps up very quickly. It's always harder to get these than normal episodes.

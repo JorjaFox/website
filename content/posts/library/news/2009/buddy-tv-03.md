@@ -7,7 +7,7 @@ permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
-newstitle: "Jorja Fox Knows &#8216;CSI' Ain't Exactly for Romantic Stuff (Which Is Perhaps Why She Did &#8216;Drop Dead Diva')  "
+newstitle: "Jorja Fox Knows 'CSI' Ain't Exactly for Romantic Stuff (Which Is Perhaps Why She Did 'Drop Dead Diva')  "
 newsauthor: Henrik Batallones
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx

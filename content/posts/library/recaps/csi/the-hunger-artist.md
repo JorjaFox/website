@@ -28,4 +28,3 @@ Season Finale. The CSIs investigate when the body of an unidentified young woman
 **Sara:** I got crabs.
 **Grissom:** Excuse me?
 **Sara:** I got crabs _(points at the microscope)_ Take a look.
-

@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-**Notice** - This is one of the days we <em>expect</em> CSI to get bumped!
+**Notice** - This is one of the days we _expect_ CSI to get bumped!
 <blockquote>**CBS Sunday, Dec. 21 and 28 (Football Doubleheaders)**
 8:30-9:30 PM, ET/8:00-9:00 PM, PT UNDERCOVER BOSS
 9:30-10:30 PM, ET/9:00-10:00 PM, PT THE MENTALIST
@@ -31,4 +31,4 @@ So please keep that in mind.
 “Angle of Attack” – The CSI’s investigation of the victim of an apparent hit and run leads them into the world of aeronautics, on CSI: CRIME SCENE INVESTIGATION, Sunday, Dec. 21 (10:30-11:30 PM, ET/10:00-11:00 PM, PT), on the CBS Television Network.</blockquote>
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=41407">CBS PressExpress</a>
 
-The episode <em>after</em> this is the Sara heavy one.
+The episode _after_ this is the Sara heavy one.

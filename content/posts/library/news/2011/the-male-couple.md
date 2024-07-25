@@ -24,4 +24,3 @@ It was truly wonderful. Marlee is a genius, I was so jealous watching her work. 
 I've played the villain before, and it's by far my favorite role. I find them far more interesting to play and really fun - when else can you be the bad guy and have no consequences?
 
 [...]
-

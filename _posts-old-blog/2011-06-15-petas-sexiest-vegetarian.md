@@ -24,6 +24,6 @@ tags:
 <blockquote>I voted for Jorja Fox for #sexyvegceleb! Vote here: http://bit.ly/jYwm6p</blockquote>
 Don't have Twitter?  Don't worry!  <a href="http://features.peta.org/sexiest-Vegetarian-Celebrities-2011/Vote.aspx">You can vote old school style too</a>!
 
-By the way. PETA is wrong. @TheJorjaFox is **NOT** Jorja.  That account was the one who was faking being Jorja at the same time I was talking to her people about meeting her in Chicago.  Trust me on that on.  Anyway, if you chose to vote via their website, they'll auto-populate her as <em>@TheJorjaFox</em> so you'll need to edit that for them to 'Jorja Fox.'  Yes, I let them know.
+By the way. PETA is wrong. @TheJorjaFox is **NOT** Jorja.  That account was the one who was faking being Jorja at the same time I was talking to her people about meeting her in Chicago.  Trust me on that on.  Anyway, if you chose to vote via their website, they'll auto-populate her as _@TheJorjaFox_ so you'll need to edit that for them to 'Jorja Fox.'  Yes, I let them know.
 
 Image Credit: <a href="https://jorjafox.net/gallery/pro/advocacy/20060000-peta/">PETA 2006 Photoshoot</a>

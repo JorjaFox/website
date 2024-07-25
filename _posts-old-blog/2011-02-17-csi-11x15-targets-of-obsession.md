@@ -3,7 +3,7 @@ id: 3129
 title: 'CSI 11&#215;15 "Targets of Obsession" Discussion Post (updated)'
 date: '2011-02-17T10:02:32-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Even though we don''t know if Jorja''s in this episode (I don''t think she is...) we may as well have a topic open for the death of the Bieb. <em>Updated at 10:15pm ET</em>'
+excerpt: 'Even though we don''t know if Jorja''s in this episode (I don''t think she is...) we may as well have a topic open for the death of the Bieb. _Updated at 10:15pm ET_'
 layout: post
 guid: 'https://jorjafox.net/?p=3129'
 permalink: /2011/csi-11x15-targets-of-obsession/
@@ -27,7 +27,7 @@ tags:
 Langston testifies against the notorious "Dick & Jane" killer, Nate Haskell. Meanwhile, Nick receives a call from troubled teen Jason McCann (special guest star Justin Bieber) to warn him of impending danger.
 
 <h3>Recap</h3>
-<del datetime="2011-02-18T02:57:06+00:00"><em>Coming Soon!</em></del>
+<del datetime="2011-02-18T02:57:06+00:00">_Coming Soon!_</del>
 
 Yes, Jorja WAS in the episode, but she was a lab rat.  Two stars for Sara, and ... 3/4 for the episode, depending on your point of view.  Bieber is not a good actor, though he's much better than last time. His death scene was amusing.  Nate Haskell's trial ended predictably.  And then he escaped.  He's now been on more than any other special guest. And he still bores me.
 

@@ -25,7 +25,7 @@ You can join the conversation here:
 <a href="http://www.cbs.com/connect/shows/5623/csi-crime-scene-investigation/" target="_blank" rel="nofollow nofollow">http://www.cbs.com/<wbr />connect/shows/5623/<wbr />csi-crime-scene-investigati<wbr />on/</a></blockquote>
 I already RSVPd. Go to CSI's page on Facebook: <a href=" https://www.facebook.com/events/506702629371202/">https://www.facebook.com/events/506702629371202/</a>
 
-I suspect this will be done via Twitter, like their other chats, but I can't be sure. I've set an alarm, I'll tell you that! Remember this will be <em>before</em> the episode airs, so promise me you'll all be respectful people and not badger her for spoilers.
+I suspect this will be done via Twitter, like their other chats, but I can't be sure. I've set an alarm, I'll tell you that! Remember this will be _before_ the episode airs, so promise me you'll all be respectful people and not badger her for spoilers.
 
 Edited: Don't know how to convert timezones? <a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=Live+Chat+with+Jorja&amp;iso=20130220T14&amp;p1=179">Live chat with Jorja Event Timezone Calculator.</a>
 

@@ -17,7 +17,7 @@ tags:
     - video
 ---
 
-While <em><a href="https://jorjafox.net/library/actor/chiefs">Chiefs</a></em> didn't get picked up, the Peach State shared a video of how they turned Georgia into California and turned out one pilot.
+While _<a href="https://jorjafox.net/library/actor/chiefs">Chiefs</a>_ didn't get picked up, the Peach State shared a video of how they turned Georgia into California and turned out one pilot.
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=ja5T9-O1QCg

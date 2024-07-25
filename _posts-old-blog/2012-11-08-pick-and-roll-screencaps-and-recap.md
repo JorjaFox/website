@@ -25,5 +25,5 @@ I may go back and re-recap this (or if someone else wants to write up bits, plea
 	<li><a href="https://jorjafox.net/wiki/Pick_and_Roll">Recap</a></li>
 	<li><a href="https://jorjafox.net/gallery/tv/csi/season13/06pick/">Screencaps</a></li>
 </ul>
-I give it three stars for Sara for the screen time and the sassy interactions with Hodges. Also yes, that was the dad from <em>Family Ties</em>.
+I give it three stars for Sara for the screen time and the sassy interactions with Hodges. Also yes, that was the dad from _Family Ties_.
 <blockquote>**Sidle:** Simple maths get complicated sometimes, when passions are involved.</blockquote>

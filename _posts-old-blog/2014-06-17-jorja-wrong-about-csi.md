@@ -17,7 +17,7 @@ tags:
     - csi
 ---
 
-While some of this is a rehash from the article about <a href="http://www.news.com.au/entertainment/tv/jorja-fox-thought-csi-crime-scene-investigation-would-last-six-weeks/story-e6frfmyi-1226867996661">how Jorja thought <em>CSI</em> would last six weeks</a>, news.au.com celebrates <em>CSI</em> hitting 14 seasons in Australia by asking Eric and Jorja about CSI.
+While some of this is a rehash from the article about <a href="http://www.news.com.au/entertainment/tv/jorja-fox-thought-csi-crime-scene-investigation-would-last-six-weeks/story-e6frfmyi-1226867996661">how Jorja thought _CSI_ would last six weeks</a>, news.au.com celebrates _CSI_ hitting 14 seasons in Australia by asking Eric and Jorja about CSI.
 <blockquote>
 <p style="color: #333333;">But Fox has her own theory on why the original drama in the <span style="font-weight: inherit;">CSI</span> franchise endures.
 <p style="color: #333333;">“I have often thought of our show really as an action-adventure show,” she says.

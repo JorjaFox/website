@@ -24,7 +24,7 @@ http://www.youtube.com/watch?v=Pw_RG4ealbo&amp;feature=youtu.be
 
 Credit: <a href="http://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1hvw2x">CBS Press Express</a>
 
-Oh man. I got the sniffles just watching <em>that</em>, mostly because of the music.
+Oh man. I got the sniffles just watching _that_, mostly because of the music.
 
 Oh and you know, you_ know_ I didn't forget you guys outside the US.
 <ul>

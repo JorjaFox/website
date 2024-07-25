@@ -25,7 +25,7 @@ tags:
 So CSI is back.  Did you miss it?  We made it though a long summer with me being out of town more often than not. An iPad, by the way, isn't quite up to par for running JFO on the road, and internet is spotty in the deep Southern US.
 
 <h2>Important News</h2>
-I've chatted with Jorja's assistant and have been assured that the 'JorjaFox' account on Twitter **is not** Jorja.  They're looking at having the account disabled for impersonation, though really all that account seems to want to do is tell you to join PETA and save the planet, it's not as bad as it could be.  Just remember, <em><a href="https://jorjafox.net/wiki/JorjaPedia:Troll">don't feed the trolls</a></em>.  Personally, I've blocked the account so I don't have to listen to it anymore.
+I've chatted with Jorja's assistant and have been assured that the 'JorjaFox' account on Twitter **is not** Jorja.  They're looking at having the account disabled for impersonation, though really all that account seems to want to do is tell you to join PETA and save the planet, it's not as bad as it could be.  Just remember, _<a href="https://jorjafox.net/wiki/JorjaPedia:Troll">don't feed the trolls</a>_.  Personally, I've blocked the account so I don't have to listen to it anymore.
 
 <h2>CSI</h2>
 We finally got news on the new season.  Some promo photos for  <a href="https://jorjafox.net/blog/csi-11x02-pool-shark-promotional-photos/">Ep 2 "Pool Shark"</a>, a video for <a href="https://jorjafox.net/blog/promo-video-shock-wave/">Ep 1 "Shock Waves"</a> and press releases for <a href="https://jorjafox.net/blog/press-release-blood-moon/">Ep 3 "Blood Moon"</a> and <a href="https://jorjafox.net/blog/press-release-sqweegel/">Ep 4 "Sqweegel"</a>.

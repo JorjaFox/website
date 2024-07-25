@@ -23,7 +23,7 @@ tags:
 
 <h2>CSI</h2>
 
-Oh... you know what? You know what happened in February for <em>CSI</em>.
+Oh... you know what? You know what happened in February for _CSI_.
 
 &bull; Ep 13: **The Two Mrs. Grissoms**: <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/2mrsgris">Screencaps</a> | <a href="https://jorjafox.net/wiki/The_Two_Mrs._Grissoms">Recap</a> | <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms-stills/">Promotional Stills</a> | <a href="https://jorjafox.net/2011/csi-11x13-the-two-mrs-grissoms-videos/">Videos</a>
 &bull; Ep 14: **All That Cremains**: <a href="https://jorjafox.net/2011/csi-11x14-all-that-cremains/">Discussion Post</a> | <a href="https://jorjafox.net/gallery/tv/csi/season11/cremains">Screencaps</a> | <a href="https://jorjafox.net/wiki/All_That_Cremains">Recap</a>

@@ -3,7 +3,7 @@ id: 2647
 title: 'CSI 11&#215;05 "House of Hoarders" Discussion Post (updated)'
 date: '2010-10-20T20:00:12-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'House of Hoarders or House of Horrors?  A home, filled to the brim with ''stuff'' includes a dead body on tonight''s CSI. <em>Updated - WATCH THIS EPISODE!</em>'
+excerpt: 'House of Hoarders or House of Horrors?  A home, filled to the brim with ''stuff'' includes a dead body on tonight''s CSI. _Updated - WATCH THIS EPISODE!_'
 layout: post
 guid: 'https://jorjafox.net/?p=2647'
 permalink: /2010/csi-11x05-house-of-hoarders-discussion-post/
@@ -42,7 +42,7 @@ http://www.youtube.com/watch?v=JJAqsBTVpQ0
 http://www.youtube.com/watch?v=P3VijDk1liw
 
 <h3>Recap</h3>
-<del><em>Coming Soon!</em></del>
+<del>_Coming Soon!_</del>
 
 ... Oh my god.  Five stars. No questions.  And this delivery is what made it so:
 <blockquote>My mother was schizophrenic. On night, she got a butcher knife out of a drawer. She walked into the bedroom and while my father was sleeping, she stabbed him in the heart. Again and again. To say that my childhood was screwed up is an understatement. But. I survived it. Just like you did. You and your sister grew up together in that house, and you took two completely different paths. Sometimes when we're faced with crimes that are so incomprehensible, we want answers. We want to believe that there's some order to things. Sometimes there just isn't.</blockquote>

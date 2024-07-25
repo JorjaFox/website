@@ -3,7 +3,7 @@ id: 3025
 title: 'January 2011 in Review'
 date: '2011-02-01T06:00:24-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'January was a Jorja-Free month on <em>CSI</em>, but not in the news.  We''ve got a surprising lot going on this month! Like this guy you may know coming for a visit.'
+excerpt: 'January was a Jorja-Free month on _CSI_, but not in the news.  We''ve got a surprising lot going on this month! Like this guy you may know coming for a visit.'
 layout: post
 guid: 'https://jorjafox.net/?p=3025'
 permalink: /2011/january-2011-in-review/
@@ -25,7 +25,7 @@ tags:
 On to the news!
 
 <h2>CSI</h2>
-After shutting down a mess of YouTube accounts run by fans, CBS turned around and made their own clip-site on YouTube, available for all countries (or at least I've not heard of anyone <em>not</em> having access).  I posted all the <a href="https://jorjafox.net/2011/csi-11x10-418427-videos/">CSI 11x10 "418/427" Videos</a>, but you can see more at <a href="https://www.youtube.com/user/CSI">http://www.youtube.com/show/csi</a>.
+After shutting down a mess of YouTube accounts run by fans, CBS turned around and made their own clip-site on YouTube, available for all countries (or at least I've not heard of anyone _not_ having access).  I posted all the <a href="https://jorjafox.net/2011/csi-11x10-418427-videos/">CSI 11x10 "418/427" Videos</a>, but you can see more at <a href="https://www.youtube.com/user/CSI">http://www.youtube.com/show/csi</a>.
 
 Speaking of YouTube, eagle eyed site posters found a couple old videos to delight.  <a href="https://jorjafox.net/2011/gsr-in-season-7/">CSI Season 7 clips about GSR</a>, and the infamous <a href="https://jorjafox.net/2011/csi-season-9-grissoms-goodbye/">CSI Season 9 interview where Billy said Sara is the heart of Grissom</a>. Awww.
 

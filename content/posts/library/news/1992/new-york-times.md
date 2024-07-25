@@ -5,7 +5,7 @@ layout: news
 permalink: /news/1992/:title/
 categories: ["Articles", "News"]
 tags: ["1992"]
-newstitle: "Review/Television; &#8216;Afterschool' Mini-Series on Life at the Mall"
+newstitle: "Review/Television; 'Afterschool' Mini-Series on Life at the Mall"
 date: 1992-03-19
 newsauthor: John J. O'Conner
 newssource: The New York Times
@@ -19,4 +19,3 @@ In subsequent stories, Marla Clayton (Samaria Graham) will have to come to terms
 Beneath the usual television gloss there's a new grittiness, evident even in the casting, which clearly has tried to avoid stereotypically pretty new faces. Some of the actors, especially the intriguingly offbeat Ms. Fox, impressively convey the value of pure talent.
 
 [...]
-

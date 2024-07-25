@@ -18,7 +18,7 @@ tags:
     - spoilers
 ---
 
-The Writers Room is up and tweeting. Besides the usual jokes, there was a <em>Highlander</em> reference, a Squeegel remark (they're not allowed to talk about it), and a peek at their white board.
+The Writers Room is up and tweeting. Besides the usual jokes, there was a _Highlander_ reference, a Squeegel remark (they're not allowed to talk about it), and a peek at their white board.
 
 http://twitter.com/CSIWritersRoom/status/373585575229411328
 

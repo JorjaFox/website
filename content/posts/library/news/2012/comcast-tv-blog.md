@@ -33,4 +33,3 @@ Sara going mano a mano with a serial killer and bonding with Russell over painfu
 And maybe our favorite, seeing the team literally be a team... on the field in a softball game... where Henry (Jon Wellner) drives in the winning run.
 
 [...]
-

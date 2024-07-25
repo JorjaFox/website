@@ -3,7 +3,7 @@ id: 2048
 title: 'Monthly Roundup — October'
 date: '2009-11-01T11:38:43-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '<em>CSI</em>, <em>CSI</em>, and more <em>CSI</em>!  Read about that and what else happened in October here.'
+excerpt: '_CSI_, _CSI_, and more _CSI_!  Read about that and what else happened in October here.'
 layout: post
 guid: 'https://jorjafox.net/?p=2048'
 permalink: /2009/monthly-roundup-october/

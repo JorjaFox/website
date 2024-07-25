@@ -17,9 +17,9 @@ tags:
     - tv
 ---
 
-<em>CSI</em> will air its Season 15 finale Sunday, February 15, provided there are no more football delays (which, if there are, will be Dec 21 and 28).
+_CSI_ will air its Season 15 finale Sunday, February 15, provided there are no more football delays (which, if there are, will be Dec 21 and 28).
 
-Now I will note my surprise seeing <em>Cyber</em> is on Wednesday. Wasn't it supposed to take over <em>CSI</em>'s Sunday slot? Looks like they gave that to <em>Battle Creek</em> and are having <em>Cyber</em> and <em>Stalker</em> switch out.
+Now I will note my surprise seeing _Cyber_ is on Wednesday. Wasn't it supposed to take over _CSI_'s Sunday slot? Looks like they gave that to _Battle Creek_ and are having _Cyber_ and _Stalker_ switch out.
 <blockquote>“Battle Creek,” From Emmy Award-Winning Executive Producers David Shore and
 Vince Gilligan, Debuts Sunday, March 1 at 10:00 PM
 
@@ -41,4 +41,4 @@ CBS Wednesday, Effective March 4
 10:00-11:00 PM CSI: CYBER (P)</blockquote>
 Credit: <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=41420">CBS Press Express</a>
 
-What does any of this have with regards to another season of <em>CSI</em>? No idea. CBS swears the short order has no bearing on another season, nor does George's leaving, but we'll just have to wait and see.
+What does any of this have with regards to another season of _CSI_? No idea. CBS swears the short order has no bearing on another season, nor does George's leaving, but we'll just have to wait and see.

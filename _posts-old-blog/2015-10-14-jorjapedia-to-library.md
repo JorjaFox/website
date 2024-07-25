@@ -38,7 +38,7 @@ Yeah, I know. I'm working on that right now, but since it's the only thing that 
 
 <h2>Is everything done?</h2>
 
-Almost all the <em>content</em> is imported. There are 16 pages that I still have to pull in, but they were weird one-off pages that weren't linked anywhere. Also there are still some layout and design tweaks to be made, like at the top of the TV show pages. I want to make that prettier and less of a list, but the content is there.
+Almost all the _content_ is imported. There are 16 pages that I still have to pull in, but they were weird one-off pages that weren't linked anywhere. Also there are still some layout and design tweaks to be made, like at the top of the TV show pages. I want to make that prettier and less of a list, but the content is there.
 
 <h2>I think you should....</h2>
 

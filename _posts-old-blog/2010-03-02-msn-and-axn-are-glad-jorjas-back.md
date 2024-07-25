@@ -3,7 +3,7 @@ id: 2285
 title: 'MSN and AXN are glad Jorja's Back'
 date: '2010-03-02T01:00:55-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '<em>CSI</em> just started airing in Asia this past weekend, and AXN had a quick interview with Jorja about her return.'
+excerpt: '_CSI_ just started airing in Asia this past weekend, and AXN had a quick interview with Jorja about her return.'
 layout: post
 guid: 'https://jorjafox.net/wp/?p=2285'
 permalink: /2010/msn-and-axn-are-glad-jorjas-back/

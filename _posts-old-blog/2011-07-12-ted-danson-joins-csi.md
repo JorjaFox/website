@@ -21,7 +21,7 @@ tags:
 
 <img class="alignleft size-thumbnail wp-image-3653" title="Ted Danson" src="//static.jorjafox.net/wordpress/2011/07/TedDanson-redux-208x140.jpeg" alt="The newest CSI cast member" width="100" height="75" />So this is one of those things that makes you stop and go 'Is it April first?'  And it's where I have to say no, no this is real and I have no idea what's going on.
 
-Ted Danson, the guy from <em>Cheers</em> and <em>Becker</em> (which was on CBS) will be on <em>CSI</em> as the new head of the Graveyard Shift.  He comes from Portland (which is where Liz Vassey's Wendy went off to).  He will be more light hearted like Grissom, and less angsty like Langston.
+Ted Danson, the guy from _Cheers_ and _Becker_ (which was on CBS) will be on _CSI_ as the new head of the Graveyard Shift.  He comes from Portland (which is where Liz Vassey's Wendy went off to).  He will be more light hearted like Grissom, and less angsty like Langston.
 
 Sources?  Well how about Jonathan Littman:
 

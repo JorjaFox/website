@@ -12,7 +12,7 @@ This chat log was cut short by technical difficulties (dialup connection crashed
 
 ## "CSI" star Jorja Fox
 
-It's got to be a fabulous Spring for actress Jorja Fox. She's in the coolest TV show of the season &#8212; CSI: Crime Scene Investigation &#8212; and one of the most talked about movies of the year &#8212; Memento. But you know, the last few years couldn't have sucked... In the 99-00 season, she portrayed Secret Service Special Agent Gina Toscano on The West Wing, protecting President Bartlet's youngest daughter. She also spent a few seasons in the late 90s as Dr. Maggie Doyle on ER. Don't miss this chance to chat with Jorja on Tuesday, April 24 at 6pET/3pPT!
+It's got to be a fabulous Spring for actress Jorja Fox. She's in the coolest TV show of the season - CSI: Crime Scene Investigation - and one of the most talked about movies of the year - Memento. But you know, the last few years couldn't have sucked... In the 99-00 season, she portrayed Secret Service Special Agent Gina Toscano on The West Wing, protecting President Bartlet's youngest daughter. She also spent a few seasons in the late 90s as Dr. Maggie Doyle on ER. Don't miss this chance to chat with Jorja on Tuesday, April 24 at 6pET/3pPT!
 
 ### Chat
 
@@ -26,7 +26,7 @@ It's got to be a fabulous Spring for actress Jorja Fox. She's in the coolest TV 
 
 **SEZARIN**: tell me how did you started in this business
 
-**jorja_fox_chat**: Oh boy! I knew when I was like five that I wanted to be an actress, and I was one of those kids that would put on shows for anyone in the neighborhood or my family that would watch them! I grew up in a really small town and when I was 16 I moved to New YOrk City. I took classes in New York, and I was really lucky because the first agency I went to had a sign on the door that said &#8216;Do Not Enter, Just Leave Your Package,' and I pretended that I didn't see it, and I walked in and they let me in. I was 20 when that happened, and I had been there for about four years distracted.... And they sent me out on auditions. The first movie I got was called The Kill-Off, and then I didn't work again for about a year after that. And that's how I got started I guess...
+**jorja_fox_chat**: Oh boy! I knew when I was like five that I wanted to be an actress, and I was one of those kids that would put on shows for anyone in the neighborhood or my family that would watch them! I grew up in a really small town and when I was 16 I moved to New YOrk City. I took classes in New York, and I was really lucky because the first agency I went to had a sign on the door that said 'Do Not Enter, Just Leave Your Package,' and I pretended that I didn't see it, and I walked in and they let me in. I was 20 when that happened, and I had been there for about four years distracted.... And they sent me out on auditions. The first movie I got was called The Kill-Off, and then I didn't work again for about a year after that. And that's how I got started I guess...
 
 **ipstenu**: You said that you wish you were a vegan (in the Venice Magazine article from April 2001), why?
 

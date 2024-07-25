@@ -17,7 +17,7 @@ tags:
     - photos
 ---
 
-That you to Sue for hooking me up with a copy! I transcribed faithfully, which means the 'Sarah Sidle' and the part where the lions are from Libya are <em>not</em> me taking liberties.
+That you to Sue for hooking me up with a copy! I transcribed faithfully, which means the 'Sarah Sidle' and the part where the lions are from Libya are _not_ me taking liberties.
 
 <a href="https://jorjafox.net/gallery/media/print/2014-04-viva/"><img class="aligncenter size-full wp-image-10604" src="//static.jorjafox.net/wordpress/2014/04/viva2.jpg" alt="Viva Magazine" width="618" height="284" /></a>
 

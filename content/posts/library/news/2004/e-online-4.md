@@ -48,4 +48,3 @@ Shooting on the show's fifth season was to have begun last week, but with all th
 The network formally began the search for Fox and Eads' replacements Tuesday, the New York Post reported, informing talent agencies it was seeking two actors-one male and one female-in their "late 20s to mid 30s" who projected "sex, edgy and intelligent."
 
 Fox and Eads each were earning $100,000 an episode, or $2.2 million for a TV year's worth of work.
-

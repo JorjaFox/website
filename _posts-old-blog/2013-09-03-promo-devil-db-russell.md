@@ -20,9 +20,9 @@ tags:
     - video
 ---
 
-<img class="alignright size-medium wp-image-8141" alt="CSI" src="//static.jorjafox.net/wordpress/2013/09/devildb1.jpg" width="300" height="153" />There's no Sara in it, but you can watch the video on CBS Press Express directly, but for <em>some</em> reason unknown to man, they decided not to make it embeddable. That's weird, since you can totally access the video from Canada.
+<img class="alignright size-medium wp-image-8141" alt="CSI" src="//static.jorjafox.net/wordpress/2013/09/devildb1.jpg" width="300" height="153" />There's no Sara in it, but you can watch the video on CBS Press Express directly, but for _some_ reason unknown to man, they decided not to make it embeddable. That's weird, since you can totally access the video from Canada.
 
-<em>Edited: The video is now embeddable. Click the credit link if you can't see the video below.</em>
+_Edited: The video is now embeddable. Click the credit link if you can't see the video below._
 
 http://www.cbs.com/shows/fall-previews-2013/video/00FF93B3-1C96-817D-8DA4-EA41EAF99970/csi-season-premiere/
 <blockquote>D.B. Russell leads the CSI team on a hunt to find Morgan and Ellie Brass following their kidnapping by a ritualistic killer, on the 14th season premiere of CSI: CRIME SCENE INVESTIGATION.</blockquote>

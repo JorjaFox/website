@@ -3,7 +3,7 @@ id: 2667
 title: 'CSI 11&#215;07 "Bump and Grind" Discussion Post (Updated)'
 date: '2010-11-04T09:00:27-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: '"We''ve got paper, plastic and yuck .... I''ve got yuck." - Sara Sidle dives into the yuck on tonight''s CSI. <em>Updated as of 10:38pm ET</em>'
+excerpt: '"We''ve got paper, plastic and yuck .... I''ve got yuck." - Sara Sidle dives into the yuck on tonight''s CSI. _Updated as of 10:38pm ET_'
 layout: post
 guid: 'https://jorjafox.net/?p=2667'
 permalink: /2010/csi-11x07-bump-and-grind-discussion-post/
@@ -28,7 +28,7 @@ tags:
     - video
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/11/bumpgrind-100x100.jpg" alt="" title="bumpgrind" width="100" height="100" class="alignleft size-thumbnail wp-image-2670" /> <em>Updated as of 10:38pm ET</em>
+<img src="//static.jorjafox.net/wordpress/2010/11/bumpgrind-100x100.jpg" alt="" title="bumpgrind" width="100" height="100" class="alignleft size-thumbnail wp-image-2670" /> _Updated as of 10:38pm ET_
 
 Rock, paper and yuck!  Speculate and spoil yourselves away. I'll update the post later tonight, once I have screencaps etc. They should all be up by midnight Eastern time.
 
@@ -41,7 +41,7 @@ http://www.youtube.com/watch?v=PO2X9doZZUE
 http://www.youtube.com/watch?v=DlIzxH76R8k
 
 <h3>Recap</h3>
-<del><em>Coming Soon!</em></del>
+<del>_Coming Soon!_</del>
 
 An impressive episode. A lot of Sara. A lot of SMART Sara.  Like solving cases and being a general CSI badass. Not to mention we got a hint of GSR, a mention of Grissom, and Sara showing she's grown and changed from "Dead Doll."  That gives this episode a total of Four Stars.  I'm going to vid clip the baseball scene and the Ray scene tomorrow.  Folks, this one was good.  Just fast forward through that opening bit with the cooking and eating of credit cards and ears.  Could've done without that.
 

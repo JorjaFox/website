@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-I have to note, they have a typo in the date <em>and</em> the photo used is actually from "Merchants of Menace"... The episode will air Sunday the 25th. And so will "Merchants of Menace". Yeah, we get first Merchants at 9pm and then "Hero to Zero" (in theory) at 10pm.
+I have to note, they have a typo in the date _and_ the photo used is actually from "Merchants of Menace"... The episode will air Sunday the 25th. And so will "Merchants of Menace". Yeah, we get first Merchants at 9pm and then "Hero to Zero" (in theory) at 10pm.
 
 <blockquote>THE CSI TEAM INVESTIGATES THE MURDER OF A YOUNG VICTIM DRESSED AS A SUPERHERO, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, JAN. 25
 

@@ -21,4 +21,3 @@ newsurl: http://www.tvguide.com/News/Marg-Helgenberger-CSI-1042180.aspx
 **Helgenberger:** [Laughs] To be honest, I didn't sleep well those first couple days afterward. It was a tearful exit from the set, then I went out with a few close friends like Eric [Szmanda], [Robert] David [Hall] and Jorja [Fox]. It's never a good idea to start drinking tequila at 10:30 at night, but it was a perfect way to end things. We closed the bar. But the next day, I couldn't sleep in. I was so wired from the last day and all the adrenaline.
 
 [...]
-

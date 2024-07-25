@@ -7,7 +7,7 @@ permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
-newstitle: "The &#8216;CSI' Franchise Case File: Someone's Returning and Someone's Not  "
+newstitle: "The 'CSI' Franchise Case File: Someone's Returning and Someone's Not  "
 newsauthor: Henrik Batallones
 newssource: BuddyTV.com
 newsurl: http://www.buddytv.com/articles/csi/the-csi-franchise-case-file-so-30212.aspx

@@ -32,7 +32,7 @@ Do you need an account?
 
 **No.**
 
-Seriously, if all you want is to read the news and leave comments on the blog, that will <em>always</em> remain open for people, logged in or not, to do.  Yes, you have to leave your email address (only I ever see it) and pick a user name (you can't use someone else's if they've registered), but this site will be free and open.
+Seriously, if all you want is to read the news and leave comments on the blog, that will _always_ remain open for people, logged in or not, to do.  Yes, you have to leave your email address (only I ever see it) and pick a user name (you can't use someone else's if they've registered), but this site will be free and open.
 
 If you want to play in the groups, though, you do need to register.  This is to keep out spammers.
 

@@ -30,6 +30,7 @@ While Connie's at home, the morgue calls to tell her they found a woman matching
 * Connie lives alone and sleeps in a twin bed.
 
 ## Quotes
+
 **Bobby:** Who got the nothing on it?
 **Connie:** Me!
 **Bobby:** Oh, Connie, that's what I love about you. Your spirit of adventure.

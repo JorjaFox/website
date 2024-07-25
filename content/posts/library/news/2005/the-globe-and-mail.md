@@ -32,4 +32,3 @@ Fox says she hasn't been fully briefed on what will occur, but she doesn't think
 Jorja Fox, who along with co-star George Eads on the original CSI was fired and then rehired: "I don't think the spinoffs have hurt our show, but I think that they were certainly motivated by a certain level of greed. And they weren't anybody's creative brainchild. They came out of a way to make as much money as quickly as possible," Fox says. "Right now we have a situation with the show where half the cast got big raises at the beginning of the season, and half the cast is working without a raise. And I don't think that is necessarily healthy for a group of people either. You know, it's an ensemble cast, and that creates a weird kind of scales and balances."
 
 [ ... ]
-

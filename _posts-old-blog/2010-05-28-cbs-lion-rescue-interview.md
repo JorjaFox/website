@@ -26,7 +26,7 @@ Video: <a href="http://cbs5.com/video/?id=65714@kpix.dayport.com">Rescued Lions 
 
 <blockquote>[...]
 
-**Don Knapp:** And along for the trip tonight was Jorja Fox, of <em>CSI</em>, she's lending her celebrity and her back.
+**Don Knapp:** And along for the trip tonight was Jorja Fox, of _CSI_, she's lending her celebrity and her back.
 
 [...]
 

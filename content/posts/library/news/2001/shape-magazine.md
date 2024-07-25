@@ -18,7 +18,7 @@ Jorja Fox admits she has trouble seeing herself as the beautiful woman she is to
 
 **CARDIO** "Hiking, surfing and running. I also take my dog out for long walks, throw the ball with her for a while and then we run together."
 
-**FUEL** "I really like to eat. Typically, I eat a lot early in the day, a big meal midday and a light meal at night. I've been a vegetarian for 12 years now, so I eat lots of soy products and fruits and vegetables. When I make bacon cheeseburgers, I'll get all the ingredients from the health food store &#8212; like soy cheese and fake bacon. Or I'll barbecue ribs that aren't really meat."
+**FUEL** "I really like to eat. Typically, I eat a lot early in the day, a big meal midday and a light meal at night. I've been a vegetarian for 12 years now, so I eat lots of soy products and fruits and vegetables. When I make bacon cheeseburgers, I'll get all the ingredients from the health food store - like soy cheese and fake bacon. Or I'll barbecue ribs that aren't really meat."
 
 **SLEEP** "Sleep is key. I try to get a full eight hours a night. On the weekends, it might even be 10 or 11 hours. I know they say it doesn't work to play catch-up, but it feels better for me."
 
@@ -31,4 +31,3 @@ Jorja Fox admits she has trouble seeing herself as the beautiful woman she is to
 **MIND/BODY/SPIRIT KEY** "I go to a spiritual center in Los Angeles. It's not a particular religion; people of all religions are welcome. But I enjoy going someplace and experiencing other people. I find it balances my workout, which are more of a solo, almost meditative, time for myself."
 
 **SPIRITUAL RETREAT** "It's all about being outdoors for me. Even when I was living in New York city, i would climb onto my rooftop to meditate."
-

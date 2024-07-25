@@ -68,4 +68,3 @@ Sara does not initially believe Abby, but after looking at the evidence, starts 
 **Sara:** Yeah. The fact is, I'll never know what happened that night. This is gonna sound horrible, but I'm kinda jealous of Abby. She gets to rewrite her whole family history. Nothing will ever change what my mother did.
 **Greg:** Well... You can't change the past. But you always have the future. Your mom's still alive. It's not too late for you to start over.
 **Sara:** I don't know if I could.
-

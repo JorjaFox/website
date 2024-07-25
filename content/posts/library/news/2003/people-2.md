@@ -33,4 +33,3 @@ She would have been thrilled by her daughter's latest success. Thanks to *CSI*, 
 
 ***Fox Rocks to Wake the Dead**
 After learning guitar at 14, Fox played in two New York bands in her 20s, "but I always ended up owing someone money." Now that *CSI* pays the rent, she jams late into the night with friends- or on a soundstage with members of the *CSI* crew. "When I act," says Fox, who also composes, "I'm communicating other people's ideas. With my music, it's more *my* story." With a new chapter: She just bought herself a drum kit.*
-

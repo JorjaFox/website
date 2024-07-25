@@ -19,7 +19,7 @@ tags:
 
 <img class="alignleft size-thumbnail wp-image-10826" src="//static.jorjafox.net/wordpress/2014/05/tohalveandhold027.png" alt="&quot;This is the vagina, and it does tell a monologue.&quot;" width="275" height="140" />"This is the vagina, and it does tell a monologue."
 
-Though perhaps not <em>that</em> kind of story. Jorja will be performing in "The Vagina Monologues" on Friday, May 16th, with V-Day. You can buy tickets from <a href="http://www.vdayatwater.com/tickets.htm">V-Day Atwater and Ensemble Studio Theatre Los Angeles</a>, and Jorja will <em>only</em> be there on Friday at 8pm!
+Though perhaps not _that_ kind of story. Jorja will be performing in "The Vagina Monologues" on Friday, May 16th, with V-Day. You can buy tickets from <a href="http://www.vdayatwater.com/tickets.htm">V-Day Atwater and Ensemble Studio Theatre Los Angeles</a>, and Jorja will _only_ be there on Friday at 8pm!
 
 https://twitter.com/sheenametal/status/466464785060888577
 

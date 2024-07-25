@@ -15,4 +15,3 @@ newsurl: http://www.laweekly.com/slideshow/vote-for-love-manifest-equality-art-s
 ---
 
 On Wednesday the former Big Lots off Vine in Hollywood played host to Manifest Equality, an art and music event organized to raise awareness about civil rights. Opening night featured appearances by actresses Heather Graham, Marisa Tomei, Daryl Hannah, Olivia Wilde and Jorja Fox, plus AIDS and LGBT rights activist Cleve Jones. Hundreds of artists have work on display, including Robbie Conal, Mike Murphy and Shepard Fairey. Manifest Destiny runs through March 7.
-

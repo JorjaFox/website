@@ -29,7 +29,7 @@ For everyone who just went 🤨 please know I read the title and called over to 
 
 <blockquote class="wp-block-quote">“Long Pig” – The CSI team investigates when a body is dug up in the luau pit of a Hawaiian-themed hotel. Also, Internal Affairs begins to question Grissom and Sara’s return to the crime lab, on the CBS Original series CSI: VEGAS, Wednesday, Oct. 27 (10:00-11:00 PM, ET/PT) on the CBS Television Network, and available to stream live and on demand on Paramount+.</blockquote>
 
-While there are press photos, none have Jorja this week. Why? Either they let her off since Jorja's a vegetarian (as is Sara) <em>or</em> her part in the episode would involve heavy spoilers about the ongoing case.
+While there are press photos, none have Jorja this week. Why? Either they let her off since Jorja's a vegetarian (as is Sara) _or_ her part in the episode would involve heavy spoilers about the ongoing case.
 
 For everyone still confused, "Long Pig" is slang for human meat, because humans taste like pig apparently.
 

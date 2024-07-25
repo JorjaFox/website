@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-How many days does filming take? On average it's 8 days, not counting post production work (like the CSI effect and the zoom ins and any voice overs). Since they didn't do weekend work, today is day 8 of filming. But. This is a two part episode, and they're <em>still</em> on part one! Which means they're probably around the halfway point.
+How many days does filming take? On average it's 8 days, not counting post production work (like the CSI effect and the zoom ins and any voice overs). Since they didn't do weekend work, today is day 8 of filming. But. This is a two part episode, and they're _still_ on part one! Which means they're probably around the halfway point.
 
 That said, Zuiker tweeted about having to re-write a B scene (I presume he means a scene for the B plot), so I'd guess this shoot will take longer than normal.
 

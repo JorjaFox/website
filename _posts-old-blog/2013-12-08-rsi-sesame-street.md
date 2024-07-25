@@ -27,4 +27,4 @@ I'm guessing it's a death on a puppet show and they have to process all the pupp
 
 By the way, check out <a href="http://www.sesamestreet.org/video_player/-/pgpv/videoplayer/0/4f80c046-1c11-4268-9043-54d934a66396">RSI: Rhyme Scene Investigation on SesameStreet.org</a> for a good laugh. It's the CSI: Miami crew, but it's still funny.
 
-<em>Edited: Darn, just puppets for the sake of puppets. Okay then, come up with plots involving puppets for the lols!</em>
+_Edited: Darn, just puppets for the sake of puppets. Okay then, come up with plots involving puppets for the lols!_

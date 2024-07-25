@@ -30,7 +30,7 @@ There was a lot going on today!
 
 <h2>The Talk</h2>
 
-Today Jorja was with Paula Newsome (Maxine Roby, head of the lab) on <em>The Talk</em> to talk about ... <em>CSI: Vegas</em>! We have some official photos for you.
+Today Jorja was with Paula Newsome (Maxine Roby, head of the lab) on _The Talk_ to talk about ... _CSI: Vegas_! We have some official photos for you.
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-official-photos-cbs-fans-of-lefox-gallery wp-block-embed-official-photos-cbs-fans-of-lefox-gallery"><div class="wp-block-embed__wrapper">
 https://jorjafox.net/gallery/tv/talkshow/20211005-thetalk/cbs/
@@ -38,7 +38,7 @@ https://jorjafox.net/gallery/tv/talkshow/20211005-thetalk/cbs/
 
 You can watch the interview right now on <a href="https://paramountplus.qflm.net/c/1242493/1154423/3065">Paramount+</a> or tomorrow on cbs.com for free. Here are some highlights:
 
-<ul><li>Jorja repeated her explanation of how Jerry Bruckheimer asked her and Billy to do 'something' for the 20th anniversary of <em>CSI: Crime Scene Investigation</em> and it morphed into this.</li><li>She reiterated how lucky she and Billy were to get an ending at all, let alone a happy one.</li><li>Jorja (and Paula) are happy about seeing so many women in the field now, which is the opposite from when the series began.</li><li><em>CSI: Vegas</em> is more reflective of real life (with science and casting) than it was before.</li><li>The science has changed so much since 2000! 20 years of new science!</li><li>Jorja felt at home in the lab, but she's more comfortable with the practical side of science.</li><li>Jorja would love a musical episode, but can't sing, so would be playing drums.</li></ul>
+<ul><li>Jorja repeated her explanation of how Jerry Bruckheimer asked her and Billy to do 'something' for the 20th anniversary of _CSI: Crime Scene Investigation_ and it morphed into this.</li><li>She reiterated how lucky she and Billy were to get an ending at all, let alone a happy one.</li><li>Jorja (and Paula) are happy about seeing so many women in the field now, which is the opposite from when the series began.</li><li>_CSI: Vegas_ is more reflective of real life (with science and casting) than it was before.</li><li>The science has changed so much since 2000! 20 years of new science!</li><li>Jorja felt at home in the lab, but she's more comfortable with the practical side of science.</li><li>Jorja would love a musical episode, but can't sing, so would be playing drums.</li></ul>
 
 <h2>Chicago Tribune Article</h2>
 

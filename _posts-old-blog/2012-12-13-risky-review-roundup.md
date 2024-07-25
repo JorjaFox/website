@@ -29,7 +29,7 @@ Jim Garner of TV Fanatic says:
 
 I do have a couple of questions, though:
 
-1. How long ago was she in San Francisco to work with Wilson? Their conversation gave clear indication it had been several years, but if it was before she came to Las Vegas that would be more than <em>13</em> years ago. Talk about carrying a flame for someone for a long time.
+1. How long ago was she in San Francisco to work with Wilson? Their conversation gave clear indication it had been several years, but if it was before she came to Las Vegas that would be more than _13_ years ago. Talk about carrying a flame for someone for a long time.
 
 2. The preview teased "An old lover of Sara's." Did anyone get the feeling they had been lovers?!? I sensed an attraction, but not that sort of vibe. Then again, Jorja Fox can be a bit tough to read, so maybe the crooked smile meant lover.
 

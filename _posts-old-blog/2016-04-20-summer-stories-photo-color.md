@@ -29,7 +29,7 @@ tags:
 
 Again with the mad props to Sidle77!
 
-You know how we've <em>never</em> had a color photo of Jorja from <span style="text-decoration: underline;">Summer Stories</span>? Well now we do:
+You know how we've _never_ had a color photo of Jorja from <span style="text-decoration: underline;">Summer Stories</span>? Well now we do:
 
 <a href="https://jorjafox.net/gallery/tv/movies/summerstories/promo4.jpg"><img class="aligncenter size-full wp-image-13982" src="//jfo-static.net/wordpress/2016/04/promo4.jpg" alt="promo4" width="325" height="496" /></a>
 

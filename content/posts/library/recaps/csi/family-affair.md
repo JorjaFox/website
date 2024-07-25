@@ -45,4 +45,3 @@ When the Russians break into the lab, Sara and Nick chase them out, firing at th
 **Sara:** Well, its like when a great baseball team loses its best cleanup hitter. Suddenly everybody is swinging for the fences and nobody is playing small ball.
 **Catherine:** You're using a baseball analogy.
 **Sara:** Uh. Apparently part of being married is attempting to share in your spouses interests...
-

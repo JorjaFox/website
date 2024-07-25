@@ -77,9 +77,9 @@ tags: [ "2009" ]
 
 **Jorja:** Thank you. Well, there was Quincy! That goes back a ways...
 
-**Host 2:** [*Laughs*] This is far stretch from Quincy. Forensics have come a long way since Quincy.
+**Host 2:** [_Laughs_] This is far stretch from Quincy. Forensics have come a long way since Quincy.
 
-**Jorja:** [*Laughs*] Yes. And they're still coming a long way which, I think, is an advantage that we have. New technology is coming out every month, and we can use it.
+**Jorja:** [_Laughs_] Yes. And they're still coming a long way which, I think, is an advantage that we have. New technology is coming out every month, and we can use it.
 
 **Host:** I remember in the early episodes, where they would follow the path of a bullet into the body, and show you all the damage it does. And your head would explode! You'd never seen anything like it, even in a movie, let alone on television! And then, you thought initially, week to week, solving cases, we've seen this done on tons of procedural cop shows, and that kind of stuff.
 
@@ -93,7 +93,7 @@ tags: [ "2009" ]
 
 **Jorja:** It's a very diverse group. I think that there's a couple things they have to have. They have to have almost like an OCD type of focus, and a patience and a persistence. And I think they've got to be very, very, committed to crime fighting. And we still, every day, we have a tech advisor on our set, every day, still trying to help us look as realistic as possible. There's real crime scene investigators in the writers room almost every day. We have personal relationships with a lot of those guys, both from -- The cool thing about our show because we shoot in LA but we take place in Vegas is that we can -- if it's real in either one of those cities, we can put it on air. So we have people from both cities giving us stories and advice.
 
-**Host:** Oh I see! Are there are lot of women that go into the field? And are there *more* women going into the field now because of you? And because of Catherine's character?
+**Host:** Oh I see! Are there are lot of women that go into the field? And are there _more_ women going into the field now because of you? And because of Catherine's character?
 
 **Jorja:** Well that's very kind of you. They tell us that that's true. That yes, there are a lot of women going into the field. One of our first advisors, Liz Devine, was in Los Angeles, a very early sort of woman in the field, and she was blonde and well endowed in all the right places. Sort of faced that textbook stuff you hear about when women enter fields that they're not traditionally in. More and more so, I think women, if I'm going to get stereotypical, I think women are really, really geared towards the field because of that patience and that persistence.
 
@@ -159,7 +159,7 @@ tags: [ "2009" ]
 
 **Jorja:** Laurence Flishburn?
 
-[*Everyone laughs*]
+[_Everyone laughs_]
 
 **Host:** Laurence Flishburn.
 

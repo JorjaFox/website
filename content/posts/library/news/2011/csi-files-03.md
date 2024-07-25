@@ -73,4 +73,3 @@ Honestly, I gotta say that I was absolutely heartbroken when **Laurence** [**Fis
 **CSI Files**: Is there something in particular that fans should look forward to this season?
 
 **Fox**: Well I think we'll have at least one love affair which is always a lot of fun for us. The world that we live in in Las Vegas is so dark and so unforgiving sometimes and so difficult to sort of process, and I think that a love story could be a really cool thing to come out of that; it'll be very well done. Then there's the issue of Marg; I think that's kind of the really big, big, big question mark. If she does decide to go we probably will develop that idea over several episodes. It will be deep that I know for sure.
-

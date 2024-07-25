@@ -44,4 +44,4 @@ http://www.youtube.com/watch?v=yivt2iwLe3o
 
 There's also a video up on CBS of <a href="http://www.cbs.com/shows/csi/video/2189593688/csi-sometimes-the-simplest-answer-is-the-right-answer">Sara and Catherine discussing who would send a fake resignation email</a>.
 
-<em>Recap and screencaps will be up Wednesday night or Thursday morning.</em>
+_Recap and screencaps will be up Wednesday night or Thursday morning._

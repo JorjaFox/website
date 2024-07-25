@@ -38,4 +38,3 @@ Sara works with Greg on his cases, first the office worker, then the gamer. Sara
 
 **Sara:** Someone from the dayshift sent me flowers.
 **Greg:** Does he know you're married?
-

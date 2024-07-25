@@ -3,7 +3,7 @@ id: 2038
 title: 'CSI ep 10&#215;01: "Family Affair" Open Topic (closed)'
 date: '2009-09-24T12:17:14-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'This topic is to talk about tonight''s airing of the season 10 premiere of <em>CSI</em>.  When screencaps and a recap are up later tonight, it will be closed.  Spoilers will happen here.'
+excerpt: 'This topic is to talk about tonight''s airing of the season 10 premiere of _CSI_.  When screencaps and a recap are up later tonight, it will be closed.  Spoilers will happen here.'
 layout: post
 guid: 'https://jorjafox.net/?p=2038'
 permalink: /2009/csi-ep-10x01-family-affair-open-topic/
@@ -49,6 +49,6 @@ Uh ... lesse, Grissom and Sara are hitched!  Someone leaks news from a crime sce
 Also here's a collection of the most recent news posts about CSI and Jorja:
 <ul>
 	<li><a href="http://www.thefutoncritic.com/rant.aspx?id=20090924_csi">The Futon Critic</a> -- Interview: Executive Producer Naren Shankar on "CSI's" Post-Petersen World</li>
-	<li><a href="http://www.tvguide.com/News/CSI-Marg-Helgenberger-1010131.aspx">TVGuide.com</a> -- <em>CSI</em>: Will Catherine Be a Good Leader?</li>
+	<li><a href="http://www.tvguide.com/News/CSI-Marg-Helgenberger-1010131.aspx">TVGuide.com</a> -- _CSI_: Will Catherine Be a Good Leader?</li>
 	<li><a href="http://www.buddytv.com/articles/csi/csi-previewing-season-10-premi-31399.aspx">BuddyTV</a> -- CSI: Previewing Season 10 Premiere "Family Affair"</li>
 </ul>

@@ -43,4 +43,4 @@ Credit: <a href="http://www.csifiles.com/content/2012/03/interview-joe-pokaski-
 
 **Recaps?**
 
-<em>Recap and screencaps will be up Thursday. This is going to be the new standard, since I simply cannot stay up till 1am anymore. If anyone else wants to help do screencaps, drop me a line at webmaster[at]jorjafox.net </em>
+_Recap and screencaps will be up Thursday. This is going to be the new standard, since I simply cannot stay up till 1am anymore. If anyone else wants to help do screencaps, drop me a line at webmaster[at]jorjafox.net _

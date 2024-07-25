@@ -28,6 +28,6 @@ Hold up both your hands, fingers spread.  <a href="http://www.lifeprint.com/asl1
 
 I've only got these three photos up so far, but I should have more soonish (soon is a relative term)!  Any more pictures will be posted in the <a href="https://jorjafox.net/gallery/tv/csi/pub/s11/stills/">Season 11 Publicity Stills</a> gallery.
 
-<em>Updated with two more!</em>
+_Updated with two more!_
 
 <a href="https://jorjafox.net/gallery/tv/csi/pub/s11/stills/1113-2mrs04.jpg"><img alt="" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s11/stills/1113-2mrs04_200_cw200_ch200_thumb.jpg" title="2 Mrs Grissoms" class="zenphoto" width="75" height="75" /></a> <a href="https://jorjafox.net/gallery/tv/csi/pub/s11/stills/1113-2mrs05.jpg"><img alt="" src="https://jorjafox.net/gallery/cache/tv/csi/pub/s11/stills/1113-2mrs05_200_cw200_ch200_thumb.jpg" title="2 Mrs Grissoms" class="zenphoto" width="75" height="75" /></a>

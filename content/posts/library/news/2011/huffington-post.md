@@ -23,4 +23,3 @@ Animal Defenders International say the lions were rescued from deplorable condit
 Television personality Bob Barker financed the rescue. He and Jorja Fox, a "CSI" actress and ADI ambassador, plan to welcome Operation Lion Ark and offer the lions their first drink of water after they land.
 
 The lions will be trucked to their new home at the Wildlife Sanctuary in Keenesburg, Colo., about 35 miles northeast of Denver. A 15,000-square-foot biosphere was built to help them adjust to the chillier climate.
-

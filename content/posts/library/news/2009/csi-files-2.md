@@ -33,4 +33,3 @@ November sweeps has already seen the historic first three CSI show crossover, bu
 **CSI Files:** Are you at work on a new episode now? Can you hint at what it might be about?
 
 **MacDonald:** I am. And the only hint I can provide is that it would be the completion of a CSI storyline trilogy involving Sara Sidle and a very, very smart young girl.
-

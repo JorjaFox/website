@@ -30,7 +30,7 @@ Images are up in the <a href="https://jorjafox.net/gallery/pub/adi/20111102-adih
 There are bunch of official ADI videos, but they're pretty bad quality.  I'm hoping C-SPAN comes up with one (they normally do if they managed to tape this at all).
 
 Then we have some quotes:
-<blockquote>Known to 73million CSI viewers as Sara Sidle, today Jorja Fox said: <em>“It is time to say that elephants should not be kept in chains nor lions, tigers, bears and monkeys in small cages on the backs of trucks. This Bill has the potential to eradicate considerable animal suffering and I believe it will be embraced by Americans.”</em></blockquote>
+<blockquote>Known to 73million CSI viewers as Sara Sidle, today Jorja Fox said: _“It is time to say that elephants should not be kept in chains nor lions, tigers, bears and monkeys in small cages on the backs of trucks. This Bill has the potential to eradicate considerable animal suffering and I believe it will be embraced by Americans.”_</blockquote>
 Source: <a href="http://www.ad-international.org/animals_in_entertainment/go.php?id=2263&amp;ssi=10">ADI</a>
 <blockquote>“Congress has a responsibility to protect the welfare of animals and ensure public safety. A prohibition on the use of exotic and wild animals in traveling circuses is proportionate, responsible, the least expensive solution to this problem, and long overdue.
 

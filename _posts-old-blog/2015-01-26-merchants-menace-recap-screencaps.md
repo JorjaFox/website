@@ -28,4 +28,4 @@ The "Nate Haskell Murder Tour" t-shirt was hilarious, and using the mini crime s
  	<li><a href="https://jorjafox.net/wiki/Merchants_of_Menace">Recap</a> (3 of 5 stars)</li>
  	<li><a href="https://jorjafox.net/gallery/tv/csi/season15/14-menace/">Screencaps</a> (118 images)</li>
 </ul>
-The recaps for "Hero to Zero" will be up in a few hours. The next <em>NEW</em> CSI will be Tuesday! Don't forget!
+The recaps for "Hero to Zero" will be up in a few hours. The next _NEW_ CSI will be Tuesday! Don't forget!

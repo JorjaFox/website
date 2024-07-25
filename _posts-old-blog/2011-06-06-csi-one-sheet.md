@@ -19,7 +19,7 @@ tags:
     - 'press release'
 ---
 
-<em>Update to note: This was a ROUGH DRAFT which CBS did not want to get out, apparently.  As we all know by now, Fishburne's not coming back to CSI.  So ... no one knows what this means for Jorja yet.  Her contract is still being negotiated.</em>
+_Update to note: This was a ROUGH DRAFT which CBS did not want to get out, apparently.  As we all know by now, Fishburne's not coming back to CSI.  So ... no one knows what this means for Jorja yet.  Her contract is still being negotiated._
 
 A one sheet is just what it sounds like.  One sheet of paper about a TV show.
 

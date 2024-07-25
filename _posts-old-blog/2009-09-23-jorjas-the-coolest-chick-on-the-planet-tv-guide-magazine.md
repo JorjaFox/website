@@ -46,9 +46,9 @@ tags:
     - tv
 ---
 
-<a href="//static.jorjafox.net/wordpress/2009/09/margjorjatvguide.jpg"><img src="//static.jorjafox.net/wordpress/2009/09/margjorjatvguide-100x100.jpg" alt="margjorjatvguide" title="margjorjatvguide" width="100" height="100" class="alignleft size-thumbnail wp-image-2028" /></a> **The Women Take Charge** indeed.  The long awaited (by us) Q and A for Jorja and Marg, based on questions <em>YOU</em> sent in has finally hit the streets.
+<a href="//static.jorjafox.net/wordpress/2009/09/margjorjatvguide.jpg"><img src="//static.jorjafox.net/wordpress/2009/09/margjorjatvguide-100x100.jpg" alt="margjorjatvguide" title="margjorjatvguide" width="100" height="100" class="alignleft size-thumbnail wp-image-2028" /></a> **The Women Take Charge** indeed.  The long awaited (by us) Q and A for Jorja and Marg, based on questions _YOU_ sent in has finally hit the streets.
 
-What does Marg think?  "... I was thrilled to have Jorja back.  She's just the coolest chick on the planet."  Jorja wants to go surfing with Marg in Hawaii, they both want to see <em>CSI: The Musical</em> and then there was the kissing.  You heard me right.
+What does Marg think?  "... I was thrilled to have Jorja back.  She's just the coolest chick on the planet."  Jorja wants to go surfing with Marg in Hawaii, they both want to see _CSI: The Musical_ and then there was the kissing.  You heard me right.
 
 We're all pretty fired up for the coming season, and you should all go pick up the magazine for, if nothing else, the lovely cover.  The magazine starts hitting the stands today, but most places won't get it till Thursday.  If you can't buy it in your country, though, and still want to read those cool words, check out the <a href="https://jorjafox.net/wiki/TV_Guide_Magazine_%2828_September_-_04_October%29">text only copy of the article</a>.
 

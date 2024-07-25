@@ -22,7 +22,7 @@ tags:
     - misc
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/12/creepyfan.jpg" alt="" title="creepyfan" width="230" height="200" class="alignleft size-full wp-image-2825" /> This is slightly off topic, and apropos only of the people squeeing like fangirls at poor @MarleeMatlin about being on CSI (and acting with Jorja).  A friend of mine posted a pretty awesome reminder to some fans to not be that creepy fan.  It was so spot-on that I asked her if I could cross-post here, even though i know not all of you are watching <em>Rizzoli & Isles</em> (and I really want Jorja to guest on it so I can have even more of an excuse to watch that show!).  The idea of **not** being a creepy fan is true of all fandoms!
+<img src="//static.jorjafox.net/wordpress/2010/12/creepyfan.jpg" alt="" title="creepyfan" width="230" height="200" class="alignleft size-full wp-image-2825" /> This is slightly off topic, and apropos only of the people squeeing like fangirls at poor @MarleeMatlin about being on CSI (and acting with Jorja).  A friend of mine posted a pretty awesome reminder to some fans to not be that creepy fan.  It was so spot-on that I asked her if I could cross-post here, even though i know not all of you are watching _Rizzoli & Isles_ (and I really want Jorja to guest on it so I can have even more of an excuse to watch that show!).  The idea of **not** being a creepy fan is true of all fandoms!
 
 <blockquote>[...]
 
@@ -32,7 +32,7 @@ Now, I’m not suggesting that we are all creepy fans.. Most of us are the norma
 
 I totally get that.
 
-However, there comes a time when you just have to chill. I mean, these people that we drool, fawn, and perv on are people, too. They have their own lives, families, communities, interests, and feelings. They <em>are not</em> their characters. Angie may play a badass cop. Jeri may play an ice princess Borg. But, that’s not them.
+However, there comes a time when you just have to chill. I mean, these people that we drool, fawn, and perv on are people, too. They have their own lives, families, communities, interests, and feelings. They _are not_ their characters. Angie may play a badass cop. Jeri may play an ice princess Borg. But, that’s not them.
 
 [...]</blockquote>
 

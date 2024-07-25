@@ -21,7 +21,7 @@ tags:
     - video
 ---
 
-<img class="alignleft size-thumbnail wp-image-4021" title="Crime after Crime" src="//static.jorjafox.net/wordpress/2011/11/crime-crime-2-210x140.jpg" alt="Crime after Crime" width="100" height="75" />We know for sure Jorja's in this one, though probably not as primary (just based on the promo).  This is another directed by <em>ER</em> alum, Paul McCrane (officially my favorite asshole from <em>ER</em> - I miss Rocket Romano).
+<img class="alignleft size-thumbnail wp-image-4021" title="Crime after Crime" src="//static.jorjafox.net/wordpress/2011/11/crime-crime-2-210x140.jpg" alt="Crime after Crime" width="100" height="75" />We know for sure Jorja's in this one, though probably not as primary (just based on the promo).  This is another directed by _ER_ alum, Paul McCrane (officially my favorite asshole from _ER_ - I miss Rocket Romano).
 <h3>Official Release</h3>
 When the CSI team investigates three seemingly unrelated murders, they discover someone is getting revenge for cold case murders that were never solved.
 <h3>Videos</h3>

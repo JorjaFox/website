@@ -22,17 +22,17 @@ tags:
 
 Wow.
 
-I do give it three stars for Sara, but that's an episode I <em>never</em> want to watch again. It was way too heavy. I dreaded the watch-back and screencap. But this I do for you. The bit with 'Grissom' at the beginningwas in keeping with things, I feel, and was why this was a three star and not two.
+I do give it three stars for Sara, but that's an episode I _never_ want to watch again. It was way too heavy. I dreaded the watch-back and screencap. But this I do for you. The bit with 'Grissom' at the beginningwas in keeping with things, I feel, and was why this was a three star and not two.
 <ul>
 	<li><a href="https://jorjafox.net/wiki/Wild_Flowers">Recap</a></li>
 	<li><a href="https://jorjafox.net/gallery/tv/csi/season13/03wild/">Screencaps</a></li>
 </ul>
 Oh and here's the intro dialogue you may like.
-<blockquote>**Grissom:** <em>[Voicemail]</em> This is Gill Grissom. I'm unable to take your call, please leave a message.
+<blockquote>**Grissom:** _[Voicemail]_ This is Gill Grissom. I'm unable to take your call, please leave a message.
 
-**Sidle:** <em>[To her phone]</em> Hello, Gilbert. Happy Anniversary. I hope you're out there celebrating. And it's official, time differences really suck. Look, I miss you. I'm going to try to call you back later. It's been a while, you know, since we really caught up. Love you.
+**Sidle:** _[To her phone]_ Hello, Gilbert. Happy Anniversary. I hope you're out there celebrating. And it's official, time differences really suck. Look, I miss you. I'm going to try to call you back later. It's been a while, you know, since we really caught up. Love you.
 
-**Russell:** <em>[To his phone]</em> ... nah, I'm taking good care of myself. Matter of fact, I had leftover pizza for breakfast... I'm kidding honey! ... I know you're needed up there, but I need you down here, too... Love you too, sweatheart. Bye bye.
+**Russell:** _[To his phone]_ ... nah, I'm taking good care of myself. Matter of fact, I had leftover pizza for breakfast... I'm kidding honey! ... I know you're needed up there, but I need you down here, too... Love you too, sweatheart. Bye bye.
 
 **Sidle:** Welcome to the joys of long distance relationships.
 

@@ -20,7 +20,7 @@ tags:
 
 From a recent interview with <a href="http://insidetv.ew.com/2013/03/28/billy-petersen-talks-new-gig-returning-to-csi-exclusive/">EW</a>, Billy says something surprising about CSI and GSR:
 
-<blockquote>Meanwhile, Petersen is as surprised that <em>CSI</em> will return for another season on CBS (“I didn’t think there was any reason for it to go this long”) as he is that Gil Grissom continues to pop up on the show. (The most recent shout-out occurred last month in an episode titled “Forget Me Not”).
+<blockquote>Meanwhile, Petersen is as surprised that _CSI_ will return for another season on CBS (“I didn’t think there was any reason for it to go this long”) as he is that Gil Grissom continues to pop up on the show. (The most recent shout-out occurred last month in an episode titled “Forget Me Not”).
 
 “I didn’t even know he married Sara!” Petersen tells EW. “I found out later on. How nice! That was never my intention for Grissom. You are in the hands of puppeteers, and after a certain point you aren’t sure what’s going to happen to your puppet.”
 
@@ -30,4 +30,4 @@ Credit: EW - <a href="http://insidetv.ew.com/2013/03/28/billy-petersen-talks-new
 
 Well. Now I don't know what to say. I mean, he did know that Sara and Grissom were married before hand, or rather he said he did. So I don't even know anymore what's up with him.
 
-Still. Next time you ask 'When is Billy coming back to CSI?' the answer is "Never, because Billy doesn't <em>want</em> to come back."
+Still. Next time you ask 'When is Billy coming back to CSI?' the answer is "Never, because Billy doesn't _want_ to come back."

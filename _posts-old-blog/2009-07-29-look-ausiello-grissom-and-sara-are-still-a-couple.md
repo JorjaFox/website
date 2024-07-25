@@ -37,11 +37,11 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/07/sara-grissom-100x100.jpg" alt="sara-grissom" title="sara-grissom" width="100" height="100" class="alignleft size-thumbnail wp-image-1932" /> Everyone's favorite reporter, Michael Ausiello (late of TV Guide, now of EW), had a sit down with Carol Mendelsohn and Naren Shankar about why Sara's back and what this has to do with Grissom. And is <em>he</em> coming back.
+<img src="//static.jorjafox.net/wordpress/2009/07/sara-grissom-100x100.jpg" alt="sara-grissom" title="sara-grissom" width="100" height="100" class="alignleft size-thumbnail wp-image-1932" /> Everyone's favorite reporter, Michael Ausiello (late of TV Guide, now of EW), had a sit down with Carol Mendelsohn and Naren Shankar about why Sara's back and what this has to do with Grissom. And is _he_ coming back.
 
 The important bits:
 <ul>
-	<li>Sara's back for 5 <em>non-consecutive</em> episodes</li>
+	<li>Sara's back for 5 _non-consecutive_ episodes</li>
 	<li>CBS did not ask them to bring her back, that was Mendelsohn and Shankar's idea</li>
 	<li>Sara comes back because someone asks her, and the team is a little understaffed</li>
 	<li>Grissom and Sara are still a couple, it's just they have a unique relationship</li>

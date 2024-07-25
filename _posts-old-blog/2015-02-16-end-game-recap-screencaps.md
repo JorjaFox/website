@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-Four stars <em>again</em> for Sara. It was not 'her' episode, but when I look back at season 15 and see <em>three</em> episodes with 5 stars, I can't really be too upset. This was a good Sara Season. I was all set to call this a three star episode, and then Sara was left 'in charge' at the lab and did everything right. Damn.
+Four stars _again_ for Sara. It was not 'her' episode, but when I look back at season 15 and see _three_ episodes with 5 stars, I can't really be too upset. This was a good Sara Season. I was all set to call this a three star episode, and then Sara was left 'in charge' at the lab and did everything right. Damn.
 
 Sara filled in the Grissom Role, even channeling the man when she reminded Nick to go where he'd do the most good. Then she took on the Catherine Role perfectly, being at the right place at the right time. The episode ends unfinished. Finn's still in a coma, and no one died, which ... Well thanks news media. You can't even get spoilers right? Sheesh. This doesn't feel like a show finale, unless you consider that the first episode ended with Nick making CSI Level 3 and Holly Gribbs shot and in a coma.
 <ul>

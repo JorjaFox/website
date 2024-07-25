@@ -26,7 +26,7 @@ tags:
 
 <a href="//static.jorjafox.net/wordpress/2009/10/savetheseals.jpg"><img src="//static.jorjafox.net/wordpress/2009/10/savetheseals-100x100.jpg" alt="JorjaFox_SealNEW.ai" title="JorjaFox_SealNEW.ai" width="100" height="100" class="alignleft size-thumbnail wp-image-2078" /></a> In Canada, the season for the commercial hunt of harp seal is from November 15 to May 15. During this time, seals are killed for the sake of fashion, and the PETA asks you to help them stop it.
 
-<blockquote>Jorja Fox made a name for herself by playing smart, no-nonsense women on three of TV's most popular dramas: <em>ER</em>, <em>The West Wing</em>, and <em>CSI: Crime Scene Investigation</em>. Much like the strong characters she's portrayed, Jorja is not one to sit by and let an injustice take place. That's why she agreed to take part in PETA's "Save the Seals" ad series.
+<blockquote>Jorja Fox made a name for herself by playing smart, no-nonsense women on three of TV's most popular dramas: _ER_, _The West Wing_, and _CSI: Crime Scene Investigation_. Much like the strong characters she's portrayed, Jorja is not one to sit by and let an injustice take place. That's why she agreed to take part in PETA's "Save the Seals" ad series.
 
 Jorja, who previously posed for a vegetarian ad for PETA, knows that it's time for the Canadian government to permanently end the annual seal slaughter in which tens of thousands of baby seals are shot or bludgeoned to death for their fur.</blockquote>
 

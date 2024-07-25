@@ -25,6 +25,6 @@ tags:
 	<li><a href="https://jorjafox.net/wiki/Exile">Recap</a> (2 stars)</li>
 	<li><a href="https://jorjafox.net/gallery/tv/csi/season13/14exile">Screencaps</a> (59 images)</li>
 </ul>
-I would say to watch this episode, regardless of the Sara Score, though. It's a <em>very</em> apropos Valentines from CSI.
+I would say to watch this episode, regardless of the Sara Score, though. It's a _very_ apropos Valentines from CSI.
 
 Next week... Well, let's hold on there. But I'll say this. Prison Jumpsuit.

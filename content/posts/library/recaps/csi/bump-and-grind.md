@@ -62,4 +62,3 @@ Sara, seeing Ray's inner angst over being attacked by Nate Haskell, and reminds 
 **Langston:** Well, he's already in there.
 **Sara:** Everything that happens to us, the good and the bad, is part of us. Took me a long time to realize that it doesn't have to define who we are. We get to decide that. Good night, Dr. Ray.
 **Langston:** Good night, Sara.
-

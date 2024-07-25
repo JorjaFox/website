@@ -21,7 +21,7 @@ tags:
     - photos
 ---
 
-Photographer Harry Middleton has what can only be called a <em>stunning</em> shot of Jorja up on his site.
+Photographer Harry Middleton has what can only be called a _stunning_ shot of Jorja up on his site.
 
 <a href="https://jorjafox.net/gallery/pro/model/harrymiddleton/middleton01.jpg"><img class="ZenphotoPress_thumb " alt="Portfolio" title="Portfolio" src="https://jorjafox.net/gallery/cache/pro/model/harrymiddleton/middleton01_200_cw200_ch200_thumb.jpg"  /></a>
 

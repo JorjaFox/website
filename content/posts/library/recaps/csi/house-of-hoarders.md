@@ -53,4 +53,3 @@ In the end, she tells Julian about her mother's schizophrenia, and that you can 
 - - -
 
 **Sara:** My mother was schizophrenic. On night, she got a butcher knife out of a drawer. She walked into the bedroom and while my father was sleeping, she stabbed him in the heart. Again and again. To say that my childhood was screwed up is an understatement. But. I survived it. Just like you did. You and your sister grew up together in that house, and you took two completely different paths. Sometimes when we're faced with crimes that are so incomprehensible, we want answers. We want to believe that there's some order to things. Sometimes there just isn't.
-

@@ -18,7 +18,7 @@ tags:
     - 'site notice'
 ---
 
-<img class="alignleft size-large wp-image-6117" alt="Merry Christmas / Happy 16" src="//static.jorjafox.net/wordpress/2012/12/tvguide2004-02.jpg" width="326" height="380" /> CBS will be running a repeat of <em>CSI</em> on the 25th... <a href="https://jorjafox.net/wiki/Wild_Flowers">Wild Flowers</a>.
+<img class="alignleft size-large wp-image-6117" alt="Merry Christmas / Happy 16" src="//static.jorjafox.net/wordpress/2012/12/tvguide2004-02.jpg" width="326" height="380" /> CBS will be running a repeat of _CSI_ on the 25th... <a href="https://jorjafox.net/wiki/Wild_Flowers">Wild Flowers</a>.
 
 It's an interesting choice (I always wonder why they don't pick a really old episode), and makes me wonder if there's going to be carry over into what we see after the winter break. There's no new CSI this week, and the December 11th episode is sans Sara, so we're pretty much done with CSI for the year here at JFO. (Yes, Jorja will be in "Keep Calm and Carry-On" but I don't know when that will air.)
 

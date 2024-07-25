@@ -52,4 +52,4 @@ The Humane Society of the United States (HSUS) Genesis Awards will air on March 
 
 Save the Date for The 23rd Genesis Awards - March 28, 2009
 
-<em>Comments closed. Follow up post is <a href="https://jorjafox.net/2009/03/29/2009-genesis-awards-gallery/">Here</a>.</em>
+_Comments closed. Follow up post is <a href="https://jorjafox.net/2009/03/29/2009-genesis-awards-gallery/">Here</a>._

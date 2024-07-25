@@ -3,7 +3,7 @@ id: 1382
 title: 'Bush to Deliver Farewell Address on Thursday (updated)'
 date: '2009-01-12T17:06:02-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Bush''s farewell address may bump <em>CSI</em>.'
+excerpt: 'Bush''s farewell address may bump _CSI_.'
 layout: post
 guid: 'https://jorjafox.net/?p=1382'
 permalink: /2009/bush-to-deliver-farewell-address-on-thursday/
@@ -36,9 +36,9 @@ tags:
     - tv
 ---
 
-Yes, the US President, George Bush, will be giving his farewell address on Thursday, during primetime.  The speech is expected to run about 15 minutes.  What does that mean for <em>CSI</em>? Probably some last second swearing and scrambling.  The White House has requested airtime, but nothing definitive has been set as of this posting. I will update this post if I hear more.
+Yes, the US President, George Bush, will be giving his farewell address on Thursday, during primetime.  The speech is expected to run about 15 minutes.  What does that mean for _CSI_? Probably some last second swearing and scrambling.  The White House has requested airtime, but nothing definitive has been set as of this posting. I will update this post if I hear more.
 
-**Update**: Bush wants to speak at 8pm ET (7pm CT). <em>(Jan-12 6pm) </em>
-**Update #2**: CBS will air this at 8pm ET.  No word on what that'll do to CSI. <em>(Jan-13 8am) </em>
-**Update #3**: Still no word on CBS's scheduling. <em>(Jan-13 3pm) </em>
-**Update #4**: CBS is shifting everything back by at least 15 minutes. See the Press Release for details. <em>Jan-13 6pm</em>
+**Update**: Bush wants to speak at 8pm ET (7pm CT). _(Jan-12 6pm) _
+**Update #2**: CBS will air this at 8pm ET.  No word on what that'll do to CSI. _(Jan-13 8am) _
+**Update #3**: Still no word on CBS's scheduling. _(Jan-13 3pm) _
+**Update #4**: CBS is shifting everything back by at least 15 minutes. See the Press Release for details. _Jan-13 6pm_

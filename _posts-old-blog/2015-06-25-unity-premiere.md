@@ -21,7 +21,7 @@ tags:
 
 Jorja's in the busy, advocacy, time of year!
 
-Despite the advent of science, literature, technology, philosophy, religion, and so on -- none of these has assuaged humankind from killing one another, the animals, and nature. <em>UNITY</em> is a film about why we can't seem to get along, even after thousands and thousands of years.
+Despite the advent of science, literature, technology, philosophy, religion, and so on -- none of these has assuaged humankind from killing one another, the animals, and nature. _UNITY_ is a film about why we can't seem to get along, even after thousands and thousands of years.
 
 Jorja narrated some of this movie and attended the premiere and Q&A on June 24th
 

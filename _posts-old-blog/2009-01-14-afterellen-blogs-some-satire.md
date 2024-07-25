@@ -38,6 +38,6 @@ tags:
 <img src="//static.jorjafox.net/wordpress/2009/01/fgn-closed-caption-100x65.jpg" alt="fgn-closed-caption" title="fgn-closed-caption" width="100" height="65" class="alignleft size-thumbnail wp-image-1403" style="float:left;" /> This is, simply, funny. It's not serious, it's satire (which means it's not true), and it's just folks having fun. AfterEllen has a serious side, but their goofball blog antics are worth a chuckle.
 
 Fake Gay News: Lesbian closed captioner sues employer after termination for adding subtext
-<blockquote>According to court documents, Wayne's closed caption text for an episode of <em>CSI</em> included the dialogue: THERE'S SOMETHING IN THE LAB I WANT TO SHOW YOU, but was immediately followed by: SARA LOOKS LONGINGLY INTO CATHERINE'S EYES.</blockquote>
+<blockquote>According to court documents, Wayne's closed caption text for an episode of _CSI_ included the dialogue: THERE'S SOMETHING IN THE LAB I WANT TO SHOW YOU, but was immediately followed by: SARA LOOKS LONGINGLY INTO CATHERINE'S EYES.</blockquote>
 
 Read the whole silly article on AfterEllen.com

@@ -20,7 +20,7 @@ tags:
     - 'social media'
 ---
 
-<img class="alignleft size-thumbnail wp-image-3656" title="Matthew Jaeger" src="//static.jorjafox.net/wordpress/2011/07/jaeger-redux-210x140.png" alt="The Killer from The Two Mrs. Grissoms" width="100" height="75" />Massive thanks to <a href="http://twitter.com/matthewdjaeger">Matthew D. Jaeger</a> for his behind the scenes tweets last night about "The Two Mrs. Grissoms."  He missed my heads up about how Jorja's not on Twitter, but he had some awesome things to say about her and <em>CSI</em>.
+<img class="alignleft size-thumbnail wp-image-3656" title="Matthew Jaeger" src="//static.jorjafox.net/wordpress/2011/07/jaeger-redux-210x140.png" alt="The Killer from The Two Mrs. Grissoms" width="100" height="75" />Massive thanks to <a href="http://twitter.com/matthewdjaeger">Matthew D. Jaeger</a> for his behind the scenes tweets last night about "The Two Mrs. Grissoms."  He missed my heads up about how Jorja's not on Twitter, but he had some awesome things to say about her and _CSI_.
 
 Here's a quick list of the cool Jorja Facts you may not have known:
 <blockquote>Yes, [Jorja] is that beautiful in real life - I would argue more so.  Admittedly, I have little crush...

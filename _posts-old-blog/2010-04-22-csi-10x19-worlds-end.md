@@ -3,7 +3,7 @@ id: 2338
 title: 'CSI 10&#215;19 — "World's End" Discussion Post (UPDATED)'
 date: '2010-04-22T01:00:35-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Sara and Langston working together again.  Tune in at 9pm Eastern (8 Central) to see what happens on an all new episode of <em>CSI</em>. <em>Updated at 10:30pm ET</em>'
+excerpt: 'Sara and Langston working together again.  Tune in at 9pm Eastern (8 Central) to see what happens on an all new episode of _CSI_. _Updated at 10:30pm ET_'
 layout: post
 guid: 'https://jorjafox.net/wp/?p=2338'
 permalink: /2010/csi-10x19-worlds-end/
@@ -38,7 +38,7 @@ http://www.youtube.com/watch?v=W5i6fCosWzM
 Also a sneak peek from USA Today
 
 <h2>Recap</h2>
-<del datetime="2010-04-23T02:27:21+00:00"><em>Coming Soon!</em></del>
+<del datetime="2010-04-23T02:27:21+00:00">_Coming Soon!_</del>
 
 This one gets three stars. Not a whole lot of Sara, predictable plot, but good Sara moments and great acting.  Two fantastic scenes (one with Brass and one with Lindsey) made this a winner.  Or at least a good enough.
 

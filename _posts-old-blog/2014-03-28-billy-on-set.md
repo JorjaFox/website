@@ -29,6 +29,6 @@ https://twitter.com/waldeckvision/status/449622323771871233
 
 https://twitter.com/waldeckvision/status/449638152462811136
 
-**This does <em>not</em> mean Billy's going to be in the episide or anything at all.**
+**This does _not_ mean Billy's going to be in the episide or anything at all.**
 
 What does it mean? Billy visited the set. <span style="line-height: 1.7; font-size: 1rem;">Photos were taken. That's all I know.</span>

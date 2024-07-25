@@ -20,7 +20,7 @@ tags:
     - tv
 ---
 
-<a href="http://www.peopleschoice.com/pca/"><img class="alignleft size-medium wp-image-3929" title="PCA" src="//static.jorjafox.net/wordpress/2011/10/PCA-230x153.jpg" alt="" width="230" height="153" /></a>It's that time of year again!  The<a href="http://www.peopleschoice.com/pca/"> 2012 People's Choice Awards</a> are in full swing, starting with the nominations for nominations!  If you're new to this, the way it works is that they allow nominee's to be voted for, and then they cull the top 5  picks for the <em>actual</em> nominations.  It's weird.  <a href="http://www.peopleschoice.com/pca/nominations/">Anyone can vote</a>.
+<a href="http://www.peopleschoice.com/pca/"><img class="alignleft size-medium wp-image-3929" title="PCA" src="//static.jorjafox.net/wordpress/2011/10/PCA-230x153.jpg" alt="" width="230" height="153" /></a>It's that time of year again!  The<a href="http://www.peopleschoice.com/pca/"> 2012 People's Choice Awards</a> are in full swing, starting with the nominations for nominations!  If you're new to this, the way it works is that they allow nominee's to be voted for, and then they cull the top 5  picks for the _actual_ nominations.  It's weird.  <a href="http://www.peopleschoice.com/pca/nominations/">Anyone can vote</a>.
 
 Who should you vote for?
 

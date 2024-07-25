@@ -28,7 +28,7 @@ The gnus in review!
 <h2>Breaking news</h2>
 Guys! Guys!
 
-We raised **<em>$1000</em>** to help clean up the Gulf!  The money has been donated to Surfrider.org
+We raised **_$1000_** to help clean up the Gulf!  The money has been donated to Surfrider.org
 <img src="//static.jorjafox.net/wordpress/2010/09/surfrider.jpg" alt="" title="surfrider" width="552" height="229" class="aligncenter size-full wp-image-2579" />
 
 I sent Jorja's peeps a message this morning. She already knew we were doing this, but since at the beginning of the month we were at about $650, I don't think anyone expected this result!  Jorja said 'Huge thanks!' and I repeat that to everyone who donated, tweeted, facebooked, told a friend, or even just thought about this.  HUGE thanks! You guys amaze the hell out of me!
@@ -56,6 +56,6 @@ Remember. While there are no forums here, we do have <a href="https://jorjafox.n
 
 Did you know that JFO has mailing lists?
 <ul>
-<li>CSI Watch - To get alerted when Jorja will be on <em>CSI</em>.</li>
+<li>CSI Watch - To get alerted when Jorja will be on _CSI_.</li>
 <li><a href="https://jorjafox.net/updates">Post Updates</a> - To get emailed a daily digest of new JFO posts.</li>
 </ul>

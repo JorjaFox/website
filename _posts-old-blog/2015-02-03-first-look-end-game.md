@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-CBS is starting to release promo images from the last two episodes of the season (which will air <em>February 15th</em>). Only one has Jorja:
+CBS is starting to release promo images from the last two episodes of the season (which will air _February 15th_). Only one has Jorja:
 
 [caption id="attachment_12733" align="aligncenter" width="533"]<img src="//static.jorjafox.net/wordpress/2015/02/B88cJ_zIgAQkWBB.jpg" alt="Credit: @shane - Twitter" width="533" height="800" class="size-full wp-image-12733" /> Credit: <a href="https://twitter.com/shanessaunders/status/562699463018676225">@shane - Twitter</a>[/caption]
 

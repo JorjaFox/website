@@ -45,4 +45,3 @@ At the end, when Sara returns Justin's wedding ring to Mary, they discuss love, 
 **Sara:**: Not doing it.
 **Hodges:**: I wore it for you.
 **Sara:**: ... Fine. What?
-

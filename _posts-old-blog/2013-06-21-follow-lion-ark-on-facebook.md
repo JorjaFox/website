@@ -23,4 +23,4 @@ tags:
 
 As it says, you can <a href="https://www.facebook.com/LionArkTheMovie">Follow Lion Ark: The Movie on Facebook</a>
 
-<em>ETA: You Can also donate to them at <a href="http://www.indiegogo.com/projects/lion-ark">http://www.indiegogo.com/projects/lion-ark</a> to raise money for the festival circuit. </em>
+_ETA: You Can also donate to them at <a href="http://www.indiegogo.com/projects/lion-ark">http://www.indiegogo.com/projects/lion-ark</a> to raise money for the festival circuit. _

@@ -22,4 +22,4 @@ Jorja Fox is keeping it simple on Facebook:
 <a href="https://www.facebook.com/jorja.fox.545/posts/275523395915707"><img class="size-full wp-image-6906 aligncenter" alt="Facebook Screenshot" src="//static.jorjafox.net/wordpress/2013/04/facebook.jpg" width="578" height="159" /></a></blockquote>
 You can see the post on <a href="https://www.facebook.com/jorja.fox.545/posts/275523395915707">Facebook</a>.
 
-<em>This post was written by a guest author filling in for Mika while on a long weekend break for holiday.</em>
+_This post was written by a guest author filling in for Mika while on a long weekend break for holiday._

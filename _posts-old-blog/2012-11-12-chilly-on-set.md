@@ -22,6 +22,6 @@ https://twitter.com/Bravo_George/status/268070158109655041
 
 Looks like it's a bit cold on set. It is surprisingly brisk in California right now...
 
-<em>ETA:</em>
+_ETA:_
 
 https://twitter.com/Bravo_George/status/268174085475954688

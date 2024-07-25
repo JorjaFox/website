@@ -20,12 +20,12 @@ tags:
     - tv
 ---
 
-<img class="alignleft size-thumbnail wp-image-4408" title="gsr" src="//static.jorjafox.net/wordpress/2012/03/gsr-230x153.jpg" alt="" width="100" height="75" />Quickly for those in a rush. Jorja will <em>not </em>be in episodes 17 and 20, but she is expected to be in the rest of the season. So we get her for 17 episodes out of 22 (which is right where I'd speculated back in September - 15 to 18 episodes).
+<img class="alignleft size-thumbnail wp-image-4408" title="gsr" src="//static.jorjafox.net/wordpress/2012/03/gsr-230x153.jpg" alt="" width="100" height="75" />Quickly for those in a rush. Jorja will _not _be in episodes 17 and 20, but she is expected to be in the rest of the season. So we get her for 17 episodes out of 22 (which is right where I'd speculated back in September - 15 to 18 episodes).
 <ul>
-	<li>12x17 - March 14 - Trends With Benefits<em> (no Jorja)</em></li>
+	<li>12x17 - March 14 - Trends With Benefits_ (no Jorja)_</li>
 	<li>12x18 - March 21 - Malice in Wonderland</li>
 	<li>12x19 -TBD - Split Decisions</li>
-	<li>12x20 - TBD - Altered Stakes <em>(no Jorja)</em></li>
+	<li>12x20 - TBD - Altered Stakes _(no Jorja)_</li>
 	<li>12x21 - TBD - (unnamed)</li>
 	<li>12x22 - TBD - (unnamedP</li>
 </ul>

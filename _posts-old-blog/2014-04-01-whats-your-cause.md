@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=44wO3kw3EQ4
 The purpose of our campaign is to showcase a variety of important organizations that occupy the non-profit space and encourage all people to get get involved and support a cause that interests them.</blockquote>
 If you want to donate to Jorja's cause, I'm running a <a href="http://www.crowdrise.com/jorjafox46/">Birthday Fundraiser for the ADI</a>. Please toss a couple bucks in if you can.
 
-So. What's <em>your</em> cause?
+So. What's _your_ cause?

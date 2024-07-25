@@ -27,7 +27,7 @@ The daughter of an Irish-Canadian father and a Belgian-Canadia mother who immigr
 
 Today, Fox is tall (five-foot-nine) and rail-thin, but growing up in small Melbourne Beach, Florida, she was overweight. "My mom was a child of the Depression and World War II," she says, "so the best thing that she could do for me and my older brother was to feed us regularly. I was eating five meals a day. Suddenly I realized that, wow, I could eat three meals instead."
 
-Newly thin, fifteen-year-old Fox entered a modeling contest at a local mall on a whim &#8212; and won. "I was the palest, whitest kid with dark brown hair in Florida, where the ideal was to be blonde and tan," says the onetime tomboy. "The whole town was just aghast."
+Newly thin, fifteen-year-old Fox entered a modeling contest at a local mall on a whim - and won. "I was the palest, whitest kid with dark brown hair in Florida, where the ideal was to be blonde and tan," says the onetime tomboy. "The whole town was just aghast."
 
 Fox subsequently moved to New York and launched a lucrative career as a teen model. "It was one of the greatest things I've ever done, she says. "Not only to move to New York, but then to go to Europe for six months and meet people from all over the world."
 
@@ -36,4 +36,3 @@ While many teens would sell their souls to model professionally, Fox retired fro
 Fox now has a burgeoning film career (*Memento*) and Honeypot, an L.A. theater company she co-founded with a group of fellow New York transplants; but she's happy to dedicate the bulk of her time to *CSI*.
 
 "It's been such an amazing place to come to work," says Fox. "And if it's your job and it happens to be amazing, then that's the best thing you can ever have."
-

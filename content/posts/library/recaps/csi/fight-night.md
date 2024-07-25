@@ -49,4 +49,3 @@ Sara processes the boxing ring with Warrick, showing one of her only aversions: 
 - - -
 
 **Sara:** So why did you keep hitting, because real fighters don't stop hitting until somebody makes them, right? When you're in the ring, your life's in the ref's hands.
-

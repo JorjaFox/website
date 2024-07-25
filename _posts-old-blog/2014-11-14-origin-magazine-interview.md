@@ -19,8 +19,8 @@ tags:
 Small but nice interview with ORIGIN magazine did make me wonder at this answer...
 <blockquote>**RP: What kind of research goes into a role?**
 
-JF: Well, it depends. For instance, [on] <em>CSI</em> is a character that I had very, very little experience with when I started, so I did a lot of research. I went to the Los Angeles crime lab; I went to the Las Vegas crime lab. Spent some time with folks that really do the job. I did a lot of reading and—thank goodness for the Internet at that time—a lot of web searches about the idea of it. Science is not something that comes all that natural to me, and then, of course, every once in a while, you’ll get that character that I feel, like, Oh, I know this person or This person would be a good friend of mine or This person’s a lot like me. Then, of course, there’s less research involved.</blockquote>
-I just recently re-watched <em>The Kill-Off</em>, where she's an abused drug addict who kills her father. I may be reading too much into that.
+JF: Well, it depends. For instance, [on] _CSI_ is a character that I had very, very little experience with when I started, so I did a lot of research. I went to the Los Angeles crime lab; I went to the Las Vegas crime lab. Spent some time with folks that really do the job. I did a lot of reading and—thank goodness for the Internet at that time—a lot of web searches about the idea of it. Science is not something that comes all that natural to me, and then, of course, every once in a while, you’ll get that character that I feel, like, Oh, I know this person or This person would be a good friend of mine or This person’s a lot like me. Then, of course, there’s less research involved.</blockquote>
+I just recently re-watched _The Kill-Off_, where she's an abused drug addict who kills her father. I may be reading too much into that.
 
 Read the full article on <a href="http://www.originmagazine.com/2014/11/11/jorja-fox/">ORIGIN Magazine: Jorja Fox</a>
 

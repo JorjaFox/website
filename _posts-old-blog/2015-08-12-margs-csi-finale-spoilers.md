@@ -29,4 +29,4 @@ Spoilers. If you didn't think that already.
 
 Credit: <a href="http://www.foxnews.com/entertainment/2015/08/12/marg-helgenberger-dishes-on-upcoming-csi-finale/">FoxNews: Marg Helgenberger dishes on upcoming 'CSI' finale</a>
 
-On the crime front, Marg explains that there's a 'federal incident' at Sam Braun's old casino, which Catherine owns if you'll recall. Catherine is still with the FBI, but being the only one of Braun's family <em>not</em> in jail, she inherited the kit and kaboodle.
+On the crime front, Marg explains that there's a 'federal incident' at Sam Braun's old casino, which Catherine owns if you'll recall. Catherine is still with the FBI, but being the only one of Braun's family _not_ in jail, she inherited the kit and kaboodle.

@@ -26,4 +26,4 @@ From <a href="http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=
 “Let’s Make a Deal” – The CSI team investigates a murder at Clark County jail after an inmate stumbles upon a body while running away from officers, on CSI: CRIME SCENE INVESTIGATION, Sunday, Dec. 7 (10:00-11:00 PM, ET/PT), on the CBS Television Network.
 
 CHEAT TWEET: There’s one prison murder and over 2000 caged suspects! #CSI 12/7 10:00 pm ET/PT http://bit.ly/1sK3dif</blockquote>
-Jorja <em>is not</em> expected to be in this episode. And that is as much as I know about what episodes Jorja is and isn't in this season.
+Jorja _is not_ expected to be in this episode. And that is as much as I know about what episodes Jorja is and isn't in this season.

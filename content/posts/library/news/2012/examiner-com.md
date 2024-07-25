@@ -7,7 +7,7 @@ permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
-newstitle: "&#8216;CSI' spoilers: Sara has sparks with someone from her past  "
+newstitle: "'CSI' spoilers: Sara has sparks with someone from her past  "
 newsauthor: Meredith Jacobs
 newssource: Examiner.com
 newsurl: http://www.examiner.com/article/csi-spoilers-sara-has-sparks-with-someone-from-her-past

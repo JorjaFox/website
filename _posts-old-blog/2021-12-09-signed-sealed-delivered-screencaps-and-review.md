@@ -68,7 +68,7 @@ https://twitter.com/CSICBS/status/1468792196224614411?s=20
 
 Now on to talking about the case. I was a little disappointed. I wanted it to have more Grissom and Sara, since they were the ones who cared about Hodges the most, and honestly I don't care about the junior CSI's story.  Also I wanted more casework and less cop-work, if that makes sense.  Basically it was too soft an ending. They didn't spend enough time showing us **how** they proved Wix did it.
 
-However I enjoyed the short series as much as I've enjoyed all <em>CSI</em> stories, so I am delighted in the end result. The show gained viewers in the 18-49 demo, however overall they dropped a lot to <em>Chicago PD</em>, which also had their winter finale. It was a tough match up. Considering the weak lead in from <em>Tough as Nails</em>, it was an improvement in both age-demo and total viewers.
+However I enjoyed the short series as much as I've enjoyed all _CSI_ stories, so I am delighted in the end result. The show gained viewers in the 18-49 demo, however overall they dropped a lot to _Chicago PD_, which also had their winter finale. It was a tough match up. Considering the weak lead in from _Tough as Nails_, it was an improvement in both age-demo and total viewers.
 
 Hard to say where we'll be. I think that this is very much a show that benefited from a short season, so I would love 10 episodes a year. Less work for everyone.
 

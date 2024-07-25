@@ -16,7 +16,7 @@ newsurl: http://www.tvguide.com
 
 [...]
 
-**Question: Please tell me you've heard something about Sara Sidle's fate on "CSI". Did Jorja Fox renew her contract? Or are you not at liberty to say? &#8212; Rachel**
+**Question: Please tell me you've heard something about Sara Sidle's fate on "CSI". Did Jorja Fox renew her contract? Or are you not at liberty to say? - Rachel**
 
 **Ausiello:** The only thing I'm at liberty to say is make sure you check my Ausiello Report blog immediately following the CSI season premiere next Thursday.
 

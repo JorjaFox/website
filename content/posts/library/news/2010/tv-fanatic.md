@@ -33,4 +33,3 @@ Such care seemed to be put into the building of the mystery surrounding the hous
 The final reveal of the actual killer felt like a brick wall, lacking the surprise I believe the writers intended.
 
 Overall this was a nice change from previous episodes. There seems to be hope that CSI will get back on track, leaving the improbable and impossible plotlines behind for what has always made it a wonderful show with great mysteries, a little bit of gore, and great performances that invoke an emotional connection to the characters.
-

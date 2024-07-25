@@ -28,4 +28,3 @@ The actors were in the fifth of their seven-year contracts.
 Though a search was underway for their replacements, it's unclear whether show creators will recast the characters or develop new ones, the reports said.
 
 The show picked up four Emmy nominations Thursday, including one for best drama series.
-

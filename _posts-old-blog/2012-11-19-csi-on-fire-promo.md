@@ -18,7 +18,7 @@ tags:
     - video
 ---
 
-<em>EDIT: JORJA IS NOT IN THIS EPISODE!!</em>
+_EDIT: JORJA IS NOT IN THIS EPISODE!!_
 
 <img class="alignleft size-thumbnail wp-image-5891" title="CSI930-promos__183393_thumb_640x360" src="//static.jorjafox.net/wordpress/2012/11/CSI930-promos__183393_thumb_640x360-110x70.jpeg" alt="" width="110" height="70" />When five bodies are found in what appears to be a meteor site in the middle of the desert, CSI Finlay recognizes one of the casualties, prompting her to revisit her past, on the next episode of CSI: airing Wednesday at 10/9c.
 

@@ -26,6 +26,6 @@ tags:
 
 You see, we, the JFO Nation, hit the 100% mark in August, for our Summer 2011 fundraiser.  And then we kept going.
 
-Every year, for ... a year now, I've done a CrowdRise fundraiser, because it puts the money in a public place that you can see, and makes sure the right people gets the money, <em>and</em> they take less overhead than PayPal.  So thank you for making the third CrowdRise fundraiser a success.
+Every year, for ... a year now, I've done a CrowdRise fundraiser, because it puts the money in a public place that you can see, and makes sure the right people gets the money, _and_ they take less overhead than PayPal.  So thank you for making the third CrowdRise fundraiser a success.
 
 PS: If you missed out and are still feeling the need to do more, I suggest donating to the <a href="http://www.kickstarter.com/projects/timgorski/how-i-became-an-elephant">"How I Became an Elephant" Kickstarter project</a>.

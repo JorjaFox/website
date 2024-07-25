@@ -19,7 +19,7 @@ tags:
     - spoilers
 ---
 
-There will be <em>seventeen</em> days of filming. That means we have seven left!
+There will be _seventeen_ days of filming. That means we have seven left!
 
 https://twitter.com/zuiker/status/631125128965812226
 

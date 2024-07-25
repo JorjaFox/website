@@ -21,4 +21,4 @@ Jorja's in this one, just not the promo pics. In the 'hero' shot (at about 13 se
 
 http://www.youtube.com/watch?v=jNfPz1TvmTw
 
-It's a <em>Cheers</em> reunion!
+It's a _Cheers_ reunion!

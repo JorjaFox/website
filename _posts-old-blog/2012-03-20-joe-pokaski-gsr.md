@@ -23,7 +23,7 @@ tags:
 
 <img class="alignleft size-thumbnail wp-image-4442" title="joe_p" src="//static.jorjafox.net/wordpress/2012/03/joe_p-210x140.jpg" alt="" width="100" height="75" />
 
-Do you remember this guy? Joe Pokaski? Used to work on this little show called <em>Heroes</em>, came over to CSI?
+Do you remember this guy? Joe Pokaski? Used to work on this little show called _Heroes_, came over to CSI?
 
 Anyway, he gives us a tiny tidbit as to what to expect tomorrow night!
 <blockquote>**CSI Files**: There’s word that Gil Grissom will somehow factor into the episode. Will there be an appearance by**William Petersen** before the end of the season?

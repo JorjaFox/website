@@ -73,4 +73,3 @@ I think it&rsquo;s going to be very hard for criminals to get away with things w
 (laughs) Exactly! It&rsquo;s really hard to get away with crimes now, thank God! There have been so many technological advancements over the last twenty years and thinks like DNA evidence helps keep people who are innocent from spending a decade in jail. Those sorts of breakthroughs are incredible. Of course criminals are also coming up with new ways to commit crimes, and crime fighters have to come up with new ways to beat them. I find it a fascinating dance.
 
 [...]
-

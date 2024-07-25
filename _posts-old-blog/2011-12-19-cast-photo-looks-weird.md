@@ -20,7 +20,7 @@ tags:
     - photos
 ---
 
-Look, I've seen pretty much every non-manip'd picture of Jorja there is on this planet, and this one just looks <em>weird</em>. Something's not right.
+Look, I've seen pretty much every non-manip'd picture of Jorja there is on this planet, and this one just looks _weird_. Something's not right.
 
 <a href="https://jorjafox.net/gallery/tv/csi/pub/s12/stills/0004-jorja.jpg"><img class="aligncenter size-medium wp-image-4130" title="Cast Promo" src="//static.jorjafox.net/wordpress/2011/12/cast-promo-230x153.jpg" alt="Cast Promo" width="230" height="153" /></a>
 

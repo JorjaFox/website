@@ -7,7 +7,7 @@ permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
-newstitle: "Whoever Has &#8216;Talent' Has Clout, Too  "
+newstitle: "Whoever Has 'Talent' Has Clout, Too  "
 newsauthor: Lisa de Moraes
 newssource: The TV Column
 newsurl: http://www.washingtonpost.com/wp-dyn/content/article/2009/07/20/AR2009072003089_2.html
@@ -24,4 +24,4 @@ What to do? CBS announced Monday that Jorja Fox, who played Sara Sidle, Petersen
 
 Still with me?
 
-In a statement clearly intended to lure Grissom fans back to the show, exec producer Carol Mendelsohn promises "longtime &#8216;CSI' fans will be excited to discover where life has taken Sara Sidle and what brings her back to the &#8216;CSI' team in Las Vegas in our premiere episode." Not coincidentally, "CSI" faces ABC's "Grey's Anatomy" and Fox's "Fringe" this coming season.
+In a statement clearly intended to lure Grissom fans back to the show, exec producer Carol Mendelsohn promises "longtime 'CSI' fans will be excited to discover where life has taken Sara Sidle and what brings her back to the 'CSI' team in Las Vegas in our premiere episode." Not coincidentally, "CSI" faces ABC's "Grey's Anatomy" and Fox's "Fringe" this coming season.

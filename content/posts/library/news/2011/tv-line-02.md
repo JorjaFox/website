@@ -14,7 +14,7 @@ newsurl: http://www.tvline.com/2011/04/csi-preview-lady-heather-melinda-clarke/
 
 ---
 
-Lady Heather rears her <del>ugly</del> gorgeous head on CSI this Thursday (CBS, 9/8c), but why the unexpected encore? The vexing vixen - played by Nikita's Melinda Clarke - is back for two reasons: to solve a strange crime, and to provide insider knowledge on that "evil" DNA gene that Langston (Laurence Fishburne) shares with MIA murderer Nate Haskell (returning guest star Bill Irwin).
+Lady Heather rears her ~~ugly~~ gorgeous head on CSI this Thursday (CBS, 9/8c), but why the unexpected encore? The vexing vixen - played by Nikita's Melinda Clarke - is back for two reasons: to solve a strange crime, and to provide insider knowledge on that "evil" DNA gene that Langston (Laurence Fishburne) shares with MIA murderer Nate Haskell (returning guest star Bill Irwin).
 
 Of course, we already knew that Haskell's season-ending reappearance is right around the corner, but here's the twist: It's Clarke's sixth CSI guest spot that actually kick-starts this intense, killer arc.
 

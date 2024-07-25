@@ -41,7 +41,7 @@ I bumped into Louis when I was on set (I was just reminded of this! So sorry, Lo
 
 https://twitter.com/zuiker/status/626435152508399616
 
-Officially official. The title is Immortality. Perhaps it's in reference to leaving a legacy behind. We are all immortal in memories. Only time will tell how immortal <em>CSI</em> is.
+Officially official. The title is Immortality. Perhaps it's in reference to leaving a legacy behind. We are all immortal in memories. Only time will tell how immortal _CSI_ is.
 
 Here's the first shot of the finale:
 

@@ -42,4 +42,3 @@ Sara and Nick help Grissom on the little people murder, discovering how the vict
 
 **Sara:** Concept suggests... deep down we're all narcissists?
 **Grissom:** Yeah. What attracts us the most is ourselves.
-

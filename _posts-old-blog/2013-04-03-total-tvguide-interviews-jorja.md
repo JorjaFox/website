@@ -20,10 +20,10 @@ tags:
     - tv
 ---
 
-<a href="//static.jorjafox.net/wordpress/2013/04/ttg15_cover.jpg"><img class="alignright size-full wp-image-6983" alt="Total TVGuide Cover" src="//static.jorjafox.net/wordpress/2013/04/ttg15_cover.jpg" width="293" height="400" /></a> Who would have ever thought we'd see Jorja on the cover of a UK TV Guide magazine? Though <em>why</em> did they have to pic that picture which was way too photoshopped.
+<a href="//static.jorjafox.net/wordpress/2013/04/ttg15_cover.jpg"><img class="alignright size-full wp-image-6983" alt="Total TVGuide Cover" src="//static.jorjafox.net/wordpress/2013/04/ttg15_cover.jpg" width="293" height="400" /></a> Who would have ever thought we'd see Jorja on the cover of a UK TV Guide magazine? Though _why_ did they have to pic that picture which was way too photoshopped.
 
 Ah well you can't have it all.
-<blockquote>**Your big break came in <em>ER</em> in the mid-Nineties. What was it like landing the role of Dr Maggie Doyle?
+<blockquote>**Your big break came in _ER_ in the mid-Nineties. What was it like landing the role of Dr Maggie Doyle?
 **For me, it was the first time that people were really going to see my work. So I was scared senseless. On the night I got the job, I honestly almost drove to Mexico, because I was so terrified. I nearly told them I didn't want to do it. But it was very thrilling for me to work with people who were so talented. And a great honour.</blockquote>
 Credit: <a href="http://www.tvchoicemagazine.co.uk/interviewextra/jorja-fox-csi-crime-scene-investigation">TV Choice Magazine</a>
 

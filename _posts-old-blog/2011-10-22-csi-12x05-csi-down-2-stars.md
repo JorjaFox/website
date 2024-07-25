@@ -24,7 +24,7 @@ tags:
 
 <img class="alignleft size-medium wp-image-3921" title="I should be in every episode" src="//static.jorjafox.net/wordpress/2011/10/csi-down-ep-230x129.jpg" alt="I should be in every episode" width="230" height="129" />Very few Sara Scenes, so this gets two stars.
 
-Not a lot of work for her, and she's not in next week (of course).  The episode itself was decent.  Not as 'cliff hangery' as it could have been, since we knew they wouldn't be killing off Morgan so soon (old <em>CSI</em> would have - remember Holly Gribbs?) but I rather like Morgan so I'm not upset about that.  The greenscreen from the helicopter was pretty bad, sadly, and it was easy to see that the chopper scenes were superimposed.
+Not a lot of work for her, and she's not in next week (of course).  The episode itself was decent.  Not as 'cliff hangery' as it could have been, since we knew they wouldn't be killing off Morgan so soon (old _CSI_ would have - remember Holly Gribbs?) but I rather like Morgan so I'm not upset about that.  The greenscreen from the helicopter was pretty bad, sadly, and it was easy to see that the chopper scenes were superimposed.
 
 The ratings were down.  10.79 overall, compared to 11.98 for the Sara heavy "Bittersweet" (coincidence?  I think not!).
 

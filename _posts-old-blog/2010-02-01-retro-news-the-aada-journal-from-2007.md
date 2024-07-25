@@ -21,7 +21,7 @@ tags:
     - interview
 ---
 
-The Journal of <a href="http://www.aada.org/">The American Academy of Dramatic Arts</a> interviewed Jorja (and Eric Szmanda) back in the spring of 2007.  I suspect this article got lost in the hubbub of Jorja leaving <em>CSI </em>that year.
+The Journal of <a href="http://www.aada.org/">The American Academy of Dramatic Arts</a> interviewed Jorja (and Eric Szmanda) back in the spring of 2007.  I suspect this article got lost in the hubbub of Jorja leaving _CSI _that year.
 
 My favorite question was this:
 

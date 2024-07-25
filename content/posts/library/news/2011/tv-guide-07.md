@@ -21,4 +21,3 @@ It was a reunion of sorts when, after almost two years of absence, Gil Grissom (
 Although his on-screen interaction was limited to a Skype session, allowing a rare glimpse into the marriage of Grissom and Sara, Petersen himself reunited with the cast and crew on the *CSI* set. "Everybody turned out to shake his hand and give him a hug," says Mendelsohn. "It was a family reunion without the turkey."
 
 So should fans expect the three Grissoms to reunite for dinner in the near future, as teased in the episode? "We haven't written the dinner scene yet," says Mendelsohn. But that doesn't mean we won't see Grissom again. She adds, "As long as there is a *CSI*, there will be a Gil Grissom."
-

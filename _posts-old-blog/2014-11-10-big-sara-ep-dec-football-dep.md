@@ -28,6 +28,6 @@ https://twitter.com/csiwritersroom/status/531612243637837825
 
 I kid! I kid!
 
-Seriously though, a 'big' Sara episode means it's probably the Dec 21 or 28 episodes (see the <a href="https://jorjafox.net/wiki/CSI:_Crime_Scene_Investigation_(season_15)">CSI Season 15 Episode List</a> if you want spoilers with titles and some info). Of course those are <em>both</em> dates I would expect to see CSI bumped, just like we had here with "Girls Gone Wilder" (see <a href="https://jorjafox.net/2014/dates-expect-csi-bumped/">Dates We Expect CSI to be Bumped</a> for more info).
+Seriously though, a 'big' Sara episode means it's probably the Dec 21 or 28 episodes (see the <a href="https://jorjafox.net/wiki/CSI:_Crime_Scene_Investigation_(season_15)">CSI Season 15 Episode List</a> if you want spoilers with titles and some info). Of course those are _both_ dates I would expect to see CSI bumped, just like we had here with "Girls Gone Wilder" (see <a href="https://jorjafox.net/2014/dates-expect-csi-bumped/">Dates We Expect CSI to be Bumped</a> for more info).
 
-Which means <em>either</em> we see it in December or we get to see it in early January.
+Which means _either_ we see it in December or we get to see it in early January.

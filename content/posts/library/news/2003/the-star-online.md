@@ -66,4 +66,3 @@ What is obvious is that Fox is very proud of being part of the show and working 
 "The great thing about working on C.S.I. is all of us work very well together and trust each other's instincts. We are very focused when we work. It's very magical to me."
 
 'C.S.I.: Crime Scene Investigation' is aired every Wednesday, 9pm, on AXN with repeats on Thursday (noon), and Sunday (11am & 9pm).
-

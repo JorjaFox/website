@@ -20,8 +20,8 @@ tags:
 
 https://twitter.com/waldeckvision/status/294973606293803009
 
-This was taken on the 25th, so they should be filming the episode <em>after</em> "Forget Me Not" ... except ... <del>Jorja's not in that episode.</del>
+This was taken on the 25th, so they should be filming the episode _after_ "Forget Me Not" ... except ... <del>Jorja's not in that episode.</del>
 
 Interesting.
 
-<em>Edit: Jorja **is** in 13x16. Well then!</em>
+_Edit: Jorja **is** in 13x16. Well then!_

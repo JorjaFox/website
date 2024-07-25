@@ -18,7 +18,7 @@ tags:
     - video
 ---
 
-In case you didn't know, Jorja <em>also</em> supports Surfrider, to help clean the oceans.
+In case you didn't know, Jorja _also_ supports Surfrider, to help clean the oceans.
 
 http://youtu.be/z4vUQOLGiS8
 

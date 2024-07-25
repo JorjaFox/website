@@ -28,4 +28,4 @@ Tickets are $150 and cocktail attire is suggested.
 
 All proceeds from the event will benefit The HSUS's End Dogfighting in Chicago campaign. This innovative program is designed to educate youth about the brutality and dangers of dogfighting. It also supports expanded police efforts to find and arrest dogfighters citywide.
 
-<em>*Jorja's appearance is subject to schedule changes.</em>
+_*Jorja's appearance is subject to schedule changes._

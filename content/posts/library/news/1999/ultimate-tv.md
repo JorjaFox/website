@@ -13,7 +13,7 @@ newsurl: http://www.zap2it.com
 
 ---
 
-"ER" costar Jorja Fox has been cast as a lead on the new Tom Fontana/Barry Levinson series for UPN, according to Daily Variety. In "The True Story," Fox is slated to play a medical intern &#8212; basically the same role she currently has on TV's hottest drama.
+"ER" costar Jorja Fox has been cast as a lead on the new Tom Fontana/Barry Levinson series for UPN, according to Daily Variety. In "The True Story," Fox is slated to play a medical intern - basically the same role she currently has on TV's hottest drama.
 
 **UPN** is funding a pilot and six scripts of "True Story," but will decide after the pilot is completed whether or not to commit to 13 episodes.
 

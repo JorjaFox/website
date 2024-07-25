@@ -43,4 +43,3 @@ After the case is solved, Greg wakes up to see Sara's bed empty and stripped of 
 **Sara:** Me too.
 **Greg:** Breakfast?
 **Sara:** _Coffee._
-

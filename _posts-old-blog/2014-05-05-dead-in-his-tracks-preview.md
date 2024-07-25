@@ -19,7 +19,7 @@ tags:
     - video
 ---
 
-Here's the full preview, finally! And in decent quality <em>and</em> region free. I love you too.
+Here's the full preview, finally! And in decent quality _and_ region free. I love you too.
 
 https://vimeo.com/94100491
 

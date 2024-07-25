@@ -25,9 +25,9 @@ Two weeks ago, I had a lovely chat with the folks from Lion Ark (tl;dr they didn
 	<li>March 8 - Omaha NE at the <a href="http://www.omahafilmfestival.org/">Omaha Film Festival</a></li>
 	<li>April 3-10 - Palm Beach FL at the <a href="http://www.pbifilmfest.org/">P<span style="line-height: 1.7; font-size: 1rem;">alm Beach International Film Festival</span></a></li>
 </ul>
-These are the <em>only</em> showings right now. I did ask about plans to distribute nationally, and they want to get it on TV if possible, but as a small film like this, it's really hard to get distribution.
+These are the _only_ showings right now. I did ask about plans to distribute nationally, and they want to get it on TV if possible, but as a small film like this, it's really hard to get distribution.
 
-<em>Which is why</em> this year's birthday fundraising goes to ADI. Donate via CrowdRise at <a href="http://www.crowdrise.com/jorjafox46/">http://www.crowdrise.com/jorjafox46/</a> (or click the picture below) and the money magically goes to ADI no matter how much we raise.
+_Which is why_ this year's birthday fundraising goes to ADI. Donate via CrowdRise at <a href="http://www.crowdrise.com/jorjafox46/">http://www.crowdrise.com/jorjafox46/</a> (or click the picture below) and the money magically goes to ADI no matter how much we raise.
 
 <a href="http://www.crowdrise.com/jorjafox46/"><img class="aligncenter size-full wp-image-9951" alt="Crowdrise_logo_326x80" src="//static.jorjafox.net/wordpress/2014/02/Crowdrise_logo_326x80.gif" width="326" height="80" /></a>You do need a credit card, sorry, but this is the safest and most secure way about it.
 

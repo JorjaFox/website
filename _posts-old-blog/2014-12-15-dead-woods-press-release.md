@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-Written by Treena Hancock and Melissa R. Byer, <em>this</em> is the Jorja Heavy Case!!!
+Written by Treena Hancock and Melissa R. Byer, _this_ is the Jorja Heavy Case!!!
 <blockquote>THE CSI TEAM REOPENS A 10-YEAR-OLD MURDER/SUICIDE CASE WHEN THE SOLE SURVIVOR CLAIMS HER ACCUSED FATHER WAS INNOCENT, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, DEC. 28
 
 <img class="aligncenter size-full wp-image-11732" src="//static.jorjafox.net/wordpress/2014/12/0564d4ec4885448fc55b26b11c1ae7432.png" alt="0564d4ec4885448fc55b26b11c1ae743" width="450" height="319" />

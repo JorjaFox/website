@@ -19,7 +19,7 @@ tags:
     - 'social media'
 ---
 
-Last night Jorja was out at an airing of "Extinction Soup" with Deeks from <em>NCIS:LA</em>!
+Last night Jorja was out at an airing of "Extinction Soup" with Deeks from _NCIS:LA_!
 
 https://www.facebook.com/photo.php?fbid=797576956958817
 

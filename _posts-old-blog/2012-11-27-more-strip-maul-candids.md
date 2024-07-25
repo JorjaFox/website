@@ -18,7 +18,7 @@ tags:
     - tv
 ---
 
-Excited for a new <em>CSI</em> tomorrow? How about six more images to make you smile.
+Excited for a new _CSI_ tomorrow? How about six more images to make you smile.
 
 <a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/candid/spokeo_001.jpg"><img title="Strip Maul" src="https://jorjafox.net/gallery/zp-core/i.php?a=tv/csi/pub/s13/candid&i=spokeo_001.jpeg&s=175&c=1&cw=175&ch=175&q=75&t=1&wmk=!" alt="Strip Maul" width="175" height="175" /></a> <a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/candid/spokeo_002.jpg"><img title="Strip Maul" src="https://jorjafox.net/gallery/zp-core/i.php?a=tv/csi/pub/s13/candid&i=spokeo_002.jpeg&s=175&c=1&cw=175&ch=175&q=75&t=1&wmk=!" alt="Strip Maul" width="175" height="175" /></a> <a href="https://jorjafox.net/gallery/albums/tv/csi/pub/s13/candid/spokeo_003.jpg"><img title="Strip Maul" src="https://jorjafox.net/gallery/zp-core/i.php?a=tv/csi/pub/s13/candid&i=spokeo_003.jpeg&s=175&c=1&cw=175&ch=175&q=75&t=1&wmk=!" alt="Strip Maul" width="175" height="175" /></a>
 

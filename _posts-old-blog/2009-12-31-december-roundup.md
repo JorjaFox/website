@@ -24,7 +24,7 @@ tags:
 Credit to <a href="http://chuck-charles.livejournal.com/">Chuck_Charles</a> for the awesome photo manips.  You can download more on <a href="http://community.livejournal.com/jorjaallaround/493983.html">LiveJournal</a>.  They're not real pictures, but photo manipulation. Don't think you missed a photo shoot.
 
 <h2>Happy New Year</h2>
-The new year starts tomorrow.  2010.  Isn't that amazing?  CSI will finish it's 10th season in May and we've come a very long way since 1999, when this silly science show started.    In the 90s, Jorja was on three hit shows (<em>ER</em>, <em>The West Wing</em> and <em>CSI</em>).  In the 2000s, she was on just <em>CSI</em>.  I can't wait to see where she goes next!
+The new year starts tomorrow.  2010.  Isn't that amazing?  CSI will finish it's 10th season in May and we've come a very long way since 1999, when this silly science show started.    In the 90s, Jorja was on three hit shows (_ER_, _The West Wing_ and _CSI_).  In the 2000s, she was on just _CSI_.  I can't wait to see where she goes next!
 
 Oh, and as a present for you, <a href="https://jorjafox.net/2009/12/30/some-videos-for-the-new-year/">here are some videos</a> to get you through the long night.
 

@@ -17,6 +17,7 @@ prodnum: 322
 _This episode was delayed **two weeks** due to football_
 
 ## Synopsis
+
 Sara, Morgan, and Finn are attending a CSI conference in town and go the hotel early to enjoy mimosas, a spa treatment, and relaxation before getting down to work. While there, they see Jane Snyder. Sara does not want to see Jane, but alas the woman is excited to see her old friend. On the other hand, Finn runs into an old friend with whom she regularly hooks up at conventions. During 'Dr. Jane's' presentation, which includes dancing go-go men, a single shooter with an AR-16 blasts the room, killing multiple people.
 
 Meanwhile, the boys back at the lab are working the case of a liquified body of a security guard who just so happens to work at the hotel where the conference is taking place. The dead guard's key card was used recently, putting the attendees in danger, as the shooter, Jeff Lasky, had the card. Lasky is shot and killed by SWAT in the hotel. Lasky was after Dr. Jane, the expert witness who previously kept the man who eventually killed his family out of jail.

@@ -3,7 +3,7 @@ id: 2116
 title: 'CSI Filming Sighting (Nov 4th) — Updated'
 date: '2009-11-16T09:17:33-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Heath reported a Jorja filming sighting of <em>CSI</em> on November 4th to <a href="http://tvspoilers-odi.blogspot.com">TV Spoilers at The ODI</a> <em>Added in promo pics.</em>'
+excerpt: 'Heath reported a Jorja filming sighting of _CSI_ on November 4th to <a href="http://tvspoilers-odi.blogspot.com">TV Spoilers at The ODI</a> _Added in promo pics._'
 layout: post
 guid: 'https://jorjafox.net/?p=2116'
 permalink: /2009/csi-filming-sighting-nov-4th/

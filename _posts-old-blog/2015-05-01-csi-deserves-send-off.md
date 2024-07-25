@@ -22,11 +22,11 @@ Look. We just don't know if this is the end yet. We may not know for 12 more day
 
 <a href="http://deadline.com/2015/05/csi-final-season-16-cbs-1201419002/">Deadline.com</a> reports:
 
-<blockquote>It is May, and we have another veteran crime procedural that has created a mega-successful franchise, CBS’ <em>CSI</em>, facing an uncertain fate just as it launched a third spinoff series,<em> CSI: Cyber. </em>I hear CBS is considering different options to give <em>CSI</em> a final chapter next season, including a short run — as short as six episodes — but it is not a sure thing.</blockquote>
+<blockquote>It is May, and we have another veteran crime procedural that has created a mega-successful franchise, CBS’ _CSI_, facing an uncertain fate just as it launched a third spinoff series,_ CSI: Cyber. _I hear CBS is considering different options to give _CSI_ a final chapter next season, including a short run — as short as six episodes — but it is not a sure thing.</blockquote>
 
 This happened five years ago, when Law & Order went off the air after 20 seasons. They were dropped days before NBC's upfronts (CBS's are May 13th, you see why we'll know then).
 
-In the case of <em>CSI</em>, it's a bubble show. The ratings aren't what it was, but <em>CSI: Cyber</em>'s not doing as great as they hoped. It's not renewed yet either. The actors are willing to come back, says the rumors, but pretty much everyone agrees that it deserves a better send off than the season 15 finale, which was a good bye to George, but it left so much else up in the air.
+In the case of _CSI_, it's a bubble show. The ratings aren't what it was, but _CSI: Cyber_'s not doing as great as they hoped. It's not renewed yet either. The actors are willing to come back, says the rumors, but pretty much everyone agrees that it deserves a better send off than the season 15 finale, which was a good bye to George, but it left so much else up in the air.
 
 https://twitter.com/deadline/status/594214604311437313
 

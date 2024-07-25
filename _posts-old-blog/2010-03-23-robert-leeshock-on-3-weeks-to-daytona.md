@@ -22,7 +22,7 @@ tags:
     - photos
 ---
 
-Actor, photographer and engineer, Robert Leeshock is probably known best for playing 'Liam Kincaid' on the series <em>Gene Roddenberry's Earth: Final Conflict</em>.  He also is in <em>3 Weeks to Daytona</em> as the rival, and being a photographer, took his camera to the set.
+Actor, photographer and engineer, Robert Leeshock is probably known best for playing 'Liam Kincaid' on the series _Gene Roddenberry's Earth: Final Conflict_.  He also is in _3 Weeks to Daytona_ as the rival, and being a photographer, took his camera to the set.
 
 From his <a href="http://robertleeshockphotography.blogspot.com/2010/02/letting-it-rip-with-mr-torn.html">blog post</a>:
 <blockquote> I play the part of Buddy, a cocky and talented driver, a real poser. Buddy acts as nemesis to fellow driver Chuck Weber, played by Scott Cohen, a down on his luck limo driver, but wannabe Nascar racer who is plagued by the memory of an absent father. The void in Chuck's life is filled by his pit crew chief, played by Jorja Fox. He also has a son who he desperately tries to impress by finally winning a race after many years of unsuccessful attempts.</blockquote>

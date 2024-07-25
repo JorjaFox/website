@@ -24,7 +24,7 @@ Third time's the charm? <a title="“Girls Gone Wilder” Due Nov. 9" href="http
 
 https://twitter.com/csiwritersroom/status/529422783034298368
 
-The truth is we're <em>all</em> annoyed. I know I was super lucky to be able to see it when I did, and yes, I posted the caps a week early because... well I knew you'd want to see them. Also I was at a conference on Saturday (last for the year) and I knew I'd been dead tired. Hopefully for most of you this means you'll want to see the episode now. If you'd like to complain <em>effectively</em> about this to CBS, please read my post <a href="https://jorjafox.net/2014/pissed-scheduling-drama/">Pissed About Scheduling Drama</a>.
+The truth is we're _all_ annoyed. I know I was super lucky to be able to see it when I did, and yes, I posted the caps a week early because... well I knew you'd want to see them. Also I was at a conference on Saturday (last for the year) and I knew I'd been dead tired. Hopefully for most of you this means you'll want to see the episode now. If you'd like to complain _effectively_ about this to CBS, please read my post <a href="https://jorjafox.net/2014/pissed-scheduling-drama/">Pissed About Scheduling Drama</a>.
 
 **Press Release**
 <blockquote>MORGAN, SIDLE AND FINLAY TRY TO RELAX AT A FORENSICS CONFERENCE WHEN A MASS SHOOTING OCCURS ON SITE, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, OCT. 26

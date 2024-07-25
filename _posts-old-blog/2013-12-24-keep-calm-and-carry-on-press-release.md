@@ -17,7 +17,7 @@ tags:
     - 'press release'
 ---
 
-After changing the <em>CSI</em> Christmas Episode, twice, they finally canceled it and are doing <em>Blue Bloods</em> and <em>Hawaii 5-O</em> instead tomorrow night. Which is fine by me, I'll be watching <em>Doctor Who</em> (the series, not the <em>CSI</em> episode). Still, January 15th is the next **new** episode, and yes, Sara's in it.
+After changing the _CSI_ Christmas Episode, twice, they finally canceled it and are doing _Blue Bloods_ and _Hawaii 5-O_ instead tomorrow night. Which is fine by me, I'll be watching _Doctor Who_ (the series, not the _CSI_ episode). Still, January 15th is the next **new** episode, and yes, Sara's in it.
 <blockquote>A PETTY CRIME ABOARD AN INBOUND PLANE TO VEGAS BECOMES A MURDER INVESTIGATION WHEN ONE OF THE PASSENGERS IS FOUND DEAD, ON “CSI: CRIME SCENE INVESTIGATION,” WED., JAN. 15
 
 <img class="aligncenter size-full wp-image-9605" alt="&quot;Keep Calm and Carry-On&quot; - Brass and Finn" src="//static.jorjafox.net/wordpress/2013/12/0564d4ec4885448fc55b26b11c1ae743.png" width="400" height="270" />

@@ -20,7 +20,7 @@ tags:
     - video
 ---
 
-<img class="alignleft size-thumbnail wp-image-4378" title="csi-unplugged-tonight" src="//static.jorjafox.net/wordpress/2012/02/csi-unplugged-tonight-210x140.jpeg" alt="" width="100" height="75" />There's an extra day this month (why couldn't they pick a non-dreary month for that?) and we get a new episode of <em>CSI</em>!
+<img class="alignleft size-thumbnail wp-image-4378" title="csi-unplugged-tonight" src="//static.jorjafox.net/wordpress/2012/02/csi-unplugged-tonight-210x140.jpeg" alt="" width="100" height="75" />There's an extra day this month (why couldn't they pick a non-dreary month for that?) and we get a new episode of _CSI_!
 
 **Official Release**
 
@@ -32,4 +32,4 @@ http://www.youtube.com/watch?v=yY3WGMVEdpE
 
 http://www.youtube.com/watch?v=28REV0idxBc
 
-<em>Recap and screencaps will be up Thursday morning. This is going to be the new standard, since I simply cannot stay up till 1am anymore. If anyone else wants to help do screencaps, drop me a line at webmaster[at]jorjafox.net </em>
+_Recap and screencaps will be up Thursday morning. This is going to be the new standard, since I simply cannot stay up till 1am anymore. If anyone else wants to help do screencaps, drop me a line at webmaster[at]jorjafox.net _

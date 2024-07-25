@@ -3,7 +3,7 @@ id: 2355
 title: 'Jonathan Littman on the CSI Finale'
 date: '2010-04-15T10:38:32-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Jonathan Littman is the Executive Producer of <em>CSI</em> and he tweets too! Mild spoilers.'
+excerpt: 'Jonathan Littman is the Executive Producer of _CSI_ and he tweets too! Mild spoilers.'
 layout: post
 guid: 'https://jorjafox.net/?p=2355'
 permalink: /2010/jonathan-littman-on-the-csi-finale/
@@ -21,7 +21,7 @@ tags:
     - tv
 ---
 
-<em>CSI</em> executive producer Jonathan Littman has read the script to the finale of <em>CSI </em>and it's awesome but ...
+_CSI_ executive producer Jonathan Littman has read the script to the finale of _CSI _and it's awesome but ...
 
 <a href="http://twitter.com/littmanji/status/12204067162"><img src="//static.jorjafox.net/wordpress/2010/04/littmanji-0415.jpg" title="Just read the awesome season finale to CSI. Truly surprising ending." width="567" height="174" class="aligncenter size-full wp-image-2356" /></a>
 

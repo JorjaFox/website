@@ -19,7 +19,7 @@ tags:
     - video
 ---
 
-Last night I made it up to LA with my friend, Stephanie, to watch the LA premiere of <em>Extinction Soup</em> at the Broadway International Film Festival in LA, where it won Best Documentary.
+Last night I made it up to LA with my friend, Stephanie, to watch the LA premiere of _Extinction Soup_ at the Broadway International Film Festival in LA, where it won Best Documentary.
 
 <a href="https://jorjafox.net/2014/extinction-soup-wins-at-biffla/img_1690/" rel="attachment wp-att-11196"><img class="alignleft size-medium wp-image-11196" src="//jfo-static.net/wordpress/2014/09/IMG_1690.jpg" alt="Extinction Soup Poster" width="187" height="250" /></a>The movie was **not** what I expected. Yes, it was definitely about how horrible people are with complete disregard for animals, but it was much, much more than that.
 

@@ -3,7 +3,7 @@ id: 2372
 title: 'CSI 10&#215;20 — "Take My Life, Please!" Discussion Post (Updated)'
 date: '2010-04-29T07:49:41-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'A hundred bullets in a body isn''t suspicious at all! New <em>CSI</em> tonight! <em>Updated at 10:40pm ET</em>'
+excerpt: 'A hundred bullets in a body isn''t suspicious at all! New _CSI_ tonight! _Updated at 10:40pm ET_'
 layout: post
 guid: 'https://jorjafox.net/?p=2372'
 permalink: /2010/csi-10x20-take-my-life-please/
@@ -35,9 +35,9 @@ Special guest stars are Tim Conway, Jennifer Tilly and, of course, Jorja Fox.
 http://www.youtube.com/watch?v=e1CoHjbppCc
 
 <h2>Recap</h2>
-<del datetime="2010-04-30T00:07:25+00:00"><em>Coming Soon!</em></del>
+<del datetime="2010-04-30T00:07:25+00:00">_Coming Soon!_</del>
 
-Three stars, again. Not a <em>great</em> ep for Jorja, but entertaining enough. Good screentime, fun plot.  Bobby Dawson (the ballistics guy) stole the show for me, though.
+Three stars, again. Not a _great_ ep for Jorja, but entertaining enough. Good screentime, fun plot.  Bobby Dawson (the ballistics guy) stole the show for me, though.
 
 <ul>
 	<li><a href="https://jorjafox.net/wiki/Take_My_Life,_Please!">Recap</a></li>

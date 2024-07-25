@@ -18,4 +18,3 @@ CSI: Crime Scene Investigation stars Jorja Fox and Gary Dourdan have become best
 She says, "I got really sick. I thought maybe I should cancel the trip, but Gary waited for me.
 
 "We took a later flight and he practically carried me to Europe."
-

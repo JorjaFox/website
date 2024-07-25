@@ -24,9 +24,9 @@ tags:
     - tv
 ---
 
-<img src="//static.jorjafox.net/wordpress/2010/11/16-tellme-100x100.jpg" alt="" title="16-tellme" width="100" height="100" class="alignleft size-thumbnail wp-image-2685" /> So here's the deal.  Every time a new person donates to the <a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline">Animal Acres 2010 Winter Fundraiser</a>, I will upload a NEW bit of <em>Missing Persons</em> media.  Yeah, I'm aware of how much work I just offered to slap on myself.  This means new and improved screencaps.  New video clips.  You'll get some acid washed jeans flashbacks, and some laughable technology, but you get some seriously classic Jorja **AND** you'll get some seriously cool karma kick-backs for donating to a good cause.
+<img src="//static.jorjafox.net/wordpress/2010/11/16-tellme-100x100.jpg" alt="" title="16-tellme" width="100" height="100" class="alignleft size-thumbnail wp-image-2685" /> So here's the deal.  Every time a new person donates to the <a href="http://www.crowdrise.com/jfo-animalacres2010/fundraiser/jorjafoxonline">Animal Acres 2010 Winter Fundraiser</a>, I will upload a NEW bit of _Missing Persons_ media.  Yeah, I'm aware of how much work I just offered to slap on myself.  This means new and improved screencaps.  New video clips.  You'll get some acid washed jeans flashbacks, and some laughable technology, but you get some seriously classic Jorja **AND** you'll get some seriously cool karma kick-backs for donating to a good cause.
 
-Your first present, as a show of good faith and becuase I donated, are new screenshots for <em>Missing Persons</em> episode number 16, "Tell Me You Didn't Do It ... I'll Go to the Wall for You".
+Your first present, as a show of good faith and becuase I donated, are new screenshots for _Missing Persons_ episode number 16, "Tell Me You Didn't Do It ... I'll Go to the Wall for You".
 
 Instead of 25 decent screencaps like this:
 <img src="//static.jorjafox.net/wordpress/2010/11/tellme-14.jpg" alt="" title="tellme-14" width="352" height="264" class="aligncenter size-full wp-image-2686" />

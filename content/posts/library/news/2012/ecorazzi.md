@@ -27,4 +27,3 @@ The CSI star joined Bob Barker last November to the launch of the Traveling Exot
 Fox ends the PSA by saying, 'These mighty, magical creatures exemplify all that is wrong with traveling circus: The confinement; the deprivation; the social isolation; please support the work of ADI and stop circus suffering. Please help end the abuse of elephants like Krissy.'
 
 [...]
-

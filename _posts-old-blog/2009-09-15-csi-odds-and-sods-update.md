@@ -3,7 +3,7 @@ id: 2020
 title: 'CSI Odds and Sods Update (Updated!)'
 date: '2009-09-15T17:50:48-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'New promo video for <em>CSI</em>? Check. Slew of photos from CSI: The Experience? Check. Interview from said CSI: The Experience that talk about the new season of <em>CSI</em>? Check!'
+excerpt: 'New promo video for _CSI_? Check. Slew of photos from CSI: The Experience? Check. Interview from said CSI: The Experience that talk about the new season of _CSI_? Check!'
 layout: post
 guid: 'https://jorjafox.net/?p=2020'
 permalink: /2009/csi-odds-and-sods-update/

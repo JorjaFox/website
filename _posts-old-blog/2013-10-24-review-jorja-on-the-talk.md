@@ -22,7 +22,7 @@ tags:
     - video
 ---
 
-Unlike back in April, this was not <em>just</em> Jorja, so the moments with her are fewer. She answered the same question she has a hundred times, is it true she didn't think the show would last? Heck, I didn't either! I thought she'd be back on <em>The West Wing</em> before sweeps. Boy were we wrong! The only 'new' question was about how they keep levity on the show when the content is so dark.
+Unlike back in April, this was not _just_ Jorja, so the moments with her are fewer. She answered the same question she has a hundred times, is it true she didn't think the show would last? Heck, I didn't either! I thought she'd be back on _The West Wing_ before sweeps. Boy were we wrong! The only 'new' question was about how they keep levity on the show when the content is so dark.
 
 <img class="alignleft size-medium wp-image-9029" alt="The Talk (23 Oct. 2013)" src="//static.jorjafox.net/wordpress/2013/10/thetalk-097.jpg" width="300" height="168" />Interesting moments: When Eric remarks the character of Greg was meant to be 30 and a former construction worker, and he nearly didn't try out because he was not that old, Jorja jokes "He was underage." Later when he couldn't remember the type of faux-maggots they use on set, Jorja dead-panned "Maggot stand in." Later, as Julie Chen explained the CSI: Can Make You Laugh game, Jorja verified that only one of the cast had to keep a straight face for the audience to win the prize, and called it a team sport. Of course, she was the first one out, at 11 seconds.
 

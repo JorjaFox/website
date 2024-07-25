@@ -24,7 +24,7 @@ The truth? It's all fake. And last year they started a new feature called 'peopl
 <blockquote>The ‘People’ section is a humorous parody of Gossip magazines, all stories are obviously not true.</blockquote>
 Well I thought it was obvious, but some people freaked out when they found the <a href="http://en.mediamass.net/people/jorja-fox">Jorja Fox People Section</a>, and read headlines like "<a title="Jorja Fox engaged?" href="http://en.mediamass.net/people/jorja-fox/engaged.html">Did she just Get Engaged?</a>" and "<a title="Jorja Fox Nude Photos Leaked Online" href="http://en.mediamass.net/people/jorja-fox/nude-pics.html">Shocker: Actress Nude Photos Leaked Online</a>"
 
-One thing I find totally awesome about that site is <em>how</em> they make their fake covers. They have two images, one of Jorja and one of the 'cover', and they just use CSS to overlay them. I'm a little nerdy, but I love it.
+One thing I find totally awesome about that site is _how_ they make their fake covers. They have two images, one of Jorja and one of the 'cover', and they just use CSS to overlay them. I'm a little nerdy, but I love it.
 
 [gallery size="large" ids="7293,7294,7299"]
 

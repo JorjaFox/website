@@ -7,7 +7,7 @@ permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
-newstitle: "Jorja Fox's Heart Belongs to &#8216;CSI'  "
+newstitle: "Jorja Fox's Heart Belongs to 'CSI'  "
 newsauthor: Kris De Leon
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/articles/csi/jorja-foxs-heart-belongs-to-cs-20773.aspx
@@ -31,4 +31,3 @@ In addition to the first episode of the new season, Fox&rsquo;s return will incl
 "It involves an old friend of Sara's who has to confront a [life or] death situation with his wife," Fox explained.
 
 To find out more about Jorja Fox&rsquo;s return to *CSI*, grab a copy of the June 23-29 issue of *TV Guide*.
-

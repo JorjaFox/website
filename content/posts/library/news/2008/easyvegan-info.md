@@ -27,4 +27,3 @@ Given that Jorja Fox is the high-profile veg*n on "CSI**s set, I assumed that sh
 Either way, I think it's totally awesome that Sara Sidle has defected - from Crime Scene Investigator to international, sea-faring, anti-whaling, activist-pirate-terrorist. Welcome to the dark green side, Sara. Just be careful who you extend your vegan potluck invites to.
 
 Keep up with Sara and the crew through [Whale Wars](http://animal.discovery.com/tv/whale-wars/), now airing on Animal Planet (Fridays at 9PM).
-

@@ -23,7 +23,7 @@ newsurl: http://www.philly.com/inquirer/online\_extras/chats/TV\_Chat\_Who\_woul
 
 [...]
 
-**bklyntransplant:** Jonathan, Too bad there's no one cute and perky on CSI &#8212; You'd remember her name!
+**bklyntransplant:** Jonathan, Too bad there's no one cute and perky on CSI - You'd remember her name!
 
 **Ellen:** Funny, I'm from Brooklyn, too, and I was about to say the same thing.
 
@@ -40,4 +40,3 @@ Jonathan: Marg is fine, but I loved Jorja too. I'm having a hard time typing thr
 Ellen: In fairness, I think Jorja went on her own, didn't she? Marg didn't volunteer.
 
 [...]
-

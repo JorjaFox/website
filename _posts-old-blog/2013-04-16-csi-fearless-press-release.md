@@ -29,4 +29,4 @@ Whew. It's not until May first, but that's the next episode of CSI, and yes, Jor
 
 The picture is totally unrelated. I just like hippos.
 
-<em>ETA: <a href="http://www.csifiles.com/content/2013/04/csi-first-look-fearless/">CSI Files has Photos</a></em>
+_ETA: <a href="http://www.csifiles.com/content/2013/04/csi-first-look-fearless/">CSI Files has Photos</a>_

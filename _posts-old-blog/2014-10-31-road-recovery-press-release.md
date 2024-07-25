@@ -17,7 +17,7 @@ tags:
     - 'press release'
 ---
 
-Everything is pushed back a week but Jorja's <em>not</em> expected to appear in this episode.
+Everything is pushed back a week but Jorja's _not_ expected to appear in this episode.
 
 THE CSI TEAM INVESTIGATES THE DEATH OF A WOMAN FULL OF ALCOHOL AND DRUGS IN A POOL AT A REHAB FACILITY, ON “CSI: CRIME SCENE INVESTIGATION,” SUNDAY, NOV. 16
 

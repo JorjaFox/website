@@ -21,9 +21,9 @@ tags:
     - video
 ---
 
-<blockquote>**Marg Helgenberger** and **Jorja Fox**, stars of CBS' long-time hit show "<em>CSI</em>," sat down with "Extra's" Terri Seymour and dished on their celebrity crushes. Hear which stars really set these ladies off!</blockquote>
+<blockquote>**Marg Helgenberger** and **Jorja Fox**, stars of CBS' long-time hit show "_CSI_," sat down with "Extra's" Terri Seymour and dished on their celebrity crushes. Hear which stars really set these ladies off!</blockquote>
 
-Trivia tidbit - Jorja likes <em>Lost</em> and finds Naveen Andrews to be sexy.
+Trivia tidbit - Jorja likes _Lost_ and finds Naveen Andrews to be sexy.
 
 http://www.youtube.com/watch?v=ZIHr2TApErU
 

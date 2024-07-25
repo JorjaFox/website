@@ -19,7 +19,7 @@ tags:
     - tv
 ---
 
-<em>Edited - Season TEN! TEN! Not Eleven! Sorry about that.</em>
+_Edited - Season TEN! TEN! Not Eleven! Sorry about that._
 
 <img src="//static.jorjafox.net/wordpress/2009/08/csi100-47-100x100.jpg" alt="" title="csi100-47" width="100" height="100" class="alignleft size-thumbnail wp-image-1968" /> Jorja's in the following episodes:
 

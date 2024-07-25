@@ -31,4 +31,3 @@ Sara works with Grissom and uncovers Izzy Delancy's anti-cruelty video. Her rela
 ## Quotes
 
 **Sara:** You look like the kid who just found the prize in the bottom of a Cracker Jacks box.
-

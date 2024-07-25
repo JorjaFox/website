@@ -18,4 +18,4 @@ tags:
 format: aside
 ---
 
-William Petersen Birthday — February 21, 1953 — Happy Birthday, and thanks for visiting <em>CSI</em>. We miss you!
+William Petersen Birthday — February 21, 1953 — Happy Birthday, and thanks for visiting _CSI_. We miss you!

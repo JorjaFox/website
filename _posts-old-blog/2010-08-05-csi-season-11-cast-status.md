@@ -3,7 +3,7 @@ id: 2542
 title: 'CSI Season 11 Cast Status'
 date: '2010-08-05T14:00:09-07:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja <em>will</em> be back on CSI this season.  Just not as a full cast member.'
+excerpt: 'Jorja _will_ be back on CSI this season.  Just not as a full cast member.'
 layout: post
 guid: 'https://jorjafox.net/?p=2542'
 permalink: /2010/csi-season-11-cast-status/
@@ -35,6 +35,6 @@ Wallace Langham............................David Hodges
 </blockquote>
 Credit: <a href="http://www.cbspressexpress.com/div.php/cbs_entertainment/original?id=231&dpid=56">CBS PressExpress</a>
 
-You may notice that Jorja's name <em>is not</em> listed.  And yet I did just post photos of her on set!  What does that mean?  It means we're back to special guest/recurring status for another season.  Thankfully, we still have that email list I made up: CSI Watch.
+You may notice that Jorja's name _is not_ listed.  And yet I did just post photos of her on set!  What does that mean?  It means we're back to special guest/recurring status for another season.  Thankfully, we still have that email list I made up: CSI Watch.
 
 CSI Watch is an **announcement only** email list and I use it to send you reminders when episodes with Jorja are going to air.  Any emails you send to the list are automatically deleted, so don't worry about spam.

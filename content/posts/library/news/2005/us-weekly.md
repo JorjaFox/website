@@ -22,4 +22,3 @@ newsurl: http://www.usweekly.com
 &bull; **Diet and fitness** No gym bunny here! Fox counts on surfing, hiking and running outside with her boxer dog, Ali, to stay in shape and relieve stress. Inside her fridge: seafood and veggies.
 
 &bull; **Beauty tips** the low-maintenance actress prefers a "well-rested, healthy look" using soft shades of yellow and pink (like Armani Sheer Blush No. 2, $40, 877-551-7255). But she treats herself to massages every two weeks and oxygen facials at West Hollywood's Burke Williams [burkewilliamsspa.com](http://www.burkewilliamsspa.com). As for her hair: "I've always wanted to go Cameron Diaz-blonde."
-

@@ -1,6 +1,6 @@
 ---
 id: 3844
-title: 'Recap &#038; Screencaps &#8212; CSI 12&#215;02: Tell-Tale Hearts'
+title: 'Recap &#038; Screencaps - CSI 12&#215;02: Tell-Tale Hearts'
 date: '2011-10-01T21:47:15-07:00'
 author: 'Mika E. (Ipstenu)'
 excerpt: 'A little late, but better than never.  Here are your screencaps and recap from "Tell-Tale Hearts"'
@@ -28,6 +28,6 @@ tags:
 **Oh let's just do it right.  There are 65 screencaps.  Go on.  <a href="https://jorjafox.net/gallery/tv/csi/season12/telltalehearts">See all the screencaps</a>.
 
 **Recap:**
-As an episode this was a good one.  As a <em>Sara</em> episode, it max's out at two stars.  We really only had four scenes with Sara, and while seeing her tease Morgan was cute, it wasn't a lot of Sara.  Thankfully next week looks to be Sara Heavy.
+As an episode this was a good one.  As a _Sara_ episode, it max's out at two stars.  We really only had four scenes with Sara, and while seeing her tease Morgan was cute, it wasn't a lot of Sara.  Thankfully next week looks to be Sara Heavy.
 
 <a href="https://jorjafox.net/wiki/Tell-Tale_Hearts">Read the full recap</a>

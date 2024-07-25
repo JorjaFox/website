@@ -58,4 +58,3 @@ At the scene, when Sara finds the dog running loose, she's concerned about getti
 
 **Catherine:** I think I know the word that made her throw the coffee.
 **Sara:** I hate that word.
-

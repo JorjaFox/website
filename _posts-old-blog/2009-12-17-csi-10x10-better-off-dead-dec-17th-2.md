@@ -3,7 +3,7 @@ id: 2152
 title: 'CSI 10&#215;10 "Better Off Dead" — Dec 17th (Updated)'
 date: '2009-12-17T09:44:39-08:00'
 author: 'Mika E. (Ipstenu)'
-excerpt: 'Who is the man in the red shirt?  Star Trek jokes aside, a new episode of <em>CSI</em> airs tonight, December 17th. <em>Updated at 10:30pm Chicago Time</em>'
+excerpt: 'Who is the man in the red shirt?  Star Trek jokes aside, a new episode of _CSI_ airs tonight, December 17th. _Updated at 10:30pm Chicago Time_'
 layout: post
 guid: 'https://jorjafox.net/?p=2152'
 permalink: /2009/csi-10x10-better-off-dead-dec-17th-2/
@@ -28,7 +28,7 @@ tags:
     - video
 ---
 
-<a href="//static.jorjafox.net/wordpress/2009/11/betteroffdead.jpg"><img src="//static.jorjafox.net/wordpress/2009/11/betteroffdead-100x100.jpg" alt="betteroffdead" title="betteroffdead" width="100" height="100" class="alignleft size-thumbnail wp-image-2127" /></a> Norman jumped, Norman pushed, Norman Fell.  (Wouldn't you, if you were married to Mrs. Roper?).  Sara and Ray team up for tonight's episode of <em>CSI</em>.  Discuss the episode here. Spoilers will happen.
+<a href="//static.jorjafox.net/wordpress/2009/11/betteroffdead.jpg"><img src="//static.jorjafox.net/wordpress/2009/11/betteroffdead-100x100.jpg" alt="betteroffdead" title="betteroffdead" width="100" height="100" class="alignleft size-thumbnail wp-image-2127" /></a> Norman jumped, Norman pushed, Norman Fell.  (Wouldn't you, if you were married to Mrs. Roper?).  Sara and Ray team up for tonight's episode of _CSI_.  Discuss the episode here. Spoilers will happen.
 
 **Official Release**
 The CSIs dig to find the truth about how a recent shootout at a gun store might connect to a young woman who may have committed suicide.

@@ -19,13 +19,13 @@ The star of TV's top show, CSI, on marriage allergies, getting frisked and bad s
 
 PLAYBOY : When confronted with something gruesome, who is more likely to get queasy, you or your co-star Marg Helgenberger?
 
-FOX : Me, for sure. Marg is one of the strongest and toughest women I've ever met. Recently, while filming scenes for *CSI*, she has been in a meat market working with carcasses, walked through garbage at a disgusting landfill in Santa Clarita, California and worked in the pouring rain for days. She's a badass &#8212; she internalizes her disgust. When Marg, George Eads and I were at that landfill, Marg when into shock for an hour and barely said anything. We'd ask, "Marg, are you OK?" and she'd just not. George was trying not to get sick, and true to my Lower East Side New York City roots, I was screaming at the writers, "You guys are fucking crazy! You fucking suck," for maybe 10 minutes. Because I'm the squeamish one, they think it's funny to put me on the grossest cases, which they do consistently. That episode about the high school cheerleader who gets upset and eats one of her classmates? That was my case.
+FOX : Me, for sure. Marg is one of the strongest and toughest women I've ever met. Recently, while filming scenes for *CSI*, she has been in a meat market working with carcasses, walked through garbage at a disgusting landfill in Santa Clarita, California and worked in the pouring rain for days. She's a badass - she internalizes her disgust. When Marg, George Eads and I were at that landfill, Marg when into shock for an hour and barely said anything. We'd ask, "Marg, are you OK?" and she'd just not. George was trying not to get sick, and true to my Lower East Side New York City roots, I was screaming at the writers, "You guys are fucking crazy! You fucking suck," for maybe 10 minutes. Because I'm the squeamish one, they think it's funny to put me on the grossest cases, which they do consistently. That episode about the high school cheerleader who gets upset and eats one of her classmates? That was my case.
 
 **2**
 
 PLAYBOY : Any pranksters on the show?
 
-FOX : We take turns. One of the crew members &#8212; who will remain nameless &#8212; brought in a remote-controlled farting device. I had a lot of fun with that. One day I was in every scene, and as a new actor would come to the set, I would use the machine. We got Billy Petersen while he was on camera. And I got Marg in rehearsal. But Marg has a 12-year-old son and she barely blinked. I thought it would get her so much better than it did. i acted like it was me who had passed gas and I just said "Oh, I'm sorry, excuse me." She got it. But I was meaner with Billy and acted like he was the one who'd passed gas. That fart machine entertained us for an entire afternoon.
+FOX : We take turns. One of the crew members - who will remain nameless - brought in a remote-controlled farting device. I had a lot of fun with that. One day I was in every scene, and as a new actor would come to the set, I would use the machine. We got Billy Petersen while he was on camera. And I got Marg in rehearsal. But Marg has a 12-year-old son and she barely blinked. I thought it would get her so much better than it did. i acted like it was me who had passed gas and I just said "Oh, I'm sorry, excuse me." She got it. But I was meaner with Billy and acted like he was the one who'd passed gas. That fart machine entertained us for an entire afternoon.
 
 **3**
 
@@ -49,7 +49,7 @@ FOX : *CSI: Hawaii* would be lovely. The only one I've heard of that seems to ha
 
 PLAYBOY : What does it say about our society that we can't seem to get along without a lot of shows about crime and forensics?
 
-FOX : We live in a gray world right now, and some of that grayness is great, certainly where social and moral issues are concerned. The truth lies somewhere in the middle. That's what makes CSI so reassuring: It's nice to watch something and find out without a shadow of a doubt what happened. But the amount of violence in this country is horrible. Michael Moore, in *Bowling for Columbine* &#8212; one of the best movies I've seen in the past 20 years &#8212; asks why America has such a thirst for violence. There are several good theories: We are only a hundred years from being a hunter-gatherer society. It's in our genes and we act that way in our daily lives. I also think people don't have enough sex.
+FOX : We live in a gray world right now, and some of that grayness is great, certainly where social and moral issues are concerned. The truth lies somewhere in the middle. That's what makes CSI so reassuring: It's nice to watch something and find out without a shadow of a doubt what happened. But the amount of violence in this country is horrible. Michael Moore, in *Bowling for Columbine* - one of the best movies I've seen in the past 20 years - asks why America has such a thirst for violence. There are several good theories: We are only a hundred years from being a hunter-gatherer society. It's in our genes and we act that way in our daily lives. I also think people don't have enough sex.
 
 **7**
 
@@ -97,7 +97,7 @@ FOX : Burned human skin. Sometimes we wish the show were scratch-and-sniff, beca
 
 PLAYBOY : You go home after filming an episode that involves a particularly grisly crime. What do you do to fix yourself?
 
-FOX : Probably have a cold beer and a hot bath and I might have nightmares. Right now I really like Pilsner Urquell beer &#8212; a lot.
+FOX : Probably have a cold beer and a hot bath and I might have nightmares. Right now I really like Pilsner Urquell beer - a lot.
 
 **15**
 
@@ -115,7 +115,7 @@ FOX : Who says I speed? No, I would never do that. Maybe there are a couple of t
 
 PLAYBOY : For security reasons, have you been thoroughly frisked lately?
 
-FOX : Yeah, actually, I have. Isn't it a normal part of air travel these days? I took a flight with Gary Dourdan and George. We were flying first-class from Los Angeles to Vegas and had one-way tickets. We were stopped at every possible point along the way, probably six times. Our shoes were off, our pants were rolled up. My shirt was up to here, the guys' shirts were off. It was kind of fun to share that with two other people. I realize it was because of the one-way tickets. I support the airlines and the things they have to do to keep travel safe, but that one was a bit much &#8212; a threesome frisk. I saw parts of George and Gary that I hadn't noticed before. And that was comforting.
+FOX : Yeah, actually, I have. Isn't it a normal part of air travel these days? I took a flight with Gary Dourdan and George. We were flying first-class from Los Angeles to Vegas and had one-way tickets. We were stopped at every possible point along the way, probably six times. Our shoes were off, our pants were rolled up. My shirt was up to here, the guys' shirts were off. It was kind of fun to share that with two other people. I realize it was because of the one-way tickets. I support the airlines and the things they have to do to keep travel safe, but that one was a bit much - a threesome frisk. I saw parts of George and Gary that I hadn't noticed before. And that was comforting.
 
 **18**
 
@@ -134,4 +134,3 @@ FOX : My mom made up Jorja. I spent the first 10 years of my life convincing peo
 PLAYBOY : Has anyone made a charming play on your last name? And how did you reward it.
 
 FOX : Yes. I stayed for breakfast.
-

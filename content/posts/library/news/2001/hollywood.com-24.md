@@ -51,7 +51,7 @@ Fox, 33, spoke with Hollywood.com over the phone from her L.A. home to discuss h
 
 **Fox**: Sometimes. But on *C.S.I.*, the atmosphere's not so different, ya know what I mean? The sets still have that metallic look. The labs and everything.
 
-**Very true. It's not such a departure after all. And *C.S.I.*&#8216;s amassing quite a fan base, I hear.**
+**Very true. It's not such a departure after all. And *C.S.I.*'s amassing quite a fan base, I hear.**
 
 **Fox**: Oh, god yes. These fans are amazing. The show's really developed a following with students-you know, forensic students. They've really latched on.
 

@@ -21,7 +21,7 @@ tags:
     - video
 ---
 
-Let us not forget that Jorja is <em>way more</em> than just an actor, she's an advocate who speaks up for the animals. Jorja was, again, on Jane Velez-Mitchell, talking about the movie "Blackfish" which peels back the curtain to look at the real life of animals at Sea World.  This is probably why she didn't live tweet last night, by the way.
+Let us not forget that Jorja is _way more_ than just an actor, she's an advocate who speaks up for the animals. Jorja was, again, on Jane Velez-Mitchell, talking about the movie "Blackfish" which peels back the curtain to look at the real life of animals at Sea World.  This is probably why she didn't live tweet last night, by the way.
 <ul>
 	<li><a href="http://www.hlntv.com/video/2013/10/23/jorja-fox-blackfish-jvm">Video</a> (on HLN's Website)</li>
 	<li><a href="https://jorjafox.net/wiki/ISSUES_with_Jane_Velez-Mitchell_(23_October_2013)">Transcript</a></li>

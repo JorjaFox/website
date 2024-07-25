@@ -25,16 +25,16 @@ But since some enterprising minxes already found it, here's what's going on with
 
 Why is this?  The economy, for the most part (don't ask me what happened to my 401k).  Everyone's struggling.  My family has been a one-income family for almost three years thanks to layoffs (I still have a job), and we've all had to make tough calls about what to cut out of our lives and what to keep.  I plan to keep JFO, and if that means I don't go out for Starbucks coffees, or eat out one less time a month, well, I'm willing to pay.
 
-Still, the site costs money, and <em>if</em> you happen to be in a place where donations can flow, I do accept them.
+Still, the site costs money, and _if_ you happen to be in a place where donations can flow, I do accept them.
 <p style="text-align: center;">**<a href="https://jorjafox.net/support/"><img class="aligncenter size-medium wp-image-3754" title="Donate" src="//static.jorjafox.net/wordpress/2011/09/donate-230x153.jpg" alt="" width="230" height="153" /></a>**
 Of course, I suck at art, so if anyone wants to make a cool button about 250px wide (height variable), the font used on the header is <a href="http://www.impallari.com/lobster/">Lobster</a> and it's free.
 
 **So what do you do with the money?**
 
-I know someone's thinking this.  Web hosting for JFO costs $60 a month.  Yes, that's a lot, but compare the outages you get here with the ones you've seen on other fansites.  Not to belittle their hosting, <a href="http://www.liquidweb.com/?RID=JFO123">Liquidweb</a> is fantastic.  24/7 phone support means if the site goes down, they will actually call <em>me</em> and get it back up ASAFP.  They also worked with me to streamline the server to be as fast as it is.
+I know someone's thinking this.  Web hosting for JFO costs $60 a month.  Yes, that's a lot, but compare the outages you get here with the ones you've seen on other fansites.  Not to belittle their hosting, <a href="http://www.liquidweb.com/?RID=JFO123">Liquidweb</a> is fantastic.  24/7 phone support means if the site goes down, they will actually call _me_ and get it back up ASAFP.  They also worked with me to streamline the server to be as fast as it is.
 
-In addition, it lets me buy the DVDs so I can get you <em>Missing Persons</em> screencaps, donate money to<span style="text-decoration: underline;"> Skin Trade</span> and <span style="text-decoration: underline;">How I Became an Elephant</span>, which nets us DVDs of that.
+In addition, it lets me buy the DVDs so I can get you _Missing Persons_ screencaps, donate money to<span style="text-decoration: underline;"> Skin Trade</span> and <span style="text-decoration: underline;">How I Became an Elephant</span>, which nets us DVDs of that.
 
-Honestly, if your choice comes down to JFO or a charity, please, please, please pick the charity.  I'm a website, but we <em>need</em> the planet.  Part of the reason I'm always broke is I do three things with my money: Pay bills, put it in savings, donate to charity.  So do that first.
+Honestly, if your choice comes down to JFO or a charity, please, please, please pick the charity.  I'm a website, but we _need_ the planet.  Part of the reason I'm always broke is I do three things with my money: Pay bills, put it in savings, donate to charity.  So do that first.
 
 Oh and if you're out of work and I find out, you're getting your money back.  That means you, young man.

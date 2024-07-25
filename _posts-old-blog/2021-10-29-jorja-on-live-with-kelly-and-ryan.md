@@ -51,13 +51,13 @@ tags:
     - transcript
 ---
 
-On Thursday, Jorja was still in NYC and talked to Kelly and Ryan on ABC about what it was like to be back and how things are going on <em>CSI</em>.
+On Thursday, Jorja was still in NYC and talked to Kelly and Ryan on ABC about what it was like to be back and how things are going on _CSI_.
 
 For some reason they split things up into segments. These videos may not be available in all regions.
 
 <h2>Videos</h2>
 
-Source: <a href="https://kellyandryan.com/guide/october-28-2021/"><em>Live with Kelly and Ryan</em> - 28 October 2021</a>
+Source: <a href="https://kellyandryan.com/guide/october-28-2021/">_Live with Kelly and Ryan_ - 28 October 2021</a>
 
 <h3>Jorja Fox Had an Emotional Return to New York City</h3>
 

@@ -18,9 +18,9 @@ tags:
     - csi
 ---
 
-<em>CSI</em> may be off the air for a year, but it's still the most popular show in the world.
+_CSI_ may be off the air for a year, but it's still the most popular show in the world.
 
-At the <a href="http://www.tvfestival.com/">Monte-Carlo TV Festival</a>, <em>CSI</em> was named the most watched drama series in the world for the sixth time. This is far and beyond any other TV show. Second place? It's a tie between <em>CSI: Miami</em> and <em>NCIS</em>, both of which have won twice.
+At the <a href="http://www.tvfestival.com/">Monte-Carlo TV Festival</a>, _CSI_ was named the most watched drama series in the world for the sixth time. This is far and beyond any other TV show. Second place? It's a tie between _CSI: Miami_ and _NCIS_, both of which have won twice.
 
 Twice versus six times.
 

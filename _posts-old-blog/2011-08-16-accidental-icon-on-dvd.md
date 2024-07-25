@@ -24,4 +24,4 @@ tags:
 
 Rather, it's for purchase.  You can pre-order it for around $15 US from most of the usual places (<a href="http://shop.tcm.com/product.asp?sku=D31258">TCM has it for about $13 which undercuts Amazon</a>).  The DVD ships September 27th.
 
-Remember, Jorja Fox is the <em>narrator</em> so you won't see her on-screen.
+Remember, Jorja Fox is the _narrator_ so you won't see her on-screen.

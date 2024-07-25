@@ -14,3 +14,7 @@ Due to unforeseen circumstances, we've been forced to change the site.
 * Run `npm run mod:update`
 
 To build the site, run `npm run build`
+
+## Upgrading
+
+To upgrade the site code, run `npm run upgrade`

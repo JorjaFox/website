@@ -2,7 +2,7 @@
 id: 842
 title: 'New and Random Images'
 date: '2008-12-06T17:01:11-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=842'
 permalink: /2008/new-and-random-images/

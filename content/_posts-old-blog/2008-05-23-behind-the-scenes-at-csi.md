@@ -2,7 +2,7 @@
 id: 370
 title: 'Behind the Scenes at CSI'
 date: '2008-05-23T20:26:08-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=370'
 permalink: /2008/behind-the-scenes-at-csi/

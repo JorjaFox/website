@@ -2,7 +2,7 @@
 id: 301
 title: 'Jorja will be on the KTLA Morning Show TOMORROW!'
 date: '2008-01-30T20:01:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/01/30/jorja-will-be-on-the-ktla-morning-show-tomorrow/'
 permalink: /2008/jorja-will-be-on-the-ktla-morning-show-tomorrow/

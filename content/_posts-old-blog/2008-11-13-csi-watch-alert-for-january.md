@@ -2,7 +2,7 @@
 id: 786
 title: 'CSI Watch Alert &#8230; for January'
 date: '2008-11-13T20:09:27-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=786'
 permalink: /2008/csi-watch-alert-for-january/

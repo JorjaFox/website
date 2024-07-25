@@ -2,7 +2,7 @@
 id: 365
 title: 'Sexiest Vegetarian'
 date: '2008-05-19T20:06:23-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=365'
 permalink: /2008/sexiest-vegetarian/

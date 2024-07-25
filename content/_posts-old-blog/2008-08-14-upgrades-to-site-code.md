@@ -2,7 +2,7 @@
 id: 446
 title: 'Upgrades to Site Code'
 date: '2008-08-14T19:42:02-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=446'
 permalink: /2008/upgrades-to-site-code/

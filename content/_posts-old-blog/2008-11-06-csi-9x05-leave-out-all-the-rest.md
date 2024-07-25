@@ -2,7 +2,7 @@
 id: 779
 title: 'CSI 9&#215;05: Leave Out All The Rest'
 date: '2008-11-06T22:26:37-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=779'
 permalink: /2008/csi-9x05-leave-out-all-the-rest/

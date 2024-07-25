@@ -2,7 +2,7 @@
 id: 299
 title: 'Want to know where the scrapbook is?'
 date: '2008-01-23T21:46:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/01/23/want-to-know-where-the-scrapbook-is/'
 permalink: /2008/want-to-know-where-the-scrapbook-is/

@@ -2,7 +2,7 @@
 id: 797
 title: 'Videos: Inside Media at the Paley Center'
 date: '2008-11-23T19:53:07-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=797'
 permalink: /2008/videos-inside-media-at-the-paley-center/

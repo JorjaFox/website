@@ -2,7 +2,7 @@
 id: 790
 title: 'JAA (and LiveJournal) is down'
 date: '2008-11-18T11:44:27-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=790'
 permalink: /2008/jaa-and-livejournal-is-down/

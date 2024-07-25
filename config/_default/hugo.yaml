@@ -30,3 +30,6 @@ taxonomies:
   category: "categories"
 
 disableKinds: ["taxonomy"]
+
+outputs:
+  home: ["HTML", "RSS", "REDIR"]

@@ -2,7 +2,7 @@
 id: 414
 title: 'After Ellen&#8217;s TCA Diary'
 date: '2008-07-29T09:16:20-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=414'
 permalink: /2008/after-ellens-tca-diary/
@@ -32,7 +32,7 @@ tags:
     - tv
 ---
 
-After Ellen (a site that chronicles life for lesbians in media since Ellen) has always been fond of Jorja Fox, and not just because she was on the infamous "Puppy Episode".  Malinda Lo got to watch the <i>CSI</i> premiere. 
+After Ellen (a site that chronicles life for lesbians in media since Ellen) has always been fond of Jorja Fox, and not just because she was on the infamous "Puppy Episode".  Malinda Lo got to watch the <i>CSI</i> premiere.
 
 <b>Spoiler warning!</b> <!--more-->
 

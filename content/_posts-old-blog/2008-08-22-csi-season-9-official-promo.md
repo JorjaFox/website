@@ -2,7 +2,7 @@
 id: 458
 title: 'CSI Season 9 Official Promo'
 date: '2008-08-22T06:22:15-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/08/22/csi-season-9-official-promo/'
 permalink: /2008/csi-season-9-official-promo/

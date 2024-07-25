@@ -2,7 +2,7 @@
 id: 583
 title: 'CSI Watch Alert &#8211; Oct 9th, 2008'
 date: '2008-10-06T09:05:35-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=583'
 permalink: /2008/csi-watch-alert-oct-9th-2008/

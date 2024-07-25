@@ -2,7 +2,7 @@
 id: 319
 title: 'WordPress Upgraded'
 date: '2008-03-29T22:00:11-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=319'
 permalink: /2008/wordpress-upgraded/

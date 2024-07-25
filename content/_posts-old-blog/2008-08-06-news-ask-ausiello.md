@@ -2,7 +2,7 @@
 id: 429
 title: 'News &#8211; Ask Ausiello'
 date: '2008-08-06T08:35:45-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=429'
 permalink: /2008/news-ask-ausiello/

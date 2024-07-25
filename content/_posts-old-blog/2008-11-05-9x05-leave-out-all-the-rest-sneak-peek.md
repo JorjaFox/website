@@ -2,7 +2,7 @@
 id: 776
 title: '9&#215;05 &#8220;Leave Out All The Rest&#8221; Sneak Peek'
 date: '2008-11-05T19:50:46-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=776'
 permalink: /2008/9x05-leave-out-all-the-rest-sneak-peek/

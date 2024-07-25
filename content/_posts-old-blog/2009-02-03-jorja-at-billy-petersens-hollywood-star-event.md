@@ -2,7 +2,7 @@
 id: 1517
 title: 'Jorja at Billy Petersen&#8217;s Hollywood Star Event'
 date: '2009-02-03T19:44:15-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=1517'
 permalink: /2009/jorja-at-billy-petersens-hollywood-star-event/

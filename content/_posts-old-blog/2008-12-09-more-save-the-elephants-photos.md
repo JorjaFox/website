@@ -2,7 +2,7 @@
 id: 855
 title: 'More Save The Elephants Photos'
 date: '2008-12-09T11:22:08-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=855'
 permalink: /2008/more-save-the-elephants-photos/
@@ -32,7 +32,7 @@ tags:
     - photos
 ---
 
-Two more photos.  The first is a larger version of the one we already have, the second is of the ladies sitting down. 
+Two more photos.  The first is a larger version of the one we already have, the second is of the ladies sitting down.
 
 <a href="https://jorjafox.net/gallery/media/online/sulekha-20081203.jpg">Jorja Fox and Lily Tomlin 1</a>
 <a href="https://jorjafox.net/gallery/media/online/latimes-20081203.jpg">Jorja Fox and Lily Tomlin 2</a>

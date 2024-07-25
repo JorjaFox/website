@@ -2,7 +2,7 @@
 id: 784
 title: 'Missing Persons Screencaps'
 date: '2008-11-13T19:47:02-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=784'
 permalink: /2008/missing-persons-screencaps/

@@ -2,7 +2,7 @@
 id: 362
 title: 'CSI Magazine'
 date: '2008-05-13T21:15:32-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=362'
 permalink: /2008/csi-magazine/

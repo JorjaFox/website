@@ -2,7 +2,7 @@
 id: 485
 title: 'CSI: 9&#215;01 &#8220;For Warrick&#8221; Spoilers'
 date: '2008-09-02T08:48:14-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=485'
 permalink: /2008/csi-9x01-for-warrick-spoilers/

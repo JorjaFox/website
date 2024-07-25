@@ -2,7 +2,7 @@
 id: 353
 title: 'Burma: It Can&#8217;t Wait'
 date: '2008-05-07T06:34:51-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=353'
 permalink: /2008/burma-it-cant-wait/
@@ -35,8 +35,8 @@ tags:
 
 <a href="http://www.burmaitcantwait.org">Burma: It Can't Wait</a> has released their video of Jorja and Eric.
 
-&bull; <a href="http://link.brightcove.com/services/link/bcpid1517481413/bclid1527697194/bctid1533001469">Video</a> 
-&bull; <a href="https://jorjafox.net/gallery/tv/advocacy/20080500-burma/">Screenshots</a> 
+&bull; <a href="http://link.brightcove.com/services/link/bcpid1517481413/bclid1527697194/bctid1533001469">Video</a>
+&bull; <a href="https://jorjafox.net/gallery/tv/advocacy/20080500-burma/">Screenshots</a>
 &bull; <a href="https://jorjafox.net/wiki/U.S._Campaign_for_Burma">Transcript</a>
 
 <div style="text-align: center; margin: auto"><object type="application/x-shockwave-flash" style="width:425px; height:344px;" data="http://www.youtube.com/v/MMCAc3xWmeM"><param name="movie" value="http://www.youtube.com/v/MMCAc3xWmeM" /></object></div>

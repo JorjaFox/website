@@ -2,7 +2,7 @@
 id: 463
 title: 'Jorja at the SAG bash'
 date: '2008-08-27T21:21:00-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=463'
 permalink: /2008/jorja-sag-bash/

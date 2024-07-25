@@ -2,7 +2,7 @@
 id: 308
 title: 'Dusty Springfield &#8211; Extended'
 date: '2008-02-27T08:48:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/02/27/dusty-springfield-extended/'
 permalink: /2008/dusty-springfield-extended/

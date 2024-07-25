@@ -2,7 +2,7 @@
 id: 3146
 title: 'Happy Birthday, William Petersen'
 date: '2011-02-21T11:19:03-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=3146'
 permalink: /2011/happy-birthday-william-petersen/

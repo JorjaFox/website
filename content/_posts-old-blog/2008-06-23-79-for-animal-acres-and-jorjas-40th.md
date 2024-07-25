@@ -2,7 +2,7 @@
 id: 391
 title: '79% for Animal Acres and Jorja&#8217;s 40th'
 date: '2008-06-23T09:00:30-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=391'
 permalink: /2008/79-for-animal-acres-and-jorjas-40th/

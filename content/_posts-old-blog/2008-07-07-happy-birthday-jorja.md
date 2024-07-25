@@ -2,7 +2,7 @@
 id: 398
 title: 'Happy Birthday, Jorja!'
 date: '2008-07-07T01:00:00-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=398'
 permalink: /2008/happy-birthday-jorja/

@@ -2,7 +2,7 @@
 id: 336
 title: 'Upcoming:  Country Hoe Down'
 date: '2008-04-17T15:53:42-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=336'
 permalink: /2008/upcoming-country-hoe-down/

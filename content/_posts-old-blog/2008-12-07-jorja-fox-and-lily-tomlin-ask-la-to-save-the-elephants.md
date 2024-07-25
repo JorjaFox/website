@@ -2,7 +2,7 @@
 id: 844
 title: 'Jorja Fox and Lily Tomlin ask LA to save the Elephants'
 date: '2008-12-07T16:58:57-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=844'
 permalink: /2008/jorja-fox-and-lily-tomlin-ask-la-to-save-the-elephants/

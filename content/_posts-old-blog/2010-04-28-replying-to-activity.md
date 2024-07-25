@@ -2,7 +2,7 @@
 id: 2985
 title: 'Replying to Activity'
 date: '2010-04-28T02:54:43-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/community/?p=34'
 permalink: /2010/replying-to-activity/

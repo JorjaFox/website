@@ -2,7 +2,7 @@
 id: 494
 title: 'CSI Magazine #6: Sara &#8216;Sidles&#8217; Back!'
 date: '2008-09-08T09:51:51-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=494'
 permalink: /2008/csi-magazine-6-sara-sidles-back/

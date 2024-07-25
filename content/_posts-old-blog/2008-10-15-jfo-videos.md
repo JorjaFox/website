@@ -2,7 +2,7 @@
 id: 617
 title: 'JFO Videos!'
 date: '2008-10-15T20:46:59-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=617'
 permalink: /2008/jfo-videos/

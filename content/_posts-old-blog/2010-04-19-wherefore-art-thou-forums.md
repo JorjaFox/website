@@ -2,7 +2,7 @@
 id: 2968
 title: 'Wherefore art thou, forums!?'
 date: '2010-04-19T19:43:42-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/community/?p=17'
 permalink: /2010/wherefore-art-thou-forums/

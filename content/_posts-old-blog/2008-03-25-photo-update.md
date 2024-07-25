@@ -2,7 +2,7 @@
 id: 316
 title: 'Photo Update'
 date: '2008-03-25T11:07:34-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/03/25/photo-update/'
 permalink: /2008/photo-update/

@@ -2,7 +2,7 @@
 id: 373
 title: 'Charity Drives On'
 date: '2008-05-27T08:21:43-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=373'
 permalink: /2008/charity-drives-on/

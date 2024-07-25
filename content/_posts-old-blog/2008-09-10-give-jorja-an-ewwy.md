@@ -2,7 +2,7 @@
 id: 526
 title: 'Give Jorja an EWwy!'
 date: '2008-09-10T13:20:04-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=526'
 permalink: /2008/give-jorja-an-ewwy/

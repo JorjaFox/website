@@ -2,7 +2,7 @@
 id: 408
 title: 'Jorja&#8217;s Thank You'
 date: '2008-07-16T23:05:09-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=408'
 permalink: /2008/jorjas-thank-you/

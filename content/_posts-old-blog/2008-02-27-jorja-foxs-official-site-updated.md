@@ -2,7 +2,7 @@
 id: 307
 title: 'Jorja Fox&#8217;s Official Site &#8211; Updated'
 date: '2008-02-27T08:40:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/02/27/jorja-foxs-official-site-updated/'
 permalink: /2008/jorja-foxs-official-site-updated/

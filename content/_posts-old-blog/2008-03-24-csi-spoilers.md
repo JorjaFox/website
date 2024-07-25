@@ -2,7 +2,7 @@
 id: 314
 title: 'CSI Spoilers'
 date: '2008-03-24T12:38:48-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/03/24/csi-spoilers/'
 permalink: /2008/csi-spoilers/

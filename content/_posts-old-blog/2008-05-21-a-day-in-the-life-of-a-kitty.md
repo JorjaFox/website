@@ -2,7 +2,7 @@
 id: 367
 title: 'A day in the life of a kitty'
 date: '2008-05-21T18:30:32-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=367'
 permalink: /2008/a-day-in-the-life-of-a-kitty/
@@ -30,6 +30,6 @@ tags:
     - misc
 ---
 
-Since it's the slow season for news, I thought I'd share some of the more amusing things you find on a Google for Jorja Fox. 
+Since it's the slow season for news, I thought I'd share some of the more amusing things you find on a Google for Jorja Fox.
 
-Today I found there was a <b><a href="http://adiltofakitty.livejournal.com/">newborn kitten named after her</a></b>. 
+Today I found there was a <b><a href="http://adiltofakitty.livejournal.com/">newborn kitten named after her</a></b>.

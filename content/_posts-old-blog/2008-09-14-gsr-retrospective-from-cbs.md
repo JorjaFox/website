@@ -2,7 +2,7 @@
 id: 534
 title: 'GSR Retrospective (from CBS)'
 date: '2008-09-14T14:04:44-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=534'
 permalink: /2008/gsr-retrospective-from-cbs/

@@ -2,7 +2,7 @@
 id: 376
 title: 'Spoilers: 9&#215;02 The Happy Place'
 date: '2008-05-29T09:26:18-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=376'
 permalink: /2008/spoilers-9x02-the-happy-place/
@@ -36,7 +36,7 @@ Spoilers from <a href="http://www.csifiles.com/news/290508_01.shtml">CSI Files</
 
 <!--more-->
 
-<blockquote>According to CSI Files sources, the second episode of CSI: Crime Scene Investigation's ninth season will be called "The Happy Place". 
+<blockquote>According to CSI Files sources, the second episode of CSI: Crime Scene Investigation's ninth season will be called "The Happy Place".
 
 [...]
 

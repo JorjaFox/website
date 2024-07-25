@@ -2,7 +2,7 @@
 id: 318
 title: 'Earth Hour'
 date: '2008-03-28T18:03:44-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/03/28/earth-hour/'
 permalink: /2008/earth-hour/

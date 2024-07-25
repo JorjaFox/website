@@ -2,7 +2,7 @@
 id: 887
 title: 'Problems logging in?'
 date: '2008-12-14T14:50:32-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=887'
 permalink: /2008/problems-logging-in/

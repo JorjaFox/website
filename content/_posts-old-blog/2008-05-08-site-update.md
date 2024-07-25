@@ -2,7 +2,7 @@
 id: 360
 title: 'Site Update'
 date: '2008-05-08T21:00:51-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=360'
 permalink: /2008/site-update/

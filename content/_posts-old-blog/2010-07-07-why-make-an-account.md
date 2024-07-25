@@ -2,7 +2,7 @@
 id: 2997
 title: 'Why Make An Account?'
 date: '2010-07-07T15:00:06-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/community/?p=49'
 permalink: /2010/why-make-an-account/

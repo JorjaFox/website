@@ -2,7 +2,7 @@
 id: 303
 title: 'Happy Dusty Springfield Day!'
 date: '2008-02-07T19:27:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/02/07/happy-dusty-springfield-day/'
 permalink: /2008/happy-dusty-springfield-day/

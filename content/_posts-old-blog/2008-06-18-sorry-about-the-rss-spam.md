@@ -2,7 +2,7 @@
 id: 390
 title: 'Sorry about the RSS spam'
 date: '2008-06-18T21:03:26-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=390'
 permalink: /2008/sorry-about-the-rss-spam/

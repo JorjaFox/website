@@ -2,7 +2,7 @@
 id: 352
 title: 'Rumors: CSI Episode 8&#215;17 &#8211; For Gedda'
 date: '2008-05-05T12:48:20-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=352'
 permalink: /2008/rumors-csi-episode-8x17-for-gedda/

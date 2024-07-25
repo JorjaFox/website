@@ -2,7 +2,7 @@
 id: 305
 title: 'The Strike is Over &#8211; So where&#8217;s Jorja?'
 date: '2008-02-13T08:51:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/02/13/the-strike-is-over-so-wheres-jorja/'
 permalink: /2008/the-strike-is-over-so-wheres-jorja/

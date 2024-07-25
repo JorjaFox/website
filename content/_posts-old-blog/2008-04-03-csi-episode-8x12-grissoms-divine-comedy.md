@@ -2,7 +2,7 @@
 id: 328
 title: 'CSI Episode 8&#215;12: Grissom&#8217;s Divine Comedy'
 date: '2008-04-03T20:59:10-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=328'
 permalink: /2008/csi-episode-8x12-grissoms-divine-comedy/

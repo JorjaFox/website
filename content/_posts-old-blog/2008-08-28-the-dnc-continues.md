@@ -2,7 +2,7 @@
 id: 467
 title: 'The DNC Continues'
 date: '2008-08-28T16:03:10-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=467'
 permalink: /2008/the-dnc-continues/

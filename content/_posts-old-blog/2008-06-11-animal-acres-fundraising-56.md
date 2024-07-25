@@ -2,7 +2,7 @@
 id: 384
 title: 'Animal Acres Fundraising &#8211; 56%'
 date: '2008-06-11T08:29:21-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=384'
 permalink: /2008/animal-acres-fundraising-56/

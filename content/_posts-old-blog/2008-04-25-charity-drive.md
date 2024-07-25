@@ -2,7 +2,7 @@
 id: 345
 title: 'Charity Drive'
 date: '2008-04-25T12:45:53-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=345'
 permalink: /2008/charity-drive/
@@ -33,7 +33,7 @@ tags:
 
 I've put in a meter along the sidebar to give everyone a live status. It looks all pretty too, don't it?  Animal Acres seems to be leading the pack, which is probably due to Jorja and the Hoe Down.  I set our 'goal' at a rather arbitrary $200. I'll keep bumping that up as we get closer, since if we raise over $1000, we can actually name things for Jorja.  Wouldn't that be a hoot?
 
-Please spread the word to every CSI community that allows this sort of advertising. This is <b>not</b> a JFO only event, this is for everyone who wants to wish Jorja happy birthday.  
+Please spread the word to every CSI community that allows this sort of advertising. This is <b>not</b> a JFO only event, this is for everyone who wants to wish Jorja happy birthday.
 
 Thanks to JAA, we have some banners and buttons for you.  If you want to make your own, email them to webmaster @ jorjafox . net (just remove the spaces, spammers...).  Please don't send GIF files, as they will be deleted by my mail server. If you have a gif, I suggest posting it on tinypic.com and mailing the link.  As always, hotlinking to JFO won't work. You'll need to download these and host them yourself.
 

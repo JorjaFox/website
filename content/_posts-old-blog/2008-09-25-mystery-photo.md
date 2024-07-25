@@ -2,7 +2,7 @@
 id: 565
 title: '&#8216;Mystery&#8217; Photo'
 date: '2008-09-25T17:33:07-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=565'
 permalink: /2008/mystery-photo/

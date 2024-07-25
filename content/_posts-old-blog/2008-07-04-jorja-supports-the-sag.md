@@ -2,7 +2,7 @@
 id: 405
 title: 'Jorja Supports the SAG'
 date: '2008-07-04T09:54:21-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=405'
 permalink: /2008/jorja-supports-the-sag/

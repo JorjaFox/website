@@ -2,7 +2,7 @@
 id: 3335
 title: 'Server Upgrades'
 date: '2011-05-17T10:10:14-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=3335'
 permalink: /2011/server-upgrades/

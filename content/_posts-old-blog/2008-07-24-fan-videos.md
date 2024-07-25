@@ -2,7 +2,7 @@
 id: 412
 title: 'Fan Videos'
 date: '2008-07-24T21:09:22-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=412'
 permalink: /2008/fan-videos/

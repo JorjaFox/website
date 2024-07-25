@@ -2,7 +2,7 @@
 id: 330
 title: 'News Update &#8211; Ausiello Twofer'
 date: '2008-04-09T09:44:03-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=330'
 permalink: /2008/news-update-ausiello-twofer/

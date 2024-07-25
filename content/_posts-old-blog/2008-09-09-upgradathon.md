@@ -2,7 +2,7 @@
 id: 519
 title: Upgradathon
 date: '2008-09-09T08:37:25-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=519'
 permalink: /2008/upgradathon/

@@ -2,7 +2,7 @@
 id: 402
 title: 'Ipstenu: On the road'
 date: '2008-07-02T09:07:49-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=402'
 permalink: /2008/ipstenu-on-the-road/

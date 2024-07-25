@@ -2,7 +2,7 @@
 id: 323
 title: 'Blogs &#8211; The World Comes Full Circle'
 date: '2008-03-30T17:45:14-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=323'
 permalink: /2008/blogs-the-world-comes-full-circle/

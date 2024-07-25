@@ -2,7 +2,7 @@
 id: 521
 title: 'Ask Ausiello: What&#8217;s the Deal with Grissom and Sara?'
 date: '2008-09-10T08:11:31-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=521'
 permalink: /2008/ask-ausiello-whats-the-deal-with-grissom-and-sara/

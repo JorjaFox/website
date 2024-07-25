@@ -2,7 +2,7 @@
 id: 2981
 title: 'Open Groups, Closed Groups'
 date: '2010-04-26T14:13:05-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/community/?p=32'
 permalink: /2010/open-groups-closed-groups/
@@ -26,4 +26,4 @@ BuddyPress groups are one of those really powerful, really annoying things that 
 
 Anyway, I'm trying to get a feel for what YOU guys want out of things.  Right now, groups are only made by me.  If you want one, you have to ask for it.  Do you think it's reasonable to open this up? Comments are closed on this post, and it's just a straight vote for yes, no and maybe.  Once there's some sort of a general consensus, I'll start puttering about.
 
-[polldaddy poll=3094791] 
+[polldaddy poll=3094791]

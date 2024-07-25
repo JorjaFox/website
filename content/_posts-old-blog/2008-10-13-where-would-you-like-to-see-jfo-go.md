@@ -2,7 +2,7 @@
 id: 607
 title: 'Where would you like to see JFO go?'
 date: '2008-10-13T11:27:50-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=607'
 permalink: /2008/where-would-you-like-to-see-jfo-go/

@@ -2,7 +2,7 @@
 id: 309
 title: 'Welcome Home'
 date: '2008-03-19T18:43:27-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/03/19/welcome-home/'
 permalink: /2008/welcome-home/

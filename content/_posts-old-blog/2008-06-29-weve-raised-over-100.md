@@ -2,7 +2,7 @@
 id: 399
 title: 'We&#8217;ve raised over 100%!'
 date: '2008-06-29T10:58:13-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=399'
 permalink: /2008/weve-raised-over-100/

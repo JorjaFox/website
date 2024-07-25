@@ -2,7 +2,7 @@
 id: 306
 title: 'The Mirror (UK)'
 date: '2008-02-21T15:38:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/02/21/the-mirror-uk/'
 permalink: /2008/the-mirror-uk/

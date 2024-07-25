@@ -2,7 +2,7 @@
 id: 649
 title: 'Inauthentic despite wrinkles?'
 date: '2008-10-19T11:38:53-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=649'
 permalink: /2008/inauthentic_despite_wrinkles/
@@ -38,7 +38,7 @@ Dianne Butler, of the Australian newspaper The Courier-Mail, says of Sara and Jo
 
 She was back for Warrick's funeral, an episode that required some emotion to register on his colleagues' face. So it worked out well for her. [...]
 
-I don't know how much more we're going to see of Jorja and her character Sara and I don't care [...]. Although Sara did deliver one of the more convincing, authentic-sounding lines I think I've ever heard on CSI. 
+I don't know how much more we're going to see of Jorja and her character Sara and I don't care [...]. Although Sara did deliver one of the more convincing, authentic-sounding lines I think I've ever heard on CSI.
 
 It was when she and that other cop went to Warrick's house to get him an outfit to wear in his coffin and his bed wasn't made and she said how she'd been to so many murder scenes, she would never leave her house in the morning until she'd made her bed and taken the rubbish out, in case she never came home. </blockquote>
 

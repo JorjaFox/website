@@ -2,7 +2,7 @@
 id: 530
 title: 'Possible Downtime'
 date: '2008-09-12T10:00:00-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=530'
 permalink: /2008/possible-downtime/

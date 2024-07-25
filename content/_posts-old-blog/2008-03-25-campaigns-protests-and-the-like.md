@@ -2,7 +2,7 @@
 id: 315
 title: 'Campaigns, Protests and the Like'
 date: '2008-03-25T08:35:29-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/03/25/campaigns-protests-and-the-like/'
 permalink: /2008/campaigns-protests-and-the-like/

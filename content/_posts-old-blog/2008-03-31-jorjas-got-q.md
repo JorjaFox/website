@@ -2,7 +2,7 @@
 id: 325
 title: 'Jorja&#8217;s Got Q'
 date: '2008-03-31T22:10:51-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=325'
 permalink: /2008/jorjas-got-q/

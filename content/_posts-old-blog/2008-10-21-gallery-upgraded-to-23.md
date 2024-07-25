@@ -2,7 +2,7 @@
 id: 704
 title: 'Gallery Upgraded to 2.3'
 date: '2008-10-21T11:36:09-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=704'
 permalink: /2008/gallery-upgraded-to-23/

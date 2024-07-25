@@ -2,7 +2,7 @@
 id: 838
 title: 'Thanking the Monkey at Animal Acres'
 date: '2008-12-04T21:28:53-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=838'
 permalink: /2008/thanking-the-monkey-at-animal-acres/
@@ -32,7 +32,7 @@ tags:
     - advocacy
 ---
 
-<img src="//static.jorjafox.net/wordpress/2008/12/button_meet_karen.jpg" alt="" title="button_meet_karen" width="140" style="float:left;border:0px;padding:5px;" />  Jorja will be reading from <i>Thanking the Monkey</i> on December 14th at Animal Acres Sanctuary (in Acton, CA).  The reading is free, but you must RSVP with <strong>info@animalacres.org</strong> to be added to the list. 
+<img src="//static.jorjafox.net/wordpress/2008/12/button_meet_karen.jpg" alt="" title="button_meet_karen" width="140" style="float:left;border:0px;padding:5px;" />  Jorja will be reading from <i>Thanking the Monkey</i> on December 14th at Animal Acres Sanctuary (in Acton, CA).  The reading is free, but you must RSVP with <strong>info@animalacres.org</strong> to be added to the list.
 
 <blockquote>A special event with Karen Dawn, author of the entertaining new book, "Thanking the Monkey: Rethinking the Way we Treat Animals."
 

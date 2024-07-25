@@ -2,7 +2,7 @@
 id: 302
 title: 'KTLA Morning Show Info'
 date: '2008-01-31T15:54:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/01/31/ktla-morning-show-info/'
 permalink: /2008/ktla-morning-show-info/

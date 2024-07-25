@@ -2,7 +2,7 @@
 id: 403
 title: 'Emmy Semi-Finalists, no Jorja'
 date: '2008-07-02T09:25:54-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=403'
 permalink: /2008/emmy-semi-finalists-no-jorja/

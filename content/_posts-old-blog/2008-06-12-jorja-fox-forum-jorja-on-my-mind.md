@@ -2,7 +2,7 @@
 id: 385
 title: 'Jorja Fox Forum &#8211; Jorja on my Mind'
 date: '2008-06-12T18:44:26-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=385'
 permalink: /2008/jorja-fox-forum-jorja-on-my-mind/

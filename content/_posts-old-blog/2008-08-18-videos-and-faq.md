@@ -2,7 +2,7 @@
 id: 450
 title: 'Videos and FAQ'
 date: '2008-08-18T14:11:34-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=450'
 permalink: /2008/videos-and-faq/

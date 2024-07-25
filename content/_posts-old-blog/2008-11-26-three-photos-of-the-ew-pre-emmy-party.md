@@ -2,7 +2,7 @@
 id: 804
 title: 'Three Photos of the EW Pre-Emmy Party'
 date: '2008-11-26T21:11:26-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=804'
 permalink: /2008/three-photos-of-the-ew-pre-emmy-party/

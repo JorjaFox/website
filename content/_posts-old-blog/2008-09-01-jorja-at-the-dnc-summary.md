@@ -2,7 +2,7 @@
 id: 480
 title: 'Jorja at the DNC Summary'
 date: '2008-09-01T11:19:00-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=480'
 permalink: /2008/jorja-at-the-dnc-summary/

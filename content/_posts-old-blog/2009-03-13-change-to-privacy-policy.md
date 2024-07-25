@@ -2,7 +2,7 @@
 id: 1679
 title: 'Change to Privacy Policy'
 date: '2009-03-13T10:29:26-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=1679'
 permalink: /2009/change-to-privacy-policy/

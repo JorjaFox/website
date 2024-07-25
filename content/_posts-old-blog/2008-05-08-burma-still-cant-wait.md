@@ -2,7 +2,7 @@
 id: 358
 title: 'Burma Still Can&#8217;t Wait'
 date: '2008-05-08T23:41:59-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=358'
 permalink: /2008/burma-still-cant-wait/

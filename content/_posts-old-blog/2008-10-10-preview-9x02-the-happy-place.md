@@ -2,7 +2,7 @@
 id: 605
 title: 'Preview 9&#215;02 &#8211; The Happy Place'
 date: '2008-10-10T09:49:50-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=605'
 permalink: /2008/preview-9x02-the-happy-place/

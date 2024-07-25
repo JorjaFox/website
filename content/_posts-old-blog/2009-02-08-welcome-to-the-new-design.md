@@ -2,7 +2,7 @@
 id: 1557
 title: 'Welcome to the new design!'
 date: '2009-02-08T14:16:30-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=1557'
 permalink: /2009/welcome-to-the-new-design/

@@ -2,7 +2,7 @@
 id: 586
 title: 'CSI Premiere Excerpt'
 date: '2008-10-07T18:36:41-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=586'
 permalink: /2008/csi-premiere-excerpt/

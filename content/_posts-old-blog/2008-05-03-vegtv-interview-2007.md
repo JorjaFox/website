@@ -2,7 +2,7 @@
 id: 351
 title: 'VegTV Interview &#8211; 2007'
 date: '2008-05-03T23:07:50-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=351'
 permalink: /2008/vegtv-interview-2007/

@@ -2,7 +2,7 @@
 id: 795
 title: 'Video &#8211; Inside Media at The Paley Center: CSI &#8211; Why Jorja Fox?'
 date: '2008-11-23T11:26:11-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=795'
 permalink: /2008/video-inside-media-at-the-paley-center-csi-why-jorja-fox/

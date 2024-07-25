@@ -2,7 +2,7 @@
 id: 638
 title: 'Forums Query (Your Input Requested!)'
 date: '2008-10-17T15:54:26-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=638'
 permalink: /2008/forums-query-your-input-requested/

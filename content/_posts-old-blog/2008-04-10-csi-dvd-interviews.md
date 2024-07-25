@@ -2,7 +2,7 @@
 id: 331
 title: 'CSI DVD Interviews'
 date: '2008-04-10T18:39:42-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=331'
 permalink: /2008/csi-dvd-interviews/

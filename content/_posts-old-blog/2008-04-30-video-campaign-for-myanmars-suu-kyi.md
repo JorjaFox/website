@@ -2,7 +2,7 @@
 id: 348
 title: 'Video campaign for Myanmar&#8217;s Suu Kyi'
 date: '2008-04-30T22:09:56-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=348'
 permalink: /2008/video-campaign-for-myanmars-suu-kyi/

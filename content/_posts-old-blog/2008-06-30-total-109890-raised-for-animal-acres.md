@@ -2,7 +2,7 @@
 id: 401
 title: 'Total: $1098.90 Raised For Animal Acres'
 date: '2008-06-30T08:47:02-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=401'
 permalink: /2008/total-109890-raised-for-animal-acres/

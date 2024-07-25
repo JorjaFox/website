@@ -2,7 +2,7 @@
 id: 438
 title: 'More Missing Persons!'
 date: '2008-08-07T23:24:31-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=438'
 permalink: /2008/more-missing-persons/

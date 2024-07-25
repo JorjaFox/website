@@ -2,7 +2,7 @@
 id: 474
 title: 'Missing Persons Labor Day Blowout!'
 date: '2008-08-31T16:43:25-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=474'
 permalink: /2008/missing-persons-labor-day-blowout/

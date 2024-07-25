@@ -2,7 +2,7 @@
 id: 324
 title: Gravatars
 date: '2008-03-30T18:08:48-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=324'
 permalink: /2008/gravatars/

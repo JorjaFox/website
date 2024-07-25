@@ -2,7 +2,7 @@
 id: 363
 title: 'Do you use RSS?'
 date: '2008-05-14T14:09:24-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=363'
 permalink: /2008/do-you-use-rss/

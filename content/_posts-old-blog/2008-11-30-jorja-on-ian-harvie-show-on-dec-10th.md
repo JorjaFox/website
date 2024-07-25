@@ -2,7 +2,7 @@
 id: 808
 title: 'Jorja on Ian Harvie Show on Dec 10th'
 date: '2008-11-30T20:15:54-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=808'
 permalink: /2008/jorja-on-ian-harvie-show-on-dec-10th/
@@ -41,9 +41,9 @@ Props to forum poster <strong>amethyst </strong> for catching this and posting!
 
 <a href="//static.jorjafox.net/wordpress/2008/11/the-ian-harvie-show-benefit.gif"><img src="//static.jorjafox.net/wordpress/2008/11/the-ian-harvie-show-benefit.gif" alt="" title="The Ian Harvie Show Benefit" style="float:left;height:135px;padding:5px;border:0" /></a>
 
-<blockquote>The Ian Harvie Show is a comedy/talk show at Largo at the Coronet Theater Wednesday, December 10th at 8pm. 
+<blockquote>The Ian Harvie Show is a comedy/talk show at Largo at the Coronet Theater Wednesday, December 10th at 8pm.
 
-This will be a panel discussion with all of the guests about their best/worst/funniest holiday moments and traditions. to benefit Equality California. 
+This will be a panel discussion with all of the guests about their best/worst/funniest holiday moments and traditions. to benefit Equality California.
 
 Guests include: Your host Ian Harvie, Margaret Cho, Jorja Fox, Leslie Jordan, Alec Mapa, ANT, Erin Foley and music by Jon Brion. </blockquote>
 

@@ -2,7 +2,7 @@
 id: 448
 title: 'CSI Season Nine Rumors, Spoilers and Speculation'
 date: '2008-08-15T12:50:07-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=448'
 permalink: /2008/csi-season-nine-rumors-spoilers-and-speculation/

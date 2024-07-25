@@ -2,7 +2,7 @@
 id: 781
 title: 'Sea Shepherd Conservation Society'
 date: '2008-11-08T19:12:28-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=781'
 permalink: /2008/sea-shepherd/

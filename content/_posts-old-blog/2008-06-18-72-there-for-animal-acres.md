@@ -2,7 +2,7 @@
 id: 387
 title: '77% there for Animal Acres'
 date: '2008-06-18T08:29:18-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=387'
 permalink: /2008/72-there-for-animal-acres/

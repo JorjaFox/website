@@ -2,7 +2,7 @@
 id: 573
 title: 'Site Maintenance on October 8th'
 date: '2008-10-01T23:48:50-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=573'
 permalink: /2008/site-maintenance-on-october-8th/
@@ -30,4 +30,4 @@ tags:
     - 'site notice'
 ---
 
-From 1am to 5am US Eastern time, on October 8th, JFO will be down for maintenance. Time for operating system patches! 
+From 1am to 5am US Eastern time, on October 8th, JFO will be down for maintenance. Time for operating system patches!

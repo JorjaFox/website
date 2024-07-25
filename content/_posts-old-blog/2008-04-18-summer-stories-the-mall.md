@@ -2,7 +2,7 @@
 id: 338
 title: 'Summer Stories: The Mall'
 date: '2008-04-18T12:04:45-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=338'
 permalink: /2008/summer-stories-the-mall/

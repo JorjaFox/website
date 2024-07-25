@@ -2,7 +2,7 @@
 id: 1605
 title: 'Gallery Tweakage'
 date: '2009-02-17T14:25:25-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=1605'
 permalink: /2009/gallery-tweakage/
@@ -32,4 +32,4 @@ tags:
     - 'site notice'
 ---
 
-<img src="//static.jorjafox.net/wordpress/2009/01/kcoloredit.png" alt="kcoloredit" title="kcoloredit" width="64" height="64" class="alignleft size-full wp-image-1465" /> The Gallery now matches the rest of the site.  The whole gallery renovation (behind the scenes) is also in progress, but that's a while off still.  I thought I should at least pretty us up first! 
+<img src="//static.jorjafox.net/wordpress/2009/01/kcoloredit.png" alt="kcoloredit" title="kcoloredit" width="64" height="64" class="alignleft size-full wp-image-1465" /> The Gallery now matches the rest of the site.  The whole gallery renovation (behind the scenes) is also in progress, but that's a while off still.  I thought I should at least pretty us up first!

@@ -2,7 +2,7 @@
 id: 327
 title: 'The April Fools Prank That Wasn&#8217;t'
 date: '2008-04-01T08:42:05-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=327'
 permalink: /2008/the-april-fools-prank-that-wasnt/

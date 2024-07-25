@@ -2,7 +2,7 @@
 id: 337
 title: 'Jorja In Costa Rica'
 date: '2008-04-17T22:37:54-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=337'
 permalink: /2008/jorja-in-costa-rica/

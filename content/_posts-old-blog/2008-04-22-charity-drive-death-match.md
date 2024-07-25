@@ -2,7 +2,7 @@
 id: 342
 title: 'Charity Drive Death Match'
 date: '2008-04-22T09:43:53-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=342'
 permalink: /2008/charity-drive-death-match/
@@ -28,6 +28,6 @@ tags:
 
 Since we seem to be pro-animal this year, I've split the votes for either fundforanimals.org or animalacres.org (who had an astounding 50+ email votes! Yipes!).  Winner takes all. Voting closes on the 30th of April, but donations will be open until July 1st, 2008.
 
-Donations are now open! 
+Donations are now open!
 
 Sadly due to US tax laws, I need everyone to use paypal this year. I know that crimps the students, and I do apologize, but my taxes were a mess this year and this is the simplest way for me to sort it out and avoid another audit. On the plus side, I have a merchant account with Paypal, which means a lot more security.  I know a lot of people complain about Paypal, but I've been a member for 7 years and never had a problem.

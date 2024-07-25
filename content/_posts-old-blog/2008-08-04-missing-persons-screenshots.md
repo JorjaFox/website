@@ -2,7 +2,7 @@
 id: 425
 title: 'Missing Persons Screenshots'
 date: '2008-08-04T19:08:41-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=425'
 permalink: /2008/missing-persons-screenshots/

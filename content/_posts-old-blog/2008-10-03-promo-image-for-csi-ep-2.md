@@ -2,7 +2,7 @@
 id: 578
 title: 'Promo Image for CSI Ep 2: The Happy Place'
 date: '2008-10-03T14:04:53-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=578'
 permalink: /2008/promo-image-for-csi-ep-2/

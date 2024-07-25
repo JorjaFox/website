@@ -2,7 +2,7 @@
 id: 372
 title: 'TV The CSI Way &#8211; Screenshots'
 date: '2008-05-26T14:32:40-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=372'
 permalink: /2008/tv-the-csi-way-screenshots/

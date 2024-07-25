@@ -2,7 +2,7 @@
 id: 611
 title: 'Doyle on ER!'
 date: '2008-10-11T21:17:04-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=611'
 permalink: /2008/doyle-on-er/

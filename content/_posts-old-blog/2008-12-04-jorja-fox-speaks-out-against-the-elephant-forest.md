@@ -2,7 +2,7 @@
 id: 829
 title: 'Jorja Fox speaks out against the Elephant Forest'
 date: '2008-12-04T09:03:01-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=829'
 permalink: /2008/jorja-fox-speaks-out-against-the-elephant-forest/

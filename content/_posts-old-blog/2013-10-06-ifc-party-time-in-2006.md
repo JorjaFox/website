@@ -2,7 +2,7 @@
 id: 8436
 title: 'IFC Party Time in 2006!'
 date: '2013-10-06T09:00:22-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=8436'
 permalink: /2013/ifc-party-time-in-2006/

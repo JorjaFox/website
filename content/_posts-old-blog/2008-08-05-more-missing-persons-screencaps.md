@@ -2,7 +2,7 @@
 id: 427
 title: 'More Missing Persons Screencaps'
 date: '2008-08-05T19:47:53-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=427'
 permalink: /2008/more-missing-persons-screencaps/

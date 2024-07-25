@@ -2,7 +2,7 @@
 id: 1694
 title: 'Layout Tweaks &#8211; Nothing Major'
 date: '2009-03-18T10:56:28-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=1694'
 permalink: /2009/layout-tweaks-nothing-major/

@@ -2,7 +2,7 @@
 id: 389
 title: 'Jorja Fox Interview in the June 23&#8217;d issue of TV Guide'
 date: '2008-06-18T13:09:43-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=389'
 permalink: /2008/jorja-fox-interview-in-the-june-23d-issue-of-tv-guide/

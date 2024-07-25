@@ -2,7 +2,7 @@
 id: 417
 title: 'JorjaFox.org Easter Eggs'
 date: '2008-07-29T11:56:16-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=417'
 permalink: /2008/jorjafoxorg-easter-eggs/

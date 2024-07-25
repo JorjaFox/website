@@ -2,7 +2,7 @@
 id: 2956
 title: 'Welcome to the Community!'
 date: '2010-04-18T01:06:58-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/community/?p=3'
 permalink: /2010/welcome-to-the-community/

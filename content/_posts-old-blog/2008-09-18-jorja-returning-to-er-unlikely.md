@@ -2,7 +2,7 @@
 id: 543
 title: 'Jorja returning to ER? Unlikely.'
 date: '2008-09-18T09:39:36-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=543'
 permalink: /2008/jorja-returning-to-er-unlikely/

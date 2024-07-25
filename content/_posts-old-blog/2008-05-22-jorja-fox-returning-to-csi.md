@@ -2,7 +2,7 @@
 id: 368
 title: 'Jorja Fox Returning to CSI!'
 date: '2008-05-22T13:29:40-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=368'
 permalink: /2008/jorja-fox-returning-to-csi/

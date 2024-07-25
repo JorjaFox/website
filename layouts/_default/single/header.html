@@ -21,7 +21,7 @@
         {{ if eq $metadata "full" }}
             {{ if ne $datestr $lastmodstr -}}&nbsp;({{ $lastmodstr | i18n "lastModified" }}){{ end }}
         {{ end }}
-        {{ if .Params.authorname }}&bull;&nbsp;by {{ .Params.authorname }}{{ end }}
+        {{ if .Params.authorname }}&bull;&nbsp;By {{ .Params.authorname }}{{ end }}
         &bull;
         {{ .ReadingTime | lang.FormatNumber 0 }}&nbsp;{{ i18n "minutesShort" }} {{ i18n "read" }} &bull;
         {{ .WordCount | lang.FormatNumber 0 }}&nbsp;{{ i18n "words" }}

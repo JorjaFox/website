@@ -2,7 +2,7 @@
 id: 461
 title: 'Behind the Curtain: Comments and Spam'
 date: '2008-08-27T10:23:49-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=461'
 permalink: /2008/behind-the-curtain/

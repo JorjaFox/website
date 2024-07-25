@@ -2,7 +2,7 @@
 id: 436
 title: 'Fan Links of the Day'
 date: '2008-08-07T13:26:49-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=436'
 permalink: /2008/fan-links-of-the-day/

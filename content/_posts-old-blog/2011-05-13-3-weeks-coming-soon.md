@@ -2,7 +2,7 @@
 id: 3330
 title: '3 Weeks Coming Soon?'
 date: '2011-05-13T15:05:27-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=3330'
 permalink: /2011/3-weeks-coming-soon/

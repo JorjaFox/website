@@ -2,7 +2,7 @@
 id: 567
 title: 'Old Articles are New to You!'
 date: '2008-09-25T20:27:34-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=567'
 permalink: /2008/old-articles-are-new-to-you/

@@ -2,7 +2,7 @@
 id: 454
 title: 'GSRForever Exclusive Interview with David Rambo'
 date: '2008-08-21T18:28:12-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=454'
 permalink: /2008/gsrforever-exclusive-interview/

@@ -2,7 +2,7 @@
 id: 334
 title: 'Ian Harvie Interview &#8211; 21 January'
 date: '2008-04-16T22:32:41-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=334'
 permalink: /2008/ian-harvie-interview-21-january/

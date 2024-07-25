@@ -2,7 +2,7 @@
 id: 442
 title: 'Missing Persons: Some People&#8217;s Priorities'
 date: '2008-08-08T14:34:35-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=442'
 permalink: /2008/missing-persons-some-peoples-priorities/

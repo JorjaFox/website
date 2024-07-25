@@ -2,7 +2,7 @@
 id: 488
 title: 'Advocacy and Charity in the News'
 date: '2008-09-03T08:11:14-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=488'
 permalink: /2008/advocacy-charity/
@@ -33,4 +33,4 @@ tags:
 
 Nothing we don't already know about Jorja, but today she was mentioned for her advocacy.
 
-Bloomberg.com noted she supports Animal Acres in an article about <a href="http://www.bloomberg.com/apps/news?pid=20601109&sid=aJ5lgjArRTOc&refer=home">backyard farms in LA</a>.  Meanwhile, the group 'Clean Water at the Bu', who are pushing to clean up our oceans, reported that there will be a fundraiser on the 5th for 
+Bloomberg.com noted she supports Animal Acres in an article about <a href="http://www.bloomberg.com/apps/news?pid=20601109&sid=aJ5lgjArRTOc&refer=home">backyard farms in LA</a>.  Meanwhile, the group 'Clean Water at the Bu', who are pushing to clean up our oceans, reported that there will be a fundraiser on the 5th for

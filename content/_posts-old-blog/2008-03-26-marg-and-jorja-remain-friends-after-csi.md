@@ -2,7 +2,7 @@
 id: 317
 title: 'Marg and Jorja remain friends after CSI'
 date: '2008-03-26T08:55:44-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/03/26/marg-and-jorja-remain-friends-after-csi/'
 permalink: /2008/marg-and-jorja-remain-friends-after-csi/

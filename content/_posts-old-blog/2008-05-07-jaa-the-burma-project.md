@@ -2,7 +2,7 @@
 id: 354
 title: 'JAA: The Burma Project'
 date: '2008-05-07T20:15:54-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=354'
 permalink: /2008/jaa-the-burma-project/

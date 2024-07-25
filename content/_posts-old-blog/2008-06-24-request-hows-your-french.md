@@ -2,7 +2,7 @@
 id: 393
 title: 'Request: How&#8217;s your French?'
 date: '2008-06-24T11:24:05-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=393'
 permalink: /2008/request-hows-your-french/
@@ -34,6 +34,6 @@ tags:
     - 'site notice'
 ---
 
-I have a French magazine with an old interview of Jorja.  Problem is my French to English translation skills are severely lacking.  <s>If you are fluent in both English and French, please email webmaster @ jorjafox.net and I'll send you the article.  I can try to clean up the article if your English isn't tops, but I'm hoping one of you folks is acing French.</s>  :grin: 
+I have a French magazine with an old interview of Jorja.  Problem is my French to English translation skills are severely lacking.  <s>If you are fluent in both English and French, please email webmaster @ jorjafox.net and I'll send you the article.  I can try to clean up the article if your English isn't tops, but I'm hoping one of you folks is acing French.</s>  :grin:
 
 <em>Edited: After 20 responses and already a few mail backs with article translations, I'll sit down tonight and sort out the best re-reading of the article! Thank you everyone, you're an awesome community!</em>

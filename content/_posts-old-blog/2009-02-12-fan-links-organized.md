@@ -2,7 +2,7 @@
 id: 1586
 title: 'Fan Links &#8211; Organized'
 date: '2009-02-12T21:08:02-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=1586'
 permalink: /2009/fan-links-organized/

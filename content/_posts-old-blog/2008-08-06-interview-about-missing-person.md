@@ -2,7 +2,7 @@
 id: 431
 title: 'Interview about Missing Persons'
 date: '2008-08-06T18:42:52-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=431'
 permalink: /2008/interview-about-missing-person/

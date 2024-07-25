@@ -2,7 +2,7 @@
 id: 619
 title: 'Promo Pictures from For Warrick'
 date: '2008-10-15T08:15:01-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=619'
 permalink: /2008/promo-pictures-from-for-warrick/

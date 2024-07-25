@@ -2,7 +2,7 @@
 id: 571
 title: 'Thanking the Monkey Promo Video'
 date: '2008-10-01T22:15:17-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=571'
 permalink: /2008/thanking-the-monkey-promo-video/

@@ -2,7 +2,7 @@
 id: 300
 title: 'Two Tickets for &#8220;Dusty Springfield&#8221; &#8211; Half off &#8211; GONE'
 date: '2008-01-26T18:25:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/01/26/two-tickets-for-dusty-springfield-half-off-gone/'
 permalink: /2008/two-tickets-for-dusty-springfield-half-off-gone/

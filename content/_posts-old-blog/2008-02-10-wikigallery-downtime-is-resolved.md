@@ -2,7 +2,7 @@
 id: 304
 title: 'Wiki/Gallery Downtime is Resolved'
 date: '2008-02-10T18:27:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/02/10/wikigallery-downtime-is-resolved/'
 permalink: /2008/wikigallery-downtime-is-resolved/

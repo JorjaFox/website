@@ -2,7 +2,7 @@
 id: 9921
 title: 'NAACP Lunch'
 date: '2014-02-09T14:49:54-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=9921'
 permalink: /2014/naacp-lunch/

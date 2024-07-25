@@ -2,7 +2,7 @@
 id: 799
 title: 'Jorja photo from GSR fans donating to CASA'
 date: '2008-11-25T18:56:19-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=799'
 permalink: /2008/jorja-photo-from-gsr-fans-donating-to-casa/

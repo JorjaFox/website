@@ -2,7 +2,7 @@
 id: 17791
 title: 'Jorja Confirmed in &#8220;Map of Tiny Perfect Things&#8221;'
 date: '2020-11-21T08:56:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=17791'
 permalink: /2020/jorja-confirmed-in-map-of-tiny-perfect-things/

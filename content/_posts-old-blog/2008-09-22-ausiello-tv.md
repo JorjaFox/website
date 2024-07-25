@@ -2,7 +2,7 @@
 id: 551
 title: 'Ausiello TV: Interview at the EW Pre-Emmy Party (Updated)'
 date: '2008-09-22T12:10:04-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=551'
 permalink: /2008/ausiello-tv/
@@ -35,7 +35,7 @@ tags:
     - video
 ---
 
-The day before the Emmys, Entertainment Weekly hosted a Pre-Emmy party. Jorja Fox was in attendance and was interviewed by Michael Ausiello. 
+The day before the Emmys, Entertainment Weekly hosted a Pre-Emmy party. Jorja Fox was in attendance and was interviewed by Michael Ausiello.
 
 &bull; <a href="http://link.brightcove.com/services/link/bcpid1767981825/bclid1764764835/bctid1807599370">Video</a>
 &bull; <a href="https://jorjafox.net/wiki/Ausiello_TV_(21_September_2008)">Transcript</a>

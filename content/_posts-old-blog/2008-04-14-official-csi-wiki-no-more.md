@@ -2,7 +2,7 @@
 id: 333
 title: 'Official CSI Wiki No More'
 date: '2008-04-14T11:26:55-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=333'
 permalink: /2008/official-csi-wiki-no-more/

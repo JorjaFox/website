@@ -2,7 +2,7 @@
 id: 397
 title: 'French Article: Translated'
 date: '2008-06-27T15:34:39-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=397'
 permalink: /2008/french-article-translated/

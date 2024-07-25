@@ -2,7 +2,7 @@
 id: 492
 title: 'EW&#8217;s CSI Fall Preview'
 date: '2008-09-06T20:19:15-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=492'
 permalink: /2008/ews-csi-fall-preview/

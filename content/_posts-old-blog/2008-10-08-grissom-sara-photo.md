@@ -2,7 +2,7 @@
 id: 589
 title: 'Grissom and Sara photo'
 date: '2008-10-08T22:04:11-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=589'
 permalink: /2008/grissom-sara-photo/

@@ -2,7 +2,7 @@
 id: 377
 title: 'Trailer: Food For The Heart'
 date: '2008-05-30T10:15:18-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=377'
 permalink: /2008/trailer-food-for-the-heart/

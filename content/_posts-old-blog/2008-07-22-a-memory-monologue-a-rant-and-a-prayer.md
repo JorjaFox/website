@@ -2,7 +2,7 @@
 id: 409
 title: 'A Memory, Monologue, A Rant And A Prayer'
 date: '2008-07-22T14:11:39-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=409'
 permalink: /2008/a-memory-monologue-a-rant-and-a-prayer/

@@ -2,7 +2,7 @@
 id: 320
 title: 'JFO &#8211; iPhone'
 date: '2008-03-29T22:30:21-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=320'
 permalink: /2008/jfo-iphone/

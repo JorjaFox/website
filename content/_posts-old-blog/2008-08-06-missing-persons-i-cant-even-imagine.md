@@ -2,7 +2,7 @@
 id: 434
 title: 'Missing Persons: I Can&#8217;t Even Imagine'
 date: '2008-08-06T21:16:47-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=434'
 permalink: /2008/missing-persons-i-cant-even-imagine/

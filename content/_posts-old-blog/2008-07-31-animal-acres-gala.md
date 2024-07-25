@@ -2,7 +2,7 @@
 id: 423
 title: 'Animal Acres Gala &#8211; 6 Sept 2008'
 date: '2008-07-31T15:35:04-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=423'
 permalink: /2008/animal-acres-gala/

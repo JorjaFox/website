@@ -2,7 +2,7 @@
 id: 575
 title: 'Jorja and Animal Acres Thank You'
 date: '2008-10-01T20:47:21-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=575'
 permalink: /2008/jorja-and-animal-acres-thank-you/

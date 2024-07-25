@@ -2,7 +2,7 @@
 id: 536
 title: 'CSI Ep 9&#215;02: The Happy Place'
 date: '2008-09-15T20:05:36-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=536'
 permalink: /2008/happy-place/

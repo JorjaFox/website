@@ -2,7 +2,7 @@
 id: 394
 title: 'Buddy TV Clears the Air'
 date: '2008-06-26T14:08:43-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=394'
 permalink: /2008/buddy-tv-clears-the-air/

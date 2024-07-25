@@ -2,7 +2,7 @@
 id: 369
 title: 'CSI Episode 9&#215;01: Warrick'
 date: '2008-05-23T14:00:03-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=369'
 permalink: /2008/csi-episode-9x01-warrick/

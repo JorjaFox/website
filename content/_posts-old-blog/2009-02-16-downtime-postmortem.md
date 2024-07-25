@@ -2,7 +2,7 @@
 id: 1603
 title: 'Downtime Postmortem'
 date: '2009-02-16T21:29:17-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=1603'
 permalink: /2009/downtime-postmortem/

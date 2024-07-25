@@ -2,7 +2,7 @@
 id: 3249
 title: 'More Upcoming 3 Weeks to Daytona Screenings'
 date: '2011-04-02T09:00:14-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=3249'
 permalink: /2011/more-upcoming-3-weeks-to-daytona-screenings/

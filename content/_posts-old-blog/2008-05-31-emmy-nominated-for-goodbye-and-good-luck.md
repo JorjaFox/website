@@ -2,7 +2,7 @@
 id: 379
 title: 'Emmy Nominated for &#8220;Goodbye and Good Luck&#8221;'
 date: '2008-05-31T15:31:56-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=379'
 permalink: /2008/emmy-nominated-for-goodbye-and-good-luck/

@@ -2,7 +2,7 @@
 id: 347
 title: 'Karen Dawn Monkey Reading'
 date: '2008-04-30T19:34:42-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=347'
 permalink: /2008/karen-dawn-monkey-readin/

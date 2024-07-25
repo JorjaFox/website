@@ -2,7 +2,7 @@
 id: 310
 title: 'CSI: New Photos'
 date: '2008-03-19T20:12:05-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/03/19/csi-new-photos/'
 permalink: /2008/csi-new-photos/

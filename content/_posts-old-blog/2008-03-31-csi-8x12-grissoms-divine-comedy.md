@@ -2,7 +2,7 @@
 id: 326
 title: 'CSI 8&#215;12: Grissom&#8217;s Divine Comedy'
 date: '2008-03-31T22:54:16-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=326'
 permalink: /2008/csi-8x12-grissoms-divine-comedy/
@@ -32,7 +32,7 @@ tags:
     - video
 ---
 
-Spoilers involved, so look below the cut. 
+Spoilers involved, so look below the cut.
 
 <!--more-->
 Catherine takes a photo of Grissom and Sara off his fridge.  This was mentioned before. Video and photos. On the video, look at about the 24-25 second point.

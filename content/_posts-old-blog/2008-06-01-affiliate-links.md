@@ -2,7 +2,7 @@
 id: 378
 title: 'Affiliate Links'
 date: '2008-06-01T08:00:05-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=378'
 permalink: /2008/affiliate-links/

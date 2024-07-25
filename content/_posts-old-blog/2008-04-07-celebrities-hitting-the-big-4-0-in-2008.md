@@ -2,7 +2,7 @@
 id: 329
 title: 'Celebrities Hitting The Big 4-0 in 2008'
 date: '2008-04-07T15:01:32-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=329'
 permalink: /2008/celebrities-hitting-the-big-4-0-in-2008/

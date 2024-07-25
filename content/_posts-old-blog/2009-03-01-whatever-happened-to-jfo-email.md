@@ -2,7 +2,7 @@
 id: 1646
 title: 'Whatever Happened to JFO Email?'
 date: '2009-03-01T10:51:23-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=1646'
 permalink: /2009/whatever-happened-to-jfo-email/

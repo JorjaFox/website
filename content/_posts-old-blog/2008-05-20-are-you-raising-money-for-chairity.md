@@ -2,7 +2,7 @@
 id: 366
 title: 'Are you raising money for chairity?'
 date: '2008-05-20T09:04:02-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=366'
 permalink: /2008/are-you-raising-money-for-chairity/

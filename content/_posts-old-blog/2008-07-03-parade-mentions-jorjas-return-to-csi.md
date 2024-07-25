@@ -2,7 +2,7 @@
 id: 404
 title: 'Parade mentions Jorja&#8217;s return to CSI'
 date: '2008-07-03T12:35:56-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=404'
 permalink: /2008/parade-mentions-jorjas-return-to-csi/

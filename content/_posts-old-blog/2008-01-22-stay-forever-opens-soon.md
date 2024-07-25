@@ -2,7 +2,7 @@
 id: 297
 title: 'Stay Forever opens soon!'
 date: '2008-01-22T21:19:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/01/22/stay-forever-opens-soon/'
 permalink: /2008/stay-forever-opens-soon/

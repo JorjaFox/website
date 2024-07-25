@@ -2,7 +2,7 @@
 id: 312
 title: 'Billy Masters says no Jorja on CSI this season'
 date: '2008-03-20T16:01:17-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/03/20/billy-masters-says-no-jorja-on-csi-this-season/'
 permalink: /2008/billy-masters-says-no-jorja-on-csi-this-season/
@@ -28,6 +28,6 @@ tags:
     - article
 ---
 
-Billy Masters went to see <i>Stay Forever</i>, and says Jorja told him she won't be back on CSI this season. 
+Billy Masters went to see <i>Stay Forever</i>, and says Jorja told him she won't be back on CSI this season.
 
 <a href="http://www.pridesource.com/article.shtml?article=29643">Read the article</a>.

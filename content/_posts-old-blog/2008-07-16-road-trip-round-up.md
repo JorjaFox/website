@@ -2,7 +2,7 @@
 id: 406
 title: 'Road Trip Round Up'
 date: '2008-07-16T10:21:22-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=406'
 permalink: /2008/road-trip-round-up/

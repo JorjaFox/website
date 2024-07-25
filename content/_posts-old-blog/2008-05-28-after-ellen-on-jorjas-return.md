@@ -2,7 +2,7 @@
 id: 374
 title: 'After Ellen on Jorja&#8217;s Return'
 date: '2008-05-28T18:30:56-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=374'
 permalink: /2008/after-ellen-on-jorjas-return/

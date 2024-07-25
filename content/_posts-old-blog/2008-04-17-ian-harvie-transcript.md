@@ -2,7 +2,7 @@
 id: 335
 title: 'Ian Harvie Transcript'
 date: '2008-04-17T13:01:29-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=335'
 permalink: /2008/ian-harvie-transcript/

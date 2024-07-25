@@ -2,7 +2,7 @@
 id: 549
 title: 'EW&#8217;s Pre-Emmy Party'
 date: '2008-09-21T18:27:47-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=549'
 permalink: /2008/ews-pre-emmy-party/

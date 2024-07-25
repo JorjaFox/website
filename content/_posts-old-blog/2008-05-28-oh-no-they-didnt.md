@@ -2,7 +2,7 @@
 id: 375
 title: 'Oh No They Didn&#8217;t!'
 date: '2008-05-28T19:44:27-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=375'
 permalink: /2008/oh-no-they-didnt/

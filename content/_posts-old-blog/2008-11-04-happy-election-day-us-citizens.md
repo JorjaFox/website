@@ -2,7 +2,7 @@
 id: 716
 title: 'Happy Election Day, US Citizens'
 date: '2008-11-04T01:00:28-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=716'
 permalink: /2008/happy-election-day-us-citizens/
@@ -30,8 +30,8 @@ tags:
     - 'site notice'
 ---
 
-Just a reminder to please, get out and vote if you haven't already. 
+Just a reminder to please, get out and vote if you haven't already.
 
 To quote Jorja: <strong>1/20/09</strong>
 
-[caption id="attachment_719" align="aligncenter" width="300" caption="Vote!"]<img src="http://i38.tinypic.com/21oocx0.png" alt="Vote!" title="Vote!" width="300" height="144" class="size-full wp-image-719" style="border:0;" />[/caption] 
+[caption id="attachment_719" align="aligncenter" width="300" caption="Vote!"]<img src="http://i38.tinypic.com/21oocx0.png" alt="Vote!" title="Vote!" width="300" height="144" class="size-full wp-image-719" style="border:0;" />[/caption]

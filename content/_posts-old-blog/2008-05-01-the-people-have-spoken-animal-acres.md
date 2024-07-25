@@ -2,7 +2,7 @@
 id: 349
 title: 'The people have spoken &#8211; Animal Acres'
 date: '2008-05-01T18:37:45-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=349'
 permalink: /2008/the-people-have-spoken-animal-acres/

@@ -2,7 +2,7 @@
 id: 382
 title: 'The 2008 AfterEllen.com Hot 100'
 date: '2008-06-02T12:55:32-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=382'
 permalink: /2008/the-2008-afterellencom-hot-100/

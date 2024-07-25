@@ -2,7 +2,7 @@
 id: 346
 title: 'Monday News Roundup'
 date: '2008-04-28T13:26:54-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=346'
 permalink: /2008/monday-news-roundup/

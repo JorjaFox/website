@@ -2,7 +2,7 @@
 id: 546
 title: 'Site Tweaks'
 date: '2008-09-18T12:04:25-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=546'
 permalink: /2008/site-tweaks/

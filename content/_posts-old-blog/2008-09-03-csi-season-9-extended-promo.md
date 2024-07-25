@@ -2,7 +2,7 @@
 id: 490
 title: 'CSI Season 9 Extended Promo'
 date: '2008-09-03T19:48:31-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=490'
 permalink: /2008/csi-season-9-extended-promo/

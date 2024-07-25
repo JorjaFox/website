@@ -2,7 +2,7 @@
 id: 296
 title: 'Scrapbook Completed'
 date: '2008-01-21T20:46:00-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/2008/01/21/scrapbook-completed/'
 permalink: /2008/scrapbook-completed/

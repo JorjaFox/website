@@ -2,7 +2,7 @@
 id: 562
 title: 'Buddy TV on the EW Interview'
 date: '2008-09-25T10:36:56-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=562'
 permalink: /2008/buddy-tv-on-the-ew-interview/

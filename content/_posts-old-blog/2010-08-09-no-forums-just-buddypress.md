@@ -2,7 +2,7 @@
 id: 2544
 title: 'No forums, just BuddyPress'
 date: '2010-08-09T10:12:13-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/?p=2544'
 permalink: /2010/no-forums-just-buddypress/

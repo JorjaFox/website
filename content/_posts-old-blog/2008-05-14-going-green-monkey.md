@@ -2,7 +2,7 @@
 id: 364
 title: 'Going Green Monkey'
 date: '2008-05-14T21:14:38-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 layout: post
 guid: 'https://jorjafox.net/blog/?p=364'
 permalink: /2008/going-green-monkey/

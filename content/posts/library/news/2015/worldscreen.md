@@ -18,4 +18,4 @@ Immortal classic album in the history of American crime series "CSI Crime Scene"
 
 "CSI: Final Press" assembled "CSI crime scene" four star actor: from the first quarter to show the old team, William Petersen (William Petersen), 自首季就演出的老班底威廉彼得森 (William Petersen), 瑪格海根柏格 (Marg Helgenberger), 喬雅福克斯 (Jorja Fox), 與2011年加入陣容的泰德丹森 (Ted Danson), jointly attack by the four jointly unlock this thorny final case ◦ Ted Danson drama did not let the drama of opera fans disappointed, he played "Russell Leader" was joined by Oscar winner Patricia Arquette (Patricia Arquette) starring "CSI: Internet crime" (CSI: CYBER) a new second-quarter, continue to pass for the sake of justice, do not give up Any evidence, unraveling the CSI Forensic spirit. AXN will be held January 7, 2016 (D) 21:00 Taiwan premiere.
 
-{{< youtube ABLCNEIJ-ZM }}
+{{< youtube ABLCNEIJ-ZM >}}

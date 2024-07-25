@@ -23,11 +23,11 @@ But it is CSI, which has become a cult hit here in the UK, which is currently ma
 
 Despite spending most of her time on the set in Las Vegas, Jorja is more than aware of the ripples that CSI is causing across the Atlantic.
 
-She says: "When I started on ER and The West Wing they were already huge runaway hits, but CSI's really special in the sense that it was a roll of the dice. Who knew? They could have cancled it after three shows. It was magnetic &#8212; it just drew me to it ..."
+She says: "When I started on ER and The West Wing they were already huge runaway hits, but CSI's really special in the sense that it was a roll of the dice. Who knew? They could have cancled it after three shows. It was magnetic - it just drew me to it ..."
 
 Jorja grew up in Melbourne Beach, a small town on the Florida coast, and was "spotted" in a model search at a local shopping mall.
 
-"It was great &#8212; I got to travel. I was in Europe when I was 17, and I wouldn't trade that experience for anything. I was fearless then," she says.
+"It was great - I got to travel. I was in Europe when I was 17, and I wouldn't trade that experience for anything. I was fearless then," she says.
 
 But she was as determined to act, a decision that soon paid dividends with some sensational roles: as well as the aforementioned parts, Jorja has starred in the groundbreaking "coming out" episode of Ellen.
 
@@ -37,7 +37,7 @@ Cult film Memento is also a career highlight. The movie's baffling chronology le
 
 "When I went in on my first day, he could barely explain it himself! But, luckily for me, I didn't really have to understand it," she laughs.
 
-"I heard that Chris had various different edited versions ? I love that movie for that reason. It was the same with &#8216;The Others' when I saw that recently.
+"I heard that Chris had various different edited versions ? I love that movie for that reason. It was the same with 'The Others' when I saw that recently.
 
 "I sort of like to go along for the ride, so I'm not really looking for clues, or trying to figure out the plot twists.?
 
@@ -45,7 +45,7 @@ CSI is now the top rated drama in the US.
 
 Jorja explains: "We hoped that it would do well, but the bottom line was, it's partly about death, which is not necessarily incredibly commercial.
 
-"It's also about these experiments, and it's been a little surprising that so many viewers are prepared to &#8216;travel' with us on subjects like, say, shoelaces!?
+"It's also about these experiments, and it's been a little surprising that so many viewers are prepared to 'travel' with us on subjects like, say, shoelaces!?
 
 This focus on the characters' work, as opposed to their personal lives, appeals to Jorja, especially in contrast with shows that run out of dramatic steam very quickly.
 
@@ -68,4 +68,3 @@ Jorja says: "That's so interesting. Certainly, I do often get to tell the storie
 "That gives it a whole new appreciation and depth."
 
 ***CSI: Crime Scene Investigation, tonight, Channel 5, 9pm***
-

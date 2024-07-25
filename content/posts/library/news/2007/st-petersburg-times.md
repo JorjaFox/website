@@ -31,7 +31,7 @@ It's a tribute to the show's feature-film-level production values that such whop
 
 Because the three CSI series are among the most popular on TV, I know fans have come to terms with their biggest disconnect: People who gather forensic evidence at crime scenes are also shown interviewing suspects and solving crimes.
 
-Still, as an occasional viewer, it feels odd watching Fox's Sidle do so much. She's matching wits with her &#8216;tween nemesis in a showdown that seems increasingly absurd, mostly because the characters take it so seriously. Drenched in shadow and creative camera angles, the visuals spark drama that the text can't match, especially when the villain seems better suited to a bit part on a Disney Channel comedy.
+Still, as an occasional viewer, it feels odd watching Fox's Sidle do so much. She's matching wits with her 'tween nemesis in a showdown that seems increasingly absurd, mostly because the characters take it so seriously. Drenched in shadow and creative camera angles, the visuals spark drama that the text can't match, especially when the villain seems better suited to a bit part on a Disney Channel comedy.
 
 Considering that Sidle recently survived a serial killer's attack, we're hardly surprised that she decides to walk away from the CSI unit to pull her life together.
 
@@ -40,4 +40,3 @@ Fans tried sending CBS everything from airplane banners to cash-filled envelopes
 This casual viewer mostly felt disappointed. In the same way Sidle slips out of the CSI unit with little fanfare, producers eased Fox out of their rotation with an uninspired episode that mostly makes you happy this downer of a character is out the door.
 
 Even I figure Sara deserved better.
-

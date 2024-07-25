@@ -79,4 +79,3 @@ Sara works the apartment murder by herself until Warrick is assigned to help her
 
 **Warrick:** Makes you reconsider, doesn't it?
 **Sara:** I never said you weren't a good CSI.
-

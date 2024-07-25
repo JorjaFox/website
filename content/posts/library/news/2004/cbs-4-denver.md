@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "Two &#8216;CSI' Stars Fired"
+newstitle: "Two 'CSI' Stars Fired"
 newsauthor: Staff
 newssource: CBS 4 Denver
 newsurl: http://news4colorado.com/
@@ -28,4 +28,3 @@ The actors were in the fifth of their seven-year contracts.
 Though a search was underway for their replacements, it's unclear whether show creators will recast the characters or develop new ones, the reports said.
 
 The show picked up four Emmy nominations Thursday, including one for best drama series.
-

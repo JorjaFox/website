@@ -45,4 +45,3 @@ At the end of the episode, Grissom has his beard shaved off by Sara.
 
 **Sara:** _(holding straight razor)_ You trust me?
 **Grissom:** _(all lathered up)_ Intimately.
-

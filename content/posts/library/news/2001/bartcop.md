@@ -17,4 +17,3 @@ First time I remember seeing her was as a doctor or ER. Then she moved to the ho
 I'll bet Tally Briggs would kill to have Jorja's luck...
 
 [...]
-

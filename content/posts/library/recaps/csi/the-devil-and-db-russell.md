@@ -44,4 +44,3 @@ After the girls are rescued, Sara processes the gun and finds inconstancies betw
 ## Quotes
 
 **Sara:** We've got a situation here.
-

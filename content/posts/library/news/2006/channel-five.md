@@ -40,4 +40,3 @@ I wasn't holding out for more money, I merely wanted a raise (laughs). I, who ha
 **Here comes the science bit...CSI is loaded with technological terms that the cast have to trip off their tongues at speed every week. How do you handle it?**
 
 I don't like to read the scripts too late in the day, they give me the creeps. I used do it a lot before bed because I like to read them straight through and that's the time of the day that it's quiet and the phone stops ringing, but it's also the time that, I've had nightmares many times!
-

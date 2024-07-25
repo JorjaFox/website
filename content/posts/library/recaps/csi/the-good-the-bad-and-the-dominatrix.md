@@ -43,4 +43,3 @@ Sara arrives on the scene to help Catherine, and asks Catherine about Lady Heath
 **Sara:** Yeah?
 **Grissom:** _(can't figure out what to say)_
 **Sara:** _(bitter, hurt)_ It's fine. Do what you need to do.
-

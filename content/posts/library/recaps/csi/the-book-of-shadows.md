@@ -21,4 +21,3 @@ The CSI team suspects foul play when a chemistry teacher's science experiment go
 ## Review
 
 _Sara Sidle does not appear in this episode._
-

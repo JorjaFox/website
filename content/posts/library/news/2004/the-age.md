@@ -28,4 +28,3 @@ At No. 5 is the hauntingly wistful Jorja Fox as investigator Sara Sidle in *CSI*
 [ ... ]
 
 So there they are: ratings for the top 10. Not that this represents my opinion, of course. I've compiled the list by listening to the comments of other blokes. You see, I watch these shows exclusively for the brilliance of the scripts and the quality of the acting.
-

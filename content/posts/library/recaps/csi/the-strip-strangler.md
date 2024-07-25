@@ -46,4 +46,3 @@ This is very much a Sara episode, even though she's only in part of it. A rape/h
 **Sara:** The frequented locations report said none of the women belong to a gym where he could have spotted them.
 **Warrick:** So ... I went back to see if any of them had tried out introductory offers.
 **Sara:** Which I do all the time. It's a free workout, and you don't have to sign up.
-

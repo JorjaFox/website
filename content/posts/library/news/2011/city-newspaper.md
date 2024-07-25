@@ -35,4 +35,3 @@ Perhaps not, but while I'm throwing down the prediction gauntlet, I'm going out 
 But, he is starting to grow on me. In the first episode he already blew past Laurence Fishburne in my mind, and while he will never be able to replace the hole Grissom (William Petersen) left in my heart, he's quirky, interesting, and at least seems to be trying to take the team in a different direction.
 
 All in all, a very solid episode from a show I was starting to write off. If the case is good, that can oftentimes be enough to carry a whole episode, and this week that's exactly what happened.
-

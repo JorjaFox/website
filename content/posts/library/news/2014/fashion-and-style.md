@@ -26,4 +26,3 @@ The official synopsis for 'Bad Blood' reads:
 "Sara and Greg are quarantined after responding to a crime scene that's contaminated with a deadly pathogen."
 
 [...]
-

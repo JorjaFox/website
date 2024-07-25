@@ -27,4 +27,3 @@ She testified that she saw the police officers from the Venice Beach Foot Patrol
 "I was upset by what I'd seen," she told jurors.
 
 [...]
-

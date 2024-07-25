@@ -40,4 +40,3 @@ Sara and several officers bring in the printers from the husband's office -- ove
 **Grissom:** _(angrily)_ What?
 **Sara:** _(speaking softly)_ You told me a few weeks ago that nothing is personal. No victim should be special. _(pauses)_ Everyone follows your lead.
 **Grissom:** Everyone didn't find that baby. I did. And that little boy is dead because someone lost their temper or screwed up, or god knows what. So, excuse me, but this victim is special.
-

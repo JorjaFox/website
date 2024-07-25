@@ -16,8 +16,7 @@ newsurl: http://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hes
 
 *This article has been translated from it's original French by Angela of [Melinda-Clarke.org](http://www.melinda-clarke.org/).*
 
-
-***CSI*&#8216;s Jorja Fox says she wasn't sure to re-sign**
+***CSI*'s Jorja Fox says she wasn't sure to re-sign**
 
 Asked by the weekly French magazine Tele Star, Jorja Fox talked about the season 11 of *CSI*. She re-signed for 11 episodes and will see in early 2011 if she wants to do more. Making only a few episodes works for her.
 

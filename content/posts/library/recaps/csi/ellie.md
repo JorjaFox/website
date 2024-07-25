@@ -46,4 +46,3 @@ Sara doesn't get angry when she discovers that the Feds were testing her with th
 **Sara:** I didn't get passed over.
 **Greg:** Then what would you call it?
 **Sara:** Grissom.
-

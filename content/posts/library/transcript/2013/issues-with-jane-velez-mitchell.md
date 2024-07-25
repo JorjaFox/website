@@ -26,7 +26,7 @@ Jorja Fox: It's a bad thing, in my opinion. And it's a pointless thing, in my op
 
 [Clip of the movie]
 
-Jorja Fox: A good number of these captive orcas and killer whales were rounded up in a certain time in history. We have watched these pods in the wild for many years. We know where most of these orcas and killer whales, we know where their families are, we know where their pods are &#8212;
+Jorja Fox: A good number of these captive orcas and killer whales were rounded up in a certain time in history. We have watched these pods in the wild for many years. We know where most of these orcas and killer whales, we know where their families are, we know where their pods are -
 
 Jane Velez-Mitchell: So you endorse what Russell Simmons suggested? Change it radically, eliminate the performance of the orcas or shut down?
 

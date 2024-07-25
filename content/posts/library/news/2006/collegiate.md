@@ -81,4 +81,3 @@ As for the revolution, Fox hasn't given up. As the bumper sticker puts it, she t
 Fox believes that the fight is far from over, and claims she's not going anywhere until she's done her part to reclaim what she describes as the America she grew up in.
 
 "Dreams come true all the time," she smiles, stubbing out her cigarette. "You never know when, but they do."
-

@@ -22,7 +22,6 @@ newsurl: http://www.tvguide.com/Ask-Ausiello/080408
 
 **Question: OMG, was Grissom talking to Sara on the phone at the end of Thursday's episode? Is Jorja coming back to the show next season?- Shannen**
 
-**Ausiello:** I'll let Mendelsohn tackle the first part of that question: "To everyone who's pondered, &#8216;Who is Grissom talking to in the final scene?' - well, her photo was on his fridge." (Look - the screen-grabbed proof!) For an answer to the second part, you'll have to watch my new Ausiello Report vodcast.
+**Ausiello:** I'll let Mendelsohn tackle the first part of that question: "To everyone who's pondered, 'Who is Grissom talking to in the final scene?' - well, her photo was on his fridge." (Look - the screen-grabbed proof!) For an answer to the second part, you'll have to watch my new Ausiello Report vodcast.
 
 [...]
-

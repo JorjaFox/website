@@ -18,4 +18,3 @@ newsurl: http://defamer.com/
 Ellen DeGeneres focused on the word itself, telling Extra: "This particular word is thrown around all the time at the workplace, at the playground, on the sports field and no one gets outraged. Hopefully this incident will put an end to this and people will stop using this word and other hateful words once and for all." Let's hope the insanity stops here, and that Jorja Fox isn't forced to drop by Ellen to tearfully recount the time Gil Grissom called her a "greedy rugmuncher" upon discovering she ate the last craft service banana.
 
 [...]
-

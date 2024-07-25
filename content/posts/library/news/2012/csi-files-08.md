@@ -29,4 +29,3 @@ newsurl: http://www.csifiles.com/content/2012/03/interview-elisabeth-shue/
 **Shue:** We"re hoping to get dinner together soon because we did not get that chance. The second I joined the show, the entire cast was just working. Everyone is working so hard and everybody is working at different times; George is working, I"m not working. We do not get to hang out on set as much as you would think, but we definitely want to get a cast dinner together. I love working with George and Jorja. Everyone has been so lovely and welcoming; they"re all just classy people. Everyone on that cast is smart and they all care about their work. Committed. Grateful. All just very good people.
 
 [...]
-

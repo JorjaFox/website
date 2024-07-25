@@ -35,4 +35,3 @@ She should have started rethinking her profession during that whole "likely deat
 So long, Sara. It's been nice knowing you for eight grisly years.
 
 [...]
-

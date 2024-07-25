@@ -23,6 +23,6 @@ So I got to come in, sort of at the eleventh hour, and help these guys finish th
 
 **JW:** Gabriel, we're usually just hoping to get a bagel from Craft Services.
 
-**Gabriel Cordell:** I got more than a bagel! I got *more* than a bagel.
+**Gabriel Cordell:** I got more than a bagel! I got _more_ than a bagel.
 
 [...]

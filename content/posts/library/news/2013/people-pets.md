@@ -25,4 +25,3 @@ While Fox has fallen head over heels for the poodle mix, she's also passionate a
 Their arrival  which is the subject of the documentary Lion Ark, premiering in N.Y.C. and L.A. on Nov. 15  was an emotional experience. "Lions were roaring from one section of the hangar to the other, trying to find their family members," she says. "It's a sound like nothing you've ever heard before  You can feel those roars in your muscles and bones."
 
 Fox, who celebrated the 300th episode of CSI at the end of October, is very passionate about animal rescue. "If my life had gone in a different direction, this is something I might've gone into," she says. "Animal welfare has given me an anchor in life."
-

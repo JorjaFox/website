@@ -14,4 +14,3 @@ newsurl: http://www.broadcastingcable.com/article/CA438342?display=Breaking+News
 ---
 
 Abstract: CBS has rehired CSI actor Jorja Fox, and George Eads is likely to come back as well.
-

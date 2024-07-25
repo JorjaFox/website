@@ -38,4 +38,3 @@ Sara assists Grissom.
 **Sara:** _(puts her hand on Grissom's shoulder)_
 **Grissom:** _(screams)_
 **Sara:** _(mirthful)_ Sorry.
-

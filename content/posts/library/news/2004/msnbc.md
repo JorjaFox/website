@@ -22,4 +22,3 @@ wearing a vintage Christian Dior pink slip gown with lingerie
 details.
 
 [...]
-

@@ -27,4 +27,3 @@ So, what better time to introduce her mother? Um…how about in any other episod
 Truthfully, though, Sara already has two really good (and nicely muscled) pairs of shoulders in Nick and Greg, her long-time teammates and friends. I can’t say much for this episode, but I will say that in this particular area, they got it right. The three of them are the last of the original cast (since apparently Brass has vanished) and it was really great to see the boys have Sara’s back through thick and thin. That is why, even though the GSR community is devastated, we are not defeated. Some of us may jump ship, and we will mourn them, but the rest of us will strap ourselves to the mast and ride out the storm on the faith that there will be calmer waters ahead. And that’s as far as I can take the shipping metaphor.
 
 [...]
-

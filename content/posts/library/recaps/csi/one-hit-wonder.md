@@ -62,4 +62,3 @@ _Note: this is the only time that Sara's older brother is mentioned during the s
 **Sara:** Emerson?
 **Grissom:** _(closes locker door)_ Grissom.
 **Sara:** _(stares after him as he leaves)_
-

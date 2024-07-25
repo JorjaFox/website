@@ -24,4 +24,3 @@ sausage omelet "because there's booze offered every 3 feet in there and
 you have to be careful."
 
 [...]
-

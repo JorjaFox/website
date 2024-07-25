@@ -18,6 +18,6 @@ newsurl: http://television.aol.com/feature/fall_tv/what-you-should-know-about-fa
 
 **8. Getting Fooled Again**
 
-The last time &#8216;CSI' fans saw Sara Sidle, Grissom had surprised her in the jungle in season 9 and the two shared a steamy kiss. Now Jorja Fox is back again for five &#8212; count 'em, five! &#8212; episodes in season 10. Is Grissom next?
+The last time 'CSI' fans saw Sara Sidle, Grissom had surprised her in the jungle in season 9 and the two shared a steamy kiss. Now Jorja Fox is back again for five - count 'em, five! - episodes in season 10. Is Grissom next?
 
 [...]

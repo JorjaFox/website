@@ -16,7 +16,7 @@ newsurl: http://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-a
 
 Jorja Fox is best known for her role as Dr. Maggie Doyle in the television medical drama *ER*. Since then, Fox has had many successful appearances in television shows including *The West Wing* and most recently *CSI: Crime Scene Investigation* playing Sara Sidle. Fox talks about her career, how *CSI* changed her life, and what fans could expect this season.
 
-**Q: What does it feel like to reflect on your career and know that you have been on some of the biggest shows in history like _ER_**
+**Q: What does it feel like to reflect on your career and know that you have been on some of the biggest shows in history like *ER***
 
 Fox: Oh wow. Thank you. I think it was huge at the time for me. I started on ER in season three and they were the number one show in the country and those numbers were bigger then what you see now because there was less television to choose from. People had to actually turn on the TV at the right time a lot of the bigger shows people wanted to watch live so they could talk about them the next day. So I was terrified. I hadnt watched ER and it was my moms favorite show and a lot of my friends favorite shows and I was absolutely terrified when I got the job because I felt like everyone in America was going to know I was an impostor and that I wasnt a good actorits just crazy.
 
@@ -33,4 +33,3 @@ Fox: I think in someways she really hasnt changed that much [laughs]. When we me
 Fox: I think so far we are in the middle of episode 7. I think we have an amazing season opening up and some great guest stars like oh you know what I dont know if I could say. We have some really interesting guest stars and a cooking show in episode four that is kind of based on these food contests on the food networks. There is funny stuff, there is haunting stuff  I think the writers this year again suggested to me, they like to pick a theme every season, and this one is definitely going to be about darkness and going darker and going deeper. We start the season with a funeral and its not really until we get to the end of the episode that we find out why we are all there and whose funeral it is, who has passed. Its a very compelling and suspenseful episode.
 
 [...]
-

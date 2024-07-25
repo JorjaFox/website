@@ -17,7 +17,7 @@ What's it like to be upstaged by strange fibers and fluids?
 
 Well, they say it's a great form of flattery, right? I think in the beginning we were all quite afraid. Our show in the States had barely got on its legs and already we were going to have competition from the inside. So it was kind of terrifying and maybe not entirely welcomed by the cast. The good thing that's come out of it is it's kept everybody on our show humble and hungry.
 
-**We've had Miami and New York &#8212; what British fans are wondering is when are we going to see *CSI: Birmingham*?**
+**We've had Miami and New York - what British fans are wondering is when are we going to see *CSI: Birmingham*?**
 
 Do they *really* wonder that?
 
@@ -31,7 +31,7 @@ Well, one of the things I'd never really thought about is when you go into a hot
 
 **You mean fluids and hairs?**
 
-Oh yeah, all that. There's a story told in every room. *CSI*, the TV show, has the best forensic equipment in the country &#8212; which is sort of sad &#8212; so we get to locations and all our stuff works. You turn on the ultraviolet lens and go "urrggh!"
+Oh yeah, all that. There's a story told in every room. *CSI*, the TV show, has the best forensic equipment in the country - which is sort of sad - so we get to locations and all our stuff works. You turn on the ultraviolet lens and go "urrggh!"
 
 **With all you know now, if you were to commit a brutal murder, how would you avoid getting caught?**
 
@@ -47,7 +47,7 @@ Yeah right! I'll be a lead suspect. I'm a pacifist though, I must admit.
 
 **Is your character Sara Sidle ever going to get it on with Grissom?**
 
-Oh gosh. We've had this crazy dance for many years &#8212; off and on, odd and on. But I still have faith for that storyline, particularly because of all the darkness these characters live with on a daily basis. It would be just a little stream of light in their lives.
+Oh gosh. We've had this crazy dance for many years - off and on, odd and on. But I still have faith for that storyline, particularly because of all the darkness these characters live with on a daily basis. It would be just a little stream of light in their lives.
 
 **As an actor, do you relish the challenge of kissing a man with a beard?**
 
@@ -55,7 +55,7 @@ Oh gosh. We've had this crazy dance for many years &#8212; off and on, odd and o
 
 **Some of *CSI's* scenes are really gross. What's the closest you've come to losing your dinner?**
 
-Oh yeah. Six years of that and I'm the most squeamish member of the cast! I really feel like the writers give me those scenes intentionally because they think it's funny. It'll affect my day, my lunch. Two seasons ago, Eric Szmanda [*CSI's* Greg Sanders] and I were looking through the stomach contents of a victim. They had brought in pizza because we were working late, and both of us almost got sick. Even though it's make-believe, a lot of our stories are based on real events. It has less to do with what I'm looking at than why I'm looking at it &#8212; how they died.
+Oh yeah. Six years of that and I'm the most squeamish member of the cast! I really feel like the writers give me those scenes intentionally because they think it's funny. It'll affect my day, my lunch. Two seasons ago, Eric Szmanda [*CSI's* Greg Sanders] and I were looking through the stomach contents of a victim. They had brought in pizza because we were working late, and both of us almost got sick. Even though it's make-believe, a lot of our stories are based on real events. It has less to do with what I'm looking at than why I'm looking at it - how they died.
 
 **You're up for World's Sexiest Vegetarian this year. Have you been on the website, voting for yourself?**
 

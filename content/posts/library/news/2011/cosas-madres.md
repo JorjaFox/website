@@ -26,13 +26,13 @@ Her genuine interest in environmental conservation and her love of travel allowe
 
 The team also traveled to the Ecuadorian Amazon, the Achuar territory, the last natural enclave where the Amazon rainforest is still in its original state. There they were greeted by one of the leaders of these mythical warriors ancestral protectors of the environment and ancient secrets accumulated by countless generations. They were allowed to film the first dance of the warriors who integrate youth into adulthood, unique shots that show the world our rich culture.
 
-&#8212;-
+--
 
 ï¿¼The team traveled to the Hacienda located in the Cotopaxi Yanahurco with an impressive logistical deployment that included the use of a helicopter provided by Icarus pilot in command of the most experienced, Captain Mario Acosta, Carlos Gavela accompanied the cameraman, who despite weather adversity, managed to land Yanahurco flawlessly.
 
 Earlier, at about 5 am, three 4&#215;4 vehicles with the rest of the team left for Quito to meet the helicopter, along with replenishment. Already in the hacienda Yanahurco a small army comprised of cameramen, sound engineers, veterinarians and scientists met with the sole purpose of achieving the reintegration of a spectacled bear a specific location where other bears of the same species inhabit. The dedication of all participants and the expertise and professionalism of the pilot allowed the animal to carry the beautiful natural habitat.
 
-&#8212;-
+--
 
 The project included the participation of the teacher and scientist Mark Blazis American who writes the newspaper column on the environment most readable of the United States.
 
@@ -40,15 +40,15 @@ In Quito, Fox was the guest of honor of the first Boutique Hotel del Pais "Cafe 
 
 Jorja fell in love, so to speak, of La Mariscal, for its cultural diversity and quality services, enjoy a very good coffee at the Plaza Foch Intag and walking through the crowded streets of the neighborhood was surprised by the books of the Bank museum central and craft market acquired different gifts for various friends and family. Thanks Surtrek tour operator, tours of the various different parts of the country were performed as a symphony between good service and landscape.
 
-&#8212;-
+--
 
 The award-winning and internationally recognized Kapawi Lodge was the place to stay before heading to the Galapagos Islands days after the tsunami and to the surprise of all National Park Authorities, had deployed a unique operation to protect the endangered species fully minimizing the negative effects of this natural phenomenon.
 
-&#8212;-
+--
 
 The visit to the islands aboard the yacht development "La Pinta" flagship vessel of the fleet of Metro-political Touring. While the famous actress watched "Lonesome George" commented that during the filming of CSI episode the script specified that she left the United States to come to Galapagos to meet George, the last of his kind. Coincidence?
 
-&#8212;-
+--
 
 Hawks to be more endemic species is one of the most surprising of "The Enchanted" because there are only about 200 hawks in the whole archipelago. It would warm magnetism and Jorja, or the magical power of Galapagos hawks but incredibly three, two adults and a juvenile accompanied the actress to every place he went.
 

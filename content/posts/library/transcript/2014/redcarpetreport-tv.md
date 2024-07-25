@@ -33,9 +33,8 @@ Jorja Fox at the 30th Annual IDA Documentary Awards Gala #IDAawards
 
 **QM:** Are you a- Obviously you a fan, yes?
 
-**JF:** Yes. You know, I think everybody has a couple heroes in their lives. For many, many people, Robert Redford is one of those people. He's absolutely one of mine from the time that I can remember. I am a huge, huge &#8212; not only fan of his but he's been a personal hero for me. So yeah, it's going to be incredibly exciting to see him. An honor he clearly deserves, and I'm sure it's going to be fun to see.
+**JF:** Yes. You know, I think everybody has a couple heroes in their lives. For many, many people, Robert Redford is one of those people. He's absolutely one of mine from the time that I can remember. I am a huge, huge - not only fan of his but he's been a personal hero for me. So yeah, it's going to be incredibly exciting to see him. An honor he clearly deserves, and I'm sure it's going to be fun to see.
 
 **QM:** That's so cool. Thank you so much, have fun tonight!
 
 **JF:** Alright, thank you.
-

@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Jorja Fox to leave &#8216;CSI'"
+newstitle: "Jorja Fox to leave 'CSI'"
 newsauthor: Earth Times
 newssource: Earth Times
 newsurl: http://www.earthtimes.org

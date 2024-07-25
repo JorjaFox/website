@@ -131,7 +131,7 @@ And why is it over so many years it seems like there's been some sort of battle-
 
 **PITC: **Yeah!
 
-**JF:** And it took them a *really long time*&#8212; I think that they &#8212; that there was a connection between them and a chemistry but it took them both a really long time to both decide that they could actually spend their lives with another person. I think they both kind of thought of themselves as loners, and that maybe, that kind of a relationship wouldn't necessarily be something they'd experience, and they were able to make it work, you know, that's a great message too, you know, you may feel sometimes like you have trouble connecting with people, but there *is* somebody, somewhere, out there, you know, that might make life more fun, you know, if you share it with them.
+**JF:** And it took them a *really long time*- I think that they - that there was a connection between them and a chemistry but it took them both a really long time to both decide that they could actually spend their lives with another person. I think they both kind of thought of themselves as loners, and that maybe, that kind of a relationship wouldn't necessarily be something they'd experience, and they were able to make it work, you know, that's a great message too, you know, you may feel sometimes like you have trouble connecting with people, but there *is* somebody, somewhere, out there, you know, that might make life more fun, you know, if you share it with them.
 
 **PITC:** Even in a forensics lab!
 

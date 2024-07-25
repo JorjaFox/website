@@ -31,6 +31,6 @@ Initially Corday is asked, by Kerry, if she wants to file a complaint against Ro
 
 **Doyle:** Guess he thought anything goes with the gay chick.
 
-<hr>
+---
 
 **Doyle :** Self-respect is a bitch.

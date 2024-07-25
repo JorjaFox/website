@@ -34,4 +34,3 @@ Her film roles have included The Jerky Boys, Dead Funny, Alchemy, and the critic
 The Friendship Caravan, Inc. is a not-for-profit American organization dedicated to promoting multi-cultural understanding and mutual respect through educational programs, discussions and media-friendly cultural events.
 
 The Friendship Caravan's programs are non-political; they endeavor to reach out to and include all constituencies. In 2004 and 2005, they are focused, in particular, on the commonalities between Americans and people of the Kingdom of Morocco.
-

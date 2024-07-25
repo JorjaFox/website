@@ -20,7 +20,7 @@ Although it hasn't been definitively confirmed, multiple sources have said that 
 
 Her final show is said to air November 9, in an episode titled "Hello Goodbye." While Fox's ability to give details is limited since she is still under contract, she does give a few teasers as to how the relationship between Sara and Grissom will develop during these last few episodes with her.
 
-She told "TV Guide", "There's going to be a wealth of information that we're going to find out about Sara and Grissom in season 8. We shot five episodes so far, and I think it's going to be a really exciting, interesting season. The writers have done a phenomenal job. There have been so many twists and turns already, and little bombs that we've dropped, I'm already blown away. I'm like, &#8216;Where's this going? We're only in episode 5.'"
+She told "TV Guide", "There's going to be a wealth of information that we're going to find out about Sara and Grissom in season 8. We shot five episodes so far, and I think it's going to be a really exciting, interesting season. The writers have done a phenomenal job. There have been so many twists and turns already, and little bombs that we've dropped, I'm already blown away. I'm like, 'Where's this going? We're only in episode 5.'"
 
 "CSI" producers have said that their story would conclude this season, but Jorja Fox doesn't exactly agree. She said, "I can't contradict what one of our producers said, but I can only tell you from my experience, I don't think you're going to get that. This might sound vain, but the story of Sara and Grissom is a little like a fable. And most great fables don't really have 100 percent resolution."
 

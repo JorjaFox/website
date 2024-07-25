@@ -18,7 +18,7 @@ newsurl: http://www.la-confidential.com
 
 **LOS ANGELES CONFIDENTIAL: You're currently starring on *CSI: Crime Scene Investigation*, one of the hottest shows on TV, yet it's rumored your dream job would be to have a show on Animal Planet. Is that true?**
 
-**JORJA FOX:** It was one of those childhood dreams that never completely went away. I worshiped Jacques Cousteau and watched every epiosde of *National Geographic* that aired. I always had that dream about being somebody who was out in the field working with animals &#8212; wild animals in particular. That would be great, traveling all over the world and presenting animals to people.
+**JORJA FOX:** It was one of those childhood dreams that never completely went away. I worshiped Jacques Cousteau and watched every epiosde of *National Geographic* that aired. I always had that dream about being somebody who was out in the field working with animals - wild animals in particular. That would be great, traveling all over the world and presenting animals to people.
 
 **LAG:** Tell us about your dog and cats.
 
@@ -44,5 +44,4 @@ Speaking of trendsetting, I'd also love to plug something I saw on TV... There's
 
 **LAG:** Is there a specific message you'd like to share with the readers?
 
-**JF:** My love and passion is for all things and places wild, and to protect those things and places &#8212; not like a museum, but because [their survival] has a direct impact on everything [else] on this planet.
-
+**JF:** My love and passion is for all things and places wild, and to protect those things and places - not like a museum, but because [their survival] has a direct impact on everything [else] on this planet.

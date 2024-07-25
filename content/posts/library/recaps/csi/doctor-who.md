@@ -33,4 +33,3 @@ Sara and Greg find the body of Heidi Custer, and Sara finds the first evidence, 
 ## Quotes
 
 **Sara:** I understand not wanting to share the details of your personal life with your coworkers.... But you don't share the fruits of your investigative works...?
-

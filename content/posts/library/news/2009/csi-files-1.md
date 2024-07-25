@@ -29,4 +29,3 @@ newsurl: http://www.csifiles.com/interviews/robert_david_hall.shtml
 **CSI Files:** Do you have any favorite episodes or any favorite Doc Robbins moments?
 
 **Hall:** [...] Jorja was always very serious, Marg is a voluptuous woman-it's always nice working with her. [...]
-

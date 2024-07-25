@@ -1,2 +1,4 @@
 imports:
   path: 'github.com/gethinode/hinode'
+
+disableTemplate: ["katex"]

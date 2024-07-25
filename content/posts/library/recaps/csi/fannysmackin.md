@@ -26,7 +26,6 @@ Sara speaks to the second victim of the night, and also processes Greg when he b
 
 ## Quotes
 
-
 - - -
 
 :_(Grissom walks in as Sara is repeatedly kicking a dummy)_

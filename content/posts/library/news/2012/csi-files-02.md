@@ -80,4 +80,3 @@ We just finished Episode Seven and we meet Warrick"s son, who we haven"t seen si
 **CSI Files**: One last question just for fun. Your schedule is incredibly busy, but what shows are you watching during your downtime?
 
 **Fox**: I love *Modern Family*. I usually wait a couple weeks to watch them on my Tivo or try to watch a couple in a row. I"ve been watching *Homeland*; I love *Homeland*. [**David**] **Rambo**"s new show, *Revolution*, I"m watching. I love some of the NatGeo sort of reality programming--*Locked Up Abroad*. And I"m excited about the premiere of *American Horror Story*.
-

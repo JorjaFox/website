@@ -32,4 +32,3 @@ newsurl: http://www.tvchoicemagazine.co.uk/interviewextra/jorja-fox-csi-crime-sc
 **</span>Yes, it's called *How I Became An Elephant*, and it's about a 14 year-old-girl who travels from California to Thailand to see an elephant. It's a conservation film, and a film about habitat. I teamed up with a film-maker here in the US who'd been living in Thailand since 2004. It's in film festivals right now. We're looking at a couple of companies [for distribution] but you can always look for the movie. We have a website called howibecameanelephant.com  you can find out where it's showing there.
 
 [...]
-

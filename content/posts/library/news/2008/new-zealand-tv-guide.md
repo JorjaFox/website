@@ -21,4 +21,3 @@ newsurl: http://tv-guide.co.nz
 **Marg Helgenberger:** We only shot a couple of episodes more after she left but it was sad. Everybody reacted very differently and you don't even really think about it until you have the party and it's your last day and everyone shows up. Then it becomes the big, emotional thing. It hit some people really hard that day. Jorja was sobbing uncontrollably whereas I'd spent some time with her and come to terms with it already. There was also a part of me that actually sort of envied her, that she made this decision to leave this very popular show just because she was ready to try something else. So I was envious but incredibly supportive.
 
 [...]
-

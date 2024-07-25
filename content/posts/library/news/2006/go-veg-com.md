@@ -27,4 +27,3 @@ More than half of the water used in the U.S. goes to animal agriculture, and sin
 Fox knows the stats all too well: "I think society can best be judged on how they treat their elderly, their kids, and their animals. ... If that's something that doesn't resonate with you, think of world hunger, and think of the rain forest depreciating, and think of global warming. All of these things can be traced pretty powerfully to eating meat."
 
 If you'd like to investigate vegetarianism, PETA has all the information to get you started. Order your free vegetarian starter kit today or follow Fox's lead: "[D]o some reading, get on the Web, ... check out PETA."
-

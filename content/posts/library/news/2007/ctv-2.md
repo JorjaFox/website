@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Leaving &#8216;CSI' the &#8216;hardest decision' says Fox  "
+newstitle: "Leaving 'CSI' the 'hardest decision' says Fox  "
 newsauthor: Staff
 newssource: CTV
 newsurl: http://www.ctv.ca
@@ -22,7 +22,7 @@ The actress is an original cast member from debut season in 2000, as a quasi lov
 
 Her departure was featured in an episode entitled "Goodbye and Goodnight." Sidle revisits an earlier case in which killer got away.
 
-Over the course of the investigation, Sidle's mind grows dark and bleak &#8212; and she finally makes it clear why she decides to leave the CSI crew.
+Over the course of the investigation, Sidle's mind grows dark and bleak - and she finally makes it clear why she decides to leave the CSI crew.
 
 Fox didn't say much about what she has planned next and says she "wants to breathe for a second and take a look around."
 

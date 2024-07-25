@@ -21,4 +21,3 @@ This season on *CSI* multiple actors have been in-and-out of episodes, most nota
 Episode 18 this season will feature the entire cast; episode 19 will have series regulars Marg Helgenberger and **Eric Szmanda** (Greg Sanders) M.I.A.; the following episode regulars Jorja Fox and Wallace Langham (Hodges) will not be present; episode 21 Paul Guilfoyle and **David Berman** (David Phillips) will not be present; and in the season finale you can look forward to seeing the entire cast.
 
 [...]
-

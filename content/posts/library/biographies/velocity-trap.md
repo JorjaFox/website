@@ -8,7 +8,7 @@ tags: ["Movies"]
 date: "1996-05-01"
 ---
 
-Jorja was born in New York City to French Canadian immigrant parents. When she was three, the family relocated to a small costal town in Florida. Raised on a narrow barrier island, Jorja has a deep affinity for all things oceanic, big skies, and Jimmy Buffet. Jorja began her acting career at the age of five, when she landed the coveted role of the &#8216;Rooster' in the children's classic "Chicken Little."
+Jorja was born in New York City to French Canadian immigrant parents. When she was three, the family relocated to a small costal town in Florida. Raised on a narrow barrier island, Jorja has a deep affinity for all things oceanic, big skies, and Jimmy Buffet. Jorja began her acting career at the age of five, when she landed the coveted role of the 'Rooster' in the children's classic "Chicken Little."
 
 By the time she was sixteen, she knew she had to move north to New York City to pursue her dream. Jorja debuted in an independent film called ""The Kill Off". Adapted from a Jim Thompson novel, the film noire was accepted to the Sundance Film Festival. Next, Jorja landed a role in "Summer Stories," the only after school special mini-series ever produced. It was directed by Jon Rubenstein for ABC. The success of his anniversary production, propelled Jorja towards a successful television career.
 

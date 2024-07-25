@@ -27,4 +27,3 @@ Again I say, ick. (Granted, that is not the first word that came to mind.) OK, I
 Despite the setback, Sara/Jorja and Catherine/Marg are a very cute couple, obviously destined for more than friendship. Just check out the boob touching.
 
 Don't you think they belong together? What are your thoughts about this (icky) spoiler?
-

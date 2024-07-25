@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Fans Continue to Show Support for Former &#8216;CSI' Actress  "
+newstitle: "Fans Continue to Show Support for Former 'CSI' Actress  "
 newsauthor: Kris De Leon
 newssource: Buddy TV
 newsurl: http://www.buddytv.com
@@ -25,4 +25,3 @@ Fox, who left the show after seven yeas of playing the forensic scientist, is pr
 "I've been thinking about leaving for a year and a half. I had to get up the courage. Maybe I'm just having a midlife crisis. Maybe this will be the worst decision I ever make," Fox told the New York Post.
 
 "Theater is one of my loves, so I'm open for that after 11 and a half years of working in primetime TV for "ER", "The West Wing" and "CSI". I've never been to college, and I think about that. But I kept putting it off, and I am also thinking about having a child, and that's really important. Also, I want to do a lot of traveling and surfing - two of my hobbies. I have a one-woman little play about Dusty Springfield opening February 2 at the Renberg Theater in Hollywood," Fox added.
-

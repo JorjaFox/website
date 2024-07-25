@@ -20,4 +20,3 @@ CSI: Crime Scene Investigation CBS
 Last season ended with the revelation that Grissom (William Petersen) is losing his hearing. But producers say we shouldn't expect his condition to dominate the season; instead, look for Sara (Jorja Fox) to strike up a romance with the cute guy she met last season who didn't mind her smell.
 
 [...]
-

@@ -49,4 +49,3 @@ In the end, Sara moves to the Swing shift, so she's no longer under Grissom's su
 - - -
 
 **Sara:** Besides -- I could use more daylight in my life.
-

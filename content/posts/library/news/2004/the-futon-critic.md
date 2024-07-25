@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "Pay Dispute Sacks &#8216;C.S.I.'s' Fox, Eads"
+newstitle: "Pay Dispute Sacks 'C.S.I.'s' Fox, Eads"
 newsauthor: Staff
 newssource: The Futon Critic
 newsurl: http://www.thefutoncritic.com
@@ -26,4 +26,3 @@ Each of the show's principal cast members is in the fifth year of the industry s
 Casting is currently underway for actors to play new characters that will replace Fox and Eads' roles on the show.
 
 No statements have been released from either camp however the news will undoubtedly be a key issue during today's CBS session of the TCA's summer press tour.
-

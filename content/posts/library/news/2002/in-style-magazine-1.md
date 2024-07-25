@@ -29,7 +29,6 @@ newsurl: http://www.instyle.com/
 
 **I love ...** "My house [in L.A.]. I lived in studio apartments with four people in N.Y.C. My house isn't a mansion, but it has a lot of space to think abotu taking care of."
 
-**on a desert island I'd want ...** "1) My pets &#8212; a dog and two cats, 2) an Astroburger, and 3) a nice collection of music."
+**on a desert island I'd want ...** "1) My pets - a dog and two cats, 2) an Astroburger, and 3) a nice collection of music."
 
 **I'd do a nude scene for ...** "World peace. Or if I were facing some serious jail time. But I'm also a sucker for a good bottle of wine and candlelight."
-

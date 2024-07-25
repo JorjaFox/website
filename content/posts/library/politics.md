@@ -5,7 +5,6 @@ layout: library
 categories: ["Politics"]
 tags: ["Index"]
 permalink: /politics/
-flf_icon: statue-of-liberty
 ---
 
 In addition to her [Advocacy](/library/advocacy/), Jorja is very politically active. She spends time with the [Artists & Athletes Alliance](/library/advocacy/artists-athletes/), fights for legislation for the protection of animals, and has spoken out against candidates like George W. Bush.

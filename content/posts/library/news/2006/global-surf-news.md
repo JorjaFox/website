@@ -7,7 +7,7 @@ permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
-newstitle: "World Premier of Documentary &#8216;Accidental Icon: The Real Gidget Story'  "
+newstitle: "World Premier of Documentary 'Accidental Icon: The Real Gidget Story'  "
 newsauthor: Staff
 newssource: Global Surf News
 newsurl: http://www.globalsurfnews.com
@@ -27,4 +27,3 @@ Surf legends and present-day "surfer girls" set the stage and take the Gidget st
 [...]
 
 [http://www.MCOF.org www.MCOF.org]
-

@@ -25,7 +25,7 @@ tags: [ "2013" ]
 
 **Thea Andrews:** Kind of on the other side. They're looking for your DNA.
 
-**Jorja Fox:** Yeah! It impacted me a lot deeper than I thought it would. I've done this for a long time with a lot of guest actors, with lots of different stories, and it was the first time in all- I'm looking at it differently now. If I have to process somebody, or if I'm interrogating someone, it's a hat that I wore for one night that I can't ever go back from. I think I have more empathy than I did. Which is kind of &#8212; My character's always had a lot of empathy in the show, and now I feel even more for people.
+**Jorja Fox:** Yeah! It impacted me a lot deeper than I thought it would. I've done this for a long time with a lot of guest actors, with lots of different stories, and it was the first time in all- I'm looking at it differently now. If I have to process somebody, or if I'm interrogating someone, it's a hat that I wore for one night that I can't ever go back from. I think I have more empathy than I did. Which is kind of - My character's always had a lot of empathy in the show, and now I feel even more for people.
 
 **Thea Andrews:** It is incredible when you think about it. That this is the most watched television show in the world.
 
@@ -37,7 +37,7 @@ tags: [ "2013" ]
 
 **Kevin Fraizer:** People have died a lot on your show.
 
-**Jorja Fox:** That's an even scarier question. I think one of the &#8212; I have no idea how many murders we've solved. I think ... How many murders *haven't* we solved? That one I can probably answer. It's like six.
+**Jorja Fox:** That's an even scarier question. I think one of the - I have no idea how many murders we've solved. I think ... How many murders *haven't* we solved? That one I can probably answer. It's like six.
 
 **Thea Andrews:** People are looking for new crazy kinds.
 
@@ -75,7 +75,7 @@ tags: [ "2013" ]
 
 **Jorja Fox:** Yep, just a little Cheshire Cat. But there will be some Sara and Grissom information in the episode tonight.
 
-**Thea Andrews:** Oh, I thought "Sara information" &#8212;
+**Thea Andrews:** Oh, I thought "Sara information" -
 
 **Kevin Fraizer:** William Peterson's gonna pop on! He's going to be there!
 

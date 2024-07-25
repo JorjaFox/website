@@ -14,9 +14,8 @@ newsurl: http://nymag.com/arts/cultureawards/2006/25307/index1.html
 
 ---
 
-"'9 Gil Grissom and Sara Sidle on &#8216;CSI' "'
+"'9 Gil Grissom and Sara Sidle on 'CSI' "'
 
 Last spring, in the last minute of the last episode of the season, Grissom (William Petersen) looked up from his bedtime reading at Sara (Jorja Fox) in the bathroom door, fresh from a shower. All this reticent fall, they haven't touched and barely smiled, but their intimacy has a resounding vibe.
 
 [...]
-

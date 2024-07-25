@@ -45,4 +45,3 @@ I think the special effects guys try to gross me out. There was one scene this y
 **Do you think Sara and Grissom will ever get together?**
 
 Their storyline is not over, it will get revisited. Because I'm a romantic at heart I would like to see something.
-

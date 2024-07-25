@@ -14,7 +14,7 @@ newsurl: http://www.cnn.com/
 
 ---
 
-**(CNN) &#8212;** Two dozen lions rescued from harrowing conditions at circuses in Bolivia have a new home in Colorado, where they will live outside of cages and roar at the distant Rocky Mountains.
+**(CNN) -** Two dozen lions rescued from harrowing conditions at circuses in Bolivia have a new home in Colorado, where they will live outside of cages and roar at the distant Rocky Mountains.
 
 Animal Defenders International (ADI) brought them last week to Denver, where they were transported to the Wild Animal Sanctuary, to conclude its "Operation Lion Ark."
 

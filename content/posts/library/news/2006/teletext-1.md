@@ -41,4 +41,3 @@ The CSI character who seems to provoke the most interest is the obsessive, enigm
 "We worked together a lot in the first two aeasons and became very close friends" says Jorja Fox. "He thinks he's nothing like Grissom, but I'm not so sure," she adds, laughing. "He is actually really funny but he doesn't have dry quotes in his head like Grissom does-thankfully."
 
 Sara Sidle is a work of fiction, but Jorja Fox admits after playing her for six years, a synergy has developed. "The longer I do It, I feel we're the same person," She admits. "I feel she's an alter ego. We both have that OCD-Type A, focused and, like her, I can socially be a bit off sometimes. I love playing her I have dreams and hopes for her, but she's much smarter that I am I could never be a CSI."
-

@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "Jorja Fox Back On &#8216;CSI'"
+newstitle: "Jorja Fox Back On 'CSI'"
 newsauthor: Staff
 newssource: CBS 2 Chicago
 newsurl: http://www.CBS2chicago.com

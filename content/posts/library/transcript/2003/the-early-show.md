@@ -33,7 +33,7 @@ _(brief clip from "Snuff")_
 
 **Gary Dourdan:** Yeah, definitely. Sometimes I listen to some really heavy, heavy hip-hop, that gets me into a more aggressive thing.
 
-**Jorja Fox:** I listen to like mostly sort of a mixture of rock &#8216;n roll music, but I love everything; I love soul, I love blues, I love Motown. Uh, my character's from San Francisco, so I cannot deny the whole sort of late 60's summer of love thing.
+**Jorja Fox:** I listen to like mostly sort of a mixture of rock 'n roll music, but I love everything; I love soul, I love blues, I love Motown. Uh, my character's from San Francisco, so I cannot deny the whole sort of late 60's summer of love thing.
 
 :"(another brief clip of Jorja and Gary jamming)"
 

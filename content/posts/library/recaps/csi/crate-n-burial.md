@@ -62,4 +62,3 @@ Sara, Nick and Grissom investigate a kidnapping, once Grissom realizes (from evi
 - - -
 
 **Sara:** _(to Grissom)_ Answer is usually in the question -- you taught me that.
-

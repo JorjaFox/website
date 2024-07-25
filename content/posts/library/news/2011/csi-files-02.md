@@ -41,4 +41,3 @@ Question from **emmm**: Are Ted, Eric, George, Marg and Jorja much like their ch
 **Harnois**: I have not tried to convert them to Twitter. It took a long time for me to warm up to it, so im not gonna push it on anyone else. Im old fashioned, so I get her reluctance
 
 [...]
-

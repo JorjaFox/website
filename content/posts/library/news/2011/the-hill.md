@@ -21,4 +21,3 @@ Join CSI's Jorja Fox and The Price is Right's Bob Barker, as well as the Perform
 **Place: **Interior Subcommittee Room B-308, Rayburn House Office Building, Independence Avenue and South Capitol St, DC 20003
 
 **Contact:** Gary Smith at gary@evolotuspr.com or 818-783-0569
-

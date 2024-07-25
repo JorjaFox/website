@@ -14,5 +14,4 @@ newsurl: http://www.digtriad.com/news/article/198438/204/Jorga-Fox-Wants-An-Epis
 
 ---
 
-Washington, DC &#8212; Ever wonder what's happening with Sara and Gil and their long-distance, practically nonexistent relationship on "CSI"? So does Jorja Fox. If she could write her own episode, she'd want to "look at her love affair more closely." She says "it would be amazing if she traveled somewhere kind of exotic to see Grissom and see what he's doing." She says Sara may be happily married, but "she's really lonely." Fox says they've starting filming the episodes leading up to Marg Helgenberger's departure after 12 seasons.
-
+Washington, DC - Ever wonder what's happening with Sara and Gil and their long-distance, practically nonexistent relationship on "CSI"? So does Jorja Fox. If she could write her own episode, she'd want to "look at her love affair more closely." She says "it would be amazing if she traveled somewhere kind of exotic to see Grissom and see what he's doing." She says Sara may be happily married, but "she's really lonely." Fox says they've starting filming the episodes leading up to Marg Helgenberger's departure after 12 seasons.

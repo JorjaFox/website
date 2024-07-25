@@ -14,7 +14,7 @@ newsurl: http://blogs.kansascity.com/tvbarn/2009/01/about-that-sent.html
 
 ---
 
-The final moment of Gil Grissom's "CSI" career &#8212; and the surprise first moment of the rest of his life &#8212; were in the planning stages for two years.
+The final moment of Gil Grissom's "CSI" career - and the surprise first moment of the rest of his life - were in the planning stages for two years.
 
 That may be why the closing scene of Thursday's episode of "CSI" was so satisfying. Yes, we are going to discuss spoilers here, so run to your DVR or cbs.com and get caught up. We'll wait.
 
@@ -24,7 +24,7 @@ The departure of William Petersen's character from in front of the camera was ma
 
 That story arc, which dominated the show's 2006-2007 season, involved the hunt for a serial killer who left behind perfectly detailed miniatures of her crime scenes. At one point, Fox's character, Sara Sidle, was kidnapped by the killer, and that experience was cited in her eventual departure from 'CSI' last season.
 
-Sara and Gus had been a romantic item since year four of 'CSI.' Viewers seemed to like the idea of these two in love, though many reacted badly when the affair went away for nearly two years only to reappear suddenly &#8212; some thought it a shameless ploy at a time when "CSI" was getting its first serious ratings challenge in years, from ABC's soapy "Grey's Anatomy."
+Sara and Gus had been a romantic item since year four of 'CSI.' Viewers seemed to like the idea of these two in love, though many reacted badly when the affair went away for nearly two years only to reappear suddenly - some thought it a shameless ploy at a time when "CSI" was getting its first serious ratings challenge in years, from ABC's soapy "Grey's Anatomy."
 
 When last seen on the show, Sara was leaving to work on her personal issues. Well, apparently she worked through them just fine, and sent word to Gus to come see her in the rainforest of Costa Rica. There the couple shared a long moment of passion as Thursday's episode went to black.
 

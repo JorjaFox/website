@@ -46,4 +46,3 @@ After solving the case, Sara and Nick ask Grissom out to breakfast, but he prefe
 
 **Grissom:** Dermastidae masculatus.
 **Sara:** That's Latin for 'You're hiding a dead body.'
-

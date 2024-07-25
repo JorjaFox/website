@@ -41,4 +41,3 @@ The merry prankster calls her Detective Seagull, though Sara corrects him. When 
 - - -
 
 **Sara:** This grass ain't hay.
-

@@ -21,4 +21,3 @@ The time has finally come for fans to bid farewell to one of the key players of 
 In the seventh episode of the season 8, a suspect from Sara's past comes back to hunt her, causing her to question her career as a "CSI". Not much has been revealed about Sara's last episode but according to "TV Guide", she leaves at night in a "vehicle of some sort and that the episode ends with a close-up of a different character."
 
 [...]
-

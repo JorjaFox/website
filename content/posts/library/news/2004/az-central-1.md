@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "2 stars of &#8216;CSI' reportedly fired"
+newstitle: "2 stars of 'CSI' reportedly fired"
 newsauthor: Staff
 newssource: AZ Central
 newsurl: http://www.azcentral.com/
@@ -22,4 +22,3 @@ The report cites a source who says the two wanted more money.
 The report of the cast changes comes the day CSI received four Emmy nominations, including one for best drama. The network is said to be casting new roles for the top-rated show.
 
 CBS network officials aren't commenting on the report.
-

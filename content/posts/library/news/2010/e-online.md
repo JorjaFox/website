@@ -21,4 +21,3 @@ newsurl: http://www.eonline.com/uberblog/watch\_with\_kristin/b213428\_spoiler\_
 It's true! The Mrs. Grissoms in question are Sarah Sidle (the current Mrs. Grissom)...and Grissom's mom! Producers are casting now for the older Mrs. Grissom, who is described as a "strong, confident, intelligent and influential woman has never allowed her lack of hearing to keep her from doing anything she wanted, and has no trouble making her feelings known to one and all." She's a former librarian, who, while being deaf, is fluent in American Sign Language as well as being a capable English speaker. Any ideas for casting other than maybe **Marlee Matlin** in old-lady makeup?
 
 [...]
-

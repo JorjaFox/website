@@ -20,4 +20,3 @@ Question: I am a huge CSI fan. I was wondering if you have heard anything about 
 Matt: I think dating would be a huge mistake for CSI, but not because I'm an ageist or anything. This isn't (thankfully) NYPD Blue, where the entire office seems to be pairing off with each other. Keeping the attraction muted, as subtext, allows us to be fascinated by the possibilities. Both characters are pretty well defined as somewhat anti-social loners who occasionally pine for a fuller life. If they began a romantic relationship, I think it would diminish our interest in their interactions almost immediately. Best just to be left wondering.
 
 [...]
-

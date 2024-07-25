@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Romance Secrets from &#8216;CSI'"
+newstitle: "Romance Secrets from 'CSI'"
 newsauthor: Staff
 newssource: ET Online
 newsurl: http://www.etonline.com

@@ -9,12 +9,12 @@ categories: ["Interviews"]
 tags: ["2002"]
 ---
 
-**LARRY KING, HOST:** Tonight, unsolved mysteries, Jon Bonet Ramsey, Chandra Levy &#8212; in the news. No wonder one of TV's top drama's is "CSI Crime Scene Investigation". This phenomenal series is about following evidence and closing cases. Glory details, high tech twists, it got them all.
+**LARRY KING, HOST:** Tonight, unsolved mysteries, Jon Bonet Ramsey, Chandra Levy - in the news. No wonder one of TV's top drama's is "CSI Crime Scene Investigation". This phenomenal series is about following evidence and closing cases. Glory details, high tech twists, it got them all.
 
 "(VIDEO CLIP)"
 
 **KING:** But, how realistic are the corpses and the clues?
-Joining us from LA, stars from the gripping show, killing the competition, and from Detroit, world renowned forensic expert Dr. Henry Lee, with insights on "CSI's" accuracy and high profile real life crimes, and it's all next on LARRY KING WEEKEND. "CSI" has been extraordinarily popular, and surprising hit on CBS every Thursday night at 9:00. What a cast, and what an idea. The concept is "CSI" and the cast joins us, William PETERSEN who plays Gil Grissom, the Senior Forensic Officer heading the team Criminalistics Bureau in Los Vegas. Marg Helgenberger plays Catherine Willows, she's a top member of that team, also a single mom and a former stripper &#8212; cover every angle. Jorja Fox plays Sara Sidle; Sara is an intensely focused member of the team; sometimes seems that work is her whole life. Gary Dourdan &#8212; Dourdan, rather, plays Warrick Brown on "CSI", Warrick's another member of the team of criminalistics, he's highly competitive, he's a talented jazz musician, and has had a gambling problem. This is covering every base known to man. And Elizabeth Devine, story editor and technical consultant for "CSI", veteran criminalist, worked 15 years in the Los Angeles County Sheriff's Department, has a BA in Biology and a Master's in criminalistics, and in Detroit, a frequent guest on this program, Dr. Henry Lee, the world renowned forensic expert, the Chief emeritus for Scientific Services, and the former Commissioner of Public Safety for the state of Connecticut, his new book is "Cracking Cases, the Science of Solving Crimes." Elizabeth, were you involved in this, from the get go?
+Joining us from LA, stars from the gripping show, killing the competition, and from Detroit, world renowned forensic expert Dr. Henry Lee, with insights on "CSI's" accuracy and high profile real life crimes, and it's all next on LARRY KING WEEKEND. "CSI" has been extraordinarily popular, and surprising hit on CBS every Thursday night at 9:00. What a cast, and what an idea. The concept is "CSI" and the cast joins us, William PETERSEN who plays Gil Grissom, the Senior Forensic Officer heading the team Criminalistics Bureau in Los Vegas. Marg Helgenberger plays Catherine Willows, she's a top member of that team, also a single mom and a former stripper - cover every angle. Jorja Fox plays Sara Sidle; Sara is an intensely focused member of the team; sometimes seems that work is her whole life. Gary Dourdan - Dourdan, rather, plays Warrick Brown on "CSI", Warrick's another member of the team of criminalistics, he's highly competitive, he's a talented jazz musician, and has had a gambling problem. This is covering every base known to man. And Elizabeth Devine, story editor and technical consultant for "CSI", veteran criminalist, worked 15 years in the Los Angeles County Sheriff's Department, has a BA in Biology and a Master's in criminalistics, and in Detroit, a frequent guest on this program, Dr. Henry Lee, the world renowned forensic expert, the Chief emeritus for Scientific Services, and the former Commissioner of Public Safety for the state of Connecticut, his new book is "Cracking Cases, the Science of Solving Crimes." Elizabeth, were you involved in this, from the get go?
 
 **ELIZABETH DEVINE, STORY EDITOR AND TECHNICAL CONSULTANT, CSI:** Yes, not with the pilot, but I've been involved with every single show.
 
@@ -28,17 +28,17 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** Marg?
 
-**MARG HELGENBERGER, ACTRESS, CSI:** It was a pilot script that my agent tipped me off too, a couple years ago and said, "This is the one to go after, if you want &#8212; if you're interested", and I, you know, read it immediately and said, "You're right", and I just &#8212; I had a really strong feeling about this show.
+**MARG HELGENBERGER, ACTRESS, CSI:** It was a pilot script that my agent tipped me off too, a couple years ago and said, "This is the one to go after, if you want - if you're interested", and I, you know, read it immediately and said, "You're right", and I just - I had a really strong feeling about this show.
 
 **KING:** You did, so did William. What about you Gary?
 
-**GARY DOURDAN, ACTOR, CSI:** A &#8212; Billy gave me the job.
+**GARY DOURDAN, ACTOR, CSI:** A - Billy gave me the job.
 
 **KING:** Billy is William.
 
 **DOURDAN:** Yes.
 
-**KING:** We &#8212; they call you Billy?
+**KING:** We - they call you Billy?
 
 **DOURDAN:** Les Moonev, William Petersen, Anthony Zukier, they had a lot to do with me, getting the gig, fantastic reading, fantastic script, easily to get involved with, right away.
 
@@ -48,7 +48,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** Jorja?
 
-**JORJA FOX, ACTRESS, CSI:** Actually I joined the show, when Liz joined the show in episode one, I was, sort of, a last minute cast edition to the show, and I came mesmerized also, completely &#8212; it's like a trance, I think that a lot of us go under and &#8212; yes, so, I joined the show late, my typical standards.
+**JORJA FOX, ACTRESS, CSI:** Actually I joined the show, when Liz joined the show in episode one, I was, sort of, a last minute cast edition to the show, and I came mesmerized also, completely - it's like a trance, I think that a lot of us go under and - yes, so, I joined the show late, my typical standards.
 
 **KING:** Dr. Lee, what is a criminal list?
 
@@ -66,7 +66,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 "(VIDEO CLIP)"
 
-**KING:** Bill Petersen, how much did you get to learn about your &#8212; about this craft from play it?
+**KING:** Bill Petersen, how much did you get to learn about your - about this craft from play it?
 
 **PETERSEN:** The great thing about the show is, we learn everyday.
 
@@ -84,11 +84,11 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** Marg, how do you see your person you play?
 
-**HELGENBERGER:** Unlike Billy's character who is an entomologist, in addition to being a criminalist, I came to this career through another path. And I just think that, the path that she took is, kind of, interesting, and that' the thing of the exotic dancer. But I've learned an enormous amount of &#8212; about criminalist terminology, forensic science, since starting this show, and as Billy said, every day we learn something new &#8212; and all the words are spelled out phonetically for us. And Liz is standing by to give us the definition of what we're talking about.
+**HELGENBERGER:** Unlike Billy's character who is an entomologist, in addition to being a criminalist, I came to this career through another path. And I just think that, the path that she took is, kind of, interesting, and that' the thing of the exotic dancer. But I've learned an enormous amount of - about criminalist terminology, forensic science, since starting this show, and as Billy said, every day we learn something new - and all the words are spelled out phonetically for us. And Liz is standing by to give us the definition of what we're talking about.
 
 **KING:** By the way Liz, is everything on the show correct, or do they take literary license.
 
-**DEVINE:** Well, we have to do some literary license, we do &#8212; speed things up for television, but everything scientifically we try to keep as accurate as possible and do a lot of research and try to help our actors know that what they're saying is the real thing.
+**DEVINE:** Well, we have to do some literary license, we do - speed things up for television, but everything scientifically we try to keep as accurate as possible and do a lot of research and try to help our actors know that what they're saying is the real thing.
 
 **KING:** Do criminalists solve crimes?
 
@@ -108,7 +108,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** Jorja, how do you see Sara?
 
-**FOX:** Sara is very intense. She might be a little excessive compulsive; she has a great amount of patience with focus and detail. I think it's funny, because Michelle , we learn so much everyday on the show, but so much of it goes into my short-term memory, because something that I'm memorizing for acting and I wish I retained more. I come to loose all the highlights. What was that thing we did two months ago, that I forgot to &#8212; I answered it out so I could learn that new thing.
+**FOX:** Sara is very intense. She might be a little excessive compulsive; she has a great amount of patience with focus and detail. I think it's funny, because Michelle , we learn so much everyday on the show, but so much of it goes into my short-term memory, because something that I'm memorizing for acting and I wish I retained more. I come to loose all the highlights. What was that thing we did two months ago, that I forgot to - I answered it out so I could learn that new thing.
 
 **KING:** We'll talk about why their show's a hit, other things they do, as we wend our way through "CSI", the end of a season of extraordinary success, don't go away.
 
@@ -116,15 +116,15 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** We're back with the cast of "CSI", and we want all of your opinions on this, why is it a hit William? No one forecasted it, it was supposed to be the fugitive right, the big CBS hit.
 
-**PETERSEN:** I believe CBS thought the &#8212; it would be the fugitive ...
+**PETERSEN:** I believe CBS thought the - it would be the fugitive ...
 
 **KING:** They did not think "CSI" would be a hit, I mean they were happy of course.
 
-**PETERSEN:** I'm sure not, but &#8212; I don't know, I always thought it was going to be a hit because &#8212; I did a movie several years ago, called "Man Hunter", which was based on a Thomas Harris ...
+**PETERSEN:** I'm sure not, but - I don't know, I always thought it was going to be a hit because - I did a movie several years ago, called "Man Hunter", which was based on a Thomas Harris ...
 
 **KING:** Hannibal Lector's first introduction to us.
 
-**PETERSEN:** And people, for years, had been talking about &#8212; to me about that, and about that and, you know, the science that goes into finding these people and in that case it was profiling, criminal profiling, which is very different than what we're doing. But, I just knew that there was a &#8212; especially since the O.J. trial, there was this language out there, that I'm not sure that the public was versed in, but they knew what exactly was ...
+**PETERSEN:** And people, for years, had been talking about - to me about that, and about that and, you know, the science that goes into finding these people and in that case it was profiling, criminal profiling, which is very different than what we're doing. But, I just knew that there was a - especially since the O.J. trial, there was this language out there, that I'm not sure that the public was versed in, but they knew what exactly was ...
 
 **KING:** That's correct, so wouldn't you have bet then, it would have been hard then to be a hit when you're saying a lot of words, we don't know what you're talking about.
 
@@ -140,7 +140,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** You think you inspire people to ...
 
-**HELGENBERGER:** I know, I have. I've had teenagers come to me, or parents of teenagers come up to me and say, "My child is changed or I'm changing what I want to do for the rest of my life", or whatever, what does an 18 &#8212; 17 year old know for ...
+**HELGENBERGER:** I know, I have. I've had teenagers come to me, or parents of teenagers come up to me and say, "My child is changed or I'm changing what I want to do for the rest of my life", or whatever, what does an 18 - 17 year old know for ...
 
 **KING:** Gary, why do you think the public has responded?
 
@@ -162,7 +162,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **LEE:** Yes. I really think Bill and Jorja say something really profound, very good, say everyday learn something, and I be in this business 45 years now, everyday I'm still learning. Like every time, lectured to the detective, the day you start, feel you know everything, that's the time you should retire.
 
-**KING:** Those are &#8212; take real life stories, right Marg, stories that happened in real life and translate, as "Law & Order" does.
+**KING:** Those are - take real life stories, right Marg, stories that happened in real life and translate, as "Law & Order" does.
 
 **HELGENBERGER:** Yes.
 
@@ -188,7 +188,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **FOX:** Yes, I've looked at dead bodies.
 
-**HELGENBERGER:** I've only seen one dead body in a morgue, and it was not intact, in other words it was a &#8212; it was a heart attack victim.
+**HELGENBERGER:** I've only seen one dead body in a morgue, and it was not intact, in other words it was a - it was a heart attack victim.
 
 **KING:** I see, have you seen ...
 
@@ -200,9 +200,9 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** They're a dead beat.
 
-**PETERSEN:** They're amazing. We'll do a scene &#8212; we will be doing a scene and the coroner's lab and the actor will be on the slab for an hour while we setup the lights and do all of that stuff, we'll forget that the person, is an actual living person.
+**PETERSEN:** They're amazing. We'll do a scene - we will be doing a scene and the coroner's lab and the actor will be on the slab for an hour while we setup the lights and do all of that stuff, we'll forget that the person, is an actual living person.
 
-**HELGENBERGER:** Well, you know, we get asked that question a lot, about is it gory for you all? But &#8212; first &#8212; these actors are all made up as corpses, but then they'll like poke their head in and they'll say, "Hey, you guys where's craft service?", you know, so it just breaks the illusion, but when you actually see it on air, or a tape of the program, I'm sometimes, it's like too intense for me. So, it's when you in the moment, it doesn't really phase you, and I imagine it might be something when you're actually working, and you don't have time to think about it, but when you see it after the fact, it's ...
+**HELGENBERGER:** Well, you know, we get asked that question a lot, about is it gory for you all? But - first - these actors are all made up as corpses, but then they'll like poke their head in and they'll say, "Hey, you guys where's craft service?", you know, so it just breaks the illusion, but when you actually see it on air, or a tape of the program, I'm sometimes, it's like too intense for me. So, it's when you in the moment, it doesn't really phase you, and I imagine it might be something when you're actually working, and you don't have time to think about it, but when you see it after the fact, it's ...
 
 **KING:** We'll take a break and be back with lots more about "CSI", don't go away.
 
@@ -210,7 +210,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** Dr. Lee, how realistic is the realism.
 
-**LEE:** Well, its pretty real, and of course, just talking, you guys talk about a morgue, autopsy &#8212; day before yesterday I was in Detroit with Dr. Wack , we went to the autopsy room to dissecting some bodies, just look at it, you know, nobody enjoy to see others misfortune. But, on the other hand, we can't stop to feel sympathize to the victim or so the smell of the morgue, the death, it's kind of relapse thing . I still remember the first homicide, when 40 some years ago, is a dismembering case, after work on that case for months, I don't like to eat meat. I almost become a vegetarian. Reality and the show, of course, is still a little bit apart, but the reality usually it's a teamwork. We need more people, we have the first police officer detective, laboratory scientist, medical examiner, district attorney, everybody have to work together, so important.
+**LEE:** Well, its pretty real, and of course, just talking, you guys talk about a morgue, autopsy - day before yesterday I was in Detroit with Dr. Wack , we went to the autopsy room to dissecting some bodies, just look at it, you know, nobody enjoy to see others misfortune. But, on the other hand, we can't stop to feel sympathize to the victim or so the smell of the morgue, the death, it's kind of relapse thing . I still remember the first homicide, when 40 some years ago, is a dismembering case, after work on that case for months, I don't like to eat meat. I almost become a vegetarian. Reality and the show, of course, is still a little bit apart, but the reality usually it's a teamwork. We need more people, we have the first police officer detective, laboratory scientist, medical examiner, district attorney, everybody have to work together, so important.
 
 **KING:** From what this case, wouldn't you say that the Ramsey case was a classic example of poor criminalist work at the scene?
 
@@ -218,27 +218,27 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **LEE:** Yes, they do, they did have some Sheriff Department, forensic people on border police department and detective dust the crime scene.
 
-**DEVINE:** Well, it's a lot different to do &#8212; what did they have no murders, a couple of murders in three years versus, you know what we say in LA county, where our criminalists do go into the crime scenes, collect the evidence, come back and analyze it, and you can only get good at that, the more you do it. So, it's skill takes repetitiveness and going out to the crime scenes a lot and I think there were some problems, definitely problems with that case.
+**DEVINE:** Well, it's a lot different to do - what did they have no murders, a couple of murders in three years versus, you know what we say in LA county, where our criminalists do go into the crime scenes, collect the evidence, come back and analyze it, and you can only get good at that, the more you do it. So, it's skill takes repetitiveness and going out to the crime scenes a lot and I think there were some problems, definitely problems with that case.
 
 **LEE:** When you have to work together, but the many laboratory criminals doesn't go to the scene. Many time the detective goes to the scene, however they don't training in CSI .
 
-**KING:** That's what I question when I watch the show sometimes; do criminalists &#8212; are always go to the scene? Do you know?
+**KING:** That's what I question when I watch the show sometimes; do criminalists - are always go to the scene? Do you know?
 
 **DEVINE:** It depends on the jurisdiction, it depends on the department.
 
 **PETERSEN:** It also depends on whether they are qualified to go to the scene. They're in different stages of their development.
 
-**KING:** Now, how do you approach it as an actor, when you come to the scene, how do you see &#8212; your role is what there? It's a mystery to you, right?
+**KING:** Now, how do you approach it as an actor, when you come to the scene, how do you see - your role is what there? It's a mystery to you, right?
 
-**PETERSEN:** Well, its &#8212; we all know the scripts in advance, we've read the whole thing. So, the goal as an actor, is to try and make sure we don't get ahead of what we know, of what the character knows. So, the character has to play the mystery. The actor knows what's happening.
+**PETERSEN:** Well, its - we all know the scripts in advance, we've read the whole thing. So, the goal as an actor, is to try and make sure we don't get ahead of what we know, of what the character knows. So, the character has to play the mystery. The actor knows what's happening.
 
 **KING:** You might shoot a last scene first, depending on what's set up that day right?
 
-**FOX:** You can shoot a show in the morning, and start a new show in the afternoon, and so &#8212; I think that's really keeping the scenes together, in your head, and knowing where you're coming from and where you're supposed to be going, what stage of the case are you in, and that can get a little ...
+**FOX:** You can shoot a show in the morning, and start a new show in the afternoon, and so - I think that's really keeping the scenes together, in your head, and knowing where you're coming from and where you're supposed to be going, what stage of the case are you in, and that can get a little ...
 
 **KING:** It can drive you nuts?
 
-**HELGENBERGER:** It can drive you a little crazy, especially if there's script changes on a &#8212; from a scene to scene basis, which happens from time to time.
+**HELGENBERGER:** It can drive you a little crazy, especially if there's script changes on a - from a scene to scene basis, which happens from time to time.
 
 **KING:** When you watch the finished show then, are you often surprised?
 
@@ -250,7 +250,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 **KING:** So therefore, you're surprised too, when you watch it.
 
-**DEVINE:** I sometimes am. I &#8212; often they bring me in just to look at the way they set up a special affect, for instance when you go into the body, that we're going past the right organs and it's not, we're not breaking a rib, when we're supposed to be breaking a knee cap, you know, that sort of thing. But, most of the time they do it on their own, and they're really very talented.
+**DEVINE:** I sometimes am. I - often they bring me in just to look at the way they set up a special affect, for instance when you go into the body, that we're going past the right organs and it's not, we're not breaking a rib, when we're supposed to be breaking a knee cap, you know, that sort of thing. But, most of the time they do it on their own, and they're really very talented.
 
 **KING:** Dr. Lee, is a lot of this work, team work?
 
@@ -266,7 +266,7 @@ Joining us from LA, stars from the gripping show, killing the competition, and f
 
 "(VIDEO CLIP)"
 
-**KING:** It has become an extraordinary success story, in television. In fact, Mr. PETERSEN, just asked if it had been renewed, and was just informed, it has been renewed, thus of course Mr. Moones has completely lost his marbles. The guests are William PETERSEN, who plays Gil Grissom on "CSI", the Senior Forensic Officer, one of the show's producer's as well, Marg Helgenberger, one of the 50 most beautiful people in the &#8212; on the planet, according to "People Magazine", also known for her Emmy winning role on "China Beach", and she plays Catherine Willows, Jorja Fox plays Sara Sidle, the intensely focused member of the criminalist team, she was a murder victim in the cult hit "Memento", Gary Dourdan &#8212; Gary Dourdan is Warrick Brown on CSI, he was also credited with appearances on "Swift Justices" and "New York Undercover", and he is another member of the criminalist team, Elizabeth Devine, the story editor and technical consultant for "CSI", and a veteran criminalist herself.
+**KING:** It has become an extraordinary success story, in television. In fact, Mr. PETERSEN, just asked if it had been renewed, and was just informed, it has been renewed, thus of course Mr. Moones has completely lost his marbles. The guests are William PETERSEN, who plays Gil Grissom on "CSI", the Senior Forensic Officer, one of the show's producer's as well, Marg Helgenberger, one of the 50 most beautiful people in the - on the planet, according to "People Magazine", also known for her Emmy winning role on "China Beach", and she plays Catherine Willows, Jorja Fox plays Sara Sidle, the intensely focused member of the criminalist team, she was a murder victim in the cult hit "Memento", Gary Dourdan - Gary Dourdan is Warrick Brown on CSI, he was also credited with appearances on "Swift Justices" and "New York Undercover", and he is another member of the criminalist team, Elizabeth Devine, the story editor and technical consultant for "CSI", and a veteran criminalist herself.
 And Dr. Henry Lee is the world renowned forensic expert, he's in Detroit, and he's the author of the book "Cracking Cases, the Science of Solving Crimes."
 One of the things about the speed of it, do you think Bill , there's some danger when you have the answer on the DNA in two and a half minutes? And it might take two and a half months.
 
@@ -276,11 +276,11 @@ One of the things about the speed of it, do you think Bill , there's some danger
 
 **PETERSEN:** You have all the equipment you could possibly have. There's labs across the country that don't have much of the stuff that we have. One of the problems in solving crimes today is, having the funding.
 
-**KING:** Well, do you think the public, Elizabeth, then wants answers right away? You see a drought &#8212; was isn't it over in two days?
+**KING:** Well, do you think the public, Elizabeth, then wants answers right away? You see a drought - was isn't it over in two days?
 
-**DEVINE:** I think there is that possibility, but I also think that trained for most, which the people who do this are used to testimony, and they're used to telling &#8212; I'm used to telling jury's that, "Hey that's television and this is real." But, we also have a job to do on the show, and that's to further the story and the only way to do that is not to wait six months for DNA, we're going to have to get it quickly, so that we can move on with the story. So, we do take that sheet , and it's just something that we do.
+**DEVINE:** I think there is that possibility, but I also think that trained for most, which the people who do this are used to testimony, and they're used to telling - I'm used to telling jury's that, "Hey that's television and this is real." But, we also have a job to do on the show, and that's to further the story and the only way to do that is not to wait six months for DNA, we're going to have to get it quickly, so that we can move on with the story. So, we do take that sheet , and it's just something that we do.
 
-**KING:** Jorja, what do you think drives the character? I know you've had a personal &#8212; a friend of yours lost someone very close to her, right, a mother?
+**KING:** Jorja, what do you think drives the character? I know you've had a personal - a friend of yours lost someone very close to her, right, a mother?
 
 **FOX:** Yes, and I think all of us at some point have had a very personal experience with death. You know, as we were talking before, the stories that are true on the show, you always want to tell them with the most dignity that you can. You know it's a TV show, but, you know, please ...
 
@@ -308,7 +308,7 @@ One of the things about the speed of it, do you think Bill , there's some danger
 
 **KING:** But, they don't get the headlines.
 
-**PETERSEN:** No, they don't. But, for them, to be able to &#8212; I remember being in Vegas when one of the "CSI's" had spent two weeks combing a car for fingerprints, and abandoned vehicle that had been stolen, and finally tape lifted a partial thumb print, and he was just &#8212; it was the most unbelievable, he was just lit up, from having finally been able to pull something that may or may not be able to get this thing done. And I mean &#8212; I think that they're, I think that they're heroes as well. I think that they also bring closure to an awful lot of people when there's seeming no closure available.
+**PETERSEN:** No, they don't. But, for them, to be able to - I remember being in Vegas when one of the "CSI's" had spent two weeks combing a car for fingerprints, and abandoned vehicle that had been stolen, and finally tape lifted a partial thumb print, and he was just - it was the most unbelievable, he was just lit up, from having finally been able to pull something that may or may not be able to get this thing done. And I mean - I think that they're, I think that they're heroes as well. I think that they also bring closure to an awful lot of people when there's seeming no closure available.
 
 **KING:** Well, if they get to tell the family member, here's what happened, here's why it happened.
 
@@ -338,7 +338,7 @@ One of the things about the speed of it, do you think Bill , there's some danger
 
 **KING:** You never give up. You told me once, you were looking at cases from 20 years ago.
 
-**LEE:** Yes, as a matter of fact, this week as you know, you guys &#8212; you will cover that, Skakel case, happened 26 years ago.
+**LEE:** Yes, as a matter of fact, this week as you know, you guys - you will cover that, Skakel case, happened 26 years ago.
 
 **KING:** And you testified in that case.
 
@@ -358,13 +358,13 @@ One of the things about the speed of it, do you think Bill , there's some danger
 
 **KING:** And it took all this time Marg, and they finally discovered in the Danielle van Dam case that she was suffocated. That was the means of death. It took all this time to find that out.
 
-**HELGENBERGER:** Right, I mean the little &#8212; I haven't been following the case closely, but I know the body been quite decomposed, it had decomposed quite a bit, and they said that was part of the reason of the hold up. Am I right Liz, about that?
+**HELGENBERGER:** Right, I mean the little - I haven't been following the case closely, but I know the body been quite decomposed, it had decomposed quite a bit, and they said that was part of the reason of the hold up. Am I right Liz, about that?
 
 **KING:** How they, how they do it, is just amazing. Yes, you would think that everything's hopeless.
 
 **PETERSEN:** Yes, you can't, you would never be able to figure out anything from this.
 
-**KING:** But you can figure out things, I'm reading the book &#8212; bringing the book Michael Connelly, "City of Bones." They find bones from a child, 30 years ago, and they can investigate off bones. They can find method of death off of bones.
+**KING:** But you can figure out things, I'm reading the book - bringing the book Michael Connelly, "City of Bones." They find bones from a child, 30 years ago, and they can investigate off bones. They can find method of death off of bones.
 
 **DEVINE:** Yes, they can.
 
@@ -374,7 +374,7 @@ One of the things about the speed of it, do you think Bill , there's some danger
 
 **KING:** Dr. Lee, one wonders, why weren't you a normal doctor, Park Avenue, $700,000 a year, what are you need dead bodies?
 
-**LEE:** Well, I start my career as a police officer, a detective, as a matter of fact, as a captain in charge detective, 40 some years ago. Then, I become a scientist, and then of course, not have my mother want me to become a regular MD, make a lot of money, but let me tell you Larry &#8212; when I was in high school, I want to become a basketball player. When the coach looked at me 5 8&#8243; he says, you grow another two feet and come back to see me. Then I realized, I can't be a basketball player &#8212; but I'm really interesting in solving crime &#8212; I'm so happy I've become a forensic scientist.
+**LEE:** Well, I start my career as a police officer, a detective, as a matter of fact, as a captain in charge detective, 40 some years ago. Then, I become a scientist, and then of course, not have my mother want me to become a regular MD, make a lot of money, but let me tell you Larry - when I was in high school, I want to become a basketball player. When the coach looked at me 5 8&#8243; he says, you grow another two feet and come back to see me. Then I realized, I can't be a basketball player - but I'm really interesting in solving crime - I'm so happy I've become a forensic scientist.
 
 **KING:** Is it hard William dealing with scripts where people do terrible things to other people.
 
@@ -382,13 +382,13 @@ One of the things about the speed of it, do you think Bill , there's some danger
 
 **KING:** Can we move around on this, I asked William, are you around, you see the worst.
 
-**PETERSEN:** Yes, and you can't believe, we're somewhat inured to all of that. I mean yes, you see it a little bit on the news, you see the newspaper, you hear about things, but when we do these case, and we &#8212; you know, this actually happened, they actually did this. It just makes you, you know, you just want are never sure what to wonder about humanity.
+**PETERSEN:** Yes, and you can't believe, we're somewhat inured to all of that. I mean yes, you see it a little bit on the news, you see the newspaper, you hear about things, but when we do these case, and we - you know, this actually happened, they actually did this. It just makes you, you know, you just want are never sure what to wonder about humanity.
 
 **KING:** Doctor, you ever get used to coming upon a horrendous scene. You ever get used to that?
 
 **LEE:** Yes, everyday. Sometime we go to the crime scene, three, four, times a day. When the victim's family need help, because they usually turn to the police officer, detective, forensic scientist. We're their last hope.
 
-Like, I receive letter almost everyday, sometime 30/40 letters a day, phone calls &#8212; just other day a mother and call me and say her daughter disappear 40 some years ago, and she run out of all the resources, can I help out. Many time, they say their daughter been murdered, husband been murdered, so forensic scientist, you know sometime we hear a lot of sad story.
+Like, I receive letter almost everyday, sometime 30/40 letters a day, phone calls - just other day a mother and call me and say her daughter disappear 40 some years ago, and she run out of all the resources, can I help out. Many time, they say their daughter been murdered, husband been murdered, so forensic scientist, you know sometime we hear a lot of sad story.
 
 Of course, when the case solved, when the family thank us, writing a letter, it's not really say, you can gain in financially, this a group of good people working day and night, helping society.
 
@@ -400,7 +400,7 @@ Of course, when the case solved, when the family thank us, writing a letter, it'
 
 **KING:** Marg, happen to you yet?
 
-**HELGENBERGER:** Do I get confused with my character? Somewhat, but I have to &#8212; the other thing that &#8212; something happened to me the other day, in a airport, I was paying for a newspaper, and this gentleman said to me, "I love your show, whoever writes it has got a sick mind, and you can tell them I said that." I'm going &#8212; one hand he loves it, but then he's like repulsed by it, I think part of the provocative nature of our show ...
+**HELGENBERGER:** Do I get confused with my character? Somewhat, but I have to - the other thing that - something happened to me the other day, in a airport, I was paying for a newspaper, and this gentleman said to me, "I love your show, whoever writes it has got a sick mind, and you can tell them I said that." I'm going - one hand he loves it, but then he's like repulsed by it, I think part of the provocative nature of our show ...
 
 **KING:** Jorja, do you think people think it's sick?
 
@@ -480,7 +480,7 @@ _(VIDEO CLIP)_
 
 **KING:** So, it's not going to be a rival show.
 
-**PETERSEN:** I really don't &#8212; no &#8212; well, no, it's not.
+**PETERSEN:** I really don't - no - well, no, it's not.
 
 **KING:** Well you're "CSI", that's going to be "CSI Miami"?
 

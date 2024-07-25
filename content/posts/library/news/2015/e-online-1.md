@@ -36,4 +36,3 @@ From a fan standpoint, I loved everything about everything that I just saw.
 If I'm looking at the episode with a more critical eye, that was totally and completely ridiculous. Obviously, the bomber was Doug Hutchison. Obviously, Sara and Grissom were destined to be together again. Obviously, all bombs (and there were a lot of bombs) that endangered anyone we cared about were diffused at the very last second. Obviously, bees.
 
 [...]
-

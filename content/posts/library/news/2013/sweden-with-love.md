@@ -82,4 +82,3 @@ Jorja, who was photographed for *Sweden With Love* by **Elizabeth Messina**, has
 Jorja recently produced the award-winning documentary *How I Became An Elephant*, about one young girl's mission to travel to Asia to work with her hero, The Elephant Lady, and save elephants in captivity.
 
 [...]
-

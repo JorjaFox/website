@@ -22,6 +22,6 @@ We spent a few days this past January in sunny California filming our first set 
 
 [...]
 
-The PSAs are in the final stage of post-production. Once they are edited and ready to go, we will be debuting them online. They will be available on our website and YouTube &#8212; as well as our [http://www.facebook.com/group.php?gid=18449414264&utm_source=Spring2008Newsletter&utm_medium=MailChimp Facebook] and [http://www.myspace.com/orangutanoutreach?utm_source=Spring2008Newsletter&utm_medium=MailChimp MySpace] pages. We are also hoping to air them on Animal Planet and at any media outlet that will play them.
+The PSAs are in the final stage of post-production. Once they are edited and ready to go, we will be debuting them online. They will be available on our website and YouTube - as well as our [http://www.facebook.com/group.php?gid=18449414264&utm_source=Spring2008Newsletter&utm_medium=MailChimp Facebook] and [http://www.myspace.com/orangutanoutreach?utm_source=Spring2008Newsletter&utm_medium=MailChimp MySpace] pages. We are also hoping to air them on Animal Planet and at any media outlet that will play them.
 
 [...]

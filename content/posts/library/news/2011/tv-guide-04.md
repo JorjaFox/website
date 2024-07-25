@@ -19,4 +19,3 @@ newsurl: http://tvguidemagazine.com
 Also heading to the lab: Jorja Fox, who appeared in 14 episodes last season, rejoins the team as a "series regular". One show insider says CSI will feel quite different this year, the first script just came in, there's a noticeable change", he says. "It recaptures the show's whimsy."
 
 [...]
-

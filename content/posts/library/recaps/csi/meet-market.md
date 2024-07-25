@@ -46,4 +46,3 @@ Meanwhile, on his sabbatical, Grissom writes Sara a letter, claiming their parti
 
 **Jesse** Who doesn't want to be swept off their feet?
 **Sara:** I'm not sure that it's something I'd pay for.
-

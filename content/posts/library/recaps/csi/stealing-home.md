@@ -40,4 +40,3 @@ In the end, the siblings fight again over the house and Finn threatens to take a
 - - -
 
 **Sara:** That's ... one killer house.
-

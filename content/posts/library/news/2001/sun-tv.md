@@ -20,7 +20,7 @@ Jorja Fox probably prefers not to describe her talents as "acting chops." The de
 
 **THE SUN:** What have you had to stomach?
 
-**FOX:** All I'll say is there were probably 1,000 bugs involved very intimately with a stuntwoman. It completely caught me off guard. My stomach turned upside down when I saw her. I thought, &#8216;Oh yeah, I work on CSI.'
+**FOX:** All I'll say is there were probably 1,000 bugs involved very intimately with a stuntwoman. It completely caught me off guard. My stomach turned upside down when I saw her. I thought, 'Oh yeah, I work on CSI.'
 
 **THE SUN:** Was squeamishness also an issue in your previous role as Dr. Maggie Doyle on ER?
 
@@ -29,4 +29,3 @@ Jorja Fox probably prefers not to describe her talents as "acting chops." The de
 **THE SUN:** Did ER make you a vegetarian?
 
 **FOX:** No. In fact, when I told Neil I was a vegetarian, he made my character a vegetarian.
-

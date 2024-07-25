@@ -8,7 +8,7 @@ categories: [News, Articles]
 tags: ["2007"]
 
 
-newstitle: "Jorja Fox is leaving &#8216;CSI'  "
+newstitle: "Jorja Fox is leaving 'CSI'  "
 newsauthor: Cristina Kinon
 newssource: NY Daily News
 newsurl: http://www.nydailynews.com/entertainment/tv/2007/10/16/2007-10-16\_jorja\_fox\_is\_leaving_csi-1.html
@@ -21,4 +21,3 @@ Jorja Fox has confirmed the talk: She has quit "CSI: Crime Scene Investigation."
 Fox was fired in 2004 for not showing up on time on the set after tense contract negotiations, but was rehired after settling pay increase issues.
 
 When Fox's contract expired in May, CBS invited her back for the eighth season, but she only signed for half the season. Her last episode will air in November.
-

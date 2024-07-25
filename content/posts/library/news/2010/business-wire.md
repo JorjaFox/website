@@ -33,4 +33,3 @@ Fox added, ...What a way to start memorial weekend. These lions that lived for y
 The rescue has already stirred huge media and public interest in South America where Brazil and Peru are on the brink of voting on measures to ban the use of animals in circuses.
 
 [...]
-

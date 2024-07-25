@@ -52,4 +52,3 @@ Sara and Grissom blowing up bombs to determine the container components (Sara se
 **Sara:** I have a new favorite color.
 **Grissom:** Orange?
 **Sara:** _(grins)_ The orange polyester from the bomb is a match to the Thrift-Rite jacket.
-

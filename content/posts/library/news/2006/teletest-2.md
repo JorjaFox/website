@@ -23,4 +23,3 @@ Jorja Fox is currently between series in CSI and is using her free time to produ
 Apart from padding around barely dressed JF's other great passion is animals. While the actress is guarded about her love life, she's happy to talk about the menagerie she has at her LA home. "I have a boxer dog, Ali, and 50 fish in my backyard. The fish came with the house and I was going to replace them with a jacuzzi but after 2 weeks I fell in love with them.
 
 Jorja's passion for animals goes beyond keeping an ark full of pets; she's a keen supporter of militant animal rights group PETA. Jorja has also long been a vegetarian, and is understood to have converted CSI co-star William Petersen. In career terms CSI's Jorja Fox has scaled the heights starring in one of the planets most popular shows. Has she ambitions beyond such an amazing accolade "Sadly I've never known where I've been headed, I just end up somewhere".
-

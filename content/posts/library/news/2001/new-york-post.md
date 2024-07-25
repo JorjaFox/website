@@ -31,4 +31,3 @@ Hopefully I've had it already. What comes to mind is this day in kindergarten wh
 Produce. Write. I would've loved to have been a marine biologist, but I don't quite get science and math in general.
 
 *Jorja Fox plays Sara Sidle on the CBS series "C.S.I."*
-

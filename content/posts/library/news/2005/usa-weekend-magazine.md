@@ -15,8 +15,6 @@ newsurl: http://www.usaweekend.com
 ---
 **What can you tell me about "CSI's" Jorja Fox?**
 
-
 Larry Phillips, Bellbrook, Ohio
 
 She grew up "a child of the '70s" in a Florida seaside community. She still loves the ocean, surfing and the outdoors. She played Doris Day's role in her high school production of "Pillow Talk" and went to New York at 16 to model. She's 37, a guitar player and singer, and she's part of a group of "CSI" cast and crew members who spend their lunchtime making music. She still feels "bitter" about coverage of the "misunderstanding" that nearly bumped her and George Eads from the show in 2004. She says the experience tested her "naive faith in the goodness of people."
-

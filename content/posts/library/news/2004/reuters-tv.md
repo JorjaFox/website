@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "Fired &#8216;CSI' Star Hopes to Get Another Chance"
+newstitle: "Fired 'CSI' Star Hopes to Get Another Chance"
 newsauthor: Staff
 newssource: Reuters
 newsurl: http://www.reuters.com
@@ -25,21 +25,20 @@ Both Eads and Fox were said to be in a salary scuffle with series producers CBS 
 
 Sources indicated that Eads and Fox, who were making about $100,000 an episode, were offered a bump to $120,000 by the Viacom-owned network but were holding out for more.
 
-On Wednesday, Eads asserted that his not showing up for work was not a move to get more money and that he has always believed that contracts are binding &#8212; a direct response to a statement Sunday by Leslie Moonves, Viacom's co-president and co-chief operating officer, who said, "There comes a point where we feel a contract is a contract."
+On Wednesday, Eads asserted that his not showing up for work was not a move to get more money and that he has always believed that contracts are binding - a direct response to a statement Sunday by Leslie Moonves, Viacom's co-president and co-chief operating officer, who said, "There comes a point where we feel a contract is a contract."
 
 Eads said he has already apologized "nine ways to Sunday" for the incident and hopes to get the situation resolved by the weekend.
 
 He compared the predicament to a case where the quarterback of the Dallas Cowboys oversleeps on the first day of practice.
 
-"I'd expect the coach to have me run hills and run wind sprints until the sun goes down &#8212; not, you know, completely fire me," he said.
+"I'd expect the coach to have me run hills and run wind sprints until the sun goes down - not, you know, completely fire me," he said.
 
 In the past few days, Eads been trying to reach Moonves to straighten things out but to no avail.
 
-"It's kind of like meeting with Charlie of &#8216;Charlie's Angels,"&#8216; he said.
+"It's kind of like meeting with Charlie of 'Charlie's Angels,"' he said.
 
 Meanwhile, sources said Fox could be back on "CSI" in the near future, with multiple sources indicating that negotiations began Wednesday morning for her to return to the show.
 
 Earlier in the week, "CSI" producers released casting breakdowns seeking a young male and female to join Las Vegas' CSI team.
 
 CBS had no comment Wednesday on Fox and Eads' situations.
-

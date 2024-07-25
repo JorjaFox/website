@@ -56,13 +56,13 @@ After solving the case, Sara and Betty share a Skype conversation with Grissom, 
 **Sara:** Well. I almost got blown up twice. I accused your ex-girlfriend of murder. And ... Oh, and I told off your mother.
 **Gil Grissom:** Oh good. You kept busy.
 **Sara:** Yes. You see what happens when you stand me up?
-**Betty Grissom:** _knocks on the doorway_
+**Betty Grissom:** *knocks on the doorway*
 **Gil Grissom:** Who's that?
 **Sara:** It's your mother.
 **Gil Grissom:** Hi, Mom.
 **Betty Grissom:** Hi!
 **Gil Grissom:** You never came to the office when I was working there. I heard you and Sara had an exciting week.
-**Betty Grissom:** I owe her a apology for that. _gives Sara an African Violet._
+**Betty Grissom:** I owe her a apology for that. *gives Sara an African Violet.*
 **Sara:** African Violet. It's beautiful.
 **Gil Grissom:** I told her you like vegetation.
 **Sara:** Thank you ... I'm sorry too. Can we start over?

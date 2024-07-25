@@ -62,4 +62,3 @@ Sara, Nick, Catherine and Brass have lunch in a restaurant as they discuss the c
 **Sara:** It's an honest question.
 **Nick:** No, no it's not. What it means is 'How much money do you make, so you can take care of me.'
 **Sara:** Well, not _this_ girl.
-

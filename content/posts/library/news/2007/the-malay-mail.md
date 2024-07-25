@@ -18,7 +18,7 @@ newsurl: http://www.mmail.com.my
 
 [...]
 
-And finally, fans of gossip and rumours get something hot this season &#8212; a passionate secret affair! Just as the crimes become more intense, the sexual and emotional attraction between team leader Gil Grissom and the freckled Sara Sidle brews under the covers.
+And finally, fans of gossip and rumours get something hot this season - a passionate secret affair! Just as the crimes become more intense, the sexual and emotional attraction between team leader Gil Grissom and the freckled Sara Sidle brews under the covers.
 
 Fans of the series were teased with an intimate bedroom scene of the two in last season's cliffhanger finale.
 
@@ -28,7 +28,7 @@ This should be a fun subplot to follow, as it would be a secret that only viewer
 
 [...]
 
-Wait &#8212; secret lover and workaholic Grissom goes on leave? What's going on with our beloved CSI? We asked, both William Petersen and Jorja Fox to fess up.
+Wait - secret lover and workaholic Grissom goes on leave? What's going on with our beloved CSI? We asked, both William Petersen and Jorja Fox to fess up.
 
 "We've been together for a while; it's just that no one knew it," said Petersen, the cute guy who plays Gil Grissom.
 
@@ -52,7 +52,7 @@ We didn't want to get them together too early on because if they broke up, there
 
 It was wise to hold back on it and then we thought maybe fans weren't interested in it anymore.
 
-"Out of the blue, I got a call from Carol Mendelsohn suggesting, &#8216;Hey do you want to do this?' I don't know how often actors get those calls.
+"Out of the blue, I got a call from Carol Mendelsohn suggesting, 'Hey do you want to do this?' I don't know how often actors get those calls.
 
 I was surprised and intrigued.
 

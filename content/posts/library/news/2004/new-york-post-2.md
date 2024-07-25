@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "AXED &#8216;CSIER' IN TALKS"
+newstitle: "AXED 'CSIER' IN TALKS"
 newsauthor: Staff
 newssource: New York Post
 newsurl: http://www.nypost.com/
@@ -26,4 +26,3 @@ Eads, who plays Nick Stokes, was also fired last week after failing to show up f
 He told reporters on Wednesday that he'd "overslept," that it was all a misunderstanding and that he hoped to get his job back. His fate remained uncertain as of yesterday.
 
 Both Fox and Eads reportedly pull in $100,000-per-episode on TV's top-rated drama, which is entering its fifth season.
-

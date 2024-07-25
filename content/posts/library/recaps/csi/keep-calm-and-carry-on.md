@@ -44,4 +44,3 @@ When Nalley is dismissive regarding Heather's pleas for help, both Sara and Nick
 
 **Jefferson Nalley** I loved her.
 **Sara Sidle** No you didn't. If you did, Jefferson, you would have pulled over.
-

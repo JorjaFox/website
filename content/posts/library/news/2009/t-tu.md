@@ -18,9 +18,9 @@ newsurl: http://www.tetu.com/actualites/television/jorja-fox-vive-le-retour-dune
 
 Hallelujah! After two years absence, Jorja Fox is back on *CSI*. Thanks to her, the "butchest" of the *CSI* girls, Sara Sidle, is back in Vegas in Season 10. If this isn't great new, we don't know what is! Here's why:
 
-**First of all, Sara Sidle is (almost) &#8216;butch'.**
+**First of all, Sara Sidle is (almost) 'butch'.**
 
-How to say this? The hair style, the vibes she send when she walks in a room, the displeased look, the sheriff star on her sleeveless vest, the leather jacket, the boots, the hands in her pockets, to add, the gun and that she uses a few judo moves on a suspect who wants nothing to do with her, is a bonus. It explains, Sara calls to us from a subconscious level. She's a delicious &#8216;butch' who doesn't talk about it. And it is even more emotional that that she has some difficulties with her relationships.
+How to say this? The hair style, the vibes she send when she walks in a room, the displeased look, the sheriff star on her sleeveless vest, the leather jacket, the boots, the hands in her pockets, to add, the gun and that she uses a few judo moves on a suspect who wants nothing to do with her, is a bonus. It explains, Sara calls to us from a subconscious level. She's a delicious 'butch' who doesn't talk about it. And it is even more emotional that that she has some difficulties with her relationships.
 
 **Yeah, but she got married ...**
 
@@ -29,4 +29,3 @@ The romance with Gil Grissom, it's been there for a while. Kept secret from the 
 **And, most of all, Jorja Fox is a bombshell**
 
 Without Jorja Fox, Sara Sidle would be nothing. The producers of *CSI* have finally realized it. A little late, sure, but we already know that. Thrown away like a dirty rag in season 8, the woman who also played Maggie Doyle in "ER" and Gina Toscano in "The West Wing" returned on a carpet of dollars. Planned for only five episodes only, her return is now extended for an "unlimited stay". "Jorja has been the cement that permits the links to be rebuilt in the team," recognized Carol Mendelsohn. Yes, people love her! When the first rumors of her departure surfaced in the summer of 2007, tens of thousands of fans would have sent the money to the producers so Jorja wouldn't leave. A petition "Save Jorja" went around on the net and banners with the same message had been tied to planes that flew over Universal Studios. Her most active groupies were, without a doubt, girls! Included in those girls, certain pushed the limit until they created the "approved" fan club of Jorja Fox's Physique. It's called "Bombshell" or "The Bomb". First rule of this club is very serious: "You must really be a fan of Jorja Fox's physique. For what other reason would you join?" Maybe it's because she's vegetarian and she loves baby seals, and every year PETA selects her in its list of "World's sexiest Vegetarians."
-

@@ -7,7 +7,7 @@ permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
-newstitle: "&#8216;CSI' adds love story as competition nears  "
+newstitle: "'CSI' adds love story as competition nears  "
 newsauthor: Staff
 newssource: Journal Gazette
 newsurl: http://www.fortwayne.com/
@@ -46,7 +46,6 @@ Fox said viewers are split 50-50 about whether "CSI" should focus strictly on it
 
 Fox said she can see why Sara would be interested in the stoic Grissom, even if it means she might have to take the lead in expressing emotions.
 
-Their work &#8212; solving murders through forensics work &#8212; is the common thread that has pulled them together, Fox said after the news conference.
+Their work - solving murders through forensics work - is the common thread that has pulled them together, Fox said after the news conference.
 
 "They both have a real need for the truth."
-

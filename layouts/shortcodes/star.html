@@ -1,14 +1,17 @@
 {{ $color := .Get "color" }}
 {{ $count := 1 }}
+{{ $class := "text-warning" }}
 
 {{ if .Get "count" }}
 	{{ $count = .Get "count" }}
 {{ end }}
 
-{{ range ( seq $count ) }}
-	{{ if eq $color "red-star" }}
-		<span class="star-rating star-red">{{ partial "svg.html" "star" }}</span>
-	{{ else }}
-		<span class="star-rating star-{{ $color }}">{{ partial "svg.html" "star" }}</span>
-	{{ end }}
+{{ if eq $color "red-star" }}
+    {{ $class = "text-danger" }}
 {{ end }}
+
+{{ if eq $color "grey-star" }}
+    {{ $class = "text-secondary" }}
+{{ end }}
+
+{{ range ( seq $count ) }}<span class="star-rating {{ $class }}">{{ partial "assets/icon.html" (dict "icon" "fas star" "spacing" false) }}</span>{{ end }}

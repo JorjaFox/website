@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Jorja Fox: Why I Quit &#8216;CSI'  "
+newstitle: "Jorja Fox: Why I Quit 'CSI'  "
 newsauthor: Lynette Rice
 newssource: EW
 newsurl: http://www.ew.com/ew/article/0,,20152746,00.html

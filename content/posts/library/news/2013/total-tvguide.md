@@ -7,7 +7,7 @@ permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
-newstitle: "&#8216;We're number one in the world'  "
+newstitle: "'We're number one in the world'  "
 newsauthor: David Collins
 newssource: Total TVguide
 newsurl: http://www.tvchoicemagazine.co.uk/

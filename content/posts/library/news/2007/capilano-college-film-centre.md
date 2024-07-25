@@ -19,4 +19,3 @@ newsurl: http://www.capcollege.bc.ca/programs/film/news.html
 After David [Berman], we spoke with Jorja Fox who plays Sara Sidle. Jorja was absolutely hilarious and incredibly down-to-earth. She kept making faces at David during our interview with him and making him laugh.
 
 [...]
-

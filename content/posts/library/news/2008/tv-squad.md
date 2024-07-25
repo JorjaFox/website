@@ -14,9 +14,9 @@ newsurl: http://www.tvsquad.com/2008/05/22/csi-bringing-jorja-fox-back-for-fall-
 
 ---
 
-When Sara left "CSI", driving out of Las Vegas on her way to who knows what, he left behind a brokenhearted Gil Grissom. The producers of "CSI" were wise to keep the door open for the character to return, and that's just what's happening &#8212; at least for one show. According to "TV Guide**s Michael Ausiello, Jorja Fox will be in the season premiere of "CSI". Oh, and she won't be the only former cast mate on the show; so will Gary Dourdan as Warrick.
+When Sara left "CSI", driving out of Las Vegas on her way to who knows what, he left behind a brokenhearted Gil Grissom. The producers of "CSI" were wise to keep the door open for the character to return, and that's just what's happening - at least for one show. According to "TV Guide**s Michael Ausiello, Jorja Fox will be in the season premiere of "CSI". Oh, and she won't be the only former cast mate on the show; so will Gary Dourdan as Warrick.
 
-I know, I know &#8212; I can hear you now, how is that possible? Didn't he die in the "CSI" finale? When we last saw Warrick, he'd been shot twice and left to die in his car. Could the "CSI" have survived a bullet through the neck? He was slumped over the steering wheel, so he looked dead. And the sheriff shot him a second time &#8212; presumably a death shot to the head since it was an execution.
+I know, I know - I can hear you now, how is that possible? Didn't he die in the "CSI" finale? When we last saw Warrick, he'd been shot twice and left to die in his car. Could the "CSI" have survived a bullet through the neck? He was slumped over the steering wheel, so he looked dead. And the sheriff shot him a second time - presumably a death shot to the head since it was an execution.
 
 Ausiello's sources claim that Warrick's return will not be a flashback. He thinks we're in for a "gut wrenching death scene." He could be right, they could go in that direction. However, "CSI" could think outside the reality box, too. They could go the apparition or ghost route. It wouldn't be the first time; there was the episode a few seasons back where the corpses talked, telling the story of how they died. That was definitely not real, but this is a fictional show and they can take a leap if they feel like it.
 

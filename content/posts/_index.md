@@ -1,6 +1,6 @@
 ---
 title: Welcome, Fans of LeFox
-description: Since 1996, Fans of LeFox has collected and documented Jorja Fox's career.
+description: Since 1996, Fans of LeFox has collected and documented Jorja Fox's career from acting to advocacy and everything in-between.
 thumbnail:
     url: /img/JorjaFox-com.jpg
 actions:
@@ -8,10 +8,6 @@ actions:
     url: "about"
     title: "About"
 ---
-
-## The Lair of LeFox
-
-The world of LeFox is at your fingertips, with all the information about Jorja Fox, her acting, and advocacy.
 
 ## As Seen On
 

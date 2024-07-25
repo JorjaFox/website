@@ -28,4 +28,3 @@ Petersen says he's pleased that the finale allowed him to reunite with former co
 "I would have done it anyway because I wouldn't have missed it,' says Fox. "[But] it really, truly, is, I think, a love letter to our fans. I really hope they enjoy it. It's amazing."
 
 [...]
-

@@ -35,16 +35,16 @@ Doyle comes by to see Carter, who's in the surgeon's doghouse (aka a lab). Doyle
 **Carter:** You're a smoker?
 **Maggie:** A secret smoker -- don't tell anyone.
 
-<hr>
+---
 
-**Carter:** Surgeons don't rat on each other. It's like the Marines &#8212; one for all, and all for one.
+**Carter:** Surgeons don't rat on each other. It's like the Marines - one for all, and all for one.
 **Maggie:** That's the Three Musketeers.
 **Carter:** You get the picture.
 
-<hr>
+---
 
 **Carter:** You know, you're great.
 **Maggie:** So are you.
-**Carter:** Seriously--you're great--funny--beautiful, too. I don't suppose you would &#8212;
+**Carter:** Seriously--you're great--funny--beautiful, too. I don't suppose you would -
 **Maggie:** Not a chance.
 **Carter:** Cheers.

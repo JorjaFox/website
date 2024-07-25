@@ -21,4 +21,3 @@ newsurl: http://www.fancast.com/blogs/2010/tv-news/the-big-tease-scoop-on-house-
 Stay tuned, because "...all questions re: Sara Sidle will be answered," series creator Anthony Zuiker said in a recent Variety chat.
 
 [...]
-

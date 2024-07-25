@@ -7,7 +7,7 @@ permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
-newstitle: "&#8216;CSI' Star Jorja Fox, HSUS Team Up Against Dogfighting  "
+newstitle: "'CSI' Star Jorja Fox, HSUS Team Up Against Dogfighting  "
 newsauthor: Kate Hogan
 newssource: People Pets
 newsurl: http://www.peoplepets.com/news/celebrities/csi-star-jorja-fox-hsus-team-up-against-dogfighting/1
@@ -23,4 +23,3 @@ Fox is in Chicago to host this weekend's [http://www.humanesociety.org/news/news
 One dog that's safe from the dark world of dogfighting? Fox's rescue boxer pup Ali. "She's 13 years old, so she's elderly," Fox jokes. "If she were a human she'd have a cane and hearing aids!" Adopted by the actress when she was just 10 months old, she's "been with me through everything," Fox says. "It's the oldest comment in the book, but she's my best friend."
 
 Fox hopes that her work with End Dogfighting will result in many more happy human-dog endings, just like hers. "If you're not treating your animal well, you'll never know what a great force they can be in your life," she says. "They're healers, lovers, friends. They make life fun."
-

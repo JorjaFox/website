@@ -25,4 +25,3 @@ At the council meeting, activists and celebrities including comedian Lily Tomlin
 They argued that the zoo should hand over its lone elephant, 22-year-old Billy, to an animal sanctuary in Northern California.
 
 [...]
-

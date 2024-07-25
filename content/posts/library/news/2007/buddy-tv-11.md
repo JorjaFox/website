@@ -25,4 +25,3 @@ She was determined to get them this time, and once she got Brandon, her determin
 That goodbye letter to Grissom almost had me in tears. It was beautifully done. Watching him read it, hearing her read it, and watching her leave in the taxi was a very fitting end to the episode, and a fitting end to Grissom and Sara. Although the letter ending was quite final, there's that little possibility that at some point she'll return.
 
 Before watching "CSI" tonight, I was ready to say good riddance to bad rubbish. This episode made me say "Fare thee well, Sara".
-

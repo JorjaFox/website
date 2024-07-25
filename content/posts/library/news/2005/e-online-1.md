@@ -22,4 +22,3 @@ Back ovah at the SAG Awards, I asked a couple of work-steady folks, who have may
 I know. Sure beats all that inane how-do-you-feel crap, huh?
 
 Jazzed up in a white Spandex-y dress, the *CSI* looker-not to mention winner-spilled, "I had to pretend I was **George Eads**' girlfriend, and *that* was pretty weird." Okay, but really? "I worked at a kennel for a long time," she said. "That was probably one of the best jobs I've ever had, but definitely one of the more obscure."
-

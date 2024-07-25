@@ -23,4 +23,3 @@ newsurl: http://www.afterellen.com/column/ask-afterellen-01-06-09?page=0%2C3
 But Viacom and CBS reportedly have a competing project in the works produced by "CSI" star **Jorja Fox** and based on the live stage show **Stay Forever: The Life and Music**, written by and starring **Kirsten Holly Smith**. (Fox produced the stage show at the Los Angeles Gay and Lesbian Center's Renberg Theater.)
 
 [...]
-

@@ -20,4 +20,3 @@ It is thought she was fired after a dispute over her pay.
 Fox, who played Sara Sidle in the drama, was five years into a seven-year contract with the CBS network. CSI is regularly Australia's most watched TV show.
 
 Fox, 36, previously starred in ER as Dr Maggie Doyle and in a season of The West Wing as Gina Toscano.
-

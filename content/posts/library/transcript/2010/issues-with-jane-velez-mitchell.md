@@ -9,13 +9,13 @@ categories: ["Interviews"]
 tags: [ "2010" ]
 ---
 
-JANE VELEZ-MITCHELL: In tonight's "Spotlight", a fabulous mercy mission for four rescued circus lions. These magnificent animals were freed from their pitiful, abusive existence in a Bolivian circus last month. Bolivia recently did what every country should do &#8212; banned the use of animals in circuses. These majestic animals will live out their lives at the amazing Paws Sanctuary in northern California.
+JANE VELEZ-MITCHELL: In tonight's "Spotlight", a fabulous mercy mission for four rescued circus lions. These magnificent animals were freed from their pitiful, abusive existence in a Bolivian circus last month. Bolivia recently did what every country should do - banned the use of animals in circuses. These majestic animals will live out their lives at the amazing Paws Sanctuary in northern California.
 
 Our guest tonight, CSI star, Jorja Fox, who was right there for their dramatic arrival.
 
 (BEGIN VIDEO CLIP)
 
-JORJA FOX, ANIMAL RIGHTS ACTIVIST: Lion number one &#8212; come on down.
+JORJA FOX, ANIMAL RIGHTS ACTIVIST: Lion number one - come on down.
 
 TIM PHILLIPS, ANIMAL DEFENDERS INTERNATIONAL: These lions have lived their life in a tiny, rusting, disgusting cage on the back of a lorry. Tomorrow they're going to feel the wind blow in their face. They're going to feel grass beneath their feet. They're going to be as lions, possibly for the first real time in their lives.
 
@@ -45,10 +45,10 @@ The unfortunate truth about zoos and circuses is that they're cruel, they're arc
 
 VELEZ-MITCHELL: Now, when you saw the animals go from their cages and actually step on grass for the very first time, what do you think they were thinking? What kind of a transformation did they experience?
 
-FOX: Well, these are animals that really had spent most of their lives in small pens on the back of a truck. Even though they were exhausted &#8212; it was a 14-hour journey &#8212; they weren't fed during the journey. They did have access to water.
+FOX: Well, these are animals that really had spent most of their lives in small pens on the back of a truck. Even though they were exhausted - it was a 14-hour journey - they weren't fed during the journey. They did have access to water.
 
 When they finally reached the sanctuary in a very rural, remote area in California, they leapt. They leapt like you would see small puppies leaping outside in the park somewhere.
 
 VELEZ-MITCHELL: I am so happy and thank you so much. And the animals thank you.
 
-Yey, Jorja Fox of CSI. And we love these lions. If you love them &#8212; hey, don't go to the circus.
+Yey, Jorja Fox of CSI. And we love these lions. If you love them - hey, don't go to the circus.

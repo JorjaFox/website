@@ -18,7 +18,7 @@ Before she landed the role of scientist Sara Sidle on *C.S.I.*, actress Jorja Fo
 I worked at a kennel in New York City called the Montrose Pet Hotel. That was when I was 16, so I have no idea if it's still there or not.
 
 **What did you have to do?**
-I would feed the dogs, and I'd take them from their little hotels to these indoor dog runs. In New York City, the insurance for kennels to walk dogs outside was so expensive that they would walk the dogs inside. It was a great job &#8212; I loved it.
+I would feed the dogs, and I'd take them from their little hotels to these indoor dog runs. In New York City, the insurance for kennels to walk dogs outside was so expensive that they would walk the dogs inside. It was a great job - I loved it.
 
 **What was the best thing about that job?**
 I loved my clients. (laughs)
@@ -28,7 +28,7 @@ I loved my clients. (laughs)
 Not really. For the most part it was just me, and I could listen to music, and I could wear whatever I wanted?it was just a great, great job.
 
 **So how many dogs do you have now?**
-I have a dog named Ali &#8212; she's a boxer &#8212; and two cats named Rumplestiltskin and Sid Poitier. I didn't name them, though; they came with those names. In fact, Sid was originally named Sid Vicious, but when he started to act too much like his namesake, I changed his name to Sid Poitier.
+I have a dog named Ali - she's a boxer - and two cats named Rumplestiltskin and Sid Poitier. I didn't name them, though; they came with those names. In fact, Sid was originally named Sid Vicious, but when he started to act too much like his namesake, I changed his name to Sid Poitier.
 
 **Did you learn anything at that job that's stuck with you?**
 I learned a lot. I learned some discipline, because I had to be there very early in the morning; I learned how to work on my own; and I learned a lot about compassion.
@@ -60,4 +60,3 @@ I would've loved to have gotten involved in politics. Not necessarily as a polit
 Look for something that really interests you, be yourself, and trust that the day will come when people will listen to you.
 
 **C.S.I.** *airs Thursday nights at 9:00 p.m. on CBS.*
-

@@ -8,7 +8,7 @@ slug: csi
 imdb: http://www.imdb.com/title/tt0247082/
 website: https://www.cbs.com/shows/csi/
 gallery: https://jorjafox.net/gallery/tv/csi/
-image: /img/actor/csi.jpg
+image: /img/actors/csi.jpg
 episodelist: true
 aliases:
   - /self/csi/

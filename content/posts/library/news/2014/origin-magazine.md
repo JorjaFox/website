@@ -36,4 +36,3 @@ I produced a couple of documentaries recently. One of them is called *Lion Art*,
 JF: It's really about being outside, being in nature. I can kind of go into the wild places and immediately feel rested and rejuvenated. Often, even if I'm struggling with a decision or something, if I just go out into the ocean, that answer will come without thinking about it too much. I try to balance work and play. Again, I'm really grateful that I can kind of have that philosophy, so I can try to get out of the city as much as possible, even though I love the city and I'm not ready to leave it.
 
 *Jorja Fox is an actress and musician. She can currently be seen on the hit show CSI: Crime Scene Investigation. She has also starred in ER and The West Wing *
-

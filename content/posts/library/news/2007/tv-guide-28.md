@@ -17,7 +17,7 @@ newsurl: http://www.tvguide.com
 
 Instead of using "Who Are You?" as it's theme song this year, "CSI" producers might want to consider the Clash's "Should I Stay or Should I Go."
 
-In last spring's season finale, Sara Sidle (Jorja Fox) was left trapped under a car in the Nevada desert by a serial killer &#8212; with pouring rain threatening to drown her &#8212; while Gil Grissom (William Petersen), her boyfriend and boss, and the rest of the CSIs frantically tried to find her. Sara's life hung in the balance because of the car &#8212; "and" the fact that Fox's contract with the CBS hit was up for renewal. So will she be sticking around?
+In last spring's season finale, Sara Sidle (Jorja Fox) was left trapped under a car in the Nevada desert by a serial killer - with pouring rain threatening to drown her - while Gil Grissom (William Petersen), her boyfriend and boss, and the rest of the CSIs frantically tried to find her. Sara's life hung in the balance because of the car - "and" the fact that Fox's contract with the CBS hit was up for renewal. So will she be sticking around?
 
 Executive producer Naren Shankar's not telling. "Let's just say fans will be very satisfied with how it turns out," he says. "No loose ends will be left dangling at the end of the first episode."
 
@@ -27,4 +27,4 @@ Shankar, though, is happy to talk about filming the scene in the September 27 se
 
 There were moments when Shankar says he wasn't sure Fox would make it through the filming. For a good portion of it, she was stuck under the car, surrounded by recirculated water, and Shankar says he got "a little nervous. Jorja was a total trouper and everything was designed for 100 percent safety, but when you're watching, you get a little knot in your stomach."
 
-It may be nerve-racking, but even the "CSI" cast members who aren't in those scenes showed up to watch. "The actors were as impressed as anybody by what we built," Shankar says. "They came back from their time off and went, &#8216;Holy crap!' Everybody was pretty knocked out by this." It sounds like we will be, too.
+It may be nerve-racking, but even the "CSI" cast members who aren't in those scenes showed up to watch. "The actors were as impressed as anybody by what we built," Shankar says. "They came back from their time off and went, 'Holy crap!' Everybody was pretty knocked out by this." It sounds like we will be, too.

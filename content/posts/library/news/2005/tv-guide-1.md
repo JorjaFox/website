@@ -24,4 +24,3 @@ newsurl: http://TVGuide.com
 **Ausiello:** Beats me. This much I can tell you: The pair will take center stage in a May sweeps episode set at a mental institution. I'm told the loony surroundings will stir some painful memories for Sara and reveal more about her troubled past.
 
 [...]
-

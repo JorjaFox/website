@@ -12,9 +12,9 @@ newssource: Post-Gazette Publishing
 newsurl: http://www.post-gazette.com
 
 ---
-PASADENA, CALIF. &#8212; TV critics can be an unforgiving lot, but UPN's fall schedule makes compassion tough to muster.
+PASADENA, CALIF. - TV critics can be an unforgiving lot, but UPN's fall schedule makes compassion tough to muster.
 
-In an effort to draw more viewers &#8212; particularly young, male viewers &#8212; the struggling network has scheduled two hours of WWF wrestling Thursday night. Critics are bound to sneer, but it's an easy move that's likely to boost the network's ratings.
+In an effort to draw more viewers - particularly young, male viewers - the struggling network has scheduled two hours of WWF wrestling Thursday night. Critics are bound to sneer, but it's an easy move that's likely to boost the network's ratings.
 
 [ ... ]
 

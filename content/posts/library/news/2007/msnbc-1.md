@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Should &#8216;CSI's' Sara Sidle live or die?"
+newstitle: "Should 'CSI's' Sara Sidle live or die?"
 newsauthor: MSNBC
 newssource: MSNBC
 newsurl: http://www.msnbc.msn.com/id/20958227/

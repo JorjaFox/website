@@ -28,4 +28,3 @@ There have been a lot of great Secret Service characters on The West Wing, but n
 **Signature Episodes:** "What Kind of Day Has It Been?" is told, a little bit, through Gina's keen eyes as she spots the shooters, not quickly enough, who give us our first-season cliffhanger.
 
 [...]
-

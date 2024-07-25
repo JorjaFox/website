@@ -21,4 +21,3 @@ A large explosion at a gas company gives the CSI team further evidence in their 
 ## Review
 
 _Sara Sidle does not appear in this episode._
-

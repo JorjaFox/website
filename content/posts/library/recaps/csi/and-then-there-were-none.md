@@ -51,4 +51,3 @@ Sara and Catherine check out a convenience store robbery / murder in far away Ca
 **Sara:** Great.
 **Catherine:** No. Not so great. State trooper.
 **Sara:** You've _got_ to be kidding me. ...Officer _Moron_ contaminated the scene.
-

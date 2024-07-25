@@ -37,4 +37,3 @@ She works with Morgan and Greg, looking for drugs in the house, teasing Morgan f
 ## Quotes
 
 **Sara:** I'll drive. I know the way.
-

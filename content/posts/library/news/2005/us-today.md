@@ -40,4 +40,3 @@ Petersen also disputes the notion that actors are interchangeable parts on proce
 "You can call it a procedural. You can say it's all about the science. If that were true, then these 30 million people would be watching the Discovery Channel. They're not," Petersen says. "They want to see Marg (Helgenberger) and Billy. They want to see George and Jorja. They want to see Gary (Dourdan) and Eric (Szmanda)."
 
 [...]
-

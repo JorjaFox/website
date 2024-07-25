@@ -14,7 +14,7 @@ newsurl: http://www.kansascw.com/kscw/news/kdvr-2-dozen-lions-coming-to-colorado
 
 ---
 
-DENVER &#8212; More than two dozen Bolivian circus lions were getting accustomed to their new surroundings at The Wild Animal Sanctuary in Keenesburg, Colo., Thursday.
+DENVER - More than two dozen Bolivian circus lions were getting accustomed to their new surroundings at The Wild Animal Sanctuary in Keenesburg, Colo., Thursday.
 
 They arrived at their new permanent home on 80 acres of open space Wednesday evening, after a long flight from Bolivia to Denver.
 
@@ -39,4 +39,3 @@ Former "Price is Right" host Bob Barker, a longtime animal rights activist, help
 When the lions arrived at the Wildlife Sanctuary in Keenesburg, it was the first time they ever stepped on natural grass in their lives, according to Pat Craig of the sanctuary. "They'll be going out to an 80-acre habitat where they've never had that kind of freedom ever."
 
 Experts say the lions cannot be put into the wild because they've been in captivity their entire lives.
-

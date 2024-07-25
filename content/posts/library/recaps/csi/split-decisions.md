@@ -47,4 +47,3 @@ Sara and Brass talk to the dead man's son, Avery, with Sara promising to come ch
 - - -
 
 **Sara:** It must be hard, wanting a child so much. The struggle to conceive. And then a miracle occurs.
-

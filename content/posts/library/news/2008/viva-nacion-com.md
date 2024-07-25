@@ -14,7 +14,7 @@ newsurl: http://www.nacion.com/viva/2008/abril/17/viva1500216.html
 
 ---
 
-<em>Translated from Spanish</em>
+_Translated from Spanish_
 
 **In Guanacaste." Jorja Fox, the actress who portrays Sara [Sidle] in the successful television series "CSI Las Vegas", visited the beaches of Guanacaste for during one week.
 

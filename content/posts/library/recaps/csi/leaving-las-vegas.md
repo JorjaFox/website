@@ -37,4 +37,3 @@ Sara is only seen in the second to last scene, when Grissom spots her in the loc
 **Sara:** I'll see you when you get back. _(turns back to her locker)_
 **Grissom:** _(moves to the inside of the doorway, Sara turns to face him) (long pause)_ I'll miss you.
 :_(Sara nods, and Grissom leaves)_
-

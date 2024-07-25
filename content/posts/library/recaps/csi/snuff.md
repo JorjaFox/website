@@ -42,4 +42,3 @@ Sara and Catherine investigate the snuff film. Sara checks the film for prints, 
 - - -
 
 **Sara:** I guess she killed you back.
-

@@ -13,11 +13,11 @@ newsurl: https://digital.cbswatchmagazine.com/view/962262132/
 
 ***Mandeep Dhillon, Jorja Fox, and Paula Newsome are solving crimes, changing the game, and kicking ass in CSI: Vegas.***
 
-“I’ll give you a fact,” Jorja Fox says cheerfully. The actress has spent the past 40 minutes on a Friday afternoon talking all things _CSI_, but before she takes and enjoys her weekend, she’s eager to share a crucial piece of information courtesy of a recent conversation with Daniel Holstein, a forensic detective and the series’ tech adviser. “He told me that when he started out, maybe four percent of the crime scene investigators out there were women,” she says. “But now, the statistic is almost reversed!”
+“I’ll give you a fact,” Jorja Fox says cheerfully. The actress has spent the past 40 minutes on a Friday afternoon talking all things *CSI*, but before she takes and enjoys her weekend, she’s eager to share a crucial piece of information courtesy of a recent conversation with Daniel Holstein, a forensic detective and the series’ tech adviser. “He told me that when he started out, maybe four percent of the crime scene investigators out there were women,” she says. “But now, the statistic is almost reversed!”
 
-And though Fox is reluctant to take personal credit for the remarkable increase—she did, after all, play methodical-yet empathetic scientist Sara Sidle for nearly 15 years on the top-rated and groundbreaking smash _CSI: Crime Scene Investigation_—she is more than proud. “It’s flattering because women are persistent and problem-solvers, and they have seen this is a job that they can do,” she says. “It’s also cool and exciting because on the new show we are reflecting reality as much as we can.”
+And though Fox is reluctant to take personal credit for the remarkable increase—she did, after all, play methodical-yet empathetic scientist Sara Sidle for nearly 15 years on the top-rated and groundbreaking smash *CSI: Crime Scene Investigation*—she is more than proud. “It’s flattering because women are persistent and problem-solvers, and they have seen this is a job that they can do,” she says. “It’s also cool and exciting because on the new show we are reflecting reality as much as we can.”
 
-Viewers will see the evidence in the much-anticipated _CSI: Vegas_. Set in the city where the drama all began in 2000, the sequel features Fox’s Sidle and William Petersen’s Gil Grissom—last seen in 2015 sailing into the sunset together to the strains of a Norah Jones ballad—returning to the crime lab to investigate a new threat. They’ll preserve and serve justice with the help of some new experts, including TV veteran Paula Newsome (_Chicago Med_, _Barry_) as department supervisor Maxine Roby, and London native Mandeep Dhillon (_After Life_) as Allie Rajan, a level-II CSI.
+Viewers will see the evidence in the much-anticipated *CSI: Vegas*. Set in the city where the drama all began in 2000, the sequel features Fox’s Sidle and William Petersen’s Gil Grissom—last seen in 2015 sailing into the sunset together to the strains of a Norah Jones ballad—returning to the crime lab to investigate a new threat. They’ll preserve and serve justice with the help of some new experts, including TV veteran Paula Newsome (*Chicago Med*, *Barry*) as department supervisor Maxine Roby, and London native Mandeep Dhillon (*After Life*) as Allie Rajan, a level-II CSI.
 
 The co-stars had already filmed seven out of the 10 episodes when they each jumped on the phone and proceeded to rave about one other. “They are both really strong, brave, and interesting women,” Fox says. “I was so excited when it was announced they were joining the cast.” Seconds Dhillon, “I love that we’re three smart, bad-ass characters who get s--t done.”
 
@@ -39,11 +39,11 @@ We do, too.
 
 **How did you end up back on the show?!**
 
-**JF:** It’s like _Groundhog Day_, right? Sara had such a great ending, and I thought the book was closed for sure. Then, over a year ago, [executive producer] Jerry Bruckheimer reached out because the 20th anniversary of the show was coming up. He said, “What do you think of doing something for the anniversary?” Due to the pandemic, we didn’t get to do it last year. But better late than never.
+**JF:** It’s like *Groundhog Day*, right? Sara had such a great ending, and I thought the book was closed for sure. Then, over a year ago, [executive producer] Jerry Bruckheimer reached out because the 20th anniversary of the show was coming up. He said, “What do you think of doing something for the anniversary?” Due to the pandemic, we didn’t get to do it last year. But better late than never.
 
 **Did it feel strange to be back on the set?**
 
-**JF:** It was like _Alice in Wonderland_ in a very sci-fi sort of way. You know, when I first thought of doing the show, I wanted my comfort zone with the same group of actors and crew. Five years later, I’m with all these phenomenal new people. I love this group, and we have such an interesting dynamic.
+**JF:** It was like *Alice in Wonderland* in a very sci-fi sort of way. You know, when I first thought of doing the show, I wanted my comfort zone with the same group of actors and crew. Five years later, I’m with all these phenomenal new people. I love this group, and we have such an interesting dynamic.
 
 **What have you been up to over the past six years?**
 

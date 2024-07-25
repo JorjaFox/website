@@ -18,7 +18,7 @@ newsurl: http://www.washingtontimes.com/entertainment/20061022-110541-3858r.htm
 
 It's as if those procedural dramas, after spending years putting female crime victims through the wringer (and inside locked cages and under floorboards) have run out of ideas and moved on to harassing female crime fighters instead.
 
-Yet it's also the case that many shows &#8212; facing softening ratings after many years on the air or tougher time-slot competition &#8212; are attempting to inject more personal story lines into a genre that once regarded them like germs in the crime lab. That was before "Desperate Housewives," "Grey's Anatomy" and other shows that feature almost nothing but personal story lines (especially female-centric ones) came along to captivate audiences.
+Yet it's also the case that many shows - facing softening ratings after many years on the air or tougher time-slot competition - are attempting to inject more personal story lines into a genre that once regarded them like germs in the crime lab. That was before "Desperate Housewives," "Grey's Anatomy" and other shows that feature almost nothing but personal story lines (especially female-centric ones) came along to captivate audiences.
 
 Still, it can be a dicey business rejiggering the formula at this late date.
 
@@ -27,4 +27,3 @@ Still, it can be a dicey business rejiggering the formula at this late date.
 "There's been about 50 percent of the audience who would like to know more about the characters and about 50 percent who would really rather stick to the stories."
 
 [...]
-

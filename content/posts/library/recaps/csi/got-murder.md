@@ -48,4 +48,3 @@ Sara works with Catherine and Nick on the body found in the dump, and she is the
 **Sara:** She's a virgin? What are we talking, immaculate conception?
 **Catherine:** More like the immaculate perception. 'Pseudocyesis' -- imagined pregnancy.
 **Sara:** It's all in her head? Well, that would explain what she was doing in dad's bed.
-

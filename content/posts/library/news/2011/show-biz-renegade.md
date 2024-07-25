@@ -25,4 +25,3 @@ Fox actually spent the show's first seven seasons as a regular before leaving to
 With Gil Grissom out, I can only speculate on how Sara Sidle will make a re-appearance. Maybe, it will be Grissom's turn to pop-up every now and then.
 
 [...]
-

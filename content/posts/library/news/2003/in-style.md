@@ -20,4 +20,3 @@ A future Academy Award winner, perhaps. Today's stars recall how time spent wait
 **Jorja Fox**
 
 "I waitressed for one night. I spilled food on people three times and I was never allowed back in the restaurant again. I was horrible. I just couldn't do the whole balancing thing."
-

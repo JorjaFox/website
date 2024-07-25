@@ -21,4 +21,3 @@ The CSIs join David Phillips at his high school reunion when he discovers the pr
 ## Review
 
 _Sara Sidle does not appear in this episode._
-

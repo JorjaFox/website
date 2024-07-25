@@ -24,4 +24,3 @@ Another Hollywood green group, Earth Communications Office, was founded in 1989 
 ECO's current campaign addresses global warming and the steps we can take to change our fossil-fueling ways. Click on climatestar.org and up pops a muscular Kevin Bacon who pronounces, "Six degrees can make a world of difference. Not separation-temperature." Bacon has played troubled kids and bad guys and commands big bucks for his work. But he and Joshua Jackson (TV's Dawson's Creek), Jacqueline Obradors (NYPD Blue), and Jorja Fox (CSI) have volunteered their names and faces to this Web site's worthy cause, easing the transition to the site's somewhat unglamorous "Climate Facts" and "Carbon Footprint Calculator."
 
 [...]
-

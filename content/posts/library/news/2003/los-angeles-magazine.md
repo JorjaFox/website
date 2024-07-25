@@ -18,4 +18,3 @@ The fight against cancer is a team effort. Nowhere is that more evident than at 
 [...]
 
 Remembering her own experiences as the loved one of a cancer victim, Fox is enthusiastic about what funds raised at the Race can accomplish. "The Komen Foundation has a tremendous amount of empathy, wisdom and guidance to offer people," says Fox. "They're an incredible resource."
-

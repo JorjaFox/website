@@ -29,4 +29,3 @@ It was certainly more realistic than George Eads's theory about the wet towel . 
 Sara would never have said that line. Maybe that's why she's no longer on the show. Although from those ads last week she must be in at least one more episode - it looked like she and Grissom were doing some naked post-something cuddling from where I was sitting.
 
 [...]
-

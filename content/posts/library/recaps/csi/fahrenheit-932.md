@@ -26,7 +26,6 @@ Sara is laughing at Nick's jokes when Grissom asks her and Warrick to work on a 
 
 When Grissom is experimenting with gasoline in the lab, Sara pulls Warrick back, just before Grissom releases a controlled explosion. Sara brings in the piece of charred door frame and relates her findings; Grissom tells her the pattern is known as 'alligatoring', a word which Sara stumbles over when trying to say it. When Grissom is feeling a little down about the lack of progress in the case, Sara gives him a little pep talk, pointing out that 'any' hydrocarbon can be an accelerant.
 
-
 ## Notes
 
 ## Quotes

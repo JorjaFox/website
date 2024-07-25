@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Lucas on scene as &#8216;CSI' newbie"
+newstitle: "Lucas on scene as 'CSI' newbie"
 newsauthor: The Hollywood Reporter
 newssource: The Hollywood Reporter
 newsurl: http://www.hollywoodreporter.com/

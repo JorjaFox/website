@@ -6,7 +6,6 @@ permalink: /actor/
 categories: ["Filmography"]
 tags: ["Movies", "Television"]
 notoc: true
-flf_icon: theater-masks
 ---
 
 Jorja is credited as Jorja Fox unless otherwise noted.

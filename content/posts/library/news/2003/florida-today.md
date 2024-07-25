@@ -19,7 +19,7 @@ The resume was modest. She had taken modeling classes as a kid, done a little dr
 
 Eighteen years later, the trail in the rear-view is bright and clear. Culture vultures know her as Dr. Maggie Doyle on "ER," Secret Service agent Gina Toscano on "The West Wing" and, more recently, forensics analyst Sara Sidle on CBS' brainy/macabre hit series "CSI," which just completed its third season. She had a cameo as a lesbian in the ground-breaking "Ellen" coming-out episode, and students of the arcane will remember her as the murder victim in Chris Nolan's nightmarish 2000 film "Memento."
 
-It's a long way from Melbourne, but by phone from her home outside Los Angeles, Jorja Fox (she dropped the "n" at the beginning of her acting career) has fond memories of her formative years. She was only 3 when her mom and dad &#8212; Canadian immigrants Mark and Marilyn Fox &#8212; relocated to Brevard in 1972 from her birthplace in New York City. Dad sold paper products. "Mom's dream was to live by the beach somewhere," Fox says.
+It's a long way from Melbourne, but by phone from her home outside Los Angeles, Jorja Fox (she dropped the "n" at the beginning of her acting career) has fond memories of her formative years. She was only 3 when her mom and dad - Canadian immigrants Mark and Marilyn Fox - relocated to Brevard in 1972 from her birthplace in New York City. Dad sold paper products. "Mom's dream was to live by the beach somewhere," Fox says.
 
 Fox attended Gemini Elementary, Holy Trinity Episcopal Academy, Hoover Junior High and Melbourne High during her 13 years here. She was also a candy striper at Holmes Regional Medical Center, and her brother Jeff, 12 years her senior, was once a member of the Melbourne Beach Volunteer Fire Department.
 
@@ -31,7 +31,7 @@ In several magazine articles supplied by a Los Angeles publicity agency, Fox sta
 
 " 'Pillow Talk' didn't seem like a natural fit for her," says Gabe, who worked Fox into the lead character played by Doris Day in the 1959 film. "The only other role she'd played was in 'Juvie,' and the lead was a girl who was dark and angry. That was the persona Jorjan liked to project until you got to know her better. She had an aura about her, a little bit of a wall that kept people at a distance."
 
-To this day, Fox &#8212; who says she'd never make a good crime-scene investigator in real life because of her squeamishness &#8212; isn't sure where that edge came from.
+To this day, Fox - who says she'd never make a good crime-scene investigator in real life because of her squeamishness - isn't sure where that edge came from.
 
 "I was in trouble a lot in high school, but it wasn't anything serious," she recalls. "Things like walking around with headphones on, which was against the rules. I didn't understand why. Maybe it was just being in a small town. There are a lot more ways to push the envelope in a small town."
 
@@ -41,11 +41,11 @@ Today, in the lull between startup production on the fourth season of "CSI" in J
 
 There's not much of a window to work with. "CSI" didn't finish taping its third season until April.
 
-And lately, there's a notion to master surfing, which is something she didn't do much of when she was living on the Space Coast. Maybe that's part of the reason why Fox &#8212; a pale, dark-haired kid who decided to compete in modeling against the more conventional, blond, tanned, surfer-girl types &#8212; regards what happened at the Melbourne mall all those years ago as something of a watershed event.
+And lately, there's a notion to master surfing, which is something she didn't do much of when she was living on the Space Coast. Maybe that's part of the reason why Fox - a pale, dark-haired kid who decided to compete in modeling against the more conventional, blond, tanned, surfer-girl types - regards what happened at the Melbourne mall all those years ago as something of a watershed event.
 
 Now a serious vegetarian, Jorja Fox says she was "obese" in the seventh grade, and decided to change her look when she developed a crush on an older guy. She dropped the weight and got lean, but never fully bought into conforming to anyone else's expectations.
 
-"I'll never forget when we were doing 'Pillow Talk.' It was the first time anyone had seen Jorjan out of character, so to speak," Gabe says. "She was wearing a dress and makeup and heels and everybody said, 'My god &#8212; you look so pretty!' "
+"I'll never forget when we were doing 'Pillow Talk.' It was the first time anyone had seen Jorjan out of character, so to speak," Gabe says. "She was wearing a dress and makeup and heels and everybody said, 'My god - you look so pretty!' "
 
 So it was almost on a dare that she bowed to a friend's insistence and signed up for the mall competition. There were "at least 200 people there, maybe more," Fox says. "I really didn't do anything to prepare. I was wearing shorts and a tank top."
 
@@ -104,4 +104,3 @@ Television
 "Missing Persons" (1993)
 
 "Summer Stories: The Mall" (1992)
-

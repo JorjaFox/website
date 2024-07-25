@@ -23,4 +23,3 @@ The top-rated drama gets off to a speedy start in its third-season opener, in wh
 **Sara:** I got chocolate.
 **Warrick:** What color is it?
 **Sara:** Green. You know what they say about the green ones.
-

@@ -27,7 +27,7 @@ Living TV is "Women orientated entertainment" and is available on Sky, Telewest 
 
 **Jorja:** What's 'forensic' mean? laughter
 
-**Marc:** If ya can't spell the word, ya can't be on the show, that's the rule. Jorja chuckles No, do you ya take any of the information and sit there at cocktail parties and go &#8216;do you know?'
+**Marc:** If ya can't spell the word, ya can't be on the show, that's the rule. Jorja chuckles No, do you ya take any of the information and sit there at cocktail parties and go 'do you know?'
 
 **Jorja:** Yeah, but ya know, people get up and leave usually, I don't know why...
 

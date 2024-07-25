@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Jorja Fox To Leave &#8216;CSI'  "
+newstitle: "Jorja Fox To Leave 'CSI'  "
 newsauthor: Staff
 newssource: Florida Today
 newsurl: http://www.etonline.com/news/2007/10/54845/index.html

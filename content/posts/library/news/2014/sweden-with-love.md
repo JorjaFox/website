@@ -20,4 +20,3 @@ newsurl: http://www.swedenwithlove.com/2014/05/whats-best-thing-ever-gave/
 [...]
 
 Photograph of Jorja Fox by Elizabeth Messina. [...]
-

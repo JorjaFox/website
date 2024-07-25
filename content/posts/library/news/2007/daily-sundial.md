@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Makers of &#8216;CSI' film episode on campus"
+newstitle: "Makers of 'CSI' film episode on campus"
 newsauthor: Daily Sundial
 newssource: Daily Sundial
 newsurl: http://media.sundial.csun.edu

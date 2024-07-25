@@ -21,4 +21,3 @@ The following promotional clip from the Feb. 3 episode - which finds Jorja Fox's
 But will William Petersen actually be making an appearance - as CSI Files is reporting? Or will Grissom remain an off screen presence? A *CSI* spokesperson declined to comment. My gut, however, advises you to tune in.
 
 Watch the clip and you tell me: Do you think Grissom will turn up next week? Or am I reading too much into it?
-

@@ -28,4 +28,3 @@ On tonight's episode, Catherine (Marg) and Warrick (Gary) discover two bodies in
 "Everybody has a past and a history. Sara's is a little more muddled and complicated than some and we are going to open the door on that tonight."
 
 [...]
-

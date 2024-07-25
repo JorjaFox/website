@@ -69,4 +69,3 @@ for those who can't get enough of Dourdan, he's hard at work on his own CD
 to be released later this year on his record label, "Metisse."
 
 To watch "C.S.I." tune to the CBS network Thursdays at 9 p.m. ET
-

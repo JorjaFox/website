@@ -16,7 +16,7 @@ newsurl: http://www.post-gazette.com/pg/09016/942125-42.stm
 
 [...]
 
-**Grissom's farewell to &#8216;CSI""
+**Grissom's farewell to 'CSI""
 
 SPOILER ALERT! Discussion of the final scene in Gil Grissom's last episode of "CSI: Crime Scene Investigation" follows. Read on at your own risk.
 

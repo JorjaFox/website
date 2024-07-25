@@ -7,7 +7,7 @@ tags: ["Television"]
 slug: ellen
 gallery: https://jorjafox.net/gallery/tv/guest/ellen-puppy/
 imdb: https://www.imdb.com/title/tt0570077/
-image: /img/actor/ellen.jpg
+image: /img/actors/ellen.jpg
 ---
 
 ## "The Puppy Episode (2)"

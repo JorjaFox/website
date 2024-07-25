@@ -34,4 +34,3 @@ Nick and Sara meet Detective Frankie Reed (Katee Sackhoff) at a thrift store whe
 
 **Sara:** You know, I shop here. They have some good stuff.
 **Reed:** Do they always sell dead bodies?
-

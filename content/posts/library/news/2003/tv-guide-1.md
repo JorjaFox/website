@@ -42,4 +42,3 @@ Vegetarian Pizza with Pineapple and Pepperoni
 2 cups/500 ml soy cheese, shredded
 
 Fox prefers to buy the pizza dough from her favorite pizza shop and sometimes uses soy sausage instead of soy pepperoni. Pour pizza sauce over pizza round and spread evenly. Arrange pineapple and pepperoni slices to taste on and sprinkle with cilantro and shredded cheese. Bake in the lower half of a 450 F (230 C) oven for 15 minutes or until the crust is golden brown and the cheese is bubbly. Makes 1 12-inch (30 cm) pizza.
-

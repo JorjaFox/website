@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "Two top &#8216;CSI' actors fired"
+newstitle: "Two top 'CSI' actors fired"
 newsauthor: Staff
 newssource: Digital Spy
 newsurl: http://www.digitalspy.co.uk

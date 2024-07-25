@@ -23,4 +23,4 @@ How celebs satisfy their cravings without packing on the pounds.
 
 **Fave Snack?** "I do a lot of the Power Bars and veggies, peanut butter and crackers, and vegetarian beef jerky."
 
-**Snack Facts:** A Fit &#8216;n Lite Power Bar contains 133 fat-free calories, 6.5 grams of protein, and 18.2 grams of carbs. One package of Primal Strips vegan jerky contains 74 calories, 2 fat grams, 8 carb grams, 10 protein grams, plus calcium and iron.
+**Snack Facts:** A Fit 'n Lite Power Bar contains 133 fat-free calories, 6.5 grams of protein, and 18.2 grams of carbs. One package of Primal Strips vegan jerky contains 74 calories, 2 fat grams, 8 carb grams, 10 protein grams, plus calcium and iron.

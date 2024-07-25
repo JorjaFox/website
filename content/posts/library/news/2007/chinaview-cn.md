@@ -23,4 +23,3 @@ Fox, who played Sara Sidle in the hot TV series, has told several publications t
 Fox had a history of butting heads with CBS brass over contract negotiations and was fired in 2004 before coming to an agreement with the network.
 
 After that, her status on the show was the source of rampant rumors up until she confirmed her departure last month.
-

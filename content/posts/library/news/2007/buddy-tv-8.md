@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "Fans Show Support for &#8216;CSI' Actress"
+newstitle: "Fans Show Support for 'CSI' Actress"
 newsauthor: Staff
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/

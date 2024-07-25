@@ -19,7 +19,7 @@ Actor/executive producer William Petersen (Gil Grissom) and executive producer C
 
 **Anthony Zuiker:** It was a very gut wrenching to make- to do. It was a very risky decision to make. And it was very unexpected.
 
-##Petersen Et Al On The Science Of The Scripts##
+## Petersen Et Al On The Science Of The Scripts
 
 [...]
 

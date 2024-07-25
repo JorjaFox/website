@@ -56,4 +56,3 @@ Confession: I have never purposefully watched an episode of CSI. Or any of its s
 49. And then they rode off into the sunset.
 
 [...]
-

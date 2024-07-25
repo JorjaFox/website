@@ -2,6 +2,9 @@ main:
   endorse: false
   description: "A fansite celebrating the actor and activist, Jorja Fox"
 
+head:
+  tagline: "A Jorja Fox Fansite"
+
 style:
   primary: "#107952"
 
@@ -15,7 +18,11 @@ favicon:
 home:
   sections: [ "blog" ]
   feature:
-    width: 4
+    width: 6
+    color: "primary"
 
 externalLinks:
   cue: true
+
+includeToc:
+  show: true

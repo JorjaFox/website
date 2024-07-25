@@ -25,4 +25,3 @@ newsurl: http://www.csifiles.com/content/2012/07/interview-don-mcgill/
 "'McGill:"' We"ve talked about it and yes, it would be a great idea. We just want to have the right story to introduce Sara"s mom. We have a list of actresses and we"re really excited when we look at some of the names of who we would like to approach for the role.
 
 [...]
-

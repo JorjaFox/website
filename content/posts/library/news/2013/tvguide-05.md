@@ -16,7 +16,7 @@ newsurl: http://www.tvguide.com/News/CSI-300-Episodes-Best-1072388.aspx
 
 Over 14 seasons and 300 episodes, "CSI" has concocted some wild plots and brought in memorable guest stars to keep the body-bagging business fresh and fun. We asked the cast - including Marg Helgenberger, who reprises her role as Catherine Willows for Wednesday's landmark 300th episode, which flashes back to a case the team failed to crack in 2000 - to reflect on the show's best installments, selected by longtime executive producer Carol Mendelsohn.
 
-"'1. Blood Drops (Season 1, Episode 7)"' A 6-year-old Dakota Fanning plays the surviving daughter of a family that's been butchered in their home. "I've had nightmares frm time to time about this one," admits Jorja Fox (Sara). "Grissom [William Petersen] and Sara arrived so quickly after the murders that you could still feel the horrible events. I had one line - &#8216;Her soul's still in the room' - which has stayed with me as [emblematic] of the entire series."
+"'1. Blood Drops (Season 1, Episode 7)"' A 6-year-old Dakota Fanning plays the surviving daughter of a family that's been butchered in their home. "I've had nightmares frm time to time about this one," admits Jorja Fox (Sara). "Grissom [William Petersen] and Sara arrived so quickly after the murders that you could still feel the horrible events. I had one line - 'Her soul's still in the room' - which has stayed with me as [emblematic] of the entire series."
 
 [...]
 
@@ -29,4 +29,3 @@ Over 14 seasons and 300 episodes, "CSI" has concocted some wild plots and brough
 CSI airs Wednesdays at 10/9c on CBS.
 
 [Full disclosure: TVGuide.com is owned by CBS.]
-

@@ -23,11 +23,11 @@ tags: [ "2008" ]
 
 **Ausiello:** Now Grissom/Sara might ... ride off into the sunset together? In his final episode?
 
-**Fox:** Well. I guess there's kind of two options, right? Either they end up together or they don't. So &#8212; and I don't know either!
+**Fox:** Well. I guess there's kind of two options, right? Either they end up together or they don't. So - and I don't know either!
 
 **Ausiello:** You don't know yet!?
 
-**Fox:** No, no I don't. I haven't started that episode yet. And I really believe it's going to be one of those shows that, until it's all shot, anything could happen. I wouldn't even be surprised &#8212; We almost &#8212; We never do more than one ending, but I wouldn't be surprised if we did on this one.
+**Fox:** No, no I don't. I haven't started that episode yet. And I really believe it's going to be one of those shows that, until it's all shot, anything could happen. I wouldn't even be surprised - We almost - We never do more than one ending, but I wouldn't be surprised if we did on this one.
 
 **Ausiello:** What was it like coming back? Like after being away for a year?
 
@@ -35,11 +35,11 @@ tags: [ "2008" ]
 
 **Ausiello:** What are you going to do after you wrap your "CSI" run?
 
-**Fox:** I don't know. I really don't know, you know what I mean? There's a few options and I'm looking at some TV stuff now, I'm looking at some feature stuff. Mostly I've been goofing off. You probably know that. I've been having &#8212; I don't know whether it's a mid-life crisis or what, but ... some remote beach, or I've visited Alaska this year. I've had jet engines for legs, which, really, I feel blessed and so fortunate. So now I'm starting to get the itch to work, so. Yeah. I'm looking at a few different things.
+**Fox:** I don't know. I really don't know, you know what I mean? There's a few options and I'm looking at some TV stuff now, I'm looking at some feature stuff. Mostly I've been goofing off. You probably know that. I've been having - I don't know whether it's a mid-life crisis or what, but ... some remote beach, or I've visited Alaska this year. I've had jet engines for legs, which, really, I feel blessed and so fortunate. So now I'm starting to get the itch to work, so. Yeah. I'm looking at a few different things.
 
 **Ausiello:** Do people ever come up to you and say "God, you left the number one series on TV, what's wrong with you?'
 
-**Fox:** Yeah, that happens. And I actually agree with them, sort of, half the time. Me, you know it was my twelfth season in a row, and everybody else on the show it was their eighth or ninth. And I just &#8212; I needed a break. I hadn't had this part of my life mapped out at all. I kind of felt like I needed to take some air and figure out what I want that to look like. You know, do I want to stay in TV, if I'm lucky enough to do so? Do I want to go get a degree in, like, economics? What do- I- It's uncharted territory for me.
+**Fox:** Yeah, that happens. And I actually agree with them, sort of, half the time. Me, you know it was my twelfth season in a row, and everybody else on the show it was their eighth or ninth. And I just - I needed a break. I hadn't had this part of my life mapped out at all. I kind of felt like I needed to take some air and figure out what I want that to look like. You know, do I want to stay in TV, if I'm lucky enough to do so? Do I want to go get a degree in, like, economics? What do- I- It's uncharted territory for me.
 
 **Ausiello:** Why do you think "CSI" hasn't gotten more Emmy love, or doesn't get it?
 

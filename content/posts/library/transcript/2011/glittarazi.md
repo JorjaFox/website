@@ -19,7 +19,7 @@ interviewurl: http://glittarazzi.com/
 
 **Glittarazi:** No, I think we've got that one pretty much well covered. No I think we're talking about the one that you're advocating for today.
 
-**Jorja Fox:** Yes! I'm here in Washington DC today and I get to be a part of this amazing group of people today. We're launching a bill called TEAPA. It's the "Traveling Exotic Animal Protection Act." I'm over the moon, I've never been to congress before in this fashion. We're going to meet a lot of representatives this afternoon. The bill's out ... What can people do? People could get sort of involved. The biggest thing right now is to spread the message and spread the word. In order for any bill to have a chance in congress the public has to know about it, and they kind of have to get their congress-people excited about passing it. If what we came here today to talk about is popular and people agree with it, and I really think they do and they will, especially if they take some time to look at the information, then this bill will pass and .. These animals, these large land mammals that so many of us love and adore, I think really deserve better at this point. And I think that if we want to leave a planet for our kids and their kids, a good planet, the survival of these animals is absolutely imperative. We need them. We don't just &#8212; We think that maybe we won't, but we actually do to survive.
+**Jorja Fox:** Yes! I'm here in Washington DC today and I get to be a part of this amazing group of people today. We're launching a bill called TEAPA. It's the "Traveling Exotic Animal Protection Act." I'm over the moon, I've never been to congress before in this fashion. We're going to meet a lot of representatives this afternoon. The bill's out ... What can people do? People could get sort of involved. The biggest thing right now is to spread the message and spread the word. In order for any bill to have a chance in congress the public has to know about it, and they kind of have to get their congress-people excited about passing it. If what we came here today to talk about is popular and people agree with it, and I really think they do and they will, especially if they take some time to look at the information, then this bill will pass and .. These animals, these large land mammals that so many of us love and adore, I think really deserve better at this point. And I think that if we want to leave a planet for our kids and their kids, a good planet, the survival of these animals is absolutely imperative. We need them. We don't just - We think that maybe we won't, but we actually do to survive.
 
 **Glittarazi:** Absolutely. So if you could star in a PSA with any politician, who would it be?
 
@@ -31,7 +31,7 @@ interviewurl: http://glittarazzi.com/
 
 **Glittarazi:** Okay. When you come into DC, where are some of the usual places you like to check out?
 
-**Jorja Fox:** Because it's usually two to three years between visits for me, there's very few places I go back to again and again, unlike the Lincoln Monument &#8212; Memorial. I think I've seen it every single time I've been here. I love to walk in the park. But the restaurants ... It's funny because &#8212; I'm from New York City originally, and I would say about my own city what I would say, perhaps naively, about DC. And it's that it seems to never ever change, and yet it's completely different at the same time. I went to a really great restaurant last night that I'd never heard of and I'd never been to. I try to check out new stuff, I guess, when I come.
+**Jorja Fox:** Because it's usually two to three years between visits for me, there's very few places I go back to again and again, unlike the Lincoln Monument - Memorial. I think I've seen it every single time I've been here. I love to walk in the park. But the restaurants ... It's funny because - I'm from New York City originally, and I would say about my own city what I would say, perhaps naively, about DC. And it's that it seems to never ever change, and yet it's completely different at the same time. I went to a really great restaurant last night that I'd never heard of and I'd never been to. I try to check out new stuff, I guess, when I come.
 
 **Glittarazi:** What was that restaurant called? Do you remember?
 
@@ -66,4 +66,3 @@ interviewurl: http://glittarazzi.com/
 **Jorja Fox:** Thank you.
 
 **Glittarazi:** Thank you.
-

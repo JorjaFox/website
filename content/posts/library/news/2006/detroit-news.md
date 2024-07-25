@@ -25,4 +25,3 @@ Here's what the 38-year-old New York native had to say about "CSI" and other top
 **On Sara and Gil hooking up:** "Sara was originally a love interest for the character of Gil Grissom. So being that it was on there (the original script), I was very intrigued and sort of thought it might happen. I think one of the coolest things about it and the way that the story ended up being delivered at the end of season six, is to suddenly find these characters together, and we know how long it's been going on. I think it's brilliant."
 
 **On "CSI's" creative process:** "You know, you just get this little description, and you take the journey. And the writers and producers are really kind. If there's some place we don't really want to go or we really don't feel safe, we can go to them, and generally they'll change the course or direction for us."
-

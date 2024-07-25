@@ -29,4 +29,3 @@ The captions, which aired during the 2007 season, caused a flurry of phone calls
 "There's definitely some hot chemistry between **Marg Helgenberger** and **Jorja Fox**," said Wayne, referring to the actors who play the *CSI* characters, "I can't believe no one else sees that!"
 
 [...]
-

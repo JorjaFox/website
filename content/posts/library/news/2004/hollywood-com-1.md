@@ -20,4 +20,3 @@ It was a red carpet explosion of diamonds, designer frocks, cleavage, tuxes and 
 "We had a last minute freak-out," said CSI's Jorja Fox. "We all met around the corner at the Four Seasons today, so the freak out happened there. There were millions of people meeting at the Four Seasons today, and trying to find each other and the limousines have to go away, they can't stay with you. So we'd find each other and then the cars would be gone, and then we'd lose the guys and then the cars would be back. So that was the drama of the afternoon."
 
 [...]
-

@@ -21,4 +21,3 @@ The actress - who was a *CSI* regular for the show's first seven seasons - left 
 The news comes as *CSI* is undergoing a major cast shakeup as it enters its 12th season. As previously reported, Ted Danson has replaced Laurence Fishburne as the new supervisor.
 
 *CSI* launches its new season on Sept. 21, in a new time slot - Wednesdays at 10/9c.
-

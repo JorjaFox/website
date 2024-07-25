@@ -16,7 +16,7 @@ newsurl: http://www.tvguide.com
 
 [...]
 
-**Question: What's the latest on Jorja Fox's contract situation? &#8212; Spiffym212**
+**Question: What's the latest on Jorja Fox's contract situation? - Spiffym212**
 
 **Ausiello:** Nothing's official, but I hear she's close to re-signing.
 

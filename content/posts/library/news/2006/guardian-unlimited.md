@@ -85,4 +85,3 @@ Blackbird, by The Beatles.
 **What is the most important lesson life has taught you?**
 
 You get what you settle for.
-

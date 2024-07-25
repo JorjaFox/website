@@ -22,7 +22,6 @@ Part One: An assassination attempt yields casualties; a military crisis looms in
 
 While the staff awaits news regarding the injuries to Jed and Josh, they recall how Josh, Sam, and Toby became involved in the campaign three years earlier; Leo, Toby, and C.J. deal with inquiries on Secret Service protection policies, as well as the absence of executive authority while Jed was in surgery.
 
-
 ## Quotes
 
 **Gina:** White male, twenty twenty-five, maybe five-ten.

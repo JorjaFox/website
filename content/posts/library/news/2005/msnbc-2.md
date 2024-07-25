@@ -20,4 +20,3 @@ newsurl: http://msnbc.com
 **The crush rears its ugly head again:** When Grissom and Sara were processing the upstairs of the Lesters' house, there was an awkward moment when Sara said, "You don't have to sleep in the same bed to have sex. Or to have romance." Grissom couldn't seem to get out of that room fast enough. Of course, this scene brings up another question I've had about "CSI" forever: Why do these guys always use their flashlights instead of just turning on the lights?
 
 [...]
-

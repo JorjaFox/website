@@ -14,7 +14,7 @@ newsurl: http://www.post-gazette.com
 ---
 Last season on "The West Wing," actress Jorja Fox played a Secret Service agent willing to take a bullet for the president's daughter. Turns out she suffered a different injury while filming the assassination attempt scene in the show's season finale.
 
-"We accidentally ran over her leg with a limousine &#8212; and she was great about it," said "West Wing" writer/creator Aaron Sorkin.
+"We accidentally ran over her leg with a limousine - and she was great about it," said "West Wing" writer/creator Aaron Sorkin.
 
 Fox was filming on location in front of the Newseum in Arlington, Va. After the shooting, Fox fell to the asphalt alongside Dule Hill, who plays Charlie, the president's aide.
 
@@ -25,4 +25,3 @@ Fox jumped up immediately and she thought she was fine, but producers insisted s
 "I felt like a walking miracle because I didn't break anything," Fox said. "It was kind of like a big bruise, a big contusion."
 
 Fox will return at least for the season premiere of "West Wing," but she can't reveal the fate of her character following the shooting. Whether or not she dies, she won't be a "West Wing" regular. She's starring in the new CBS drama "C.S.I."
-

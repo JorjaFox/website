@@ -37,7 +37,7 @@ tags: [ "2006" ]
 
 **Jorja Fox:** Yeah
 
-**Bob Linden:** &#8212; and didn't you also influence, like, not using real animals on the show or something to that effect...?
+**Bob Linden:** - and didn't you also influence, like, not using real animals on the show or something to that effect...?
 
 **Jorja Fox:** Well you know, of course, I, it was more naivety on my part because, you know, they would never use real animals, ah, particularly for any of the dead animals on our show. We've had some fantastic animal actors come through "CSI", but all of them have been alive and well and breathing and (laughs) we even have, we use a lot of bugs on the show, and we have, ah, special humane bugs' guys that are here to make sure the bugs are taken care of, and that, you know, everybody who arrives on the set leaves the set (laughs) in good shape. So yeah, we do, everybody who's dead on the show whether it's animals, or people of course, are either not real or actors portraying people that are dead, so yeah, no animals have ever been harmed in the making of "CSI" thank goodness, I'm proud to say.
 
@@ -63,7 +63,7 @@ tags: [ "2006" ]
 
 **Bob Linden:** Yeah.
 
-**Jorja Fox:** &#8212; like a (???)
+**Jorja Fox:** - like a (???)
 
 **Bob Linden:** They're thriving, yeah. I mean, they're, so that's, so that's great. Now, you know, if you, if you look at your acting resume though, I mean, these are amazingly, these are the biggest shows of, of the last few years, and um, how did we get these roles, how uh, how uh does an "ER", "West Wing" and "CSI" happen? "CSI: Crime Scene Investigation" is like the biggest show, you know that cause there are so many spin-offs on it, you know, so uh, um, how did it, how did it happen for you?
 

@@ -30,4 +30,3 @@ I think my favorite moments of the episode were the quieter ones: Sara and Griss
 I did like that there were nods to the show's illustrious past in the commercial breaks, i.e. the 'furries,' for instance; and the show could have done worse in terms of the overall plot- I liked that they not only brought back Lady Heather, but answered a few burning questions a lot of us had about her- that she and Grissom were never intimate and she never was truly in love with him, he just helped her come to terms with certain facets of herself. Good to know, and even better for Sara to know. Definitely a nice touch.
 
 [...]
-

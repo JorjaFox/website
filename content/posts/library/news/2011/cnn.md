@@ -28,7 +28,7 @@ Rep. Jim Moran, D-Virginia, said that although the issue is not the most pressin
 
 Dr. Mel Richardson of Animal Defenders International lent his perspective from more than four decades of veterinary practice on the conditions of most, if not all, lions, tigers and elephants in traveling shows: "Imagine living all of your life on a queen-size or king-size bed."
 
-But the concerns are not confined to their housing. Jan Creamer, president of ADI, said there is sufficient documented evidence &#8212; gained from workers planted in some traveling circuses &#8212; that many of the animals suffer from violent training and severe punishment.
+But the concerns are not confined to their housing. Jan Creamer, president of ADI, said there is sufficient documented evidence - gained from workers planted in some traveling circuses - that many of the animals suffer from violent training and severe punishment.
 Barker's celebrity co-host was actress Jorga [sic.] Fox of "CSI" and "The West Wing," who echoed the call for setting up more permanent residences for circus animals, and taking them off the road.
 
 "Our kids look to us for what is right and our kids look to us for what is fun. ... If our kids knew how cruel and violent these events were, I think they'd actually be very disappointed in us, for [going] to these places," Fox said.

@@ -16,4 +16,4 @@ newsurl: http://www.tvguide.com
 
 [...]
 
-Speaking of torches, what about the one Grissom carries for Sara? According to Mendelsohn, his departure will cause tension in that relationship, the source of which will become clear in a future episode &#8212; when Grissom will try to make things right by "sending Sara (Jorja Fox) something. Fans may remember the last time he did that, it was a plant. So for longtime fans, this will have resonance."
+Speaking of torches, what about the one Grissom carries for Sara? According to Mendelsohn, his departure will cause tension in that relationship, the source of which will become clear in a future episode - when Grissom will try to make things right by "sending Sara (Jorja Fox) something. Fans may remember the last time he did that, it was a plant. So for longtime fans, this will have resonance."

@@ -17,19 +17,19 @@ newsurl: http://shanessaunders.com/2011/03/10/interview-csi-writer-christopher-b
 
 *CSI *fans got a real treat this season when former series-regular **William Petersen** returned for a brief cameo. The mastermind behind that story, 2008 Genesis Award Winner **Christopher Barbour**, graciously took a break from his busy schedule this afternoon to speak to me exclusively on how they got Grissom back, Catherine's future, and a big showdown between Nate Haskell and Ray Langston. **Spoilers a plenty after the jump!**
 
-&#8212;-
+--
 
 **Saunders**: Some pretty major events happened in your last episode "The Two Mrs. Grissoms." With the show eleven seasons into its run, what made the writers decide to do an episode with a heavy focus on Grissom (**William Petersen**), even though he is no longer a series-regular?
 
 **Barbour**: (laughs) Yes, indeed. We love **Jorja Fox** and Sara. And obviously, Sara being married to Grissom, there was a need to address how that relationship works in some way, shape, or form. We are a procedural show so it's more difficult to sort of delve deeply into the lives of the characters. You usually get suggestions and snippets of that. In the beginning, the episode was more focused on Sara and her relationships. I was actually surprised that we were able to get Billy to come back and do the cameo; I was thrilled.
 
-I feel very fortunate. I'm not just a writer on the show, but I was always a fan of the show. So it was sort of a dream job. Billy's a fine actor and I can understand wanting to move on to other projects, I think Jorja really reached out to him. She had done that for him in "Leave Out All The Rest," and he asked her &#8216;do you mind doing this one video segment?' and she said &#8216;sure!'. So she reached out to him and it was really a surprise. I guess in the back of my mind and probably **Treena Hancock** and **Melissa Byer**&#8216;s mind that we *might* have an opening if Billy didn't mind making a phone call or being on Skype. In my mind I didn't think it was going to happen.
+I feel very fortunate. I'm not just a writer on the show, but I was always a fan of the show. So it was sort of a dream job. Billy's a fine actor and I can understand wanting to move on to other projects, I think Jorja really reached out to him. She had done that for him in "Leave Out All The Rest," and he asked her 'do you mind doing this one video segment?' and she said 'sure!'. So she reached out to him and it was really a surprise. I guess in the back of my mind and probably **Treena Hancock** and **Melissa Byer**'s mind that we *might* have an opening if Billy didn't mind making a phone call or being on Skype. In my mind I didn't think it was going to happen.
 
-We wanted it to be a surprise to the audience. People go &#8216;oh, why didn't you promote it?'. I guess from my point of view I like the idea that it might've been something that was a surprise. It sends a signal that you should watch the show because you never know what you're going to see. I also didn't want people to think that we were jerking them around because he's not in a lot of it. I didn't want people to be disappointed. Hopefully you get a sense of how they stay in contact while in a long-distance relationship.
+We wanted it to be a surprise to the audience. People go 'oh, why didn't you promote it?'. I guess from my point of view I like the idea that it might've been something that was a surprise. It sends a signal that you should watch the show because you never know what you're going to see. I also didn't want people to think that we were jerking them around because he's not in a lot of it. I didn't want people to be disappointed. Hopefully you get a sense of how they stay in contact while in a long-distance relationship.
 
 **Saunders**: Was it scripted from the beginning to have him return?
 
-**Barbour**: No, not at all. Not at all. We thought about meeting the mother-in-law because of the concept of returning to the deaf school. The possibility of having **Marlee Matlin** as a guest-star. That all sort of gestated together, and then the possibility of having Billy coming was late in that process. There was a possibility of doing the episode without him; I think it's so much better with him. It's very hard to talk *around* him, and we were very fortunate that he agreed to do the show. It might have felt a little empty if we had done that episode, met his mother, seen the relationship between mother-in-law and Sara, yet not see Grissom. (laughs<span style="text-decoration:underline;"> </span>)
+**Barbour**: No, not at all. Not at all. We thought about meeting the mother-in-law because of the concept of returning to the deaf school. The possibility of having **Marlee Matlin** as a guest-star. That all sort of gestated together, and then the possibility of having Billy coming was late in that process. There was a possibility of doing the episode without him; I think it's so much better with him. It's very hard to talk *around* him, and we were very fortunate that he agreed to do the show. It might have felt a little empty if we had done that episode, met his mother, seen the relationship between mother-in-law and Sara, yet not see Grissom. (laughs)
 
 **Saunders**: How hard was it to get him back?
 
@@ -43,7 +43,7 @@ I think he was more than happy to accommodate it, which I thought was very nice.
 
 We were interested in the notion that there were different types of sign language; I don't think people really think about that. We had some people around to help us make it authentic, and then certainly having Marlee Matlin along was very helpful.
 
-**Saunders**: A few weeks back we got a sense that Langston (**Laurence Fishburne**) might be going to the &#8216;dark side.' (*Barbour laughs*) He's clearly having a rough time with serial killer Nate Haskell (**Bill Irwin**), and from what I can tell he's reached his breaking point. At what point is he finally going to snap?
+**Saunders**: A few weeks back we got a sense that Langston (**Laurence Fishburne**) might be going to the 'dark side.' (*Barbour laughs*) He's clearly having a rough time with serial killer Nate Haskell (**Bill Irwin**), and from what I can tell he's reached his breaking point. At what point is he finally going to snap?
 
 **Barbour**: Well, we will be bringing Nate back. He is not done tormenting Langston yet. That is what we're working on as I speak, without giving anything away. Bill Irwin is an actor we're really excited to have as a part of the show and he will be returning. Hopefully, it will be a satisfying run as we approach the end of the season.
 
@@ -102,4 +102,3 @@ There is something that I'm drawn to Sara about her past and her working through
 **Saunders**: Is Anthony Zuiker (the creator of *CSI*) planning on bringing Sqweegel back?
 
 **Barbour**: That is true. We may be revisiting Sqweegel.
-

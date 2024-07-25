@@ -5,14 +5,14 @@ layout: news
 permalink: /news/1992/:title/
 categories: ["Articles", "News"]
 tags: ["1992"]
-newstitle: "&#8216;Summer Stories' offers characters worth watching"
+newstitle: "'Summer Stories' offers characters worth watching"
 date: 1992-03-19
 newsauthor: Steve McKerrow
 newssource: The Baltimore Sun
 newsurl: http://articles.baltimoresun.com/1992-03-19/features/1992079104_1_summer-stories-mall-miniseries
 ---
 
-During an earlier era on television, teens hung out at the malt shop or the burger joint. But today their meeting place is the mall &#8212; and many of them work there.
+During an earlier era on television, teens hung out at the malt shop or the burger joint. But today their meeting place is the mall - and many of them work there.
 
 What better place to set an earnest new miniseries aimed at teen viewers?
 
@@ -27,4 +27,3 @@ But bearing in mind its target audience, the miniseries does address some of the
 The third principal story involves Diane (Jorjan Fox), a former drug abuser struggling to stay clean while being pressured by a former drug-dealing boyfriend to resume their relationship.
 
 [...]
-

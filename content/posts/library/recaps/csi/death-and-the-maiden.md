@@ -23,4 +23,3 @@ The CSIs discover that two seemingly unrelated crimes are actually part of a rev
 _Sara Sidle does not appear in this episode_
 
 Sara is working a quintuple homicide in Parumph and will be there all night.
-

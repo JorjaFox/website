@@ -20,9 +20,9 @@ Is it even possible to improve on good fortune like that?
 
 How about CBS moving CSI next week from Friday nights to Thursdays, where it will follow **Survivor: The Australian Outback**, almost guaranteeing it a spot in TV's Top 10.
 
-**&#8216;Huge surprise'**
+**'Huge surprise'**
 
-"CSI was a huge surprise," says Fox, who was hired last summer well after the show began shooting. Canadian actress **Chandra West**&#8216;s character had been killed off in the second episode, but the producers still wanted the show's forensic investigation team to have a young, female member.
+"CSI was a huge surprise," says Fox, who was hired last summer well after the show began shooting. Canadian actress **Chandra West**'s character had been killed off in the second episode, but the producers still wanted the show's forensic investigation team to have a young, female member.
 
 "I had to make a decision very quickly and not really knowing if (CSI) would succeed," Fox was recalling recently, on the phone from her home in L.A.
 
@@ -32,7 +32,7 @@ The most obvious exit for her West Wing character, the Secret Service agent assi
 
 Instead, "I walked away without a scratch," Fox says. "That's an Aaron Sorkin trick. I guess typically he doesn't write characters out. So I just kind of disappeared into thin air with The West Wing. That's good because there's a door open for me sometime to return."
 
-The 32-year-old has been on the move much of her life. She was born in New York to Canadian parents &#8212; her late mother was a Francophone, her father an Anglophone &#8212; and she grew up speaking "sort of French-lish.
+The 32-year-old has been on the move much of her life. She was born in New York to Canadian parents - her late mother was a Francophone, her father an Anglophone - and she grew up speaking "sort of French-lish.
 
 "Whatever was easiest to say. Growing up, it was very common that one sentence would be French and the next would be English," Fox says.
 
@@ -45,4 +45,3 @@ When she was three, the family moved to Florida. At 15, she won a shopping mall 
 Determined to act instead, Fox bartended, waited tables, worked in a kennel, checked coats at a nightclub. Her breakthrough came playing a rookie cop on Missing Persons, a short-lived 1993 TV crime drama starring Daniel J. Travanti. She joined ER as Maggie Doyle in season three.
 
 "It was a massive success. It was huge. I was very intimidated by that," she says. "I got the job at seven o'clock at night and I went to work at seven o'clock the next morning. It was good in a way because I didn't have a lot of time to think about how scared I was going to be."
-

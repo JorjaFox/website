@@ -27,4 +27,3 @@ Grissom and Catherine investigate the apparent violent death of a woman found in
 
 **Store Owner** You gonna arrest his ass?
 **Sara:** Yeah.
-

@@ -99,7 +99,7 @@ tags: ["2002"]
 
 **Gary Dourdan** Somewhat, yeah.
 
-**Jorja Fox** &#8216;Cause we're dedicated. So, I don't know. Sometimes even for better for worse, I don't know if everybody always wants to hear from us, but they always act like they do. And they let us talk and they listen to us a lot, which is very kind of them.
+**Jorja Fox** 'Cause we're dedicated. So, I don't know. Sometimes even for better for worse, I don't know if everybody always wants to hear from us, but they always act like they do. And they let us talk and they listen to us a lot, which is very kind of them.
 
 **Paul Guilfoyle** And acting is kind of the detailed work, almost like the way forensics is and in the course of the process of creating a television show, the acting is kind of the final touchstone of reality, and so I think that's where we all have our own unique experiences.
 

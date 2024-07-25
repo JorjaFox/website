@@ -20,4 +20,3 @@ Star William Petersen and his team of criminalists are called in to investigate 
 But the new season isn't the only thing on the cast's mind these days. With six Emmy nominations, including one for best drama series, they're already making plans for Emmy night. Well, co-star Jorja Fox says that win or lose, the real party will be after the September 22nd ceremony. She says, "The cast has a reputation for partying a little bit after events that we get together at. We're very bad."
 
 But you can bet these party people know how to hide the evidence.
-

@@ -14,7 +14,7 @@ newsurl: http://www.ap.com/
 
 ---
 
-WASHINGTON (AP) &#8212; There's a feeling of dread on the set of "CSI" and it has nothing to do with a murder. Jorja Fox says they're starting to shoot the episodes leading up to Marg Helgenberger's departure after 12 years. She says they've been on "this really fun high" since Ted Danson joined the show, but now, they're "about to be devastated." She says it's getting "pretty emotional" on the set. She says not a day goes by that someone doesn't ask Helgenberger to stay.
+WASHINGTON (AP) - There's a feeling of dread on the set of "CSI" and it has nothing to do with a murder. Jorja Fox says they're starting to shoot the episodes leading up to Marg Helgenberger's departure after 12 years. She says they've been on "this really fun high" since Ted Danson joined the show, but now, they're "about to be devastated." She says it's getting "pretty emotional" on the set. She says not a day goes by that someone doesn't ask Helgenberger to stay.
 
 Jorja Fox says Marg Helgenberger is leaving just as "CSI" was getting to be fun again.
 

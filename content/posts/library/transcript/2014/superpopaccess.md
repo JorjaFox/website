@@ -15,11 +15,11 @@ tags: [ "2014" ]
 
 **Interviewer**: [...] this weekend?
 
-**Eric Szmanda**: Well this was both of our first times going to the ceremony and I think it was one of the best ones that I've seen in recent years. One of my favorite artists kind of swept the awards. Daft Punk won album of the year &#8212;
+**Eric Szmanda**: Well this was both of our first times going to the ceremony and I think it was one of the best ones that I've seen in recent years. One of my favorite artists kind of swept the awards. Daft Punk won album of the year -
 
 **Jorja Fox**: Again and again!
 
-**Eric**: &#8212; Song of the year &#8212;
+**Eric**: - Song of the year -
 
 Jorja: Again and again! It was very exciting.
 
@@ -36,4 +36,3 @@ Jorja: Again and again! It was very exciting.
 **Eric:** We met a lot of nice people that work with CBS.
 
 **Interviewer:** Well go enjoy yourselves, guys. Thank you.
-

@@ -28,7 +28,7 @@ Their stand-ins run the scene again while camera angles are checked and marked o
 
 [...]
 
-Making the most of modern special effects, CSI viewers are often given a microscopic view of the clues that help Grissom (Petersen) and his team of crime scene investigators &#8212; Catherine Willows (Marg Helgenberger), Nick Stokes (George Eads), Sara Sidle (Jorja Fox) and Warrick Brown (Gary Dourdan ) &#8212; piece together the evidence and bring the perpetrators to justice.
+Making the most of modern special effects, CSI viewers are often given a microscopic view of the clues that help Grissom (Petersen) and his team of crime scene investigators - Catherine Willows (Marg Helgenberger), Nick Stokes (George Eads), Sara Sidle (Jorja Fox) and Warrick Brown (Gary Dourdan ) - piece together the evidence and bring the perpetrators to justice.
 
 [...]
 
@@ -43,4 +43,3 @@ Jorja Fox, who plays Sara, also thought the show would appeal to viewers from th
 "It was sort of that elusive faraway thing that I would never be able to be any good at, and here I am playing a star scientist who went to Harvard. It is great."
 
 [...]
-

@@ -7,7 +7,7 @@ permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
-newstitle: "The Grissoms Get Centerstage on &#8216;CSI'  "
+newstitle: "The Grissoms Get Centerstage on 'CSI'  "
 newsauthor: Orrymain
 newssource: DTVUSAForum.co
 newsurl: http://www.dtvusaforum.com/content/469-grissoms-get-centerstage-csi.html

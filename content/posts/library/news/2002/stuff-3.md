@@ -86,7 +86,6 @@ Silver Lake, California, 3:19 on a sunny afternoon at the dog park, about a soft
 
 **STUFF:** You're a self-described liberal. Will you use your fame to save the world?
 
-
 **JORJA:** Wow! I would sure love to try.
 
 **STUFF:** Where would you start?
@@ -99,6 +98,4 @@ Silver Lake, California, 3:19 on a sunny afternoon at the dog park, about a soft
 
 **STUFF:** Thanks.
 
-
 **JORJA:** You're not going to ask me what my favorite dildo is or something?
-

@@ -7,7 +7,7 @@ permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
-newstitle: "Jorja Fox - Co-producer of &#8216;Stay Together: The Life and Music of Dusty Springfield,' which opens on Feb. 7  "
+newstitle: "Jorja Fox - Co-producer of 'Stay Together: The Life and Music of Dusty Springfield,' which opens on Feb. 7  "
 newsauthor: Variety Staff
 newssource: Variety
 newsurl: http://www.variety.com/article/VR1117980300.html?categoryid=15&cs=1
@@ -30,7 +30,7 @@ I don't really like to collect stuff. I try to pass them on. That line also hide
 
 **Who do you think was the brightest star of the silver screen?**
 
-I don't know if she really fits the bill of &#8216;silver screen', but I've always really admired Lucille Ball. Comedy is such a gift. And she starred in her own show and ran a studio at the same time.
+I don't know if she really fits the bill of 'silver screen', but I've always really admired Lucille Ball. Comedy is such a gift. And she starred in her own show and ran a studio at the same time.
 
 **If you could play any real-life person in a movie, who would it be and why?**
 
@@ -38,7 +38,7 @@ I'd love to play any real person in a movie. Almost every character I've ever pl
 
 **Song currently playing in my iPod: **
 
-Dusty Springfield's &#8216;Dusty in Memphis' The whole album. I can't get enough of it.
+Dusty Springfield's 'Dusty in Memphis' The whole album. I can't get enough of it.
 
 **Ever feel that certain song lyrics were written with you in mind? What are they?:**
 
@@ -47,14 +47,16 @@ Well, over the last eight years or so, two songs play in my head often:
 *They say I'm crazy but I have a good time.
 I'm just looking for clues at the scene of the crime.
 Life's been good to me so far'*
+
 - "Life's Been Good To Me," Joe Walsh
 
 *She said I know what it's like to be dead.
 I know what it is to be sad.
 And she's making me feel like I've never been born.*
+
 - "She Said, She Said," the Beatles
 
-Lately I'm humming &#8216;The Best is Yet To Come' the Tony Bennett and Diana Krall recording.
+Lately I'm humming 'The Best is Yet To Come' the Tony Bennett and Diana Krall recording.
 
 **Concert that changed your life:**
 
@@ -89,4 +91,3 @@ Cake. I like to eat cake for breakfast. I strongly recommend it.
 Johnny Depp. Still is. Guess I'm loyal.
 
 For more on "Stay Together: The Life and Music of Dusty Springfield," [http://www.stayforeverdusty.com/ click here]
-

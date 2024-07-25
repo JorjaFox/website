@@ -17,7 +17,7 @@ _Translated from French_
 
 **The broadcasting of the sixth season has finished in France. What's going to happen in season seven?**
 
-The producers keep it secret. It's impossible to know where our characters will be in three months. I wonder if the writers haven't though about killing Sara. She's had almost everything else happen to her &#8212; arrest, humiliation, bad dating ... She's been the team's scapegoat for a long time. Although, I can tell you that in season seven, [Gil] Grissom is going to make it up to her, which gives me a rest. At last, I can finally smile on screen!
+The producers keep it secret. It's impossible to know where our characters will be in three months. I wonder if the writers haven't though about killing Sara. She's had almost everything else happen to her - arrest, humiliation, bad dating ... She's been the team's scapegoat for a long time. Although, I can tell you that in season seven, [Gil] Grissom is going to make it up to her, which gives me a rest. At last, I can finally smile on screen!
 
 **After seven years are you used to seeing corpses?**
 
@@ -25,7 +25,7 @@ I'm stronger now, but I sometimes want to puke when I see all the special effect
 
 **All this [death] doesn't seem to make for a cheerful atmosphere on the set!**
 
-Not at all! We laugh and we play music. We made a band &#8212; the actors and the technicians. Marg Helgenberger plays piano, Gary Dourdan plays bass and Robert David Hall plays guitar. I even want to film one of our impromptu gigs for our fans!
+Not at all! We laugh and we play music. We made a band - the actors and the technicians. Marg Helgenberger plays piano, Gary Dourdan plays bass and Robert David Hall plays guitar. I even want to film one of our impromptu gigs for our fans!
 
 **When you meet fans, what do you talk about ?**
 
@@ -46,4 +46,3 @@ I work 14 hour days for nine and a half months and I don't want to run everywher
 **Do you have a theater project going on?**
 
 I'm a producer of "Dear Bernard", a musical comedy about an English girl who comes to Hollywood to be successful. I also suggested to the "CSI" producers that we write a musical episode for this season. Wouldn't it be funny to see Grissom and his team singing during autopsies? We could even pretend it was all Sara's dream!
-

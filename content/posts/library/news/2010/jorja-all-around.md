@@ -29,7 +29,7 @@ newsurl: http://community.livejournal.com/jorjaallaround/658307.html
 
 **CM: **She was so amazing and sweet! She was tough and a real trooper when I had to throw her around and attack her!
 
-**JAA: **You've now gone at both of *CSI*&#8216;s leading ladies! Who else would you like to take a swing at?
+**JAA: **You've now gone at both of *CSI*'s leading ladies! Who else would you like to take a swing at?
 
 **CM:** I [would] rather they swing at me! And anyone who wants to!
 

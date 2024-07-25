@@ -16,7 +16,7 @@ Starring William Petersen (To Live and Die in L.A.) and Marg Helgenberger (China
 
 Series Executive Produced by Action Feature Film Producer Jerry Bruckheimer (Pearl Harbour, Con Air)
 
-**August 9, 2000 - Toronto** &#8212; ALLIANCE ATLANTIS COMMUNICATIONS INC. announced today a co-production deal with CBS Productions and Jerry Bruckheimer Films Inc. to produce the one-hour crime drama ***CSI: Crime Scene Investigation***. Twelve one-hour episodes began filming in Los Angeles on August 2, 2000, to premiere on the CBS Television Network this fall on Friday nights at 9 p.m. (ET/PT). The one-hour pilot was shot earlier this year.
+**August 9, 2000 - Toronto** - ALLIANCE ATLANTIS COMMUNICATIONS INC. announced today a co-production deal with CBS Productions and Jerry Bruckheimer Films Inc. to produce the one-hour crime drama ***CSI: Crime Scene Investigation***. Twelve one-hour episodes began filming in Los Angeles on August 2, 2000, to premiere on the CBS Television Network this fall on Friday nights at 9 p.m. (ET/PT). The one-hour pilot was shot earlier this year.
 
 ***CSI***, a weekly one-hour series, chronicles the fast paced lives of a passionate team of investigators in Las Vegas who are trained to solve crimes the old fashioned way-by examining every bit of evidence. **William Petersen** (*To Live and Die in L.A.*) heads the team of forensic heroes as "Gil Grissom," a senior forensics officer who, along with his team, works day and night solving crimes in ways that no other cops can. **Petersen** also serves as a Producer for the series.
 

@@ -16,7 +16,7 @@ newsurl: http://www.tvguide.com
 
 [...]
 
-**Question: Anything on the CSI front regarding Sara-Grissom? &#8212; Penelope**
+**Question: Anything on the CSI front regarding Sara-Grissom? - Penelope**
 
 **Ausiello:** There's a big Sara episode coming up in April in which she gets a little too emotionally involved in a case. Complicating matters is the fact that, unlike most of the show's victims, this one has a pulse. (For more on what's ahead for Srissom, read [http://www.tvguide.com/Magazine/Cover-Story/ this excerpt] of the cover story in the new issue of TV Guide magazine, on sale Thursday.).
 

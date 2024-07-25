@@ -29,4 +29,3 @@ newsurl: http://www.lesbianation.com/scene/index.cfm?listID=193
 Since she starred on ER as lesbian medical intern Maggie Doyle, we've had **Jorja Fox** on our minds. An outspoken vegetarian and PETA supporter, Jorja's only upped her appeal as troubled investigator Sara Sidle on CSI: Crime Scene Investigation. And rumor has it that Jorja likes the ladies in real life. Whether the rumors are true or not, Jorja's got hordes of lesbian fans. Sadly, Jorja's kissed CSI goodbye, but with smarts and natural good looks, Jorja won't be out ot the spotlight for long. If Jorja makes you feel warm and fuzzy, show her some love and vote.
 
 [...]
-

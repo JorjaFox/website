@@ -29,4 +29,3 @@ Sara provides a solid job, working with Grissom on the body found in the park wh
 - - -
 
 **Sara:** _(sighs)_ I hate lawyers.
-

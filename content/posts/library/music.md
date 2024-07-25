@@ -5,7 +5,6 @@ layout: library
 categories: ["Jorja Fox"]
 tags: ["music"]
 permalink: /music/
-flf_icon: music
 ---
 
 Jorja has always been interested in music, from attending events to performing. She often attends concerts, especially if her friends are performing, and has been to the Grammy's once. She has also written and performed several songs for the cast and crew of CSI, which she sang at the 'wrap' parties in 2003 and 2004.

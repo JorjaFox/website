@@ -21,7 +21,7 @@ Then the baby elephant fear the man. The man can control and the boy make baby e
 
 (END VIDEO CLIP)
 
-VELEZ-MITCHELL: We're talking about another kind of crime right now. We've got a famous CSI investigator on this case looking into disturbing horrific animal abuse. You recognize her &#8212; from CSI? That's right. The CSI investigator, known to the rest of the world as Jorja Fox and she is fighting for elephants.
+VELEZ-MITCHELL: We're talking about another kind of crime right now. We've got a famous CSI investigator on this case looking into disturbing horrific animal abuse. You recognize her - from CSI? That's right. The CSI investigator, known to the rest of the world as Jorja Fox and she is fighting for elephants.
 
 When people use elephants as entertainment, most don't think, oh, they see these beautiful animals going here, there or everywhere. They don't realize how these animals were captured; how they were taken from the wild. Elephants tortured and abused to perform for humans. Elephants tortured and abused to perform for humans.
 
@@ -57,7 +57,7 @@ UNIDENTIFIED FEMALE: They were tied, maybe everything; tied the ear, the tail, t
 
 (END VIDEO CLIP)
 
-VELEZ-MITCHELL: Where to help &#8212; all right, if you want to help, what do you do, Jorja?
+VELEZ-MITCHELL: Where to help - all right, if you want to help, what do you do, Jorja?
 
 FOX: You go to howibecameanelephant.com. You stop going to circuses and zoos. Sanctuaries are great. We have elephants in captivity that we're going to need to house. Go to a sanctuary and see them there. Don't support those kinds of industries. If you are in Thailand be very, very careful; there's over 300 trekking organizations in Thailand. Go to the right one.
 
@@ -81,6 +81,6 @@ FOX: Well, yes. And I'm an environmentalist and a conservationist. And we're rea
 
 VELEZ-MITCHELL: I don't have any kids, you don't have any kids, but people who have kids want to have animals for them.
 
-FOX: Yes. I would like us to be able to stay on this planet. I don't want to move it Mars. I would like to stay here and I'd like &#8212;
+FOX: Yes. I would like us to be able to stay on this planet. I don't want to move it Mars. I would like to stay here and I'd like -
 
 (CROSSTALK)

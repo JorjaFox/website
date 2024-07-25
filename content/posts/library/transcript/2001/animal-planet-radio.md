@@ -20,7 +20,7 @@ tags: ["2001"]
 
 **Theme to CSI: Who Are You?**
 
-**Steve Dale** You've seen her on the West Wing and ER. Oh, remember that episode of Ellen? It was called the &#8216;Puppy' Episode. We'll talk about that in a second. Her name is Jorja Fox, and right now she's the hottest thing on TV. Well no, I don't mean it quite that way. Well, you know, maybe I do. You see her on CSI and she's giggling. Hey, Jorja.
+**Steve Dale** You've seen her on the West Wing and ER. Oh, remember that episode of Ellen? It was called the 'Puppy' Episode. We'll talk about that in a second. Her name is Jorja Fox, and right now she's the hottest thing on TV. Well no, I don't mean it quite that way. Well, you know, maybe I do. You see her on CSI and she's giggling. Hey, Jorja.
 
 **Jorja Fox** Hello, Steve. How's everything?
 
@@ -114,7 +114,7 @@ tags: ["2001"]
 
 **Steve Dale** Really?
 
-**Jorja Fox** Definitely say that. And that's the thing I've been intrigued with for a long time too, cause I notice dogs, I think in particular, that are with owners or human companions, or whatever you want to call them, you know, the two personalities definitely seem to blend. The question to me has always been &#8216;has it been the dog the takes on the human personality, or the human takes on the dog personality.' **laughs** And it's kind of a brilliant thing. But yeah, so I've heard. I've heard that we look alike, I've heard that we have definitely similar personality traits.
+**Jorja Fox** Definitely say that. And that's the thing I've been intrigued with for a long time too, cause I notice dogs, I think in particular, that are with owners or human companions, or whatever you want to call them, you know, the two personalities definitely seem to blend. The question to me has always been 'has it been the dog the takes on the human personality, or the human takes on the dog personality.' **laughs** And it's kind of a brilliant thing. But yeah, so I've heard. I've heard that we look alike, I've heard that we have definitely similar personality traits.
 
 **Steve Dale** Mm hm. Have you always been this huge animal lover?
 
@@ -136,13 +136,13 @@ tags: ["2001"]
 
 **Jorja Fox** Steve, you know, if that could be in my future, I would be absolutely thrilled. That would be amazing.
 
-**Steve Dale** Okay! Let's say, alright, this is your- remember &#8216;I Dream of Jeanie'?
+**Steve Dale** Okay! Let's say, alright, this is your- remember 'I Dream of Jeanie'?
 
 **Jorja Fox** Mm hm.
 
 **Steve Dale** Okay.
 
-**Jorja Fox** Actually, I grew up ten minutes from the town where &#8216;I Dream of Jeanie' took place, Coco Beach, Florida.
+**Jorja Fox** Actually, I grew up ten minutes from the town where 'I Dream of Jeanie' took place, Coco Beach, Florida.
 
 **Steve Dale** Alright, so you are now Jeanie. And you can cross your arms like Barbara Eden used to do, and close your eyes and, and all and make a wish for a TV Show. I mean, after CSI runs its very long and healthy course. Which we want.
 
@@ -152,9 +152,9 @@ tags: ["2001"]
 
 **Jorja Fox** Um yeah, I mean I would love to go out into the world, and sort of, you know, meet animals where they live and where they are naturally. I think that would be the all time greatest job. That was my hope, you know, even if it was being a wildlife photographer or that, where I could go to the places where animals are. That would be good.
 
-**Steve Dale** You know, one thing I learned about this business: You say it, and it can happen. You do, you never know who's listening. But the first job, or one of the first times that we became familiar with you, Jorja Fox, was on &#8216;Ellen.' They call that last show, and you'll have to explain something to me, and if it's filthy, don't explain it. Why is that last show refereed to, like on all the websites? As-
+**Steve Dale** You know, one thing I learned about this business: You say it, and it can happen. You do, you never know who's listening. But the first job, or one of the first times that we became familiar with you, Jorja Fox, was on 'Ellen.' They call that last show, and you'll have to explain something to me, and if it's filthy, don't explain it. Why is that last show refereed to, like on all the websites? As-
 
-**Jorja Fox** As &#8216;The Puppy Episode.'
+**Jorja Fox** As 'The Puppy Episode.'
 
 **Steve Dale** Yeah!
 
@@ -166,7 +166,7 @@ tags: ["2001"]
 
 **Steve Dale** You have no idea.
 
-**Jorja Fox** And I know that it is absolutely a term of endearment. That it's an inside joke, that there's an inside story to why it was called &#8216;The Puppy Episode.' Obviously there's no puppies in that episode. And there's really, I don't think there's any reference to any type of animals at all. But, ah, it's quite possibly, when Ellen was writing the show with the writers, you know, something that came, that was very personal to them, which you know at least that has in common with that episode. It was a show that was extremely personal to Ellen.
+**Jorja Fox** And I know that it is absolutely a term of endearment. That it's an inside joke, that there's an inside story to why it was called 'The Puppy Episode.' Obviously there's no puppies in that episode. And there's really, I don't think there's any reference to any type of animals at all. But, ah, it's quite possibly, when Ellen was writing the show with the writers, you know, something that came, that was very personal to them, which you know at least that has in common with that episode. It was a show that was extremely personal to Ellen.
 
 **Steve Dale** I want to talk about CSI for a second. I mean, you are now probably being heard all over the nation, all over America, but I'm from Chicago and there's a Chicago connection: William Petersen's on the show.
 
@@ -189,5 +189,6 @@ tags: ["2001"]
 **Steve Dale** Jorja Fox promoting the Pounce Purr-fections, that's a new cat treat, and Jorja was involved in a promotion to benefit the ASPCA. It was a treat talking to Jorja ...
 
 ## See Also
+
 * [Pounce Purrfections](http://www.pouncepurrfections.heinzpetproducts.com/index.asp )
 * [ASPCA](http://www.ascpa.org/)

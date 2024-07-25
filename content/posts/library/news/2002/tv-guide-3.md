@@ -25,9 +25,8 @@ At 14, a crush on an older boy helped Fox tackle what had become a serious weigh
 
 It is especially poignant that in 1996 her mother was diagnosed with cancer when Fox landed her "dream role" on *ER*. That was the last thing Marilyn Fox ever saw Jorja do. "I was having the biggest personal crisis and the greatest professional thing happening at the same time," she says.
 
-The loss affected her deeply &#8212; and *CSI* reminds her of it often. "It's always surprising how close [death] is," she says. And Fox worries that her 12-14 hour days are hurting her relationships with the people who are still here. "Sometimes, I feel like I'm a terrible daughter, a terrible friend," Fox says quietly. "If you're lucky, people stick around."
+The loss affected her deeply - and *CSI* reminds her of it often. "It's always surprising how close [death] is," she says. And Fox worries that her 12-14 hour days are hurting her relationships with the people who are still here. "Sometimes, I feel like I'm a terrible daughter, a terrible friend," Fox says quietly. "If you're lucky, people stick around."
 
 That kind of insecurity may explain why Fox, who's dating a film actor (whom she won't name), has yet to marry. "I've had some really great affairs, but I'm allergic to marriage," she says.
 
 This summer, Fox is visiting her dad in Florida before she takes a European vacation. And she hopes her lock will still hold. She calls *CSI* "the best job ever." Could she do it in real life? No way, says costar William Petersen, who remembers a white-knuckled Fox clutching his arm during a helicopter ride over the Nevada desert during one episode. "She has a very delicate stomach," he says. "She doesn't even like looking at crime photos."
-

@@ -20,7 +20,6 @@ Darn it's hard to be a TV fan these days, no? It seems like showrunners are just
 
 [...]
 
-**Couples Watch:** In sad, sad TV couples news, *CSI*&#8216;s Sara (**Jorja Fox**) and Grissom (**William Petersen**) are splitting up. After 13 years. We repeat: *13 years*, which is basically 100 years when it comes to TV relationships. Let's mourn together in the comments, shall we? We'll bring the chocolate, you bring the tissues.
+**Couples Watch:** In sad, sad TV couples news, *CSI*'s Sara (**Jorja Fox**) and Grissom (**William Petersen**) are splitting up. After 13 years. We repeat: *13 years*, which is basically 100 years when it comes to TV relationships. Let's mourn together in the comments, shall we? We'll bring the chocolate, you bring the tissues.
 
 [...]
-

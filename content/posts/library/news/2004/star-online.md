@@ -46,4 +46,3 @@ Fox, who almost left "CSI" over a contract dispute but came back
 after temporarily being fired, said her character, Sara Sidle, will
 continue to be in trouble. "Sara lives in a rabbit hole. It's been like
 a roller-coaster ride," she said about the plot line.
-

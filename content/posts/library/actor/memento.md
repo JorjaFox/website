@@ -6,7 +6,7 @@ tags: ["movies"]
 slug: "memento"
 imdb: https://www.imdb.com/title/tt0209144/
 gallery: https://jorjafox.net/gallery/movies/memento/
-image: /img/actor/memento.jpg
+image: /img/actors/memento.jpg
 ---
 
 **Memento** is a movie starring Guy Pearce ('The Adventures of Priscilla, Queen of the Desert' and 'L.A. Confidential') and Carrie Anne-Moss ('The Matrix' and 'Red Planet'). Jorja Fox plays Catherine Shelby, the wife of Leonard Shelby (Pearce), who was raped and murdered in the couple's home.

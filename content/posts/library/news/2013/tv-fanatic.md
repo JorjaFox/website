@@ -7,7 +7,7 @@ permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
-newstitle: "&#8216;We're number one in the world'  "
+newstitle: "'We're number one in the world'  "
 newsauthor: Jim Halterman
 newssource: TV Fanatic
 newsurl: http://www.tvfanatic.com/2013/05/csi-exclusive-elisabeth-harnois-on-season-13-finale-morgan-under/

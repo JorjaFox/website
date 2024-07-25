@@ -47,4 +47,3 @@ Fox (her first name is pronounced "Georgia;" it's a shorter version Jorja-Ann, t
 "I think it's just been a series of personal miracles," Fox said. "I do feel so very lucky about that.
 
 "The only thing I know is that if I feel really nervous about a decision I'm about to make, it usually means I should pursue that decision. And all three of those (TV) shows, there was something about them that made me really nervous."
-

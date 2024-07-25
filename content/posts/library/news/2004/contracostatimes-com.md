@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "CBS exec. defends firing of &#8216;CSI' stars"
+newstitle: "CBS exec. defends firing of 'CSI' stars"
 newsauthor: Staff
 newssource: ContraCostaTimes
 newsurl: http://ContraCostaTimes.com
@@ -40,4 +40,3 @@ Production will be halted this week while script revisions are made, Moonves sai
 Another cast member, Marg Helgenberger, reported to work as scheduled last week, he said. William Petersen, who co-stars and is a producer on the series, was on call for next week.
 
 Asked if he was concerned about damage to one of TV's top-rated series, Moonves said, "Of course." Later, he said it was possible cast members Eric Szmanda and Paul Guilfoyle might play bigger roles.
-

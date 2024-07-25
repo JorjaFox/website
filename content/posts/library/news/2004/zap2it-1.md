@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "&#8216;CSI' Rehires Fox; Eads Waits to Hear"
+newstitle: "'CSI' Rehires Fox; Eads Waits to Hear"
 newsauthor: Staff
 newssource: Maxim
 newsurl: http://tv.zap2it.com/

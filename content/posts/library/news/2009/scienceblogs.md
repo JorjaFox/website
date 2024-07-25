@@ -22,5 +22,4 @@ Here's where the idea for a new show in the Star Trek franchise comes in.
 
 The show would focus on a set of characters who are the Star Fleet equivalent of an internal affairs bureau on a cop show. [...]
 
-I haven't really worked out the casting, but I'd love the head of the squad to be a CCH Pounder type (like, maybe, CCH Pounder) &#8212; someone who can be very sympathetic and also very tough. I'm leaning toward someone like Jorja Fox as a Klingon [...]
-
+I haven't really worked out the casting, but I'd love the head of the squad to be a CCH Pounder type (like, maybe, CCH Pounder) - someone who can be very sympathetic and also very tough. I'm leaning toward someone like Jorja Fox as a Klingon [...]

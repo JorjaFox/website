@@ -167,7 +167,7 @@ tags: [ "2008" ]
 
 **Jorja Fox:** _laughter_
 
-&#8212;-
+--
 
 **Jorja Fox:** I was born in New York City and then they moved to Florida. My mom had the dream, she wanted to live in the small beach town. She had that dream her whole life. And three years after I was born, they made it happen. So they moved down -
 
@@ -183,7 +183,7 @@ tags: [ "2008" ]
 
 **Jorja Fox:** I actually did finish.
 
-**Ian Harvie:** What was your first acting &#8212; You did finish?
+**Ian Harvie:** What was your first acting - You did finish?
 
 **Jorja Fox:** It was a close one.
 
@@ -281,7 +281,7 @@ _Audience cracks up ... Ian cracks up .. Jorja cracks up_
 
 **Ian Harvie:** And because of our demand for meat.
 
-**Jorja Fox:** Yeah, they're everywhere. And it's also a huge reason for deforestation and a big reason for - you know like the spinach thing last year. Where a lot of people ate organic spinach and they got really sick, was because cow was getting into crops. You know that stuff goes down rivers and streams and it pollutes waterways. I've always been kinda of like &#8212; we all do what we can do.
+**Jorja Fox:** Yeah, they're everywhere. And it's also a huge reason for deforestation and a big reason for - you know like the spinach thing last year. Where a lot of people ate organic spinach and they got really sick, was because cow was getting into crops. You know that stuff goes down rivers and streams and it pollutes waterways. I've always been kinda of like - we all do what we can do.
 
 **Ian Harvie:** I think one of the things that's hardest is the cooking part of it. Like I'm so ingrained: I have meat, I have starch. How do you change that thinking? It's so hard.
 
@@ -289,7 +289,7 @@ _Audience cracks up ... Ian cracks up .. Jorja cracks up_
 
 **Ian Harvie:** So, like, eggs are cool with you?
 
-**Jorja Fox:** You know, I don't eat that much, but I eat them. It's a very personal choice. But, yeah, the cooking thing is hard. I think that in, like, LA or New York &#8212; If I was in the Arctic Tundra and it was like me an a seal? And I was really hungry? Maybe, you know, I would make the choice to survive. But if I'm living in LA? I mean, there's right next door there's Damiano's. You can get, like, a slice of soy cheese pizza with veggie "pepperoni'. It's easy. It's pretty easy.
+**Jorja Fox:** You know, I don't eat that much, but I eat them. It's a very personal choice. But, yeah, the cooking thing is hard. I think that in, like, LA or New York - If I was in the Arctic Tundra and it was like me an a seal? And I was really hungry? Maybe, you know, I would make the choice to survive. But if I'm living in LA? I mean, there's right next door there's Damiano's. You can get, like, a slice of soy cheese pizza with veggie "pepperoni'. It's easy. It's pretty easy.
 
 **Ian Harvie:** That's good pizza over there. You have something going on that you're -
 

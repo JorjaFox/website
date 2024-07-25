@@ -46,4 +46,3 @@ Finally, the aircraft rumbled into place and the huge cargo door opened: the hat
 Each crate was gently lowered from the aircraft and opened up so that they could be checked and watered. Bambek began bellowing to announce his arrival, and everyone else joined in. Jorja gave each of them a good drink of water, the crates were closed and loaded onto the trucks to take them to PAWS, and we drove into the night.
 
 [...]
-

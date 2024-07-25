@@ -26,4 +26,3 @@ We can't help but love brazen beauties like Jorja who don't even flinch at the s
 :Attractiveness: 80
 :Physique Factor: 79
 :**OVERALL RATING: 79**
-

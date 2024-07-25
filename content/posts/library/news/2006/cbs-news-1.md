@@ -37,4 +37,3 @@ Grissom might think so, but fellow super-sleuths Catherine (played by Marg Helge
 "I think that [Catherine] will be perfectly content just sort of watching it unfold and watching them trying to keep it a secret," says Helgenberger.
 
 Nick's no fool either. "He sees the way they look at each other," says Eads. "He, I think, understands Sara very well. And I almost don't think he blames her. I mean, doesn't everyone just love Grissom? There's just something eccentric and weird and kooky and cool and awesome about Grissom, man!"
-

@@ -21,4 +21,3 @@ Nick and Greg have a barn full of scattered body parts to piece together -- with
 ## Review
 
 _Sara Sidle does not appear in this episode._
-

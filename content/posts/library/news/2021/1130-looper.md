@@ -11,7 +11,7 @@ newssource: "Looper"
 newsurl: https://www.looper.com/673394/jorja-fox-reveals-her-thoughts-on-a-csi-vegas-season-2/
 ---
 
-"CSI: Crime Scene Investigation," one of the most popular police procedural dramas, initially aired from 2000 to 2015 and launched three sequels. The show followed the personal and professional lives of a team of crime-scene investigators working in Las Vegas, and longtime viewers fell in love with the complicated relationship between detectives Gil Grissom (William Petersen) and Sara Sidle (Jorja Fox). Known collectively as GSR — a clever combination of their initials and a forensics term — their on-again, off-again relationship finally found a happy ending in the series finale. 
+"CSI: Crime Scene Investigation," one of the most popular police procedural dramas, initially aired from 2000 to 2015 and launched three sequels. The show followed the personal and professional lives of a team of crime-scene investigators working in Las Vegas, and longtime viewers fell in love with the complicated relationship between detectives Gil Grissom (William Petersen) and Sara Sidle (Jorja Fox). Known collectively as GSR — a clever combination of their initials and a forensics term — their on-again, off-again relationship finally found a happy ending in the series finale.
 
 However, that wasn't the end for the fan-favorite pairing. The highly-anticipated sequel "CSI: Vegas" sees the power couple taking a break from their boating lifestyle to help their former crime lab uncover a conspiracy that would undo years of hard work and free dangerous criminals as a result. Additionally, their former colleague David Hodges (Wallace Langham) gets implicated in the case, and they want to clear his name.
 

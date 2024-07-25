@@ -22,4 +22,3 @@ Twenty years ago this week, a little hospital show called "ER" debuted on NBC to
 (Recurring Seasons 3-5) "ER" should have paid to keep Fox around (she departed for "The West Wing" and then "CSI"). Appearing before Weaver came out, she was the show's first major gay character (although her orientation was much more obliquely referenced) and just the kind of admirable no-nonsense physician "ER" had plenty of in the early seasons. Later years demanded everyone have some kind of crippling personal drama, but Doyle mostly just did her job well.
 
 [...]
-

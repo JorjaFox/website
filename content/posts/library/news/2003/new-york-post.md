@@ -50,4 +50,3 @@ Outside of "CSI," Fox is one of the core members of Honeypot Productions, a thea
 The group has been putting its efforts into an original musical they're considering adapting as a film. But right now, it's back to the crime lab and new scripts.
 
 "We're leaving it to the writers to follow their hearts, because they're always going to be annoying someone, so you can't win," she said.
-

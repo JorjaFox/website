@@ -21,4 +21,3 @@ The CSIs investigate a murder at the Clark County jail after an inmate stumbles 
 ## Review
 
 _Sara Sidle does not appear in this episode._
-

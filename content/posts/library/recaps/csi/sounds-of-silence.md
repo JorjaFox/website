@@ -49,4 +49,3 @@ When Grissom mentions that the busted tail light can't be traced because the ser
 **Warrick:** Do you know what Grissom drinks when he goes out at night?
 **Sara:** He goes out?
 **Warrick:** Exactly. Who knows anything about that guy?
-

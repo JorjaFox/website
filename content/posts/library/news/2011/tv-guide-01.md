@@ -23,4 +23,3 @@ Fox spent the show's first seven seasons as a regular. She then left and made gu
 [...]
 
 CSI will return for its 12th season on Sept. 21 in its new time slot, Wednesdays at 10/9c.
-

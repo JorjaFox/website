@@ -6,7 +6,7 @@ categories: ["Filmography"]
 tags: ["Television"]
 imdb: https://www.imdb.com/title/tt0200276/
 gallery: https://jorjafox.net/gallery/tv/westwing/
-image: /img/actor/west-wing.jpg
+image: /img/actors/west-wing.jpg
 episodelist: true
 slug: west-wing
 thumbnail:

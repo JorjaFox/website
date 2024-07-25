@@ -20,7 +20,7 @@ William Petersen "and" Jorja Fox "tell all about CSI's biggest mystery yet"
 
 **Las Vegas. Sin City.** The night was black as an oil patch left by a perp's getaway car, but the neon lights of the Strip cast a glow on the town tlike a rainbow on a bender. That's when we saw them ... Grissom and Sidle, two CSIs who had no business being in a bedrobe together. The dame wore a robe, like she'd just stepped out of the shower. And Grissom ... her boss ... lay on the bed, talking about death.
 
-Turns out relationships that happen in Vegas don't always stay in Vegas. Here's the evidence: In the last scene of "CSI"'s May season finale, Gil Grissom (William Petersen) and Sara Sidle (Jorja Fox) shocked viewers with their romantic rendezvous. Fan Web sites went nuts. TV GUIDE got lots of letters &#8212; some people liked the relationship; others wanted to send the storyline on a slow boat to China. We had to know: What were the producers thinking?
+Turns out relationships that happen in Vegas don't always stay in Vegas. Here's the evidence: In the last scene of "CSI"'s May season finale, Gil Grissom (William Petersen) and Sara Sidle (Jorja Fox) shocked viewers with their romantic rendezvous. Fan Web sites went nuts. TV GUIDE got lots of letters - some people liked the relationship; others wanted to send the storyline on a slow boat to China. We had to know: What were the producers thinking?
 
 Exec producer Carol Mendelsohn came clean. This promises to be the most personal season of "CSI" yet. Good thing, too, since it's now going up against TV's sudsiest smash, "Grey's Anatomy". "The bones of Season 7 will be the toll the job has on our CSIs," she says. "The sin in Sin City is beginning to wear on them."
 

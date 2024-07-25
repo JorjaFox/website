@@ -76,7 +76,7 @@
 
         {{ if eq $orientation "stacked" }}
             <div class="row justify-content-center flex-fill">
-                <div class="col-12 col-md-{{ $width }} m-auto text-center">
+                <div class="col-10 col-md-{{ $width }} m-auto text-center">
                     {{ $sizes = partial "partials/list/featured-sizes.html" (dict "width" $width) }}
                     {{ partial "partials/list/featured-illustration.html" (dict "page" $page "sizes" $sizes "style" "pb-4") }}
                     {{ partial "partials/list/featured-body.html" (dict "page" $page "headings" $headings "orientation" $orientation "actions" $actions) }}
@@ -84,13 +84,13 @@
             </div>
         {{ else }}
             <div class="row row-cols-1 row-cols-md-2 justify-content-{{ $justify }} flex-fill">
-                <div class="col col-12 col-md-{{ $width }} order-1 order-md-0 my-md-auto">
+                <div class="col col-10 col-md-{{ $width }} order-1 order-md-0 my-md-auto">
                     {{ partial "partials/list/featured-body.html" (dict "page" $page "headings" $headings "orientation" $orientation "actions" $actions "align" $align) }}
                 </div>
                 {{ $newWidth := $width }}
                 {{ if gt $width 6 }}{{ $newWidth = sub 12 $width }}{{ end }}
                 {{ $sizes = partial "partials/list/featured-sizes.html" (dict "width" $newWidth) }}
-                <div class="col col-12 col-md-{{ $newWidth }} order-0 order-md-1 text-center my-md-auto align-self-end">
+                <div class="col col-10 col-md-{{ $newWidth }} order-0 order-md-1 text-center my-md-auto align-self-end">
                     {{ partial "partials/list/featured-illustration.html" (dict "page" $page "sizes" $sizes "style" "pb-4 pb-md-0") }}
                 </div>
             </div>

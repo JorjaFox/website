@@ -15,7 +15,7 @@ aliases:
 
 CBS’ is officially embarking on a new crime spree, handing a formal series order to a new iteration of _CSI_ that is equal parts reboot and revival.
 
-As previously reported, the sequel series — titled _CSI: Vegas_ — will pick up six years after the OG series’ 2015 finale and find franchise vets William Petersen‘s Gil and Jorja Fox‘s Sara surrounded by a new crop of Sin City-based <em>CSI</em>s played by Matt Lauria (_Friday Night Lights_, _Kingdom_), Paula Newsome (_Chicago Med_, _Barry_), Mel Rodriguez (_Last Man on Earth_) and Mandeep Dhillon (_After Life_).
+As previously reported, the sequel series — titled _CSI: Vegas_ — will pick up six years after the OG series’ 2015 finale and find franchise vets William Petersen‘s Gil and Jorja Fox‘s Sara surrounded by a new crop of Sin City-based _CSI_s played by Matt Lauria (_Friday Night Lights_, _Kingdom_), Paula Newsome (_Chicago Med_, _Barry_), Mel Rodriguez (_Last Man on Earth_) and Mandeep Dhillon (_After Life_).
 
 Additionally, TVLine can now confirm that Wallace Langham — who played lab tech David Hodges for much of _CSI_‘s original run — will also be back as a series regular.
 

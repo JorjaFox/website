@@ -20,4 +20,3 @@ newsurl: http://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics
 Tonight, Fox says goodbye to Sara and "CSI", exiting in a terrific episode that uses an old case (a child who tricked her back in 2006) to make her confront her current problems. It's a strong, sad story that gives a very popular character the kind of farewell she deserves while leaving the door open for a possible return. Let's hope the character does come back someday; Gil is not the only one who will miss her.
 
 [...]
-

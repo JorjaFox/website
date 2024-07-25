@@ -29,4 +29,3 @@ Sara and Finn go to Tina's house, which was Warrick's, to investigate as the rev
 ## Quotes
 
 **Sara:** The reverend's bank-accounts are being fruitful and multiplying.
-

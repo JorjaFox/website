@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "&#8216;Crime Scene' solution"
+newstitle: "'Crime Scene' solution"
 newsauthor: Staff
 newssource: AZ Central
 newsurl: http://www.azcentral.com/
@@ -18,4 +18,3 @@ newsurl: http://www.azcentral.com/
 Fox reached an agreement with the network and will be back on the set next week, the Associated Press reports.
 
 Apparently, Fox did a better job cleaning CBS chief **Leslie Moonves' **floors with her toothbrush than did fellow *CSI *firee **George Eads**. At last report, Eads, who's spent much of the past week apologizing for "oversleeping" to anyone with a microphone, was still out of a job, although TV Guide Online reports that he probably will be rehired.
-

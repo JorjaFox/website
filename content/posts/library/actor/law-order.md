@@ -7,7 +7,7 @@ tags: ["Television"]
 slug: law-order
 imdb: https://www.imdb.com/title/tt0629412/
 gallery: https://jorjafox.net/gallery/tv/guest/lo-securitate/
-image: /img/actor/law-and-order-securitate.jpg
+image: /img/actors/law-and-order-securitate.jpg
 ---
 
 ## "Securitate"

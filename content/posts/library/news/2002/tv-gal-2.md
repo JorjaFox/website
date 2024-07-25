@@ -18,4 +18,3 @@ newsurl: http://tv.zap2it.com/
 Grissom and Sarah on "C.S.I." are quickly becoming my new favorite uncouple. I loved it when he told her he's only been interested in beauty since he met her. This week (Thursday, CBS, 9 p.m.), Grissom and crew investigate a murder at a Buddhist temple.
 
 [...]
-

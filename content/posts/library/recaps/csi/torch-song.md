@@ -37,4 +37,3 @@ While Nick and Finn work the arson, Morgan and Sara work the deaths.
 ## Quotes
 
 **Sara:** However the physics worked, this kid went through hell.
-

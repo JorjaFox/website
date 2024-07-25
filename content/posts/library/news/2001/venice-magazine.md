@@ -20,7 +20,7 @@ Ironically, in her last season on "The West Wing" she was a near-casualty, liter
 
 **Venice: So one day you found yourself having a cappuccino in Italy, being a teen model. That must have been culture shock.**
 
-Jorja Fox: I thought, &#8216;What the hell am I doing in Italy?' Culture shock was moving to New York! I was a terrible model; I just wasn't that person. It was better in Europe than New York. I would get out of bed and not brush my hair.
+Jorja Fox: I thought, 'What the hell am I doing in Italy?' Culture shock was moving to New York! I was a terrible model; I just wasn't that person. It was better in Europe than New York. I would get out of bed and not brush my hair.
 
 I wanted to be an actress from a young age. Part of the reason [I did modeling] was that it was an opportunity to go to New York City. It was great-coming from this small town. I studied at Lee Strasberg Academy ... also with Bill Hickey (*Prizzi's Honor*).
 
@@ -60,7 +60,7 @@ It's the new level of shock, how well "CSI" is doing. We're all obviously very s
 
 Somebody either did it or they didn't do it. But it's really not a judgment. It is what's real-not "I'm a cop I'm on the right side of the law." I think [the characters ] are human, flawed.
 
-**And it's not &#8216;sci-fi-ed' out.**
+**And it's not 'sci-fi-ed' out.**
 
 The world in general right now is sort of undefinable-not like when it was the 50's. Not everything is so cut and dried. In the 2000's, there are so many things [to consider]-the environment, all the people who make a living off the environment. We're sort of in this gray area between resources that need protecting and people that need to make their living.
 
@@ -127,4 +127,3 @@ I don't know. I won't be able to work [during the strike]; maybe it's better to 
 **So you'll strike if that happens?**
 
 I definitely support the union. I don't want to strike, but it's a hard year with the contracts. We are like athletes, the career span is shorter. We'll see.
-

@@ -13,4 +13,4 @@ newssource: Star Magazine
 
 ---
 
-Jorja Fox of TVs "C.S.I" is killer! She sparkles in a $2,000 marcasite beaded gown with gold lace accents by designer Christina Perrin &#8212; and crystal baubles by Daniel Swarovski Paris.
+Jorja Fox of TVs "C.S.I" is killer! She sparkles in a $2,000 marcasite beaded gown with gold lace accents by designer Christina Perrin - and crystal baubles by Daniel Swarovski Paris.

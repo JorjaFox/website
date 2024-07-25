@@ -16,7 +16,7 @@ newsurl: http://www.wavenewspapers.com/community/calendar/38493429.html
 
 [...]
 
-##Event Description
+## Event Description
 
 CELEBRITY COMEDIANS LILY TOMLIN AND CAROL LEIFER ARE JOINED BY ANIMAL WELFARE EXPERTS IN FINAL PUSH TO SHUT DOWN THE LA ZOO ELEPHANT EXHIBIT
 
@@ -33,4 +33,3 @@ As of today, there is only one elephant left at the Los Angeles Zoo. His name is
 Keeping elephants in a restricted environment is unsuitable to their well being, and 12 other U.S. cities have already shut down their elephant exhibits. We all have a duty to ensure the humane treatment of all animals, particularly of this and other endangered species.
 
 Los Angeles Councilmembers will be converging on Wednesday to decide Billy's fate. For more information, visit www.helpbilly.org.
-

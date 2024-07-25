@@ -23,4 +23,3 @@ While data from the province's vital statistics bureau shows Madison, Emma, Emil
 Twenty-four baby girls share their name with Jorja Fox, the sleuthing brunette actress who plays Sara Sidle on the popular forensics show. Jorja is just one unconventional name creeping onto the province's birth certifi - cates. Many parents were feeling musical last year, naming 24 girls Cadence and 13 Kaydence. Seasonal names were also a hit, with 21 Autumns and 16 Summers.
 
 [...]
-

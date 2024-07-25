@@ -25,4 +25,3 @@ Dickens portrays the grown-up victim, a singer, trying to come to terms with her
 The low-key party featured music by Anders' daughter, Tiffany, who was also featured on the film's soundtrack.
 
 Guests included thesps Mario Van Peebles, Mike Farrell, Jorja Fox and Ellen DeGeneres.
-

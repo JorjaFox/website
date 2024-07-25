@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "&#8216;CSI' thesp back on set"
+newstitle: "'CSI' thesp back on set"
 newsauthor: Staff
 newssource: Variety
 newsurl: http://variety.com
@@ -22,4 +22,3 @@ Thesp, via reps, has said she *did* return the letter but did so via mail rather
 It's believed Fox is returning to "CSI" at the same salary of roughly $100,000 per episode she had been making before she was fired.
 
 [...]
-

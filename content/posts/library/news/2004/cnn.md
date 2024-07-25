@@ -6,7 +6,7 @@ layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
-newstitle: "&#8216;CSI' actors fired"
+newstitle: "'CSI' actors fired"
 newsauthor: Staff
 newssource: CNN
 newsurl: http://cnn.com
@@ -30,4 +30,3 @@ The actors were in the fifth of their seven-year contracts.
 Though a search was under way for their replacements, it's unclear whether show creators will recast the characters or develop new ones, the reports said.
 
 The show picked up four Emmy nominations Thursday, including one for best drama series.
-

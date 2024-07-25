@@ -26,7 +26,6 @@ I simply remember my favorite TV moments and then I don't feeeeeeeeel so bad.
 
 Here are my 10 favorite TV moments of 2006.
 
-**1. Sara and Grissom are revealed to be in a relationship on "CSI" in "Way To Go" (May 18, 2006):** Why is this the best moment of 2006? For one thing it caused an absolute uproar among fans &#8212; some of you loved it, some of you hated it &#8212; but it definitely got you talking and wondering. Plus, I kind of love it when shows keep secrets from us. Heck, we still don't know what's going on between those two.
+**1. Sara and Grissom are revealed to be in a relationship on "CSI" in "Way To Go" (May 18, 2006):** Why is this the best moment of 2006? For one thing it caused an absolute uproar among fans - some of you loved it, some of you hated it - but it definitely got you talking and wondering. Plus, I kind of love it when shows keep secrets from us. Heck, we still don't know what's going on between those two.
 
 [...]
-

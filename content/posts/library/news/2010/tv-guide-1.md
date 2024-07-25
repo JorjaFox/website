@@ -7,7 +7,7 @@ permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
-newstitle: "Ask Matt: *Damages*&#8216; Rescue, Summer Crime Drama, *The Choir* and More!  "
+newstitle: "Ask Matt: *Damages*' Rescue, Summer Crime Drama, *The Choir* and More!  "
 newsauthor: Matt Roush
 newssource: TV Guide.com
 newsurl: http://www.tvguide.com/News/Ask-Matt-Damages-1020939.aspx

@@ -24,3 +24,8 @@ minify:
       version: 2022
     html:
       keepWhitespace: true
+
+disableKinds: ["taxonomy", "term"]
+
+outputs:
+  home: ["HTML", "RSS", "REDIR"]

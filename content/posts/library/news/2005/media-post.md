@@ -20,4 +20,3 @@ newsurl: http://publications.mediapost.com/
 The interviews are designed to "sex it up a little bit" Curley said, adding: "We've never done any celebrity programming online." Other celebrities the network will feature on the Web include movie star Jamie Lee Curtis, movie and TV actor Natasha Henstridge, comedian Paul Reiser, Jorja Fox from "CSI," and Persia White from "Girlfriends."
 
 [...]
-

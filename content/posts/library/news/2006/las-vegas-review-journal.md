@@ -14,9 +14,8 @@ newsurl: http://www.reviewjournal.com
 
 ---
 
-TV's top-rated drama &#8212; CBS' set-in-Vegas "CSI: Crime Scene Investigation" &#8212; returns home this week for a "Killer" episode, shooting today and Tuesday at Glitter Gulch.
+TV's top-rated drama - CBS' set-in-Vegas "CSI: Crime Scene Investigation" - returns home this week for a "Killer" episode, shooting today and Tuesday at Glitter Gulch.
 
 "CSI" regulars William Petersen, Paul Guilfoyle and Jorja Fox will make the trek, according to producer Louis Milito.
 
 [...]
-

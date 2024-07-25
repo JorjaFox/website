@@ -24,4 +24,3 @@ Meanwhile, Jorja Fox, who played Sara Sidle, will for sure rejoin the show, says
 The actress was said to be "mystified" by her firing, because she believed she'd sent in her letter in time. *E!* said the Fox matter was ruled a misunderstanding, clearing the way for her return.
 
 Shooting on the show's fifth season was to have begun last week, but cameras never got rolling.
-

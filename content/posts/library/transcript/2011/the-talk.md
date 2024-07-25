@@ -23,7 +23,7 @@ Jorja: ...I really am.
 
 Sara Gilbert: So are you a good tipper?
 
-Jorja: Oh my goodness. You know, I think that we all would like to think that we're really good tippers (laughs) you know? I did work in the service industry for quite a while in New York, before I was (airquotes) &#8216;acting full time', and so yeah, I do try to tip generously, even if the service is horrible. (laughs)
+Jorja: Oh my goodness. You know, I think that we all would like to think that we're really good tippers (laughs) you know? I did work in the service industry for quite a while in New York, before I was (airquotes) 'acting full time', and so yeah, I do try to tip generously, even if the service is horrible. (laughs)
 
 Sara: And get attention for it, like Leah [Remini]?
 
@@ -41,7 +41,7 @@ Julie: -but if I'm with someone who like, I see is looking at, you know, when yo
 
 Jorja: (laughs) No.
 
-Julie: -I'm like, &#8216;yeah, throw on another ten bucks'. Isn't that terrible? So what do you do? Do you do, what, the 20%?
+Julie: -I'm like, 'yeah, throw on another ten bucks'. Isn't that terrible? So what do you do? Do you do, what, the 20%?
 
 Jorja: Yeah, usually a *minimum* of 20. Even if it's a big group, you know, with 18 [percent] included.
 
@@ -81,7 +81,7 @@ Jorja: (smiles) Oh, that's so nice of you. Um, thank you.
 
 Julie: What were you like as a child?
 
-Jorja: Um, the time. I *knew* I wanted to be an actor when I was five, and I, I grew up in a very very small coastal town in Florida, so, and, and every once in a while I think to myself, &#8216;well, I'm living my life based (gestures with her hands) on a decision I made when I was five' which is all so (gestures again) kind of interesting, I mean I-
+Jorja: Um, the time. I *knew* I wanted to be an actor when I was five, and I, I grew up in a very very small coastal town in Florida, so, and, and every once in a while I think to myself, 'well, I'm living my life based (gestures with her hands) on a decision I made when I was five' which is all so (gestures again) kind of interesting, I mean I-
 
 Sara: Me too.
 
@@ -89,11 +89,11 @@ Jorja: -Yeah, yeah.-
 
 Sara. It's weird.
 
-Jorja: Like, &#8216;oh, okay, should I rethink that' but, you know, 'cause acting's not really a grown-up job, I think, I play make-believe for a living, *but*, it's so rewarding still, I, I kinda decided y'know as long as this is fun for me, I'm gonna keep doing it. But, I was a chubby kid, um, my mom was a parent of the Depression, and to her, a, a great way to love her kids was to feed her kids, so I ate five times a day. And this was, uh, like late 70's, early 80's so I don't know if you remember, they, there was a really popular t-shirt called &#8216;Foxy Lady' that everybody was wearing, you know the one, everybody wore one-
+Jorja: Like, 'oh, okay, should I rethink that' but, you know, 'cause acting's not really a grown-up job, I think, I play make-believe for a living, *but*, it's so rewarding still, I, I kinda decided y'know as long as this is fun for me, I'm gonna keep doing it. But, I was a chubby kid, um, my mom was a parent of the Depression, and to her, a, a great way to love her kids was to feed her kids, so I ate five times a day. And this was, uh, like late 70's, early 80's so I don't know if you remember, they, there was a really popular t-shirt called 'Foxy Lady' that everybody was wearing, you know the one, everybody wore one-
 
 Julie: Kind of.
 
-Jorja: Yeah. And my mom bought one for every day of the week, 'cause she thought this was amazing, 'cause my last name was Fox, and I was sent off to school in these &#8216;Foxy Lady' t-shirts-
+Jorja: Yeah. And my mom bought one for every day of the week, 'cause she thought this was amazing, 'cause my last name was Fox, and I was sent off to school in these 'Foxy Lady' t-shirts-
 
 (laughter from audience)
 
@@ -113,7 +113,7 @@ Jorja: Thank you.
 
 Sara: No, it's not weird now.
 
-Jorja: I went to... we had built a mall in this small town, probably, you know, a couple of years, you know, I was about 14 when this mall showed up. So I'm about fifteen and a half, and my mother told me I was hanging with the wrong circle of friends, I can't, I'm not to hang out with them any more, they were older than me, and they had cars, and we would go places that were a little further than my mother wanted me to go. So I arranged to meet these friends at the mall to say goodbye, to have a very dramatic goodbye with them, and I had been crying all morning, and, there was a modeling contest at the mall. It was the last thing that I wanted to do, but of course my friends were very fashion-forward and really cool, they're like, &#8216;well let's, you know, I know we're saying goodbye to you, but let's just join the modeling contest', and oddly, weirdly, strangely, I won. And again, you know, growing up in Florida in a small town, sort of the idea - you, you described this earlier (looking at Sharon) - what was beautiful in Florida was blonde, tanned,-
+Jorja: I went to... we had built a mall in this small town, probably, you know, a couple of years, you know, I was about 14 when this mall showed up. So I'm about fifteen and a half, and my mother told me I was hanging with the wrong circle of friends, I can't, I'm not to hang out with them any more, they were older than me, and they had cars, and we would go places that were a little further than my mother wanted me to go. So I arranged to meet these friends at the mall to say goodbye, to have a very dramatic goodbye with them, and I had been crying all morning, and, there was a modeling contest at the mall. It was the last thing that I wanted to do, but of course my friends were very fashion-forward and really cool, they're like, 'well let's, you know, I know we're saying goodbye to you, but let's just join the modeling contest', and oddly, weirdly, strangely, I won. And again, you know, growing up in Florida in a small town, sort of the idea - you, you described this earlier (looking at Sharon) - what was beautiful in Florida was blonde, tanned,-
 
 Sharon: Mm-hmm.
 
@@ -123,7 +123,7 @@ Jorja: -you know I was *none* of those things, I mean, um, obviously I'm very fa
 
 Sharon: Most of the men I date, anyway.
 
-Jorja: Some of them, yes. And, yeah, so winning this contest was the, the greatest fluke that ever happened to me, and my face was in the *paper</e,>, and the kids at school were like (covers her mouth briefly) &#8216;okay, chubby, Foxy Lady girl won the modeling contest?'. Like-</p>
+Jorja: Some of them, yes. And, yeah, so winning this contest was the, the greatest fluke that ever happened to me, and my face was in the *paper</e,>, and the kids at school were like (covers her mouth briefly) 'okay, chubby, Foxy Lady girl won the modeling contest?'. Like-
 
 Sharon: Never.
 
@@ -179,7 +179,7 @@ Julie: Okay.
 
 Jorja: Very exciting.
 
-Julie: This is a little game that we call &#8216;Jorja On My Mind'.
+Julie: This is a little game that we call 'Jorja On My Mind'.
 
 (audience applause)
 
@@ -221,7 +221,7 @@ Jorja: Can I get hints from the audience?
 
 Julie: No.
 
-(audience &#8216;awwws', Jorja looks around)
+(audience 'awwws', Jorja looks around)
 
 Sharon: No.
 

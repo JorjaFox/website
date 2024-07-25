@@ -41,7 +41,7 @@ tags: [ "2004" ]
 
 **Jorja** Yeah. And it'll help, you know, with the French thing.
 
-**Ellen** What is &#8216;vegetale'?
+**Ellen** What is 'vegetale'?
 
 **Jorja** Umm...
 
@@ -59,33 +59,33 @@ tags: [ "2004" ]
 
 **Ellen** It's not so much that I can't read --
 
-**Jorja** Oh, the &#8216;rrrrrrrrrr.' Can you do that?
+**Jorja** Oh, the 'rrrrrrrrrr.' Can you do that?
 
 **Ellen** Yeah.
 
-**Jorja** &#8216;Rrrrrrr.' You know the French thing.
+**Jorja** 'Rrrrrrr.' You know the French thing.
 
 **Ellen** If I wanted to I could, yeah.
 
-**Jorja** -- where you roll the &#8216;r' thing, ya.
+**Jorja** -- where you roll the 'r' thing, ya.
 
 **Ellen** Yeah. I don't, I don't think they do that. That, you're thinking of Charo, I think.
 
 **Jorja** Is that another language? Alright!
 
-**Ellen** No one does &#8216;rrrrrrrr'.
+**Ellen** No one does 'rrrrrrrr'.
 
 **Jorja** I'm terrible at languages.
 
-**Ellen** No, they do a &#8216;gaaaak'
+**Ellen** No, they do a 'gaaaak'
 
-**Jorja** I think it's a &#8216;rrrrrrrrr'.
+**Jorja** I think it's a 'rrrrrrrrr'.
 
-**Ellen** A &#8216;rrrrrr'?
+**Ellen** A 'rrrrrr'?
 
-**Jorja** &#8216;Rrrrrrrrr'. Yeah, like --
+**Jorja** 'Rrrrrrrrr'. Yeah, like --
 
-**Ellen** Like what word has &#8216;rrrrrrrr' in it?
+**Ellen** Like what word has 'rrrrrrrr' in it?
 
 **Jorja** Farah. Faragh?
 
@@ -171,7 +171,7 @@ tags: [ "2004" ]
 
 **Ellen** No, well they say it's not kind but you still bring a gift.
 
-**Jorja** I remember, I distinctly remember, yeah, &#8216;no gifts', no gifts.
+**Jorja** I remember, I distinctly remember, yeah, 'no gifts', no gifts.
 
 **Ellen** Well I --
 
@@ -219,7 +219,7 @@ tags: [ "2004" ]
 
 **Ellen** Okay, so and, and when is the work going to be done?
 
-**Jorja** I think, y'know they keep saying y'know, &#8216;any day' --
+**Jorja** I think, y'know they keep saying y'know, 'any day' --
 
 **Ellen** Oh.
 

@@ -29,4 +29,3 @@ Jorja's character went the right way. I think that's all any of us want. When yo
 **So what more are we going to see of her?**
 
 I can't really tell you because it would be unfair to the show and the audience. But just because you leave a movie or a show doesn't mean you can't come back. All I know is we want to maintain the integrity of the show throughout, whatever happens to Grissom and Sara.
-

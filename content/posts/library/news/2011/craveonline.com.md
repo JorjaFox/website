@@ -7,7 +7,7 @@ permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
-newstitle: "CSI 11.13 &#8216;The Two Mrs. Grissoms'  "
+newstitle: "CSI 11.13 'The Two Mrs. Grissoms'  "
 newsauthor: Hilary Rothing
 newssource: CraveOnline.com
 newsurl: http://www.craveonline.com/entertainment/tv/article/csi-1113-the-two-mrs-grissoms-123003
@@ -39,4 +39,3 @@ As for the case of the week, I'll lodge my usual complaint that clues comes too 
 But the twists and turns of the case weren't really the heart of the episode. It was watching Sara get to know her mother-in-law in the midst of a very touchy murder investigation and getting a closer look into a community most hearing people are not privy to, that made "The Two Mrs. Grissoms" one the best episodes of the season so far.
 
 **Crave Online Rating: 9 out of 10.**
-

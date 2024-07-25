@@ -37,7 +37,7 @@ Jorja Fox: I've always been a big fan of Dusty Springfield. Even many years ago 
 
 Lesbian News: Could you elaborate on why it is time to tell this story?
 
-Jorja Fox: It's always been time to tell this story. She was a very brave person, a visionary, and she really stuck to her ideals. I don't think she ever compromised her ideals. If ever &#8212; not just the world in general, but in entertainment &#8212; we could get something out of who she was, it's right now for sure.
+Jorja Fox: It's always been time to tell this story. She was a very brave person, a visionary, and she really stuck to her ideals. I don't think she ever compromised her ideals. If ever - not just the world in general, but in entertainment - we could get something out of who she was, it's right now for sure.
 
 [...]
 

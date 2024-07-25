@@ -46,4 +46,3 @@ fandom. I still think *CSI* would be wise parceling out these doses of
 implied romance in very small and cautious doses.
 
 [...]
-

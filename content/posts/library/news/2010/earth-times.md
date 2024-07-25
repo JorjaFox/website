@@ -37,4 +37,3 @@ For years the lions lived in a rusting cage on the back of a truck with a Bolivi
 Studio interviews with Jorja Fox and live links with the ADI rescue team in Bolivia can be organized during the rescue operation.
 
 [...]
-

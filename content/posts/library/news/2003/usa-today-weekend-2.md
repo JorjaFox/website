@@ -15,9 +15,9 @@ newsurl: http://www.usaweekend.com/03_issues/030706/030706movies.html
 
 **With all the comic book-inspired movies out lately, we asked super celebrities which hero they'd most like to play.**
 
-**It's a lineup** that would leave even Doctor Doom shaking in his steel booties. Spurred by the success three years ago of "X-Men" and last year's smash hit "Spider-Man", which spun its way to being one of the highest-grossing movies of all time, comic-book films are enjoying a golden age. "Daredevil" premiered in February with a $42.5 million opening weekend, "X2" has raked in more than $200 million so far, and as of press time "The Hulk" was set for a monstrous opening June 20 &#8212; all of which bodes well for next weekend's "The League of Extraordinary Gentlemen".
+**It's a lineup** that would leave even Doctor Doom shaking in his steel booties. Spurred by the success three years ago of "X-Men" and last year's smash hit "Spider-Man", which spun its way to being one of the highest-grossing movies of all time, comic-book films are enjoying a golden age. "Daredevil" premiered in February with a $42.5 million opening weekend, "X2" has raked in more than $200 million so far, and as of press time "The Hulk" was set for a monstrous opening June 20 - all of which bodes well for next weekend's "The League of Extraordinary Gentlemen".
 
-There's more where those came from: Projects in development or production include sequels to "Spider-Man" and "Daredevil" (plus an Elektra spinoff) and features starring icons such as Batman, Superman and the Fantastic Four as well as lesser-known do-gooders like the Punisher, Hellboy, Catwoman, Iron Man, Namor the Sub-Mariner, Ghost Rider, Luke Cage and Iron Fist. And comic companies such as Marvel and DC are laughing &#8212; like the Joker &#8212; all the way to the bank.
+There's more where those came from: Projects in development or production include sequels to "Spider-Man" and "Daredevil" (plus an Elektra spinoff) and features starring icons such as Batman, Superman and the Fantastic Four as well as lesser-known do-gooders like the Punisher, Hellboy, Catwoman, Iron Man, Namor the Sub-Mariner, Ghost Rider, Luke Cage and Iron Fist. And comic companies such as Marvel and DC are laughing - like the Joker - all the way to the bank.
 
 So why are guys and girls with superpowers ruling Hollywood?
 
@@ -30,4 +30,3 @@ So, in an effort to help scads of casting directors trying to fit the right cele
 **Jorja Fox ("CSI"):** "I wasn't allowed to read comic books when I was a kid. My well-meaning mother didn't consider them 'literature.' Instead, I read a lot of Stephen King novels and any other horror [and] suspense stuff I could get my hands on. So I don't know ... but it would be really cool to play somebody's hero."
 
 [...]
-

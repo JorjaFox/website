@@ -31,4 +31,3 @@ Actress Jorja Fox, well-known for her role on "CSI," is on the board of the Arti
 "So a lot of thoughts and prayers are going out in that direction. I'm grateful that the Japanese people are setting such a high example for the rest of us in times of trouble and strife. I feel pretty certain that Japan was probably the most prepared of anybody to actually receive the [disaster]. And just in an esoteric sort of way, I'm grateful. Japan took a hit for the entire world."
 
 [...]
-

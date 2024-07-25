@@ -41,4 +41,3 @@ Sara only appears in the scene quoted below, having maxed out on her overtime an
 **Sara:** _(shrugs)_
 **Catherine:** Get some rest.
 **Sara:** I'm not tired! Really! I'm not tired.
-

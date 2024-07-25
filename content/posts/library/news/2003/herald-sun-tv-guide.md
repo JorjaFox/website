@@ -27,4 +27,3 @@ Danny Cannon a series executive producer and frequent director, says Grissom wil
 To Anthony Zuiker, who created CSI a romantic interlude between two of his main characters is a moot point anyway."We're a forensic procedural drama at heart," he says, a description which in itself would be likely to drain the romance out of anyone quicker than you can say "scapel". When we go into personal relationships in doses- I stress the word doses- it's so much richer when Jorja Fox wipes chalk off Billy Petersen's cheek, or he might call her 'honey'. It cames totally out of left field and when you hear those things it really gets everybody talking and excited versus us doing those beats constantly from page 0ne to page 60. It just wouldnt have the impact." So the balance between lab and love is likely to remain skewed heavily towars lab, althogh Zuiker of course adds: "But in short, assume nothing."
 
 [...]
-

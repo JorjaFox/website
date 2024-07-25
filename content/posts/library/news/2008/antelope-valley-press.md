@@ -25,4 +25,3 @@ Actress Jorja Fox, who starred on "CSI: Crime Scene Investigation," said she is 
 "I've been a vegetarian for a very long time, and this place, I think, exemplifies so many ways the microcosm of the macrocosm of the microcosm. If you can spend a little time with these creatures, you can connect them again to animals that you love, which I think helps everybody remember the importance of treating them humanely and with dignity. These are, you know, the lucky animals that have fallen off the backs of trucks and stuff. If you want to help the environment, go vegetarian," Fox said.
 
 [...]
-

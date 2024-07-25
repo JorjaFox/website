@@ -34,4 +34,3 @@ Sara works the Trevor Dell case, helping Grissom connect it to the miniature cri
 ## Quotes
 
 **Grissom:** I took away the only person that she ever loved, so she's going to do the same thing to me.
-

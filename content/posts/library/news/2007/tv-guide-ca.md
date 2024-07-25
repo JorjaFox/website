@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
-newstitle: "The big &#8216;CSI' question -- is Jorja Fox gone?"
+newstitle: "The big 'CSI' question -- is Jorja Fox gone?"
 newsauthor: TV Guide CA
 newssource: TV Guide CA
 newsurl: http://entertainment1.sympatico.msn.ca

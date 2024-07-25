@@ -10,6 +10,6 @@ public/*
 node_modules/*
 /_vendor
 /public
-resources/
+resources/*
 node_modules/
 .hugo_build.lock

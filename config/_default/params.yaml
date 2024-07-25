@@ -2,6 +2,9 @@ main:
   endorse: false
   description: "A fansite celebrating the actor and activist, Jorja Fox"
 
+head:
+  tagline: "A Jorja Fox Fansite"
+
 style:
   primary: "#107952"
 

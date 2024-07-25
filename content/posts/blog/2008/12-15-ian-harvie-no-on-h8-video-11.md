@@ -9,6 +9,8 @@ categories:
 tags:
     - advocacy
     - video
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 A word of warning: This is NOT safe for work.  The song's a bit offensive to people who are for Prop 8 (that is to say anti-homosexual marriage).

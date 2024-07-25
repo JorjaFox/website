@@ -11,6 +11,8 @@ tags:
     - article
     - csi
     - tv
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 In Lynette Rice's EW article **'CSI': The Dearly Departed**, she recaps the recent episode "The Happy Place", and confirms that no, there is no geek-baby in the oven.

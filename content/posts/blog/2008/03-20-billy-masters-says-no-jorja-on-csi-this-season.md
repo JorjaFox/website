@@ -8,6 +8,8 @@ categories:
     - 'Jorja Fox'
 tags:
     - article
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 Billy Masters went to see _Stay Forever_, and says Jorja told him she won't be back on CSI this season.

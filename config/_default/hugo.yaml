@@ -25,11 +25,7 @@ minify:
     html:
       keepWhitespace: true
 
-taxonomies:
-  author: "authors"
-  category: "categories"
-
-disableKinds: ["taxonomy"]
+disableKinds: ["taxonomy", "term"]
 
 outputs:
   home: ["HTML", "RSS", "REDIR"]

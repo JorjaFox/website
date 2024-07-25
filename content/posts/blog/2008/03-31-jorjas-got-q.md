@@ -9,6 +9,8 @@ categories:
     - 'Jorja Fox'
 tags:
     - article
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 Q scores measure the name-recognition and likeability of stars compiled by the New York-based company Marketing Evaluations.  Jorja Fox is ranked 5 for women.

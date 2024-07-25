@@ -8,6 +8,8 @@ categories:
     - 'Jorja Fox'
 tags:
     - advocacy
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 Jorja will be reading from _Thanking the Monkey_ on December 14th at Animal Acres Sanctuary (in Acton, CA).  The reading is free, but you must RSVP with `info@animalacres.org` to be added to the list.

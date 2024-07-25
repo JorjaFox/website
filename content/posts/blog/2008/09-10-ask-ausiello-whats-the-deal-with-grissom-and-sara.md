@@ -4,6 +4,8 @@ title: "Ask Ausiello: What's the Deal with Grissom and Sara?"
 date: '2008-09-10T08:11:31-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post
+thumbnail:
+    url: /img/placeholder.png
 categories:
     - 'Jorja Fox'
 tags:

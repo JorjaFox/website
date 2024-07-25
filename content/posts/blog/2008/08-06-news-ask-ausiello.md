@@ -4,26 +4,8 @@ title: 'News — Ask Ausiello'
 date: '2008-08-06T08:35:45-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post
-guid: 'https://jorjafox.net/blog/?p=429'
-permalink: /2008/news-ask-ausiello/
-ljxp_comments:
-    - '0'
-ljxp_privacy:
-    - '0'
-tweetbackscheck:
-    - '1259664391'
-shorturls:
-    - 'a:4:{s:9:"permalink";s:50:"https://jorjafox.net/2008/08/06/news-ask-ausiello/";s:7:"tinyurl";s:25:"http://tinyurl.com/n4jpjf";s:4:"isgd";s:18:"http://is.gd/53RbQ";s:5:"bitly";s:20:"http://bit.ly/5rl7yN";}'
-twittercomments:
-    - 'a:1:{i:6073930770;s:7:"retweet";}'
-tweetcount:
-    - '1'
-btc_comment_summary:
-    - 'a:0:{}'
-btc_comment_counts:
-    - 'a:0:{}'
-astra_style_timestamp_css:
-    - '1634380344'
+thumbnail:
+    url: /img/placeholder.png
 categories:
     - 'Jorja Fox'
 tags:

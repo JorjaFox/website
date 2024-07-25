@@ -7,6 +7,8 @@ categories:
     - 'Jorja Fox'
 tags:
     - article
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 Marg mentions Jorja wanting to not forget to have a baby, and also visited Jorja at her home in San Clemente.

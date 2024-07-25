@@ -18,7 +18,8 @@ favicon:
 home:
   sections: [ "blog" ]
   feature:
-    width: 4
+    width: 6
+    color: "primary"
 
 externalLinks:
   cue: true

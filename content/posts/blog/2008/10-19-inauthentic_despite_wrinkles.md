@@ -4,6 +4,8 @@ title: 'Inauthentic despite wrinkles?'
 date: '2008-10-19T11:38:53-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post
+thumbnail:
+    url: /img/placeholder.png
 categories:
     - 'Jorja Fox'
 tags:

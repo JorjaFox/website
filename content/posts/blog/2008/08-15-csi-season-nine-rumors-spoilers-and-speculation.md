@@ -15,7 +15,7 @@ tags:
     - tv
 ---
 
-This is an open post for folks to gossip.  Here's the deal of what we know:
+Here's the deal of what we know:
 
 * Jorja Fox will be back for at least 2 episodes.
 *Lady Heather comes back.

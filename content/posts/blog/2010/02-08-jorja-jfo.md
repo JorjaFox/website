@@ -1,7 +1,7 @@
 ---
 title: 'Jorja invited JFO to Spotlight Humane: Chicago'
 date: '2010-02-28T00:51:52-08:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 description: 'She uses her celebrity to make the world better and yes, she really is that nice and she did invite me to meet her.  Read all about how it happened.'
 aliases:
 - /2010/jorja-jfo-to-spotlight-humane-chicago/

@@ -2,7 +2,7 @@
 id: 706
 title: 'EW says "No" to the geek-baby'
 date: '2008-10-21T12:02:38-07:00'
-author: 'Mika E. (Ipstenu)'
+authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Lynette Rice of EW.com says "no."'
 layout: post
 categories:

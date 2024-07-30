@@ -1,0 +1,26 @@
+---
+id: 10911
+title: 'Save Billy Photos from 2008'
+date: '2014-06-05T19:00:49-07:00'
+authorname: 'Mika E. (Ipstenu)'
+excerpt: 'Some photos of Jorja campaigning for Billy the Elephant have been found.'
+layout: post
+guid: 'https://jorjafox.net/?p=10911'
+permalink: /2014/save-billy-2008/
+astra_style_timestamp_css:
+    - '1634248803'
+image: 'https://static.jorjafox.net/wordpress/2014/06/Screen-Shot-2014-06-05-at-5-Jun-7.04.46-PM.png'
+categories:
+    - 'Jorja Fox'
+tags:
+    - advocacy
+    - photos
+---
+
+Some new photos of when Jorja (and Lily Tomlin and others) protested the conditions of Billy the Elephant in the LA zoo have shown up.
+
+[gallery ids="10912,10913,10914,10915"]
+
+The current status of Billy is that he can no longer be beaten, shocked, or prodded, and the zoo has to make sure his ground is soft and he's exercised. It's seen as a win, but not a full one. Billy still needs help to get out of the LA zoo and into a PAWS Sanctuary where he can live with other elephants.
+
+For more information, including how you can help, please visit <a href="http://www.helpbilly.org/">http://www.helpbilly.org/</a>

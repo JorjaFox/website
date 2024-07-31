@@ -11,7 +11,7 @@ tags:
     - 'dusty springfield'
     - producer
 thumbnail:
-    url: /img/blog/foreverdusty-001.jpg
+    url: /img/blog/2009/foreverdusty-001.jpg
 ---
 
 That's the rumor from our girlfriends at AfterEllen.com.

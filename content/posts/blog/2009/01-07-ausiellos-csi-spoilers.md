@@ -11,10 +11,8 @@ tags:
     - csi
     - tv
 thumbnail:
-    url: /img/blog/922-onetogo_02.JPG
+    url: /img/blog/2009/922-onetogo_02.JPG
 ---
-
-<img src="//static.jorjafox.net/wordpress/2009/01/grissom-43x100.png" alt="Grissom" title="Grissom" width="43" height="100" class="alignleft size-thumbnail wp-image-1324" />
 
 I know, I know. But this is important.  Grissom's final episode is going to run long, so pad your DVRs, VCRs, and whatever other recording equipment you've got by at _least_ ten minutes.  Also, expect WP on the cover of Friday's EW magazine.
 

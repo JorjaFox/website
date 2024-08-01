@@ -1,6 +1,6 @@
 ---
 id: 1920
-title: 'Drop Dead Diva Promo Pictures'
+title: "Drop Dead Diva Promo Pictures"
 date: '2009-07-23T17:41:20-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'HQ promo shots for _Drop Dead Diva_ for your enjoyment.'

@@ -1,6 +1,6 @@
 ---
 id: 838
-title: 'Thanking the Monkey at Animal Acres'
+title: "Thanking the Monkey at Animal Acres"
 date: '2008-12-04T21:28:53-08:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

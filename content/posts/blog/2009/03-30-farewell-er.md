@@ -1,6 +1,6 @@
 ---
 id: 1734
-title: 'Farewell ER — Jorja Remembers'
+title: "Farewell ER — Jorja Remembers"
 date: '2009-03-30T19:28:16-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'After 15 years, _ER_ calls it an end. While many people feel the show is past its prime, it was innovative in it''s day, and brought back the soapy feel of night-time telly that sometimes gets lost in a procedural.'

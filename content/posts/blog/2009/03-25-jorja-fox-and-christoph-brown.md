@@ -1,6 +1,6 @@
 ---
 id: 1718
-title: 'Jorja Fox and Christoph Brown'
+title: "Jorja Fox and Christoph Brown"
 date: '2009-03-25T10:27:29-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Two images of Jorja Fox and Christoph Brown (aka "The Etch-a-Sketch Man") at an unknown event.'

@@ -1,6 +1,6 @@
 ---
 id: 429
-title: 'News — Ask Ausiello'
+title: "News — Ask Ausiello"
 date: '2008-08-06T08:35:45-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

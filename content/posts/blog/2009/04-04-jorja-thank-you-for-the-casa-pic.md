@@ -1,6 +1,6 @@
 ---
 id: 1771
-title: 'Jorja Thank You for the CASA Pic'
+title: "Jorja Thank You for the CASA Pic"
 date: '2009-04-04T21:25:10-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Remember the giant CASA Check? And how we all said that it had to be taken during Grissom''s last episode? Well, we were right, and Jorja wishes we''d been there too.  Because that''s how cool she is!'

@@ -1,6 +1,6 @@
 ---
 id: 318
-title: 'Earth Hour'
+title: "Earth Hour"
 date: '2008-03-28T18:03:44-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

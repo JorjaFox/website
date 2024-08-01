@@ -1,6 +1,6 @@
 ---
 id: 1915
-title: 'It's true! Jorja returns to CSI'
+title: "It's true! Jorja returns to CSI"
 date: '2009-07-19T12:29:30-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Yes, it''s true. She''s back for at least 5 episodes, including the premiere, however this will be sans Grissom.'

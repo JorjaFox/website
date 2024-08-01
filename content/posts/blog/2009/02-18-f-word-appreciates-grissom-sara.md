@@ -1,6 +1,6 @@
 ---
 id: 1623
-title: 'The F-Word Appreciates Grissom and Sara'
+title: "The F-Word Appreciates Grissom and Sara"
 date: '2009-02-18T20:59:57-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'The F-Word (which is Feminism, in this case) blog contains the latest news of interest to UK feminists.  On February 18th, Bill Savage reflects on the "refreshingly non-formulaic" relationship between Grissom and Sara. '

@@ -1,5 +1,5 @@
 ---
-title: 'The Band Reunites'
+title: "The Band Reunites"
 date: '2023-08-14T13:07:27-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Some dear friends from CSI got back together for a nice visit.'

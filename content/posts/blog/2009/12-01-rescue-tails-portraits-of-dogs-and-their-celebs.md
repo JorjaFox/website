@@ -1,6 +1,6 @@
 ---
 id: 2134
-title: 'Rescue Tails — Portraits of Dogs and their Celebs (UPDATED!)'
+title: "Rescue Tails — Portraits of Dogs and their Celebs (UPDATED!)"
 date: '2009-12-01T10:39:38-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Photographer Brian Nice has released a photo book for the Humane Society of dogs who just happen to live with famous people, including Jorja Fox. _Updated Dec 2nd with a picture of Jorja and Ali._'

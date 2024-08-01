@@ -1,6 +1,6 @@
 ---
 id: 312
-title: 'Billy Masters says no Jorja on CSI this season'
+title: "Billy Masters says no Jorja on CSI this season"
 date: '2008-03-20T16:01:17-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

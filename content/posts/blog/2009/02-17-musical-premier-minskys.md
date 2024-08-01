@@ -1,6 +1,6 @@
 ---
 id: 1607
-title: 'Musical Premier — Minsky's'
+title: "Musical Premier — Minsky's"
 date: '2009-02-17T16:19:11-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'It was a star-studded opening night for the burlesque musical _Minsky''s_ at the Ahmanson Theatre in LA.'

@@ -1,6 +1,6 @@
 ---
 id: 908
-title: 'Ian Harvie — No on H8! video #11'
+title: "Ian Harvie — No on H8! video #11"
 date: '2008-12-15T20:19:10-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja joins Margaret Cho in her Protest Song (NOT safe for work).'

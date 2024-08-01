@@ -1,5 +1,5 @@
 ---
-title: 'Marg and Jorja remain friends after CSI'
+title: "Marg and Jorja remain friends after CSI"
 date: '2008-03-26T08:55:44-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

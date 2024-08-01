@@ -1,6 +1,6 @@
 ---
 id: 314
-title: 'CSI Spoilers'
+title: "CSI Spoilers"
 date: '2008-03-24T12:38:48-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

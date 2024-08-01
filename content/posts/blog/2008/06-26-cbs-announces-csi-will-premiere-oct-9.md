@@ -1,6 +1,6 @@
 ---
 id: 396
-title: 'CBS announces CSI will premiere Oct 9.'
+title: "CBS announces CSI will premiere Oct 9."
 date: '2008-06-26T20:45:36-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

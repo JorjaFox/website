@@ -1,6 +1,6 @@
 ---
 id: 448
-title: 'CSI Season Nine Rumors, Spoilers and Speculation'
+title: "CSI Season Nine Rumors, Spoilers and Speculation"
 date: '2008-08-15T12:50:07-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

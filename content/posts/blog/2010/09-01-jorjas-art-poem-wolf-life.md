@@ -1,6 +1,6 @@
 ---
 id: 2581
-title: 'Jorja's Art (and poem) — Wolf Life'
+title: "Jorja's Art (and poem) — Wolf Life"
 date: '2010-09-01T20:40:42-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Many thanks to Blaze Schwaller, owner of Spirit Gallery, for this photo to show you Jorja''s art. If you''re in the area, please consider going to the auction and bidding.'
@@ -29,13 +29,12 @@ All event proceeds benefit the Wolf Conservation Center (WCC).
 
 But you probably want to see Jorja's poem:
 
-<blockquote>**Wolf Life**
-
-Standing on
-the threshold, like
-an astronaut or deep
-sea diver. I'm in the company of wolves.  And
-I'm amazed when you run like the wind
-my friend, you save us all from a
-soul less world.
-</blockquote>
+> **Wolf Life**
+>
+> Standing on
+> the threshold, like
+> an astronaut or deep
+> sea diver. I'm in the company of wolves.  And
+> I'm amazed when you run like the wind
+> my friend, you save us all from a
+> soul less world.

@@ -1,5 +1,5 @@
 ---
-title: 'Songwriting Release!'
+title: "Songwriting Release!"
 date: '2024-02-15T15:38:28-08:00'
 authorname: "Mika E. (Ipstenu)"
 description: 'If music be the food of love, play on. Jorja has cowritten a song with her friend, Rick Morris.'

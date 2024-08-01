@@ -1,6 +1,6 @@
 ---
 id: 1323
-title: 'Ausiello's CSI Spoilers'
+title: "Ausiello's CSI Spoilers"
 date: '2009-01-07T14:00:33-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Grissom''s final episode, "One to Go" will run long, so pad your recordings by 10 minutes.  Also, Friday, Jan 9th''s issue of EW should have CSI on the cover.'

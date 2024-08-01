@@ -1,6 +1,6 @@
 ---
 id: 1653
-title: 'Did George Eads call Jorja a &#8216;diva'?'
+title: "Did George Eads call Jorja a &#8216;diva'?"
 date: '2009-03-04T12:26:55-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'In an interview about CSI, and the changing times, George Eads spoke, perhaps a little too candidly, about his former co-stars, and how things were on the set.'

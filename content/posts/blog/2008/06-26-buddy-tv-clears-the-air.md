@@ -1,6 +1,6 @@
 ---
 id: 394
-title: 'Buddy TV Clears the Air'
+title: "Buddy TV Clears the Air"
 date: '2008-06-26T14:08:43-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

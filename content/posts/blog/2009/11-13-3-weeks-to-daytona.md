@@ -1,6 +1,6 @@
 ---
 id: 2112
-title: '3 Weeks To Daytona'
+title: "3 Weeks To Daytona"
 date: '2009-11-13T10:19:03-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'A movie about a guy trying to get to Daytona with a mechanic you might recognize. '

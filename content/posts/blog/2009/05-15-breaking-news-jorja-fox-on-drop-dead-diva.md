@@ -1,6 +1,6 @@
 ---
 id: 1860
-title: 'Breaking News: Jorja Fox on Drop Dead Diva'
+title: "Breaking News: Jorja Fox on Drop Dead Diva"
 date: '2009-05-15T15:51:53-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Jorja Fox will be on the show "Drop Dead Diva" as a soccer mom with a criminal past, airing this summer on Lifetime!'

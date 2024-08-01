@@ -33,3 +33,8 @@ sections:
     sort: "date"
     reverse: true
     title: "Blog Posts"
+
+schema:
+  name: "Fans of Lefox"
+  twitter: "https://twitter.com/fansoflefox"
+  github: "http://github.com/jorjaFox/website/"

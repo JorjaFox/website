@@ -10,6 +10,8 @@ tags:
     - article
     - 'missing persons'
     - tv
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 Stephen J. Cannell, who came up with [Missing Persons](/library/actor/missing-persons/) passed away on October first as well.  If you want to watch the show, you can pick up the "Prime Time Crime: Stephen J. Cannell Collection" DVD box set. And yes, that high pitched voice is Jorja!

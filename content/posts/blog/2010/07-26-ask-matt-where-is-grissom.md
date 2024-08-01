@@ -3,13 +3,15 @@ id: 2526
 title: "Ask Matt: Where's Grissom?"
 date: '2010-07-26T11:22:27-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Just a quick question in this week''s Ask Matt. Where''s Grissom?'
+excerpt: "Just a quick question in this week's Ask Matt. Where's Grissom?"
 categories:
     - 'Jorja Fox'
 tags:
     - article
     - csi
     - tv
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 I know everyone wants to know about Grissom. But Matt points out that Jorja brings a lot back to the show, with or without Mr. Sidle.

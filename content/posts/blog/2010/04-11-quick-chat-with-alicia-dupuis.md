@@ -3,13 +3,15 @@ id: 2348
 title: "Quick Chat with Alicia Dupuis"
 date: '2010-04-11T15:30:26-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Alas, Alicia didn''t get to work with Jorja on "Three Weeks to Daytona", but she was just so cool to chat with, I had to share.'
+excerpt: "Alas, Alicia didn't get to work with Jorja on 'Three Weeks to Daytona', but she was just so cool to chat with, I had to share."
 categories:
     - 'Jorja Fox'
 tags:
     - '3 weeks to daytona'
     - misc
     - movies
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 People sometimes ask me 'Where do you get all the info about Jorja?'  I joke 'I look it up!' but the truth is, I'm also not afraid to ask total strangers "So hey, you were in this movie that Jorja was in. I run a Jorja site. Wanna chat?"

@@ -9,11 +9,12 @@ categories:
 tags:
     - advocacy
     - article
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 While the article is in Swedish, the letter is in English and is as follows:
 
->
 > His Excellency Fredrik Reinfeldt
 > Prime Minister of Sweden
 >
@@ -30,6 +31,5 @@ While the article is in Swedish, the letter is in English and is as follows:
 > Sincerely,
 >
 > Jorja Fox
-
 
 Source: [Sveket mot minkarna](http://sveketmotminkarna.se/kampanjen/nyheter/jorja-fox-till-fredrik-reinfeldt-stäng-minkfarmerna)

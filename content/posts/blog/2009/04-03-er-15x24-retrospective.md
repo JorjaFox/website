@@ -13,7 +13,7 @@ thumbnail:
     url: /img/blog/2009/retrospective_003.jpg
 ---
 
-&bull; [Recap/Review](/library/recaps/er/retrospective)
+* [Recap/Review](/library/recaps/er/retrospective)
 
 For **_ER_'s series finale** -- Noah Wyle and many other _ER_ alums returned
 
@@ -28,7 +28,6 @@ Of the show, Jorja says:
 > "It was breathtaking, it was magic.  There was so much going on on ''ER'' that I certainly had never seen on television before.  I don't think you've seen a lot of it in feature films.  The use of stedicams ... you could do almost an entire act of the show in one sweeping, sort of solid, motion.  It was a dance."
 
 Credit: Today Show
-
 
 **Videos**
 

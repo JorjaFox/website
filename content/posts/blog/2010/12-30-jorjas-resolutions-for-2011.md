@@ -9,6 +9,8 @@ categories:
 tags:
     - advocacy
     - article
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 This one's pretty self-contained, isn't it?
@@ -23,6 +25,4 @@ This one's pretty self-contained, isn't it?
 >
 > [...]
 
-
 Credit: [Humane Society](http://www.humanesociety.org/news/news/2010/12/2011_celebrity_resolutions.html)
-

@@ -22,7 +22,7 @@ So what's the deal, I've been asked.  Does Nina (NOT Nancy!) Tassler not know wh
 
 First off, only Ken Tucker has said this weird 'six' episode commitment, but since 9:30am in California, the buzz all over the net has been, indeed, the _first_ five episodes of _CSI_ will be graced with Jorja Fox.  While CBS has yet to release a public statement saying otherwise, the fact that Dustin Lee Abraham published a photo of Jorja in episode 10x02, and we know she's in 10x01, I'm going to guess that she's in the first episodes. Plural.
 
-{{< image src="/img/blog/2009/1002-ghosttown01.jpg" mode="true" caption="Behind the Scenes in the CSI epsiode Ghost Town" >}}
+{{< image src="/img/blog/2009/1002-ghosttown01.jpg" caption="Behind the Scenes in the CSI epsiode Ghost Town" >}}
 
 Will it be the first five? That looks very likely right now, and there may be more rejiggering of episodes to make that work. Nothing new with that, they've been doing it since season one! "I-15 Murders" was meant to be the second _CSI_ episode, but after they decided to kill Holly Gribbs and bring in Sara, they had to film a new ep #2 and reshoot and redub a lot of the episode (which is why that episode is so weird). I would not be surprised to see a shuffle here.
 

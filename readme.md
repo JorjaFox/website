@@ -22,8 +22,9 @@ To upgrade the backend site code, run `npm run upgrade`
 When the `production` branch is updated, it will automatically push the code to the server.
 
 1. Create a new branch to work on based on `production`.
-2. Test locally using `npm run start`
-3. Push branch to github
-4. Open a PR to `production`
+2. Test locally: `npm run start`
+3. Validate all MD files: `npm run lint`
+4. Push branch to github
+5. Open a PR to `production`
 
 A lead dev will review and merge.

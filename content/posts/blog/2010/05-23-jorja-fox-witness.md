@@ -10,6 +10,8 @@ tags:
     - article
     - misc
     - surfing
+thumbnail:
+    url: /img/placeholder.png
 ---
 
 Gregory Falk, in 2006, went surfing even though the Venice Beach lifeguards had raised the 'no surfing' flag. For those who have no idea what that means, if the lifeguards think there are too many swimmers, or the surf is too rough, they will run a flag up that says 'no surfing.' Falk disagreed with the lifeguards call and went in anyway and was arrested. That's not very abnormal. What happened next, however, is that he allegedly resisted arrest and was beaten up by the foot patrol. Which Jorja happened to see.

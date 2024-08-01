@@ -3,7 +3,7 @@ id: 1688
 title: "News from the past: NY Times on Summer Stories"
 date: '2009-03-17T09:07:49-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Flash back to 1992!  We wore leggings in summer, we had feathered hair, and Jorja Fox was on an ABC After School Special.  The New York Times review has some kind words to say.'
+description: 'Flash back to 1992!  We wore leggings in summer, we had feathered hair, and Jorja Fox was on an ABC After School Special.  The New York Times review has some kind words to say.'
 layout: post
 categories:
     - 'Jorja Fox'

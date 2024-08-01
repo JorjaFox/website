@@ -6,6 +6,7 @@ Due to unforeseen circumstances, we've been forced to change the site.
 
 * [System: Hugo](https://gohugo.io)
 * [Theme: Hinode](https://gethinode.com)
+* [Mod: MGallery](https://github.com/myrthos/mod-mgallery)
 
 ## Installation
 

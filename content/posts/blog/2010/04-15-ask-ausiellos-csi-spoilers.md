@@ -3,7 +3,7 @@ id: 2353
 title: "Ask Ausiello's CSI Spoilers"
 date: '2010-04-15T08:18:44-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: "If you don''t get 'Spoiler Warning!' from the title of this post, well, then I can't help you.  Season finale spoilers here."
+description: "If you don''t get 'Spoiler Warning!' from the title of this post, well, then I can't help you.  Season finale spoilers here."
 layout: post
 guid: 'https://jorjafox.net/?p=2353'
 permalink: /2010/ask-ausiellos-csi-spoilers/

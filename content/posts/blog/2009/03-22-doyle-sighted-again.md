@@ -3,7 +3,7 @@ id: 1708
 title: "Doyle Sighted Again!"
 date: '2009-03-22T19:04:51-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Don''t worry, you don''t have to watch the whole episode to see the glimpse of Doyle''s name on the wall of doctors. The video''s in the full post.'
+description: 'Don''t worry, you don''t have to watch the whole episode to see the glimpse of Doyle''s name on the wall of doctors. The video''s in the full post.'
 layout: post
 categories:
     - 'Jorja Fox'

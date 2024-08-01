@@ -3,7 +3,7 @@ id: 2136
 title: "Artists &#038; Athletes Private Briefing from October"
 date: '2009-12-01T12:17:06-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja and Marg were in LA in October and attended a private briefing on the president''s legislative priorities.  Photos?  You bet!'
+description: 'Jorja and Marg were in LA in October and attended a private briefing on the president''s legislative priorities.  Photos?  You bet!'
 categories:
     - 'Jorja Fox'
 tags:

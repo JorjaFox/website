@@ -3,7 +3,7 @@ id: 2526
 title: "Ask Matt: Where's Grissom?"
 date: '2010-07-26T11:22:27-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: "Just a quick question in this week's Ask Matt. Where's Grissom?"
+description: "Just a quick question in this week's Ask Matt. Where's Grissom?"
 categories:
     - 'Jorja Fox'
 tags:

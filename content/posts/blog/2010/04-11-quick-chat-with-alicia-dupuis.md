@@ -3,7 +3,7 @@ id: 2348
 title: "Quick Chat with Alicia Dupuis"
 date: '2010-04-11T15:30:26-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: "Alas, Alicia didn't get to work with Jorja on 'Three Weeks to Daytona', but she was just so cool to chat with, I had to share."
+description: "Alas, Alicia didn't get to work with Jorja on 'Three Weeks to Daytona', but she was just so cool to chat with, I had to share."
 categories:
     - 'Jorja Fox'
 tags:

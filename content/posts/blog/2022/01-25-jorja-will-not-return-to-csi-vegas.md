@@ -2,7 +2,7 @@
 title: "Jorja Will NOT Return to CSI: Vegas"
 date: '2022-01-25T12:02:59-08:00'
 authorname: "Mika E. (Ipstenu)"
-excerpt: 'That''s right. CSI: Vegas will continue, but without Jorja.'
+description: "That's right. CSI: Vegas will continue, but without Jorja."
 categories:
     - 'Jorja Fox'
 tags:

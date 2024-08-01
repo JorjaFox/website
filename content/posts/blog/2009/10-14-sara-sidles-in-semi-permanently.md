@@ -3,7 +3,7 @@ id: 2072
 title: "Sara Sidles in (Semi)-permanently (updated)"
 date: '2009-10-14T18:28:14-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Wednesday? Check. Ausiello news? Check. Ausiello **GOOD** news!? That''s right, Jorja''s sticking around for the foreseeable future.  You may commence the celebration. _Updated 10/14 at 11pm CT & 10/15 at 10:30am CT_'
+description: 'Wednesday? Check. Ausiello news? Check. Ausiello GOOD news!? That''s right, Jorja''s sticking around for the foreseeable future.  You may commence the celebration. '
 categories:
     - 'Jorja Fox'
 thumbnail:

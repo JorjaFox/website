@@ -3,7 +3,7 @@ id: 1663
 title: "Petersen: '[Sara] is the heart of Grissom'"
 date: '2009-03-11T09:40:48-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'William Petersen speaks to TV & Satellite Week (the TV Guide of the UK) about his final days on CSI, and why Sara is so important to Grissom (and why he can''t be with Heather).'
+description: 'William Petersen speaks to TV & Satellite Week (the TV Guide of the UK) about his final days on CSI, and why Sara is so important to Grissom (and why he can''t be with Heather).'
 categories:
     - 'Jorja Fox'
 tags:

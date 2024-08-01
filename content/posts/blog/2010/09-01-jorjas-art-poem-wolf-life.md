@@ -3,7 +3,7 @@ id: 2581
 title: "Jorja's Art (and poem) — Wolf Life"
 date: '2010-09-01T20:40:42-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Many thanks to Blaze Schwaller, owner of Spirit Gallery, for this photo to show you Jorja''s art. If you''re in the area, please consider going to the auction and bidding.'
+description: 'Many thanks to Blaze Schwaller, owner of Spirit Gallery, for this photo to show you Jorja''s art. If you''re in the area, please consider going to the auction and bidding.'
 categories:
     - 'Jorja Fox'
 tags:

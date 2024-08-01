@@ -3,7 +3,7 @@ id: 1755
 title: "William Friedkin says perhaps Jorja will return to CSI"
 date: '2009-04-01T20:20:23-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'William Friedkin is positive that Jorja (and Billy) might come back to _CSI_ if the stories are right.'
+description: 'William Friedkin is positive that Jorja (and Billy) might come back to _CSI_ if the stories are right.'
 layout: post
 categories:
     - 'Jorja Fox'

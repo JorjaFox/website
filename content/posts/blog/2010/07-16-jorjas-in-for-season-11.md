@@ -3,7 +3,7 @@ id: 2518
 title: "Jorja's IN for Season 11!"
 date: '2010-07-16T17:44:41-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: "She's in! She's in!"
+description: "She's in! She's in!"
 layout: post
 categories:
     - 'Jorja Fox'

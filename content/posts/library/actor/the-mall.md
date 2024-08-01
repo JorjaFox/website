@@ -5,9 +5,8 @@ layout: actor
 categories: ["Filmography"]
 tags: ["Television"]
 slug: the-mall
-gallery: https://jorjafox.net/gallery/tv/movies/summerstories/
 imdb: https://www.imdb.com/title/tt0202179/
-image: /img/actors/the-mall.jpg
+actorimage: /img/actors/the-mall.jpg
 ---
 
 Experience summer at the mall with Sarah, Spinner, Marla, Diane (Jorja Fox), Teresa, Kwan, and their friends.

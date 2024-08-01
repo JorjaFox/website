@@ -3,7 +3,7 @@ id: 2068
 title: "'Skin Trade' theatrical trailer"
 date: '2009-10-13T08:32:06-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: '"Skin Trade" is a documentary and expose on the history of how fur went from a necessity to a trade item to an inhumane retail business.  Jorja Fox was one of many stars involved.'
+description: '"Skin Trade" is a documentary and expose on the history of how fur went from a necessity to a trade item to an inhumane retail business.  Jorja Fox was one of many stars involved.'
 thumbnail:
     url: /img/blog/2009/skintrade-006.jpg
 categories:

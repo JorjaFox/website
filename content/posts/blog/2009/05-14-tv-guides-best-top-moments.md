@@ -3,7 +3,7 @@ id: 1858
 title: "TV Guide's Best Top Moments"
 date: '2009-05-14T11:40:21-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Behind only the Carol/Doug coda from ER and the televised election of Barak Obama, the third The Best of Top Moments on TV this year goes to the Best Goodbye.'
+description: 'Behind only the Carol/Doug coda from ER and the televised election of Barak Obama, the third The Best of Top Moments on TV this year goes to the Best Goodbye.'
 categories:
     - 'Jorja Fox'
 tags:

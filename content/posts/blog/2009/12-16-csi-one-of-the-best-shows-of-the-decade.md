@@ -3,7 +3,7 @@ id: 2153
 title: "CSI one of the best shows of the decade"
 date: '2009-12-16T09:26:21-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'So says TV Guide. So say we all. Ten years ago, science nerds would have been the sidekicks.  Today they''re the heroes.'
+description: 'So says TV Guide. So say we all. Ten years ago, science nerds would have been the sidekicks.  Today they''re the heroes.'
 thumbnail:
     url: /img/blog/2009/csi-lv-s8cast_01.jpg
 categories:

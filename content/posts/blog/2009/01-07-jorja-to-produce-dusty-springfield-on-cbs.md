@@ -3,7 +3,7 @@ id: 1316
 title: "Jorja to produce Dusty Springfield on CBS?"
 date: '2009-01-07T08:58:00-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja may produce _Stay Forever: The Life and Music of Dusty Springfield_ with CBS/Viacom, based on the live stage show she produced in 2008.'
+description: 'Jorja may produce _Stay Forever: The Life and Music of Dusty Springfield_ with CBS/Viacom, based on the live stage show she produced in 2008.'
 categories:
     - 'Jorja Fox'
 tags:

@@ -7,8 +7,7 @@ tags: ["Television"]
 episodelist: true
 slug: er
 imdb: https://www.imdb.com/title/tt0108757/
-gallery: https://jorjafox.net/gallery/tv/er/
-image: /img/actors/er.jpg
+actorimage: /img/actors/er.jpg
 thumbnail:
   url: img/front-page/ERTitleCard.jpg
 ---

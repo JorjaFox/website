@@ -3,7 +3,7 @@ id: 1936
 title: "How many CSI episodes is Jorja back for, and which ones?"
 date: '2009-08-04T10:50:33-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Is it five? Is it six? What order are they airing in? Who''s in what and when?  If you''re confused, you''re not alone.'
+description: 'Is it five? Is it six? What order are they airing in? Who''s in what and when?  If you''re confused, you''re not alone.'
 thumbnail:
     url: /img/blog/2009/1002-ghosttown04.jpg
 categories:

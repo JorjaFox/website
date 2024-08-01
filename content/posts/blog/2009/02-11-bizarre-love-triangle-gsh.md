@@ -3,7 +3,7 @@ id: 1571
 title: "Bizarre Love Triangle: G/S/H?"
 date: '2009-02-11T10:03:58-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'AOL''s Liane Bonin  counts down the top 20 Prime Time TV love triangles. Pinging in at number 20 is Sara and Grissom ... and Lady Heather.'
+description: 'AOL''s Liane Bonin  counts down the top 20 Prime Time TV love triangles. Pinging in at number 20 is Sara and Grissom ... and Lady Heather.'
 categories:
     - 'Jorja Fox'
 tags:

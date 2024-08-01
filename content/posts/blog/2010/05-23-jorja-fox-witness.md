@@ -3,7 +3,7 @@ id: 2434
 title: "Jorja Fox: Witness"
 date: '2010-05-23T17:58:08-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'In 2006, Jorja Fox was witness to an arrest on Venice Beach, and served in that capacity in trial.'
+description: 'In 2006, Jorja Fox was witness to an arrest on Venice Beach, and served in that capacity in trial.'
 categories:
     - 'Jorja Fox'
 tags:

@@ -3,7 +3,7 @@ id: 2841
 title: "Jorja's Resolutions for 2011"
 date: '2010-12-30T20:31:47-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'The Humane Society asked Jorja (and nine other celebrities) about their resolutions for 2011.'
+description: 'The Humane Society asked Jorja (and nine other celebrities) about their resolutions for 2011.'
 categories:
     - 'Jorja Fox'
 tags:

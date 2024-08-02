@@ -1,0 +1,23 @@
+
+{{- $title := .params.title -}}
+{{ $photogallery  := .photogallery }}
+
+<h2>Gallery</h2>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    {{ range $photogallery }}
+    {{- $image := . | absURL -}}
+    <div class="col">
+        <div class="card">
+            <a href="{{ $image }}" data-toggle="lightbox" data-gallery="gallery">
+            {{- partial "assets/image.html" (dict
+                "url" .
+                "ratio" "1x1"
+                "wrapper" "mx-auto"
+                "title" $title)
+            -}}
+            </a>
+        </div>
+    </div>
+    {{ end }}
+</div>

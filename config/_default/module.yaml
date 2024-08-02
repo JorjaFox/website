@@ -1,4 +1,3 @@
 imports:
   - path: 'github.com/gethinode/hinode'
-
-disableTemplate: ["katex"]
+  - path: 'github.com/JorjaFox/mod-bs5-lightbox'

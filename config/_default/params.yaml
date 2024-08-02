@@ -38,3 +38,11 @@ schema:
   name: "Fans of Lefox"
   twitter: "https://twitter.com/fansoflefox"
   github: "http://github.com/jorjaFox/website/"
+
+modules:
+  bs5-lightbox:
+    integration: "optional"
+    disableTemplate: false
+    state: "async"
+  katex:
+    disableTemplate: true

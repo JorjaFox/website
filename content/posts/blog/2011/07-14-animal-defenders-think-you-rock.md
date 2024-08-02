@@ -10,6 +10,8 @@ tags:
     - adi
     - advocacy
     - article
+thumbnail:
+  url: /img/blog/2011/6312943782_93619092e7_b.jpg
 ---
 
 It's not often the _fans_ get recognized for good things.  Stupid things, annoying things, and insulting things, sure.  But to get a public shout out for just being cool and nice and doing what we do, well, that's pretty rare.

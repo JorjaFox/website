@@ -8,6 +8,8 @@ categories:
     - 'Jorja Fox'
 tags:
     - article
+thumbnail:
+  url: /img/blog/2011/717-fallenidols_001.jpg
 ---
 
 This year Sean Plummer of MSN Entertainment asks "Should they or shouldn't they? When TV couples finally connect"

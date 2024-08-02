@@ -21,4 +21,3 @@ Pauley Perrette (@PauelyP - aka Abby Sciuto from _NCIS)_ has, apparently, know
 Here's the photo (if you can't get TwitPic to work)
 
 {{< image src="/img/blog/2011/366483995.jpg" >}}
-

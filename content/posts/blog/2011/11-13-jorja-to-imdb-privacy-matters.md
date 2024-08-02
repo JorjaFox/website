@@ -9,6 +9,8 @@ categories:
 tags:
     - article
     - tv
+thumbnail:
+  url: /img/blog/2011/18528198069_eb3bf5e72f_o.jpg
 ---
 
 Every time someone gives me crap (and yes, they do) about being a bit strict about protecting Jorja's personal life, I do get annoyed.  Yes, I run a fansite for Jorja, but my bottom line is, and will always be, that when something is stated _publicly_, then it's fit for this site.  After all, I don't like the idea of people nosing around my personal life.

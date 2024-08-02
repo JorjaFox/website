@@ -10,6 +10,8 @@ tags:
     - article
     - csi
     - tv
+thumbnail:
+  url: /img/blog/2011/1102-poolshark001.jpg
 ---
 
 Let's just put this out there, no one is more pro-GSR than Jorja.  The following article is from the Associated Press, and I cannot find a good link for it except [this one where they call her Jorga](http://www.digtriad.com/news/article/198438/204/Jorga-Fox-Wants-An-Episode-To-Reunite-Sara-With-Gil-On-CSI), so I'm posting it here:

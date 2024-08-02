@@ -9,6 +9,8 @@ categories:
 tags:
     - csi
     - tv
+thumbnail:
+  url: /img/blog/2011/1119-unleashed01.jpg
 ---
 
 > We were just minding our own business, chatting up Melinda Clarke about her role on Nikita, when we casually mentioned our love of her iconic role as dominatrix/single mother extraordinaire Lady Heather on CBS' _CSI: Crime Scene Investigation_. To which Clarke responded, like it was nothing, "It hasn't happened yet, but I'm scheduled to shoot another _CSI_ in a few weeks."

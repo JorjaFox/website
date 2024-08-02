@@ -9,6 +9,8 @@ categories:
 tags:
     - csi
     - misc
+thumbnail:
+  url: /img/blog/2011/top-ten.jpg
 ---
 
 So I was sitting around musing about things and joked 'What's the silliest reason Sara came back to Vegas.'  Right away, we had the number one reason, but I then decided I should see if we could come up with ten.

@@ -9,10 +9,11 @@ categories:
 tags:
     - interview
     - photos
-    - screencaps
     - surfing
     - transcript
     - video
+thumbnail:
+  url: /img/blog/2011/surfing-001.jpg
 ---
 
 Crazy mad props, again, to **lanos** for finding this AP video from yesterday of Jorja talking about surfing.

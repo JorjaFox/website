@@ -10,9 +10,12 @@ tags:
     - advocacy
     - interview
     - transcript
+thumbnail:
+  url: /img/blog/2011/jorja-ali.jpg
 ---
+Jorja was recently on [Pets in the City](https://www.petliferadio.com/cityep38.html) and talked about ADI and her dog, Ali.
 
-I knew Ali was sick, so I can't say I was terribly surprised that she passed away.  Fourteen is pretty awesome for a boxer, though.  I'll be sending out a card from everyone here at JFO (including you!) today.
+I knew Ali was sick, so I can't say I was terribly surprised that she passed away. Fourteen is pretty awesome for a boxer, though.  I'll be sending out a card from everyone here at JFO (including you!) today.
 
 This time, the marvelous Ann transcribed the whole interview for you and I'll let her take us in!
 

@@ -20,7 +20,7 @@ This year Sean Plummer of MSN Entertainment asks "Should they or shouldn't they?
 >
 >[...]
 
-Credit: MSN Entertainment
+Credit: **MSN Entertainment**
 
 I remember reading that CSI fans came down at about 60/40 pro-GSR, and personally I think that's about right. Their quirky relationship is downright weird, when you compare it to everything else you see on TV.  Then again, it's not as bizarre in the real world, where the economy and world events have couples working on opposite ends of the globe with surprising regularity, and even that strange guy at work got married.
 

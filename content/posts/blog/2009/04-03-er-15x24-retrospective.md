@@ -1,9 +1,9 @@
 ---
 id: 1762
-title: "ER 15&#215;24 — Retrospective"
+title: "ER 15x24 — Retrospective"
 date: '2009-04-03T09:19:35-07:00'
 authorname: 'Mika E. (Ipstenu)'
-description: 'Jorja was in the _ER_ ''episode'' "Retrospective", where cast members, past and present, talked about the show.  Videos, recaps and images included in the post.'
+description: 'Jorja was in the "ER" ''episode'' "Retrospective", where cast members, past and present, talked about the show.  Videos, recaps and images included in the post.'
 categories:
     - 'Jorja Fox'
 tags:

@@ -1,6 +1,6 @@
 ---
 id: 7517
-title: 'More Pictures from Artists &#038; Athletes'
+title: 'More Pictures from Artists & Athletes'
 date: '2013-07-11T16:55:56-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Three more pictures of Jorja at June''s roundtable with Philippe Cousteau'

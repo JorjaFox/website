@@ -1,6 +1,6 @@
 ---
 id: 9962
-title: 'NAACP and A&#038;A Instagram'
+title: 'NAACP and A&A Instagram'
 date: '2014-02-21T09:22:54-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Some more instagram pics from the wild this last week.'

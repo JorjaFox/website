@@ -1,6 +1,6 @@
 ---
 id: 4022
-title: 'CSI 12&#215;08: Crime After Crime — Recap &#038; Screencaps'
+title: 'CSI 12&#215;08: Crime After Crime — Recap & Screencaps'
 date: '2011-11-16T23:17:54-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Recap, screencaps and a sort of ... Hmm feeling for the episode.'

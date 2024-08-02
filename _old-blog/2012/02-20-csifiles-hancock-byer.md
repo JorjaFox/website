@@ -1,6 +1,6 @@
 ---
 id: 4359
-title: 'CSIFiles Interviews Hancock &#038; Byer'
+title: 'CSIFiles Interviews Hancock & Byer'
 date: '2012-02-20T15:22:28-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'CSI Files has a nice interview with Treena Hancock and Melissa Byer.'

@@ -1,6 +1,6 @@
 ---
 id: 4036
-title: 'Vegetarian Times Q&#038;A'
+title: 'Vegetarian Times Q&A'
 date: '2011-11-23T08:43:52-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Q&A with Jorja in the December 2011 issue of Vegetarian Times gives an insight to why Jorja is an activist, and also news about a new member of her four-legged family!'

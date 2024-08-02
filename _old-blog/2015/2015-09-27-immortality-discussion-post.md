@@ -1,6 +1,6 @@
 ---
 id: 13558
-title: '"Immortality" Parts 1 &#038; 2 Discussion Post'
+title: '"Immortality" Parts 1 & 2 Discussion Post'
 date: '2015-09-27T14:00:01-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Marg Helgenberger and Billy Petersen return to CSI for the series finale of CSI. #CSI #CSIFarewell'

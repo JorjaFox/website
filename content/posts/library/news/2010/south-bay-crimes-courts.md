@@ -1,5 +1,5 @@
 ---
-title: South Bay Crimes &#038; Courts
+title: South Bay Crimes & Courts
 date: 2010-05-18
 author: "Mika A. Epstein"
 layout: news

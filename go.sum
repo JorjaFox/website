@@ -4,6 +4,12 @@ github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802174512-08556e36ced2 h1:ZWf
 github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802174512-08556e36ced2/go.mod h1:WboKucxtvOtxdSG4aVA6End1RpsrSmPE0zGnALIQ7qM=
 github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802180923-7dd0f4b20617 h1:d142QQaxirfMHazcvu0RagxWUYcj6MltwFGd6j0Vl2U=
 github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802180923-7dd0f4b20617/go.mod h1:WboKucxtvOtxdSG4aVA6End1RpsrSmPE0zGnALIQ7qM=
+github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802194911-f68a4a05edc1 h1:gMtTP8qsqZmm7D4gL5Xha7PThFCFlE/rRuSn8ixNEBs=
+github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802194911-f68a4a05edc1/go.mod h1:WboKucxtvOtxdSG4aVA6End1RpsrSmPE0zGnALIQ7qM=
+github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802203050-e6e4107c3ab7 h1:5Z+cKyt2BSfAT8CrlgEF45aWr9OzYK0GPw0qUA0cWog=
+github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802203050-e6e4107c3ab7/go.mod h1:WboKucxtvOtxdSG4aVA6End1RpsrSmPE0zGnALIQ7qM=
+github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802203401-0fecd848ad4d h1:r2wJ2JYzL/apnwdUDCVydagNiJQ3CN8xrrFGVPxYQBc=
+github.com/JorjaFox/mod-bs5-lightbox v0.0.2-0.20240802203401-0fecd848ad4d/go.mod h1:WboKucxtvOtxdSG4aVA6End1RpsrSmPE0zGnALIQ7qM=
 github.com/airbnb/lottie-web v5.12.2+incompatible h1:Ldogtlhiucf7mMsgisyxSBY0qunV44+lpa9Icy2KoQc=
 github.com/airbnb/lottie-web v5.12.2+incompatible/go.mod h1:nTss557UK9FGnp8QYlCMO29tjUHwbdAHG/DprbGfHGE=
 github.com/gethinode/hinode v0.24.16 h1:h1D6OsWSTr3Q3cO1qDmTVetvOx6nfBTSLGP6wxf8qh4=

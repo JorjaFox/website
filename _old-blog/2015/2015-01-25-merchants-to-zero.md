@@ -1,6 +1,6 @@
 ---
 id: 11879
-title: '"Merchants of Menace" &#038; "Hero to Zero" Discussion Post'
+title: '"Merchants of Menace" & "Hero to Zero" Discussion Post'
 date: '2015-01-25T14:00:58-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'The CSI team goes to a Murderabilia convention to investigate a homicide with too many suspects and then tackles superheros!'

@@ -1,6 +1,6 @@
 ---
 id: 14725
-title: 'Congratulations for 10 Years of A&#038;A'
+title: 'Congratulations for 10 Years of A&A'
 date: '2018-03-12T20:23:20-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'A&A Alliance is a decade old and going strong!'

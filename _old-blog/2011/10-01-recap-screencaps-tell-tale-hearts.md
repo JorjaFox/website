@@ -1,6 +1,6 @@
 ---
 id: 3844
-title: 'Recap &#038; Screencaps - CSI 12&#215;02: Tell-Tale Hearts'
+title: 'Recap & Screencaps - CSI 12&#215;02: Tell-Tale Hearts'
 date: '2011-10-01T21:47:15-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'A little late, but better than never.  Here are your screencaps and recap from "Tell-Tale Hearts"'

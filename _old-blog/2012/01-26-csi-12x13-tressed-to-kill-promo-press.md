@@ -1,6 +1,6 @@
 ---
 id: 4265
-title: 'CSI 12&#215;13 "Tressed to Kill" Promo Images &#038; Press Release'
+title: 'CSI 12&#215;13 "Tressed to Kill" Promo Images & Press Release'
 date: '2012-01-26T12:41:10-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Nick''s a little teapot, and Jorja''s got the cuffs on someone when someone likes women’s hair so much it’s overkill.'

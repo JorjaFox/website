@@ -11,11 +11,12 @@ tags:
     - photos
 thumbnail:
     url: /img/blog/2009/chrisbrown_01.jpg
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "img/gallery/misc/christophbrown_01.jpg"
+ - "img/gallery/misc/christophbrown_02.jpg"
 ---
 
 Thanks to Jorja82 for finding two pictures of Christoph Brown, [Etch-a-Sketch Man](http://www.etchu.com/), and Jorja Fox at an unknown event.
 
-{{< carousel ratio="16x9" class="col-sm-12 col-lg-8 mx-auto" >}}
-  {{< img src="img/gallery/misc/christophbrown_01.jpg" caption="Jorja and Christoph Brown" >}}
-  {{< img src="img/gallery/misc/christophbrown_02.jpg" caption="Jorja and Christoph Brown" >}}
-{{< /carousel >}}
+{{< bs5-lightbox >}}

@@ -1,6 +1,6 @@
 ---
 id: 7352
-title: 'Artists &#038; Athletes with Philippe Cousteau'
+title: 'Artists & Athletes with Philippe Cousteau'
 date: '2013-06-10T19:46:18-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Global Environmental Challenges and the Innovative Solutions Needed to Solve Them'

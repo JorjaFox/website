@@ -11,7 +11,7 @@ tags:
     - misc
     - surfing
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2010/18365630636_7d57ed1909_k.jpg
 ---
 
 Gregory Falk, in 2006, went surfing even though the Venice Beach lifeguards had raised the 'no surfing' flag. For those who have no idea what that means, if the lifeguards think there are too many swimmers, or the surf is too rough, they will run a flag up that says 'no surfing.' Falk disagreed with the lifeguards call and went in anyway and was arrested. That's not very abnormal. What happened next, however, is that he allegedly resisted arrest and was beaten up by the foot patrol. Which Jorja happened to see.
@@ -26,4 +26,4 @@ She testified that she saw the police officers from the Venice Beach Foot Patrol
 
 The jury rejected the claim of police brutality.
 
-Credit: South Bay Courts & Crimes -- Surfer loses lawsuit against LAPD officers
+Credit: [South Bay Courts & Crimes -- Surfer loses lawsuit against LAPD officers](https://www.lapd.com/article/surfer-loses-lawsuit-against-lapd-officers)

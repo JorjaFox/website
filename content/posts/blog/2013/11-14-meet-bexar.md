@@ -3,13 +3,6 @@ id: 9299
 title: 'Meet Bexar'
 date: '2013-11-14T12:00:21-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'The new furry friend in Jorja''s life? Bexar the dog.'
-layout: post
-guid: 'https://jorjafox.net/?p=9299'
-permalink: /2013/meet-bexar/
-astra_style_timestamp_css:
-    - '1634363801'
-image: 'https://static.jorjafox.net/wordpress/2013/11/SwedenWithLove.com_elizabeth-messina_013a.jpg'
 categories:
     - 'Jorja Fox'
 tags:
@@ -18,6 +11,8 @@ tags:
 photogallery:
   - /img/blog/2013/SwedenWithLove.com_elizabeth-messina_008r.jpg
   - /img/blog/2013/SwedenWithLove.com_elizabeth-messina_008r.jpg
+thumbnail:
+  url: /img/blog/2013/SwedenWithLove.com_elizabeth-messina_013a-600x290.jpg
 ---
 
 Jorja's beloved boxer, Ali, passed away. I didn't report on it at the time because ... well I don't report on stuff until Jorja makes it public! Then when Jorja was in Texas, she found a dog.

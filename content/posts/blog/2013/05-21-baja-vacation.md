@@ -4,12 +4,6 @@ title: 'Baja Vacation'
 date: '2013-05-21T12:00:36-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'What do a Foxy''s visor, giant cactus, and a hoodie sweatshirt have in common? It''s vacation time!'
-layout: post
-guid: 'https://jorjafox.net/?p=7248'
-permalink: /2013/baja-vacation/
-astra_style_timestamp_css:
-    - '1634352265'
-image: 'https://static.jorjafox.net/wordpress/2013/05/kkbutter-002.jpeg'
 categories:
     - 'Jorja Fox'
 tags:
@@ -24,6 +18,8 @@ photogallery:
   - /img/gallery/travel/20130500-baja/johnroberts-001.jpg
   - /img/gallery/travel/20130500-baja/johnroberts-002.jpg
   - /img/gallery/travel/20130500-baja/surfbunny-001.jpg
+thumbnail:
+  url: /img/blog/2013/Rivabellosa_-_Ayuntamiento_de_Ribera_Baja_6.jpg
 ---
 
 Jorja took a vacation in Baja Mexico last week, surfing and enjoying life (as well she should). She may still be down there.

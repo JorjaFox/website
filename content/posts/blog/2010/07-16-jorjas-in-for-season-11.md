@@ -12,7 +12,7 @@ tags:
     - csi
     - tv
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2010/902-happyplace_002.jpg
 ---
 
 Ausiello breaks the news. Jorja's in.

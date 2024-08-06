@@ -11,7 +11,7 @@ categories:
     - 'Jorja Fox'
     - 'The Site'
 thumbnail:
-    url: /img/blog/jfo-gala.jpg
+    url: /img/blog/2010/jfo-gala.jpg
 ---
 
 As the twitter followers know, yes, I went to the gala and, yes, I met Jorja Fox.

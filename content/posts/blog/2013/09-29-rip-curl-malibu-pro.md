@@ -35,6 +35,8 @@ photogallery:
   - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_021.jpg
   - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_022.jpg
   - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_023.jpg
+thumbnail:
+  url: /img/gallery/benefits/20040930-ripcurl/ripcurl2004_001.jpg
 ---
 
 {{< bs5-lightbox >}}

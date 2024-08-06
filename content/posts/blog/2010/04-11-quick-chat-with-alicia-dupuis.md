@@ -11,12 +11,12 @@ tags:
     - misc
     - movies
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2010/MV5.jpg
 ---
 
 People sometimes ask me 'Where do you get all the info about Jorja?'  I joke 'I look it up!' but the truth is, I'm also not afraid to ask total strangers "So hey, you were in this movie that Jorja was in. I run a Jorja site. Wanna chat?"
 
-Alicia Dupuis, a model/actor who's just now getting her name all over the place, was kind enough to reply to my email about working on _3 Weeks to Daytona_. I only had a couple questions (and since two were 'Nope', I left them out), but Alicia was just so friendly I thought maybe you guys would like to see some color about the movie.
+[Alicia Dupuis](https://aliciadupuis.com/), a model/actor who's just now getting her name all over the place, was kind enough to reply to my email about working on _3 Weeks to Daytona_. I only had a couple questions (and since two were 'Nope', I left them out), but Alicia was just so friendly I thought maybe you guys would like to see some color about the movie.
 
 {{< blockquote >}}
 **What was your role on 3 Weeks?** I played a production assistant in the scene where Rob is shooting a commercial for his furniture company.

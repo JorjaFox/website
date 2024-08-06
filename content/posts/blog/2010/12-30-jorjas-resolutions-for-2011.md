@@ -10,7 +10,7 @@ tags:
     - advocacy
     - article
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2010/32141003485_eb7e54e7c9_k.jpg
 ---
 
 This one's pretty self-contained, isn't it?

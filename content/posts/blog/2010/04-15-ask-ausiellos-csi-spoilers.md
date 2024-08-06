@@ -11,7 +11,7 @@ tags:
     - csi
     - tv
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2010/922-onetogo_02.jpg
 ---
 
 The number one question I've been asked lately is "Is Jorja coming back to _CSI_ next season?"  And I don't know. I can't know! Wanna know why?  _CSI_ doesn't even know!  Seriously.  It makes it hard for even a super-spy to find an answer to a question that's not been asked yet.

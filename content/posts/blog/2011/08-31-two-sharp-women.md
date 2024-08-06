@@ -12,7 +12,7 @@ tags:
     - csi
     - tv
 thumbnail:
-  url: /img/blog/2011/05-adi_lions_arrival.jpg
+  url: /img/blog/2011/promo-vegas_002.jpg
 ---
 
 Regulars here remember that Catherine and Sara hated each other for a while back when _CSI_ started.  They also are likely to be familiar with the 2007 PopGurls interview where Jorja said that she and Marg didn't want their characters to be so bitchy to each other.

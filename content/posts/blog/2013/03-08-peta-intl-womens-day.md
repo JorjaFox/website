@@ -11,6 +11,8 @@ tags:
     - article
     - peta
     - photos
+thumbnail:
+  url: /img/blog/2013/23458170271_566509960f_k.jpg
 ---
 
 A site run by women for a woman. We celebrate every day as a day for Women, but especially today. I'll let PETA explain:

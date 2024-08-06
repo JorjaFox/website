@@ -10,7 +10,7 @@ tags:
     - advocacy
     - article
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2010/8822976492_46e781440c_k.jpg
 ---
 
 While the article is in Swedish, the letter is in English and is as follows:

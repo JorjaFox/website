@@ -24,11 +24,11 @@ But you probably want to see Jorja's poem:
 {{< blockquote >}}
 **Wolf Life**
 
-Standing on
-the threshold, like
-an astronaut or deep
-sea diver. I'm in the company of wolves.  And
-I'm amazed when you run like the wind
-my friend, you save us all from a
+Standing on\
+the threshold, like\
+an astronaut or deep\
+sea diver. I'm in the company of wolves.  And\
+I'm amazed when you run like the wind\
+my friend, you save us all from a\
 soul less world.
 {{< /blockquote >}}

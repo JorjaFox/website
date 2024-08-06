@@ -23,4 +23,3 @@ TV Guide confirms what we always thought, that _CSI_ is one of the best shows of
 {{< blockquote by="TV Guide" >}}
 Network procedurals are nothing new, but _CSI_'s intense focus on science was. High-tech gadgets, lots of jargon, and the occasional maggot infestation helped the lab nerds look cooler than the beat cops. The original spawned two successful spin-offs to become the _Law & Order_ of the 21st century.
 {{< /blockquote >}}
-

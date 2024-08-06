@@ -9,7 +9,7 @@ slug: er
 imdb: https://www.imdb.com/title/tt0108757/
 actorimage: /img/actors/er.jpg
 thumbnail:
-  url: img/front-page/ERTitleCard.jpg
+  url: img/front-page/er-doyle.jpg
 ---
 
 ## Character

@@ -5,7 +5,7 @@ date: '2008-11-16T23:26:30-08:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2008/artandath_03.jpg
 categories:
     - 'Jorja Fox'
 tags:

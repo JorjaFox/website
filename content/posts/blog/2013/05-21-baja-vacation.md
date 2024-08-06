@@ -17,6 +17,7 @@ tags:
     - 'social media'
     - surfing
     - travel
+modules: [ "bs5-lightbox" ]
 photogallery:
   - /img/gallery/travel/20130500-baja/kkbutter-001.jpg
   - /img/gallery/travel/20130500-baja/kkbutter-002.jpg

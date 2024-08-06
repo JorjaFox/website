@@ -10,6 +10,7 @@ tags:
     - advocacy
     - photos
     - 'social media'
+modules: [ "bs5-lightbox" ]
 photogallery:
   - /img/gallery/advocacy/artistsathletes/20130605-cousteau001.jpg
   - /img/gallery/advocacy/artistsathletes/20130605-cousteau002.jpg
@@ -22,4 +23,4 @@ photogallery:
 
 The Artists & Athletes Alliance hosted a private briefing for members of the entertainment and creative community on "Global Environmental Challenges and the Innovative Solutions Needed to Solve Them" with special guest Environmentalist Philippe Cousteau. Jorja (and Marg) were in attendance.
 
-
+{{< bs5-lightbox >}}

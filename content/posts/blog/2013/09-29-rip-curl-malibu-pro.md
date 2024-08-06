@@ -10,6 +10,7 @@ tags:
     - advocacy
     - photos
     - 'public events'
+modules: [ "bs5-lightbox" ]
 photogallery:
   - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_001.jpg
   - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_002.jpg
@@ -34,7 +35,6 @@ photogallery:
   - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_021.jpg
   - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_022.jpg
   - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_023.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_024.jpg
 ---
 
 {{< bs5-lightbox >}}

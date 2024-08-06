@@ -10,7 +10,7 @@ tags:
     - advocacy
     - video
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2008/attachment-NO-H8.jpg
 ---
 
 A word of warning: This is NOT safe for work.  The song's a bit offensive to people who are for Prop 8 (that is to say anti-homosexual marriage).

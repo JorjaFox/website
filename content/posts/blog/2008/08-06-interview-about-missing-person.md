@@ -5,7 +5,7 @@ date: '2008-08-06T18:42:52-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post
 thumbnail:
-    url: /img/placeholder.png
+    url: /img/blog/2008/missingpersons.png
 categories:
     - 'Jorja Fox'
 tags:

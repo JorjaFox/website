@@ -5,8 +5,8 @@ thumbnail:
     url: /img/JorjaFox-com.jpg
 actions:
   about:
-    url: "about"
-    title: "About Us"
+    url: "/faq/jorja/"
+    title: "About Jorja"
   twitter:
     url: "https://twitter.com/jorjafoxofficia"
     icon: "fab square-x-twitter"
@@ -15,13 +15,11 @@ actions:
     icon: "fab facebook"
 ---
 
-## As Seen On
+Jorja has an extensive filmography, but most people know her from _CSI: Crim
 
-{{< card-group padding="3" gutter="3" cols="2" >}}
-    {{< card path="/library/actor/er/" align="center" header="none" footer="none" >}}{{< /card >}}
+{{< card-group padding="3" gutter="3" cols="4" >}}
     {{< card path="/library/actor/csi/" align="center" header="none" footer="none" >}}{{< /card >}}
-    {{< card path="/library/actor/west-wing/" align="center" header="none" footer="none" >}}{{< /card >}}
     {{< card path="/library/actor/csi-vegas/" align="center" header="none" footer="none" >}}{{< /card >}}
+    {{< card path="/library/actor/er/" align="center" header="none" footer="none" >}}{{< /card >}}
+    {{< card path="/library/actor/west-wing/" align="center" header="none" footer="none" >}}{{< /card >}}
 {{< /card-group >}}
-
-## Latest Posts

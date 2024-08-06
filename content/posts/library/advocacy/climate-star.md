@@ -26,4 +26,4 @@ It's what thousands of species now face thanks to global warming. Habitats are c
 Global warming isn't cool. Stopping it is.
 
 Find out how 'you' can make a difference. Visit ClimateStar.org
-{{< blockquote >}}
+{{< /blockquote >}}

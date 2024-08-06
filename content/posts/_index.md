@@ -6,7 +6,13 @@ thumbnail:
 actions:
   about:
     url: "about"
-    title: "About"
+    title: "About Us"
+  twitter:
+    url: "https://twitter.com/jorjafoxofficia"
+    icon: "fab square-x-twitter"
+  facebook:
+    url: "https://www.facebook.com/JorjaFoxworldwide"
+    icon: "fab facebook"
 ---
 
 ## As Seen On

@@ -19,9 +19,11 @@ Thankfully, Jorja feels the same way.
 
 Right now, an actress (who shall remain nameless) is [suing IMDb for destroying her career by outing her age](http://www.dailynews.com/news/ci_19325714).  We all know that the older a woman gets, the harder it is to get cast, _even if_ they can play younger.  Well, now casting directors are checking IMDb to see if an actor or actress is close to the age they want to cast, and in some cases, a difference of five years is causing them to punt people off their potential list.
 
-> "In many ways, it is a privacy issue for artists, and it does tie their hands a little bit if there's too much truth out there about them," said Jorja Fox, who despite having her real age outed on the Internet when she was younger, went on to an impressive acting career in such popular shows as "ER," "The West Wing" and "CSI."
->
-> "Our ability to create characters and put a veil of believability around what we do - that's the whole idea," Fox continued. "The Internet's been really amazing in a lot of ways, like getting people out there. But in other ways, it's sort of made that job harder and harder to do over these years."
+{{< blockquote >}}
+"In many ways, it is a privacy issue for artists, and it does tie their hands a little bit if there's too much truth out there about them," said Jorja Fox, who despite having her real age outed on the Internet when she was younger, went on to an impressive acting career in such popular shows as "ER," "The West Wing" and "CSI."
+
+"Our ability to create characters and put a veil of believability around what we do - that's the whole idea," Fox continued. "The Internet's been really amazing in a lot of ways, like getting people out there. But in other ways, it's sort of made that job harder and harder to do over these years."
+{{< /blockquote >}}
 
 She's right.
 

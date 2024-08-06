@@ -17,18 +17,14 @@ tags:
     - 'social media'
     - surfing
     - travel
+photogallery:
+  - /img/gallery/travel/20130500-baja/kkbutter-001.jpg
+  - /img/gallery/travel/20130500-baja/kkbutter-002.jpg
+  - /img/gallery/travel/20130500-baja/johnroberts-001.jpg
+  - /img/gallery/travel/20130500-baja/johnroberts-002.jpg
+  - /img/gallery/travel/20130500-baja/surfbunny-001.jpg
 ---
 
 Jorja took a vacation in Baja Mexico last week, surfing and enjoying life (as well she should). She may still be down there.
 
-<a href="http://katebutlerphoto.com/">Kate Butler</a> got some amazing pictures of her -- the second one is my new favorite Jorja pic:
-
-<a title="By Kate Butler" href="https://jorjafox.net/gallery/personal/jorja/travel/20130500-baja/kkbutter-001.jpg/" rel="showcase"><img alt="By Kate Butler" src="https://jorjafox.net/gallery/cache/personal/jorja/travel/20130500-baja/kkbutter-001_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a> <a title="By Kate Butler" href="http://instagram.com/p/ZjlMSdoH40/" rel="showcase"><img alt="By Kate Butler" src="https://jorjafox.net/gallery/cache/personal/jorja/travel/20130500-baja/kkbutter-002_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a>
-
-<a href="http://www.thejohnroberts.com/">John Roberts</a> snapped a couple:
-
-<a title="By John Roberts" href="http://instagram.com/p/ZZZUM0o4_y/" rel="showcase"><img alt="By John Roberts" src="https://jorjafox.net/gallery/cache/personal/jorja/travel/20130500-baja/johnroberts-001_200_cw200_ch200_thumb.jpg" width="170" height="170" /> </a><a title="By John Roberts" href="http://instagram.com/p/ZZvGDNI41N/" rel="showcase"><img alt="By John Roberts" src="https://jorjafox.net/gallery/cache/personal/jorja/travel/20130500-baja/johnroberts-002_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a>
-
-And the mysterious surfbunny got this one:
-
-<a title="By surfbunny" href="http://instagram.com/p/Zi_kykh5F-/" rel="showcase"><img alt="By surfbunny" src="https://jorjafox.net/gallery/cache/personal/jorja/travel/20130500-baja/surfbunny-001_200_cw200_ch200_thumb.jpg" width="170" height="170" /></a>
+[Kate Butler](http://katebutlerphoto.com/) got some amazing pictures of her -- the second one is my new favorite Jorja pic -- as did [John Roberts](http://www.thejohnroberts.com/) and the mysterious surfbunny

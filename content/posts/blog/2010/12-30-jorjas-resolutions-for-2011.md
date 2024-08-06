@@ -15,14 +15,16 @@ thumbnail:
 
 This one's pretty self-contained, isn't it?
 
-> [...]
->
-> **JORJA FOX:** "My resolution is to support he HSUS’s effort to end dogfighting, and all they’re doing to help at-risk communities."
->
-> [...]
->
-> _Jorja Fox, star of the hit TV series CSI, has been a long-time supporter of The HSUS and our End Dogfighting campaign._
->
-> [...]
+{{< blockquote >}}
+[...]
+
+**JORJA FOX:** "My resolution is to support he HSUS’s effort to end dogfighting, and all they’re doing to help at-risk communities."
+
+[...]
+
+_Jorja Fox, star of the hit TV series CSI, has been a long-time supporter of The HSUS and our End Dogfighting campaign._
+
+[...]
+{{< /blockquote >}}
 
 Credit: [Humane Society](http://www.humanesociety.org/news/news/2010/12/2011_celebrity_resolutions.html)

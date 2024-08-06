@@ -20,6 +20,7 @@ That was our world when _CSI: Crime Scene Investigation_ rolled up to our scene,
 
 TV Guide confirms what we always thought, that _CSI_ is one of the best shows of this decade.  It certainly changed TV.
 
-> Network procedurals are nothing new, but _CSI_'s intense focus on science was. High-tech gadgets, lots of jargon, and the occasional maggot infestation helped the lab nerds look cooler than the beat cops. The original spawned two successful spin-offs to become the _Law & Order_ of the 21st century.
+{{< blockquote by="TV Guide" >}}
+Network procedurals are nothing new, but _CSI_'s intense focus on science was. High-tech gadgets, lots of jargon, and the occasional maggot infestation helped the lab nerds look cooler than the beat cops. The original spawned two successful spin-offs to become the _Law & Order_ of the 21st century.
+{{< /blockquote >}}
 
-Credit: TV Guide

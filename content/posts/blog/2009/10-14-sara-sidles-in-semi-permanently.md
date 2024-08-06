@@ -14,11 +14,15 @@ Michael Ausiello and Jorja fans are frenemies.  Most of us don't like him all th
 
 Well today he gave us this.
 
-> Exec producer Carol Mendelsohn confirms to me exclusively that Jorja Fox’s five-episode comeback has been extended _indefinitely_.
+{{< blockquote >}}
+Exec producer Carol Mendelsohn confirms to me exclusively that Jorja Fox’s five-episode comeback has been extended _indefinitely_.
+{{< /blockquote >}}
 
 That's right.  Jorja is sticking by _CSI_ for a while. How long a while? An unknown while, but a while.
 
-> The exact number of episodes that Fox will appear in is still being worked out, but Mendelsohn says it’s substantially more than five. “From our point of view, the more the better,” she says. “As many episodes as we can have Jorja for we want her for.”
+{{< blockquote >}}
+The exact number of episodes that Fox will appear in is still being worked out, but Mendelsohn says it’s substantially more than five. “From our point of view, the more the better,” she says. “As many episodes as we can have Jorja for we want her for.”
+{{< /blockquote >}}
 
 Credit: [Ausiello Files](http://ausiellofiles.ew.com/2009/10/14/exclusive-jorja-fox-makes-her-csi-return-more-permanent/)
 

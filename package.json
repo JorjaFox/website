@@ -1,7 +1,7 @@
 {
-    "name": "@gethinode/hinode",
-    "version": "0.24.19",
-    "description": "Hinode is a clean documentation and blog theme for Hugo, an open-source static site generator",
+    "name": "@JorjaFox/website",
+    "version": "3.0.2",
+    "description": "Fans of LeFox uses Hinode - a clean documentation and blog theme for Hugo, an open-source static site generator",
     "keywords": [
         "hugo",
         "theme",
@@ -74,11 +74,11 @@
     },
     "devDependencies": {
         "@gethinode/netlify-plugin-dartsass": "^0.3.0",
-        "eslint": "^8.57.0",
+        "eslint": "^9.8.0",
         "eslint-config-standard": "^17.1.0",
         "eslint-plugin-import": "^2.29.1",
-        "eslint-plugin-n": "^16.6.2",
-        "eslint-plugin-promise": "^6.6.0",
+        "eslint-plugin-n": "^17.10.2",
+        "eslint-plugin-promise": "^7.1.0",
         "markdownlint-cli2": "^0.13.0",
         "netlify-plugin-hugo-cache-resources": "^0.2.1",
         "npm-run-all": "^4.1.5",

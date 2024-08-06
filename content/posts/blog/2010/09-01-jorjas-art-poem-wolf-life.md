@@ -21,12 +21,14 @@ All event proceeds benefit the Wolf Conservation Center (WCC).
 
 But you probably want to see Jorja's poem:
 
-> **Wolf Life**
->
-> Standing on
-> the threshold, like
-> an astronaut or deep
-> sea diver. I'm in the company of wolves.  And
-> I'm amazed when you run like the wind
-> my friend, you save us all from a
-> soul less world.
+{{< blockquote >}}
+**Wolf Life**
+
+Standing on
+the threshold, like
+an astronaut or deep
+sea diver. I'm in the company of wolves.  And
+I'm amazed when you run like the wind
+my friend, you save us all from a
+soul less world.
+{{< /blockquote >}}

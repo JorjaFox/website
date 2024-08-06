@@ -15,6 +15,9 @@ categories:
 tags:
     - advocacy
     - article
+photogallery:
+  - /img/blog/2013/SwedenWithLove.com_elizabeth-messina_008r.jpg
+  - /img/blog/2013/SwedenWithLove.com_elizabeth-messina_008r.jpg
 ---
 
 Jorja's beloved boxer, Ali, passed away. I didn't report on it at the time because ... well I don't report on stuff until Jorja makes it public! Then when Jorja was in Texas, she found a dog.

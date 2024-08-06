@@ -4,22 +4,39 @@ title: 'Rip Curl/Malibu Pro Pictures'
 date: '2013-09-29T08:00:07-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'People who surf raising money for good things in the water, back in 2004.'
-layout: post
-guid: 'https://jorjafox.net/?p=8399'
-permalink: /2013/rip-curl-malibu-pro/
-astra_style_timestamp_css:
-    - '1634272826'
-image: 'https://static.jorjafox.net/wordpress/2013/09/113533176_w580_h411.jpg'
 categories:
     - 'Jorja Fox'
 tags:
     - advocacy
     - photos
     - 'public events'
+photogallery:
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_001.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_002.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_003.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_004.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_005.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_006.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_007.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_008.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_009.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_010.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_011.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_012.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_013.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_014.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_015.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_016.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_017.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_018.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_019.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_020.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_021.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_022.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_023.jpg
+  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_024.jpg
 ---
 
-Alas, this time I only have one, but it's a nice one. Mark Ruffalo and Simon Baker with Jorja:
-
-[caption id="attachment_8404" align="aligncenter" width="580"]<a href="https://jorjafox.net/gallery/pub/benefits/20040930-ripcurl/113533176.jpg"><img class="size-full wp-image-8404" alt="Rip Curl Malibu Pro - Press Conference" src="//static.jorjafox.net/wordpress/2013/09/113533176_w580_h411.jpg" width="580" height="411" /></a> <a href="https://jorjafox.net/gallery/pub/benefits/20040930-ripcurl/113533176.jpg">Rip Curl Malibu Pro - Press Conference</a>[/caption]
+{{< bs5-lightbox >}}
 
 What I love best is that Mark and Jorja were in "The True Story" together, so I kind of like to see it as a reunion. In 2004, it would be all "Hey, Mark, things working out since I was cut from your show?" But of course now in 2014 it's "Hey, Jorja, still on CSI while I'm playing the Hulk?"

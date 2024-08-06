@@ -51,7 +51,9 @@ As of July 23, 2004 Jorja was officially rehired on _CSI: Crime Scene Investigat
 
 In her own words:
 
-> There are all these things I want to do. Some are personal. Some are professional. And I really need to do some of them before I get too old. If I thought the show were on its last legs, I would have tried harder to stay the course. But I feel like its going to be around for a while, so if I don’t want some of those dreams to pass me by, I have to get off the ride for a while.
+{{< blockquote >}}
+There are all these things I want to do. Some are personal. Some are professional. And I really need to do some of them before I get too old. If I thought the show were on its last legs, I would have tried harder to stay the course. But I feel like its going to be around for a while, so if I don’t want some of those dreams to pass me by, I have to get off the ride for a while.
+{{< /blockquote >}}
 
 ### Why did Jorja go back to _CSI_?
 

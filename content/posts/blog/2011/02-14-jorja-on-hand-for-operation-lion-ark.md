@@ -14,6 +14,8 @@ thumbnail:
   url: /img/blog/2011/142281872.jpg
 ---
 
-> CSI actress Jorja Fox will be participating in the rescue operation along with TV personality Bob Barker, who funded the rescue. Fox, Barker and other ADI personnel are available to brief media about the operation and journey from Bolivia in advance of the arrival. Spanish spokespersons are also available.
+{{< blockquote >}}
+CSI actress Jorja Fox will be participating in the rescue operation along with TV personality Bob Barker, who funded the rescue. Fox, Barker and other ADI personnel are available to brief media about the operation and journey from Bolivia in advance of the arrival. Spanish spokespersons are also available.
+{{< /blockquote >}}
 
 Credit: **Enhanced Online News**

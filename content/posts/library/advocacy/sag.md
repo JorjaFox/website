@@ -3,7 +3,7 @@ title: Screen Actors Guild
 author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
-tags: 
+tags:
   - Acting
   - Unions
 website: http://www.SAG.org
@@ -17,7 +17,9 @@ The film industry is anticipating a strike by SAG, in addition to the recently r
 
 Jorja Fox supported the strike and filmed a promo for the SAG, showing her support. She was also a SAG negotiator for the strike.
 
-> Hi there, I'm Jorja Fox. I'm a proud card carrying SAG member and AFRA member. I would like to ask you to support your SAG negotiating team. They are working diligently, around the clock, for months now, to ensure that all of us have work for 10 and 20 and 30 years into the future. Respect them, support them, they do a great thing for all of us.
+{{< blockquote >}}
+Hi there, I'm Jorja Fox. I'm a proud card carrying SAG member and AFRA member. I would like to ask you to support your SAG negotiating team. They are working diligently, around the clock, for months now, to ensure that all of us have work for 10 and 20 and 30 years into the future. Respect them, support them, they do a great thing for all of us.
+{{< /blockquote >}}
 
 ## See Also
 

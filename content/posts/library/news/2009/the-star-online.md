@@ -16,7 +16,7 @@ newsurl: http://www.star-ecentral.com/news/story.asp?file=/2009/2/13/tvnradio/31
 
 [...]
 
-> Sara Sidle (Jorja Fox) and Gil Grissom (William Petersen) in "CSI: Crime Scene Investigation". Why, oh why, must it be Sara? Office romance is inevitable sometimes and their relationship was hinted at early on in the series.
+Sara Sidle (Jorja Fox) and Gil Grissom (William Petersen) in "CSI: Crime Scene Investigation". Why, oh why, must it be Sara? Office romance is inevitable sometimes and their relationship was hinted at early on in the series.
 
 Understandably, working closely together at the crime lab and crime scenes leave little time for both Sara and Grissom to do any socialising. Plus, they share the same interests -- bugs, blood, logic. But still, them being together is an uncomfortable notion.
 

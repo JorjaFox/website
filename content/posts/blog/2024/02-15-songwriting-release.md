@@ -6,7 +6,7 @@ description: 'If music be the food of love, play on. Jorja has cowritten a song 
 aliases:
 - /2024/songwriting-release/
 thumbnail:
-    url: /img/blog/427978717_928466355317800_8401120269177900437_n.jpg
+    url: /img/blog/2024/427978717_928466355317800_8401120269177900437_n.jpg
 categories:
     - 'Jorja Fox'
 ---

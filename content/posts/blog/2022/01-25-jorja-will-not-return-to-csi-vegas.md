@@ -9,7 +9,7 @@ tags:
     - 'CSI: vegas'
 layout: post
 thumbnail:
-    url: /img/blog/117785_0801b.jpg
+    url: /img/blog/2022/117785_0801b.jpg
 ---
 
 Jorja announced on Twitter that she **will not** be returning to _CSI: Vegas_

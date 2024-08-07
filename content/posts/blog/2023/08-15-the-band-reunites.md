@@ -9,7 +9,7 @@ tags:
     - csi
     - 'social media'
 thumbnail:
-    url: /img/blog/2294940257_d3c5b32168_b.jpg
+    url: /img/blog/2023/2294940257_d3c5b32168_b.jpg
 ---
 
 Marg Helgenberg shared that some of the old crew got together for a catchup:

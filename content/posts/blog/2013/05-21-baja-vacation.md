@@ -25,3 +25,5 @@ thumbnail:
 Jorja took a vacation in Baja Mexico last week, surfing and enjoying life (as well she should). She may still be down there.
 
 [Kate Butler](http://katebutlerphoto.com/) got some amazing pictures of her -- the second one is my new favorite Jorja pic -- as did [John Roberts](http://www.thejohnroberts.com/) and the mysterious surfbunny
+
+{{< bs5-lightbox >}}

@@ -16,4 +16,3 @@ tags:
 While _[Chiefs](https://jorjafox.net/library/actor/chiefs)_ didn't get picked up, the Peach State shared a video of how they turned Georgia into California and turned out one pilot.
 
 {{< youtube ja5T9-O1QCg >}}
-

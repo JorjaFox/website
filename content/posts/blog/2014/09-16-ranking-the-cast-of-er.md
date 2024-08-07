@@ -19,9 +19,7 @@ Twenty years ago, _ER_ debuted on NBC. Which means 18 years ago this winter we
 Okay, now that I can breathe again, The Wire has looked at [Fifteen Years at County General: Definitively Ranking the Cast of 'ER'](http://www.thewire.com/entertainment/2014/09/fifteen-years-at-county-general-definitively-ranking-all-of-ers-doctors-and-nurses/380164/)
 
 {{< blockquote >}}
-{{< image src="img/blog/2014/doyle.jpg" class="float-end" >}}
-
-22. **Maggie Doyle (Jorja Fox)**
+22. **[Maggie Doyle (Jorja Fox)](/library/actor/er/**
 
 _(Recurring Seasons 3-5)_ ER should have paid to keep Fox around (she departed for The _West Wing_ and then _CSI_). Appearing before Weaver came out, she was the show's first major gay character (although her orientation was much more obliquely referenced) and just the kind of admirable no-nonsense physician had plenty of in the early seasons. Later years demanded everyone have some kind of crippling personal drama, but Doyle mostly just did her job well.
 {{< /blockquote >}}

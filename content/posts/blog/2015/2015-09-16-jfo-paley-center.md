@@ -20,7 +20,7 @@ This marks the first time I've gone to an event on my own volition that I knew J
 
 I owe a lot to _CSI_, in a way. A lot of us do. I know people who became foster parents because of Sara Sidle. I know people who became cops and scientists and writers. I became a web-software developer instead of a lowly bank peon. _CSI_'s given me a lot, even though it never really knew it, and it seemed like a good idea to go say goodbye.
 
-They let everyone in around 6pm. The room was about half full and everyone was clearly a _CSI_ fan. A few rows were reserved entirely. The actors had a walk and photo shoot while we sat inside. It was a little surreal to have their photos showing up on Twitter while we sat waiting. The room filled out to what was a sell-out crowd while the media snapped photos. It was a small enough event though, so it felt comfortable. Except for the *really* cranky lady in front of me.
+They let everyone in around 6pm. The room was about half full and everyone was clearly a _CSI_ fan. A few rows were reserved entirely. The actors had a walk and photo shoot while we sat inside. It was a little surreal to have their photos showing up on Twitter while we sat waiting. The room filled out to what was a sell-out crowd while the media snapped photos. It was a small enough event though, so it felt comfortable. Except for the **really** cranky lady in front of me.
 
 After they did an intro, Antony Zuiker came out on stage and thanked us. He told us the history of _CSI_ and his life with CBS, and he thanked everyone on the show and showed us a little CSI video that had the original promo in it. Grissom talking about how he works the night shift in Las Vegas, and to concentrate on what cannot lie. And then... they got a little campy and goofy, saying that for fifteen years _CSI_ brought us everything from furries to bombs and everything in between. It was hilarious and perfectly classic _CSI_.
 
@@ -34,7 +34,7 @@ I think Grissom fell in love with Sara because you got him, and you got me too.
 
 Yeah, we all got a little damp eyed. It was worse when he said that acting with Jorja, every scene was like 'falling off a log' (aka easy). Of course Jorja admitted that Billy drove her crazy for the first six months and then suddenly he didn't.
 
-She talked about Paul, and said he was so glamorous and jet-setting. Jorja also said that while she believed everyone was a _real_ actor, Paul was a **_real_** actor.
+She talked about Paul, and said he was so glamorous and jet-setting. Jorja also said that while she believed everyone was a _real_ actor, Paul was a **real** actor.
 
 {{< blockquote >}}
 You were this movie star. You were so glamorous. I learned so much from you. You took risks and you're so classy.

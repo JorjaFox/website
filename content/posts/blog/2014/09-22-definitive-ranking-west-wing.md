@@ -1,6 +1,5 @@
 ---
-id: 11267
-title: 'A Definitive Ranking of Every Character on &#8216;The West Wing''
+title: "A Definitive Ranking of Every Character on 'The West Wing'"
 date: '2014-09-22T11:18:31-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Remember Gina Toscano? She''s never let Bookbag get kidnapped!'
@@ -26,9 +25,7 @@ As of this month, _The West Wing _is 15 years old. We'll pause as you absorb how
 
 [...]
 
-{{< image src="img/blog/2014/toscano.jpg" class="float-end" >}}
-
-**31. Gina Toscano**\
+**31. [Gina Toscano](/library/actor/west-wing/)**\
 **Played By:** Jorja Fox\
 **Number of Episodes:** 5
 

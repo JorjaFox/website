@@ -1,6 +1,6 @@
 ---
 id: 17928
-title: '&#8216;CSI' Reboot Casting News'
+title: "'CSI' Reboot Casting News"
 date: '2021-02-12T11:54:06-08:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'More news from the CSI Reboot is coming around, including casting.'

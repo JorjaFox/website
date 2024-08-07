@@ -6,7 +6,7 @@ authorname: 'Mika E. (Ipstenu)'
 excerpt: 'It''s happening! CSI is coming back!'
 layout: post
 thumbnail:
-  url: /img/blog/2021/31c31d1e45379fa44a21f61c79e1fedb.jpg
+  url: /img/blog/2021/csi-vegas.png
 categories:
     - 'Jorja Fox'
 tags:

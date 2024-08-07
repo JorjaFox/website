@@ -6,7 +6,7 @@ authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Tell world leaders that it is time to freeze new fossil fuel projects'
 layout: post
 thumbnail:
-  url: /img/blog/2016/act350.jpeg'
+  url: /img/blog/2016/act350.jpeg
 categories:
     - 'Jorja Fox'
 tags:

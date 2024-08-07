@@ -5,7 +5,7 @@ date: '2020-08-10T10:40:44-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'The reboot/revival is still being discussed and Jorja and Billy are reportedly in talks to return.'
 thumbnail:
-  url: /img/blog/$1/csi-s1.jpeg'
+  url: /img/blog/2020/csi-s1.jpeg
 categories:
     - 'Jorja Fox'
 tags:

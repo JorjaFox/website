@@ -5,7 +5,7 @@ date: '2017-08-11T10:18:52-07:00'
 authorname: 'Mika E. (Ipstenu)'
 excerpt: 'Photograph(s) of Jorja will be in Manfred Baumann''s new show in Vienna.'
 thumbnail:
-  url: /img/blog/2017/Unknown.jpeg'
+  url: /img/blog/2017/Unknown.jpeg
 categories:
     - 'Jorja Fox'
 tags:

@@ -19,7 +19,7 @@ Remember that weird movie, _[Happy Hell Night](https://jorjafox.net/library/acto
 
 Well [441 Films](http://www.441films.com) is apparently working on extras for it. I can only presume they'll be reissuing it! I'd heard that it was [coming out on Blu-Ray](http://www.blu-ray.com/movies/Happy-Hell-Night-Blu-ray/177005/) (eta August, UK release only), but guess who they talked to about it?
 
-{{< tweet user="441Films" id="872941044987555845" >}}
+Yep, Jorja.
 
 It constantly amuses me that she's uncredited, but the DVD covers have her on it (and most mention her by name):
 

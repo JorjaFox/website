@@ -10,7 +10,7 @@ permalink: /2014/jorja-wrong-about-csi/
 astra_style_timestamp_css:
     - '1634222267'
 thumbnail:
-  url: /img/blog/$1/088034-fdf51d5c-f5b2-11e3-ba3b-878da0800edb-e1403036042779.jpg
+  url: /img/blog/2014/088034-fdf51d5c-f5b2-11e3-ba3b-878da0800edb-e1403036042779.jpg
 categories:
     - 'Jorja Fox'
 tags:
@@ -29,7 +29,7 @@ But Fox has her own theory on why the original drama in the _CSI_ franchise en
 
 “And there are a whole bunch of really good reasons to tune in, but one of them is you are going to be in for an amazing ride, an amazing hour of an exciting, dodgy, what’s-going-to-happen-next kind of ride.”
 
-Surely Fox had no idea <span style="font-weight: inherit;">CSI</span> would become this monster hit when she signed to play Sidle 13 years ago.
+Surely Fox had no idea _CSI_ would become this monster hit when she signed to play Sidle 13 years ago.
 
 “You know, when I read the script I was blown away by it,” she says.
 {{< /blockquote >}}

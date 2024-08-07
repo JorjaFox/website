@@ -32,7 +32,7 @@ For additional details regarding cookie consent notices, please refer to [cookie
 
 ### 3rd Party Services
 
-Third party vendors are used to provide additional services, such as spam protection, ads, and analytics. These vendors often use cookies to serve content (such as ads) based on a user’s prior visits to this website or other websites, as well as track visits. Visitors may opt out of these vendor’s use of cookies for personalized advertising by visiting [AboutAds.info](https://www.aboutads.info) or directly with the vendor via their website.
+Third party vendors are used to provide additional services, analytics. These vendors often use cookies to serve content (such as ads) based on a user’s prior visits to this website or other websites, as well as track visits. Visitors may opt out of these vendor’s use of cookies for personalized advertising by visiting [AboutAds.info](https://www.aboutads.info) or directly with the vendor via their website.
 
 The following services are used:
 

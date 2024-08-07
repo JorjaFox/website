@@ -18,8 +18,10 @@ Tonight, "'Marg Helgenberger"s"' run as sexy, smart, and sassy crime scene inves
 
 [...]
 
-> What I"m going to miss most about Marg is her laugh. It"s bold, authentic, and very contagious. I plan to hang out with her often off the set to get my fix. I love ya, Marg. Who"s gonna laugh at my jokes now????
+{{< blockquote >}}
+What I"m going to miss most about Marg is her laugh. It"s bold, authentic, and very contagious. I plan to hang out with her often off the set to get my fix. I love ya, Marg. Who"s gonna laugh at my jokes now????
 
 "'-- Jorja Fox"' (Sara Sidle)
+{{< /blockquote >}}
 
 [...]

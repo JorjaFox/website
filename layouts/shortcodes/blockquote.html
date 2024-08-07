@@ -1,0 +1,14 @@
+<figure>
+  <blockquote class="blockquote">
+    {{ .Inner | .Page.RenderString }}
+    {{ if .Get "by" }}
+      <figcaption class="blockquote-footer">
+        {{ if .Get "source" }}
+          <cite title='{{ .Get "source" }}'><a href='{{ .Get "source" }}'>{{ .Get "by" }}</a></cite>
+        {{ else }}
+            {{ .Get "by" }}
+        {{ end}}
+    </figcaption>
+    {{ end }}
+  </blockquote>
+</figure>

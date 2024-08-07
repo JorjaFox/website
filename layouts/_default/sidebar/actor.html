@@ -31,7 +31,7 @@
 {{ $jorjan := $showdata.Get "jorjan" }}
 {{ $watch := $showdata.Get "watch" }}
 
-{{ $thumbnail := .Params.image | default "/img/placeholder.png" }}
+{{ $thumbnail := .Params.actorimage | default "/img/placeholder.png" }}
 
 {{ $class := "rounded" }}
 
@@ -48,9 +48,9 @@
 
         </div>
             <ul class="list-group list-group-flush actor-list-group">
-                {{ if $year }}<li class="list-group-item">{{ $year }}</li>{{ end }}
-                {{ if $genre }}<li class="list-group-item">{{ $genre }}</li>{{ end }}
-                {{ if $station }}<li class="list-group-item">{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
+                {{ if $year }}<li class="list-group-item">Airdates: {{ $year }}</li>{{ end }}
+                {{ if $genre }}<li class="list-group-item">Genre: {{ $genre }}</li>{{ end }}
+                {{ if $station }}<li class="list-group-item">Network: {{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
                 {{ if .Params.imdb }}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{ end }}
                 {{ if .Params.episodelist }}<li class="list-group-item">
                     <a href="/library/recaps/{{ .File.TranslationBaseName }}/">List of Appearances</a>

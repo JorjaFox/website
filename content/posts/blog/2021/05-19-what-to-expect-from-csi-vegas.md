@@ -15,7 +15,7 @@ tags:
 
 CBS has released a first look for _CSI: Vegas_:
 
-{{< twitter user="CSICBS" id="1395121264059027456" >}}
+{{< tweet user="CSICBS" id="1395121264059027456" >}}
 
 From that, we can see the first case involves people messing with evidence in a chilling way. What if CSIs used their powers for evil, essentially. But there's bound to be more to it.
 

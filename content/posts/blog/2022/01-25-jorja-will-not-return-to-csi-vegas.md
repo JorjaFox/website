@@ -14,7 +14,7 @@ thumbnail:
 
 Jorja announced on Twitter that she **will not** be returning to _CSI: Vegas_
 
-{{< twitter user="JorjaFoxofficia" id="1486014897947385857" >}}
+{{< tweet user="JorjaFoxofficia" id="1486014897947385857" >}}
 
 Her summation "So goes Grissom…..So goes Sara. Wherever they go, they belong together." is the greatest testament to her deep understanding of both what made the show a success, and why they need to be together.
 

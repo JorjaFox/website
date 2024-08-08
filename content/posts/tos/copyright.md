@@ -3,7 +3,7 @@ title: Terms of Use
 date: '2015-10-01'
 updated: '2024-07-31'
 author: 'Mika E. (Ipstenu)'
-layout: minimal
+layout: library
 aliases:
 - /tos/copyrights/
 ---

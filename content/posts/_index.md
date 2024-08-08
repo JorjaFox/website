@@ -17,7 +17,7 @@ actions:
 
 Jorja has an extensive [filmography](/library/filmography/), but most people know her from _CSI: Crime Scene Investigation_, where she played [Sara Sidle](/library/actor/csi/) for 14 seasons.
 
-She's also a producer, musician, [environmental advocate](/library/advocacy/), and all around brilliant human. n
+She's also a producer, musician, [environmental advocate](/library/advocacy/), and all around brilliant human.
 
 ## As Seen On
 

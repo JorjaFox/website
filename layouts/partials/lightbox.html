@@ -1,12 +1,37 @@
-{{- $title := .params.title -}}
-{{ $photogallery := .photogallery }}
+{{- $title        := .params.title -}}
+{{- $photogallery := .photogallery -}}
+{{- $filmography  := .filmography -}}
 
-{{ if .imdb }}
-    {{ if .Params.showslug }}
-        {{ $showslug := .Params.showslug }}
-        {{ $eptitle  := .Title }}
-        {{ $showname := (index .Site.Data.episodes .Params.showslug).showname }}
-        {{ $caption := printf "Images (c) " %s " from the episode " %s }}
+{{ $caption := false }}
+
+{{ if .params.imdb }}
+    {{ if .params.showslug }}
+        {{ $showslug := .params.showslug }}
+        {{ $eptitle  := .params.title }}
+        {{ $showname := (index .Site.Data.episodes .params.showslug).showname }}
+
+        {{ $caption = printf "%s from the episode %s" $title $eptitle }}
+    {{ else if .params.slug }}
+        {{ $showname := $title }}
+        {{ $showslug := .params.slug }}
+
+        {{- $showdata := newScratch -}}
+
+        {{ $year := $showdata.Get "year" }}
+
+        {{ range $filmography }}
+            {{ if eq $showslug .slug }}
+                {{ $showdata.Set "year" .dates }}
+                {{ $showdata.Set "station" .station }}
+            {{ end }}
+        {{ end }}
+
+        {{ $station := $showdata.Get "station" }}
+
+        {{ $year := $showdata.Get "year" }}
+        {{ $year = int $year }}
+
+        {{ $caption = printf "%s (%d), '%s'" $station $year $showname }}
     {{ end }}
 {{ end }}
 
@@ -32,9 +57,9 @@
         {{ end }}
         </div>
     </div> <!-- end card.body -->
-    {{ if $caption }}
+    {{ if ne $caption false }}
         <div class="card-footer text-body-secondary">
-            {{ $caption }}
+            Images &copy; {{ $caption }}.
         </div>
     {{ end }}
 </div>

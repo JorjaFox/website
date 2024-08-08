@@ -3,5 +3,6 @@
 {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) }}
 
 {{ if $photogallery }}
-    {{ partial "partials/lightbox" (dict "page" .Page "params" .Params "photogallery" $photogallery) }}
+    {{ $filmography := .Site.Data.filmography }}
+    {{ partial "partials/lightbox" (dict "page" .Page "params" .Params "filmography" $filmography "photogallery" $photogallery) }}
 {{ end }}

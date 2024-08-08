@@ -15,11 +15,11 @@ The following shows are currently recapped here:
 
 {{< table >}}
 |-------------|
-| {{< link "/library/recaps/missing-persons/" >}}Missing Persons{{< /link >}} {{< recapcount show="missing-persons" >}} |
-| {{< link "/library/recaps/er/" >}}ER{{< /link >}} {{< recapcount show="er" >}} |
-| {{< link "/library/recaps/west-wing/" >}}The West Wing{{< /link >}} {{< recapcount show="west-wing" >}} |
-| {{< link "/library/recaps/csi/" >}}CSI: Crime Scene Investigation{{< /link >}} {{< recapcount show="csi" >}} |
-| {{< link "/library/recaps/csi-vegas/" >}}CSI: Vegas{{< /link >}} {{< recapcount show="csi-vegas" >}} |
+| {{< fas magnifying-glass >}} {{< link "/library/recaps/missing-persons/" >}}Missing Persons{{< /link >}} {{< recapcount show="missing-persons" >}} |
+| {{< fas hospital >}} {{< link "/library/recaps/er/" >}}ER{{< /link >}} {{< recapcount show="er" >}} |
+| {{< fas democrat >}} {{< link "/library/recaps/west-wing/" >}}The West Wing{{< /link >}} {{< recapcount show="west-wing" >}} |
+| {{< fas microscope >}} {{< link "/library/recaps/csi/" >}}CSI: Crime Scene Investigation{{< /link >}} {{< recapcount show="csi" >}} |
+| {{< fas dna >}} {{< link "/library/recaps/csi-vegas/" >}}CSI: Vegas{{< /link >}} {{< recapcount show="csi-vegas" >}} |
 {{< /table >}}
 
 

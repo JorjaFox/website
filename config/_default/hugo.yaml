@@ -31,4 +31,13 @@ minify:
 disableKinds: ["taxonomy", "term"]
 
 outputs:
-  home: ["HTML", "RSS", "REDIR"]
+  home: ["HTML", "RSS"]
+  page: ["HTML"]
+  section: ["HTML"]
+  taxonomyTerm: ["HTML"]
+  taxonomy: ["HTML"]
+
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "rss"

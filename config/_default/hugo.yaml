@@ -16,6 +16,8 @@ summaryLength: 10
 enableRobotsTXT: true
 mainSections: [ "blog" ]
 
+timeout: "180s"
+
 minify:
   disableJS: true
   minifyOutput: false

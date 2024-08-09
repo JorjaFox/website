@@ -1,22 +1,66 @@
-{{- $title := .params.title -}}
-{{ $photogallery  := .photogallery }}
+{{- $title        := .params.title -}}
+{{- $photogallery := .photogallery -}}
+{{- $filmography  := .filmography -}}
+
+{{ $caption := false }}
+
+{{ if .params.imdb }}
+    {{ if .params.showslug }}
+        {{ $showslug := .params.showslug }}
+        {{ $eptitle  := .params.title }}
+        {{ $showname := (index .Site.Data.episodes .params.showslug).showname }}
+
+        {{ $caption = printf "%s from the episode %s" $title $eptitle }}
+    {{ else if .params.slug }}
+        {{ $showname := $title }}
+        {{ $showslug := .params.slug }}
+
+        {{- $showdata := newScratch -}}
+
+        {{ $year := $showdata.Get "year" }}
+
+        {{ range $filmography }}
+            {{ if eq $showslug .slug }}
+                {{ $showdata.Set "year" .dates }}
+                {{ $showdata.Set "station" .station }}
+            {{ end }}
+        {{ end }}
+
+        {{ $station := $showdata.Get "station" }}
+
+        {{ $year := $showdata.Get "year" }}
+        {{ $year = int $year }}
+
+        {{ $caption = printf "%s (%d), '%s'" $station $year $showname }}
+    {{ end }}
+{{ end }}
 
 <h2>Gallery</h2>
 
-<div class="row row-cols-1 row-cols-md-3 g-4">
-    {{ range $photogallery }}
-    {{- $image := . | absURL -}}
-    <div class="col">
-        <div class="card">
-            <a href="{{ $image }}" data-toggle="lightbox" data-gallery="gallery">
-            {{- partial "assets/image.html" (dict
-                "url" .
-                "ratio" "1x1"
-                "wrapper" "mx-auto"
-                "title" $title)
-            -}}
-            </a>
+<div class="card">
+    <div class="card-body">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+       {{ range $photogallery }}
+            {{- $image := . | absURL -}}
+            <div class="col">
+                <div class="card">
+                    <a href="{{ $image }}" data-toggle="lightbox" data-gallery="gallery">
+                    {{- partial "assets/image.html" (dict
+                            "url" .
+                            "ratio" "1x1"
+                            "wrapper" "mx-auto"
+                            "title" $title)
+                    -}}
+                    </a>
+                </div>
+            </div>
+        {{ end }}
         </div>
-    </div>
+    </div> <!-- end card.body -->
+    {{ if ne $caption false }}
+        <div class="card-footer text-body-secondary">
+            Images &copy; {{ $caption }}.
+        </div>
     {{ end }}
 </div>
+

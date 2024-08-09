@@ -1,6 +1,5 @@
 ---
 title: "Hitting for the Cycle"
-slug: hitting-for-the-cycle
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/

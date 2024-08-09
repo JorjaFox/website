@@ -34,8 +34,7 @@ Jorja, who was photographed for *Sweden With Love* by **Elizabeth Messina**, has
 
 **Jorja:** Yes! I have a grandmother here, so I see a whole bunch of senior citizens regularly. But I don't really see people aging. There doesn't seem to be anyone in between here. There are senior citizens and then there are all these other ageless people. I guess you've got to go somewhere else, you've got to disappear for a decade, and then come back and reintroduce yourself as a senior citizen with white hair [laugh].
 
-**Ulrica: I find that, for each year that goes by, there's also a greater sense of freedom because you stop caring about all the crap you used to care about.
-**
+**Ulrica: I find that, for each year that goes by, there's also a greater sense of freedom because you stop caring about all the crap you used to care about.**
 
 **Jorja:** You're so right. I really don't care about what people think about me and it's such a relief. When I was in my 20s and 30s, I always thought about how I was perceived. Was I pretty enough? Was I cool enough? I just don't have those anxieties anymore. I don't worry about if I'm pretty enough or cool enough or fashionable enough. Those are the shallow ways we torture ourselves when we're younger! That said, it's still really important to me how people perceive me in terms of being a decent human being. But that stage when you're constantly worrying about if you're pretty enough or loud enough or quiet enough or *anything* enough? I'm so glad I'm over that stage. There's such freedom in not having to worry about those things.
 

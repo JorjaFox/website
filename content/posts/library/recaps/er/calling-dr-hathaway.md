@@ -29,22 +29,22 @@ Doyle comes by to see Carter, who's in the surgeon's doghouse (aka a lab). Doyle
 
 ## Quotes
 
-**Maggie:** What are you doing down here?
-**Carter:** Hiding.
-**Maggie:** Me, too.
-**Carter:** You're a smoker?
+**Maggie:** What are you doing down here?\
+**Carter:** Hiding.\
+**Maggie:** Me, too.\
+**Carter:** You're a smoker?\
 **Maggie:** A secret smoker -- don't tell anyone.
 
 ---
 
-**Carter:** Surgeons don't rat on each other. It's like the Marines - one for all, and all for one.
-**Maggie:** That's the Three Musketeers.
+**Carter:** Surgeons don't rat on each other. It's like the Marines - one for all, and all for one.\
+**Maggie:** That's the Three Musketeers.\
 **Carter:** You get the picture.
 
 ---
 
-**Carter:** You know, you're great.
-**Maggie:** So are you.
+**Carter:** You know, you're great.\
+**Maggie:** So are you.\
 **Carter:** Seriously--you're great--funny--beautiful, too. I don't suppose you would -
-**Maggie:** Not a chance.
+**Maggie:** Not a chance.\
 **Carter:** Cheers.

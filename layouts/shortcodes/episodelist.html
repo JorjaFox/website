@@ -19,7 +19,7 @@
 			<th scope="row">{{ .epnum }}</th>
 			<th scope="row">{{ if .title }}"{{ if .slug }}<a href="/library/recaps/{{ $show }}/{{ .slug }}/">{{ end }}{{ .title }}{{ if .slug }}</a>{{ end }}"{{ else }}<em>TBD<em>{{ end }}</th>
 			<th scope="row">{{ if .airdate }}{{ .airdate | dateFormat "Jan 2, 2006" }}{{ $time := time .airdate }}{{ if and ( ge $time.Unix now.Unix ) ( not .summary ) }} <span class="link-danger">*</span>{{end}}{{ end }}</th>
-			<th scope="row"><center>{{ partial "episodelist-rating.html" (dict "context" . "rating" .rating) }}</center></th>
+			<th scope="row"><center>{{ partial "rating.html" (dict "rating" .rating) }}</center></th>
 		</tr>
 		<tr>
 			<td colspan="4">{{ if .summary }}{{ .summary }}{{ else }}<em>Coming Soon<em>{{ end }}</td>

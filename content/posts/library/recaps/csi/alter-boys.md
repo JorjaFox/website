@@ -32,8 +32,8 @@ Both Sara and Nick apologize to Grissom when they jump the gun with the evidence
 
 - - -
 
-**Grissom:** What about the neck? Any fibers in the wound?
-**Sara:** You told me to wait for you.
+**Grissom:** What about the neck? Any fibers in the wound?\
+**Sara:** You told me to wait for you.\
 **Grissom:** Well, that hasn't stopped you yet.
 
 - - -
@@ -42,10 +42,10 @@ Both Sara and Nick apologize to Grissom when they jump the gun with the evidence
 
 - - -
 
-**Nick:** Could be red sauce.
+**Nick:** Could be red sauce.\
 **Sara:** Oh, _now_ you're cautious.
 
 - - -
 
-**Grissom:** He transported them. Show me the gun with Ben's prints on it. Gun shot residue, the ligature, the ...
+**Grissom:** He transported them. Show me the gun with Ben's prints on it. Gun shot residue, the ligature, the ...\
 **Sara:** ... The holes in Christ's hands, Doubting Thomas?

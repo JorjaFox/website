@@ -35,8 +35,8 @@ Back at the station, Ray approves of her work in the field, allowing Connie to c
 
 ## Quotes
 
-**Connie**: When?
-**Ray:** Connie, I need you here. You're the only one who can find certain things.
+**Connie**: When?\
+**Ray:** Connie, I need you here. You're the only one who can find certain things.\
 **Connie:** I know, I know. You need me, right.
 
 - - -
@@ -47,6 +47,6 @@ Back at the station, Ray approves of her work in the field, allowing Connie to c
 
 - - -
 
-**Connie:** Thanks, you're a doll.
-**Doorman:** Hey, you're not chopped liver yourself!
+**Connie:** Thanks, you're a doll.\
+**Doorman:** Hey, you're not chopped liver yourself!\
 **Connie:** Tell that to my boss. He seems to think I am.

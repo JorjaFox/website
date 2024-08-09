@@ -28,5 +28,5 @@ Grissom, Sara and Greg investigate the death of a man who died in his house, whi
 
 ## Quotes
 
-**Greg:** Ornithological database just ID'd the feathers I collected at the crime scene. (He hands the evidence bag with the feathers to Sara.) Hyacinth Macaw. So how come you and Brass didn't involve me in the interrogation?
+**Greg:** Ornithological database just ID'd the feathers I collected at the crime scene. (He hands the evidence bag with the feathers to Sara.) Hyacinth Macaw. So how come you and Brass didn't involve me in the interrogation?\
 **Sara:** Greg, you still have the solo to complete, and, technically, you're still a trainee, but you're doing a great job.

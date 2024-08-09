@@ -12,6 +12,12 @@ season: 16
 epnum: 1
 date: 2015-09-27
 prodnum: 336
+modules: ["bs5-lightbox"]
+photogallery:
+  - /img/gallery/tv/csi/16-immortality/1601-immortality-01.jpg
+  - /img/gallery/tv/csi/16-immortality/1601-immortality-02.jpg
+  - /img/gallery/tv/csi/16-immortality/1601-immortality-03.jpg
+  - /img/gallery/tv/csi/16-immortality/1601-immortality-04.jpg
 ---
 
 ## Synopsis
@@ -42,5 +48,5 @@ While she's moved on with her life and is trying to professionally make it throu
 
 ## Quotes
 
-**Sara** Look, we both went our separate ways. You're doing your Jacques Cousteau thing. I'm out in the field. Things end. I get it. But you and I are professionals. And as professionals, I think it's in the best interest of my case to put our game faces on... and keep it... professional... See... Mine's on. Ready to go in?
+**Sara** Look, we both went our separate ways. You're doing your Jacques Cousteau thing. I'm out in the field. Things end. I get it. But you and I are professionals. And as professionals, I think it's in the best interest of my case to put our game faces on... and keep it... professional... See... Mine's on. Ready to go in?\
 **Grissom** Seeing you again left me speechless.

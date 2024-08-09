@@ -38,14 +38,14 @@ Sara apologizes to Craig before they release him. Craig confesses that he never 
 
 - - -
 
-**Sara:** Dave! Hi. I missed your face.
-**Phillips:** I missed you too.
-**Sara:** How's your wife?
+**Sara:** Dave! Hi. I missed your face.\
+**Phillips:** I missed you too.\
+**Sara:** How's your wife?\
 **Phillips:** Good. What did you hear?
 
 - - -
 
-**Brass:** [...] He hates CSIs. Even mentioned Grissom's name a few times.
-**Sara:** Well. Then I won't mention that I'm Mrs. Grissom.
-**Brass:** You took his name?
+**Brass:** [...] He hates CSIs. Even mentioned Grissom's name a few times.\
+**Sara:** Well. Then I won't mention that I'm Mrs. Grissom.\
+**Brass:** You took his name?\
 **Sara:** Uh, no.

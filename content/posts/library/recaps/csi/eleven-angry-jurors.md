@@ -28,7 +28,7 @@ Sara is fairly nondescript in this -- a good, general workman-like job with noth
 
 ## Quotes
 
-**Warrick:** Take me out to the ballgame.
+**Warrick:** Take me out to the ballgame.\
 **Sara:** Buy me some peanuts.
 
 - - -

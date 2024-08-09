@@ -1,13 +1,13 @@
 ---
 title: "Lion Ark"
 author: "Mika A. Epstein"
-layout: producer
+layout: library
 categories: ["Filmography"]
 tags: ["producer", "movies"]
 genre: Documentary
 year: 2013
 excerpt: "A team in Bolivia tracks down illegal circuses and rescues every animal."
-redirect_from: 
+redirect_from:
   - /self/lion-ark/
 ---
 

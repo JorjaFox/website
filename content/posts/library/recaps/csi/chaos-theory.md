@@ -24,7 +24,7 @@ The entire CSI team investigates a disappearance at a local university. A young 
 
 ## Quotes
 
-**Greg:** Well, that's one way to get her DNA. Bring me her whole life.
-**Sara:** It's called zeal, Greg.
-**Greg:** Or overkill.
+**Greg:** Well, that's one way to get her DNA. Bring me her whole life.\
+**Sara:** It's called zeal, Greg.\
+**Greg:** Or overkill.\
 **Grissom:** It's called procedure.

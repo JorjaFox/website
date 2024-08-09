@@ -1,7 +1,7 @@
 {{ $pagedate := $.Page.Date.Format "2006" }}
 {{ $order    := "normal" }}
 {{ $count    := 1 }}
-{{ $thisdate := now.Format "2006" }}
+{{ $thisdate := time.Now.Year }}
 {{ $tags     := slice $pagedate }}
 
 {{ if .Get "order" }}{{ $order = .Get "order" }}{{ end }}

@@ -34,19 +34,19 @@ At the end of the episode, Sara finds a plant sent to the office, from Grissom.
 
 ## Quotes
 
-**Alan Widcom** Elvis is a big cliche these days.
+**Alan Widcom** Elvis is a big cliche these days.\
 **Sara:** And Liberace is all the rage.
 
 - - -
 
-**Widcom** Are you married?
-**Sara:** I am.
-**Widcom** It's ... special, isn't it?
+**Widcom** Are you married?\
+**Sara:** I am.\
+**Widcom** It's ... special, isn't it?\
 **Sara:** Yes. It is.
 
 - - -
 
-**Ecklie:** ... Fredrick Ladd. Runs a cash-for-gold store in a some strip mall.
+**Ecklie:** ... Fredrick Ladd. Runs a cash-for-gold store in a some strip mall.\
 **Sara:** Yeah! Like the ads! 'Market Crash! Cold Hard Cash!'
-**Ecklie:** Seriously. You watch too much TV.
+**Ecklie:** Seriously. You watch too much TV.\
 **Sara:** I work the night shift and my husband's living abroad. Cut me some slack, please.

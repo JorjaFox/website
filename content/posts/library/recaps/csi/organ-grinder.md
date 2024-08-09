@@ -28,13 +28,13 @@ When the body of Bob Fairmont, the real estate developer, is found, the team dis
 
 ## Quotes
 
-**Sara:** No matter how clean or expensive the [hotel] room is, that's why I always travel with NonOxynal9.
+**Sara:** No matter how clean or expensive the [hotel] room is, that's why I always travel with NonOxynal9.\
 **Grissom:** You sound like you're a commercial.
 
 - - -
 
-**Grissom:** What's the most important ingredient in a poison?
-**Sara:** ... the poison?
+**Grissom:** What's the most important ingredient in a poison?\
+**Sara:** ... the poison?\
 **Grissom:** Patience.
 
 - - -
@@ -44,5 +44,5 @@ When the body of Bob Fairmont, the real estate developer, is found, the team dis
 - - -
 
 **Sara:** What are we doing? Digging up graves, chasing prints...if it's no good in court, if the killers win --
-**Grissom:** It isn't a competition. We don't 'win.' The courts are like dice. They have no memory; what works one week won't work the next.
+**Grissom:** It isn't a competition. We don't 'win.' The courts are like dice. They have no memory; what works one week won't work the next.\
 **Sara:** I know that. I do. I know that. That's why I'm mad.

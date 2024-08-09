@@ -32,11 +32,11 @@ Sara remains on the night shift, with Grissom and Greg -- Ecklie moves those he 
 
 ## Quotes
 
-**Ecklie:** Ah. As you know, it's my job to review everyone's file. I just want to make sure you finished up with your PEAP Counselor.
-**Sara:** That's none of your business, Ecklie.
-**Ecklie:** Well, not only is it my business, but I plan to speak with your supervisor.
-**Sara:** About what?
-**Ecklie:** You have updated him, right?
-**Sara:** Yeah, yeah, we've had an abbreviated conversation. I'm doing fine. Completed my required number of sessions months ago.
-**Ecklie:** Huh. Grissom failed to note that conversation in your file. Um ... But I'll take care of it. All right.
+**Ecklie:** Ah. As you know, it's my job to review everyone's file. I just want to make sure you finished up with your PEAP Counselor.\
+**Sara:** That's none of your business, Ecklie.\
+**Ecklie:** Well, not only is it my business, but I plan to speak with your supervisor.\
+**Sara:** About what?\
+**Ecklie:** You have updated him, right?\
+**Sara:** Yeah, yeah, we've had an abbreviated conversation. I'm doing fine. Completed my required number of sessions months ago.\
+**Ecklie:** Huh. Grissom failed to note that conversation in your file. Um ... But I'll take care of it. All right.\
 **Sara:** Thanks.

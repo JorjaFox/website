@@ -32,7 +32,7 @@ Sara and Warrick work the case of the suicides in Death Valley, eventually findi
 
 ## Quotes
 
-**Robbins** Treated himself to a hamburger with pickles and ketchup, chocolate shake, and what I can only assume was super-size fries.
+**Robbins** Treated himself to a hamburger with pickles and ketchup, chocolate shake, and what I can only assume was super-size fries.\
 **Sara:** So that's what killed him.
 
 - - -

@@ -36,6 +36,6 @@ Yet another low-key Sara episode; she plays assist and little more. At the scene
 
 - - -
 
-**Sara:** You scanned the yellow pages.
-**Greg:** I knew the first three letters. By the way, do you know how many companies in Las Vegas start with S-U-N?
+**Sara:** You scanned the yellow pages.\
+**Greg:** I knew the first three letters. By the way, do you know how many companies in Las Vegas start with S-U-N?\
 **Sara:** I so don't care.

@@ -24,7 +24,7 @@ When a man is found dead in a setting disturbingly similar to a previous case (i
 
 ## Quotes
 
-**Grissom:** Be thorough. Don't take anything for granted.
+**Grissom:** Be thorough. Don't take anything for granted.\
 **Sara:** Yes, sir.
 
 - - -
@@ -37,12 +37,12 @@ When a man is found dead in a setting disturbingly similar to a previous case (i
 
 - - -
 
-**Sara:** Not a single print.
-**Detective Evans** He wiped it clean.
+**Sara:** Not a single print.\
+**Detective Evans** He wiped it clean.\
 **Sara:** Yeah. This guy's a real pro. Not only did he wipe it clean, it's sterile.
 
 - - -
 
-**Sara:** He's toying with us.
-**Greg:** Who is?
+**Sara:** He's toying with us.\
+**Greg:** Who is?\
 **Sara:** _(pause)_ Anonymous.

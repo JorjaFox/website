@@ -31,9 +31,9 @@ They had put Victor in a nursing home due to his dementia, and Victor keeps runn
 
 ## Quotes
 
-**Ray:** When your husband wants to take you out to dinner, where's your favorite place to go?
-**Connie:** A restaurant? Oh that's easy. Schulers. They have the most fabulous cabbage soup there and this cookie for desert.
-**Ray:** No, no no no no. Romantic, it's gotta be romantic.
+**Ray:** When your husband wants to take you out to dinner, where's your favorite place to go?\
+**Connie:** A restaurant? Oh that's easy. Schulers. They have the most fabulous cabbage soup there and this cookie for desert.\
+**Ray:** No, no no no no. Romantic, it's gotta be romantic.\
 **Connie:** Well it is romantic! It's dark and there are candles on the table and the waiters wear this sexy lederhosen. And the owner is a real hoot, he thinks he's a —
-**Ray:** Thanks. Go.
+**Ray:** Thanks. Go.\
 **Connie:** You're welcome.

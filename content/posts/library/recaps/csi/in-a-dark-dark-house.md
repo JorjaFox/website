@@ -50,5 +50,5 @@ Sara reads the evidence accurately right away, concluding the facts promptly, re
 
 - - -
 
-**Greg:** If it was me, my kit...
+**Greg:** If it was me, my kit...\
 **Sara:** I'd open it. We have all had a moment in the dark, where we had to fight our way out, and when we did, it was up to the rest of the team to shine a light on that darkness to see what happened. That's our job. I just need to know what I'm dealing with, and then I will deal with it.

@@ -45,24 +45,24 @@ _Note: according to writer David Rambo, Sara's final note to Grissom was written
 
 ## Quotes
 
-**Warrick:** Yeah, it's to help me sleep -- I've been having the hardest time lately.
-**Sara:** Me too.
+**Warrick:** Yeah, it's to help me sleep -- I've been having the hardest time lately.\
+**Sara:** Me too.\
 **Warrick:** Well you're just coming off of grave after all these years, it takes a while to adjust. _(puts his hand on her shoulder)_ You're a tough cookie, I'm not worried about you. Take care of yourself. _(walks off)_
 **Sara:** _(watching him leave)_ Thanks.
 
 - - -
 
-**Grissom:** The one that got away?
+**Grissom:** The one that got away?\
 **Sara:** We're not supposed to let them get away, right?
 
 - - -
 
-**Grissom:** Look, I'm worried about you.
+**Grissom:** Look, I'm worried about you.\
 **Sara:** That just makes it worse. Look, I, I can't talk about this right now.
 
 - - -
 
-**Brass:** Well, he gave it a shot, but she's way out of his league.
+**Brass:** Well, he gave it a shot, but she's way out of his league.\
 **Sara:** She's out of mine, too.
 
 - - -

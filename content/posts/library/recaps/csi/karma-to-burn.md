@@ -40,20 +40,20 @@ As the episode ends, Nick, Sara, and Greg are sitting in the break room again, j
 
 ## Quotes
 
-**Sara:** I didn't come here to talk, Nick, I came here to drag your ass back to work. So how many drinks have you had exactly?
+**Sara:** I didn't come here to talk, Nick, I came here to drag your ass back to work. So how many drinks have you had exactly?\
 **Nick:** Mmm.... Not enough.
 
 - - -
 
-**Greg:** Sounds like the LVPD is making a comeback. How about you, Nick?
-**Nick:** What about me? I don't know, I haven't talked to Russell yet.
-**Greg:** This isn't about Russell.
-**Sara:** Words have consequences, you know. I mean, if you say you quit, you need to mean it.
-**Nick:** You quit.
+**Greg:** Sounds like the LVPD is making a comeback. How about you, Nick?\
+**Nick:** What about me? I don't know, I haven't talked to Russell yet.\
+**Greg:** This isn't about Russell.\
+**Sara:** Words have consequences, you know. I mean, if you say you quit, you need to mean it.\
+**Nick:** You quit.\
 **Sara:** Well, yeah, but I didn't say it out loud. I left a note at reception for Grissom and I walked right on out of here--
-**Nick:** And you're still here. So don't preach to me about integrity, okay?
+**Nick:** And you're still here. So don't preach to me about integrity, okay?\
 **Sara:** I'm not preaching to you about integrity--
-**Nick:** Kinda are! A little bit, don't you think?
+**Nick:** Kinda are! A little bit, don't you think?\
 **Sara:** I went *away* for a little while, and I got my head together--
 **Nick:** You've got a lot of nerve to talk to me about quitting, you really do--
 **Sara:** I needed a break--

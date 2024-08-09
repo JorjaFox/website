@@ -24,9 +24,9 @@ A serial killer strikes again, and the CSI team tries new technology using evide
 
 - - -
 
-**Phillips:** Defensive wounds.
+**Phillips:** Defensive wounds.\
 **Sara:** _picks up her camera and takes more photos_
 **Phillips:** Incised. _looks down the body at the stab wounds._
 **Sara:** _snaps more photos_
-**Phillips:** At least a dozen.
+**Phillips:** At least a dozen.\
 **Sara:** She did not want to die.

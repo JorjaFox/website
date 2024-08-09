@@ -37,7 +37,7 @@ Sara works the related arson case, photographing the house and investigating the
 
 - - -
 
-**Grissom:** _(enters the lab, shuts off the music)_ Didn't we talk about this once before, Greg?
+**Grissom:** _(enters the lab, shuts off the music)_ Didn't we talk about this once before, Greg?\
 **Sara:** I'm the one who turned the music on.
 :_(Grissom looks at Sara but says nothing)_
 

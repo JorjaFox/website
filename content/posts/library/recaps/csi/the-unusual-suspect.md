@@ -40,6 +40,6 @@ Sara, a smart girl and the odd one out at her school, sympathizes with Hannah, a
 
 ## Quotes
 
-**Sara:** _(reading what was written on Hannah's dress)_ Rainbow party?
-**Nick:** Yeah, it's a party game where the boys get the girls to wear different colored lip sticks while they have oral sex. The boy with the most colors wins. It's supposed to be trendy.
+**Sara:** _(reading what was written on Hannah's dress)_ Rainbow party?\
+**Nick:** Yeah, it's a party game where the boys get the girls to wear different colored lip sticks while they have oral sex. The boy with the most colors wins. It's supposed to be trendy.\
 **Sara:** So much for spin the bottle.

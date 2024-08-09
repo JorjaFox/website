@@ -4,7 +4,7 @@
 <div class="card news-footer">
 	<div class="card-header"><center><strong><a href="/library/news/" title="News Articles">News Articles By Year</a></strong></center></div>
 	<div class="card-body">
-		{{ range where $.Page.Site.Pages.ByDate "Layout" "news-list" }}
+		{{ range where $.Page.Site.Pages.ByDate "Layout" "news-index" }}
 			{{ if eq .Params.topic "index" }}
 				{{ $eachyear := .Date.Format "2006" }}
 				{{ if eq $thisyear $eachyear}}

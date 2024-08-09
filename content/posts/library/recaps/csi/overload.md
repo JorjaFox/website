@@ -22,13 +22,13 @@ Meanwhile, Nick and Catherine take on a case with little more than angora fibers
 
 ## Quotes
 
-**Sara:** You want lunch?
+**Sara:** You want lunch?\
 **Warrick:** Later.
 
 - - -
 
-**Grissom:** What's that?
-**Sara:** Pickle and sandwich. Want half?
+**Grissom:** What's that?\
+**Sara:** Pickle and sandwich. Want half?\
 **Grissom:** Can I have your pickle?
 
 - - -

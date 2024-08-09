@@ -42,6 +42,6 @@ While everything else was going on, Maxine was working with Nora Cross to connec
 
 ## Quotes
 
-**Hugo:** Still no ring? You're not superstitious, are you?
-**Sara:** Uh, not usually.
+**Hugo:** Still no ring? You're not superstitious, are you?\
+**Sara:** Uh, not usually.\
 **Hugo:** When I was with my first wife, I lost my ring on a waterslide in Peru. We got divorced three months later.

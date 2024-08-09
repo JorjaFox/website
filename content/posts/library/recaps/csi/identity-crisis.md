@@ -33,11 +33,11 @@ The entire team works the Paula / Paul Millander case. Again showing her mechani
 ## Quotes
 
 **Brass:** _(standing, holding a hitchhiker's sign reading 'Vegas')_
-**Sara:** _(teasing)_ I believe hitchhiking is illegal in Clark County.
+**Sara:** _(teasing)_ I believe hitchhiking is illegal in Clark County.\
 **Brass:** You got me!
 
 - - -
 
-**Sara:** So our mystery lady was trying to enhance her athletic performance?
-**Greg:** Or increase her sex drive. _(pause for effect)_ You know women do that. I read. None that I've ever met.
+**Sara:** So our mystery lady was trying to enhance her athletic performance?\
+**Greg:** Or increase her sex drive. _(pause for effect)_ You know women do that. I read. None that I've ever met.\
 **Sara:** Not yet anyway. Okay, I'm not sure what this means yet, but thanks.

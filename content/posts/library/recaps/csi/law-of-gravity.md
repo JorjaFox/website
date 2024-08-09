@@ -37,5 +37,5 @@ Sara and Catherine check out the witness' apartment, while the other CSIs are se
 
 - - -
 
-**Grissom:** I'll see you later.
+**Grissom:** I'll see you later.\
 **Sara:** Yeah, you will.

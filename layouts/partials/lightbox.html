@@ -4,38 +4,41 @@
 
 {{ $caption := false }}
 
-{{ if .params.imdb }}
-    {{ if .params.showslug }}
-        {{ $showslug := .params.showslug }}
-        {{ $eptitle  := .params.title }}
-        {{ $showname := (index .Site.Data.episodes .params.showslug).showname }}
+{{ if and (.params.imdb) (.params.slug) }}
+    {{ $showname := $title }}
+    {{ $showslug := .params.slug }}
 
-        {{ $caption = printf "%s from the episode %s" $title $eptitle }}
-    {{ else if .params.slug }}
-        {{ $showname := $title }}
-        {{ $showslug := .params.slug }}
+    {{- $showdata := newScratch -}}
 
-        {{- $showdata := newScratch -}}
+    {{ $year := $showdata.Get "year" }}
 
-        {{ $year := $showdata.Get "year" }}
-
-        {{ range $filmography }}
-            {{ if eq $showslug .slug }}
-                {{ $showdata.Set "year" .dates }}
-                {{ $showdata.Set "station" .station }}
-            {{ end }}
+    {{ range $filmography }}
+        {{ if eq $showslug .slug }}
+            {{ $showdata.Set "year" .dates }}
+            {{ $showdata.Set "station" .station }}
         {{ end }}
-
-        {{ $station := $showdata.Get "station" }}
-
-        {{ $year := $showdata.Get "year" }}
-        {{ $year = int $year }}
-
-        {{ $caption = printf "%s (%d), '%s'" $station $year $showname }}
     {{ end }}
+
+    {{ $station := $showdata.Get "station" }}
+
+    {{ $year := $showdata.Get "year" }}
+    {{ $year = int $year }}
+
+    {{ $caption = printf "%s (%d), '%s'" $station $year $showname }}
 {{ end }}
 
-<h2>Gallery</h2>
+{{ if .params.showslug }}
+    {{ $showslug := .params.showslug }}
+    {{ $eptitle  := .params.title }}
+    {{ $station  := .params.station }}
+    {{ $showname := .params.showname }}
+    {{ $year := .params.date }}
+    {{ $year = $year.Format "2006" }}
+
+    {{ $caption = printf "%s (%s) - %s from the episode '%s'" $station $year $showname $eptitle }}
+{{ end }}
+
+<h2><a name="gallery">Gallery</a></h2>
 
 <div class="card">
     <div class="card-body">

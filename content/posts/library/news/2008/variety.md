@@ -16,15 +16,15 @@ newsurl: http://www.variety.com/article/VR1117980300.html?categoryid=15&cs=1
 
 **Jorja Fox**, co-producer of "Stay Together: The Life and Music of Dusty Springfield," which opens on Feb. 7
 
-**Book I'm reading: **
+**Book I'm reading:**
 
 "Blink" by Malcolm Gladwell. I'm reading it in a flash.
 
-**Total number of books I own: **
+**Total number of books I own:**
 
 I don't really like to collect stuff. I try to pass them on. That line also hides the evidence that I don't really read that much...
 
-**Last film I saw: **
+**Last film I saw:**
 
 "Mad Money." It was great!
 
@@ -36,7 +36,7 @@ I don't know if she really fits the bill of 'silver screen', but I've always rea
 
 I'd love to play any real person in a movie. Almost every character I've ever played has been fictional which does have its upside, of course. I think it's easier to invent someone than to manifest someone.
 
-**Song currently playing in my iPod: **
+**Song currently playing in my iPod:**
 
 Dusty Springfield's 'Dusty in Memphis' The whole album. I can't get enough of it.
 
@@ -44,14 +44,14 @@ Dusty Springfield's 'Dusty in Memphis' The whole album. I can't get enough of it
 
 Well, over the last eight years or so, two songs play in my head often:
 
-*They say I'm crazy but I have a good time.
-I'm just looking for clues at the scene of the crime.
+*They say I'm crazy but I have a good time.\
+I'm just looking for clues at the scene of the crime.\
 Life's been good to me so far'*
 
 - "Life's Been Good To Me," Joe Walsh
 
-*She said I know what it's like to be dead.
-I know what it is to be sad.
+*She said I know what it's like to be dead.\
+I know what it is to be sad.\
 And she's making me feel like I've never been born.*
 
 - "She Said, She Said," the Beatles
@@ -62,19 +62,19 @@ Lately I'm humming 'The Best is Yet To Come' the Tony Bennett and Diana Krall re
 
 Coachella. Every year like clockwork.
 
-**Guilty pleasure TV shows?: **
+**Guilty pleasure TV shows?:**
 
 "The Daily Show," "The Colbert Report," and "Lost"
 
-**Guilty pleasure Web sites: **
+**Guilty pleasure Web sites:**
 
 Spindaily.com, Secretfuntime.com
 
-**What's the biggest upside of the Internet and what is its biggest downside?
-Upside: **Instant and spontaneous gratification.
-** Downside: **
+**What's the biggest upside of the Internet and what is its biggest downside?**
 
-instant and spontaneous gratification, especially at three in the morning when you've been on line for eight hours.
+**Upside:** Instant and spontaneous gratification.
+
+**Downside:** instant and spontaneous gratification, especially at three in the morning when you've been on line for eight hours.
 
 **Do you have a dream project?:**
 

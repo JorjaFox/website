@@ -47,14 +47,14 @@ Through the whole episode, Sara is solid and a good criminalist, on her top form
 
 - - -
 
-**Sara:** I was really into gold stars when I was a kid.
-**Greg:** As opposed to now?
+**Sara:** I was really into gold stars when I was a kid.\
+**Greg:** As opposed to now?\
 **Sara:** _(frowns and walks away)_
 
 - - -
 
-**Sara:** I hope you're right. But everything in our experience tells us they're dead, all four of them.
-**Nick:** Doesn't mean we just give up.
-**Sara:** No one's giving up. It's just that ... you're acting like you're going to rescue a person, not recover a body. And on this job ... that's just not usually the case.
-**Nick:** _(quietly)_ I was rescued.
+**Sara:** I hope you're right. But everything in our experience tells us they're dead, all four of them.\
+**Nick:** Doesn't mean we just give up.\
+**Sara:** No one's giving up. It's just that ... you're acting like you're going to rescue a person, not recover a body. And on this job ... that's just not usually the case.\
+**Nick:** _(quietly)_ I was rescued.\
 **Sara:** _(smiles)_ It was not your day to die. When it's your day, it's your day, you know?

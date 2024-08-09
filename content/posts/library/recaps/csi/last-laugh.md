@@ -31,5 +31,5 @@ Also: Brass reopens a woman's accidental-death case after spotting the deceased'
 
 - - -
 
-**Nick:** Yeah, but you're taller, thinner.
+**Nick:** Yeah, but you're taller, thinner.\
 **Sara:** Ohh, butter that toast, Nick.

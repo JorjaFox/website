@@ -65,7 +65,7 @@
                 </li>{{ end }}
                 {{ if and ($rating) (ne $rating "fake") }}
                     {{ .Page.Scratch.Set "goldstar" $rating }}
-                    <li class="list-group-item text-center">{{ partial "rating.html" . }}</li>
+                    <li class="list-group-item text-center">{{ partial "rating.html" (dict "rating" $rating ) }}</li>
                 {{ end }}
             </ul>
     </div>

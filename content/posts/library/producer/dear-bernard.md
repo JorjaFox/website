@@ -1,7 +1,7 @@
 ---
 title: "Dear Bernard"
 author: "Mika A. Epstein"
-layout: producer
+layout: library
 categories: ["Filmography"]
 tags: [producer, stage, honeypot]
 genre: Musical

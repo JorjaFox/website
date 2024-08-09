@@ -37,10 +37,10 @@ When Nalley is dismissive regarding Heather's pleas for help, both Sara and Nick
 
 ## Quotes
 
-**Greg Sanders** But I did meet 'The Goat'. Guy will eat anything for a dollar.
+**Greg Sanders** But I did meet 'The Goat'. Guy will eat anything for a dollar.\
 ** Sara Sidle** Beard? Pierced ear? I had to get evidence _out_ of him one night.
 
 - - -
 
-**Jefferson Nalley** I loved her.
+**Jefferson Nalley** I loved her.\
 **Sara Sidle** No you didn't. If you did, Jefferson, you would have pulled over.

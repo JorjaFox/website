@@ -31,16 +31,16 @@ Sara and Greg investigate the college murders, and after several setbacks (inclu
 
 ## Quotes
 
-**Sara:** I'll drive.
+**Sara:** I'll drive.\
 **Greg:** You _always_ do.
 
 - - -
 
-**Zach** turns to Greg You know how it is, you look like you were a jock in college.
-**Greg:** stunned Me?
+**Zach** turns to Greg You know how it is, you look like you were a jock in college.\
+**Greg:** stunned Me?\
 **Sara:** stunned Him??
 
 - - -
 
-**Dickerson** Hey. Want to talk about semen?
+**Dickerson** Hey. Want to talk about semen?\
 **Sara:** Okay.

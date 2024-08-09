@@ -37,7 +37,7 @@ After the case, Sara asks DB for a leave to return to San Francisco and work on 
 
 ## Quotes
 
-**Finn** It's for you. Want it? SFPD?
+**Finn** It's for you. Want it? SFPD?\
 **Sara:** I'll call 'em back.
 
 - - -

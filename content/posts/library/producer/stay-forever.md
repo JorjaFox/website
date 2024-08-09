@@ -1,7 +1,7 @@
 ---
 title: "Stay Forever: The Life and Music of Dusty Springfield"
 author: "Mika A. Epstein"
-layout: producer
+layout: library
 categories: ["Filmography"]
 tags: [producer, stage, honeypot, bunnyhop]
 genre: Musical

@@ -41,13 +41,13 @@ In the end, she tells Julian about her mother's schizophrenia, and that you can 
 
 ## Quotes
 
-**Nick:** How could someone live like this?
+**Nick:** How could someone live like this?\
 **Sara:** Well. It smells like someone died like this.
 
 - - -
 
-**Nick:** What is it about this case that makes you so blind?
-**Sara:** What is it about this case that makes you act like an ass?
+**Nick:** What is it about this case that makes you so blind?\
+**Sara:** What is it about this case that makes you act like an ass?\
 **Nick:** Oh! I'm an ass, now!?
 
 - - -

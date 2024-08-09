@@ -45,37 +45,37 @@ After solving the case, Sara and Betty share a Skype conversation with Grissom, 
 
 ## Quotes
 
-**Sara:** Grissom and I have great sex.
+**Sara:** Grissom and I have great sex.\
 **Catherine:** I'm sure you do.
 
 - - -
 
 **Gil Grissom:** The graves were littered with pupae casings. It looked like someone dumped a ton of Rice Krispies on top of a bunch of halloween skeletons. It indicated that it wasn't a proper burial. During the Inca period, there was no greater punishment. We think it was meant as a warning. 'Don't mess with the Moche.'
-**Sara:** Ah ha.
-**Gil Grissom:** So anyway. How was your week? What'd you do?
-**Sara:** Well. I almost got blown up twice. I accused your ex-girlfriend of murder. And ... Oh, and I told off your mother.
-**Gil Grissom:** Oh good. You kept busy.
-**Sara:** Yes. You see what happens when you stand me up?
+**Sara:** Ah ha.\
+**Gil Grissom:** So anyway. How was your week? What'd you do?\
+**Sara:** Well. I almost got blown up twice. I accused your ex-girlfriend of murder. And ... Oh, and I told off your mother.\
+**Gil Grissom:** Oh good. You kept busy.\
+**Sara:** Yes. You see what happens when you stand me up?\
 **Betty Grissom:** *knocks on the doorway*
-**Gil Grissom:** Who's that?
-**Sara:** It's your mother.
-**Gil Grissom:** Hi, Mom.
-**Betty Grissom:** Hi!
-**Gil Grissom:** You never came to the office when I was working there. I heard you and Sara had an exciting week.
+**Gil Grissom:** Who's that?\
+**Sara:** It's your mother.\
+**Gil Grissom:** Hi, Mom.\
+**Betty Grissom:** Hi!\
+**Gil Grissom:** You never came to the office when I was working there. I heard you and Sara had an exciting week.\
 **Betty Grissom:** I owe her a apology for that. *gives Sara an African Violet.*
-**Sara:** African Violet. It's beautiful.
-**Gil Grissom:** I told her you like vegetation.
-**Sara:** Thank you ... I'm sorry too. Can we start over?
-**Betty Grissom:** nods I would like that.
-**Gil Grissom:** Hey when I come back, three of us will go out to dinner.
-**Betty Grissom:** When?
-**Gil Grissom:** Soon.
-**Betty Grissom:** I still think you two need get together more, sex is always important in marriage.
-**Sara:** Your mother is talking about our sex life.
-**Gil Grissom:** In Incan society, the Moche elders would pass down their knowledge of sexual pleasure to the younger generation. Their stories were documented on their pottery. Little ceramic jars called sex pots.
-**Sara:** Sex pots.
-**Betty Grissom:** You can still learn a lot from your elders.
-**Gil Grissom:** Sometimes too much. I love you both.
-**Sara:** I love you, too.
-**Betty Grissom:** I love you.
+**Sara:** African Violet. It's beautiful.\
+**Gil Grissom:** I told her you like vegetation.\
+**Sara:** Thank you ... I'm sorry too. Can we start over?\
+**Betty Grissom:** nods I would like that.\
+**Gil Grissom:** Hey when I come back, three of us will go out to dinner.\
+**Betty Grissom:** When?\
+**Gil Grissom:** Soon.\
+**Betty Grissom:** I still think you two need get together more, sex is always important in marriage.\
+**Sara:** Your mother is talking about our sex life.\
+**Gil Grissom:** In Incan society, the Moche elders would pass down their knowledge of sexual pleasure to the younger generation. Their stories were documented on their pottery. Little ceramic jars called sex pots.\
+**Sara:** Sex pots.\
+**Betty Grissom:** You can still learn a lot from your elders.\
+**Gil Grissom:** Sometimes too much. I love you both.\
+**Sara:** I love you, too.\
+**Betty Grissom:** I love you.\
 **Sara:** Bye.

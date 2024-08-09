@@ -35,7 +35,7 @@ During the case, Sara meets Grissom by his beehives. After telling her all about
 
 ## Quotes
 
-**Lake** Why did you pick Vegas?
+**Lake** Why did you pick Vegas?\
 **Sara:** Well it, ah, kind of picked me.
 
 - - -
@@ -44,5 +44,5 @@ During the case, Sara meets Grissom by his beehives. After telling her all about
 
 - - -
 
-**Grissom:** Wanna get married?
+**Grissom:** Wanna get married?\
 **Sara:** Yes... let's do it.

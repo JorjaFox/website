@@ -31,20 +31,20 @@ When she starts getting emotional watching videos on the computer, Grissom tells
 
 ## Quotes
 
-**Grissom:** Sara, go with Nick.
+**Grissom:** Sara, go with Nick.\
 **Sara:** Yes! Road trip! I'm going to go change my boots!
 
 - - -
 
-**Grissom:** I hate to be the one to state the obvious, but, uh ... this isn't a human being we're dealing with -- it's an animal.
-**Sara:** And ...
-**Grissom:** And every time a dog gets run over you can't go to the vet to examine it.
-**Sara:** I can't believe you. You, with your pet tarantula, your maggot farms, that komodo dragon on back order... you should be more sympathetic to the senseless murder of an innocent gorilla.
-**Grissom:** _(amused)_ You're right. I apologize. I was just checking to see where your head was at. For now, you're working alone. Catherine needed Nick.
+**Grissom:** I hate to be the one to state the obvious, but, uh ... this isn't a human being we're dealing with -- it's an animal.\
+**Sara:** And ...\
+**Grissom:** And every time a dog gets run over you can't go to the vet to examine it.\
+**Sara:** I can't believe you. You, with your pet tarantula, your maggot farms, that komodo dragon on back order... you should be more sympathetic to the senseless murder of an innocent gorilla.\
+**Grissom:** _(amused)_ You're right. I apologize. I was just checking to see where your head was at. For now, you're working alone. Catherine needed Nick.\
 **Sara:** Bummer.
 
 - - -
 
-**Dr. Miller** It's sad. Genetically, we're 92.7% identical with gorillas.
-**Sara:** It's hard to tell where the human ends and the animal begins.
+**Dr. Miller** It's sad. Genetically, we're 92.7% identical with gorillas.\
+**Sara:** It's hard to tell where the human ends and the animal begins.\
 **Dr. Miller** Well said.

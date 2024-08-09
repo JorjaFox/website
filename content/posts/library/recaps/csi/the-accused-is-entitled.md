@@ -32,6 +32,6 @@ During the trial, the defense references Sara's actions in an earlier case (brus
 
 - - -
 
-**Grissom:** You look nice.
-**Sara:** Thanks. Wish me luck.
+**Grissom:** You look nice.\
+**Sara:** Thanks. Wish me luck.\
 **Grissom:** Sara, whatever happens in court, it's not because you're seeing this guy. _(pauses)_ You deserve to have a life.

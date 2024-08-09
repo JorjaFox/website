@@ -30,27 +30,27 @@ Greg works his final proficiency with a little help from both Sara and Grissom. 
 
 ## Quotes
 
-**Sara:** _to Greg who is looking for a bullet in a puddle of blood_ Anyone for pizza?
-**Greg:** Very funny... got it!
+**Sara:** _to Greg who is looking for a bullet in a puddle of blood_ Anyone for pizza?\
+**Greg:** Very funny... got it!\
 **Sara:** That's a BFB... BIG frickin' bullet.
 
 - - -
 
-**Greg:** Are you checking up on me?
+**Greg:** Are you checking up on me?\
 **Sara:** No, no, no... no. Grissom said he was just evaluating you on processing this one room, so ... I figured maybe you could use some help with the rest of the house.
 
 - - -
 
-**Robbins** This guy really dress up like Sherlock Holmes?
+**Robbins** This guy really dress up like Sherlock Holmes?\
 **Sara:** At least once a week, evidently, like those civil war re-enactors. I, uh, never understood that.
 
 - - -
 
-**Sara:** DNA confirms that the blood on Watson's shoe is a match to your vic. We got him.
+**Sara:** DNA confirms that the blood on Watson's shoe is a match to your vic. We got him.\
 **Greg:** _(continues looking through the magnifying glass)_
 **Sara:** Feel like celebrating after shift? I'm buying.
 
 - - -
 
-**Greg:** Besides, I thought motive wasn't our business.
+**Greg:** Besides, I thought motive wasn't our business.\
 **Sara:** _(smiling)_ It's not.

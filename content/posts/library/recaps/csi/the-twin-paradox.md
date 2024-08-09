@@ -35,7 +35,7 @@ Listening to the audio, Sara is able to identify two people walking, implying th
 
 ## Quotes
 
-**Nick:** reading 'People Lie, Follow the Evidence'?
+**Nick:** reading 'People Lie, Follow the Evidence'?\
 **Sara:** We're really good at that.
 
 - - -

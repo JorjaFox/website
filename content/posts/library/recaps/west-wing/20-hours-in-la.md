@@ -31,8 +31,8 @@ A direct person, Gina takes the role of protecting 'Bookbag' seriously.
 
 ## Quotes
 
-**POTUS:** It's not your job to tell me if she's cutting English Lit; it's not your job to tell me if she's dying her hair blue, or going to a strip club, or whatever she's doing with her friends. You know what your job is.
-**Gina:** Yes, Sir, Mr. President.
-**POTUS:** If she's cutting English Lit, I want to know about it.
-**Gina:** No deal, Mr. President.
+**POTUS:** It's not your job to tell me if she's cutting English Lit; it's not your job to tell me if she's dying her hair blue, or going to a strip club, or whatever she's doing with her friends. You know what your job is.\
+**Gina:** Yes, Sir, Mr. President.\
+**POTUS:** If she's cutting English Lit, I want to know about it.\
+**Gina:** No deal, Mr. President.\
 **POTUS:** Okay.

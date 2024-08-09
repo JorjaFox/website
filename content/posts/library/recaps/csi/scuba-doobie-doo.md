@@ -39,10 +39,10 @@ After solving the case, Sara and Nick ask Grissom out to breakfast, but he prefe
 
 - - -
 
-**Sara:** A square of nine dots on paper, and you can only draw four lines to connect them, without the pen ever leaving the paper.
+**Sara:** A square of nine dots on paper, and you can only draw four lines to connect them, without the pen ever leaving the paper.\
 **Grissom:** Think outside the box!
 
 - - -
 
-**Grissom:** Dermastidae masculatus.
+**Grissom:** Dermastidae masculatus.\
 **Sara:** That's Latin for 'You're hiding a dead body.'

@@ -28,23 +28,23 @@ Sara works with Catherine and Nick on the body found in the dump, and she is the
 
 ## Quotes
 
-**Sara:** You know the average Nevadan generates more than three times waste than the average American?
-**Nick:** Yeah, well, that's tourist trash.
+**Sara:** You know the average Nevadan generates more than three times waste than the average American?\
+**Nick:** Yeah, well, that's tourist trash.\
 **Sara:** Thirteen million pounds per day. I went to the recycling forum in March.
 
 - - -
 
-**Sara:** It's like peeling an onion into peoples' lives.
+**Sara:** It's like peeling an onion into peoples' lives.\
 **Catherine:** Well, this onion is our time line so peel back accordingly.
 
 - - -
 
-**Sara:** Well, she wasn't in town on business.
+**Sara:** Well, she wasn't in town on business.\
 **Nick:** What's that? _((looks at Sidle))_
 **Sara:** _((turns around and holds a black teddy in front of her, then clicks her tongue and shakes the teddy in front of her))_
 
 - - -
 
-**Sara:** She's a virgin? What are we talking, immaculate conception?
-**Catherine:** More like the immaculate perception. 'Pseudocyesis' -- imagined pregnancy.
+**Sara:** She's a virgin? What are we talking, immaculate conception?\
+**Catherine:** More like the immaculate perception. 'Pseudocyesis' -- imagined pregnancy.\
 **Sara:** It's all in her head? Well, that would explain what she was doing in dad's bed.

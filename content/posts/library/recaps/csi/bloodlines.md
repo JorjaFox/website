@@ -29,13 +29,13 @@ After they discover that the promotion was cancelled, Sara, Nick and Warrick go 
 
 ## Quotes
 
-**Sara:** What?
-**Grissom:** How many vacation days do you have on the books?
-**Sara:** About ... ten weeks, I guess. Why?
-**Grissom:** I think you should take a week or two.
+**Sara:** What?\
+**Grissom:** How many vacation days do you have on the books?\
+**Sara:** About ... ten weeks, I guess. Why?\
+**Grissom:** I think you should take a week or two.\
 **Sara:** I-I'm still on the case. I just didn't do the interview for once in my life.
 
 - - -
 
-**Sara:** When was the last time you took vacation? _(pause)_ Never, right?
+**Sara:** When was the last time you took vacation? _(pause)_ Never, right?\
 **Grissom:** Okay.

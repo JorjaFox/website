@@ -31,8 +31,8 @@ A dying Patrick Brazil is brought in by his caregiver, who explains to Jeanie an
 
 ## Quotes
 
-**Jeanie:** Do you believe in reincarnation?
-**Waitress:** Sure, next life I'm coming back as Cindy Crawford.
+**Jeanie:** Do you believe in reincarnation?\
+**Waitress:** Sure, next life I'm coming back as Cindy Crawford.\
 **Jeanie:** Can you do us a favor? We have a patient who wants to be cryogenically preserved
 **Maggie:** We've gotta freeze a dead guy.
 
@@ -42,6 +42,6 @@ A dying Patrick Brazil is brought in by his caregiver, who explains to Jeanie an
 
 ---
 
-**Maggie:** Is he a doctor?
-**Jeanie:** I don't think so. What should be do?
+**Maggie:** Is he a doctor?\
+**Jeanie:** I don't think so. What should be do?\
 **Maggie:** Well, the heparine can't hurt him, being dead and all.

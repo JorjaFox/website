@@ -30,8 +30,8 @@ Warrant in hand, Grissom and Sara arrive at the scene an hour after the damage h
 
 ## Quotes
 
-**Sara:** What the hell was that about?
-**Grissom:** Fishing expedition.
-**Sara:** He knows we're on to him.
-**Grissom:** I don't think he'll be back. He wouldn't want to make us more suspicious.
+**Sara:** What the hell was that about?\
+**Grissom:** Fishing expedition.\
+**Sara:** He knows we're on to him.\
+**Grissom:** I don't think he'll be back. He wouldn't want to make us more suspicious.\
 **Sara:** He's not going to leave us anything to find, either. He'll scrub all of it. We can't hid anymore, Gil. It's time to get a warrant.

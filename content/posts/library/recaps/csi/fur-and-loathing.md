@@ -28,8 +28,8 @@ Sara and Nick investigate the freezer shooting. They find blood spatter, and eve
 
 ## Quotes
 
-**Sara:** You're selling expired ice cream?
-**George** It's still good!
+**Sara:** You're selling expired ice cream?\
+**George** It's still good!\
 **Sara:** Oh.
 
 - - -
@@ -38,11 +38,11 @@ Sara and Nick investigate the freezer shooting. They find blood spatter, and eve
 
 - - -
 
-**Hodges:** Who knows? I don't try to figure out what people do anymore.
+**Hodges:** Who knows? I don't try to figure out what people do anymore.\
 **Sara:** That's smart.
 
 - - -
 
-**Sara:** Okay, I will bet you a double-double animal style that one of them employs a guy with a blue 1984 Monte Carlo.
-**Nick:** That's a bet.
+**Sara:** Okay, I will bet you a double-double animal style that one of them employs a guy with a blue 1984 Monte Carlo.\
+**Nick:** That's a bet.\
 **Sara:** Excellent.

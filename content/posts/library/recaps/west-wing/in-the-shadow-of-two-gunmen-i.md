@@ -24,21 +24,21 @@ While the staff awaits news regarding the injuries to Jed and Josh, they recall 
 
 ## Quotes
 
-**Gina:** White male, twenty twenty-five, maybe five-ten.
-**Agent:** What else?
-**Gina:** He was wearing a baseball cap.
-**Agent:** What kind of cap?
-**Gina:** [pause] Maybe it got knocked off in the crowd.
-**Agent:** What kind of cap?
+**Gina:** White male, twenty twenty-five, maybe five-ten.\
+**Agent:** What else?\
+**Gina:** He was wearing a baseball cap.\
+**Agent:** What kind of cap?\
+**Gina:** [pause] Maybe it got knocked off in the crowd.\
+**Agent:** What kind of cap?\
 **Gina:** [longer pause] I don't know.
 
 - - -
 
-**Leo:** You alright?
-**Gina:** [pause] Yeah.
-**Leo:** Was there someone on the ground?
-**Gina:** There was a signal, I couldn't give a description.
-**Leo:** Did they close the airports?
-**Gina:** [nodding] And Union Station. We've got troopers on the bridges and 300 field agents working Rossland but &#8230; I can't tell them what they're looking for.
-**Leo:** [comforting] You got the girl in the car, Gina.
+**Leo:** You alright?\
+**Gina:** [pause] Yeah.\
+**Leo:** Was there someone on the ground?\
+**Gina:** There was a signal, I couldn't give a description.\
+**Leo:** Did they close the airports?\
+**Gina:** [nodding] And Union Station. We've got troopers on the bridges and 300 field agents working Rossland but &#8230; I can't tell them what they're looking for.\
+**Leo:** [comforting] You got the girl in the car, Gina.\
 **Gina:** It's right in front of my face.

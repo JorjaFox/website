@@ -32,19 +32,19 @@ But of all the suspects they had, only _one_ had the skills to pull off what the
 
 ## Quotes
 
-**Sara:** What's wrong with _my_ character?
+**Sara:** What's wrong with _my_ character?\
 **Nora Cross:** "Sara Sidle's temperament can be an issue. She has blind spots. An inability to channel emotional energy stands in the way if her becoming the best CSI she can be."
-**Sara:** What's that from?
-**Nora:** A performance review, written just before the Chase investigation. Written by your supervisor at the time.
-**Sara:** Gil.
-**Nora:** That's about when you two got serious, right?
-**Sara:** That has _nothing_ to do with it.
-**Nora:** You were distracted by an affair that began in the workplace. That's why you failed to notice ...
-**Sara:** That is completely untrue!
-**Nora:** I didn't bring this up to rile you. I just want you to know where it will go if you get up on the stand and start to ...
-**Sara:** What? Tell the truth about Hodges? If I do that, I'll get beat up with my husband's own words twisted against me? Great. Got it. We're gonna finish this later. I gotta get back to work.
-**Nora:** On what, exactly?
-**Sara:** Murder at a luau. Why don't you ask around?
+**Sara:** What's that from?\
+**Nora:** A performance review, written just before the Chase investigation. Written by your supervisor at the time.\
+**Sara:** Gil.\
+**Nora:** That's about when you two got serious, right?\
+**Sara:** That has _nothing_ to do with it.\
+**Nora:** You were distracted by an affair that began in the workplace. That's why you failed to notice ...\
+**Sara:** That is completely untrue!\
+**Nora:** I didn't bring this up to rile you. I just want you to know where it will go if you get up on the stand and start to ...\
+**Sara:** What? Tell the truth about Hodges? If I do that, I'll get beat up with my husband's own words twisted against me? Great. Got it. We're gonna finish this later. I gotta get back to work.\
+**Nora:** On what, exactly?\
+**Sara:** Murder at a luau. Why don't you ask around?\
 **Nora:** You should know, that wasn't all of it. "If Sara masters her demons, she'll thrive as a CSI for as long as she wants. She's made for this job."
 **Sara:** Great.
 
@@ -54,9 +54,9 @@ But of all the suspects they had, only _one_ had the skills to pull off what the
 
 ----
 
-**Sara:** I want to tell you why I left yesterday, it ... It's this idea you have that Gil and I were swept up in a romance, not paying attention to our jobs.
-**Nora:** You wouldn't be the first.
-**Sara:** Well, it wasn't like that. The work at CSI, that- that was our passion. You know, it's what brought us together.
+**Sara:** I want to tell you why I left yesterday, it ... It's this idea you have that Gil and I were swept up in a romance, not paying attention to our jobs.\
+**Nora:** You wouldn't be the first.\
+**Sara:** Well, it wasn't like that. The work at CSI, that- that was our passion. You know, it's what brought us together.\
 **Nora:** I just want the truth.
 
 [...]
@@ -65,7 +65,7 @@ But of all the suspects they had, only _one_ had the skills to pull off what the
 
 [...]
 
-**Nora:** You know, I don't normally have this much trouble bringing a man around.
+**Nora:** You know, I don't normally have this much trouble bringing a man around.\
 **Sara:** Tell me about it. It took me years. He didn't understand my temper. He didn't understand why I would get emotional on the job. You read some of that. One night, during a particularly rough case, I told him my story. My _whole_ story. My childhood was complicated. Gil understood and after that, he was just there.
 
 [...]

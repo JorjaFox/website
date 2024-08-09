@@ -34,27 +34,27 @@ At the scene, when Sara finds the dog running loose, she's concerned about getti
 
 ## Quotes
 
-**Catherine:** Thanks, but you got to give me some guys.
-**Grissom:** Sara's all you get.
+**Catherine:** Thanks, but you got to give me some guys.\
+**Grissom:** Sara's all you get.\
 **Catherine:** She's all I need.
 
 - - -
 
-**Sara:** I hate rushing through a crime scene [...] You can testify for this one.
+**Sara:** I hate rushing through a crime scene [...] You can testify for this one.\
 **Catherine:** Oh, thanks.
 
 - - -
 
-**Archie:** Hear that? Turbo. Definitely diesel.
+**Archie:** Hear that? Turbo. Definitely diesel.\
 **Catherine:** _(nods and walks out)_
 **Sara:** She really likes you.
 
 - - -
 
-**Catherine:** She could have jumped out!
+**Catherine:** She could have jumped out!\
 **Sara:** Not without her dog.
 
 - - -
 
-**Catherine:** I think I know the word that made her throw the coffee.
+**Catherine:** I think I know the word that made her throw the coffee.\
 **Sara:** I hate that word.

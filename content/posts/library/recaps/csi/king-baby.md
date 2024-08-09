@@ -32,9 +32,9 @@ After her initial appearance at the scene, Sara doesn't have much to do with the
 
 - - -
 
-**Curtis:** We've excluded Mrs. Eiger. How long can a woman lactate after giving birth?
-**Sara:** I had a professor in college, her six-year-old used to come in for lunch. I guess they'll go as long as you let them.
-**Curtis:** What, the boobs or the kids? That's a two-legged topless buffet. _(she looks at the file folder)_ Ugh.
+**Curtis:** We've excluded Mrs. Eiger. How long can a woman lactate after giving birth?\
+**Sara:** I had a professor in college, her six-year-old used to come in for lunch. I guess they'll go as long as you let them.\
+**Curtis:** What, the boobs or the kids? That's a two-legged topless buffet. _(she looks at the file folder)_ Ugh.\
 **Sara:** I'm thinking, you know, if you commit to something every Thursday night, you've got to be getting something good out of it.
 
 - - -

@@ -29,5 +29,5 @@ When Connie goes to follow up on Mr. Sullivan, Dr. Varga asks if her ring is dec
 
 ## Quotes
 
-**Dr. Varga:** You know, when I get up, I'm probably gonna be hungry. And I hate to eat alone.
+**Dr. Varga:** You know, when I get up, I'm probably gonna be hungry. And I hate to eat alone.\
 **Connie:** Okay, I'll meet you. But you're paying for dinner, I bought the coffee.

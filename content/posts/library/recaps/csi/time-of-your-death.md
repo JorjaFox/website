@@ -35,7 +35,7 @@ Spoilers made much of the scene between Grissom, Sara and Caprice (the man runni
 
 ## Quotes
 
-Sara Please tell me there are something more to this guys and cars thing, besides the obvious penis extension metaphors.
+Sara Please tell me there are something more to this guys and cars thing, besides the obvious penis extension metaphors.\
 **Greg:** So you want me to lie?
 
 - - -

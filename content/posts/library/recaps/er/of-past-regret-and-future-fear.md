@@ -29,5 +29,5 @@ Doyle works with Kerry, and delivers lab results for a older woman who turns out
 
 ## Quotes
 
-**Young Guy :** I had a couple of beers.
+**Young Guy :** I had a couple of beers.\
 **Maggie :** Well, now you have a couple of broken ankles.

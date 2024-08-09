@@ -31,6 +31,6 @@ At the end of the episode, Maxine invites Grissom to come and be an "entomologic
 
 ## Quotes
 
-**Sara:** What kind of person kills a dog and then plants it in their owner's driveway?
-**Grissom:** The kind that wants to break into a house without drawing attention, maybe?
+**Sara:** What kind of person kills a dog and then plants it in their owner's driveway?\
+**Grissom:** The kind that wants to break into a house without drawing attention, maybe?\
 **Sara:** You don't have to say I was right. We're gonna need a shovel.

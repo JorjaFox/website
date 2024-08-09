@@ -30,25 +30,25 @@ Sara and Grissom blowing up bombs to determine the container components (Sara se
 
 ## Quotes
 
-**Grissom:** So, Sara. What's orange and melts?
+**Grissom:** So, Sara. What's orange and melts?\
 **Sara:** _(grins)_ I would have to investigate that.
 
 - - -
 
-**Warrick:** What are you going to do?
-**Sara:** We're going to go blow up some bombs.
+**Warrick:** What are you going to do?\
+**Sara:** We're going to go blow up some bombs.\
 **Warrick:** Oh I definitely got the wrong end of this investigation. _(leaves)_
 **Grissom:** Alas, poor Warrick.
 
 - - -
 
-**Grissom:** What are you doing [with that jacket]?
-**Sara:** _(holding the jacket)_ Polyethylene terephtalete.
-**Grissom:** Polyester.
+**Grissom:** What are you doing [with that jacket]?\
+**Sara:** _(holding the jacket)_ Polyethylene terephtalete.\
+**Grissom:** Polyester.\
 **Sara:** _(nods)_ Orange stuff.
 
 - - -
 
-**Sara:** I have a new favorite color.
-**Grissom:** Orange?
+**Sara:** I have a new favorite color.\
+**Grissom:** Orange?\
 **Sara:** _(grins)_ The orange polyester from the bomb is a match to the Thrift-Rite jacket.

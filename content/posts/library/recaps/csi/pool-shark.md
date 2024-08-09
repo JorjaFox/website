@@ -37,8 +37,8 @@ When Boozell pesters Catherine, Sara steps in to support Catherine and their wor
 
 - - -
 
-**Nick:** [He's] awfully fired up about taking a picture with fish.
+**Nick:** [He's] awfully fired up about taking a picture with fish.\
 **Sara:** Well, you know, fish are beautiful.
 :*(Nick and Sara see the fish tank, and inside is the aquavet, floating dead in his scuba gear)*
-**Nick:** Not when you're sleeping with them.
+**Nick:** Not when you're sleeping with them.\
 **Sara:** It's Dr. Halloway. Well, I guess that explains why his phone when straight to voicemail.

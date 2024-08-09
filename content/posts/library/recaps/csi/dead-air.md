@@ -48,46 +48,46 @@ Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another
 
 - - -
 
-**Russell:** Looks like it pays more to report on crime that it does to solve crime.
-**Sara:** You could say that about any job. Except crime. I heard it doesn't pay.
+**Russell:** Looks like it pays more to report on crime that it does to solve crime.\
+**Sara:** You could say that about any job. Except crime. I heard it doesn't pay.\
 **Russell:** Heh heh.
 
 - - -
 
-**Sara:** I know when I bring work home, it usually finds its way into the bedroom.
-**Russell:** Yeah but you're not single, you're married.
+**Sara:** I know when I bring work home, it usually finds its way into the bedroom.\
+**Russell:** Yeah but you're not single, you're married.\
 **Sara:** _pause_ Yeah I am. But ... My place? Often looks a lot like this.
 
 - - -
 
-**Finn** You must be running on fumes. You should go home!
+**Finn** You must be running on fumes. You should go home!\
 **Sara:** Home is where the coded notebook is. _sees call from Grissom, sends to voicemail_
-**Finn** Have you talked to him since the NTSB guy?
-**Sara:** Nothing happened with NTSB.
-**Finn** How come you can't pick up the phone?
-**Sara:** Because I feel like when I do, I'm going to be very sad when I hang up.
-**Finn** How do you know?
-**Sara:** 'Cause he wants to talk.
-**Finn** Do you want some help?
-**Sara:** Oh that's ... really nice. You should go home, have some fun.
-**Finn** This is fun! I'm really good at crosswords.
+**Finn** Have you talked to him since the NTSB guy?\
+**Sara:** Nothing happened with NTSB.\
+**Finn** How come you can't pick up the phone?\
+**Sara:** Because I feel like when I do, I'm going to be very sad when I hang up.\
+**Finn** How do you know?\
+**Sara:** 'Cause he wants to talk.\
+**Finn** Do you want some help?\
+**Sara:** Oh that's ... really nice. You should go home, have some fun.\
+**Finn** This is fun! I'm really good at crosswords.\
 **Sara:** Yeah. Okay.
 
 - - -
 
-**Sara:** So we're looking at a locked room mystery, tucked into an enigma, wrapped in dynamite paper.
-**Russell:** You can say that again.... Hey, Sara, let me ask you something. You doing alright?
-**Sara:** I'm fine.
-**Russell:** You just seemed a little bit ... down. When we were at Theresa's place.
-**Sara:** Um. I don't know... A woman married to her career, without much to show for it. It's a little depressing.
+**Sara:** So we're looking at a locked room mystery, tucked into an enigma, wrapped in dynamite paper.\
+**Russell:** You can say that again.... Hey, Sara, let me ask you something. You doing alright?\
+**Sara:** I'm fine.\
+**Russell:** You just seemed a little bit ... down. When we were at Theresa's place.\
+**Sara:** Um. I don't know... A woman married to her career, without much to show for it. It's a little depressing.\
 **Russell:** Yeah. I don't mean to pry--
-**Sara:** Pause right there.
+**Sara:** Pause right there.\
 **Russell:** I know I'm supposed to be your boss, separation of church and state--
 **Sara:** No no no! Hit pause with the remote and back it up a little bit.
 
 - - -
 
 **Sara:** Hello
-**Grissom:** You've been hard to get a hold of.
-**Sara:** Yeah. Um. I'm so sorry. How are you?
+**Grissom:** You've been hard to get a hold of.\
+**Sara:** Yeah. Um. I'm so sorry. How are you?\
 **Grissom:** I'm okay. Is, uh, now a good time?

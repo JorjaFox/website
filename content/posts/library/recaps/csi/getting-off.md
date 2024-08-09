@@ -28,15 +28,15 @@ During the autopsy it's discovered that what they thought was makeup is actually
 
 ## Quotes
 
-**Sara:** All we got is a decapitated doll.
+**Sara:** All we got is a decapitated doll.\
 **Catherine:** That's still legal in Nevada.
 
 - - -
 
-**Sara:** Samples from your suspect. There's nothing but a few track marks. No defensive wounds, no bruising. Junkies usually bruise if you breathe on them too hard. She is a pile of twigs, very frail.
+**Sara:** Samples from your suspect. There's nothing but a few track marks. No defensive wounds, no bruising. Junkies usually bruise if you breathe on them too hard. She is a pile of twigs, very frail.\
 **Grissom:** _looks at Sara_
-**Sara:** What?
-**Grissom:** I haven't seen you for a while, have I?
+**Sara:** What?\
+**Grissom:** I haven't seen you for a while, have I?\
 **Sara:** You see me every day.
 
 - - -

@@ -32,14 +32,14 @@ Sara arrives on the scene to help Catherine, and asks Catherine about Lady Heath
 
 ## Quotes
 
-**Lady Heather** I don't respond well to men who judge me based solely on my profession.
+**Lady Heather** I don't respond well to men who judge me based solely on my profession.\
 **Sara:** I get that a lot too. _(pauses, explains)_ Law enforcement.
 
 - - -
 
-**Grissom:** I'm the only one Heather trusts.
-**Sara:** I get it.
-**Grissom:** Sara...
-**Sara:** Yeah?
+**Grissom:** I'm the only one Heather trusts.\
+**Sara:** I get it.\
+**Grissom:** Sara...\
+**Sara:** Yeah?\
 **Grissom:** _(can't figure out what to say)_
 **Sara:** _(bitter, hurt)_ It's fine. Do what you need to do.

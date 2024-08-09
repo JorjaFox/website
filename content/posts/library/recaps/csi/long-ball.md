@@ -35,12 +35,12 @@ Sara works with recovering evidence from the golf cart with Ray and Nick, and is
 
 ## Quotes
 
-**Nick:** Each [golf ball] is unique.
+**Nick:** Each [golf ball] is unique.\
 **Sara:** Awww. Just like a snowflake!
 
 - - -
 
-**Greg:** Sometimes I wonder if you two are really married.
-**Sara:** Well ... Now that you mention it ... Just kidding!
-**Greg:** Hah. 6000 miles?
+**Greg:** Sometimes I wonder if you two are really married.\
+**Sara:** Well ... Now that you mention it ... Just kidding!\
+**Greg:** Hah. 6000 miles?\
 **Sara:** **grinning** So far, so good.

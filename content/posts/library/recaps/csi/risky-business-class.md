@@ -50,44 +50,44 @@ When Doug asks Sara and Grissom out to dinner, and then just Sara, she asks him 
 
 - - -
 
-**Wilson** Did you hear that the Rusty Nickel closed?
-**Sara:** Hah! Well, that's about time, that bar gave dives a bad name.
-**Wilson** What are you talking about? You loved that place.
-**Sara:** Well, yeah. You're right. I did love it. Right up until the moment they kicked me out for life.
-**Wilson** They did do that.
+**Wilson** Did you hear that the Rusty Nickel closed?\
+**Sara:** Hah! Well, that's about time, that bar gave dives a bad name.\
+**Wilson** What are you talking about? You loved that place.\
+**Sara:** Well, yeah. You're right. I did love it. Right up until the moment they kicked me out for life.\
+**Wilson** They did do that.\
 **Sara:** Yep.
 
 - - -
 
-**Sara:** I tell you what. I'm going to take my physics and find whatever it was that fell out of your plane.
-**Wilson** What about me? What am I going to do?
+**Sara:** I tell you what. I'm going to take my physics and find whatever it was that fell out of your plane.\
+**Wilson** What about me? What am I going to do?\
 **Sara:** You're going to build me a plane.
 
 - - -
 
-**Finn** You can take that. I'll come back.
-**Sara:** No, that's alright. I-- I'll call him back later.
-**Finn** If you ever feel like talking ...
-**Sara:** You ever try the long distance thing?
-**Finn** No. But I think it would have helped with my relationship with husband number two.
-**Sara:** Ah, the Seattle Ex.
-**Finn** Yeah.
-**Sara:** What was that like? Seeing him again.
-**Finn** It was weird. And then it wasn't.
-**Sara:** You know, I wondered why you took a later flight.
-**Finn** What about you and your NTSB guy? Is that weird?
-**Sara:** Very weird.
-**Finn** Gonna stay that way?
+**Finn** You can take that. I'll come back.\
+**Sara:** No, that's alright. I-- I'll call him back later.\
+**Finn** If you ever feel like talking ...\
+**Sara:** You ever try the long distance thing?\
+**Finn** No. But I think it would have helped with my relationship with husband number two.\
+**Sara:** Ah, the Seattle Ex.\
+**Finn** Yeah.\
+**Sara:** What was that like? Seeing him again.\
+**Finn** It was weird. And then it wasn't.\
+**Sara:** You know, I wondered why you took a later flight.\
+**Finn** What about you and your NTSB guy? Is that weird?\
+**Sara:** Very weird.\
+**Finn** Gonna stay that way?\
 **Sara:** It has to, right?
 
 - - -
 
-**Wilson** Listen, Sara, I was wondering if I could buy you and Grissom dinner tonight. You pick the place, NTSB picks up the tab, I'm a, uh, hell of a third wheel.
-**Sara:** Actually... Gil's out of town.
-**Wilson** So just the two of us, then?
-**Sara:** Don't.
-**Wilson** Don't what?
-**Sara:** Do this.
+**Wilson** Listen, Sara, I was wondering if I could buy you and Grissom dinner tonight. You pick the place, NTSB picks up the tab, I'm a, uh, hell of a third wheel.\
+**Sara:** Actually... Gil's out of town.\
+**Wilson** So just the two of us, then?\
+**Sara:** Don't.\
+**Wilson** Don't what?\
+**Sara:** Do this.\
 **Wilson** Okay. I mean, if everything's good between you two, and I know you Sara, so I'm getting the feeling that maybe it isn't, then I understand--
-**Sara:** Everything's great.
+**Sara:** Everything's great.\
 **Wilson** Okay.

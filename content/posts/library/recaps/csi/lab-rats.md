@@ -34,5 +34,5 @@ Sara handles a pickup from the CDC, where an outbreak of herpes 1 has run rampan
 
 - - -
 
-**Mandy** Are the miniatures really keeping Grissom up at night?
+**Mandy** Are the miniatures really keeping Grissom up at night?\
 **Sara:** How would I know?

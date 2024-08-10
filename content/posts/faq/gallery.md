@@ -3,6 +3,9 @@ title: "Looking for the gallery or videos?"
 layout: library
 categories: ["FAQ"]
 tags: ["gallery"]
+aliases:
+  - /gallery/
+  - /videos/
 ---
 
 {{< alert color="danger" icon="fas fa-face-sad-tear" >}}

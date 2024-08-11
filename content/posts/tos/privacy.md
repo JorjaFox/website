@@ -8,7 +8,19 @@ layout: library
 
 _Fans of LeFox_ (or ‘the site’) refers to this website and other related domains and subdomains thereof.
 
-There are two segments of this site that directly relate to privacy concerns: Data Collection and Data Usage
+There are two segments of this site that directly relate to privacy concerns: Data Collection and Data Usage.
+
+## Your Rights
+
+Firstly, _Fans of LeFox_ would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+
+**The right to access** – You have the right to request copies of your personal data.
+
+**The right to rectification** – You have the right to request correction of any information about you believe is inaccurate. You also have the right to request we complete any information you believe is incomplete.
+
+**The right to erasure** – You have the right to request the erasure of your personal data, under certain conditions. We are not legally obligated to remove personal data that has been made in a public sector  (such as a non-redacted quote from another news source, or posted by you on social media), however we are more than willing to do so, preferably in a non data-descructive manner.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: `webmaster@jorjafox.net`
 
 ## Data Collection
 

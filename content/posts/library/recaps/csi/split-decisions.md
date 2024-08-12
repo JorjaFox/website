@@ -20,7 +20,7 @@ A shooter in a Las Vegas casino manages to evade the lockdown and cameras, after
 
 The finally find a man who matches the killer named Jordan, hiding in the closet of a room he rented with a friend. He adamantly claims he's not the killer. The video time stamps of the night prove that Jordan was in two places at once: having a drink with the one-night-stand, _and_ going out with his friend to a baseball game.
 
-Jordan Brentson's DNA matches, but his fingerprints do not. He has no twin, and after following the video trail, they find Xavier Marks, a doppelgÃ¤nger to Jordan. The only thing the two men have in common is they both won free trips to Las Vegas, with mild criminal records. Even their birthdays and places are different.
+Jordan Brentson's DNA matches, but his fingerprints do not. He has no twin, and after following the video trail, they find Xavier Marks, a doppelgänger to Jordan. The only thing the two men have in common is they both won free trips to Las Vegas, with mild criminal records. Even their birthdays and places are different.
 
 When the lab performs antibody profiling, to determine which 'twin' pulled the trigger, they find the DNA matches both men, but the antibodies match neither. There's a third man! The most likely solution is the triplets were from the same zygote, frozen in vitro, fertilized, and implanted in different mothers. Jordan's mother had used Dr. Keil's services to have one son, and she had asked for the other embryos to be destroyed. They were not.
 

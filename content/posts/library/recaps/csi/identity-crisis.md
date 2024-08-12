@@ -28,11 +28,9 @@ Grissom and Catherine also track down Isabelle Millander and discover a hand pri
 
 The entire team works the Paula / Paul Millander case. Again showing her mechanical talents, Sara goes over the car with Warrick.
 
-## Notes
-
 ## Quotes
 
-**Brass:** _(standing, holding a hitchhiker's sign reading 'Vegas')_
+**Brass:** _(standing, holding a hitchhiker's sign reading 'Vegas')_\
 **Sara:** _(teasing)_ I believe hitchhiking is illegal in Clark County.\
 **Brass:** You got me!
 

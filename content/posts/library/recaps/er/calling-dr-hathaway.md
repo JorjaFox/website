@@ -45,6 +45,6 @@ Doyle comes by to see Carter, who's in the surgeon's doghouse (aka a lab). Doyle
 
 **Carter:** You know, you're great.\
 **Maggie:** So are you.\
-**Carter:** Seriously--you're great--funny--beautiful, too. I don't suppose you would -
+**Carter:** Seriously--you're great--funny--beautiful, too. I don't suppose you would -\
 **Maggie:** Not a chance.\
 **Carter:** Cheers.

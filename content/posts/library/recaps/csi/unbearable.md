@@ -39,7 +39,7 @@ Sara, Greg, Grissom and Sofia check out a body dump. During the case she finds G
 
 - - -
 
-**Greg:** If you've added up every cent I've made in my entire life, I still wouldn't be able to afford half this car. _(They walk up to the car.)_
+**Greg:** If you've added up every cent I've made in my entire life, I still wouldn't be able to afford half this car. _(They walk up to the car.)_\
 **Sara:** Yeah, but why would you want it? The insurance premiums are sky-high. Not to mention theft, scratches.\
 **Greg:** It's art. And I'd have every girl in the neighborhood after me.\
 **Curtis:** Not when they saw your apartment.\
@@ -48,6 +48,6 @@ Sara, Greg, Grissom and Sofia check out a body dump. During the case she finds G
 
 - - -
 
-**Curtis:** Listen, you guys, I'll catch up later. _(she walks away)_
+**Curtis:** Listen, you guys, I'll catch up later. _(she walks away)_\
 **Greg:** Hmm. She's fitting in pretty well, huh?\
 **Sara:** _(gives him a look and walks away without saying anything)_

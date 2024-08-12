@@ -58,7 +58,7 @@ Sara, Nick, Catherine and Brass have lunch in a restaurant as they discuss the c
 **Sara:** Really? How would you know?\
 **Nick:** Hey, I only go dutch if girls ask the wrong question.\
 **Catherine:** And what question is that, Nick?\
-**Nick:** 'What do you drive?'
+**Nick:** 'What do you drive?'\
 **Sara:** It's an honest question.\
-**Nick:** No, no it's not. What it means is 'How much money do you make, so you can take care of me.'
+**Nick:** No, no it's not. What it means is 'How much money do you make, so you can take care of me.'\
 **Sara:** Well, not _this_ girl.

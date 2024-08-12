@@ -32,8 +32,8 @@ Sara works with Grissom on the 'swapping' case, and admits that she has trouble 
 
 **Greg:** Hot shoes.\
 **Sara:** You think these are sexy, huh?\
-**Greg:** _(shrugs)_
-**Sara:** Did you know that shoes like these put degenerative stress on the hip joints, throw off the curve of the spine, and the tilt to the pelvis, over time, women get headaches, sore backs, shortened calf muscles and bunions, of course. _stands up_
+**Greg:** _(shrugs)_\
+**Sara:** Did you know that shoes like these put degenerative stress on the hip joints, throw off the curve of the spine, and the tilt to the pelvis, over time, women get headaches, sore backs, shortened calf muscles and bunions, of course. _stands up_\
 **Greg:** I take it back.
 
 - - -

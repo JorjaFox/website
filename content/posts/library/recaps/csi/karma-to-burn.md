@@ -50,11 +50,11 @@ As the episode ends, Nick, Sara, and Greg are sitting in the break room again, j
 **Greg:** This isn't about Russell.\
 **Sara:** Words have consequences, you know. I mean, if you say you quit, you need to mean it.\
 **Nick:** You quit.\
-**Sara:** Well, yeah, but I didn't say it out loud. I left a note at reception for Grissom and I walked right on out of here--
+**Sara:** Well, yeah, but I didn't say it out loud. I left a note at reception for Grissom and I walked right on out of here--\
 **Nick:** And you're still here. So don't preach to me about integrity, okay?\
-**Sara:** I'm not preaching to you about integrity--
+**Sara:** I'm not preaching to you about integrity--\
 **Nick:** Kinda are! A little bit, don't you think?\
-**Sara:** I went *away* for a little while, and I got my head together--
-**Nick:** You've got a lot of nerve to talk to me about quitting, you really do--
-**Sara:** I needed a break--
+**Sara:** I went *away* for a little while, and I got my head together--\
+**Nick:** You've got a lot of nerve to talk to me about quitting, you really do--\
+**Sara:** I needed a break--\
 **Greg:** Alright alright alright! This is not how family treats each other! Well. Yes it is.

@@ -40,8 +40,8 @@ Sara does not initially believe Abby, but after looking at the evidence, starts 
 
 **Greg:** We've worked a lot of cases where kids lost their parents.\
 **Sara:** Yeah. But one parent killing another, getting shipped off to foster care. Something I know a little bit about.\
-**Greg:** In all the years we've been friends, you've never really talked about what happened with your dad. And I don't mean to pry, but--
-**Sara:** You know what happened. They had a ... volatile relationship. And... *[Sara's phone rings, ending the conversation]*
+**Greg:** In all the years we've been friends, you've never really talked about what happened with your dad. And I don't mean to pry, but--\
+**Sara:** You know what happened. They had a ... volatile relationship. And... _(Sara's phone rings, ending the conversation)_
 
 - - -
 

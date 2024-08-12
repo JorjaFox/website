@@ -39,14 +39,14 @@ Sara, Nick, Catherine and Brass have lunch in a restaurant as they discuss the c
 
 **Nick:** Someone's bitter.\
 **Sara:** _(growls)_ I'm tired.\
-**Nick:** You? Tired? I thought you never sleep. _(Sidle yawns)_ Oh, nice. Nice. _(both walk into the lab)_ What up, G? _(to Greg)_
+**Nick:** You? Tired? I thought you never sleep. _(Sidle yawns)_ Oh, nice. Nice. _(both walk into the lab)_ What up, G? _(to Greg)_\
 **Sara:** You're awake. I hate you.\
 **Greg:** Couple glasses of merlot, rack of lamb on my day off. Slept like a baby yesterday. _(looks at Sidle)_ You look horrible.\
 **Sara:** Thanks, Greg.\
 **Nick** Don't look at me, I've got Sunshine all night. _[re: Sidle]_ [...]
 **Sara:** Everything has to be in CODOS, ASAP.\
 **Greg:** Oh, is that all? Wanna know who's going to authorize my overtime?\
-**Sara:** Suck it up, Greg. You're well rested. _leaves_
+**Sara:** Suck it up, Greg. You're well rested. _(leaves)_\
 **Greg:** _(to Nick)_ You want a Valium for her?\
 **Sara:** _(off screen)_ I heard that.
 

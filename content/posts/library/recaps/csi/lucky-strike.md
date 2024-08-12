@@ -26,5 +26,5 @@ The 5-year-old son of a professional basketball player is kidnapped while his fa
 
 **Sara:** So you've got nothing.\
 **Warrick:** Nothing I can see.\
-**Sara:** _(sniffs the paper, hands it back to Warrick)_
-**Warrick:** _(sniffs the paper and takes it to the gas spec__
+**Sara:** _(sniffs the paper, hands it back to Warrick)_\
+**Warrick:** _(sniffs the paper and takes it to the gas spec)_

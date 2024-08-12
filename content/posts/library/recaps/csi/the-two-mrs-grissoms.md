@@ -50,19 +50,19 @@ After solving the case, Sara and Betty share a Skype conversation with Grissom, 
 
 - - -
 
-**Gil Grissom:** The graves were littered with pupae casings. It looked like someone dumped a ton of Rice Krispies on top of a bunch of halloween skeletons. It indicated that it wasn't a proper burial. During the Inca period, there was no greater punishment. We think it was meant as a warning. 'Don't mess with the Moche.'
+**Gil Grissom:** The graves were littered with pupae casings. It looked like someone dumped a ton of Rice Krispies on top of a bunch of halloween skeletons. It indicated that it wasn't a proper burial. During the Inca period, there was no greater punishment. We think it was meant as a warning. 'Don't mess with the Moche.'\
 **Sara:** Ah ha.\
 **Gil Grissom:** So anyway. How was your week? What'd you do?\
 **Sara:** Well. I almost got blown up twice. I accused your ex-girlfriend of murder. And ... Oh, and I told off your mother.\
 **Gil Grissom:** Oh good. You kept busy.\
 **Sara:** Yes. You see what happens when you stand me up?\
-**Betty Grissom:** *knocks on the doorway*
+**Betty Grissom:** *(knocks on the doorway)*\
 **Gil Grissom:** Who's that?\
 **Sara:** It's your mother.\
 **Gil Grissom:** Hi, Mom.\
 **Betty Grissom:** Hi!\
 **Gil Grissom:** You never came to the office when I was working there. I heard you and Sara had an exciting week.\
-**Betty Grissom:** I owe her a apology for that. *gives Sara an African Violet.*
+**Betty Grissom:** I owe her a apology for that. *(gives Sara an African Violet)*\
 **Sara:** African Violet. It's beautiful.\
 **Gil Grissom:** I told her you like vegetation.\
 **Sara:** Thank you ... I'm sorry too. Can we start over?\
@@ -71,7 +71,7 @@ After solving the case, Sara and Betty share a Skype conversation with Grissom, 
 **Betty Grissom:** When?\
 **Gil Grissom:** Soon.\
 **Betty Grissom:** I still think you two need get together more, sex is always important in marriage.\
-**Sara:** Your mother is talking about our sex life.\
+**Sara:** Gil. Your mother is talking about our sex life.\
 **Gil Grissom:** In Incan society, the Moche elders would pass down their knowledge of sexual pleasure to the younger generation. Their stories were documented on their pottery. Little ceramic jars called sex pots.\
 **Sara:** Sex pots.\
 **Betty Grissom:** You can still learn a lot from your elders.\

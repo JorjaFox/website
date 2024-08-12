@@ -46,7 +46,7 @@ At the scene, when Sara finds the dog running loose, she's concerned about getti
 - - -
 
 **Archie:** Hear that? Turbo. Definitely diesel.\
-**Catherine:** _(nods and walks out)_
+**Catherine:** _(nods and walks out)_\
 **Sara:** She really likes you.
 
 - - -

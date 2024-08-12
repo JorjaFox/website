@@ -43,6 +43,6 @@ When the body of Bob Fairmont, the real estate developer, is found, the team dis
 
 - - -
 
-**Sara:** What are we doing? Digging up graves, chasing prints...if it's no good in court, if the killers win --
+**Sara:** What are we doing? Digging up graves, chasing prints...if it's no good in court, if the killers win --\
 **Grissom:** It isn't a competition. We don't 'win.' The courts are like dice. They have no memory; what works one week won't work the next.\
 **Sara:** I know that. I do. I know that. That's why I'm mad.

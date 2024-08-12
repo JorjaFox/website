@@ -30,10 +30,10 @@ A bit of flirtatious chatter in the locker room between Sara and Nick. Sara and 
 
 ## Quotes
 
-**Sara:** Fine suit _(admires Brown's suit)_ And, well, just fine _(admires a shirtless Stokes)_
+**Sara:** Fine suit _(admires Brown's suit)_ And, well, just fine _(admires a shirtless Stokes)_\
 **Nick:** _(laughing)_ That's harassment.\
 **Sara:** Hey, we have one locker room, and it's my job to _(pregnant pause)_ be observant [...] Are you gonna wear that [shirt]?\
-**Nick:** Yeah _(uneasy laughter)_
+**Nick:** Yeah _(uneasy laughter)_\
 **Sara:** It's _(tactful pause)_ hideous.\
 **Nick:** Hideous. Thank you. _(Sidle leaves, Stokes changes his shirt)_
 

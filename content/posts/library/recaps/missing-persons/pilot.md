@@ -41,8 +41,8 @@ Back at the station, Ray approves of her work in the field, allowing Connie to c
 
 - - -
 
-**Connie:** So Ray comes walking out here looking for somebody to replace Carlos, and he says 'Nobody's around, I guess I'm gonna have to go do it myself.' So I look at him, and I'm like, 'What am I? Chopped liver?' And he looks at me and says 'Connie-'
-**Bobby:** 'I'd be lost without you, Connie. I depend on you'
+**Connie:** So Ray comes walking out here looking for somebody to replace Carlos, and he says 'Nobody's around, I guess I'm gonna have to go do it myself.' So I look at him, and I'm like, 'What am I? Chopped liver?' And he looks at me and says 'Connie-'\
+**Bobby:** 'I'd be lost without you, Connie. I depend on you.'\
 **Connie:** It's a curse.
 
 - - -

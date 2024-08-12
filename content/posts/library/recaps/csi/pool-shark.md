@@ -32,13 +32,13 @@ When Boozell pesters Catherine, Sara steps in to support Catherine and their wor
 
 ## Quotes
 
-**Dr. Holloway** Now they're [the sharks] in Show Business
+**Dr. Holloway** Now they're [the sharks] in Show Business.\
 **Sara:** Well that's one way to make a living.
 
 - - -
 
 **Nick:** [He's] awfully fired up about taking a picture with fish.\
-**Sara:** Well, you know, fish are beautiful.
-:*(Nick and Sara see the fish tank, and inside is the aquavet, floating dead in his scuba gear)*
+**Sara:** Well, you know, fish are beautiful.\
+:*(Nick and Sara see the fish tank, and inside is the aquavet, floating dead in his scuba gear)*\
 **Nick:** Not when you're sleeping with them.\
 **Sara:** It's Dr. Halloway. Well, I guess that explains why his phone when straight to voicemail.

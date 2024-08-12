@@ -60,4 +60,4 @@ At the hospital, Sara refuses to leave the little girl alone while they wait for
 **Grissom:** Respond how?\
 **Sara:** She freaked out.\
 **Grissom:** And what are you doing about it now?\
-**Sara:** Going back to the girl. _deadpan_ I left her in the car. _(Grissom and Willows gape)_ The windows are cracked. _(Grissom looks worried)_ Give me some credit; she's at the hospital _(Sidle leaves to get the girl while Stokes and Brown crack up__
+**Sara:** Going back to the girl. _deadpan_ I left her in the car. _(Grissom and Willows gape)_ The windows are cracked. _(Grissom looks worried)_ Give me some credit; she's at the hospital _(Sidle leaves to get the girl while Stokes and Brown crack up)_

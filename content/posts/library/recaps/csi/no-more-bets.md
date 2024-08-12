@@ -38,7 +38,7 @@ Sara is stunned when she learns that Grissom recommended Nick for the promotion 
 
 **Grissom:** Well, his driver's license was fake, so, this could be fake, too.\
 **Sara:** A fake ID is for scamming a casino. A baller puts his real name on a Roley.\
-**Grissom:** _(looks at Sidle, surprised)_
+**Grissom:** _(looks at Sidle, surprised)_\
 **Sara:** _(waves the papers in her hand in Brown's direction)_ What? He rubs off.
 
 - - -

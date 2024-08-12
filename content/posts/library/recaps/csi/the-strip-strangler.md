@@ -29,10 +29,10 @@ This is very much a Sara episode, even though she's only in part of it. A rape/h
 
 ## Quotes
 
-**Sara:** Look, this is my idea. I want to do something before another girl gets killed and-
+**Sara:** Look, this is my idea. I want to do something before another girl gets killed and-\
 **Grissom:** _(interrupting)_ Listen to me, Sara. If we study his past, we can predict his future.\
 **Sara:** You've been saying that for weeks. It's taking too long. Someone else is going to die and you're still going to be figuring it out.\
-**Grissom:** _(stares at Sidle)_
+**Grissom:** _(stares at Sidle)_\
 **Culpepper** Okay, Sidle we're good to go.\
 **Sara:** _(to Grissom)_ Wish me luck.
 

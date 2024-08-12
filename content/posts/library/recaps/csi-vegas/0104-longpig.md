@@ -33,7 +33,7 @@ But of all the suspects they had, only _one_ had the skills to pull off what the
 ## Quotes
 
 **Sara:** What's wrong with _my_ character?\
-**Nora Cross:** "Sara Sidle's temperament can be an issue. She has blind spots. An inability to channel emotional energy stands in the way if her becoming the best CSI she can be."
+**Nora Cross:** "Sara Sidle's temperament can be an issue. She has blind spots. An inability to channel emotional energy stands in the way if her becoming the best CSI she can be."\
 **Sara:** What's that from?\
 **Nora:** A performance review, written just before the Chase investigation. Written by your supervisor at the time.\
 **Sara:** Gil.\
@@ -45,7 +45,7 @@ But of all the suspects they had, only _one_ had the skills to pull off what the
 **Sara:** What? Tell the truth about Hodges? If I do that, I'll get beat up with my husband's own words twisted against me? Great. Got it. We're gonna finish this later. I gotta get back to work.\
 **Nora:** On what, exactly?\
 **Sara:** Murder at a luau. Why don't you ask around?\
-**Nora:** You should know, that wasn't all of it. "If Sara masters her demons, she'll thrive as a CSI for as long as she wants. She's made for this job."
+**Nora:** You should know, that wasn't all of it. "If Sara masters her demons, she'll thrive as a CSI for as long as she wants. She's made for this job."\
 **Sara:** Great.
 
 ----

@@ -58,6 +58,6 @@ Feeling she is unnoticed and not respected by Grissom, she puts in for a leave o
 **Grissom:** _(looks surprised)_
 **Sara:** If you don't sign my leave, I'm going to have to quit. _(she turns to leave)_
 **Grissom:** Hey, Sara?\
-**Sara:** _(she turns around)_
+**Sara:** _(she turns around)_\
 **Grissom:** The lab needs you here.\
 **Sara:** _(disappointed)_ Great.

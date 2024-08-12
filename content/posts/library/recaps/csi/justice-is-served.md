@@ -38,7 +38,7 @@ Sara and Catherine experiment with the ride and a dummy, and realize that only t
 
 - - -
 
-**Sara:** _(grinning)_
+**Sara:** _(grinning)_\
 **Catherine:** What?\
 **Sara:** This is fun.\
 **Catherine:** As opposed to what?\

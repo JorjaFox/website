@@ -55,7 +55,7 @@ With the case closed, Nick and Greg come to Sara if she wants to talk. She tells
 - - -
 
 **Sara:** A little late for an intervention, don't you think?\
-**Nick:** Well, I just thought--
+**Nick:** Well, I just thought--\
 **Greg:** We.\
 **Nick:** *We* just thought that it might be a good idea to talk.\
 **Greg:** Or listen. Whatever you prefer.\

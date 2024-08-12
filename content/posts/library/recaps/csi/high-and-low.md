@@ -38,6 +38,6 @@ Sara only appears in the scene quoted below, having maxed out on her overtime an
 **Catherine:** Sara, I don't make the rules around here. You gotta talk to Grissom about that.\
 **Sara:** Yeah. Um. He's, um, not really in the talking mood.\
 **Catherine:** What makes you think he's gonna talk to me?\
-**Sara:** _(shrugs)_
+**Sara:** _(shrugs)_\
 **Catherine:** Get some rest.\
 **Sara:** I'm not tired! Really! I'm not tired.

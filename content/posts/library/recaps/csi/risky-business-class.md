@@ -88,6 +88,6 @@ When Doug asks Sara and Grissom out to dinner, and then just Sara, she asks him 
 **Sara:** Don't.\
 **Wilson** Don't what?\
 **Sara:** Do this.\
-**Wilson** Okay. I mean, if everything's good between you two, and I know you Sara, so I'm getting the feeling that maybe it isn't, then I understand--
+**Wilson** Okay. I mean, if everything's good between you two, and I know you Sara, so I'm getting the feeling that maybe it isn't, then I understand--\
 **Sara:** Everything's great.\
 **Wilson** Okay.

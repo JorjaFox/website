@@ -47,7 +47,7 @@ Greg works his final proficiency with a little help from both Sara and Grissom. 
 - - -
 
 **Sara:** DNA confirms that the blood on Watson's shoe is a match to your vic. We got him.\
-**Greg:** _(continues looking through the magnifying glass)_
+**Greg:** _(continues looking through the magnifying glass)_\
 **Sara:** Feel like celebrating after shift? I'm buying.
 
 - - -

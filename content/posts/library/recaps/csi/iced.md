@@ -37,8 +37,8 @@ Sara and Greg investigate the college murders, and after several setbacks (inclu
 - - -
 
 **Zach** turns to Greg You know how it is, you look like you were a jock in college.\
-**Greg:** stunned Me?\
-**Sara:** stunned Him??
+**Greg:** _(stunned)_ Me?\
+**Sara:** _(stunned)_ Him??
 
 - - -
 

@@ -40,8 +40,8 @@ Sara works with Catherine and Nick on the body found in the dump, and she is the
 - - -
 
 **Sara:** Well, she wasn't in town on business.\
-**Nick:** What's that? _((looks at Sidle))_
-**Sara:** _((turns around and holds a black teddy in front of her, then clicks her tongue and shakes the teddy in front of her))_
+**Nick:** What's that? _(looks at Sidle)_\
+**Sara:** _(turns around and holds a black teddy in front of her, then clicks her tongue and shakes the teddy in front of her)_
 
 - - -
 

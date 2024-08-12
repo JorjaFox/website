@@ -46,7 +46,9 @@ Brass notices that Sara is popping cough drops at the scene, and later confronts
 - - -
 
 **Warrick:** How's your hands?\
-**Sara:** Sore. _(pauses)_ Document every single bill. Fun.
-:[...]
+**Sara:** Sore. _(pauses)_ Document every single bill. Fun.\
+
+- - -
+
 **Warrick:** I could either lose this in a hand of blackjack, or I could lose a cranberry chip. What's worse?\
 **Sara:** To me, losing's losing.

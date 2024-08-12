@@ -47,7 +47,7 @@ _Note: according to writer David Rambo, Sara's final note to Grissom was written
 
 **Warrick:** Yeah, it's to help me sleep -- I've been having the hardest time lately.\
 **Sara:** Me too.\
-**Warrick:** Well you're just coming off of grave after all these years, it takes a while to adjust. _(puts his hand on her shoulder)_ You're a tough cookie, I'm not worried about you. Take care of yourself. _(walks off)_
+**Warrick:** Well you're just coming off of grave after all these years, it takes a while to adjust. _(puts his hand on her shoulder)_ You're a tough cookie, I'm not worried about you. Take care of yourself. _(walks off)_\
 **Sara:** _(watching him leave)_ Thanks.
 
 - - -
@@ -67,4 +67,4 @@ _Note: according to writer David Rambo, Sara's final note to Grissom was written
 
 - - -
 
-**Sara:** _(her note to Grissom)_ Gil, you _know_ I love you. I feel I've loved you forever. Lately... I haven't been feeling well. Truth be told, I'm tired. Out in the desert under that car that night I realized something, and&#8230; haven't been able to shake it. Since my father died, I've spent almost my entire life with ghosts. Even my close friends. And, out there in the desert it occurred to me, that it was time for me to bury them. I can't be like you. I'm so sorry. No matter how hard I try to fight it off, I'm left with the feeling that ... I have to go. I have no idea where I'm going, but I know I have to do this. If I don't, I'm afraid I'll self destruct, and worse, you'll be there to see it happen. Be safe. Know that I tried _very_ hard to stay. Know that you're my one and only. I'll miss you with every beat of my heart. Our life together was the only home I've ever really had, I wouldn't trade it for anything. I love you, I always will. Goodbye.
+**Sara:** _(her note to Grissom)_ Gil, you _know_ I love you. I feel I've loved you forever. Lately... I haven't been feeling well. Truth be told, I'm tired. Out in the desert under that car that night I realized something, and I haven't been able to shake it. Since my father died, I've spent almost my entire life with ghosts. Even my close friends. And, out there in the desert it occurred to me, that it was time for me to bury them. I can't be like you. I'm so sorry. No matter how hard I try to fight it off, I'm left with the feeling that ... I have to go. I have no idea where I'm going, but I know I have to do this. If I don't, I'm afraid I'll self destruct, and worse, you'll be there to see it happen. Be safe. Know that I tried _very_ hard to stay. Know that you're my one and only. I'll miss you with every beat of my heart. Our life together was the only home I've ever really had, I wouldn't trade it for anything. I love you, I always will. Goodbye.

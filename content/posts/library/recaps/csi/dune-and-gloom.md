@@ -40,8 +40,8 @@ When Russell tells Sara about his cousin, who became a paranoid schizophrenic, s
 
 ## Quotes
 
-**Morgan Brody** I've had dates end that way. Argue, pull over, slam the door and sulk home to watch The Notebook
-**Sara Sidle** The Notebook, really?
+**Morgan Brody** I've had dates end that way. Argue, pull over, slam the door and sulk home to watch _The Notebook_.\
+**Sara Sidle** _The Notebook_, really?
 
 - - -
 
@@ -51,7 +51,7 @@ When Russell tells Sara about his cousin, who became a paranoid schizophrenic, s
 - - -
 
 **Russell:** [My cousin was] a really good kid. But one summer he started telling me about this birdhouse that the neighbor had built across the street. He was convinced there was a camera inside it. [...] Got worse, too. Towards the end, he thought my glasses were cameras, and that I was recording his every move.\
-**Sara:** What happened to him
+**Sara:** What happened to him?\
 **Russell:** Not a happy ending.\
 **Sara:** Yeah, I know a little bit about that kid of sad ending myself. My mom.\
 **Russell:** I didn't know that. I'm sorry.\

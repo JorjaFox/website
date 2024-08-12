@@ -40,5 +40,5 @@ Grissom and Sara watch a Godzilla movie together at Grissom's home, with his dog
 **Sara:** What are you doing?\
 **Nick:** _(sorting through a pig sty)_ I read about a killer in Canada who fed his victim to his pigs.\
 **Sara:** Oh.\
-**Nick:** They had to put out a notice, 'Warning, your pork may be contaminated with human.'
+**Nick:** They had to put out a notice, 'Warning, your pork may be contaminated with human.'\
 **Sara:** I'm so glad I'm a vegetarian.

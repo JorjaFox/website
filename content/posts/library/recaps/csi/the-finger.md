@@ -40,5 +40,5 @@ Sara was on a date with Hank this episode, and had told Warrick where she was go
 
 **Sara:** It's kind of a coincidence, you know? Catherine just showing up where I was. I mean, she didn't know.\
 **Nick:** I knew.\
-**Warrick:** _(Warrick grins at this)_
-**Sara:** _(shoves Warrick in the shoulder__
+**Warrick:** _(Warrick grins at this)_\
+**Sara:** _(shoves Warrick in the shoulder)_

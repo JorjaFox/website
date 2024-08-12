@@ -51,7 +51,7 @@
         "update:syntax:dark4": "replace-in-files --string=\".na {  }\" --replacement=\".na { color: #00cccc }\" ./assets/scss/components/_syntax-dark.scss",
         "update:syntax:dark5": "replace-in-files --string=\".nb {  }\" --replacement=\".nb { color: #00a2d8 }\" ./assets/scss/components/_syntax-dark.scss",
         "update:syntax:dark6": "replace-in-files --string=\"#6e7681\" --replacement=\"#999fa8\" ./assets/scss/components/_syntax-dark.scss",
-        "upgrade": "npx npm-check-updates -u && npm run -s mod:update",
+        "upgrade": "npx npm-check-updates -u --target minor && npm run -s mod:update",
         "merge-to-trunk": "currentBranch=$(git rev-parse --abbrev-ref HEAD) && git checkout trunk && git pull && git merge $currentBranch && git push origin trunk && git checkout $currentBranch"
     },
     "repository": {
@@ -67,8 +67,8 @@
     "dependencies": {
         "@fullhuman/postcss-purgecss": "^6.0.0",
         "autoprefixer": "^10.4.20",
-        "cssnano": "^7.0.4",
-        "cssnano-preset-advanced": "^7.0.4",
+        "cssnano": "^7.0.5",
+        "cssnano-preset-advanced": "^7.0.5",
         "hugo-bin": "0.128.0",
         "purgecss-whitelister": "^2.4.0"
     },

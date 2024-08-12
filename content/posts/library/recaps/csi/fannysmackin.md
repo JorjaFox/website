@@ -28,7 +28,7 @@ Sara speaks to the second victim of the night, and also processes Greg when he b
 
 - - -
 
-:_(Grissom walks in as Sara is repeatedly kicking a dummy)_
+:_(Grissom walks in as Sara is repeatedly kicking a dummy)_\
 **Grissom:** Whoa! Pick on somebody your own size.\
 **Sara:** Are you volunteering?\
 **Grissom:** _(long pause)_ No.
@@ -38,7 +38,7 @@ Sara speaks to the second victim of the night, and also processes Greg when he b
 **Greg:** Sara.\
 **Sara:** I didn't think you could see me.\
 **Greg:** I can't. I know that 'Sidle Scent'.\
-**Sara:** I'm ... going to take that as a compliment
+**Sara:** I'm ... going to take that as a compliment.
 
 - - -
 

@@ -67,5 +67,5 @@ A high-priority, drop-everything case comes along -- Sara protests that she's in
 **Sara:** About that -- I, um 'needed to know'... I ... I wanted to make sure, rather, that anything that happened or didn't happen between us won't be a factor.\
 **Grissom:** _(doesn't say anything)_
 **Sara:** Never mind. I-I shouldn't have said anything.\
-**Grissom:** _(still staring at Sara, not saying anything)_
+**Grissom:** _(still staring at Sara, not saying anything)_\
 **Sara:** _(smiles, embarrassed)_ I, um ... I'm always over-talking around you.

@@ -30,10 +30,10 @@ Sara is only seen in the second to last scene, when Grissom spots her in the loc
 
 ## Quotes
 
-:_(Sara at her locker removing her jacket when Grissom appears in the doorway)_
+**Sara:** _(Sara is at her locker removing her jacket when Grissom appears in the doorway)_\
 **Grissom:** Hey, my cab's here.\
 **Sara:** _(turns to look at Grissom)_ So you're going.\
 **Grissom:** Yeah.\
-**Sara:** I'll see you when you get back. _(turns back to her locker)_
-**Grissom:** _(moves to the inside of the doorway, Sara turns to face him) (long pause)_ I'll miss you.
-:_(Sara nods, and Grissom leaves)_
+**Sara:** I'll see you when you get back. _(turns back to her locker)_\
+**Grissom:** _(moves to the inside of the doorway, Sara turns to face him) (long pause)_ I'll miss you.\
+**Sara:** _(Sara nods, and Grissom leaves)_

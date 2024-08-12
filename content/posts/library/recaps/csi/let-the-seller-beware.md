@@ -24,10 +24,10 @@ Grissom and Catherine investigate the murder of a wealthy couple who are discove
 
 ## Quotes
 
-**Sara:** _comes in late_ I am so sorry.\
+**Sara:** _(comes in late)_ I am so sorry.\
 **Grissom:** I paged you two hours ago.\
-**Sara:** Right. It's my day off? I was at Pharump. At some vineyard. _pause_ You told me to get a life. Remember? _smiles at Grissom_
-**Grissom:** Did I? _pauses, pulls out goggles_ I'm sorry. I needed you. Dispatch called in a 4-19 at Tuscadare High School. You're on your own.\
-**Sara:** _pause_ On my own.\
-**Grissom:** _pause_ Solo.\
-**Sara:** _LONG pause_ _irritated_ See you around.
+**Sara:** Right. It's my day off? I was at Pharump. At some vineyard. _(pause)_ You told me to get a life. Remember? _(smiles at Grissom)_\
+**Grissom:** Did I? _(pauses, pulls out goggles)_ I'm sorry. I needed you. Dispatch called in a 4-19 at Tuscadare High School. You're on your own.\
+**Sara:** _(pause)_ On my own.\
+**Grissom:** _(pause)_ Solo.\
+**Sara:** _(LONG pause)_ _(irritated)_ See you around.

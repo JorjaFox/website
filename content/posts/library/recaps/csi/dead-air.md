@@ -42,8 +42,8 @@ Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another
 
 ## Quotes
 
-**David Phillips:** When we dissected frogs, when I was in high school biology, you'd pith it, by sticking a pin right here. The frog would get all _makes a face_. None of the girls in class wanted to do it, so they asked me to. I became known as the 'designated pither.'
-**Sara:** I would have gone with 'relief pither.'
+**David Phillips:** When we dissected frogs, when I was in high school biology, you'd pith it, by sticking a pin right here. The frog would get all _makes a face_. None of the girls in class wanted to do it, so they asked me to. I became known as the 'designated pither.'\
+**Sara:** I would have gone with 'relief pither.'\
 **Phillips:** That's better.
 
 - - -
@@ -61,7 +61,7 @@ Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another
 - - -
 
 **Finn** You must be running on fumes. You should go home!\
-**Sara:** Home is where the coded notebook is. _sees call from Grissom, sends to voicemail_
+**Sara:** Home is where the coded notebook is. _(sees call from Grissom, sends to voicemail)_\
 **Finn** Have you talked to him since the NTSB guy?\
 **Sara:** Nothing happened with NTSB.\
 **Finn** How come you can't pick up the phone?\
@@ -80,14 +80,14 @@ Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another
 **Sara:** I'm fine.\
 **Russell:** You just seemed a little bit ... down. When we were at Theresa's place.\
 **Sara:** Um. I don't know... A woman married to her career, without much to show for it. It's a little depressing.\
-**Russell:** Yeah. I don't mean to pry--
+**Russell:** Yeah. I don't mean to pry--\
 **Sara:** Pause right there.\
-**Russell:** I know I'm supposed to be your boss, separation of church and state--
+**Russell:** I know I'm supposed to be your boss, separation of church and state--\
 **Sara:** No no no! Hit pause with the remote and back it up a little bit.
 
 - - -
 
-**Sara:** Hello
+**Sara:** Hello.\
 **Grissom:** You've been hard to get a hold of.\
 **Sara:** Yeah. Um. I'm so sorry. How are you?\
 **Grissom:** I'm okay. Is, uh, now a good time?

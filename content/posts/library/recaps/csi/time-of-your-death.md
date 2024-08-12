@@ -40,5 +40,5 @@ Sara Please tell me there are something more to this guys and cars thing, beside
 
 - - -
 
-**Grissom:** Some guys are intimidated by beauty. Or fear rejection. _
-**Sara:** _(narrows her eyes in reaction to this__
+**Grissom:** Some guys are intimidated by beauty. Or fear rejection.\
+**Sara:** _(narrows her eyes in reaction to this)_

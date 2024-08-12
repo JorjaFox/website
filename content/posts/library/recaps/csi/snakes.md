@@ -35,10 +35,10 @@ The swing shift has a busy time. Warrick looks into the murder of man by someone
 **Grissom:** You, uh, completed your counseling, right?\
 **Sara:** Yeah. Yes.\
 **Grissom:** And ... ?\
-**Sara:** Let's just say that ... I sometimes ... I look for validation in inappropriate places.
-:(They lapse into silence.)
-**Grissom:** Look ... let's, um ...
-:(More silence.)
-**Sara:** It's okay. Okay. You know what, we did our session. Don't forget to document this for Ecklie. _smiles_
+**Sara:** Let's just say that ... I sometimes ... I look for validation in inappropriate places.\
+:(They lapse into silence.)\
+**Grissom:** Look ... let's, um ...\
+:(More silence.)\
+**Sara:** It's okay. Okay. You know what, we did our session. Don't forget to document this for Ecklie. _smiles_\
 **Grissom:** Right.\
 **Sara:** Thanks. _stands up and leaves_

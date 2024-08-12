@@ -33,7 +33,7 @@ A dying Patrick Brazil is brought in by his caregiver, who explains to Jeanie an
 
 **Jeanie:** Do you believe in reincarnation?\
 **Waitress:** Sure, next life I'm coming back as Cindy Crawford.\
-**Jeanie:** Can you do us a favor? We have a patient who wants to be cryogenically preserved
+**Jeanie:** Can you do us a favor? We have a patient who wants to be cryogenically preserved.\
 **Maggie:** We've gotta freeze a dead guy.
 
 ---

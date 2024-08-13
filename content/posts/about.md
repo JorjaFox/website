@@ -1,7 +1,6 @@
 ---
 title: About Us
 date: '2015-10-01'
-author: 'Mika E. (Ipstenu)'
 layout: library
 ---
 

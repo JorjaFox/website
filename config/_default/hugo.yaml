@@ -40,3 +40,8 @@ outputFormats:
   RSS:
     mediatype: "application/rss"
     baseName: "feed"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

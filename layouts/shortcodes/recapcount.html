@@ -1,0 +1,16 @@
+{{ if .Get "showslug" }}
+
+	{{ $section    := .Get "showslug" }}
+	{{ $recaps     := (where .Site.RegularPages "Layout" "recaps" ) }}
+	{{ $showRecaps := (where .Site.Pages "Params.showslug" $section ) }}
+	{{ $filtered   := $recaps | intersect $showRecaps }}
+	{{ $postCount  := len $filtered }}
+
+	{{ if eq $postCount 0 }}
+		<span class="badge rounded-pill bg-secondary">Coming Soon</span>
+	{{ else if eq $postCount 1 }}
+		<span class="badge rounded-pill bg-primary">{{ $postCount }} recap</span>
+	{{ else }}
+		<span class="badge rounded-pill bg-primary">{{ $postCount }} recaps</span>
+	{{ end }}
+{{ end }}

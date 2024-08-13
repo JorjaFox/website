@@ -24,11 +24,11 @@ When Terry Rivers barrels into the opposing team's goalie, a fight breaks out an
 
 ## Quotes
 
-**Sara:** You just don't like sports.
-**Grissom:** That's not true, I've been a baseball fan for my whole life.
-**Sara:** Baseball. That figures. All the stats.
-**Grissom:** It's a beautiful sport.
-**Sara:** Since when are you interested in beauty?
+**Sara:** You just don't like sports.\
+**Grissom:** That's not true, I've been a baseball fan for my whole life.\
+**Sara:** Baseball. That figures. All the stats.\
+**Grissom:** It's a beautiful sport.\
+**Sara:** Since when are you interested in beauty?\
 **Grissom:** Since I met you.
 
 - - -
@@ -37,7 +37,7 @@ When Terry Rivers barrels into the opposing team's goalie, a fight breaks out an
 
 - - -
 
-**Grissom:** What is Victoria's secret, I wonder...
+**Grissom:** What is Victoria's secret, I wonder...\
 **Sara:** Beauty, Grissom. Remember?
 
 - - -
@@ -46,10 +46,10 @@ When Terry Rivers barrels into the opposing team's goalie, a fight breaks out an
 
 - - -
 
-**Sara:** You sucked at team sports huh?
-**Greg:** I was captain of the high school chess squad.
-**Sara:** Chess is not a sport, Greg.
-**Greg:** Then why is there a world chess champion?
-**Sara:** Uh, I think sports are physical, by definition.
-**Greg:** Well sex is physical, is that a sport?
+**Sara:** You sucked at team sports huh?\
+**Greg:** I was captain of the high school chess squad.\
+**Sara:** Chess is not a sport, Greg.\
+**Greg:** Then why is there a world chess champion?\
+**Sara:** Uh, I think sports are physical, by definition.\
+**Greg:** Well sex is physical, is that a sport?\
 **Sara:** Not to me.

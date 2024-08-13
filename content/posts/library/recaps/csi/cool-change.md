@@ -34,45 +34,45 @@ This episode introduces Sara Sidle, a CSI III from San Francisco whom Grissom ca
 
 ## Quotes
 
-**Grissom:** Norman pushed. Norman jumped. Norman fell.
+**Grissom:** Norman pushed. Norman jumped. Norman fell.\
 **Sara:** Wouldn't you, if you were married to Mrs. Roper?
 
 - - -
 
-**Grissom:** God, Sara, I have so many unanswered 'why's.
+**Grissom:** God, Sara, I have so many unanswered 'why's.\
 **Sara:** There's only one why that matters now. Why did Warrick Brown leave that scene?
 
 - - -
 
-**Sara:** Do you know where I can find Catherine Willows?
-**Catherine:** She's out in the field [...] Let me guess, Sara Sidle?
+**Sara:** Do you know where I can find Catherine Willows?\
+**Catherine:** She's out in the field [...] Let me guess, Sara Sidle?\
 **Sara:** I know who I am, you're a little confused. [...] Look, we can stand here and argue, or we can find out who did this to Holly Gribbs ... Two sharp women are better than one.
 
 - - -
 
-**Sara:** Do you have a system?
-**Warrick:** Counting cards.
-**Sara:** Isn't that illegal?
+**Sara:** Do you have a system?\
+**Warrick:** Counting cards.\
+**Sara:** Isn't that illegal?\
 **Warrick:** Not if you do the math in your head.
 
 - - -
 
-**Sara:** This time it's different.
-**Warrick:** Yeah? Why's that?
+**Sara:** This time it's different.\
+**Warrick:** Yeah? Why's that?\
 **Sara:** Because Holly Gribbs died on the operating table 20 minutes ago.
 
 - - -
 
-**Catherine:** Is there anything in there with alcohol?
+**Catherine:** Is there anything in there with alcohol?\
 **Sara:** Root beer.
 
 - - -
 
-**Catherine:** Did I just do that?
-**Sara:** _(nods)_ What's a bling-bling?
+**Catherine:** Did I just do that?\
+**Sara:** _(nods)_ What's a bling-bling?\
 **Catherine:** _(shakes her head)_ Got me.
 
 - - -
 
-**Sara:** Nicorette?
+**Sara:** Nicorette?\
 **Catherine:** Got my own. _(smiles, showing the gum through her teeth)_

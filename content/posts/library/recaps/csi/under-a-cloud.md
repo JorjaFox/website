@@ -43,13 +43,13 @@ When Sara finds out Greg is under review, she comes to talk to him and see how h
 
 ## Quotes
 
-**Bomb Tech** How ya holding up?
-**Sara:** Just willed myself not to sneeze. Almost blew us both up.
-**Bomb Tech** Keep up the sense of humor.
+**Bomb Tech** How ya holding up?\
+**Sara:** Just willed myself not to sneeze. Almost blew us both up.\
+**Bomb Tech** Keep up the sense of humor.\
 **Sara:** I wasn't kidding.
 
 - - -
 
-**Brass:** How you doing, Sara?
-**Sara:** A little shaky. Nothing like staring into the abyss for twenty minutes to decide what's important in life.
+**Brass:** How you doing, Sara?\
+**Sara:** A little shaky. Nothing like staring into the abyss for twenty minutes to decide what's important in life.\
 **Brass:** It's sad how it takes something so intense to make us stop and smell the coffee, huh?

@@ -1,0 +1,11 @@
+{{ $display := "main" }}
+
+{{ if .Get "list" }}
+    {{ $display = .Get "list" }}
+{{ end }}
+
+{{ if eq $display "main" }}
+    <div class="ml-embedded" data-form="ZO2psd"></div>
+{{ else }}
+    {{ $display }}
+{{ end }}

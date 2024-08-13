@@ -32,5 +32,5 @@ Johnny looks into her husband, Richard, who he saw kidding a woman in a bar. At 
 
 ## Quotes
 
-**Bobby:** Yo, yo, Connie! What's up? Where da donuts?
+**Bobby:** Yo, yo, Connie! What's up? Where da donuts?\
 **Connie:** Why do I always have to get the donuts? Because I'm a woman?

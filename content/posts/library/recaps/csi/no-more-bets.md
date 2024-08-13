@@ -29,22 +29,22 @@ Sara is stunned when she learns that Grissom recommended Nick for the promotion 
 
 ## Quotes
 
-**Nick:** _(waves letter in his hand)_ This is about the key CSI position. Grissom recommended me.
-**Sara:** _(long pause, stunned)_ Congratulations.
-**Nick:** It's not necessary. Position was cut. Budget had room for the new promotion or a new qiagen, bio robot ez-1. Greg will be thrilled.
+**Nick:** _(waves letter in his hand)_ This is about the key CSI position. Grissom recommended me.\
+**Sara:** _(long pause, stunned)_ Congratulations.\
+**Nick:** It's not necessary. Position was cut. Budget had room for the new promotion or a new qiagen, bio robot ez-1. Greg will be thrilled.\
 **Sara:** _(less than enthusiastic)_ Yeah.
 
 - - -
 
-**Grissom:** Well, his driver's license was fake, so, this could be fake, too.
-**Sara:** A fake ID is for scamming a casino. A baller puts his real name on a Roley.
-**Grissom:** _(looks at Sidle, surprised)_
+**Grissom:** Well, his driver's license was fake, so, this could be fake, too.\
+**Sara:** A fake ID is for scamming a casino. A baller puts his real name on a Roley.\
+**Grissom:** _(looks at Sidle, surprised)_\
 **Sara:** _(waves the papers in her hand in Brown's direction)_ What? He rubs off.
 
 - - -
 
-**Sara:** _(confrontational)_ You said you didn't have a problem with me.
-**Grissom:** I don't. I thought that Nick was the best candidate for the position.
-**Sara:** Why?
-**Grissom:** Because he didn't care whether he got the job or not.
+**Sara:** _(confrontational)_ You said you didn't have a problem with me.\
+**Grissom:** I don't. I thought that Nick was the best candidate for the position.\
+**Sara:** Why?\
+**Grissom:** Because he didn't care whether he got the job or not.\
 **Sara:** _(in a hurt tone)_ That's a stupid reason.

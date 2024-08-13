@@ -27,5 +27,5 @@ Ray is still dismissive of Connie needing to do any work on the case, but she fo
 
 ## Quotes
 
-**Connie:** I can see her lying to her friends, but why would she lie to me?
+**Connie:** I can see her lying to her friends, but why would she lie to me?\
 **Ray:** You're a cop, Connie. People don't talk to cops, people lie to cops.

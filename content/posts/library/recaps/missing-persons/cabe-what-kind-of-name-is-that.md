@@ -30,11 +30,11 @@ Hodgekiss' new doctor flirts with Connie, preferring to treat her chauvinistical
 
 ## Quotes
 
-**Maid:** Was that Mozart?
+**Maid:** Was that Mozart?\
 **Connie:** You could say it's Mozart, as slaughtered by Karadzic.
 
 - - -
 
-**Connie:** I have a secret for you.
-**Doctor:** What's that?
+**Connie:** I have a secret for you.\
+**Doctor:** What's that?\
 **Connie:** I don't like you.

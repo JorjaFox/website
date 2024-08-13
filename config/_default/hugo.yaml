@@ -2,7 +2,7 @@ baseURL: "https://jorjafox.net/"
 languageCode: "en-us"
 title: "Fans of LeFox"
 subtitle: "A fansite celebrating the actor and activist, Jorja Fox"
-copyright: "Copyright Fans of LeFox © 1996 - current"
+copyright: "Copyright Fans of LeFox © 1996"
 paginate: 9
 
 contentDir: "content/posts"
@@ -31,4 +31,17 @@ minify:
 disableKinds: ["taxonomy", "term"]
 
 outputs:
-  home: ["HTML", "RSS", "REDIR"]
+  home: ["HTML", "RSS"]
+  page: ["HTML"]
+  section: ["HTML"]
+  taxonomy: ["HTML"]
+
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "feed"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -26,5 +26,5 @@ Sara and Nick work the Castillo case until it merges with the others.
 
 ## Quotes
 
-**Nick:** Let's try to ID this guy.
+**Nick:** Let's try to ID this guy.\
 **Sara:** I say we strip the Michelin from the man.

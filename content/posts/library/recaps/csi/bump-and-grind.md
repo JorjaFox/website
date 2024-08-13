@@ -45,20 +45,20 @@ Sara, seeing Ray's inner angst over being attacked by Nate Haskell, and reminds 
 
 - - -
 
-**Sara:** ... Going, going ... caught at the warning track.
-**Super Dave** A baseball reference. How quaint.
+**Sara:** ... Going, going ... caught at the warning track.\
+**Super Dave** A baseball reference. How quaint.\
 **Sara:** Blame Grissom.
 
 - - -
 
 **Langston:** [looking at his scars]
-**Sara:** I should show you mine, but I think that might be inappropriate. You hardly notice them.
-**Langston:** The scars?
-**Sara:** Of course ... some scars heal faster than others.
-**Langston:**Yeah. I got a letter from Nate Haskell the other day. He wanted to let me know that he was thinking about me.
-**Sara:** The kidney bean?
-**Langston:** Yeah.
-**Sara:** Don't let him get into your head, Ray.
-**Langston:** Well, he's already in there.
-**Sara:** Everything that happens to us, the good and the bad, is part of us. Took me a long time to realize that it doesn't have to define who we are. We get to decide that. Good night, Dr. Ray.
+**Sara:** I should show you mine, but I think that might be inappropriate. You hardly notice them.\
+**Langston:** The scars?\
+**Sara:** Of course ... some scars heal faster than others.\
+**Langston:**Yeah. I got a letter from Nate Haskell the other day. He wanted to let me know that he was thinking about me.\
+**Sara:** The kidney bean?\
+**Langston:** Yeah.\
+**Sara:** Don't let him get into your head, Ray.\
+**Langston:** Well, he's already in there.\
+**Sara:** Everything that happens to us, the good and the bad, is part of us. Took me a long time to realize that it doesn't have to define who we are. We get to decide that. Good night, Dr. Ray.\
 **Langston:** Good night, Sara.

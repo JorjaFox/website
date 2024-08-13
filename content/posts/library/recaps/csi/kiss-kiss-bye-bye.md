@@ -40,10 +40,10 @@ Sara is highly amused by Greg's obsession with Lois and her history. She's only 
 
 ## Quotes
 
-**Greg:** The Benjamins took the bullet!
+**Greg:** The Benjamins took the bullet!\
 **Sara:** In God We Trust.
 
 - - -
 
-**Hodges:** I like my grey hairs. What two I have.
+**Hodges:** I like my grey hairs. What two I have.\
 **Sidles** Hodges, don't you know that grey hair can be very attractive?

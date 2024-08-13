@@ -29,5 +29,5 @@ Maggie has her own case. Ernesto Ruiz is a gangbanger with a gunshot wound to th
 
 ## Quotes
 
-**Ernesto:** Bye-bye, chica!
+**Ernesto:** Bye-bye, chica!\
 **Maggie:** See you real soon, Ernesto!

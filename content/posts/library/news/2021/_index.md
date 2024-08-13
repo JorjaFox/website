@@ -1,7 +1,7 @@
 ---
 title: "News Articles (2021)"
 author: "Mika A. Epstein"
-layout: news-list
+layout: news-index
 topic: index
 date: 2021-01-01
 permalink: /news/2021/

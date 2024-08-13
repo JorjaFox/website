@@ -39,6 +39,6 @@ Conrad Ecklie asks them about releasing information on the miniature to the medi
 
 - - -
 
-**Sara:** I've never heard of him.
-**Grissom:** Probably before your time.
+**Sara:** I've never heard of him.\
+**Grissom:** Probably before your time.\
 **Sara:** I'll download it.

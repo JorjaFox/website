@@ -32,13 +32,13 @@ Grissom and Sara watch a Godzilla movie together at Grissom's home, with his dog
 
 ## Quotes
 
-**Grissom:** Do you believe in intelligent life on other planets in the universe?
+**Grissom:** Do you believe in intelligent life on other planets in the universe?\
 **Sara:** I'm not sure if I believe in intelligent life on this planet -- I just saw the barn.
 
 - - -
 
-**Sara:** What are you doing?
-**Nick:** _(sorting through a pig sty)_ I read about a killer in Canada who fed his victim to his pigs.
-**Sara:** Oh.
-**Nick:** They had to put out a notice, 'Warning, your pork may be contaminated with human.'
+**Sara:** What are you doing?\
+**Nick:** _(sorting through a pig sty)_ I read about a killer in Canada who fed his victim to his pigs.\
+**Sara:** Oh.\
+**Nick:** They had to put out a notice, 'Warning, your pork may be contaminated with human.'\
 **Sara:** I'm so glad I'm a vegetarian.

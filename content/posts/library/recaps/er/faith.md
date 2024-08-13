@@ -29,9 +29,9 @@ Drs. Greene and Doyle treat a patient in need for a heart transplant, but has be
 
 ## Quotes
 
-**Chuney:** Malibu Barbie was my favorite, too.
-**Mark:** I was always partial to Ken.
-**Louise:** Ken?
-**Mark:** You don't like Ken?
-**Louise:** Too pretty.
+**Chuney:** Malibu Barbie was my favorite, too.\
+**Mark:** I was always partial to Ken.\
+**Louise:** Ken?\
+**Mark:** You don't like Ken?\
+**Louise:** Too pretty.\
 **Maggie:** I'm with you, Louise. Ken's nothing but trouble.

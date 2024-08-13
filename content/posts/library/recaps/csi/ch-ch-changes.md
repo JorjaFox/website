@@ -24,6 +24,6 @@ A woman who was pulled over by police is found murdered two miles up the road fr
 
 ## Quotes
 
-**Warrick:** Wow. Mascara, tweezers ... under-eye cream ... ... neck-firming lotion. (He shakes his head and mutters.) Girls. Pads ... one, two, three, four jars of depilatory cream?
-**Sara:** That's a lot of bikini wax. Some girls hate the nether-stubble.
+**Warrick:** Wow. Mascara, tweezers ... under-eye cream ... ... neck-firming lotion. (He shakes his head and mutters.) Girls. Pads ... one, two, three, four jars of depilatory cream?\
+**Sara:** That's a lot of bikini wax. Some girls hate the nether-stubble.\
 **Warrick:** Nether-stubble?

@@ -44,6 +44,6 @@ Sara works the side of the case involving the dead wife.
 
 ## Quotes
 
-**Sara:** And grass, not the kind you smoke on the floor in the closet. But all the shoes in the closet were clean.
-**Warrick:** So someone was walking around in here with grass on their shoes? Maybe it was the missing husband... or a desperate gardener.
+**Sara:** And grass, not the kind you smoke on the floor in the closet. But all the shoes in the closet were clean.\
+**Warrick:** So someone was walking around in here with grass on their shoes? Maybe it was the missing husband... or a desperate gardener.\
 **Sara:** Who was mowing more than the lawn.

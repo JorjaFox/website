@@ -48,5 +48,5 @@ Seen primarily in the scene with the Spanish speaking mother, Sara is obviously 
 
 - - -
 
-**Greg:** Who's with me?
+**Greg:** Who's with me?\
 **Sara:** A bunch of pissed off locals with shot up cars.

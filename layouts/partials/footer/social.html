@@ -22,20 +22,33 @@
                 <a href="{{ site.Home.RelPermalink }}">
                     {{- partial "assets/image.html" (dict "url" "/img/logo.svg" "wrapper" "w-25" "title" "Fans of LeFox") -}}
                 </a>
-                <div class="pt-3">{{ $description }}</div>
-            </div>
-            <div class="col-md-2 small">&nbsp</div>
+                <div class="pt-3"><p>{{ $description }}</p></div>
 
-            {{- range $menu := $menus -}}
-                <div class="col-md-2 col-4 pt-5 pt-md-0">
+                {{- range $menu := $menus -}}
                     <div class="fs-md-5 fs-6 fw-bold footer-muted">{{ .Name }}</div>
                     {{- range .Children -}}
                         <div class="py-1">
                             {{- partial "assets/navbar-item.html" (dict "menu" . "page" $page "class" "link-bg-footer") -}}
                         </div>
                     {{- end -}}
-                </div>
-            {{- end -}}
+                {{- end -}}
+            </div>
+            <div class="col-md-4 small">&nbsp;</div>
+            <div class="col-md-4 small">
+                <div class="ml-embedded" data-form="ZO2psd"></div>
+            </div>
         </div>
     </div>
 </footer>
+
+<!--
+Fans of LeFox © 1996 by Mika A. Epstein.
+All original literary content on this site is licensed CC BY-NC-SA 4.0.
+
+Excluded from this license are the sections /news and /transcript
+
+To view a copy of this license, visit
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+All attempts have been made to properly attribute images.
+-->

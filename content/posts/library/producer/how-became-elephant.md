@@ -1,7 +1,7 @@
 ---
 title: "How I Became an Elephant"
 author: "Mika A. Epstein"
-layout: producer
+layout: library
 categories: ["Filmography"]
 tags: ["producer", "movies"]
 genre: Documentary

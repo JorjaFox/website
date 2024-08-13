@@ -35,8 +35,8 @@ The episode ends with the Undersheriff telling Max that IA is taking the case to
 
 ## Quotes
 
-**Sara:** Robert Gomez. Silver-fox. Nice complextion. I like him.
-**Grissom:** What? As a suspect, I hope.
+**Sara:** Robert Gomez. Silver-fox. Nice complextion. I like him.\
+**Grissom:** What? As a suspect, I hope.\
 **Sara:** Very funny.
 
 - - -

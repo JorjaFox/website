@@ -46,5 +46,5 @@ Later, Sara and Finn go over Paul's history, learning about his less than honora
 
 ## Quotes
 
-**Archer** I didn't do it for me.
+**Archer** I didn't do it for me.\
 **Sara:** Oh let me guess. This is the part where you argue for father of the year?

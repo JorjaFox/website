@@ -30,5 +30,5 @@ Sara is a little aghast at DB using his own daughter for bait.
 
 ## Quotes
 
-**Sara Sidle** You came close, DB. The greater good. Brisco's dead and Winthrope's on the run, a fugitive. You can plaster his face everywhere. Freeze his accounts. You're in the driver's seat.
+**Sara Sidle** You came close, DB. The greater good. Brisco's dead and Winthrope's on the run, a fugitive. You can plaster his face everywhere. Freeze his accounts. You're in the driver's seat.\
 **DB Russell** Then why doesn't it feel like that?

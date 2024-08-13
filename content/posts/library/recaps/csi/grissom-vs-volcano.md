@@ -32,5 +32,5 @@ Sara and Warrick discover that the singer's wife committed suicide. During the i
 
 - - -
 
-**Warrick:** Which side do you want?
+**Warrick:** Which side do you want?\
 **Sara:** I'll take the west wing.

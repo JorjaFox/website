@@ -36,12 +36,12 @@ The killer confesses; however Sara admits she lost her perspective and got too c
 
 ## Quotes
 
-**Sara:** My date got canceled.
+**Sara:** My date got canceled.\
 **Grissom:** I'm sure he had a good excuse.
 
 - - -
 
-**Nick:** It was good that you were there for her, Sara. She didn't have to die alone.
+**Nick:** It was good that you were there for her, Sara. She didn't have to die alone.\
 **Sara:** _(sad, quiet)_ We usually show up too late to meet the victim.
 
 - - -
@@ -50,7 +50,7 @@ The killer confesses; however Sara admits she lost her perspective and got too c
 
 - - -
 
-**Hodges:** You ever do the right thing and still feel guilty about it?
+**Hodges:** You ever do the right thing and still feel guilty about it?\
 **Sara:** Yeah. _(pause)_ Sucks, doesn't it.
 
 - - -

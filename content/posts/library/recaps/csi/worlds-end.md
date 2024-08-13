@@ -31,5 +31,5 @@ Sara catches Lindsey reviewing the case files and talks to her. Lindsey is sympa
 
 ## Quotes
 
-**Brass:** You'd rather deliver notification to next of kin [...]? That doesn't sound like the down and dirty Sara I used to know.
+**Brass:** You'd rather deliver notification to next of kin [...]? That doesn't sound like the down and dirty Sara I used to know.\
 **Sara:** I like to see where haters come from.

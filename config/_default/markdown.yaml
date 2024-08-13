@@ -1,9 +1,3 @@
-goldmark:
-  renderer:
-    unsafe: true
-  parser:
-    attribute:
-      block: true
 tableOfContents:
   endLevel: 3
   ordered: false

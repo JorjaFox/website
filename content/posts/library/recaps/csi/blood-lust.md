@@ -28,15 +28,15 @@ An all-hands case, it seems. Sara is pulled away from a required forensics anthr
 
 ## Quotes
 
-**Sara:** You know you pulled me away from a forensic anthropology seminar, right? It's required. It's part of the continuing education program.
-**Grissom:** Well, I'm sorry, but everyone seems to have something to do today. ... I need you.
+**Sara:** You know you pulled me away from a forensic anthropology seminar, right? It's required. It's part of the continuing education program.\
+**Grissom:** Well, I'm sorry, but everyone seems to have something to do today. ... I need you.\
 **Sara:** _(long pause, ending with a smile)_ How can I help?
 
 - - -
 
-**Warrick:** You think it was racially motivated?
-**Sara:** Yeah, I do. White mob, white kid, dark-skinned cabbie -- I don't like the math.
-**Warrick:** Yeah. We got to wait for the science, don't we?
+**Warrick:** You think it was racially motivated?\
+**Sara:** Yeah, I do. White mob, white kid, dark-skinned cabbie -- I don't like the math.\
+**Warrick:** Yeah. We got to wait for the science, don't we?\
 **Sara:** I'm trying.
 
 - - -
@@ -45,8 +45,8 @@ An all-hands case, it seems. Sara is pulled away from a required forensics anthr
 
 - - -
 
-**Grissom:** How much do you weigh?
-**Warrick:** That's between me and my trainer.
-**Grissom:** Do I have to get a scale?
-**Warrick:** A buck 95, give or take a donut.
+**Grissom:** How much do you weigh?\
+**Warrick:** That's between me and my trainer.\
+**Grissom:** Do I have to get a scale?\
+**Warrick:** A buck 95, give or take a donut.\
 **Sara:** Don't even ask, I'm not telling you.

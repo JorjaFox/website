@@ -48,7 +48,7 @@ Sara goes to the hospital to tell the unconscious victim that they found the ass
 
 - - -
 
-**Nick:** Did anyone ever tell you that you have a nice singing voice?
+**Nick:** Did anyone ever tell you that you have a nice singing voice?\
 **Sara:** Yeah, if you like chalk on boards.
 
 - - -

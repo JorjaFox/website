@@ -63,5 +63,5 @@ Not a stand out Sara episode, the one showed her doing what she does best: being
 
 - - -
 
-**Sara:** You know Greg, technically that makes you a cannibal. Grissom would be so proud.
+**Sara:** You know Greg, technically that makes you a cannibal. Grissom would be so proud.\
 **Greg:** Grissom would probably taste it on purpose.

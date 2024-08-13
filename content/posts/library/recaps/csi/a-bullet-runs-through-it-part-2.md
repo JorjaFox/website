@@ -40,10 +40,10 @@ Finally, Sara and Nick assist Grissom in reconstructing the shooting of Bell, us
 
 ## Quotes
 
-**Sara:** Sofia? You're on administrative leave.
-**Curtis:** I know.
-**Sara:** You should not be in this building.
-**Curtis:** I was just talking to a friend. If I can't talk to a friend, who the hell am I supposed to talk to?
-**Sara:** Any friend outside the department.
-**Curtis:** And how many friends outside of work do you have, Sara? Maybe I should go talk to my mother. Oh, no, sorry. I forgot. She's a cop, too.
+**Sara:** Sofia? You're on administrative leave.\
+**Curtis:** I know.\
+**Sara:** You should not be in this building.\
+**Curtis:** I was just talking to a friend. If I can't talk to a friend, who the hell am I supposed to talk to?\
+**Sara:** Any friend outside the department.\
+**Curtis:** And how many friends outside of work do you have, Sara? Maybe I should go talk to my mother. Oh, no, sorry. I forgot. She's a cop, too.\
 **Sara:** I can recommend a departmental psychologist.

@@ -33,28 +33,28 @@ Sara and Catherine get pulled off the serial killer case, and are given the chor
 
 ## Quotes
 
-**Catherine:** Whoa, this isn't half bad for college kids.
-**Sara:** Yeah. Why live in a one-room flea bag when you can pool your resources and live like this.
-**Catherine:** Hey, how 'bout it: You, me, Warrick, Nick, Grissom...
+**Catherine:** Whoa, this isn't half bad for college kids.\
+**Sara:** Yeah. Why live in a one-room flea bag when you can pool your resources and live like this.\
+**Catherine:** Hey, how 'bout it: You, me, Warrick, Nick, Grissom...\
 **Sara:** _(shakes her head)_ Oh, ew, no... not Grissom.
 
 - - -
 
-**Catherine:** It's raining man juice?
+**Catherine:** It's raining man juice?\
 **Sara:** Hallelujah?
 
 - - -
 
-**Sara:** How do you get paint on the inside of your clothes?
-**Catherine:** Rubs off your chest. Oh, what kind of guy paints his chest?
-**Sara:** Performance artist? A clown maybe?
-**Catherine:** _(smiling)_ Sports freak.
+**Sara:** How do you get paint on the inside of your clothes?\
+**Catherine:** Rubs off your chest. Oh, what kind of guy paints his chest?\
+**Sara:** Performance artist? A clown maybe?\
+**Catherine:** _(smiling)_ Sports freak.\
 **Sara:** _(frowns, not understanding)_
 
 - - -
 
-**Sara:** What tipped you to the ring?
-**Catherine:** Jaws.
+**Sara:** What tipped you to the ring?\
+**Catherine:** Jaws.\
 **Sara:** Peter Benchley's Jaws?
 
 - - -

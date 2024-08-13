@@ -34,29 +34,29 @@ Sara, Nick and Grissom investigate a kidnapping, once Grissom realizes (from evi
 
 - - -
 
-**Grissom:** _(touches Sara's cheek)_ You okay?
+**Grissom:** _(touches Sara's cheek)_ You okay?\
 **Sara:** It never ceases to amaze me what people do to each other.
 
 - - -
 
-**Grissom:** You have to see the birthday present I got for your daughter.
-**Sara:** What's the rule? How long do I have to be here before I start kicking in for gifts?
+**Grissom:** You have to see the birthday present I got for your daughter.\
+**Sara:** What's the rule? How long do I have to be here before I start kicking in for gifts?\
 **Catherine:** _(snidely)_ When the spirit moves you, Sara. So in your case, I guess, never.
 
 - - -
 
-**Sara:** _(smiles)_ I keep trying to be your star pupil.
+**Sara:** _(smiles)_ I keep trying to be your star pupil.\
 **Grissom:** Sara, that was a seminar. This is real.
 
 - - -
 
-**Sara:** Keep that. You might learn something.
+**Sara:** Keep that. You might learn something.\
 **Nick:** Stop flirting with me.
 
 - - -
 
-**Sara:** Grissom, can you come tape me up?
-**Grissom:** I love my work.
+**Sara:** Grissom, can you come tape me up?\
+**Grissom:** I love my work.\
 **Catherine:** It shows.
 
 - - -

@@ -38,8 +38,8 @@ Working a sex crime case while celebrating her anniversary long distance does no
 
 ## Quotes
 
-**Grissom:** *[Voicemail]* This is Gil Grissom. I'm unable to take your call, please leave a message.
-**Sara:** *[To her phone]* Hello, Gilbert. Happy Anniversary. I hope you're out there celebrating. And it's official, time differences really suck. Look, I miss you. I'm going to try to call you back later. It's been a while, you know, since we really caught up. Love you.
-**Russel:** *[To his phone]* ... nah, I'm taking good care of myself. Matter of fact, I had leftover pizza for breakfast... I'm kidding honey! ... I know you're needed up there, but I need you down here, too... Love you too, sweetheart. Bye bye.
-**Sara:** Welcome to the joys of long distance relationships.
+**Grissom:** *[Voicemail]* This is Gil Grissom. I'm unable to take your call, please leave a message.\
+**Sara:** *[To her phone]* Hello, Gilbert. Happy Anniversary. I hope you're out there celebrating. And it's official, time differences really suck. Look, I miss you. I'm going to try to call you back later. It's been a while, you know, since we really caught up. Love you.\
+**Russel:** *[To his phone]* ... nah, I'm taking good care of myself. Matter of fact, I had leftover pizza for breakfast... I'm kidding honey! ... I know you're needed up there, but I need you down here, too... Love you too, sweetheart. Bye bye.\
+**Sara:** Welcome to the joys of long distance relationships.\
 **Russel:** I don't know how you do it...

@@ -34,8 +34,8 @@ Sara hands off 20 rolls of film to be processed, then finds an earring backing o
 
 - - -
 
-**Sara:** Oops! Watch it! Evidence.
-**Grissom:** Where'd you get it?
+**Sara:** Oops! Watch it! Evidence.\
+**Grissom:** Where'd you get it?\
 **Sara:** Cracker box. It was all stuck together, muckity-muck. I don't want to ruin any potential prints, but I saw this TV dinner commercial and it hit me. I'm going to put it in the freezer!
 
 - - -

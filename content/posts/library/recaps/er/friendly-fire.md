@@ -29,6 +29,6 @@ Our senior ER resident, Maggie Doyle, gives the new resident, Anna, the 'good' c
 
 ## Quotes
 
-**Maggie:** _(To Anna as she leaves)_ I love your hair.
-**Anna:** _(To Carter)_ What was that about?
+**Maggie:** _(To Anna as she leaves)_ I love your hair.\
+**Anna:** _(To Carter)_ What was that about?\
 **Carter:** Nothing.

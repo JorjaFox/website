@@ -38,8 +38,8 @@ Sara leaves Vegas shortly thereafter.
 
 ## Quotes
 
-**Sara:** Maybe we should go away for a while.
-**Grissom:** Can't. The lab is so short. Maybe you could stay.
+**Sara:** Maybe we should go away for a while.\
+**Grissom:** Can't. The lab is so short. Maybe you could stay.\
 **Sara:** I can't stay here. It'd be nice to take a trip. Get on the _Sea Shepherd._ Go to the Galapagos. We could literally walk in the steps of Darwin.
 
 - - -

@@ -36,14 +36,14 @@ In the end, Sara moves to the Swing shift, so she's no longer under Grissom's su
 
 ## Quotes
 
-**Ecklie:** So you must know where he is.
+**Ecklie:** So you must know where he is.\
 **Sara:** Actually, I don't.
 
 - - -
 
-**Ecklie:** When did you begin your relationship?
-**Sara:** We've always had a relationship.
-**Ecklie:** I think you know what I mean -- when did the two of you become intimate?
+**Ecklie:** When did you begin your relationship?\
+**Sara:** We've always had a relationship.\
+**Ecklie:** I think you know what I mean -- when did the two of you become intimate?\
 **Sara:** Two years ago. I think it was on a Sunday.
 
 - - -

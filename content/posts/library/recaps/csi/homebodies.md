@@ -36,5 +36,5 @@ Sara works the second break-in, and is affected when she discovers that the daug
 
 - - -
 
-**Nick:** But the busboy, Kelly James -- not only went to the same high school, but graduated from the same juvie center.
+**Nick:** But the busboy, Kelly James -- not only went to the same high school, but graduated from the same juvie center.\
 **Sara:** It's always nice when they come out worse than when they went in.

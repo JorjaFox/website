@@ -36,11 +36,11 @@ Sara processes the alley where the second body walks away. She and Ray go to tal
 
 ## Quotes
 
-**Sara:** Doctor, are you saying you conducted re-animation experiments at Stonewall?
-**Dr. Aden** What's your clearance, soldier?
+**Sara:** Doctor, are you saying you conducted re-animation experiments at Stonewall?\
+**Dr. Aden** What's your clearance, soldier?\
 **Sara:** Uh, about 5'9"?
 
 - - -
 
-**Langston:** You ever see the movie *Altered States*?
+**Langston:** You ever see the movie *Altered States*?\
 **Sara:** Oh yeah. My mom took me. She found it therapeutic, calming. Tells you everything, huh?

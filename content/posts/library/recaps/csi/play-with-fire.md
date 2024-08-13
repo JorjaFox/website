@@ -32,13 +32,13 @@ Sara follows Grissom around the lab, curious, which results in her being caught 
 
 ## Quotes
 
-**Nick:** Yeah, they passed her around like a party favor.
+**Nick:** Yeah, they passed her around like a party favor.\
 **Sara:** Actually ... she passed around herself.
 
 - - -
 
-**Sara:** Would you like to have dinner with me?
-**Grissom:** _pause_ No ...
-**Sara:** Why not? Let's- Let's have dinner. Let's see what happens.
-**Grissom:** Sara ... I don't know what to do about this.
+**Sara:** Would you like to have dinner with me?\
+**Grissom:** _pause_ No ...\
+**Sara:** Why not? Let's- Let's have dinner. Let's see what happens.\
+**Grissom:** Sara ... I don't know what to do about this.\
 **Sara:** I do. _looks at Grissom for a moment_ You know, by the time you figure it out, you really could be too late. _Sidle leaves, Grissom watches her, a little surprised_

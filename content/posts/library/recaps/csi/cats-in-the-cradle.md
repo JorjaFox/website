@@ -20,9 +20,9 @@ Grissom and Catherine investigate the stabbing death of an 80-year-old woman who
 
 ## Quotes
 
-**Nick:** Wow. You look ...
-**Sara:** Happy?
-**Nick:** Smug.
+**Nick:** Wow. You look ...\
+**Sara:** Happy?\
+**Nick:** Smug.\
 **Sara:** I got a perfect print.
 
 - - -

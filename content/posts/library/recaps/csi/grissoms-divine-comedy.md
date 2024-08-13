@@ -32,6 +32,6 @@ In a deleted scene, Catherine comes over to prep Grissom for the court visitatio
 
 _From a deleted scene_
 
-**Catherine:** How long have you and Sara been together?
-**Grissom:** ... I gotta go, thanks.
+**Catherine:** How long have you and Sara been together?\
+**Grissom:** ... I gotta go, thanks.\
 **Catherine:** And to think, all these years I thought you were a lonely workaholic.

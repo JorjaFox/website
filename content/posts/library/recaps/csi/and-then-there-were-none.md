@@ -36,18 +36,18 @@ Sara and Catherine check out a convenience store robbery / murder in far away Ca
 
 - - -
 
-**Sara:** You got a mirror?
+**Sara:** You got a mirror?\
 **Catherine:** Since when do you care about your appearance? _(pauses, noting Sara's reaction)_ At a crime scene.
 
 - - -
 
-**Phillips:** I can smell the body. Where is it?
-**Sara:** _(pops up from behind the counter)_ Hey, David. I wasn't touching it.
+**Phillips:** I can smell the body. Where is it?\
+**Sara:** _(pops up from behind the counter)_ Hey, David. I wasn't touching it.\
 **Phillips:** I know you better than that.
 
 - - -
 
-**Catherine:** We ID'd one from the ...open/closed_ sign.
-**Sara:** Great.
-**Catherine:** No. Not so great. State trooper.
+**Catherine:** We ID'd one from the ...open/closed_ sign.\
+**Sara:** Great.\
+**Catherine:** No. Not so great. State trooper.\
 **Sara:** You've _got_ to be kidding me. ...Officer _Moron_ contaminated the scene.

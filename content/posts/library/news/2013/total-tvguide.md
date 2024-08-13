@@ -28,7 +28,6 @@ Well, the bigger surprise for me was that I returned to the show! I came back in
 
 Well, the biggest compliment is that last year we were the most popular show in the world again. So I have to say a big thank you to all our overseas fans!
 
-**You've also starred in *The West Wing* but your first big break came in *ER*. What was it like landing the role of Dr Maggie Doyle?
-**
+**You've also starred in *The West Wing* but your first big break came in *ER*. What was it like landing the role of Dr Maggie Doyle?**
 
 It was the first time that people were really going to see my work. So I was scared senseless. On the night I got the job, I honestly almost drove to Mexico, because I was so terrified. I nearly told them I didn't want to do it. But it was a great honour for me to work with people who were so talented.

@@ -30,5 +30,5 @@ Doyle's patient is obviously a battered wife, even though she claims her broken 
 ## Quotes
 
 **Jeanie:** '[puts her heirloom star on the office tree.]'
-**Maggie:** You should put it on your family tree.
+**Maggie:** You should put it on your family tree.\
 **Jeanie:** I just did.

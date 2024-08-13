@@ -38,8 +38,8 @@ Sara and Catherine experiment with the ride and a dummy, and realize that only t
 
 - - -
 
-**Sara:** _(grinning)_
-**Catherine:** What?
-**Sara:** This is fun.
-**Catherine:** As opposed to what?
+**Sara:** _(grinning)_\
+**Catherine:** What?\
+**Sara:** This is fun.\
+**Catherine:** As opposed to what?\
 **Sara:** A more scientific approach.

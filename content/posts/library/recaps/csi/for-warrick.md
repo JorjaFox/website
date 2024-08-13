@@ -36,11 +36,11 @@ Sara arrives a few hours after Warrick has been killed and waits for Grissom in 
 
 - - -
 
-**Sara:** You know he loved you.
+**Sara:** You know he loved you.\
 **Grissom:** And I loved him.
 
 - - -
 
-**Sara:** You know, after being in so many victims' houses, I never left the house without making the bed and taking out the trash. In case I didn't come home.
-**Greg:** What about now?
+**Sara:** You know, after being in so many victims' houses, I never left the house without making the bed and taking out the trash. In case I didn't come home.\
+**Greg:** What about now?\
 **Sara:** Since I left Vegas, I don't do that anymore.

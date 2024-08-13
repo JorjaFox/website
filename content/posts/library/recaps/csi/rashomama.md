@@ -38,9 +38,9 @@ There is a duality to Sara in this episode -- she goes from pessimistic and nega
 
 ## Quotes
 
-**Sara:** _(holding up lingerie against herself for size)_ Just in time. I need your hands.
-**Nick:** I thought you'd never ask.
-**Sara:** I need you to reprint the bumper, since the tape lifts were stolen.
+**Sara:** _(holding up lingerie against herself for size)_ Just in time. I need your hands.\
+**Nick:** I thought you'd never ask.\
+**Sara:** I need you to reprint the bumper, since the tape lifts were stolen.\
 **Nick:** Oh.
 
 - - -
@@ -53,7 +53,7 @@ There is a duality to Sara in this episode -- she goes from pessimistic and nega
 
 - - -
 
-**Nick:** Should I write down flirting?
+**Nick:** Should I write down flirting?\
 **Sara:** I was printing. _He_ was flirting.
 
 - - -

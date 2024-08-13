@@ -8,6 +8,43 @@ Due to unforeseen circumstances, we've been forced to change the site.
 * [Theme: Hinode](https://gethinode.com)
 * [Mod: BS5 Lightbox](https://github.com/JorjaFox/mod-bs5-lightbox)
 
+## Content
+
+All content is located in the `/content/` folder and are separated into subdivisions as follows.
+
+### `/assets/`
+
+All javascripts, css, and images. this includes 'gallery' images.
+
+### `/data/`
+
+Formatted data (like a database).
+
+* `filmography.json’ - acting, writing, self, etc.
+* `/episodes/*` - All the episodes for the TV shows, with scores, excerpts, and production information.
+
+### `/posts/`
+
+All the `*.md` files of pure content.
+
+* `/blog/` - blog posts
+* `/faq/` - frequently asked questions, but also stored redirects like the gallery or wiki
+* `/library/` - the library/wiki of all historical information
+* `/tos/` - terms of use and privacy information
+
+#### `/library/`
+
+* `/actor/` - all acting roles
+* `/advocacy/` - all advocacy work
+* `/biographies/` - all bios from all sources (movies, TV, etc)
+* `/news/` - news articles, separated by year
+* `/producer/` - all work done as a producer
+* `/recaps/` - TV episode recaps
+* `/self/` - appearances in media as herself
+* `/transcripts/` - interviews, online and off, sorted by year
+* `/writer/` - work done as a writer
+
+
 ## Installation
 
 * Checkout from Github

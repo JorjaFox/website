@@ -32,8 +32,14 @@ sections:
   blog:
     reference: "More Posts"
     sort: "date"
+    layout: "card"
+    style: "border-0 shadow card-zoom card-body-margin"
     reverse: true
     title: "Blog Posts"
+    cols: 3
+    padding: "3"
+    header: "full"
+    footer: "none"
 
 schema:
   name: "Fans of Lefox"

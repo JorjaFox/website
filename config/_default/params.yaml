@@ -17,6 +17,7 @@ favicon:
 
 home:
   sections: [ "blog" ]
+  style: "gradient-featured"
   feature:
     width: 6
     color: "primary"

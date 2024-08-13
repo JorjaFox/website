@@ -7,12 +7,15 @@ actions:
   about:
     url: "/faq/jorja/"
     title: "About Jorja"
+    weight: 1
   twitter:
     url: "https://twitter.com/jorjafoxofficia"
     icon: "fab square-x-twitter"
+    weight: 2
   facebook:
     url: "https://www.facebook.com/JorjaFoxworldwide"
     icon: "fab facebook"
+    weight: 3
 ---
 
 Jorja has an extensive [filmography](/library/filmography/), but most people know her from _CSI: Crime Scene Investigation_, where she played [Sara Sidle](/library/actor/csi/) for 14 seasons.

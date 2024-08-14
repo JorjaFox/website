@@ -1,13 +1,13 @@
 ---
 title: Shape Magazine
 date: 2001-10-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "The Hot 20: CSI's Foxy Lady"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Shape Magazine
 newsurl: http://www.shapemag.com
 

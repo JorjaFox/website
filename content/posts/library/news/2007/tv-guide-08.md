@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2007-11-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "So Long, Sara  "
-newsauthor: Staff / Mike Flaherty
+newsreporter: Staff / Mike Flaherty
 newssource: TV Guide
 newsurl: http://www.tvguide.com
 

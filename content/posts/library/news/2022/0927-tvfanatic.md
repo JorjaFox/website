@@ -1,12 +1,12 @@
 ---
 title: "TV Fanatic"
 date: 2022-09-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
 categories: ["Articles", "News"]
 newstitle: "CSI: Vegas Reveals What Happened to Sara Sidle and Gil Grissom"
-newsauthor: "Paul Dailly"
+newsreporter: "Paul Dailly"
 newssource: "TV Fanatic"
 newsurl: https://www.tvfanatic.com/2022/09/csi-vegas-reveals-what-happened-to-sara-sidle-and-gil-grissom/
 ---

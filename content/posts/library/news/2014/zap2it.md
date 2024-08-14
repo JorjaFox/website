@@ -1,13 +1,13 @@
 ---
 title: Zap2It
 date: 2014-10-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "'CSI' justifies intense Ebola fears with rural outbreaks"
-newsauthor: Whitney McIntosh
+newsreporter: Whitney McIntosh
 newssource: Zap2It
 newsurl: http://www.zap2it.com/blogs/csi_season_15_episode_3_ebola-2014-10
 

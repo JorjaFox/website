@@ -1,6 +1,6 @@
 ---
 title: Matters of the Heart
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2005-10-10
 interviewurl: http://www.cbs.com

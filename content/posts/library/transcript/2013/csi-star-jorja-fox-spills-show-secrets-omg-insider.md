@@ -1,6 +1,6 @@
 ---
 title: 'CSI Star Jorja Fox Spills Show Secrets - OMG Insider'
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-02-20
 interviewurl: http://omg.yahoo.com/video/csi-star-jorja-fox-spills-200000745.html

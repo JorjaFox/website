@@ -1,13 +1,13 @@
 ---
 title: Digital Spy
 date: 2004-07-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Two top 'CSI' actors fired"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Digital Spy
 newsurl: http://www.digitalspy.co.uk
 

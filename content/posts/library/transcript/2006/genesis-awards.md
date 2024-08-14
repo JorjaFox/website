@@ -1,6 +1,6 @@
 ---
 title: Genesis Awards
-author: David Masters
+transcriber: David Masters
 interviewurl: http://www.wireimage.com
 date: 2006-03-18
 layout: transcript

@@ -1,13 +1,13 @@
 ---
 title: TV Guide
 date: 2004-07-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "BACK ON THE SCENE"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
 newsurl: http://tvguide.com
 

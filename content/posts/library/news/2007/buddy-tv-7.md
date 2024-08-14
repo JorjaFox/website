@@ -1,14 +1,14 @@
 ---
 title: Buddy TV
 date: 2007-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox Speaks about Leaving CSI"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/
 

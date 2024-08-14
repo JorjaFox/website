@@ -1,14 +1,14 @@
 ---
 title: RT Guide
 date: 2009-01-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "CSI Special  "
-newsauthor: Janice Butler
+newsreporter: Janice Butler
 newssource: RT Guide
 newsurl: http://www.rteguide.ie
 

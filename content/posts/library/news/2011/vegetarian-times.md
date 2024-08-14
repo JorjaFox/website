@@ -1,14 +1,14 @@
 ---
 title: Vegetarian Times (01 December 2011)
 date: 2011-01-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "[Q&A] Jorja On Our Mind "
-newsauthor: Rachel Dowd
+newsreporter: Rachel Dowd
 newssource: Vegetarian Times
 newsurl: http://www.vegetariantimes.com/
 

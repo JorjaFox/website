@@ -1,14 +1,14 @@
 ---
 title: CBS4
 date: 2009-09-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Sara Returns For Tenth Season Of CSI On CBS  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: CBS4
 newsurl: http://cbs4.com/entertainment/CBS.Season.premiere.2.1205834.html
 

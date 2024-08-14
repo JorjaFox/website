@@ -1,13 +1,13 @@
 ---
 title: Channels
 date: 2001-12-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Jorja Peaches
-newsauthor: Staff
+newsreporter: Staff
 newssource: Channels
 newsurl: http://channels.com
 

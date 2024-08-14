@@ -1,14 +1,14 @@
 ---
 title: The Star
 date: 2005-09-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Procter prospers"
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Star
 newsurl: http://www.star-ecentral.com/
 

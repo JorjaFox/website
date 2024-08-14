@@ -1,13 +1,13 @@
 ---
 title: Box Off
 date: 1999-01-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: Review
-newsauthor: Luisa F. Ribeiro
+newsreporter: Luisa F. Ribeiro
 newssource: Box Off
 newsurl: http://www.boxoff.com/scripts/fiw.dll?GetReview?&where=ID&terms=4626
 

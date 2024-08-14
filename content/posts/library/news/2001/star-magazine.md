@@ -1,13 +1,13 @@
 ---
 title: Star Magazine
 date: 2001-02-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Jorja Fox likes to Rock and Roll
-newsauthor: Staff
+newsreporter: Staff
 newssource: Star Magazine
 newsurl: http://www.starmagazine.com
 

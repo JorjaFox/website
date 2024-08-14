@@ -1,6 +1,6 @@
 ---
 title: 'Wowow TV - Japan'
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-06-29
 interviewurl: http://www.wowow.co.jp/

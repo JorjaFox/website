@@ -1,6 +1,6 @@
 ---
 title: Larry King Weekend
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-05-18
 interviewurl: http://www.cnn.com/TRANSCRIPTS/0205/18/lklw.00.html

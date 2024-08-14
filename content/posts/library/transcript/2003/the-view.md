@@ -1,6 +1,6 @@
 ---
 title: The View
-author: David Masters
+transcriber: David Masters
 layout: transcript
 date: 2003-02-20
 interviewurl: http://abc.go.com/daytime/theview

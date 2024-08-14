@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2007-05-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Staying Alive: Jorja Fox in Talks with CSI"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide (online)
 newsurl: http://community.tvguide.com
 

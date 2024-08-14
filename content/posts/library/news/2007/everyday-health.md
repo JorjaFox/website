@@ -2,14 +2,14 @@
 title: Everyday Health
 
 date: 2007-04-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Hollywood's Healthiest Snacks  "
-newsauthor: Gerri Miller
+newsreporter: Gerri Miller
 newssource: Everyday Health
 newsurl: http://www.everydayhealth.com/photogallery/starsecrets/favoritehealthysnack.aspx#/slide-7
 

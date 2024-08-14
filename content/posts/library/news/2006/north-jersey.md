@@ -1,14 +1,14 @@
 ---
 title: North Jersey
 date: 2006-07-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "The Scoop  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: North Jersey
 newsurl: http://www.bergen.com/
 

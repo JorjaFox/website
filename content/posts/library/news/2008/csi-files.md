@@ -1,14 +1,14 @@
 ---
 title: CSI Files
 date: 2008-03-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Allen MacDonald  "
-newsauthor: Kristine Huntley
+newsreporter: Kristine Huntley
 newssource: CSI Files
 newsurl: http://www.csifiles.com/interviews/allen_macdonald.shtml
 

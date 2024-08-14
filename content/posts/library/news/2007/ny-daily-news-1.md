@@ -1,14 +1,14 @@
 ---
 title: NY Daily News
 date: 2007-09-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' makes strong case to be 'Scene'"
-newsauthor: NY Daily News
+newsreporter: NY Daily News
 newssource: NY Daily News
 newsurl: http://www.nydailynews.com/
 

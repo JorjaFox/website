@@ -1,6 +1,6 @@
 ---
 title: Pulse
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2004-02-13
 interviewurl: http://www.pulse.org/

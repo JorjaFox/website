@@ -1,7 +1,7 @@
 ---
 title: "TEAPSPA Live Broadcast"
 date: 2021-11-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://twitter.com/i/broadcasts/1ZkJzbBjRPqJv
 categories: ["Interviews"]

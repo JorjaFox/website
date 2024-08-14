@@ -1,13 +1,13 @@
 ---
 title: Dallas Morning News
 date: 2000-11-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newstitle: "TV Q&A: Did 'CSI' star ever feel 'Lonesome'?"
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Dallas Morning News
 newsurl: http://www.desertnews.com
 

@@ -1,14 +1,14 @@
 ---
 title: Media Post
 date: 2005-10-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Scripps To Debut TV Program Online"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Media Post
 newsurl: http://publications.mediapost.com/
 

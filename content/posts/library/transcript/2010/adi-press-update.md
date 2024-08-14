@@ -1,6 +1,6 @@
 ---
 title: ADI Press Update
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-05-28
 interviewurl: http://adirescuediary.com/

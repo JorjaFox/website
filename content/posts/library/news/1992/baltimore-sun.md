@@ -1,13 +1,13 @@
 ---
 title: The Baltimore Sun
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1992/:title/
 categories: ["Articles", "News"]
 tags: ["1992"]
 newstitle: "'Summer Stories' offers characters worth watching"
 date: 1992-03-19
-newsauthor: Steve McKerrow
+newsreporter: Steve McKerrow
 newssource: The Baltimore Sun
 newsurl: http://articles.baltimoresun.com/1992-03-19/features/1992079104_1_summer-stories-mall-miniseries
 ---

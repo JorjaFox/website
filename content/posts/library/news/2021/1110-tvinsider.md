@@ -1,12 +1,12 @@
 ---
 title: "TV Insider"
 date: 2021-11-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas’ Star Jorja Fox on the Latest Suspect: Sara ‘Thinks Maybe This Is It’"
-newsauthor: "Meredith Jacobs"
+newsreporter: "Meredith Jacobs"
 newssource: "TV Insider"
 newsurl: https://www.tvinsider.com/1021431/csi-vegas-episode-6-anson-wix-suspect-evidence-tampering-jorja-fox/
 ---

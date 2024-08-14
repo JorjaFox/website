@@ -1,7 +1,7 @@
 ---
 title: Glittarazi
 date: 2011-11-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]

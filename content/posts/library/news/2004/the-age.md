@@ -1,13 +1,13 @@
 ---
 title: The Age
 date: 2004-12-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Beauty and crime?"
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Age
 newsurl: http://www.theage.com.au
 

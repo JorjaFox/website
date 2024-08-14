@@ -1,14 +1,14 @@
 ---
 title: AFP Google News
 date: 2008-04-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Hollywood stars launch video campaign for Myanmar's Suu Kyi  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: AFP Google News
 newsurl: http://afp.google.com/article/ALeqM5gFdVmAQBoMgnUdmzdoHRHKIK2uVg
 

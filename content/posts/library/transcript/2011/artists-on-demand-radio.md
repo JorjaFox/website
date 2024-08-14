@@ -1,7 +1,7 @@
 ---
 title: Artists on Demand Radio
 date: 2011-09-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]

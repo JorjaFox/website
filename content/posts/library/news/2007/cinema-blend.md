@@ -1,14 +1,14 @@
 ---
 title: Cinema Blend
 date: 2007-10-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox Is Definitely Leaving CSI  "
-newsauthor: Kelly West
+newsreporter: Kelly West
 newssource: Cinema Blend
 newsurl: http://www.cinemablend.com/
 

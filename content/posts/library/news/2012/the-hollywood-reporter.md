@@ -1,14 +1,14 @@
 ---
 title: The Hollywood Reporter
 date: 2012-05-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "'CSI's' Jorja Fox Inks New Deal to Return to CBS Drama (Exclusive)  "
-newsauthor: Lesley Goldberg
+newsreporter: Lesley Goldberg
 newssource: The Hollywood Reporter
 newsurl: http://www.hollywoodreporter.com/live-feed/csi-jorja-fox-new-deal-cbs-television-studios-323338
 

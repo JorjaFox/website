@@ -1,14 +1,14 @@
 ---
 title: TV Guide CA
 date: 2007-08-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "The big 'CSI' question -- is Jorja Fox gone?"
-newsauthor: TV Guide CA
+newsreporter: TV Guide CA
 newssource: TV Guide CA
 newsurl: http://entertainment1.sympatico.msn.ca
 

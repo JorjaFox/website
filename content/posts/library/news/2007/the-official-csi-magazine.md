@@ -1,14 +1,14 @@
 ---
 title: The Official CSI Magazine
 date: 2007-11-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Goodbye Sara  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Official CSI Magazine
 newsurl: http://www.titanmagazines.com/app?service=external/Product&sp=l1075&sp=Sen&sp=SUS
 

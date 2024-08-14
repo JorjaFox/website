@@ -1,14 +1,14 @@
 ---
 title: New York Magazine
 date: 2006-12-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "The Year in TV  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: New York Magazine
 newsurl: http://nymag.com/arts/cultureawards/2006/25307/index1.html
 

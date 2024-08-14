@@ -1,13 +1,13 @@
 ---
 title: New York Daily News
 date: 2004-01-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "An Extra special exit"
-newsauthor: Staff
+newsreporter: Staff
 newssource: New York Daily News
 newsurl: http://www.nydailynews.com/
 

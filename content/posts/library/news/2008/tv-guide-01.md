@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2008-04-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: 'Ausiello on "CSI", "Office", "Heroes", "Bones", "Lost" and More!'
-newsauthor: Michael Ausiello
+newsreporter: Michael Ausiello
 newssource: Ask Ausiello
 newsurl: http://www.tvguide.com/Ask-Ausiello/080408
 

@@ -1,14 +1,14 @@
 ---
 title: About.com
 date: 2011-07-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Jorja Fox Returns to CSI Permanently  "
-newsauthor: Rachel Thomas
+newsreporter: Rachel Thomas
 newssource: About.com
 newsurl: http://tvdramas.about.com/b/2011/07/22/jorja-fox-returns-to-csi-permanently.htm
 

@@ -1,6 +1,6 @@
 ---
 title: 'My First Place: Celebrity Style'
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2005-01-01
 interviewurl: http://www.hgtv.com

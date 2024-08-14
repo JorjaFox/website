@@ -1,14 +1,14 @@
 ---
 title: Twitter
 date: 2011-09-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Live CSI Chat (on Twitter)  "
-newsauthor: Carol Mendelsohn
+newsreporter: Carol Mendelsohn
 newssource: Twitter
 newsurl: https://jorjafox.net/2011/tweetcap-of-the-live-csi-chat/
 

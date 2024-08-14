@@ -1,14 +1,14 @@
 ---
 title: USA Today
 date: 2012-09-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "More returning TV series: 'CSI,' 'Bones,' 'Scandal'  "
-newsauthor: Carol Memmott, Bruce Schwartz, Bill Keveny, Brian Truitt
+newsreporter: Carol Memmott, Bruce Schwartz, Bill Keveny, Brian Truitt
 newssource: USA Today
 newsurl: http://www.usatoday.com/life/tv/story/2012/09/14/more-of-falls-returning-tv-shows/57781778/1
 

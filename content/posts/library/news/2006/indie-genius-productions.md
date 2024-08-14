@@ -1,14 +1,14 @@
 ---
 title: Indie Genius Productions
 date: 2006-09-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Convicted Domestic Terrorists to Be Sentenced Today in Landmark Freedom of Speech Case"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Indie Genius Productions
 newsurl: http://www.instyle.com/
 

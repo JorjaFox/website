@@ -1,14 +1,14 @@
 ---
 title: TV Squad
 date: 2007-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "The fate of CSI's Jorja Fox"
-newsauthor: TV Squad
+newsreporter: TV Squad
 newssource: TV Squad
 newsurl: http://www.tvsquad.com/2007/09/28/the-fate-of-csis-jorja-fox/
 

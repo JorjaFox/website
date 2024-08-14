@@ -1,13 +1,13 @@
 ---
 title: USA Today
 date: 2004-07-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "CBS sacks 2 stars in 'CSI' salary flap"
-newsauthor: Staff
+newsreporter: Staff
 newssource: USA Today
 newsurl: http://www.usatoday.com
 

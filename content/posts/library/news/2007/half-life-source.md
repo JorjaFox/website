@@ -1,14 +1,14 @@
 ---
 title: Half-Life Source
 date: 2007-11-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox departs from CSI  "
-newsauthor: Jennifer Hong
+newsreporter: Jennifer Hong
 newssource: Half-Life Source
 newsurl: http://www.halflifesource.com/news/2007/11/14/article10091.htm
 

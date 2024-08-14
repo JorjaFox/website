@@ -1,14 +1,14 @@
 ---
 title: CBC
 date: 2007-10-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Actress Jorja Fox to leave top-rated TV series CSI  "
-newsauthor: CBC News
+newsreporter: CBC News
 newssource: CBC
 newsurl: http://www.cbc.ca
 

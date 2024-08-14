@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2007-10-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Fresh Face Joins the Cast of 'CSI'"
-newsauthor: N/A
+newsreporter: N/A
 newssource: TV Guide Magazine
 newsurl: http://www.tvguide.com/
 

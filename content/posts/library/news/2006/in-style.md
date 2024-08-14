@@ -1,14 +1,14 @@
 ---
 title: In Style
 date: 2006-08-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "HOLLYWOOD IS HUNG UP ON MADONNA  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: In Style
 newsurl: http://www.instyle.com/
 

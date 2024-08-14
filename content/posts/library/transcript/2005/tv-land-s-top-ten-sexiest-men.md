@@ -1,6 +1,6 @@
 ---
 title: "TV Land's Top Ten Sexiest Men"
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2005-05-15
 interviewurl: http://www.tvland.com/topten/men.jhtml

@@ -1,12 +1,12 @@
 ---
 title: "Movieweb"
 date: 2023-12-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2023"]
 categories: ["Articles", "News"]
 newstitle: "Where the Cast of CSI: Crime Scene Investigation Is Today"
-newsauthor: "Micaela Pérez Vitale"
+newsreporter: "Micaela Pérez Vitale"
 newssource: "Movieweb"
 newsurl: https://movieweb.com/csi-crime-scene-investigation-cast-today/
 ---

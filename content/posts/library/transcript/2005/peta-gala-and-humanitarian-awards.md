@@ -1,7 +1,7 @@
 ---
 title: PETA Gala and Humanitarian Awards
 date: 2005-09-10
-author: David Masters
+transcriber: David Masters
 layout: transcript
 interviewurl:  http://www.peta.com
 permalink: /transcript/2005/:title/

@@ -1,6 +1,6 @@
 ---
 title: Entertainment Weekly 6th Annual Pre-Emmy Party
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-09-20
 interviewurl: http://www.gettyimages.com.au/detail/video/jorja-fox-at-the-entertainment-weekly-6th-annual-pre-emmy-news-footage/83051710

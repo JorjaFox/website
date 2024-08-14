@@ -1,14 +1,14 @@
 ---
 title: CNN
 date: 2011-11-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Bob Barker touts bill to protect traveling circus animals  "
-newsauthor: Stacey Samuel
+newsreporter: Stacey Samuel
 newssource: CNN
 newsurl: http://www.cnn.com/2011/11/02/politics/barker-circus-animals-bill/
 

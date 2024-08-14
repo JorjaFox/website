@@ -1,12 +1,12 @@
 ---
 title: "TV Fanatic"
 date: 2021-11-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "Jorja Fox Shares Details on Sara & Grissom Romance and David Hodges Case on CSI: Vegas"
-newsauthor: "Laura Nowak"
+newsreporter: "Laura Nowak"
 newssource: "TV Fanatic"
 newsurl: https://www.tvfanatic.com/2021/11/jorja-fox-shares-details-on-sara-and-grissom-romance-and-david-h/
 ---

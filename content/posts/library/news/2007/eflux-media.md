@@ -1,14 +1,14 @@
 ---
 title: EFlux Media
 date: 2007-11-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox Leaves CSI  "
-newsauthor: Jane Ivory
+newsreporter: Jane Ivory
 newssource: eFlux Media
 newsurl: http://www.efluxmedia.com/news\_Jorja\_Fox\_Leaves\_CSI_10711.html
 

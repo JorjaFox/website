@@ -1,14 +1,14 @@
 ---
 title: US Weekly
 date: 2005-01-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Prime-Time's Crime-Fighting Beauties  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: US Weekly
 newsurl: http://www.usweekly.com
 

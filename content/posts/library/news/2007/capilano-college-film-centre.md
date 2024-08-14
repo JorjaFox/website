@@ -1,14 +1,14 @@
 ---
 title: Capilano College Film Centre
 date: 2007-04-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "A day on the back lot of CSI"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Capilano College
 newsurl: http://www.capcollege.bc.ca/programs/film/news.html
 

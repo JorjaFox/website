@@ -1,14 +1,14 @@
 ---
 title: Contact Music
 date: 2006-05-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "FASCINATING FACT 1499  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Contact Music
 newsurl: http://www.contactmusic.com
 

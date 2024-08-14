@@ -1,12 +1,12 @@
 ---
 title: "ET Online"
 date: 2021-09-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "'CSI: Vegas': William Petersen and Jorja Fox on Why They 'Jumped' at Chance to Return"
-newsauthor: "Phillipa Ng"
+newsreporter: "Phillipa Ng"
 newssource: "ET"
 newsurl: https://www.etonline.com/csi-vegas-william-petersen-and-jorja-fox-on-why-they-jumped-at-chance-to-return-171762
 aliases:

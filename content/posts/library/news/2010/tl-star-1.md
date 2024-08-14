@@ -1,14 +1,14 @@
 ---
 title: TeLe Star
 date: 2010-08-23
-author: Angela
+transcriber: Angela
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Les Experts : Jorja Fox dit avoir a resigner.  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: TeLe Star
 newsurl: http://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html
 

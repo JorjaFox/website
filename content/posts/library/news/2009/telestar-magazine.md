@@ -1,14 +1,14 @@
 ---
 title: TeleStar Magazine
 date: 2009-12-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox Interview  "
-newsauthor: CStaff
+newsreporter: CStaff
 newssource: Tele Star
 newsurl: http://blog.telestar.fr/
 

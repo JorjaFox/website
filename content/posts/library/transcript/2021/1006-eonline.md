@@ -1,7 +1,7 @@
 ---
 title: "Jorja Fox Talks 'Creepy' Storyline on 'CSI: Vegas' Sequel"
 date: 2021-10-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.eonline.com/news/1304917/csi-vegas-is-not-your-parents-csi-see-what-the-stars-have-to-say-about-the-sequel-series
 categories: ["Interviews"]

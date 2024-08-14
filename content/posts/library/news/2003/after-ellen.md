@@ -1,13 +1,13 @@
 ---
 title: After Ellen
 date: 2003-03-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Maggie Doyle and the Lesbian-Feminist Connection
-newsauthor: Sarah Warn
+newsreporter: Sarah Warn
 newssource: AfterEllen
 newsurl: http://www.afterellen.com/
 

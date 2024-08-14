@@ -1,14 +1,14 @@
 ---
 title: E! Online
 date: 2007-10-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Breaking! Jorja Fox Confirms Her CSI Departure"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Watch With Kristin
 newsurl: http://www.eonline.com
 

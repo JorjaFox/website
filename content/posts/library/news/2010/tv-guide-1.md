@@ -1,14 +1,14 @@
 ---
 title: TV Guide.com
 date: 2010-07-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Ask Matt: *Damages*' Rescue, Summer Crime Drama, *The Choir* and More!  "
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: TV Guide.com
 newsurl: http://www.tvguide.com/News/Ask-Matt-Damages-1020939.aspx
 

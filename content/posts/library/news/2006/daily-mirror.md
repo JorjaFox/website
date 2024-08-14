@@ -1,14 +1,14 @@
 ---
 title: Daily Mirror
 date: 2006-11-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Is eating meat a crime?  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Daily Mirror
 newsurl: http://bond.lanesystems.com
 

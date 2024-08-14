@@ -1,14 +1,14 @@
 ---
 title: Radio Times
 date: 2013-06-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Series 13 - 15. Forget Me Not"
-newsauthor: David Butcher
+newsreporter: David Butcher
 newssource: Radio Times
 newsurl: http://www.radiotimes.com/episode/wxkzw/csi-crime-scene-investigation-series-13-15-forget-me-not
 

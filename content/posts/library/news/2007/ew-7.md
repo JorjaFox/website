@@ -1,14 +1,14 @@
 ---
 title: EW.com
 date: 2007-10-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox: Why I Quit 'CSI'  "
-newsauthor: Lynette Rice
+newsreporter: Lynette Rice
 newssource: EW
 newsurl: http://www.ew.com/ew/article/0,,20152746,00.html
 

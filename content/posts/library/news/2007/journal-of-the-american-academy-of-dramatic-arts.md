@@ -1,14 +1,14 @@
 ---
 title: Journal of The American Academy of Dramatic Arts
 date: 2007-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Interview: Jorja Fox"
-newsauthor: Kathleen Germann
+newsreporter: Kathleen Germann
 newssource: Journal of The American Academy of Dramatic Arts
 newsurl: http://www.aada.org/pdf/alumni/americada_2007_01.pdf
 

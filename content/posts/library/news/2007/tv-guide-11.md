@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2007-05-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "The Miniature Killer Is Revealed - But Where's Sara?"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
 newsurl: http://www.tvguide.com
 

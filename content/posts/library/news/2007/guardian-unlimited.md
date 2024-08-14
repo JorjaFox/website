@@ -1,14 +1,14 @@
 ---
 title: Guardian Unlimited
 date: 2007-01-31
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Deadline day live - 9am-2pm"
-newsauthor: Guardian Unlimited
+newsreporter: Guardian Unlimited
 newssource: Guardian Unlimited
 newsurl: http://football.guardian.co.uk/News_Story/0,,2002893,00.html
 

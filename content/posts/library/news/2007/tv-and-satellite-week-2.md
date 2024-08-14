@@ -1,14 +1,14 @@
 ---
 title: TV and Satellite Week
 date: 2007-06-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Valley of the dolls"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: http://www.tvandsatelliteweek.com/
 

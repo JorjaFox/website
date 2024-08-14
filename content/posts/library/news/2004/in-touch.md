@@ -1,13 +1,13 @@
 ---
 title: In Touch
 date: 2004-05-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "*CSI*'s Jorja skips Work"
-newsauthor: Staff
+newsreporter: Staff
 newssource: In Touch
 newsurl: http://intouchweekly.hollywood.com/
 

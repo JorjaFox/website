@@ -1,14 +1,14 @@
 ---
 title: Zap2It.com
 date: 2007-11-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI': With a Whimper  "
-newsauthor: Andy Grieser
+newsreporter: Andy Grieser
 newssource: Zap2It.com
 newsurl: http://blog.zap2it.com/ithappenedlastnight/2007/11/csi-with-a-whim.html
 

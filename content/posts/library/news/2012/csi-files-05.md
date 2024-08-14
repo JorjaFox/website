@@ -1,14 +1,14 @@
 ---
 title: CSI Files
 date: 2012-07-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "Interview: Don McGill  "
-newsauthor: Shane S. Saunders
+newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: http://www.csifiles.com/content/2012/07/interview-don-mcgill/
 

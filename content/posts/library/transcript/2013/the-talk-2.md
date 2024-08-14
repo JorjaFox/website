@@ -1,6 +1,6 @@
 ---
 title: The Talk (23 October 2013)
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-10-23
 interviewurl: http://cbs.com/shows/thetalk

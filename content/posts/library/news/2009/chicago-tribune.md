@@ -1,14 +1,14 @@
 ---
 title: Chicago Tribune
 date: 2009-08-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "'CSI' changes afoot: Could Grissom return? What's up with Langston's clothes?  "
-newsauthor: Maureen Ryan
+newsreporter: Maureen Ryan
 newssource: Chicago Tribune
 newsurl: http://featuresblogs.chicagotribune.com/entertainment_tv/2009/08/csi-fishburne-petersen.html
 

@@ -1,6 +1,6 @@
 ---
 title: Ausiello TV
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-09-21
 interviewurl: http://www.ew.com/ew/video/ausiello_tv

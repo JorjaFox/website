@@ -1,6 +1,6 @@
 ---
 title: ISSUES with Jane Velez-Mitchell
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-10-23
 interviewurl: http://www.hlntv.com/video/2013/10/23/jorja-fox-blackfish-jvm

@@ -1,13 +1,13 @@
 ---
 title: Entertainment Weekly
 date: 2004-07-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Cold Cases?"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: http://www.ew.com
 

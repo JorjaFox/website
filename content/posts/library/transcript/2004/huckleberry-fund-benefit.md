@@ -1,6 +1,6 @@
 ---
 title: Huckleberry Fund Benefit
-author: David Masters
+transcriber: David Masters
 layout: transcript
 date: 2004-12-05
 interviewurl: http://www.huckleberryfund.org/

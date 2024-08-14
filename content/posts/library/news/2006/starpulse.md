@@ -1,14 +1,14 @@
 ---
 title: Starpulse
 date: 2006-05-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Jorja Fox Worries PETA Ad Could Upset CSI Producers  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Starpulse
 newsurl: http://www.starpulse.com/news/index.php/2006/05/04/jorja\_fox\_worries\_peta\_ad\_could\_upset_cs
 

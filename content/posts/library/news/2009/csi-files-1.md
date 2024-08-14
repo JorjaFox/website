@@ -1,14 +1,14 @@
 ---
 title: CSI Files
 date: 2009-04-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Robert David Hall"
-newsauthor: Kristine Huntley
+newsreporter: Kristine Huntley
 newssource: CSI Files
 newsurl: http://www.csifiles.com/interviews/robert_david_hall.shtml
 

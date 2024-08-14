@@ -1,12 +1,12 @@
 ---
 title: "Central Recorder"
 date: 2021-10-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "What Excited _CSI: Vegas_’ Jorja Fox About Returning As Sara Sidle"
-newsauthor: "Tom O'Brian"
+newsreporter: "Tom O'Brian"
 newssource: "Central Recorder"
 newsurl: https://centralrecorder.com/what-excited-csi-vegas-jorja-fox-about-returning-as-sara-sidle/
 ---

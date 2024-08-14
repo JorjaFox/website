@@ -1,14 +1,14 @@
 ---
 title: Entertainment Weekly
 date: 2007-03-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: Backstory
-newsauthor: Staff
+newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: http://www.ew.com
 

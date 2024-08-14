@@ -1,13 +1,13 @@
 ---
 title: TV Guide Canada
 date: 2001-09-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Foxy Lady - 50 Most Beautiful People
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
 newsurl: http://www.tvguide.com/
 ---

@@ -1,14 +1,14 @@
 ---
 title: TV Squad
 date: 2009-08-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox back on duty at CSI...for a little while  "
-newsauthor: Allison Waldman
+newsreporter: Allison Waldman
 newssource: TV Squad
 newsurl: http://www.tvsquad.com/2009/07/19/jorja-fox-back-on-duty-at-csi-for-a-little-while/
 

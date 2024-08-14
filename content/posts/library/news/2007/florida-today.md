@@ -1,14 +1,14 @@
 ---
 title: Florida Today
 date: 2007-10-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Former Mel-Hi student Fox leaving CSI  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Florida Today
 newsurl: http://www.floridatoday.com/apps/pbcs.dll/article?AID=/20071016/BREAKINGNEWS/71016003/1086
 

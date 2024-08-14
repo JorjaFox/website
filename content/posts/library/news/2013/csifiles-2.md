@@ -1,14 +1,14 @@
 ---
 title: CSI Files
 date: 2013-04-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Interview: Michael FX Daley  "
-newsauthor: Shane S. Saunders
+newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: http://www.csifiles.com/content/2013/04/interview-michael-fx-daley-2/
 

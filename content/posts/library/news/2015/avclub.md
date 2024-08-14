@@ -1,12 +1,12 @@
 ---
 title: "A.V. Club"
 date: 2015-12-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 newstitle: "William Petersen on Manhattan, Michael Mann, and sailing into the sunset on CSI"
-newsauthor: "Will Harris"
+newsreporter: "Will Harris"
 newssource: "A.V. Club"
 newsurl: http://www.avclub.com/article/william-petersen-manhattan-michael-mann-and-sailin-229108
 

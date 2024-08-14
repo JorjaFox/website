@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2009-08-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "Jorja On Our Mind  "
-newsauthor: Megan Walsh-Boyle
+newsreporter: Megan Walsh-Boyle
 newssource: TV Guide Magazine
 newsurl: http://www.tvguidemagazine.com
 

@@ -1,14 +1,14 @@
 ---
 title: AOL TV
 date: 2009-09-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "The Show Girl's Guide to Fall TV: 21 Things To Know"
-newsauthor: Maggie Furlong
+newsreporter: Maggie Furlong
 newssource: AOL TV
 newsurl: http://television.aol.com/feature/fall_tv/what-you-should-know-about-fall-tv-2
 

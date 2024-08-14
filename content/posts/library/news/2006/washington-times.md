@@ -1,14 +1,14 @@
 ---
 title: Washington Times
 date: 2006-10-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "TV plots victimize female law enforcers  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Washington Times
 newsurl: http://www.washingtontimes.com/entertainment/20061022-110541-3858r.htm
 

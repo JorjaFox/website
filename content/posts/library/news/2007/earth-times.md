@@ -1,14 +1,14 @@
 ---
 title: Earth Times
 date: 2007-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox to leave 'CSI'"
-newsauthor: Earth Times
+newsreporter: Earth Times
 newssource: Earth Times
 newsurl: http://www.earthtimes.org
 

@@ -1,12 +1,12 @@
 ---
 title: "Somag News"
 date: 2021-02-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "The reason Jorja Fox decided to leave the show"
-newsauthor: "Kaitlyn Kubrick"
+newsreporter: "Kaitlyn Kubrick"
 newssource: "Somag News"
 newsurl: https://www.somagnews.com/the-reason-jorja-fox-decided-to-leave-the-show/
 aliases:

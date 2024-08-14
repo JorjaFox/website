@@ -1,14 +1,14 @@
 ---
 title: Chicago Sun-Times
 date: 2007-12-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' outshines stars"
-newsauthor: Doug Elfman
+newsreporter: Doug Elfman
 newssource: Chicago Sun-Times
 newsurl: http://www.suntimes.com
 

@@ -1,14 +1,14 @@
 ---
 title: WFMY News 2
 date: 2011-11-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Marg Helgenberger Will Leave After 12 Seasons  "
-newsauthor: Associated Press
+newsreporter: Associated Press
 newssource: WFMY News 2
 newsurl: http://www.digtriad.com/news/article/198438/204/Jorga-Fox-Wants-An-Episode-To-Reunite-Sara-With-Gil-On-CSI
 

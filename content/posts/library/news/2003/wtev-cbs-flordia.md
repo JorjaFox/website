@@ -1,13 +1,13 @@
 ---
 title: WTEV CBS Flordia
 date: 2003-07-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: CSI Producers Forced to Increase Security
-newsauthor: Staff
+newsreporter: Staff
 newssource: WTEV CBS Jacksonville
 newsurl: http://www.wtev.com/
 

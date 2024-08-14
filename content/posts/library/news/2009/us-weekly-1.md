@@ -1,14 +1,14 @@
 ---
 title: Us Weekly
 date: 2009-03-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "ER Finale  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Us Magazine
 newsurl: http://usmagazine.com
 

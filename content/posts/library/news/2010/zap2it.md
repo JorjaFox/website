@@ -1,14 +1,14 @@
 ---
 title: Zap2it
 date: 2010-12-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Marlee Matlin lobbies for 'CSI: Chicago'  "
-newsauthor: Kate O'Hare
+newsreporter: Kate O'Hare
 newssource: Zap2it
 newsurl: http://blog.zap2it.com/frominsidethebox/2010/12/marlee-matlin-lobbies-for-csi-chicago.html
 

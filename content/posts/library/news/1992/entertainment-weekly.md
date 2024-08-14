@@ -1,13 +1,13 @@
 ---
 title: Entertainment Weekly
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1992/:title/
 categories: ["Articles", "News"]
 tags: ["1992"]
 newstitle: "Summer Stories: The Mall"
 date: 1992-03-13
-newsauthor: Ken Tucker
+newsreporter: Ken Tucker
 newssource: Entertainment Weekly
 newsurl: http://www.ew.com/ew/article/0,,309807,00.html
 ---

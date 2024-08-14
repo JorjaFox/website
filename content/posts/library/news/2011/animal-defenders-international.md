@@ -1,14 +1,14 @@
 ---
 title: ADI International
 date: 2011-07-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Jorja Fox fans raise $600 for rescued lions"
-newsauthor: Staff
+newsreporter: Staff
 newssource: ADI International
 newsurl: http://www.ad-international.org/take_action/go.php?id=2187&si=95
 

@@ -1,14 +1,14 @@
 ---
 title: AOL.com
 date: 2009-10-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox Staying on 'CSI.' Will This Help the Ratings? "
-newsauthor: Gary Susman
+newsreporter: Gary Susman
 newssource: AOL Inside TV
 newsurl: http://insidetv.aol.com/2009/10/15/jorja-fox-staying-on-csi-will-this-help-the-ratings/
 

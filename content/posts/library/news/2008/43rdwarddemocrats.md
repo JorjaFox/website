@@ -1,14 +1,14 @@
 ---
 title: 43rd Ward Democrats
 date: 2008-08-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Live From The Democratic Convention!"
-newsauthor: Michele Smith
+newsreporter: Michele Smith
 newssource: 43rd Ward Democrats - Michele Smith Committeeman
 newsurl: http://43rdwarddemocrats.blogspot.com/2008/09/live-from-democratic-convention.html
 

@@ -1,14 +1,14 @@
 ---
 title: Morocco Times
 date: 2005-05-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "TV star Jorja Fox to visit Morocco in a good will trip"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Morocco Times
 newsurl: http://www.moroccotimes.com
 

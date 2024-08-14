@@ -1,12 +1,12 @@
 ---
 title: "TV Guide Magazine"
 date: 2021-06-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "First Look at the Best New Fall Shows"
-newsauthor: "Staff"
+newsreporter: "Staff"
 newssource: "TV Guide Magazine"
 newsurl: https://www.tvguidemagazine.com/first-look-at-fall-tv/
 aliases:

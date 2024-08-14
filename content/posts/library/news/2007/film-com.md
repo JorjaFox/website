@@ -1,14 +1,14 @@
 ---
 title: Film.com
 date: 2007-11-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "CSI: Changing Times on the Program of the Decade  "
-newsauthor: I.A.
+newsreporter: I.A.
 newssource: Film.com
 newsurl: http://www.film.com/tv/story/csichangingtimesontheprogramofthedecade/13982602/17338644
 

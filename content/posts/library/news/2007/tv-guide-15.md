@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2007-10-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox: 'CSI' Is a Keeper, So I'm a Goner  "
-newsauthor: Matt Webb Mitovich
+newsreporter: Matt Webb Mitovich
 newssource: TV Guide News
 newsurl: http://community.tvguide.com/blog-entry/TVGuide-News-Blog/Todays-News/Jorja-Fox-Csi/800024734
 

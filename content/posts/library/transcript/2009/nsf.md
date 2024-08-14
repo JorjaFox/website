@@ -1,6 +1,6 @@
 ---
 title: NSF, The Humane Society And GQ Magazine Join Forces To Stop Puppy Mills
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.gettyimages.com
 date: 2009-09-22

@@ -1,14 +1,14 @@
 ---
 title: TV Fanatic
 date: 2011-01-31
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "William Petersen to Make Cameo on CSI  "
-newsauthor: TV Fanatic Staff
+newsreporter: TV Fanatic Staff
 newssource: TV Fanatic
 newsurl: http://www.tvfanatic.com/2011/01/william-petersen-to-make-cameo-on-csi/
 

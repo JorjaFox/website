@@ -1,13 +1,13 @@
 ---
 title: Post Dispatch
 date: 2002-09-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: What are they doing to my show?
-newsauthor: Staff
+newsreporter: Staff
 newssource: Post-Dispatch
 newsurl: http://home.post-dispatch.com/
 

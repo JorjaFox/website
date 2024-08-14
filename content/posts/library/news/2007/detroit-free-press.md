@@ -1,14 +1,14 @@
 ---
 title: Detroit Free Press
 date: 2007-09-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Madonna makes hall of fame list"
-newsauthor: Detroit Free Press
+newsreporter: Detroit Free Press
 newssource: Detroit Free Press
 newsurl: http://www.freep.com/
 

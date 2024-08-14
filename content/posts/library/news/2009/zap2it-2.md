@@ -1,14 +1,14 @@
 ---
 title: Zap2It
 date: 2009-10-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "'CSI's' Jorja Fox returns  "
-newsauthor: Amy Amatangelo
+newsreporter: Amy Amatangelo
 newssource: TV Gal
 newsurl: http://blog.zap2it.com/tvgal/2009/08/its-a-mad-mad-world-and-i-love-watching-it.html
 

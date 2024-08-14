@@ -1,14 +1,14 @@
 ---
 title: Collegiate
 date: 2006-05-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "CSI's Jorja Fox Wants to Start a Revolution  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Collegiate
 newsurl: http://www.lacitycollege.edu/
 

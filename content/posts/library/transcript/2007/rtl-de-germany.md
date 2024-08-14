@@ -1,6 +1,6 @@
 ---
 title: 'RTL.de - Germany'
-author: David Masters
+transcriber: David Masters
 layout: transcript
 date: 2007-11-01
 interviewurl: http://www.rtl.de/

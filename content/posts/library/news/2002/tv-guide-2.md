@@ -1,13 +1,13 @@
 ---
 title: TV Guide
 date: 2002-05-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: A Fox with Moxie!
-newsauthor: Daniel R. Coleridge
+newsreporter: Daniel R. Coleridge
 newssource: TVGuide
 newsurl: http://tvguide.com
 

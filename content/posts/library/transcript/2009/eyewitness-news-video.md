@@ -1,6 +1,6 @@
 ---
 title: Eyewitness News Video
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.lasvegasnow.com
 date: 2009-09-12

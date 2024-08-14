@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2011-01-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "How CSI Landed Ted Danson "
-newsauthor: Michael Schneider
+newsreporter: Michael Schneider
 newssource: TV Guide
 newsurl: http://tvguidemagazine.com
 

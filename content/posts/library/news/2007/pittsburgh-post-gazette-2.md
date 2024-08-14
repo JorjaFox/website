@@ -1,14 +1,14 @@
 ---
 title: Pittsburgh Post-Gazette
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Tuned In Journal: Sara sidles away from 'CSI'  "
-newsauthor: Rob Owen
+newsreporter: Rob Owen
 newssource: Pittsburgh Post-Gazette
 newsurl: http://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm
 

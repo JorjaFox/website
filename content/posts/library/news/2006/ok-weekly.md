@@ -1,14 +1,14 @@
 ---
 title: OK Weekly
 date: 2006-10-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Foxy Lady"
-newsauthor: Staff
+newsreporter: Staff
 newssource: OK Weekly
 newsurl:  http://okmagazine.com/
 

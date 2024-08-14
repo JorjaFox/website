@@ -1,14 +1,14 @@
 ---
 title: The Washington Times
 date: 2007-10-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Tuning In"
-newsauthor: The Washington Times
+newsreporter: The Washington Times
 newssource: The Washington Times
 newsurl: http://washingtontimes.com/
 

@@ -1,14 +1,14 @@
 ---
 title: E!Online
 date: 2013-02-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "TV Watercooler: CSI's Shocking Split, Colton Haynes' Arrow Debut and More!  "
-newsauthor: Tierney Bricker
+newsreporter: Tierney Bricker
 newssource: E!Online
 newsurl: http://www.eonline.com/news/390253/tv-watercooler-csi-s-shocking-split-colton-haynes-arrow-debut-and-more
 

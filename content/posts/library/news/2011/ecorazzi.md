@@ -1,14 +1,14 @@
 ---
 title: Ecorazzi
 date: 2011-11-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "CSI Star Jorja Fox Wants You to Investigate Vegetarianism  "
-newsauthor: Ali Berman
+newsreporter: Ali Berman
 newssource: Ecorazzi
 newsurl: http://www.ecorazzi.com/2011/11/09/csi-star-jorja-fox-wants-you-to-investigate-vegetarianism/
 

@@ -1,13 +1,13 @@
 ---
 title: KTLA Local News
 date: 2001-05-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "CSI: Jorja Fox"
-newsauthor: Staff
+newsreporter: Staff
 newssource: KTLA Local News
 newsurl: http://sns.ktla.com/news/local/ktla-051701seg-info.htmlstory#csi
 

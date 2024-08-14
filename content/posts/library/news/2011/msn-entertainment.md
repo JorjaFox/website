@@ -1,14 +1,14 @@
 ---
 title: MSN Entertainment
 date: 2011-01-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2011"]
 categories: ["Articles", "News"]
 permalink: /news/2011/:title/
 
 newstitle: "Entertainment News"
-newsauthor: Sean Plummer
+newsreporter: Sean Plummer
 newssource: MSN Entertainment
 newsurl: http://entertainment.ca.msn.com/tv/gallery.aspx?cp-documentid=27142465
 

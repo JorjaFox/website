@@ -1,14 +1,14 @@
 ---
 title: TV Gal
 date: 2006-06-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "TV Gal Has Hopes for Fall  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Gal
 newsurl: http://www.zap2it.com/
 

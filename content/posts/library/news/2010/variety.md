@@ -1,14 +1,14 @@
 ---
 title: Variety
 date: 2010-04-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Live chat with Anthony Zuiker  "
-newsauthor: Michael Schneider
+newsreporter: Michael Schneider
 newssource: Variety
 newsurl: http://www.variety.com/article/VR1118018864.html
 

@@ -1,14 +1,14 @@
 ---
 title: Daily Sundial
 date: 2007-10-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Makers of 'CSI' film episode on campus"
-newsauthor: Daily Sundial
+newsreporter: Daily Sundial
 newssource: Daily Sundial
 newsurl: http://media.sundial.csun.edu
 

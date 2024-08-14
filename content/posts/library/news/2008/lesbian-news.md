@@ -1,14 +1,14 @@
 ---
 title: Lesbian News
 date: 2008-02-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "THE WILD, THE BEAUTIFUL AND THE REBELLIOUS"
-newsauthor: John Esther
+newsreporter: John Esther
 newssource: The Lesbian News
 newsurl: http://www.lesbiannews.com
 

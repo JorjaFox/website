@@ -1,14 +1,14 @@
 ---
 title: CSI Files
 date: 2011-07-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Report: Series Regulars Return For Season 12 Of 'CSI'  "
-newsauthor: Shane S Saunders
+newsreporter: Shane S Saunders
 newssource: CSI Files
 newsurl: http://www.csifiles.com/content/2011/07/report-series-regulars-return-for-season-12-of-csi/
 

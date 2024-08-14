@@ -1,12 +1,12 @@
 ---
 title: "Cinemablend"
 date: 2021-11-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "CSI: Vegas’ Jorja Fox Breaks Down Sara’s Reaction To The ‘Extremely Creepy’ Confrontation"
-newsauthor: "Megan Behnke"
+newsreporter: "Megan Behnke"
 newssource: "Cinemablend"
 newsurl: https://www.cinemablend.com/television/csi-vegas-jorja-fox-breaks-down-saras-reaction-to-the-extremely-creepy-confrontation
 ---

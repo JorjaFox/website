@@ -1,13 +1,13 @@
 ---
 title: Alliance-Atlantis
 date: 2000-08-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newssource: Alliance Atlantis
-newsauthor: Staff
+newsreporter: Staff
 newsurl: http://www.allianceatlantis.com/
 newstitle: Premiering on CBS Television Network this Fall
 ---

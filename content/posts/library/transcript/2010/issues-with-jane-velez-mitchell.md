@@ -1,6 +1,6 @@
 ---
 title: Issues with Jane Velez-Mitchell
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-06-11
 interviewurl: http://edition.cnn.hu/TRANSCRIPTS/1006/11/ijvm.01.html

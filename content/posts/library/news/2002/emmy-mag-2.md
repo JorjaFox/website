@@ -1,13 +1,13 @@
 ---
 title: Emmy Magazine
 date: 2002-06-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: "Hole That Fiber!"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Emmy Magazine
 newsurl: http://emmy.com
 

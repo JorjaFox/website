@@ -1,14 +1,14 @@
 ---
 title: USA Today
 date: 2013-12-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Cause Celeb: Jorja Fox investigates lion rescue  "
-newsauthor: Gayle Jo Carter
+newsreporter: Gayle Jo Carter
 newssource: USA Today
 newsurl: http://www.usatoday.com/story/life/weekend/entertainment/2013/12/13/cause-celeb-jorja-fox-investigates-lion-rescue/4003625/
 

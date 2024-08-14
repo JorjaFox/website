@@ -1,13 +1,13 @@
 ---
 title: Digital Spy
 date: 2004-07-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Axed 'CSI' actors may return"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Digital Spy
 newsurl: http://www.digitalspy.co.uk
 

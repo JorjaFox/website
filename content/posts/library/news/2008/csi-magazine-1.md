@@ -1,14 +1,14 @@
 ---
 title: The Official CSI Magazine
 date: 2008-05-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Girl Interrupted  "
-newsauthor: Bryan Cairns
+newsreporter: Bryan Cairns
 newssource: The Official CSI Magazine
 newsurl: http://www.titanmagazines.com/app?service=external/Product&sp=l1075
 

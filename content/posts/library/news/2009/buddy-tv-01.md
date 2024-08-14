@@ -1,14 +1,14 @@
 ---
 title: BuddyTV.com
 date: 2009-04-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "CSI: The 200th Birthday Spectacular Review  "
-newsauthor: Abi Kirk
+newsreporter: Abi Kirk
 newssource: BuddyTV.com
 newsurl: http://www.buddytv.com/articles/csi/csi-the-200th-birthday-spectac-27603.aspx
 

@@ -1,14 +1,14 @@
 ---
 title: Inquisitr
 date: 2011-11-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Bob Barker, Jorja Fox Fight to Stop Circus Animal Cruelty  "
-newsauthor: Michael Söze
+newsreporter: Michael Söze
 newssource: Inquisitr
 newsurl: http://www.inquisitr.com/156384/bob-barker-traveling-exotic-animal-protection-act/
 

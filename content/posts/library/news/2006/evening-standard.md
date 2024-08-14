@@ -1,14 +1,14 @@
 ---
 title: Evening Standard
 date: 2006-07-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Partners in Crime?  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Evening Standard
 newsurl: http://www.thisislondon.co.uk
 

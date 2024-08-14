@@ -1,14 +1,14 @@
 ---
 title: Variety
 date: 2008-02-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Jorja Fox - Co-producer of 'Stay Together: The Life and Music of Dusty Springfield,' which opens on Feb. 7  "
-newsauthor: Variety Staff
+newsreporter: Variety Staff
 newssource: Variety
 newsurl: http://www.variety.com/article/VR1117980300.html?categoryid=15&cs=1
 

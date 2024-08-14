@@ -1,14 +1,14 @@
 ---
 title: Philadelphia Inquirer
 date: 2007-09-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Not a wealth of good shows, but nuggets, old and new"
-newsauthor: Philadelphia Daily News
+newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: http://www.philly.com
 

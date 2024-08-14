@@ -22,8 +22,9 @@
             </div>
             <div class="col-10 col-{{ $breakpoint.current }}-9 col-{{ $breakpoint.next }}-6 mb-5 p-4">
                 {{ .Render "global/header" }}
+                {{- partial "assets/breadcrumb.html" (dict "page" .) -}}
                 {{ .Render "global/main" }}
-				{{ partial "footer/news.html" . }}
+                {{ partial "footer/news.html" . }}
             </div>
             <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-3 d-none d-{{ $breakpoint.current }}-block pt-5">
                 <span name="toc"></span>

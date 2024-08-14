@@ -1,14 +1,14 @@
 ---
 title: CTV
 date: 2007-11-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Leaving 'CSI' the 'hardest decision' says Fox  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: CTV
 newsurl: http://www.ctv.ca
 

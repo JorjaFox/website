@@ -1,7 +1,7 @@
 ---
 title: Lylapalooza
 date: 2015-09-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://fkr.tv
 permalink: /transcript/2015/:title/

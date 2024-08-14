@@ -1,14 +1,14 @@
 ---
 title: Journal Gazette
 date: 2006-08-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "'CSI' adds love story as competition nears  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Journal Gazette
 newsurl: http://www.fortwayne.com/
 

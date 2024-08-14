@@ -1,7 +1,7 @@
 ---
 title: CSI season 2 DVD extras
 date: 2002-07-01
-author: David Masters
+transcriber: David Masters
 layout: transcript
 interviewurl: http://www.cbs.com
 permalink: /transcript/2002/:title/

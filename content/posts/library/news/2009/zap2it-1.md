@@ -1,14 +1,14 @@
 ---
 title: Zap 2 It
 date: 2009-07-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "'CSI's' Jorja Fox returns  "
-newsauthor: Hanh Nguyen
+newsreporter: Hanh Nguyen
 newssource: Zap 2 It News
 newsurl: http://blog.zap2it.com/frominsidethebox/2009/07/csis-jorja-fox-returns.html
 

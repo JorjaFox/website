@@ -1,7 +1,7 @@
 ---
 title: TV Guide Channel Insider
 date: 2003-04-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.tvguide.com/news/insider/
 permalink: /transcript/2003/:title/

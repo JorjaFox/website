@@ -1,14 +1,14 @@
 ---
 title: Channel Five
 date: 2006-05-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "CSI: Crime Scene Investigation - Cast Interviews  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Channel Five
 newsurl: http://www.five.tv
 

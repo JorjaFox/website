@@ -1,14 +1,14 @@
 ---
 title: Aversion Magazine
 date: 2005-05-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: Coachella 2005
-newsauthor: Staff
+newsreporter: Staff
 newssource: Aversion
 newsurl: http://www.aversion.com/
 

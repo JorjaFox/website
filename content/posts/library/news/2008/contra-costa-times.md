@@ -1,14 +1,14 @@
 ---
 title: Contra Costa Times
 date: 2008-12-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "L.A. Zoo's elephant forest temporarily shelved  "
-newsauthor: Brandon Lowrey
+newsreporter: Brandon Lowrey
 newssource: Contra Costa Times
 newsurl: http://www.contracostatimes.com/california/ci_11133453?nclick_check=1
 

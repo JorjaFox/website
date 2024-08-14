@@ -1,13 +1,13 @@
 ---
 title: TV Guide
 date: 2003-04-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Ask Matt
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: TV Guide
 newsurl: http://tvguide.com
 

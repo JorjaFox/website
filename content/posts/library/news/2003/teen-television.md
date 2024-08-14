@@ -1,13 +1,13 @@
 ---
 title: Teen Television
 date: 2003-01-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: CSI Castmates Are Best Friends
-newsauthor: Staff
+newsreporter: Staff
 newssource: Teen Television
 newsurl: http://teentelevision.com/d.asp?r=28373
 

@@ -1,14 +1,14 @@
 ---
 title: Huffington Post
 date: 2011-02-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Bolivian Lions Transported To DIA  "
-newsauthor: AP
+newsreporter: AP
 newssource: Huffington Post
 newsurl: http://www.huffingtonpost.com/2011/02/16/bolivian-lions-arrive-at-_n_824132.html
 

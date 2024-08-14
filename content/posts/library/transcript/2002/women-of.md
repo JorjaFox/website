@@ -1,6 +1,6 @@
 ---
 title: 'Women Of ... Primetime Crime'
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-03-08
 interviewurl: http://www.eonline.com/

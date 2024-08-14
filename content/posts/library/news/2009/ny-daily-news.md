@@ -1,14 +1,14 @@
 ---
 title: NY Daily News
 date: 2009-08-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "CSI star Jorja Fox gets turn in orange jumpsuit on 'Drop Dead Diva'  "
-newsauthor: Christina Kinon
+newsreporter: Christina Kinon
 newssource: NY Daily News
 newsurl: http://www.nydailynews.com/entertainment/tv/2009/08/15/2009-08-15_jorja_fox_gets_turn_in_orange_jumpsuit_as_felonious_on_diva.html
 

@@ -1,14 +1,14 @@
 ---
 title: The Futon Critic
 date: 2005-04-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "CBS Press Release"
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Futon Critic
 newsurl: http://www.thefutoncritic.com
 

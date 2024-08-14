@@ -1,13 +1,13 @@
 ---
 title: ORIGIN Magazine
 date: 2014-11-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Jorja Fox"
-newsauthor: Robert Piper
+newsreporter: Robert Piper
 newssource: ORIGIN Magazine
 newsurl: http://www.originmagazine.com/2014/11/11/jorja-fox/
 

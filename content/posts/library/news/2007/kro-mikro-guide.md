@@ -1,14 +1,14 @@
 ---
 title: KRO Mikro Guide
 date: 2007-01-21
-author: Janne G.
+transcriber: Janne G.
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: Jorja Fox
-newsauthor: Staff
+newsreporter: Staff
 newssource: KRO Mikro Guide
 newsurl: http://kro-mikro.com
 

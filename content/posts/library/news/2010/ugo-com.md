@@ -1,14 +1,14 @@
 ---
 title: UGO.com
 date: 2010-01-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "The 50 Hottest Women on Television  "
-newsauthor: UGO Team
+newsreporter: UGO Team
 newssource: UGO.com
 newsurl: http://www.ugo.com/tv/50-hottest-women-on-tv-14
 

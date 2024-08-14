@@ -1,14 +1,14 @@
 ---
 title: People Pets
 date: 2010-02-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "'CSI' Star Jorja Fox, HSUS Team Up Against Dogfighting  "
-newsauthor: Kate Hogan
+newsreporter: Kate Hogan
 newssource: People Pets
 newsurl: http://www.peoplepets.com/news/celebrities/csi-star-jorja-fox-hsus-team-up-against-dogfighting/1
 

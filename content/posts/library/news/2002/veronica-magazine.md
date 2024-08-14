@@ -1,13 +1,13 @@
 ---
 title: Veronica Magazine
 date: 2002-07-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Babe Between Bodybags
-newsauthor: Dutch text by Belinda Janssen, translated by Isis de Jong.
+newsreporter: Dutch text by Belinda Janssen, translated by Isis de Jong.
 newssource: Veronica Magazine
 newsurl: https://service.veronica.nl/veronicamagazine/
 

@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2011-07-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Jorja Fox Signs On for Full-Time CSI Gig  "
-newsauthor: Rich Juzwiak
+newsreporter: Rich Juzwiak
 newssource: TV Guide
 newsurl: http://www.tvguide.com/News/Jorja-Fox-CSI-Regular-1035488.aspx
 

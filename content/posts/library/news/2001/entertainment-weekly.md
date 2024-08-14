@@ -1,13 +1,13 @@
 ---
 title: Entertainment Weekly
 date: 2001-07-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Dead Heat
-newsauthor: Staff
+newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: http://www.ew.com/
 

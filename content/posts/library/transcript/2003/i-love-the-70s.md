@@ -1,6 +1,6 @@
 ---
 title: "I Love the '70s"
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2003-08-18
 interviewurl: http://vh1.com/

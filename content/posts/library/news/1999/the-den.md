@@ -1,13 +1,13 @@
 ---
 title: The Den
 date: 1999-02-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: Headed for One True Thing
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Den
 newsurl: http://www.theden.com
 

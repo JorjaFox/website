@@ -1,14 +1,14 @@
 ---
 title: St. Paul Pioneer Press
 date: 2006-11-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "'CSI' actress wasn't surprised by romance with Grissom  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: St. Paul Pioneer Press
 newsurl: http://www.twincities.com/mld/twincities/entertainment/television/16028862.htm?source=rss&channel=twincities_television
 

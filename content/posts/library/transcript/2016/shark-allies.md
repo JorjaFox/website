@@ -1,7 +1,7 @@
 ---
 title: Shark Allies
 date: 2016-07-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.sharkallies.com/
 permalink: /transcript/2016/:title/

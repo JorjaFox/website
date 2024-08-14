@@ -1,12 +1,12 @@
 ---
 title: "Parade.com"
 date: 2021-11-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "Jorja Fox on Joining CSI: Vegas To Keep the Bad Guys in Jail and Prevent Vegas from Becoming Another Gotham City!"
-newsauthor: "Paulette Cohn"
+newsreporter: "Paulette Cohn"
 newssource: "Parade.com"
 newsurl: https://parade.com/1287765/paulettecohn/csi-vegas-jorja-fox-season-1-2021/
 ---

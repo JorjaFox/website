@@ -1,14 +1,14 @@
 ---
 title: Los Angeles Times
 date: 2007-03-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "MY FAVORITE WEEKEND: JORJA FOX"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Los Angeles Times
 newsurl: http://www.calendarlive.com/
 

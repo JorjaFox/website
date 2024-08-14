@@ -1,14 +1,14 @@
 ---
 title: Fancast
 date: 2009-08-31
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Fall TV Preview: Returning Favorites  "
-newsauthor: Tracy Phillips
+newsreporter: Tracy Phillips
 newssource: Fancast
 newsurl: http://www.fancast.com/blogs/tv-news/fall-tv-preview-returning-favorites/
 

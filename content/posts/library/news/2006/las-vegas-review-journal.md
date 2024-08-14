@@ -1,14 +1,14 @@
 ---
 title: Las Vegas Review-Journal
 date: 2006-01-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "SHOOTING STARS: CSI returns to Vegas  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Las Vegas Review-Journal
 newsurl: http://www.reviewjournal.com
 

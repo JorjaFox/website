@@ -1,14 +1,14 @@
 ---
 title: Dose.ca
 date: 2011-07-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Jorja Fox is Once Again a CSI Series Regular. You Mean She Wasn't Already?  "
-newsauthor: Kat Angus, Dose.ca
+newsreporter: Kat Angus, Dose.ca
 newssource: Dose.ca
 newsurl: http://www.dose.ca/Jorja+Once+Again+Series+Regular+Mean+Wasn+Already/5131564/story.html
 

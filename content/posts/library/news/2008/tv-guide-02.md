@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2008-04-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: "'Smallville''s Chloe to Wed? Plus: Sara Back on 'CSI'?  "
-newsauthor: Michael Ausiello
+newsreporter: Michael Ausiello
 newssource: Ausiello Report
 newsurl: http://community.tvguide.com/blog-entry/TVGuide-Editors-Blog/Ausiello-Report/Ar-Vodcast-Spoilers/800037042
 

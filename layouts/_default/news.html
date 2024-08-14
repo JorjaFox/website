@@ -39,6 +39,7 @@
                         {{ .Content }}
                     </div>
                 </div>
+                {{- partial "footer/disclaimer.html" . -}}
                 {{- partial "footer/news.html" . -}}
             </div>
             <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-3 d-none d-{{ $breakpoint.current }}-block pt-5">

@@ -22,7 +22,6 @@
             </div>
             <div class="col-10 col-{{ $breakpoint.current }}-9 col-{{ $breakpoint.next }}-6 mb-5 p-4">
                 {{ .Render "global/header" }}
-                {{- partial "assets/breadcrumb.html" (dict "page" .) -}}
                 {{ .Render "global/main" }}
                 {{ partial "footer/news.html" . }}
             </div>

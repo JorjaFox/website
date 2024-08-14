@@ -8,7 +8,7 @@ aliases:
 - /tos/copyrights/
 ---
 
-{{< alert color="success" >}}Last Updated: **20 July 2024**{{< /alert >}}
+{{< alert color="success" >}}Last Updated: **14 August 2024**{{< /alert >}}
 
 All contributions to _Fans of LeFox_ are the property of this site unless otherwise noted and credited.
 
@@ -26,10 +26,10 @@ Information that is not owned or claimed by _Fans of LeFox_ falls under its own 
 A list of items we do not hold copyright to include, but are not limited to (unless otherwise noted):
 
 * News Articles
+* Transcriptions
 * Fan Contributions
-* Blog Comments
 
-Use of that material on this site falls under the Fair Use copyright law 107.
+Use of that material on this site falls under the [Fair Use copyright law 107](https://www.copyright.gov/fair-use/).
 
 ## Publication by third parties
 

@@ -32,7 +32,7 @@ _Fans of LeFox_ also collects potentially personally-identifying information lik
 
 For additional details regarding cookie consent notices, please refer to [cookiechoices.org](https://cookiechoices.org)
 
-**Mailing Lists:** Visitors who chose to register for a double-opt-in email list will receive emails when new content on the site is published. All mailing lists are powered by [MailerLite](https://www.mailerlite.com/legal/privacy-policy). MailerLite is a GDPR friendly, privacy focused email services that integrates with our site. 
+**Mailing Lists:** Visitors who chose to register for a double-opt-in email list will receive emails when new content on the site is published. All mailing lists are powered by [MailerLite](https://www.mailerlite.com/legal/privacy-policy). MailerLite is a GDPR friendly, privacy focused email services that integrates with our site.
 
 If visitors do not wish to be tracked then they should not register for an email subscription.
 
@@ -44,8 +44,8 @@ Third party vendors are used to provide additional services, analytics. These ve
 
 The following services are used:
 
-* Google Analytics
-* MailerLite
+* [Google Analytics](https://www.google.com/policies/privacy/partners/)
+* [MailerLite](https://www.mailerlite.com/legal/privacy-policy)
 
 In addition, articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data, use cookies, embed additional third-party tracking, and monitor interaction with that embedded content, including tracking interaction with the embedded content if a visitor has an account and are logged in to that website.
 
@@ -53,9 +53,9 @@ In addition, articles on this site may include embedded content (e.g. videos, im
 
 The purpose in collecting information is to better understand how visitors use this site.
 
-**Protection:** The primary use of data collected from visitors is for site protection. As a website that is dedicated to documentation of a public person, there is a high probability of abusive intent by visitors. Be it people who don’t like Jorja Fox, or people who do not like her roles, due to their abusive behaviour we track commenters.
+**Protection:** The primary use of data collected from visitors is for site protection. As a website that is dedicated to documentation of a public person, there is a high probability of abusive intent by visitors. Be it people who don’t like Jorja Fox, or people who do not like her roles, due to their abusive behaviour we track people who contact us.
 
-**Retention:** Visitors who sign up for mailing lists will have their email addresses logged and retined. 3rd Party services (listed above) retain data per their terms.
+**Retention:** Visitors who sign up for mailing lists will have their email addresses logged and retained. 3rd Party services (listed above) retain data per their terms.
 
 **Requisition:** Visitors can request that we delete any personal data held. This does not include any data kept for administrative, legal, or security purposes.
 

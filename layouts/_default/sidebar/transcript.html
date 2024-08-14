@@ -1,6 +1,6 @@
 <div class="card">
     <div class="card-body">
-        <p class="card-text">Transcript by {{ if .Params.author }}{{ .Params.author }}{{ else }}Anonymous{{ end }}</p>
+        <p class="card-text">Transcript by {{ if .Params.transcriber }}{{ .Params.transcriber }}{{ else }}Anonymous{{ end }}</p>
         <p class="card-text">Published: {{ .Date.Format "January 02, 2006" }}</p>
     </div>
     <div class="card-footer">

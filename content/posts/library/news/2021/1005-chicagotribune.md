@@ -1,12 +1,12 @@
 ---
 title: "Chicago Tribune"
 date: 2021-10-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "My worst moment: ‘CSI’ star Jorja Fox and being pressured into silence"
-newsauthor: "Nina Metz"
+newsreporter: "Nina Metz"
 newssource: "Chicago Tribune"
 newsurl: https://www.chicagotribune.com/entertainment/what-to-watch/ct-ent-my-worst-moment-jorja-fox-20211005-tunnwezgbngl5icxf5s4xzpvga-story.html
 ---

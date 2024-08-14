@@ -1,13 +1,13 @@
 ---
 title: TV Guide
 date: 2015-09-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "Gil Grissom's Back! See His Reunion with Sara Sidle in This 'CSI' Finale Promo"
-newsauthor: Shelli Weinstein
+newsreporter: Shelli Weinstein
 newssource: TV Guide
 newsurl: http://www.tvguide.com/news/csi-finale-gil-grissom-returns-william-petersen/
 

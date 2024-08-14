@@ -1,13 +1,13 @@
 ---
 title: People
 date: 2002-09-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: CS-Why?
-newsauthor: Staff
+newsreporter: Staff
 newssource: People Magazine
 newsurl: http://people.aol.com/
 

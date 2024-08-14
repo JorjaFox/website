@@ -1,6 +1,6 @@
 ---
 title: ET
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-10-25
 interviewurl: http://www.etonline.com

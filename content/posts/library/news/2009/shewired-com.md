@@ -1,14 +1,14 @@
 ---
 title: SheWired.com
 date: 2009-01-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Where the Girls are on TV: Jorja Fox, Jessica Capshaw, Kate Moennig  "
-newsauthor: Lauren Incognito
+newsreporter: Lauren Incognito
 newssource: SheWired.com
 newsurl: http://www.shewired.com/Article.cfm?ID=21380
 

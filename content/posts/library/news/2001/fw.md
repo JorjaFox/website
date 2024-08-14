@@ -1,13 +1,13 @@
 ---
 title: FW
 date: 2001-12-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Prime Time's New Line Up
-newsauthor: Staff
+newsreporter: Staff
 newssource: FW magazine
 newsurl: http://www.myfw.com
 

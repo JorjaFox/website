@@ -1,12 +1,12 @@
 ---
 title: "TVLine"
 date: 2022-03-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
 categories: ["Articles", "News"]
 newstitle: "The Most Shocking Cast Exits Announced (So Far) This Year"
-newsauthor: "Rebecca Iannucci"
+newsreporter: "Rebecca Iannucci"
 newssource: "TVLine"
 newsurl: https://tvline.com/lists/tv-characters-leaving-2022-shocking-cast-exits/
 ---

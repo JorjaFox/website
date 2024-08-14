@@ -1,14 +1,14 @@
 ---
 title: Whittier Daily News
 date: 2005-01-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "'Shrek 2' tops People's Choice Awards  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Whittier Daily News
 newsurl: http://www.whittierdailynews.com
 

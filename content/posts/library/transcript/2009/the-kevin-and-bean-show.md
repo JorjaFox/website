@@ -1,6 +1,6 @@
 ---
 title: The Kevin and Bean Show
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://kroq.com/
 date: 2009-09-24

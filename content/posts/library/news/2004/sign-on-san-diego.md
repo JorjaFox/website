@@ -1,13 +1,13 @@
 ---
 title: Sign On San Diego
 date: 2004-09-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "From award arrivals to finale, it was a wild and crazy night"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Sign On San Diego
 newsurl: http://www.signonsandiego.com
 

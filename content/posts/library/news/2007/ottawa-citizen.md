@@ -1,14 +1,14 @@
 ---
 title: Ottawa Citizen
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "At the end of the day, CSI makes a nice, mind-numbing formula  "
-newsauthor: Alex Strachan
+newsreporter: Alex Strachan
 newssource: Ottawa Citizen
 newsurl: http://www.canada.com/ottawacitizen/news/story.html?id=25dfb6a3-be7e-41f4-aa93-f7a77848176b
 

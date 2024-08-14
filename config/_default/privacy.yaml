@@ -1,3 +1,9 @@
 googleAnalytics:
   respectDoNotTrack: true
   id: G-YED15945ZH
+twitter:
+  enableDNT: true
+vimeo:
+  enableDNT: true
+youtube:
+  privacyEnhanced: true

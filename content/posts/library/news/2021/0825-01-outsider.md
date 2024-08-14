@@ -1,12 +1,12 @@
 ---
 title: "Outsider"
 date: 2021-08-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas’: William Petersen & Jorja Fox Explain How They ‘Pulled a Jimmy Buffett’ for New Show"
-newsauthor: "Lauren Boisvert "
+newsreporter: "Lauren Boisvert "
 newssource: "Outsider"
 newsurl: https://outsider.com/news/entertainment/csi-vegas-william-petersen-jorja-fox-explain-how-they-pulled-jimmy-buffett-for-new-show/
 aliases:

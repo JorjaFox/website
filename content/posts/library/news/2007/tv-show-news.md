@@ -1,14 +1,14 @@
 ---
 title: TV Show News
 date: 2007-05-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "CSI CAST ATTEND CSI EXHIBIT GALA OPENING"
-newsauthor: TV Show News
+newsreporter: TV Show News
 newssource: TV Show News
 newsurl: http://www.accesstvshows.com/
 

@@ -1,13 +1,13 @@
 ---
 title: Stepping Out
 date: 2001-04-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "Jorja Fox Shines On TV's Hottest Show"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Stepping Out Magazine
 newsurl: http://www.steppinoutmagazine.com/
 ---

@@ -1,14 +1,14 @@
 ---
 title: JSOnline
 date: 2010-07-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "It can be difficult to keep track of 'CSI' character  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: JSOnline
 newsurl: http://www.jsonline.com/entertainment/tvradio/98760869.html
 

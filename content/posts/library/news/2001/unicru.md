@@ -1,13 +1,13 @@
 ---
 title: UNICRU
 date: 2001-04-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Pet Project
-newsauthor: Paul Semel
+newsreporter: Paul Semel
 newssource: UNICRU
 newsurl: http://www.unicru.com/asp/Breakroom/BrkCfj010427.asp
 

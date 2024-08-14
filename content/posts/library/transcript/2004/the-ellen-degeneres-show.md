@@ -1,7 +1,7 @@
 ---
 title: The Ellen Degeneres Show
 date: 2004-05-18
-author: David Masters
+transcriber: David Masters
 layout: transcript
 interviewurl: http://ellen.warnerbros.com/
 permalink: /transcript/2004/:title/

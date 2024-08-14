@@ -1,14 +1,14 @@
 ---
 title: E Online
 date: 2005-02-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Members Only"
-newsauthor: Staff
+newsreporter: Staff
 newssource: E Online
 newsurl: http://www.eonline.com
 

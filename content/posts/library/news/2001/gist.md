@@ -1,13 +1,13 @@
 ---
 title: Gist
 date: 2001-01-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: CSI's Sly Fox
-newsauthor: Staff
+newsreporter: Staff
 newssource: Gist TV
 newsurl: http://www.gist.com
 

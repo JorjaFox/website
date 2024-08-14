@@ -1,6 +1,6 @@
 ---
 title: Living TV
-author: Karen P.
+transcriber: Karen P.
 layout: transcript
 date: 2003-09-21
 interviewurl: http://www.livingtv.co.uk/

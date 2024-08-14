@@ -1,13 +1,13 @@
 ---
 title: USA Today Weekend
 date: 2003-01-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Who's News
-newsauthor: Staff
+newsreporter: Staff
 newssource: USA Weekend
 newsurl: http://www.usaweekend.com
 

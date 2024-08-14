@@ -1,12 +1,12 @@
 ---
 title: "Outsider"
 date: 2021-09-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas’ Has ‘Ace in the Hole’ with New Promo"
-newsauthor: "Joe Rutland"
+newsreporter: "Joe Rutland"
 newssource: "Outsider"
 newsurl: https://outsider.com/news/entertainment/csi-vegas-has-ace-in-hole-new-promo/
 aliases:

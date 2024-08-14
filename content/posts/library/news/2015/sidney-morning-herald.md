@@ -1,13 +1,13 @@
 ---
 title: Sidney Morning Herald
 date: 2015-09-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "'You don't win friends with salad': TV's best (and worst) vegetarians"
-newsauthor: Ellen Laughton
+newsreporter: Ellen Laughton
 newssource: Sidney Morning Herald
 newsurl: http://www.smh.com.au/entertainment/tv-and-radio/you-dont-win-friends-with-saladtvs-best-and-worst-vegetarians-20150921-gjpo0b.html
 

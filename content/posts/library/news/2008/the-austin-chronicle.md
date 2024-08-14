@@ -1,14 +1,14 @@
 ---
 title: The Austin Chronicle
 date: 2008-07-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Animal Defenders Seek Ban on Circus Wildlife  "
-newsauthor: Richard Whittaker
+newsreporter: Richard Whittaker
 newssource: The Austin Chronicle
 newsurl: http://www.austinchronicle.com/gyrobase/Issue/story?oid=oid:645923
 

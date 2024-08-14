@@ -1,14 +1,14 @@
 ---
 title: Zap2It
 date: 2011-07-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Jorja Fox rejoins CSI as series regular  "
-newsauthor: David Eckstein
+newsreporter: David Eckstein
 newssource: Zap2It
 newsurl: http://blog.zap2it.com/frominsidethebox/2011/07/jorja-fox-rejoins-csi-as-series-regular.html
 

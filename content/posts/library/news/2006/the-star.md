@@ -1,14 +1,14 @@
 ---
 title: The Star
 date: 2006-05-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Killer cast  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Star
 newsurl: http://www.star-ecentral.com/news/story.asp?file=/2006/5/28/tvnradio/14230809&sec=tvnradio
 

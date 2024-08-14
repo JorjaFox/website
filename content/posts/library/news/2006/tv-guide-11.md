@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2006-09-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "'CSI' Stars Answer Your Burning Questions!  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
 newsurl: http://www.tvguide.com
 

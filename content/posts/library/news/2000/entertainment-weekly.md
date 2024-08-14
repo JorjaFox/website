@@ -1,13 +1,13 @@
 ---
 title: Entertainment Weekly
 date: 2000-02-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newstitle: Hopping Mad
-newsauthor: Staff
+newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: http://www.ew.com
 

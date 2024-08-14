@@ -1,12 +1,12 @@
 ---
 title: "Screenrant"
 date: 2022-05-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
 categories: ["Articles", "News"]
 newstitle: "Sara Sidle's Actress Perfectly Explained Why CSI Fans Dislike Her So Much"
-newsauthor: "Vickie Scullard"
+newsreporter: "Vickie Scullard"
 newssource: "Screenrant"
 newsurl: https://screenrant.com/csi-sara-sidle-jorja-fox-fans-dislike-reason/
 ---

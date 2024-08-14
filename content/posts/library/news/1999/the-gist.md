@@ -1,13 +1,13 @@
 ---
 title: The Gist
 date: 1999-02-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: ER Actress Jumps to UPN
-newsauthor: Andrew Wallenstein
+newsreporter: Andrew Wallenstein
 newssource: Gist TV
 newsurl: http://www.gist.com
 

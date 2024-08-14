@@ -1,14 +1,14 @@
 ---
 title: Boston Herald
 date: 2007-02-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Heart to heart: Checking in with prime-time's top valentines"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Boston Herald
 newsurl: http://theedge.bostonherald.com/tvNews/view.bg?articleid=182813
 

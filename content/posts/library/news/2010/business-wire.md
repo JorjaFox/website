@@ -1,14 +1,14 @@
 ---
 title: Business Wire
 date: 2010-05-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Bolivian Lions Set for Presidential Style Arrival in San Francisco After Dramatic Rescue  "
-newsauthor: Animal Defenders International
+newsreporter: Animal Defenders International
 newssource: Business Wire
 newsurl: http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view&newsId=20100526006953&newsLang=en
 

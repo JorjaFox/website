@@ -1,14 +1,14 @@
 ---
 title: PR inside
 date: 2006-06-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "CSI STARS SING FOR CHARITY  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: PR Inside
 newsurl: http://www.pr-inside.com/csi-stars-sing-for-charity-r7664.htm
 

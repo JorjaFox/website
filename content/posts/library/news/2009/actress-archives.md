@@ -1,14 +1,14 @@
 ---
 title: Actress Archives
 date: 2009-08-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox Returning To Rescue 'CSI'  "
-newsauthor: Actress Archives
+newsreporter: Actress Archives
 newssource: Actress Archives
 newsurl: http://www.actressarchives.com/news.php?id=17528
 

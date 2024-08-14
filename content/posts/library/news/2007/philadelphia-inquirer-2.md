@@ -1,14 +1,14 @@
 ---
 title: Philadelphia Inquirer
 date: 2007-10-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Dave on Demand | Actresses seek raises, but they get mayhem"
-newsauthor: Philadelphia Daily News
+newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: http://www.philly.com
 

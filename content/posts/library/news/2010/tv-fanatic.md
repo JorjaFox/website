@@ -1,14 +1,14 @@
 ---
 title: TV Fanatic
 date: 2010-10-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "CSI Review: 'House of Hoarders'"
-newsauthor: Alithea
+newsreporter: Alithea
 newssource: TV Fanatic
 newsurl: http://www.tvfanatic.com/2010/10/csi-review-house-of-hoarders/
 

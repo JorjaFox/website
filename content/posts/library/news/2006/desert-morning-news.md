@@ -1,14 +1,14 @@
 ---
 title: Desert Morning News
 date: 2006-08-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Apparently, autopsies and romance do mix  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Desert Morning News
 newsurl: http://deseretnews.com
 

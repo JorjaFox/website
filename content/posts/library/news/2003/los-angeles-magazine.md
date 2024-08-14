@@ -1,13 +1,13 @@
 ---
 title: Los Angeles Magazine
 date: 2003-10-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: "Los Angeles' Race for the Cure"
-newsauthor: Bekah Wright
+newsreporter: Bekah Wright
 newssource: Los Angeles Magazine
 newsurl: http://www.lamag.com
 

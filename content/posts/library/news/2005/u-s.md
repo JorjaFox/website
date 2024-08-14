@@ -1,14 +1,14 @@
 ---
 title: U.S. Newswire
 date: 2005-11-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Famous Friends of Farm Animals Daryl Hannah and Jorja Fox Celebrate Thanksgiving by Feeding a Turkey Rather Than Eating One!  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: U.S. Newswire
 newsurl: http://www.usnewswire.com/
 

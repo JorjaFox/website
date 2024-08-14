@@ -1,6 +1,6 @@
 ---
 title: Yahoo Chat
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 date: 2001-04-24
 layout: transcript
 interviewurl: http://yahoo.com/

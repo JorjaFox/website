@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI''s Sara Sidles Off into the Sunset  "
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: TV Guide Editors' Blogs - Roush Dispatch
 newsurl: http://community.tvguide.com/blog/TVGuide-Editors-Blog/Roush-Dispatch/700000048
 

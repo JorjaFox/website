@@ -1,14 +1,14 @@
 ---
 title: USA Weekend Magazine
 date: 2005-10-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Celeb's - Who's News?  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: USA Weekend Magazine
 newsurl: http://www.usaweekend.com
 

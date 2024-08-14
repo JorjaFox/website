@@ -1,14 +1,14 @@
 ---
 title: Curve Magazine (June 2007)
 date: 2007-06-01
-author: unspoken_hellie
+transcriber: unspoken_hellie
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Exclusive: 'CSI's Jorja Fox"
-newsauthor: Curve Magazine
+newsreporter: Curve Magazine
 newssource: Curve Magazine
 newsurl: http://www.curvemag.com
 

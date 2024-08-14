@@ -1,13 +1,13 @@
 ---
 title: Entertainment Tonight
 date: 2002-07-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: CSI Secrets
-newsauthor: Staff
+newsreporter: Staff
 newssource: Entertainment Tonight
 newsurl: http://www.et.com/
 

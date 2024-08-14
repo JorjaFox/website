@@ -1,14 +1,14 @@
 ---
 title: Pride Source
 date: 2008-03-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Billy Masters  "
-newsauthor: Billy Masters
+newsreporter: Billy Masters
 newssource: Pride Source
 newsurl: http://www.pridesource.com/article.shtml?article=29643
 

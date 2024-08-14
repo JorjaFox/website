@@ -1,14 +1,14 @@
 ---
 title: TV Squad
 date: 2010-10-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Happy World Vegetarian Day to Our Favorite TV Herbivores  "
-newsauthor: Chris Harnick
+newsreporter: Chris Harnick
 newssource: TV Squad
 newsurl: http://www.tvsquad.com/2010/10/01/happy-world-vegetarian-day-to-our-favorite-tv-herbivores/
 

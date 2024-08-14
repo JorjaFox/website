@@ -1,13 +1,13 @@
 ---
 title: Slush
 date: 2001-03-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Whaleness Begins Here
-newsauthor: J.V. McAuley
+newsreporter: J.V. McAuley
 newssource: SLUSH - Babes in Babylon
 newsurl: http://www.laweekly.com/ink/01/18/slush.shtml
 

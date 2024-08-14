@@ -1,13 +1,13 @@
 ---
 title: NYSE
 date: 2002-05-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: NYSE
-newsauthor: Staff
+newsreporter: Staff
 newssource: New York Stock Exchange
 newsurl: http://www.nyse.com/
 

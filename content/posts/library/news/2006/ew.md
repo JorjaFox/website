@@ -1,14 +1,14 @@
 ---
 title: EW.com
 date: 2006-07-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Me, Myself, and Eye  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: EW.com
 newsurl: http://www.ew.com
 

@@ -1,14 +1,14 @@
 ---
 title: The Watcher
 date: 2006-05-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "The Watcher: The Gil and Sara show on 'CSI'  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Watcher - A Chicago Tribune Web log
 newsurl: http://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/the\_gus\_and\_sar.html
 

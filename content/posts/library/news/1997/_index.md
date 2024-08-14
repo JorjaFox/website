@@ -1,6 +1,6 @@
 ---
 title: "News Articles (1997)"
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 topic: news-index
 date: 1997-01-01

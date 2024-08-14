@@ -1,14 +1,14 @@
 ---
 title: AceShowBiz
 date: 2009-08-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: AceShowBiz
 newsurl: http://www.aceshowbiz.com/news/view/00026009.html
 

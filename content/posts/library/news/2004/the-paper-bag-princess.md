@@ -1,13 +1,13 @@
 ---
 title: The Paper Bag Princess
 date: 2004-09-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Jorja Fox Selects Vintage Gown from P.B.P. for Primetime Emmys"
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Paper Bag Princess
 newsurl: http://www.thepaperbagprincess.com
 

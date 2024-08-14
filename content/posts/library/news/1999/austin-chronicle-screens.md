@@ -1,13 +1,13 @@
 ---
 title: Austin Chronicle Screens
 date: 1999-10-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: Tiara Tango
-newsauthor: Marjorie Baumgarten
+newsreporter: Marjorie Baumgarten
 newssource: Austin Chronicle
 newsurl: http://www.auschron.com
 

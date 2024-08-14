@@ -1,14 +1,14 @@
 ---
 title: MSNBC
 date: 2005-09-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "CSI Crime File - Sept. 22"
-newsauthor: Staff
+newsreporter: Staff
 newssource: MSNBC
 newsurl: http://msnbc.com
 

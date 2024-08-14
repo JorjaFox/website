@@ -1,14 +1,14 @@
 ---
 title: Galaxie Magazine
 date: 2005-07-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "CSI: Partners in Love"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Galaxie Magazine
 newsurl: http://www.galaxie.com.my/
 

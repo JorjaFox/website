@@ -1,14 +1,14 @@
 ---
 title: PETA
 date: 2011-11-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "CSI Star Investigates Vegetarianism  "
-newsauthor: Michelle Sherrow
+newsreporter: Michelle Sherrow
 newssource: PETA
 newsurl: http://www.peta.org/b/thepetafiles/archive/2011/11/08/csi-star-investigates-vegetarianism-at-sublime.aspx
 

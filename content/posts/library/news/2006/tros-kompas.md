@@ -1,14 +1,14 @@
 ---
 title: Tros Kompas
 date: 2006-02-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Ambitious, Smart Woman looks for... "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Tros Kompas
 newsurl: http://www.troskompas.nl/
 

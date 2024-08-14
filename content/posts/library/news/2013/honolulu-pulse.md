@@ -1,14 +1,14 @@
 ---
 title: Honolulu Pulse
 date: 2013-10-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Freestyle: CSI star jumps in at HIFF  "
-newsauthor: Elizabeth Kieszkowski
+newsreporter: Elizabeth Kieszkowski
 newssource: Honolulu Pulse
 newsurl: http://www.honolulupulse.com/2013/10/freestyle-jorja-fox-hiff/
 

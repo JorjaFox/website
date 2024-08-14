@@ -1,14 +1,14 @@
 ---
 title: KSCW-TV
 date: 2011-02-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Rescued Bolivian lions moved to Colo. sanctuary  "
-newsauthor: Web Staff KDVR Denver
+newsreporter: Web Staff KDVR Denver
 newssource: KSCW-TV
 newsurl: http://www.kansascw.com/kscw/news/kdvr-2-dozen-lions-coming-to-colorado-20110214,0,3636759.story
 

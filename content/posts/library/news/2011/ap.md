@@ -1,14 +1,14 @@
 ---
 title: AP
 date: 2011-11-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "'CSI' - JORJA FOX  "
-newsauthor: unknown
+newsreporter: unknown
 newssource: ap
 newsurl: http://www.ap.com/
 

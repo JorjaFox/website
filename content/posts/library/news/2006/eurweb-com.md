@@ -1,14 +1,14 @@
 ---
 title: EURweb.com
 date: 2006-07-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "TCA BLOG: Diggs gets defensive; V. Williams gets 'Ugly'; Where are the black folks on CBS?; Rachel Ray rides Oprah into daytime; 'CSI' vs. 'Grey's Anatomy.'  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: EURweb.com
 newsurl: http://EURweb.com
 

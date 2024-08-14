@@ -1,14 +1,14 @@
 ---
 title: EW.com
 date: 2007-10-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' Fans Launch Save Jorja Fox Campaign"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: http://www.ew.com
 

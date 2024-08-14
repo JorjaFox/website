@@ -2,14 +2,14 @@
 title: Ming Lo (25 October 2012)
 
 date: 2012-10-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "12-10-11: CSI LAS VEGAS SHOOT, DAY 1"
-newsauthor: Ming Lo
+newsreporter: Ming Lo
 newssource: Ming Lo
 newsurl: http://www.minglo.com/2012/10/12-10-11-csi-las-vegas-shoot-day-1/
 

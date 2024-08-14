@@ -1,13 +1,13 @@
 ---
 title: Nerdslut
 date: 2000-01-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newstitle: Review
-newsauthor: Staff
+newsreporter: Staff
 newssource: Nerdslut
 newsurl: http://www.nerdslut.org/tv.html
 

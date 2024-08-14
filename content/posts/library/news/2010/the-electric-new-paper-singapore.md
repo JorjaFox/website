@@ -1,14 +1,14 @@
 ---
 title: The Electric New Paper, Singapore
 date: 2010-02-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Back on CSI, but she'd rather get Lost  "
-newsauthor: Charlene Chua
+newsreporter: Charlene Chua
 newssource: The Electric New Paper, Singapore
 newsurl: http://tnp.sg/show/story/0,4136,230452,00.html
 

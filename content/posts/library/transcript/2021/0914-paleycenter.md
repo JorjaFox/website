@@ -1,7 +1,7 @@
 ---
 title: "PaleyFest Fall TV Previews 2021 "
 date: 2021-09-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.paleycenter.org
 permalink: /transcript/2021/:title/

@@ -1,13 +1,13 @@
 ---
 title: AIM Today
 date: 2004-07-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "'CSI' Actors Fox, Eads Fired"
-newsauthor: Staff
+newsreporter: Staff
 newssource: AIM Today
 newsurl: http://channels.aimtoday.com
 

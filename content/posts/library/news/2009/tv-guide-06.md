@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2009-08-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Exclusive! Jorja Fox Speaks on Her 'CSI' Return  "
-newsauthor: Megan Walsh-Boyle
+newsreporter: Megan Walsh-Boyle
 newssource: TV Guide Magazine
 newsurl: http://www.tvguidemagazine.com/news/exclusive-jorja-fox-speaks-on-her-csi-return-1853.html
 

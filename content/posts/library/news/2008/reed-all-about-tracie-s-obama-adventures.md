@@ -1,14 +1,14 @@
 ---
 title: "Reed all about Tracie's Obama adventures"
 date: 2008-08-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: "Thursday Night Under the Lights  "
-newsauthor: Tracie Reed
+newsreporter: Tracie Reed
 newssource: Reed all about Tracie's Obama adventures
 newsurl: http://tracie4obama.blogspot.com/2008/08/thursday-night-under-lights.html
 

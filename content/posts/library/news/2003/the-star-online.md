@@ -1,13 +1,13 @@
 ---
 title: The Star Online
 date: 2003-04-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Behind the investigation
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Star Online
 newsurl: http://star-ecentral.com/
 

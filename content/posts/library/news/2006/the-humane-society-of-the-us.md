@@ -1,14 +1,14 @@
 ---
 title: The Humane Society of the US
 date: 2006-03-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Red Carpet Quotes: Stars Share Their Thoughts on Animals, Animal Protection, and the Genesis Awards"
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Humane Society of the US
 newsurl: http://www.hsus.org
 

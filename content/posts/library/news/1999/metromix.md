@@ -1,13 +1,13 @@
 ---
 title: MetroMix
 date: 1999-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: Relationships are at the core of 'The Hungry Bachelors Club'
-newsauthor: John Petrakis
+newsreporter: John Petrakis
 newssource: Chicago MetroMix
 newsurl: http://www.metromix.com
 

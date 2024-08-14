@@ -1,13 +1,13 @@
 ---
 title: Newsday
 date: 2000-09-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newstitle: Weird, wild and witty
-newsauthor: Staff
+newsreporter: Staff
 newssource: Newsday
 newsurl: http://www.newsday.com/
 

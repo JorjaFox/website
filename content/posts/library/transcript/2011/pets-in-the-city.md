@@ -1,7 +1,7 @@
 ---
 title: Pets In The City
 date: 2011-02-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]

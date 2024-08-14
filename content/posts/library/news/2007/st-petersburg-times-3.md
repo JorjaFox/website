@@ -1,14 +1,14 @@
 ---
 title: St. Petersburg Times
 date: 2007-10-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' fan says losing Sara would be a crime  "
-newsauthor: Eric Deggans
+newsreporter: Eric Deggans
 newssource: St. Petersburg Times
 newsurl: http://www.sptimes.com/
 

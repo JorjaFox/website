@@ -1,14 +1,14 @@
 ---
 title: Buddy TV
 date: 2008-05-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Jorja Fox Makes Her 'CSI' Comeback  "
-newsauthor: Kris De Leon
+newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/articles/csi/jorja-fox-makes-her-csi-comeba-19848.aspx
 

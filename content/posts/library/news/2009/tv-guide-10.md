@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2009-09-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Matt's TV Week in Review  "
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: Daily Review
 newsurl: http://tvguidemagazine.com/matt-roush-daily-review/matts-tv-week-in-review-2557.html
 

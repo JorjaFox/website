@@ -1,14 +1,14 @@
 ---
 title: TeTu
 date: 2009-10-28
-author: nadiarichard
+transcriber: nadiarichard
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: 'Jorja Fox: Long live the return of the (just a little bit) "butch" CSI'
-newsauthor: Myrtille Rambion
+newsreporter: Myrtille Rambion
 newssource: TeTu
 newsurl: http://www.tetu.com/actualites/television/jorja-fox-vive-le-retour-dune-experte-un-peu-butch-15756
 

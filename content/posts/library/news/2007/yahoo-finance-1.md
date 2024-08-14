@@ -1,14 +1,14 @@
 ---
 title: Yahoo! Finance
 date: 2007-01-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Hollywood: Pet a Dog or Kill It?"
-newsauthor: "Yahoo! Finance"
+newsreporter: "Yahoo! Finance"
 newssource: "Yahoo! Finance"
 newsurl: http://biz.yahoo.com/
 

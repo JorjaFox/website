@@ -1,14 +1,14 @@
 ---
 title: Gather News - Celebs
 date: 2011-09-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Ted Danson alienating 'CSI' costars?  "
-newsauthor: Coco George
+newsreporter: Coco George
 newssource: Gather News - Celebs
 newsurl: http://celebs.gather.com/viewArticle.action?articleId=281474980349493
 

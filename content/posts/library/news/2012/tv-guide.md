@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2012-01-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "Marg Helgenberger Says Goodbye to CSI  "
-newsauthor: Craig Tomashoff
+newsreporter: Craig Tomashoff
 newssource: TV Guide
 newsurl: http://www.tvguide.com/News/Marg-Helgenberger-CSI-1042180.aspx
 

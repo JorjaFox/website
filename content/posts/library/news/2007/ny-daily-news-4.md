@@ -1,14 +1,14 @@
 ---
 title: NY Daily News
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' can bleed talent and survive: Jorja Fox's departure shouldn't hurt show  "
-newsauthor: Cristina Kinon
+newsreporter: Cristina Kinon
 newssource: NY Daily News
 newsurl: http://www.nydailynews.com/entertainment/tv/2007/11/15/2007-11-15\_csi\_can\_bleed\_talent\_and\_survive\_jorja\_f.html
 

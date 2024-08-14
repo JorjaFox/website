@@ -1,14 +1,14 @@
 ---
 title: Buddy TV
 date: 2009-10-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox's 'CSI' Return Extended Indefinitely  "
-newsauthor: Henrik Batallones
+newsreporter: Henrik Batallones
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/articles/csi/jorja-foxs-csi-return-extended-31893.aspx
 

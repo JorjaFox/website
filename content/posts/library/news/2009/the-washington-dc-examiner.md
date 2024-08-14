@@ -1,14 +1,14 @@
 ---
 title: The Washington DC Examiner
 date: 2009-01-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Superhero summit at Milano  "
-newsauthor: Jeff Dufour and Patrick Gavin
+newsreporter: Jeff Dufour and Patrick Gavin
 newssource: The Washington DC Examiner
 newsurl: http://www.dcexaminer.com/opinion/blogs/YeasandNays/Superhero_summit_at_Milano_0120.html
 

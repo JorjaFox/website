@@ -1,14 +1,14 @@
 ---
 title: After Ellen
 date: 2009-08-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox sidles back to 'CSI' for several episodes  "
-newsauthor: Dorothy Snarker
+newsreporter: Dorothy Snarker
 newssource: After Ellen
 newsurl: http://www.afterellen.com/blog/dorothysnarker/jorja-fox-sidles-back-to-csi-for-several-episodes
 

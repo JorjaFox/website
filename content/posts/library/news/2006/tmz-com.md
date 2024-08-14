@@ -1,14 +1,14 @@
 ---
 title: TMZ.com
 date: 2006-05-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "The Secret Talents at CSI"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TMZ
 newsurl: http://tmz.aol.com/
 

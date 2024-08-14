@@ -1,7 +1,7 @@
 ---
 title: "ET Canada - Jorja Fox, Paula Newsome Think Fans Will 'Fall In Love' With 'CSI: Vegas' Reboot | EXTENDED"
 date: 2021-09-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.youtube.com/watch?v=hbqPoQIltgs
 permalink: /transcript/2021/:title/

@@ -1,14 +1,14 @@
 ---
 title: TV Zone
 date: 2005-12-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Fox at Bay"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Zone
 newsurl: http://www.visimag.com
 

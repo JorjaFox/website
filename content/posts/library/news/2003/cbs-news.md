@@ -1,13 +1,13 @@
 ---
 title: CBS News
 date: 2003-01-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: "'C.S.I.' Tunes"
-newsauthor: Staff
+newsreporter: Staff
 newssource: CBS News
 newsurl: http://www.cbsnews.com/stories/2003/01/08/earlyshow/leisure/music/main535780.shtml
 

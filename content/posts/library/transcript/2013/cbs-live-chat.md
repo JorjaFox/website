@@ -1,6 +1,6 @@
 ---
 title: CBS Live Chat
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-02-20
 interviewurl: http://cbs.com/

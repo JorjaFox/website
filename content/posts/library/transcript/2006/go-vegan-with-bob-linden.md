@@ -1,6 +1,6 @@
 ---
 title: Go Vegan with Bob Linden
-author: David Masters
+transcriber: David Masters
 layout: transcript
 interviewurl: http://www.GoVeganRadio.com
 date: 2006-09-03

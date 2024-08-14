@@ -1,14 +1,14 @@
 ---
 title: Market Wire
 date: 2005-10-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Earth Offers Hot Boots for Cool Fall Style"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Market Wire
 newsurl: http://www.marketwire.com
 

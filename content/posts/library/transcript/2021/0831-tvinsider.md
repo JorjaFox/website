@@ -1,7 +1,7 @@
 ---
 title: "TV Insider"
 date: 2021-08-31
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.tvinsider.com/?jwsource=cl
 permalink: /transcript/2021/:title/

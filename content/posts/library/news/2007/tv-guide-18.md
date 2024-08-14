@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2007-09-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Returning Favorites - Thursday - CSI"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: http://www.tvguide.com
 

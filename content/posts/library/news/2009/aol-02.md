@@ -1,14 +1,14 @@
 ---
 title: AOL Inside TV
 date: 2009-02-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "AOL Inside TV  "
-newsauthor: Liane Bonin
+newsreporter: Liane Bonin
 newssource: AOL Inside TV
 newsurl: http://television.aol.com/insidetv/2009/02/05/memorable-tv-love-triangles/
 

@@ -1,14 +1,14 @@
 ---
 title: Hudson Valley Good Stuff
 date: 2012-09-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "Interview with Jorja Fox of CSI Las Vegas & producer of documentary 'How I Became an Elephant'"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Hudson Valley Good Stuff
 newsurl: http://www.hudsonvalleygoodstuff.com/2012/09/jorja-fox-from-csi-las-vegas-in-kingston-to-promote-how-i-became-an-elephant.html
 

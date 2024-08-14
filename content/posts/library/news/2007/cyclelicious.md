@@ -1,14 +1,14 @@
 ---
 title: Cyclelicious
 date: 2007-03-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox goes bike shopping"
-newsauthor: Cyclelicious
+newsreporter: Cyclelicious
 newssource: Cyclelicious
 newsurl: http://www.cyclelicio.us
 

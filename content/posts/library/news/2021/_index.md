@@ -1,6 +1,6 @@
 ---
 title: "News Articles (2021)"
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news-index
 topic: index
 date: 2021-01-01

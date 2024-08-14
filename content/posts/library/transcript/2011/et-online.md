@@ -1,7 +1,7 @@
 ---
 title: ET Online
 date: 2011-12-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]

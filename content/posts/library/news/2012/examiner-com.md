@@ -1,14 +1,14 @@
 ---
 title: Examiner.com
 date: 2012-10-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "'CSI' spoilers: Sara has sparks with someone from her past  "
-newsauthor: Meredith Jacobs
+newsreporter: Meredith Jacobs
 newssource: Examiner.com
 newsurl: http://www.examiner.com/article/csi-spoilers-sara-has-sparks-with-someone-from-her-past
 

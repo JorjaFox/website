@@ -1,13 +1,13 @@
 ---
 title: CBS Watch! Magazine
 date: 2014-07-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "GILT-Y Pleasures"
-newsauthor: Staff
+newsreporter: Staff
 newssource: CBS Watch! Magazine
 newsurl: http://cbswatchmagazine.com
 

@@ -1,13 +1,13 @@
 ---
 title: People Magazine
 date: 2003-04-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Blood and Yuks
-newsauthor: Staff
+newsreporter: Staff
 newssource: People Magazine
 newsurl: http://people.com
 

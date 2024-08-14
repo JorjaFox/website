@@ -16,6 +16,7 @@
         {{ $showdata.Set "notes" .notes }}
         {{ $showdata.Set "jorjan" .jorjan }}
         {{ $showdata.Set "watch" .watch }}
+        {{ $showdata.Set "unverified" .unverified }}
     {{ end }}
 {{ end }}
 
@@ -30,6 +31,7 @@
 {{ $notes := $showdata.Get "notes" }}
 {{ $jorjan := $showdata.Get "jorjan" }}
 {{ $watch := $showdata.Get "watch" }}
+{{ $unverified := $showdata.Get "unverified" }}
 
 {{ $thumbnail := .Params.actorimage | default "/img/placeholder.png" }}
 
@@ -38,6 +40,7 @@
 <!-- Excerpt/Details -->
 
 <div class="toc toc-sidebar mb-5 my-md-0 mb-lg-5 p-3 text-body-secondary sticky-top">
+    {{- if $unverified -}}{{- partial "unconfirmed.html" }}{{ end }}
     <div class="card text-bg-light">
         <div class="card-header">
             <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>

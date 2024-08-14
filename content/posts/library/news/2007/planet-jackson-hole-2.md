@@ -1,14 +1,14 @@
 ---
 title: Planet Jackson Hole
 date: 2007-06-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: Them On Us June 13, 2007
-newsauthor: Planet Jackson Hole
+newsreporter: Planet Jackson Hole
 newssource: Planet Jackson Hole
 newsurl: http://www.planetjh.com/news/A_101301.aspx
 

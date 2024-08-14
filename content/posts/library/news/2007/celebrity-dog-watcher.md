@@ -1,14 +1,14 @@
 ---
 title: Celebrity Dog Watcher
 date: 2007-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox and Ali, the Other Boxer"
-newsauthor: Celebrity Dog Watcher
+newsreporter: Celebrity Dog Watcher
 newssource: Celebrity Dog Watcher
 newsurl: http://celebritydogwatcher.com/
 

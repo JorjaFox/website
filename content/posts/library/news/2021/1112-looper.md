@@ -1,12 +1,12 @@
 ---
 title: "Looper"
 date: 2021-11-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "This Is The Best Couple From CSI"
-newsauthor: "Nathan Richard"
+newsreporter: "Nathan Richard"
 newssource: "Looper"
 newsurl: https://www.looper.com/660068/this-is-the-best-couple-from-csi/
 ---

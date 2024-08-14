@@ -1,20 +1,20 @@
 ---
 title: The Mercury News
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle:
-newsauthor:
+newsreporter:
 newssource:
 newsurl:
 
 ---
 newstitle: "Sara leaves "CSI'' and other notes on tonight's TV  "
-newsauthor: Charlie McCollum
+newsreporter: Charlie McCollum
 newssource: The Mercury News
 newsurl: http://blogs.mercurynews.com/aei/2007/11/sara\_leaves\_csi\_and\_other\_notes\_on\_tonights\_tv.html
 

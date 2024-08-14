@@ -1,6 +1,6 @@
 ---
 title: ADI Rescue Diary
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-05-28
 interviewurl: http://adirescuediary.com/2010/05/29/rescue-diary-the-lions-arrive-and-go-free/

@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2006-01-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Q&A Jorja Fox  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
 newsurl: http://tvguide.com
 

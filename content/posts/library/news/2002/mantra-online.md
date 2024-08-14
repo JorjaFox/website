@@ -1,13 +1,13 @@
 ---
 title: Mantra Online
 date: 2002-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Briefly
-newsauthor: Staff
+newsreporter: Staff
 newssource: Mantra Online
 newsurl: http://news.mantraonline.com
 

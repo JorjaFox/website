@@ -1,6 +1,6 @@
 ---
 title: SpinDaily
-author: David Masters
+transcriber: David Masters
 layout: transcript
 date: 2007-03-16
 interviewurl: http://www.spindaily.com/

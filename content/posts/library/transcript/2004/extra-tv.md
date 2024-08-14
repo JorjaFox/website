@@ -1,6 +1,6 @@
 ---
 title: Extra TV
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2004-11-11
 interviewurl: http://www.extratv.com

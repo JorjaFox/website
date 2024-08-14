@@ -1,14 +1,14 @@
 ---
 title: Cine Tele Revue
 date: 2010-03-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Sauveront-elles les Experts?  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Cine Tele Revue
 newsurl: http://www.cinetelerevue.be
 

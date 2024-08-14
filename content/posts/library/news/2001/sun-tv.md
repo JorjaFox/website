@@ -1,13 +1,13 @@
 ---
 title: Sun TV
 date: 2001-02-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "Q&A with CSI's Jorja Fox"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Sun TV
 newsurl: http://www.canoe.ca/
 

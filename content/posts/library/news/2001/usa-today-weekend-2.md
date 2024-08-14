@@ -1,13 +1,13 @@
 ---
 title: USA Today Weekend
 date: 2001-06-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Who's News
-newsauthor: Staff
+newsreporter: Staff
 newssource: USA Today Weekend Magazine
 newsurl: http://usaweekend.com/01_issues/010617/010617whosnews.html
 

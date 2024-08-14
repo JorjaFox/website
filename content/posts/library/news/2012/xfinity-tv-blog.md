@@ -1,14 +1,14 @@
 ---
 title: Xfinity TV Blog
 date: 2012-09-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "'CSI' Boss: Season 13 Will Pull the Team Apart  "
-newsauthor: Paulette Cohn
+newsreporter: Paulette Cohn
 newssource: xfinity TV Blog
 newsurl: http://xfinity.comcast.net/blogs/tv/2012/09/11/csi-boss-season-13-will-pull-the-team-apart/
 

@@ -1,13 +1,13 @@
 ---
 title: LostRemote
 date: 2015-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: CSI Series Finale Drives Little Social Buzz
-newsauthor: Karen Fratti
+newsreporter: Karen Fratti
 newssource: LostRemote
 newsurl: http://www.adweek.com/lostremote/csi-series-finale-drives-little-social-buzz/54032
 

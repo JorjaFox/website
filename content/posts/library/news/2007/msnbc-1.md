@@ -1,14 +1,14 @@
 ---
 title: MSNBC
 date: 2007-09-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Should 'CSI's' Sara Sidle live or die?"
-newsauthor: MSNBC
+newsreporter: MSNBC
 newssource: MSNBC
 newsurl: http://www.msnbc.msn.com/id/20958227/
 

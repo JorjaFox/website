@@ -1,13 +1,13 @@
 ---
 title: TV Guide
 date: 2004-11-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Days' Diva Gender-Bends on CSI"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
 newsurl: http://www.tvguide.com
 

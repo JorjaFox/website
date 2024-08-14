@@ -1,14 +1,14 @@
 ---
 title: The Day
 date: 2007-10-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja on my Mind  "
-newsauthor: Elissa Bass
+newsreporter: Elissa Bass
 newssource: The Day
 newsurl: http://www.theday.com/re.aspx?re=a096bb22-8455-4798-9510-c6773984ccd4
 

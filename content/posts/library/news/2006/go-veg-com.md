@@ -1,14 +1,14 @@
 ---
 title: Go Veg.com
 date: 2006-05-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Investigate Vegetarianism With CSIs Jorja Fox  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Go Veg
 newsurl: http://www.goveg.com
 

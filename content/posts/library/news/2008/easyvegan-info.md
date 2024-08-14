@@ -1,14 +1,14 @@
 ---
 title: EasyVegan.info
 date: 2008-11-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: "Sara Sidle: From 'CSI' to Terra-ist  "
-newsauthor: Kelly
+newsreporter: Kelly
 newssource: easyVegan.info
 newsurl: http://www.easyvegan.info/2008/11/07/sara-sidle-from-csi-to-terra-ist/
 

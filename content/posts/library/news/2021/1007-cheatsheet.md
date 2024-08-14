@@ -1,12 +1,12 @@
 ---
 title: "Cheatsheet"
 date: 2021-10-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas’: Jorja Fox Believes It Would Be ‘Almost Impossible’ For Sara To Return Without Grissom"
-newsauthor: "Nicole Weaver"
+newsreporter: "Nicole Weaver"
 newssource: "Cheatsheet"
 newsurl: https://www.cheatsheet.com/entertainment/csi-vegas-jorja-fox-says-playing-gil-sara-married-couple-fun.html/
 ---

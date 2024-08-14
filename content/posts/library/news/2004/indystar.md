@@ -1,13 +1,13 @@
 ---
 title: IndyStar
 date: 2004-07-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Fired 'CSI' stars will return to show after all"
-newsauthor: Staff
+newsreporter: Staff
 newssource: IndyStar
 newsurl: http://www.indystar.com/
 

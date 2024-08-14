@@ -1,14 +1,14 @@
 ---
 title: BuddyTV
 date: 2007-11-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "CSI: Sara Sidle Says Goodbye "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Buddy TV
 newsurl: http://www.buddytv.com
 

@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2008-06-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Oh No They Didn't!"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: http://www.tvguide.com/Magazine/
 

@@ -1,14 +1,14 @@
 ---
 title: Pedro and the Watcher
 date: 2011-07-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Jorja Fox returns to 'CSI' as a regular  "
-newsauthor: The Watcher
+newsreporter: The Watcher
 newssource: Pedro and the Watcher
 newsurl: http://pedrowatcher.ocregister.com/2011/07/20/jorja-fox-returns-to-csi-as-a-regular/39777/
 

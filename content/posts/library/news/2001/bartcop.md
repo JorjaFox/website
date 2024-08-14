@@ -1,13 +1,13 @@
 ---
 title: BartCop
 date: 2001-02-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "Do you know who Jorja Fox is?"
-newsauthor: BartCop
+newsreporter: BartCop
 newssource: BartCop's Political Page
 newsurl: http://www.bartcop.com/0401.htm
 

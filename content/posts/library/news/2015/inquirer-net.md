@@ -1,13 +1,13 @@
 ---
 title: Inquirer.net
 date: 2015-09-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "William Petersen dishes on 'CSI' finale and new show"
-newsauthor: Ruben V. Nepales
+newsreporter: Ruben V. Nepales
 newssource: Inquirer.net
 newsurl: http://entertainment.inquirer.net/179642/william-petersen-dishes-on-csi-finale-and-new-show
 

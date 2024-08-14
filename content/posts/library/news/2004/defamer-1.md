@@ -1,13 +1,13 @@
 ---
 title: Defamer Business
 date: 2004-07-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Trade Round-Up: No More Negative Oscar Ads"
-newsauthor: Mark
+newsreporter: Mark
 newssource: Defamer Business
 newsurl: http://defamer.com/hollywood/business/trade-round+up-no-more-negative-oscar-campaign-ads-17788.php
 

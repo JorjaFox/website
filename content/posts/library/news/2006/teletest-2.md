@@ -1,14 +1,14 @@
 ---
 title: Teletext
 date: 2006-05-31
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Interview  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Teletext
 newsurl:
 

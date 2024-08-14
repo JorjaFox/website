@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2005-04-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Moment of the Week"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
 newsurl: http://www.tvguide.com/
 

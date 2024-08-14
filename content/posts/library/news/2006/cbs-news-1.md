@@ -1,14 +1,14 @@
 ---
 title: CBS News
 date: 2006-05-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "What is Up With Gil And Sara?  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: CBS News
 newsurl: http://www.cbsnews.com
 

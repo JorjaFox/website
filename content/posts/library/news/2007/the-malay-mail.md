@@ -1,14 +1,14 @@
 ---
 title: The Malay Mail
 date: 2007-03-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "CoverStory: Grissom and gang back to bust crime! - the bright lights of vegas return with season 7"
-newsauthor: The Malay Mail
+newsreporter: The Malay Mail
 newssource: The Malay Mail
 newsurl: http://www.mmail.com.my
 

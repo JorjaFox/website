@@ -1,14 +1,14 @@
 ---
 title: TV Fanatic
 date: 2012-12-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "CSI Review: Shaking The Family Tree  "
-newsauthor: Jim Garner
+newsreporter: Jim Garner
 newssource: TV Fanatic
 newsurl: http://www.tvfanatic.com/2012/12/csi-review-shaking-the-family-tree/
 

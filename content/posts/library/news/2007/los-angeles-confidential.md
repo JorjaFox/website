@@ -1,14 +1,14 @@
 ---
 title: Los Angeles Confidential
 Date: 2007-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja's a Peach  "
-newsauthor: Deborah Corday and Drew Seltzer
+newsreporter: Deborah Corday and Drew Seltzer
 newssource: Los Angeles Confidential
 newsurl: http://www.la-confidential.com
 

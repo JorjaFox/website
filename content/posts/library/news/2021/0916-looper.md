@@ -1,12 +1,12 @@
 ---
 title: "Looper"
 date: 2021-09-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "The Real Reason George Eads And Jorja Fox Were Fired From CSI"
-newsauthor: "Scott Chernoff"
+newsreporter: "Scott Chernoff"
 newssource: "Looper"
 newsurl: https://www.looper.com/607579/the-real-reason-george-eads-and-jorja-fox-were-fired-from-csi/
 aliases:

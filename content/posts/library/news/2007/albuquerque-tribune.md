@@ -1,14 +1,14 @@
 ---
 title: Albuquerque Tribune
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "What's on tonight: Thursday, Nov. 15"
-newsauthor: Mary-Ann McBride
+newsreporter: Mary-Ann McBride
 newssource: Albuquerque Tribune
 newsurl: http://www.abqtrib.com/news/2007/nov/15/whats-tonight-thursday-nov-15/
 

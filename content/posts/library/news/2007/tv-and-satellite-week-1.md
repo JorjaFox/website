@@ -2,14 +2,14 @@
 title: TV & Satellite Week
 
 date: 2007-01-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "CSI uncovered"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: http://www.ipcmedia.com/
 

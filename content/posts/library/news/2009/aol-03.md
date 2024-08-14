@@ -1,14 +1,14 @@
 ---
 title: AOL TV
 date: 2009-08-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox Interview on Returning to 'CSI'  "
-newsauthor: Sandra Deane
+newsreporter: Sandra Deane
 newssource: AOL TV
 newsurl: http://television.aol.com/insidetv/2009/08/18/jorja-fox-interview-on-returning-to-csi/
 

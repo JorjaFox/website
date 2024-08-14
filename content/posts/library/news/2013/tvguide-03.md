@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2013-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "CSI: Catherine and Sara INTERROGATED  "
-newsauthor: Craig Tomashoff
+newsreporter: Craig Tomashoff
 newssource: TV Guide Magazine
 newsurl: http://www.tvguidemagazine.com/
 

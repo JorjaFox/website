@@ -1,13 +1,13 @@
 ---
 title: Better Nutrition
 date: 2003-02-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: sweet jorja fox
-newsauthor: Barbara Hey
+newsreporter: Barbara Hey
 newssource: Better Nutrition
 newsurl: http://www.betternutrition.com
 

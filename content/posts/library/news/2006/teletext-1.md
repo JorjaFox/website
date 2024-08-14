@@ -1,14 +1,14 @@
 ---
 title: Teletext
 date: 2006-05-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Life in the Worlds Most Popular Show  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Teletext
 newsurl: http://teletext.com
 

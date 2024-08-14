@@ -1,13 +1,13 @@
 ---
 title: TV Choice
 date: 2013-04-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 newstitle: "Interview Extra: Jorja Fox  "
-newsauthor: David Collins
+newsreporter: David Collins
 newssource: TV Choice
 newsurl: http://www.tvchoicemagazine.co.uk/interviewextra/jorja-fox-csi-crime-scene-investigation
 

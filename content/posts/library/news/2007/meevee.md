@@ -1,14 +1,14 @@
 ---
 title: MeeVee
 date: 2007-10-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Save 'CSI's' Sara, Or Spend The Money On Crack?"
-newsauthor: MeeVee
+newsreporter: MeeVee
 newssource: MeeVee
 newsurl: http://blog.meevee.com/my_weblog/2007/10/save-csis-sara-.html
 

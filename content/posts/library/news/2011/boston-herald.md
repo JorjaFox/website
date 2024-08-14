@@ -1,14 +1,14 @@
 ---
 title: Boston Herald
 date: 2011-11-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Traveling circuses could lose exotic animals  "
-newsauthor: Bob Strauss / Daily News, Los Angeles
+newsreporter: Bob Strauss / Daily News, Los Angeles
 newssource: Boston Herald
 newsurl: http://news.bostonherald.com/entertainment/lifestyle/view/20111103traveling_circuses_could_lose_exotic_animals/
 

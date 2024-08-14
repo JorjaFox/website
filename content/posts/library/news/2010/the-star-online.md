@@ -1,14 +1,14 @@
 ---
 title: The Star Online
 date: 2010-02-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Sara's Back!  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Star Online
 newsurl: http://www.star-ecentral.com/news/story.asp?file=/2010/2/19/tvnradio/5694184&sec=tvnradio
 

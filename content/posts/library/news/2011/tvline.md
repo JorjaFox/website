@@ -1,14 +1,14 @@
 ---
 title: TVLine
 date: 2011-07-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "CSI Exclusive: Jorja Fox Rejoins Series Regular Ranks For Season 12  "
-newsauthor: Michael Ausiello
+newsreporter: Michael Ausiello
 newssource: TVLine
 newsurl: http://www.tvline.com/2011/07/csi-jorja-fox-series-regular-season-12/
 

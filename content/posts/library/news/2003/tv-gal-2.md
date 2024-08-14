@@ -1,13 +1,13 @@
 ---
 title: TV Gal
 date: 2003-05-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: TV Gal Critiques Techniques
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Gal
 newsurl: http://tv.zap2it.com
 

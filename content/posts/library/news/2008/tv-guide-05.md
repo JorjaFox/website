@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2008-06-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Jorja's Coming Back to 'CSI'"
-newsauthor: Franck Ragaine
+newsreporter: Franck Ragaine
 newssource: TV Guide Magazine
 newsurl: http://www.tvguide.com/Magazine/
 

@@ -1,14 +1,14 @@
 ---
 title: TV Line
 date: 2011-04-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Preview: Lady Heather Returns to CSI -- With Ties to Big Bad Nate Haskell?  "
-newsauthor: Megan Masters
+newsreporter: Megan Masters
 newssource: TVLine
 newsurl: http://www.tvline.com/2011/04/csi-preview-lady-heather-melinda-clarke/
 

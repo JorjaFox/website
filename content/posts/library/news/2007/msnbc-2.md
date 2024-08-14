@@ -1,14 +1,14 @@
 ---
 title: MSNBC
 date: 2007-11-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Fans fear 'CSI' will suffer without Sara Sidle  "
-newsauthor: MSNBC
+newsreporter: MSNBC
 newssource: MSNBC
 newsurl: http://www.msnbc.msn.com/id/21777452/
 

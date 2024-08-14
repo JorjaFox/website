@@ -1,13 +1,13 @@
 ---
 title: TV Guide
 date: 2000-12-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newstitle: CSI's Foxy Lady
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
 newsurl: http://www.tvguide.com/newsgossip/insider/001208a.asp
 

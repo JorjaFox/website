@@ -1,6 +1,6 @@
 ---
 title: CTV eTalkDaily
-author: David Masters
+transcriber: David Masters
 layout: transcript
 interviewurl: http://www.ctv.ca
 date: 2006-04-13

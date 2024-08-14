@@ -1,14 +1,14 @@
 ---
 title: TV Fanatic
 date: 2013-05-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "'We're number one in the world'  "
-newsauthor: Jim Halterman
+newsreporter: Jim Halterman
 newssource: TV Fanatic
 newsurl: http://www.tvfanatic.com/2013/05/csi-exclusive-elisabeth-harnois-on-season-13-finale-morgan-under/
 

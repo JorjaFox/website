@@ -1,14 +1,14 @@
 ---
 title: The Watcher
 date: 2006-05-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Solving the mystery of the CSI finale shocker  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Watcher - A Chicago Tribune Web log
 newsurl: http://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/solving\_the_mys.html
 

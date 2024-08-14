@@ -1,14 +1,14 @@
 ---
 title: TV Fodder
 date: 2007-10-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: 'Jorja Fox Says Sayonara to "CSI"'
-newsauthor: TV Fodder
+newsreporter: TV Fodder
 newssource: TV Fodder
 newsurl: http://www.tvfodder.com
 

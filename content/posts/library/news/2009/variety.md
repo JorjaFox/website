@@ -1,14 +1,14 @@
 ---
 title: Variety
 date: 2009-08-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Broadcasters stack Thursday lineups  "
-newsauthor: Rick Kissell
+newsreporter: Rick Kissell
 newssource: Variety
 newsurl: http://www.variety.com/article/VR1118007290.html?categoryid=14&cs=1
 

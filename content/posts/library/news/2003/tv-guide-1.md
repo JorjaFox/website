@@ -1,13 +1,13 @@
 ---
 title: TV Guide
 date: 2003-02-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Celebrity Chef
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide Canada
 newsurl: http://tvguide.ca
 

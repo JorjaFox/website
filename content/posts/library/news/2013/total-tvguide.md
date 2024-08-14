@@ -1,14 +1,14 @@
 ---
 title: Total TVguide
 date: 2013-04-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "'We're number one in the world'  "
-newsauthor: David Collins
+newsreporter: David Collins
 newssource: Total TVguide
 newsurl: http://www.tvchoicemagazine.co.uk/
 

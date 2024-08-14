@@ -1,14 +1,14 @@
 ---
 title: TV Guide.com
 date: 2011-05-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "*CSI* Finale: Will This Be the Final Langston-Haskell Showdown?  "
-newsauthor: Adam Bryant
+newsreporter: Adam Bryant
 newssource: TV Guide.com
 newsurl: http://www.tvguide.com/News/CSI-Finale-Laurence-Fishburne-1032989.aspx
 

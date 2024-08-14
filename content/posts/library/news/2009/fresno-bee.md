@@ -1,14 +1,14 @@
 ---
 title: Fresno Bee
 date: 2009-08-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Ex-'CSI' star drops in on 'Drop Dead Diva' "
-newsauthor: Rick Bently
+newsreporter: Rick Bently
 newssource: Fresno Bee
 newsurl: http://www.fresnobee.com/entertainment/tv-radio/story/1599029.html
 

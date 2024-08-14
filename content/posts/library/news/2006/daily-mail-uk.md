@@ -1,14 +1,14 @@
 ---
 title: Daily Mail UK
 date: 2006-02-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "The lowdown on ...  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Daily Mail UK
 newsurl: http://www.dailymail.co.uk
 

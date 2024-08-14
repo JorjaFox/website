@@ -1,14 +1,14 @@
 ---
 title: Insider
 date: 2005-06-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Inside with CSI's Jorja Fox!"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Insider
 newsurl: http://insider.tv.yahoo.com/
 

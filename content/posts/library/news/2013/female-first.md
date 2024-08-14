@@ -1,14 +1,14 @@
 ---
 title: Female First
 date: 2013-02-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Jorja Fox Exclusive CSI Interview  "
-newsauthor: Cameron Smith
+newsreporter: Cameron Smith
 newssource: Female First
 newsurl: http://www.femalefirst.co.uk/tv/jorja-fox-csi-interview-281784.html
 

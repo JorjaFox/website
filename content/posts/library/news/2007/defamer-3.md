@@ -1,14 +1,14 @@
 ---
 title: Defamer
 date: 2007-10-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Fans Still Believe Cute Food Deliveries Can Sway TV Decision"
-newsauthor: Mark
+newsreporter: Mark
 newssource: Defamer Hollywood
 newsurl: http://defamer.com
 

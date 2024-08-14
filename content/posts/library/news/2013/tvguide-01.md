@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2013-03-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Ask Matt: Zero's Epic Fail, CSI Split, Americans, Following, Southland"
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: TV Guide
 newsurl: http://www.tvguide.com/News/Ask-Matt-Zero-Hour-1062162.aspx
 

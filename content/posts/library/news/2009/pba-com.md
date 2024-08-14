@@ -1,14 +1,14 @@
 ---
 title: PBA.com
 date: 2009-11-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "JASON'S TV RECAP UNCENSORED - My CSI Experience  "
-newsauthor: Jason Thomas
+newsreporter: Jason Thomas
 newssource: PBA.com
 newsurl: http://www.pba.com/news/feature.asp?ID=1681
 

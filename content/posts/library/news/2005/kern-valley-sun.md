@@ -1,14 +1,14 @@
 ---
 title: Kern Valley Sun
 date: 2005-01-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Crime Lab Day in Bakersfield Jan. 13"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Kern Valley Sun
 newsurl: http://www.kvsun.com
 

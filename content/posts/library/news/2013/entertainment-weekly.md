@@ -1,14 +1,14 @@
 ---
 title: Entertainment Weekly
 date: 2013-02-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "'CSI's' Long-Suffering Power Couple Face The Music  "
-newsauthor: Lynette Rice
+newsreporter: Lynette Rice
 newssource: Entertainment Weekly
 newsurl: http://www.ew.com
 

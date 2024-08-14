@@ -1,14 +1,14 @@
 ---
 title: The Futon Critic
 date: 2009-09-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Interview: Executive Producer Naren Shankar on 'CSI's' Post-Petersen World  "
-newsauthor: Jim Halterman
+newsreporter: Jim Halterman
 newssource: The Futon Critic
 newsurl: http://www.thefutoncritic.com/rant.aspx?id=20090924_csi
 

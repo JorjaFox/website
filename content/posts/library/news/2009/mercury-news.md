@@ -1,14 +1,14 @@
 ---
 title: Mercury News
 date: 2009-08-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox returns to 'CSI'  "
-newsauthor: Chuck Barney
+newsreporter: Chuck Barney
 newssource: A+E Interactive
 newsurl: http://blogs.mercurynews.com/aei/2009/07/20/jorja-fox-returns-to-csi/
 

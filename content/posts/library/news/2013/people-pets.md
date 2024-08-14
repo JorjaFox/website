@@ -1,14 +1,14 @@
 ---
 title: People Pets
 date: 2013-11-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Jorja Fox Introduces Her New Rescue Dog  "
-newsauthor: K.C. BLUMM
+newsreporter: K.C. BLUMM
 newssource: People Pets
 newsurl: http://www.peoplepets.com/people/pets/article/0,,20754984,00.html
 

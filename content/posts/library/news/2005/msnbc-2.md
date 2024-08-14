@@ -1,14 +1,14 @@
 ---
 title: MSNBC
 date: 2005-10-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "06 October"
-newsauthor: Staff
+newsreporter: Staff
 newssource: MSNBC
 newsurl: http://msnbc.com
 

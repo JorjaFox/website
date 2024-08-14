@@ -1,7 +1,7 @@
 ---
 title: Issues with Jane Velez-Mitchell
 date: 2011-10-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]

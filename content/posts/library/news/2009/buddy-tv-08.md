@@ -1,13 +1,13 @@
 ---
 title: BuddyTV
 date: 2009-08-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 newstitle: "CSI: Sara and Grissom 'Absolutely Ended Up Together'"
-newsauthor: Henrik Batallones
+newsreporter: Henrik Batallones
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx
 

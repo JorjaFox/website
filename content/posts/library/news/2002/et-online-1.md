@@ -1,13 +1,13 @@
 ---
 title: ET Online
 date: 2002-10-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: "CSI's Invasion of the Little People"
-newsauthor: Staff
+newsreporter: Staff
 newssource: ET Online
 newsurl: http://etonline.com
 

@@ -1,12 +1,12 @@
 ---
 title: "TVLine"
 date: 2021-12-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "CSI: Vegas Showrunner Solves the Mystery of That Cut 'GSR' Kiss"
-newsauthor: "Matt Mitovitch"
+newsreporter: "Matt Mitovitch"
 newssource: "TVLine"
 newsurl: https://tvline.com/2021/12/18/csi-vegas-cut-sara-grissom-kiss-1x04/s
 ---

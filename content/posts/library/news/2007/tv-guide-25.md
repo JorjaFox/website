@@ -1,14 +1,14 @@
 ---
 title: TV Guide
 date: 2007-07-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Is 'CSI' On the Hunt for a New Jorja Fox?"
-newsauthor: TV Guide
+newsreporter: TV Guide
 newssource: TV Guide
 newsurl: http://community.tvguide.com/
 

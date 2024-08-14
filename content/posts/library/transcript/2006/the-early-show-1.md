@@ -1,6 +1,6 @@
 ---
 title: The Early Show
-author: David Masters
+transcriber: David Masters
 layout: transcript
 interviewurl: http://www.cbsnews.com/earlyshow/
 date: 2006-05-11

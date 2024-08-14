@@ -1,14 +1,14 @@
 ---
 title: Chicago Tribune
 date: 2006-07-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "It's about time 'CSI' got personal  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Chicago Tribune
 newsurl: http://www.chicagotribune.com
 

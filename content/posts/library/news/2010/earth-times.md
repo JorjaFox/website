@@ -1,14 +1,14 @@
 ---
 title: Earth Times
 date: 2010-05-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "CSI Star Jorja Fox to Provide Updates on Incredible Bolivian Lion Journey  "
-newsauthor: Animal Defenders International
+newsreporter: Animal Defenders International
 newssource: Earth Times
 newsurl: http://www.earthtimes.org/articles/show/csi-star-jorja-fox-to,1308038.shtml
 

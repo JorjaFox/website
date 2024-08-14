@@ -1,14 +1,14 @@
 ---
 title: Comcast TV Blog
 date: 2012-05-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "'CSI' Finale Promises the Introduction of Mrs. Russell -- and the Ultimate Home Invasion  "
-newsauthor: Paulette Cohn
+newsreporter: Paulette Cohn
 newssource: Comcast TV Blog
 newsurl: http://xfinity.comcast.net/blogs/tv/2012/05/09/csi-finale-scoop-peri-gilpin-homecoming-ted-danson/
 

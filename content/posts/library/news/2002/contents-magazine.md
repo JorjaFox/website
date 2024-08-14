@@ -1,13 +1,13 @@
 ---
 title: Contents Magazine
 date: 2002-06-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Contents
-newsauthor: Staff
+newsreporter: Staff
 newssource: Contents
 newsurl: http://contents.com
 

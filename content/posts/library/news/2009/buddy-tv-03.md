@@ -1,14 +1,14 @@
 ---
 title: BuddyTV
 date: 2009-08-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox Knows 'CSI' Ain't Exactly for Romantic Stuff (Which Is Perhaps Why She Did 'Drop Dead Diva')  "
-newsauthor: Henrik Batallones
+newsreporter: Henrik Batallones
 newssource: Buddy TV
 newsurl: http://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx
 

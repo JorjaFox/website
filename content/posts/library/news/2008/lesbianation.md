@@ -1,14 +1,14 @@
 ---
 title: LesbiaNataion
 date: 2008-01-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Women We Love"
-newsauthor: Shane Cassidy
+newsreporter: Shane Cassidy
 newssource: LesbiaNataion
 newsurl: http://www.lesbianation.com/scene/index.cfm?listID=193
 

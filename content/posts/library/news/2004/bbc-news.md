@@ -1,13 +1,13 @@
 ---
 title: BBC News
 date: 2004-07-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "CSI star fired in 'pay dispute'"
-newsauthor: Staff
+newsreporter: Staff
 newssource: BBC
 newsurl: http://news.bbc.co.uk/1/hi/entertainment/film/3899613.stm
 

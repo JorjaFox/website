@@ -1,14 +1,14 @@
 ---
 title: TV Guide Magazine
 date: 2009-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Ask Matt: 'House' Cleaning  "
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: Ask Matt
 newsurl: http://www.tvguidemagazine.com/ask-matt/ask-matt-house-cleaning-2583.html
 

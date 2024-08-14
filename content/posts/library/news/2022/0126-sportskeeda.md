@@ -1,12 +1,12 @@
 ---
 title: "SK Pop"
 date: 2022-01-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
 categories: ["Articles", "News"]
 newstitle: "What is Jorja Fox's net worth? Fortune explored as actress quits CSI: Vegas"
-newsauthor: "Amlan Chakraborty"
+newsreporter: "Amlan Chakraborty"
 newssource: "SK Pop"
 newsurl: https://www.sportskeeda.com/pop-culture/news-what-jorja-fox-s-net-worth-fortune-explored-actress-quits-csi-vegas-1
 ---

@@ -1,13 +1,13 @@
 ---
 title: Variety
 date: 2015-09-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "'CSI' Finale: Creator Anthony Zuiker on Emotional Endings, Origins and Longevity"
-newsauthor: Cynthia Littleton
+newsreporter: Cynthia Littleton
 newssource: Variety
 newsurl: http://variety.com/2015/tv/news/csi-finale-anthony-zuiker-cbs-william-petersen-1201603451/
 

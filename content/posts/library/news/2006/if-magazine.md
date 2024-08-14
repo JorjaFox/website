@@ -1,14 +1,14 @@
 ---
 title: If Magazine
 date: 2006-05-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "TV Review: C.S.I. - CRIME SCENE INVESTIGATION - Season 6 - 'Way To Go'"
-newsauthor: Staff
+newsreporter: Staff
 newssource: If Magazine
 newsurl: http://www.ifmagazine.com
 

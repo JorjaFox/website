@@ -1,14 +1,14 @@
 ---
 title: CBS News
 date: 2005-11-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Dissecting CSIs Success Story"
-newsauthor: Staff
+newsreporter: Staff
 newssource: CBS News
 newsurl: http://www.cbsnews.com
 

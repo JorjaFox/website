@@ -1,13 +1,13 @@
 ---
 title: The Wire
 date: 2014-09-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Fifteen Years at County General: Definitively Ranking the Cast of 'ER'"
-newsauthor: David Sims
+newsreporter: David Sims
 newssource: The Wire
 newsurl: http://www.thewire.com/entertainment/2014/09/fifteen-years-at-county-general-definitively-ranking-all-of-ers-doctors-and-nurses/380164/
 

@@ -1,14 +1,14 @@
 ---
 title: TV Barn
 date: 2009-01-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "About that sentimental 'CSI' sendoff for Grissom ...  "
-newsauthor: Aaron Barnhart
+newsreporter: Aaron Barnhart
 newssource: TV Barn
 newsurl: http://blogs.kansascity.com/tvbarn/2009/01/about-that-sent.html
 

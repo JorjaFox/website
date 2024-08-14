@@ -1,14 +1,14 @@
 ---
 title: Associated Content
 date: 2007-04-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Is Jorja Fox Leaving CSI?!"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Associated Content
 newsurl: http://www.associatedcontent.com/
 

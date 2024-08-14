@@ -1,14 +1,14 @@
 ---
 title: E Online
 date: 2007-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' Losing Fox, Wins Ratings"
-newsauthor: "E! Online"
+newsreporter: "E! Online"
 newssource: "E! Online"
 newsurl: http://www.eonline.com
 

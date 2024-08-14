@@ -1,14 +1,14 @@
 ---
 title: North Texas E-news
 date: 2008-07-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "North Texas E-news  "
-newsauthor: Animal Defenders International media release
+newsreporter: Animal Defenders International media release
 newssource: North Texas E-news
 newsurl: http://www.ntxe-news.com/artman/publish/article_47389.shtml
 

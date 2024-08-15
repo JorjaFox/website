@@ -1,17 +1,18 @@
-{{ $display := "main" }}
-{{ $listname := "announcements" }}
+{{- $display := "main" -}}
+{{- $listname := "announcements" -}}
+{{- $headermsg := "Join the mailing List" -}}
 
 {{ if .Get "list" }}
     {{ $display = .Get "list" }}
 {{ end }}
 
 {{ if eq $display "main" }}
-    {{ $submitbutton = "Join the Fans of LeFox Announcement List" }}
+    {{ $headermsg = "Join the Fans of LeFox Announcement List" }}
 {{ else if eq $display "unsubscribe" }}
-	{{ $submitbutton = "Leave the Fans of LeFox Announcement List" }}
+	{{ $headermsg = "Leave the Fans of LeFox Announcement List" }}
 {{ else }}
-    {{ $submitbutton = $display }}
+    {{ $headermsg = $display }}
     {{ $listname = $display }}
 {{ end }}
 
-{{ partial "mailinglist.html" (dict "submitbutton" $submitbutton "listname" $listname "display" $display) }}
+{{ partial "mailinglist.html" (dict "headermsg" $headermsg "listname" $listname "display" $display) }}

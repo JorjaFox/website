@@ -4,7 +4,7 @@ date: '2024-08-14'
 layout: minimal
 ---
 
-{{< alert color="warning" icon="fas fa-alert" >}}
+{{< alert color="warning" icon="fas fa-triangle-exclamation" >}}
     Your email address is invalid.
 {{< /alert >}}
 

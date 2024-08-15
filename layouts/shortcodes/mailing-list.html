@@ -5,7 +5,11 @@
 {{ end }}
 
 {{ if eq $display "main" }}
-    <div class="ml-embedded" data-form="ZO2psd"></div>
+    {{ $submitbutton = "Join the Fans of LeFox Announcement List" }}
+    {{ $listname = "Fans of LeFox Announcements" }}
 {{ else }}
-    {{ $display }}
+    {{ $submitbutton = $display }}
+    {{ $listname = $display }}
 {{ end }}
+
+{{ partial "mailinglist.html" (dict "submitbutton" $submitbutton "listname" $listname) }}

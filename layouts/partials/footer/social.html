@@ -19,11 +19,11 @@
     <div class="container-xxl px-3 px-xxl-0 py-5">
         <div class="row">
             <div class="col-md-4 small">
-                <a href="{{ site.Home.RelPermalink }}">
-                    {{- partial "assets/image.html" (dict "url" "/img/logo.svg" "wrapper" "w-25" "title" "Fans of LeFox") -}}
-                </a>
-                <div class="pt-3"><p>{{ $description }}</p></div>
-
+                <div class="pt-3"><center>
+                    <a href="{{ site.Home.RelPermalink }}"><img class="img-fluid " src="/img/logo.svg" height="150" width="150" alt="Fans of LeFox"></a>
+                </center></div>
+            </div>
+            <div class="col-md-4 small">
                 {{- range $menu := $menus -}}
                     <div class="fs-md-5 fs-6 fw-bold footer-muted">{{ .Name }}</div>
                     {{- range .Children -}}
@@ -33,7 +33,6 @@
                     {{- end -}}
                 {{- end -}}
             </div>
-            <div class="col-md-4 small">&nbsp;</div>
             <div class="col-md-4 small">
                 {{ partial "mailinglist.html" (dict "headermsg" "Join the Fans of LeFox Announcement List" "listname" "announcements" "display" "main") }}
             </div>

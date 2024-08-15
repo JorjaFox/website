@@ -4,8 +4,12 @@ date: '2024-08-14'
 layout: minimal
 ---
 
-Changed your mind? We're sorry to see you go, but we understand sometimes it's not for you.
+{{< alert color="success" icon="fas fa-face-sad-cry" >}}
+    You have been unsubscribed.
+{{< /alert >}}
 
-You can use the unsubscribe form:
+We're sorry to see you go, but we understand sometimes it's not for you.
 
-{{< mailing-list list="unsubscribe" >}}
+Changed your mind? You can always come back!
+
+{{< mailing-list list="main" >}}

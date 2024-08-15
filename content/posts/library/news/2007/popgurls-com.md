@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "PopGurls Interview: CSI's Jorja Fox"
 newsreporter: Popgurls.com
 newssource: Popgurls.com
-newsurl: http://www.popgurls.com/article_show.php3?id=661
+newsurl: https://www.popgurls.com/article_show.php3?id=661
 
 ---
 

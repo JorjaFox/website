@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "It can be difficult to keep track of 'CSI' character  "
 newsreporter: Staff
 newssource: JSOnline
-newsurl: http://www.jsonline.com/entertainment/tvradio/98760869.html
+newsurl: https://www.jsonline.com/entertainment/tvradio/98760869.html
 
 ---
 

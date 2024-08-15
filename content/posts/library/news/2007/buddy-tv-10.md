@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "CSI: The Departure of Sara Sidle "
 newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/
+newsurl: https://www.buddytv.com/
 
 ---
 

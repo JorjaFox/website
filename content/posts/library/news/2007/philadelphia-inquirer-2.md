@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Dave on Demand | Actresses seek raises, but they get mayhem"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
-newsurl: http://www.philly.com
+newsurl: https://www.philly.com
 
 ---
 

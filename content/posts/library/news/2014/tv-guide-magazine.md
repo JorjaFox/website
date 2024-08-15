@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "Returning Favorites: CSI"
 newsreporter: Michael Logan
 newssource: TV Guide Magazine
-newsurl: http://tvguidemagazine.com
+newsurl: https://tvguidemagazine.com
 
 ---
 

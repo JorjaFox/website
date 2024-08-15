@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI Stars Canned"
 newsreporter: Staff
 newssource: Hollywood.com
-newsurl: http://www.hollywood.com
+newsurl: https://www.hollywood.com
 
 ---
 

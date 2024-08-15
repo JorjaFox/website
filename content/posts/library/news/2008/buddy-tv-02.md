@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Jorja Fox Makes Her 'CSI' Comeback  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/jorja-fox-makes-her-csi-comeba-19848.aspx
+newsurl: https://www.buddytv.com/articles/csi/jorja-fox-makes-her-csi-comeba-19848.aspx
 
 ---
 

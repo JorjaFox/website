@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox and Ali, the Other Boxer"
 newsreporter: Celebrity Dog Watcher
 newssource: Celebrity Dog Watcher
-newsurl: http://celebritydogwatcher.com/
+newsurl: https://celebritydogwatcher.com/
 
 ---
 

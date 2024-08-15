@@ -11,7 +11,7 @@ tags: ["2013"]
 newstitle: "Hollywood's Healthiest Snacks  "
 newsreporter: Gerri Miller
 newssource: Everyday Health
-newsurl: http://www.everydayhealth.com/photogallery/starsecrets/favoritehealthysnack.aspx#/slide-7
+newsurl: https://www.everydayhealth.com/photogallery/starsecrets/favoritehealthysnack.aspx#/slide-7
 
 ---
 

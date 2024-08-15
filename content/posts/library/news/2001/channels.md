@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: Jorja Peaches
 newsreporter: Staff
 newssource: Channels
-newsurl: http://channels.com
+newsurl: https://channels.com
 
 ---
 Fox heads the network war and forces CBS ratings to exploit all grounds. No stranger to television - this brunette meets more than just the average eye.

@@ -11,7 +11,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox is leaving 'CSI'  "
 newsreporter: Cristina Kinon
 newssource: NY Daily News
-newsurl: http://www.nydailynews.com/entertainment/tv/2007/10/16/2007-10-16\_jorja\_fox\_is\_leaving_csi-1.html
+newsurl: https://www.nydailynews.com/entertainment/tv/2007/10/16/2007-10-16\_jorja\_fox\_is\_leaving_csi-1.html
 
 ---
 Jorja Fox has confirmed the talk: She has quit "CSI: Crime Scene Investigation."

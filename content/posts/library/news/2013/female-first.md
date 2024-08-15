@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "Jorja Fox Exclusive CSI Interview  "
 newsreporter: Cameron Smith
 newssource: Female First
-newsurl: http://www.femalefirst.co.uk/tv/jorja-fox-csi-interview-281784.html
+newsurl: https://www.femalefirst.co.uk/tv/jorja-fox-csi-interview-281784.html
 
 ---
 

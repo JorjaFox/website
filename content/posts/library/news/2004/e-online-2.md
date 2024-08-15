@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI Pink Slips Two Players, O.C.ers Tee Up on Trump's Greens"
 newsreporter: Staff
 newssource: E! Online
-newsurl: http://eonline.com
+newsurl: https://eonline.com
 
 ---
 

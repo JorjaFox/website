@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "The Miniature Killer Is Revealed - But Where's Sara?"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

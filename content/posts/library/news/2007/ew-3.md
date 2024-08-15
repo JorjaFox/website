@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox leaving 'CSI' by end of '07"
 newsreporter: Staff
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com
+newsurl: https://www.ew.com
 
 ---
 

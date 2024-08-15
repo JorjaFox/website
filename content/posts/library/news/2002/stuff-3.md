@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: CSI Candy
 newsreporter: Staff
 newssource: Stuff Magazine
-newsurl: http://stuffmagazine.com/
+newsurl: https://stuffmagazine.com/
 
 ---
 We go "undercover" with C.S.I's Jorja Fox. By which we mean we dress her in crazy getups and ask her silly questions. It's our m.o.!

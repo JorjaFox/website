@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: Them On Us June 13, 2007
 newsreporter: Planet Jackson Hole
 newssource: Planet Jackson Hole
-newsurl: http://www.planetjh.com/news/A_101301.aspx
+newsurl: https://www.planetjh.com/news/A_101301.aspx
 
 ---
 

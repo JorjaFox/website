@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "PETERSEN: BACK ON 'CSI'"
 newsreporter: Carita Rizzo
 newssource: TV Guide
-newsurl: http://tvguidemagazine.com
+newsurl: https://tvguidemagazine.com
 
 ---
 

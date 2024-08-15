@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "WATCH: CSI's Jorja Fox in PSA Against Circus Elephant Abuse  "
 newsreporter: Linda St.Cyr
 newssource: Ecorazzi
-newsurl: http://www.ecorazzi.com/2012/04/20/watch-csis-jorja-fox-in-psa-against-circus-elephant-abuse/
+newsurl: https://www.ecorazzi.com/2012/04/20/watch-csis-jorja-fox-in-psa-against-circus-elephant-abuse/
 
 ---
 

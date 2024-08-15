@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Finale burning questions answered!"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com/
+newsurl: https://www.tvguide.com/
 
 ---
 

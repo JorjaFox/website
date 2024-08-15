@@ -10,7 +10,7 @@ permalink: /news/2009/:title/
 newstitle: "A smouldering photoshoot with Jorja Fox ... where do we begin?  "
 newsreporter: Deana
 newssource: Living GWG
-newsurl: http://www.greenwithglamour.com/blog/archives/472/
+newsurl: https://www.greenwithglamour.com/blog/archives/472/
 
 ---
 

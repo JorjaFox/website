@@ -3,7 +3,7 @@ title: The Reluctant Entertainers
 date: 2017-03-27
 transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://www.sharkallies.com/
+interviewurl: https://www.sharkallies.com/
 permalink: /transcript/2017/:title/
 categories: ["Interviews"]
 tags: [ "2017" ]

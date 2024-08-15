@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox Is Definitely Leaving CSI  "
 newsreporter: Kelly West
 newssource: Cinema Blend
-newsurl: http://www.cinemablend.com/
+newsurl: https://www.cinemablend.com/
 
 ---
 

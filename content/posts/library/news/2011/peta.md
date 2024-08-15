@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "CSI Star Investigates Vegetarianism  "
 newsreporter: Michelle Sherrow
 newssource: PETA
-newsurl: http://www.peta.org/b/thepetafiles/archive/2011/11/08/csi-star-investigates-vegetarianism-at-sublime.aspx
+newsurl: https://www.peta.org/b/thepetafiles/archive/2011/11/08/csi-star-investigates-vegetarianism-at-sublime.aspx
 
 ---
 

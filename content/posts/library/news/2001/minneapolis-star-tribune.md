@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: The Success of CSI is No Mystery
 newsreporter: Staff
 newssource: Minneapolis Star Tribune
-newsurl: http://www.startribune.com/
+newsurl: https://www.startribune.com/
 ---
 
 [...]

@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI: Crime Scene Investigation - The Complete Fifth Season  "
 newsreporter: Staff
 newssource: DVD Times
-newsurl: http://www.dvdtimes.co.uk
+newsurl: https://www.dvdtimes.co.uk
 
 ---
 

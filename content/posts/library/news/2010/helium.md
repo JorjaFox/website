@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Top 10 TV couples  "
 newsreporter: Heather Bellingham
 newssource: Helium
-newsurl: http://www.helium.com/items/1920801-top-10-tv-couples
+newsurl: https://www.helium.com/items/1920801-top-10-tv-couples
 
 ---
 

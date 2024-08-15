@@ -3,7 +3,7 @@ title: Extra TV
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2004-11-11
-interviewurl: http://www.extratv.com
+interviewurl: https://www.extratv.com
 permalink: /transcript/2004/:title/
 categories: ["Interviews"]
 tags: [ "2004" ]

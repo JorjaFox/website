@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Applied Science
 newsreporter: Staff
 newssource: TV Week
-newsurl: http://tvweek.com
+newsurl: https://tvweek.com
 
 ---
 

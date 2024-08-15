@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "ER Finale  "
 newsreporter: Staff
 newssource: Us Magazine
-newsurl: http://usmagazine.com
+newsurl: https://usmagazine.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: 'At CBS party, previews of "CSI," "Without a Trace," "Cold Case," "The Amazing Race" and more'
 newsreporter: Orlando Sentinel
 newssource: Orlando Sentinel
-newsurl: http://blogs.orlandosentinel.com/
+newsurl: https://blogs.orlandosentinel.com/
 
 ---
 

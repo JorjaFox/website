@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "News and Rumors"
 newsreporter: Staff
 newssource: Scarlet Carpet
-newsurl: http://www.scarletcarpet.com/
+newsurl: https://www.scarletcarpet.com/
 
 ---
 

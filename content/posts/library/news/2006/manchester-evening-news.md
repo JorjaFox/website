@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Jorja's thrill ride finale  "
 newsreporter: Staff
 newssource: Manchester Evening News
-newsurl: http://www.manchestereveningnews.co.uk
+newsurl: https://www.manchestereveningnews.co.uk
 
 ---
 

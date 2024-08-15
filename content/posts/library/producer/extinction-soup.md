@@ -13,4 +13,4 @@ excerpt: "Stefanie Brendl fights to educate lawmakers and pass ground-breaking l
 
 ## See Also
 
-* [Official Website](http://extinctionsoupmovie.com)
+* [Official Website](https://extinctionsoupmovie.com)

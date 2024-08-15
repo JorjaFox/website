@@ -8,7 +8,7 @@ categories: ["Articles", "News"]
 tags: ["2001"]
 newsreporter: Jorja Fox
 newssource: Jezebel Magazine
-newsurl: http://www.jezweb.com/
+newsurl: https://www.jezweb.com/
 newstitle: Celebrity Questionnaire
 ---
 "Note: Jorja Fox's answers were hand written, and spelling errors were not corrected."

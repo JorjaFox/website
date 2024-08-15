@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Jorja Fox - Co-producer of 'Stay Together: The Life and Music of Dusty Springfield,' which opens on Feb. 7  "
 newsreporter: Variety Staff
 newssource: Variety
-newsurl: http://www.variety.com/article/VR1117980300.html?categoryid=15&cs=1
+newsurl: https://www.variety.com/article/VR1117980300.html?categoryid=15&cs=1
 
 ---
 

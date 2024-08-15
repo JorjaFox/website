@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "06 October"
 newsreporter: Staff
 newssource: MSNBC
-newsurl: http://msnbc.com
+newsurl: https://msnbc.com
 
 ---
 **The ABCs of 'CSI': Who's dead, who dun it and who solved it.**

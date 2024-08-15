@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Jorja Fox Vists"
 newsreporter: Staff
 newssource: VIVA nacion
-newsurl: http://www.nacion.com/viva/2008/abril/17/viva1500216.html
+newsurl: https://www.nacion.com/viva/2008/abril/17/viva1500216.html
 
 ---
 

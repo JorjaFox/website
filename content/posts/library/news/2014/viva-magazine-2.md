@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "HOW DO YOU DEFINE BALANCED LIVING?"
 newsreporter: Viva Magazine
 newssource: Viva Magazine
-newsurl: http://www.vivamagonline.com/
+newsurl: https://www.vivamagonline.com/
 
 ---
 

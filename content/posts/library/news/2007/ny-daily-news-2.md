@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI' star Jorja Fox is off the case"
 newsreporter: NY Daily News
 newssource: NY Daily News
-newsurl: http://www.nydailynews.com/
+newsurl: https://www.nydailynews.com/
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: "Los Angeles' Race for the Cure"
 newsreporter: Bekah Wright
 newssource: Los Angeles Magazine
-newsurl: http://www.lamag.com
+newsurl: https://www.lamag.com
 
 ---
 

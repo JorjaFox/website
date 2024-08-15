@@ -16,7 +16,7 @@ newsurl:
 newstitle: "Sara leaves "CSI'' and other notes on tonight's TV  "
 newsreporter: Charlie McCollum
 newssource: The Mercury News
-newsurl: http://blogs.mercurynews.com/aei/2007/11/sara\_leaves\_csi\_and\_other\_notes\_on\_tonights\_tv.html
+newsurl: https://blogs.mercurynews.com/aei/2007/11/sara\_leaves\_csi\_and\_other\_notes\_on\_tonights\_tv.html
 
 ---
 There are a couple of notable departures on television tonight, csistarting Jorja Fox's last regular appearance as Sara Sidle on "CSI'' (9 p.m., CBS).

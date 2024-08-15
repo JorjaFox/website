@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Poll position"
 newsreporter: The Herald
 newssource: The Herald
-newsurl: http://www.theherald.co.uk/
+newsurl: https://www.theherald.co.uk/
 
 ---
 

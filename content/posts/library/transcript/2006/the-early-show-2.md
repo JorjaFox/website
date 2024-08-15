@@ -2,7 +2,7 @@
 title: The Early Show
 transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://www.cbsnews.com/earlyshow/
+interviewurl: https://www.cbsnews.com/earlyshow/
 date: 2006-05-19
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]

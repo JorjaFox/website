@@ -20,4 +20,4 @@ Last night the ballroom at the Four Seasons in L.A. was filled with 140 agents, 
 
 **Jorja Fox** was in attendance.
 
-Source: [Politico.com](http://www.politico.com/blogs/anneschroeder/1108/Theres_a_new_group_in_town_and_Hollywood_is_excited_to_learn_about_it.html)
+Source: [Politico.com](https://www.politico.com/blogs/anneschroeder/1108/Theres_a_new_group_in_town_and_Hollywood_is_excited_to_learn_about_it.html)

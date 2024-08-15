@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Beauty and crime?"
 newsreporter: Staff
 newssource: The Age
-newsurl: http://www.theage.com.au
+newsurl: https://www.theage.com.au
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "AOL Inside TV  "
 newsreporter: Liane Bonin
 newssource: AOL Inside TV
-newsurl: http://television.aol.com/insidetv/2009/02/05/memorable-tv-love-triangles/
+newsurl: https://television.aol.com/insidetv/2009/02/05/memorable-tv-love-triangles/
 
 ---
 

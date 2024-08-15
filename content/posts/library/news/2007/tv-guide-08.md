@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "So Long, Sara  "
 newsreporter: Staff / Mike Flaherty
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 Three separate articles/mentions can be found in this issue.

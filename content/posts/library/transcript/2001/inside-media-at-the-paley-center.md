@@ -3,7 +3,7 @@ title: Inside Media at The Paley Center
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2001-01-01
-interviewurl: http://mediaorigin.paleycenter.org/
+interviewurl: https://mediaorigin.paleycenter.org/
 permalink: /transcript/2001/:title/
 categories: ["Interviews"]
 tags: [ "2001" ]

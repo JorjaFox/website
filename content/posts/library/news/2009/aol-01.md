@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox Staying on 'CSI.' Will This Help the Ratings? "
 newsreporter: Gary Susman
 newssource: AOL Inside TV
-newsurl: http://insidetv.aol.com/2009/10/15/jorja-fox-staying-on-csi-will-this-help-the-ratings/
+newsurl: https://insidetv.aol.com/2009/10/15/jorja-fox-staying-on-csi-will-this-help-the-ratings/
 
 ---
 

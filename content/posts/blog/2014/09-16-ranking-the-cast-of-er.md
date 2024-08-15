@@ -16,7 +16,7 @@ tags:
 
 Twenty years ago, _ER_ debuted on NBC. Which means 18 years ago this winter we had the first single page version of this site. Sorry, I think I'm feeling incredibly old... if this website was a person it would be going to college, which is where it started!
 
-Okay, now that I can breathe again, The Wire has looked at [Fifteen Years at County General: Definitively Ranking the Cast of 'ER'](http://www.thewire.com/entertainment/2014/09/fifteen-years-at-county-general-definitively-ranking-all-of-ers-doctors-and-nurses/380164/)
+Okay, now that I can breathe again, The Wire has looked at [Fifteen Years at County General: Definitively Ranking the Cast of 'ER'](https://www.thewire.com/entertainment/2014/09/fifteen-years-at-county-general-definitively-ranking-all-of-ers-doctors-and-nurses/380164/)
 
 {{< blockquote >}}
 22. **[Maggie Doyle (Jorja Fox)](/library/actor/er/**

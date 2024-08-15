@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Should 'CSI's' Sara Sidle live or die?"
 newsreporter: MSNBC
 newssource: MSNBC
-newsurl: http://www.msnbc.msn.com/id/20958227/
+newsurl: https://www.msnbc.msn.com/id/20958227/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Ausiello Report"
 newsreporter: Michael Ausiello
 newssource: TVGuide
-newsurl: http://www.tvguide.com/
+newsurl: https://www.tvguide.com/
 
 ---
 

@@ -6,7 +6,7 @@ layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
 tags: [ "2011" ]
-interviewurl: http://transcripts.cnn.com/TRANSCRIPTS/1102/23/ijvm.01.html
+interviewurl: https://transcripts.cnn.com/TRANSCRIPTS/1102/23/ijvm.01.html
 ---
 
 (BEGIN VIDEO CLIP)

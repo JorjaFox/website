@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Members Only"
 newsreporter: Staff
 newssource: E Online
-newsurl: http://www.eonline.com
+newsurl: https://www.eonline.com
 
 ---
 You know, our lusty celebs used to have bigger problems than choosing between Prada and Oscar de la Renta. Hard to believe, I *know*, but most every actor wannabe has struggled with a (lack of) cash flow.

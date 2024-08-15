@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Fake Gay News: Lesbian closed captioner sues employer after termination for adding subtext  "
 newsreporter: bad machine
 newssource: AfterEllen
-newsurl: http://www.afterellen.com/blog/badmachine/fake-gay-news-lesbian-closed-captioner-sued
+newsurl: https://www.afterellen.com/blog/badmachine/fake-gay-news-lesbian-closed-captioner-sued
 
 ---
 

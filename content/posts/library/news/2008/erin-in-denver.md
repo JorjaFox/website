@@ -10,7 +10,7 @@ permalink: /news/2008/:title/
 newstitle: "WOW part three  "
 newsreporter: Erin Moore
 newssource: Erin in Denver
-newsurl: http://lgbtdelegate.blogspot.com/2008/08/wow-part-three.html
+newsurl: https://lgbtdelegate.blogspot.com/2008/08/wow-part-three.html
 
 ---
 

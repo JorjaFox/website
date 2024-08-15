@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: Ask Ausiello
 newsreporter: Michael Ausiello
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

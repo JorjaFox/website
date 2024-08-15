@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "(Untitled)"
 newsreporter: Staff
 newssource: Star Magazine
-newsurl: http://www.starmagazine.com
+newsurl: https://www.starmagazine.com
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "News"
 newsreporter: Staff
 newssource: Variety
-newsurl: http://www.variety.com/
+newsurl: https://www.variety.com/
 
 ---
 

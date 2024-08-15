@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Matt's TV Week in Review"
 newsreporter: Kate Stanhope
 newssource: "Today's News: Our Take"
-newsurl: http://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx
+newsurl: https://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx
 
 ---
 

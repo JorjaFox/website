@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Bye-bye CSI  "
 newsreporter: Cristina Kinon
 newssource: Telestar
-newsurl: http://blog.telestar.fr/
+newsurl: https://blog.telestar.fr/
 
 ---
 

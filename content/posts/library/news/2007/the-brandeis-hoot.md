@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja is CSI's goodbye girl  "
 newsreporter: Arielle Kaplan
 newssource: The Brandeis Hoot
-newsurl: http://www.thehoot.net/?module=displaystory&story_id=2465&format=html
+newsurl: https://www.thehoot.net/?module=displaystory&story_id=2465&format=html
 
 ---
 "Wouldn't you if you were married to Mrs. Roper?"

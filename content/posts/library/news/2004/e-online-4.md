@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' Kills Back to Life?"
 newsreporter: Staff
 newssource: E! Online
-newsurl: http://eonline.com
+newsurl: https://eonline.com
 
 ---
 

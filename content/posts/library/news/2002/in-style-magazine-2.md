@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Jorja Fox
 newsreporter: Staff
 newssource: In Style Magazine
-newsurl: http://www.instyle.com/
+newsurl: https://www.instyle.com/
 
 ---
 *She's a dressed-down, seriously smart cookie in 'CSI: Crime Scene Invesigation', but off-screen, Jorja Fox loves to get glammed-up for big nights out in Hollywood.*

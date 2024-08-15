@@ -10,7 +10,7 @@ permalink: /news/2011/:title/
 newstitle: "Interview: Christopher Barbour"
 newsreporter: Shane S Saunders
 newssource: Shane S. Saunders
-newsurl: http://shanessaunders.com/2011/03/10/interview-csi-writer-christopher-barbour/
+newsurl: https://shanessaunders.com/2011/03/10/interview-csi-writer-christopher-barbour/
 
 ---
 

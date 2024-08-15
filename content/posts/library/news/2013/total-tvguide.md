@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "'We're number one in the world'  "
 newsreporter: David Collins
 newssource: Total TVguide
-newsurl: http://www.tvchoicemagazine.co.uk/
+newsurl: https://www.tvchoicemagazine.co.uk/
 
 ---
 

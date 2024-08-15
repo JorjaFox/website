@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "SUMMER PRESS TOUR: Dead show walking; party patrol"
 newsreporter: Pittsburgh Post-Gazette
 newssource: Pittsburgh Post-Gazette
-newsurl: http://www.post-gazette.com
+newsurl: https://www.post-gazette.com
 
 ---
 

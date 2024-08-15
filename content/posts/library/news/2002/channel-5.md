@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: CSI star Jorja Fox
 newsreporter: Staff
 newssource: Channel 5, UK
-newsurl: http://www.channel5.co.uk/
+newsurl: https://www.channel5.co.uk/
 
 ---
 

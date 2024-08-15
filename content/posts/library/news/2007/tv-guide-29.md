@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Roush on CSI: Crime Scene Investigation and Jorja Fox"
 newsreporter: Matt Roush
 newssource: Ask Matt
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

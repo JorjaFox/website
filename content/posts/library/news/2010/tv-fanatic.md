@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "CSI Review: 'House of Hoarders'"
 newsreporter: Alithea
 newssource: TV Fanatic
-newsurl: http://www.tvfanatic.com/2010/10/csi-review-house-of-hoarders/
+newsurl: https://www.tvfanatic.com/2010/10/csi-review-house-of-hoarders/
 
 ---
 

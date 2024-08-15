@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Celebrity Resolutions for 2011  "
 newsreporter: Staff
 newssource: Humane Society
-newsurl: http://www.humanesociety.org/news/news/2010/12/2011\_celebrity\_resolutions.html
+newsurl: https://www.humanesociety.org/news/news/2010/12/2011\_celebrity\_resolutions.html
 
 ---
 

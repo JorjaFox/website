@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Animal Antics  "
 newsreporter: Stephanie Fourqurean
 newssource: Daily Texan
-newsurl: http://media.www.dailytexanonline.com/media/storage/paper410/news/2008/07/14/TopStories/Animal.Antics-3390468.shtml
+newsurl: https://media.www.dailytexanonline.com/media/storage/paper410/news/2008/07/14/TopStories/Animal.Antics-3390468.shtml
 
 ---
 

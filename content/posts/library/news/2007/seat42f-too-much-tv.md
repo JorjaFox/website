@@ -11,7 +11,7 @@ tags: ["2007"]
 newstitle: "My Name Is Inigo Montoya - Prepare To Pay Me More"
 newsreporter: Seat42F
 newssource: Too Much TV
-newsurl: http://seat42f.blogspot.com/2007/07/my-name-is-inigo-montoya-prepare-to-pay.html
+newsurl: https://seat42f.blogspot.com/2007/07/my-name-is-inigo-montoya-prepare-to-pay.html
 
 ---
 

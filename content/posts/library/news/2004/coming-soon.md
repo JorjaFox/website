@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Eads & Fox Returning to CSI?"
 newsreporter: Staff
 newssource: Coming Soon
-newsurl: http://comingsoon.net/
+newsurl: https://comingsoon.net/
 
 ---
 

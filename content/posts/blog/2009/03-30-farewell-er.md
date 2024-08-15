@@ -17,7 +17,7 @@ thumbnail:
 
 After 15 years, _ER_ calls it an end. While many people feel the show is past its prime, it was innovative in it's day, and brought back the soapy feel of night-time telly that sometimes gets lost in a procedural.
 
-[St. Petersberg Times](http://www.tampabay.com/features/media/article987842.ece) writer (and Frenemeny of GSRs) Eric Diggens admits he'll miss the show, and the rotating cast and guest stars mentioning in specific "a pre-_CSI_** Jorja Fox** as gay doctor Maggie Doyle."
+[St. Petersberg Times](https://www.tampabay.com/features/media/article987842.ece) writer (and Frenemeny of GSRs) Eric Diggens admits he'll miss the show, and the rotating cast and guest stars mentioning in specific "a pre-_CSI_** Jorja Fox** as gay doctor Maggie Doyle."
 
 And of course Jorja remembers her days on ER (from Emmy Magazine):
 

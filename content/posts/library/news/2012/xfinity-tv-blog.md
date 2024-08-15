@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "'CSI' Boss: Season 13 Will Pull the Team Apart  "
 newsreporter: Paulette Cohn
 newssource: xfinity TV Blog
-newsurl: http://xfinity.comcast.net/blogs/tv/2012/09/11/csi-boss-season-13-will-pull-the-team-apart/
+newsurl: https://xfinity.comcast.net/blogs/tv/2012/09/11/csi-boss-season-13-will-pull-the-team-apart/
 
 ---
 

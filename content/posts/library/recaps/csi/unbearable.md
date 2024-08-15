@@ -18,7 +18,7 @@ prodnum: 514
 
 Grissom, Sofia, Sara and Greg investigate the disappearance of a woman coming home from a night out with a friend, her abandoned car found on the edge of a highway. Catherine, Warrick and Nick investigate the deaths of a hunter and his prey, a Kodiak bear.
 
-_Note: this episode of CSI was the winner of a Genesis Award ([Humane Society](http://www.hsus.org/)) for its portrayal of canned hunts._
+_Note: this episode of CSI was the winner of a Genesis Award ([Humane Society](https://www.hsus.org/)) for its portrayal of canned hunts._
 
 ## Review
 

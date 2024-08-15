@@ -3,7 +3,7 @@ title: The View
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-11-17
-interviewurl: http://abc.go.com/daytime/theview
+interviewurl: https://abc.go.com/daytime/theview
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
 tags: [ "2007" ]

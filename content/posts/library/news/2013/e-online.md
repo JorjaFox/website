@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "TV Watercooler: CSI's Shocking Split, Colton Haynes' Arrow Debut and More!  "
 newsreporter: Tierney Bricker
 newssource: E!Online
-newsurl: http://www.eonline.com/news/390253/tv-watercooler-csi-s-shocking-split-colton-haynes-arrow-debut-and-more
+newsurl: https://www.eonline.com/news/390253/tv-watercooler-csi-s-shocking-split-colton-haynes-arrow-debut-and-more
 
 ---
 

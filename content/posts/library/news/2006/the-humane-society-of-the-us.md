@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Red Carpet Quotes: Stars Share Their Thoughts on Animals, Animal Protection, and the Genesis Awards"
 newsreporter: Staff
 newssource: The Humane Society of the US
-newsurl: http://www.hsus.org
+newsurl: https://www.hsus.org
 
 ---
 

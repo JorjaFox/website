@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Ambitious, Smart Woman looks for... "
 newsreporter: Staff
 newssource: Tros Kompas
-newsurl: http://www.troskompas.nl/
+newsurl: https://www.troskompas.nl/
 
 ---
 

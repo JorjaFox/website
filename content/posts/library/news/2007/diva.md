@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Everyone's Talking About"
 newsreporter: DIVA
 newssource: DIVA
-newsurl: http://www.divamag.co.uk/diva/
+newsurl: https://www.divamag.co.uk/diva/
 
 ---
 

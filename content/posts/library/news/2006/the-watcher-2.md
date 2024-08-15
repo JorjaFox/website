@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Solving the mystery of the CSI finale shocker  "
 newsreporter: Staff
 newssource: The Watcher - A Chicago Tribune Web log
-newsurl: http://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/solving\_the_mys.html
+newsurl: https://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/solving\_the_mys.html
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI's Sizzling Return!  "
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Bolivian lions land in Denver  "
 newsreporter: Jeffrey Leib
 newssource: Denver Post
-newsurl: http://www.denverpost.com/breakingnews/ci_17405414
+newsurl: https://www.denverpost.com/breakingnews/ci_17405414
 
 ---
 

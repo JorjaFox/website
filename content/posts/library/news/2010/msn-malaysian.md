@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Jorja Fox: She's back on CSI!  "
 newsreporter: Staff
 newssource: MSN Malaysian
-newsurl: http://entertainment.malaysia.msn.com/tv/article.aspx?cp-documentid=3904920
+newsurl: https://entertainment.malaysia.msn.com/tv/article.aspx?cp-documentid=3904920
 
 ---
 

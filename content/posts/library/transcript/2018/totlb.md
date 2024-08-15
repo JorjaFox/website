@@ -3,7 +3,7 @@ title: Thinking Outside the Long Box
 date: 2018-12-10
 transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://totlb.com/podcast/totlb-s22-jorja-fox/
+interviewurl: https://totlb.com/podcast/totlb-s22-jorja-fox/
 permalink: /transcript/2018/:title/
 categories: ["Interviews"]
 tags: [ "2018" ]

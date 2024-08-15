@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "CSI: Previewing Season 10 Premiere 'Family Affair'"
 newsreporter: Henrik Batallones
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-previewing-season-10-premi-31399.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-previewing-season-10-premi-31399.aspx
 
 ---
 

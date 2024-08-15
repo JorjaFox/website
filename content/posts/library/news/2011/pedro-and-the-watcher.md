@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Jorja Fox returns to 'CSI' as a regular  "
 newsreporter: The Watcher
 newssource: Pedro and the Watcher
-newsurl: http://pedrowatcher.ocregister.com/2011/07/20/jorja-fox-returns-to-csi-as-a-regular/39777/
+newsurl: https://pedrowatcher.ocregister.com/2011/07/20/jorja-fox-returns-to-csi-as-a-regular/39777/
 
 ---
 

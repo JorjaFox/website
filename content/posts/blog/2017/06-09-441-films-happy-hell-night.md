@@ -17,7 +17,7 @@ tags:
 
 Remember that weird movie, _[Happy Hell Night](https://jorjafox.net/library/actor/happy-hell-night/)_? The one where Jorja was an uncredited sorority sister?
 
-Well [441 Films](http://www.441films.com) is apparently working on extras for it. I can only presume they'll be reissuing it! I'd heard that it was [coming out on Blu-Ray](http://www.blu-ray.com/movies/Happy-Hell-Night-Blu-ray/177005/) (eta August, UK release only), but guess who they talked to about it?
+Well [441 Films](https://www.441films.com) is apparently working on extras for it. I can only presume they'll be reissuing it! I'd heard that it was [coming out on Blu-Ray](https://www.blu-ray.com/movies/Happy-Hell-Night-Blu-ray/177005/) (eta August, UK release only), but guess who they talked to about it?
 
 Yep, Jorja.
 

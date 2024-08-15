@@ -25,4 +25,4 @@ There have been a couple of times over the years. The first one that comes to mi
 I felt more passionately about potential for camaraderie coming from these two women being so different instead of the opposite.
 {{< /blockquote >}}
 
-LobaBlanca discusses that in her post [Sugar and Spice and Everything ... Catty?](http://lobablanca.com/blog09/2011/08/30/sugar-and-spice-and-everything-catty/), bringing up feminism, stereotypes and armchair sociology.
+LobaBlanca discusses that in her post [Sugar and Spice and Everything ... Catty?](https://lobablanca.com/blog09/2011/08/30/sugar-and-spice-and-everything-catty/), bringing up feminism, stereotypes and armchair sociology.

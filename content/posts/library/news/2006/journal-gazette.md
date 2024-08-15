@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "'CSI' adds love story as competition nears  "
 newsreporter: Staff
 newssource: Journal Gazette
-newsurl: http://www.fortwayne.com/
+newsurl: https://www.fortwayne.com/
 
 ---
 

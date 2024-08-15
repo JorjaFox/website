@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI: Way To Go (finale)  "
 newsreporter: Staff
 newssource: TV Squad
-newsurl: http://www.tvsquad.com/2006/05/22/csi-way-to-go-finale/
+newsurl: https://www.tvsquad.com/2006/05/22/csi-way-to-go-finale/
 
 ---
 

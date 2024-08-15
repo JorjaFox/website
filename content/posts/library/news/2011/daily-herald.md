@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Matlin a blast from the past on 'CSI'"
 newsreporter: Zap2It
 newssource: Daily Herald
-newsurl: http://dailyherald.com/article/20110124/entlife/701289988/
+newsurl: https://dailyherald.com/article/20110124/entlife/701289988/
 
 ---
 

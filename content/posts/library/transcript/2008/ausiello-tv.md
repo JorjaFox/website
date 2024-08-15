@@ -3,7 +3,7 @@ title: Ausiello TV
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-09-21
-interviewurl: http://www.ew.com/ew/video/ausiello_tv
+interviewurl: https://www.ew.com/ew/video/ausiello_tv
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
 tags: [ "2008" ]

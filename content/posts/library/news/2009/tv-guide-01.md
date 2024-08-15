@@ -10,7 +10,7 @@ permalink: /news/2009/:title/
 newstitle: "TV Guide's Best Top Moments  "
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com/special/tv-finale-preview/galleries.aspx?gallery=Best-Moments-1004366&page=18
+newsurl: https://www.tvguide.com/special/tv-finale-preview/galleries.aspx?gallery=Best-Moments-1004366&page=18
 
 ---
 

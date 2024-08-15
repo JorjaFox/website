@@ -14,7 +14,7 @@ tags:
 
 Dianne Butler, of the Australian newspaper The Courier-Mail, says of Sara and Jorja:
 
-{{< blockquote by="Dianne Butler" cite="http://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html" >}}
+{{< blockquote by="Dianne Butler" cite="https://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html" >}}
 I WAS shocked at the amount of wrinkle-relaxing poison in the face of Jorja Fox when I watched CSI last week. There wasn't any. She just looked like the rest of us, ie: a corrugated iron roof from some angles.
 
 She was back for Warrick's funeral, an episode that required some emotion to register on his colleagues' face. So it worked out well for her. [...]
@@ -24,4 +24,4 @@ I don't know how much more we're going to see of Jorja and her character Sara an
 It was when she and that other cop went to Warrick's house to get him an outfit to wear in his coffin and his bed wasn't made and she said how she'd been to so many murder scenes, she would never leave her house in the morning until she'd made her bed and taken the rubbish out, in case she never came home.
 {{< /blockquote >}}
 
-For the full article, please visit the source: [The Courier-Mail (19 October 2008)](http://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html)
+For the full article, please visit the source: [The Courier-Mail (19 October 2008)](https://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html)

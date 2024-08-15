@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "CSI's Jorja Fox on Animal Advocacy on TV and in Real Life  "
 newsreporter: Michele C. Hollow
 newssource: Parade
-newsurl: http://www.parade.com/55620/michelechollow/csis-jorja-fox-on-animal-advocacy-on-tv-and-in-real-life/
+newsurl: https://www.parade.com/55620/michelechollow/csis-jorja-fox-on-animal-advocacy-on-tv-and-in-real-life/
 
 ---
 

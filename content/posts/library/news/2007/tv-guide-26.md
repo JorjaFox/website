@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI' Stars Spend a Night at the Museum"
 newsreporter: TV Guide
 newssource: TV Guide
-newsurl: http://community.tvguide.com/
+newsurl: https://community.tvguide.com/
 
 ---
 

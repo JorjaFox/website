@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "GILT-Y Pleasures"
 newsreporter: Staff
 newssource: CBS Watch! Magazine
-newsurl: http://cbswatchmagazine.com
+newsurl: https://cbswatchmagazine.com
 
 ---
 

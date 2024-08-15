@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI producer expresses sadness after two actors fired"
 newsreporter: Staff
 newssource: KESQ News
-newsurl: http://www.kesq.com
+newsurl: https://www.kesq.com
 
 ---
 

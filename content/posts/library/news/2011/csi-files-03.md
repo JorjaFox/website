@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Interview: Jorja Fox  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2011/09/interview-jorja-fox/
+newsurl: https://www.csifiles.com/content/2011/09/interview-jorja-fox/
 
 ---
 

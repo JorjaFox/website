@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Tell me, who are hot?"
 newsreporter: Dorothy Snarker
 newssource: Dorothy Surrenders
-newsurl: http://dorothysurrenders.blogspot.com/2009/09/tell-me-who-are-hot.html
+newsurl: https://dorothysurrenders.blogspot.com/2009/09/tell-me-who-are-hot.html
 
 ---
 

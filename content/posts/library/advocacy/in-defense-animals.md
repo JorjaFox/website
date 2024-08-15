@@ -21,4 +21,4 @@ Hi, Jorja Fox here asking you to support this year's International Day of Action
 
 ## See Also
 
-* [Help Elephants](http://www.helpelephants.com) -- Ban zoos from having elephants
+* [Help Elephants](https://www.helpelephants.com) -- Ban zoos from having elephants

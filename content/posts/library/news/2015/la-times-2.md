@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "'I was part of this weird love story': Jorja Fox on 'CSI' finale and working with William Petersen"
 newsreporter: Greg Braxton
 newssource: LA Times
-newsurl: http://www.latimes.com/entertainment/tv/showtracker/la-st-jorja-fox-csi-20150925-story.html
+newsurl: https://www.latimes.com/entertainment/tv/showtracker/la-st-jorja-fox-csi-20150925-story.html
 
 ---
 

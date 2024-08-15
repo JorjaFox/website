@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Preview: Lady Heather Returns to CSI -- With Ties to Big Bad Nate Haskell?  "
 newsreporter: Megan Masters
 newssource: TVLine
-newsurl: http://www.tvline.com/2011/04/csi-preview-lady-heather-melinda-clarke/
+newsurl: https://www.tvline.com/2011/04/csi-preview-lady-heather-melinda-clarke/
 
 ---
 

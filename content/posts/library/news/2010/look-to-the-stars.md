@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Jorja Fox Helps Rescue Circus Lions From Bolivia  "
 newsreporter: Staff
 newssource: Look to the Stars
-newsurl: http://www.looktothestars.org/news/4484-jorja-fox-helps-rescue-circus-lions-from-bolivia
+newsurl: https://www.looktothestars.org/news/4484-jorja-fox-helps-rescue-circus-lions-from-bolivia
 
 ---
 

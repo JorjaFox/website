@@ -9,7 +9,7 @@ categories: ["Articles", "News"]
 newstitle: Headed for One True Thing
 newsreporter: Staff
 newssource: The Den
-newsurl: http://www.theden.com
+newsurl: https://www.theden.com
 
 ---
 Jorja who? No one really knows who the hell she is, but she's pretty hot, she's on ER, and that's good enough for UPN.

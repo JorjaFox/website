@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Jorja Fox's Dog Is Almost 100 -- In Dog Years  "
 newsreporter: Nina Tyler
 newssource: People Pets
-newsurl: http://www.peoplepets.com/news/dogs/jorja-fox-s-dog-is-almost-100-in-dog-years/1
+newsurl: https://www.peoplepets.com/news/dogs/jorja-fox-s-dog-is-almost-100-in-dog-years/1
 
 ---
 

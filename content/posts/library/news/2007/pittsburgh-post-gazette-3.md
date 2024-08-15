@@ -11,7 +11,7 @@ tags: ["2013"]
 newstitle: "TV Q&A with Rob Owen  "
 newsreporter: Rob Owen
 newssource: Pittsburgh Post-Gazette
-newsurl: http://www.post-gazette.com/pg/07334/837855-238.stm?cmpid=entertainment.xml
+newsurl: https://www.post-gazette.com/pg/07334/837855-238.stm?cmpid=entertainment.xml
 
 ---
 

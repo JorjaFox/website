@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "Jorja Fox Says This Season of CSI Will be About Darkness and Going Darker"
 newsreporter: Monica Gleberman
 newssource: CableTV.com
-newsurl: http://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-about-darkness-and-going-darker/
+newsurl: https://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-about-darkness-and-going-darker/
 
 ---
 

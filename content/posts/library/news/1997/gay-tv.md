@@ -9,7 +9,7 @@ newstitle: Gaynet
 date: 1997-09-26
 newsreporter: Staff
 newssource: Gay TV
-newsurl: http://gay.com
+newsurl: https://gay.com
 
 ---
 **FUN FACTOID**

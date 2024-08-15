@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Apparently, autopsies and romance do mix  "
 newsreporter: Staff
 newssource: Desert Morning News
-newsurl: http://deseretnews.com
+newsurl: https://deseretnews.com
 
 ---
 

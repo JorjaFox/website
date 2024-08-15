@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Fans Show Support for 'CSI' Actress"
 newsreporter: Staff
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/
+newsurl: https://www.buddytv.com/
 
 ---
 

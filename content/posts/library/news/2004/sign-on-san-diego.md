@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "From award arrivals to finale, it was a wild and crazy night"
 newsreporter: Staff
 newssource: Sign On San Diego
-newsurl: http://www.signonsandiego.com
+newsurl: https://www.signonsandiego.com
 
 ---
 

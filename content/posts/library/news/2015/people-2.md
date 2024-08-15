@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "CSI Insiders Look Back Before Finale, Remember a 'Lippy' Young Justin Bieber and How Taylor Swift Made Them Realize They'd 'Made It'"
 newsreporter: Scott Huver
 newssource: People
-newsurl: http://www.people.com/article/csi-series-finale-cast-members-talk-justin-bieber-taylor-swift
+newsurl: https://www.people.com/article/csi-series-finale-cast-members-talk-justin-bieber-taylor-swift
 
 ---
 

@@ -9,7 +9,7 @@ tags: ["2000"]
 newstitle: The West Wing NBC
 newsreporter: Staff
 newssource: Student Advantage
-newsurl: http://www.studentadvantage.com/
+newsurl: https://www.studentadvantage.com/
 
 ---
 

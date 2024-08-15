@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "North Texas E-news  "
 newsreporter: Animal Defenders International media release
 newssource: North Texas E-news
-newsurl: http://www.ntxe-news.com/artman/publish/article_47389.shtml
+newsurl: https://www.ntxe-news.com/artman/publish/article_47389.shtml
 
 ---
 

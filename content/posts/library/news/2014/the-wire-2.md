@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "A Definitive Ranking of Every Character on 'The West Wing'"
 newsreporter: Joe Reid, David Sims, Kevin O'Keeffe
 newssource: The Wire
-newsurl: http://www.thewire.com/entertainment/2014/09/a-definitive-ranking-of-every-character-on-the-west-wing/380098/
+newsurl: https://www.thewire.com/entertainment/2014/09/a-definitive-ranking-of-every-character-on-the-west-wing/380098/
 
 ---
 

@@ -29,4 +29,4 @@ Jorja filmed a video with Eric Szmanda which aired on May 11th (day 11). In it, 
 
 **Eric:** No one does.
 
-* [Jorja and Eric's video](http://link.brightcove.com/services/link/bcpid1517481413/bclid1527697194/bctid1533001469)
+* [Jorja and Eric's video](https://link.brightcove.com/services/link/bcpid1517481413/bclid1527697194/bctid1533001469)

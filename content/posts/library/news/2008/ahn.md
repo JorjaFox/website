@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "'CSI' Star Jorja Fox Campaigns Against Circus Animal Abuse  "
 newsreporter: Jennifer Tormo
 newssource: AHN
-newsurl: http://www.allheadlinenews.com/articles/7011574660
+newsurl: https://www.allheadlinenews.com/articles/7011574660
 
 ---
 

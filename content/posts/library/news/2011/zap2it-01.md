@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Jorja Fox rejoins CSI as series regular  "
 newsreporter: David Eckstein
 newssource: Zap2It
-newsurl: http://blog.zap2it.com/frominsidethebox/2011/07/jorja-fox-rejoins-csi-as-series-regular.html
+newsurl: https://blog.zap2it.com/frominsidethebox/2011/07/jorja-fox-rejoins-csi-as-series-regular.html
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "Jorja Fox: 'Grissom's return to 'CSI: Las Vegas' was very exciting'"
 newsreporter: Staff
 newssource: Forumla TV
-newsurl: http://www.formulatv.com/noticias/26889/jorja-fox-regreso-grissom-csi-las-vegas-muy-excitante/
+newsurl: https://www.formulatv.com/noticias/26889/jorja-fox-regreso-grissom-csi-las-vegas-muy-excitante/
 
 ---
 

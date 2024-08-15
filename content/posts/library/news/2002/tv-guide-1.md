@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: "What a Crime! No Sex Scenes"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

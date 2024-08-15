@@ -9,7 +9,7 @@ categories: ["Articles", "News"]
 newstitle: UPN schedule plays to men with WWF wrestling
 newsreporter: Rob Owen
 newssource: Post-Gazette Publishing
-newsurl: http://www.post-gazette.com
+newsurl: https://www.post-gazette.com
 
 ---
 PASADENA, CALIF. - TV critics can be an unforgiving lot, but UPN's fall schedule makes compassion tough to muster.

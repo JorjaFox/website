@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "'CSI' Series Finale Trailer Touts Sidle and Grissom's Emotional Reunion"
 newsreporter: Andy Swift
 newssource: TV Line
-newsurl: http://tvline.com/2015/09/14/csi-series-finale-trailer-video-sidle-grissom-reunion/
+newsurl: https://tvline.com/2015/09/14/csi-series-finale-trailer-video-sidle-grissom-reunion/
 
 ---
 

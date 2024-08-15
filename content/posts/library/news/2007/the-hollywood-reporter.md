@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Lucas on scene as 'CSI' newbie"
 newsreporter: The Hollywood Reporter
 newssource: The Hollywood Reporter
-newsurl: http://www.hollywoodreporter.com/
+newsurl: https://www.hollywoodreporter.com/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Exclusive: 'CSI's Jorja Fox"
 newsreporter: Curve Magazine
 newssource: Curve Magazine
-newsurl: http://www.curvemag.com
+newsurl: https://www.curvemag.com
 
 
 ---

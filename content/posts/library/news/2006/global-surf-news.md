@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "World Premier of Documentary 'Accidental Icon: The Real Gidget Story'  "
 newsreporter: Staff
 newssource: Global Surf News
-newsurl: http://www.globalsurfnews.com
+newsurl: https://www.globalsurfnews.com
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "TV drama stars sacked at scene of the crime"
 newsreporter: Staff
 newssource: Scotsman.com News
-newsurl: http://news.scotsman.com/
+newsurl: https://news.scotsman.com/
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "Celebrity Interview: Jorja Fox"
 newsreporter: Jessica Radloff
 newssource: Where Magazine
-newsurl: http://wherela.com/blog/2014/10/26/celebrity-interview-jorja-fox/
+newsurl: https://wherela.com/blog/2014/10/26/celebrity-interview-jorja-fox/
 
 ---
 

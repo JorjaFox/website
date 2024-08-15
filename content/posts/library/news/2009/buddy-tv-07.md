@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
 newsreporter: Henrik Batallones
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-sara-gets-five-episodes-as-30312.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-sara-gets-five-episodes-as-30312.aspx
 
 ---
 

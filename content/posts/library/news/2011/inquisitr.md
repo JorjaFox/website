@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Bob Barker, Jorja Fox Fight to Stop Circus Animal Cruelty  "
 newsreporter: Michael Söze
 newssource: Inquisitr
-newsurl: http://www.inquisitr.com/156384/bob-barker-traveling-exotic-animal-protection-act/
+newsurl: https://www.inquisitr.com/156384/bob-barker-traveling-exotic-animal-protection-act/
 
 ---
 

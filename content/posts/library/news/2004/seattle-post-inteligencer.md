@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "People in the News"
 newsreporter: Staff
 newssource: Seattle Post Inteligencer
-newsurl: http://seattlepi.nwsource.com/
+newsurl: https://seattlepi.nwsource.com/
 
 ---
 

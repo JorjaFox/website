@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Jorja Fox
 newsreporter: Staff
 newssource: Séries Mania
-newsurl: http://seriesmania.com
+newsurl: https://seriesmania.com
 
 ---
 

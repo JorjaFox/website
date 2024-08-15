@@ -15,4 +15,4 @@ In 2012, the show was revived off-Broadway.
 
 ## See Also
 
-* [Official Website](http://foreverdusty.com)
+* [Official Website](https://foreverdusty.com)

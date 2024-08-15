@@ -10,11 +10,11 @@ tags: ["2006"]
 newstitle: "'CSI' Stars Answer Your Burning Questions!  "
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 
-You wanted answers about Grissom and Sara's relationship, and we've got 'em. For the occasion of "CSI**s Season 7 premiere (tonight at 9 pm/ET), TV Guide brought your burning questions, collected at TVGuide.com,&nbsp;to series stars William Petersen and Jorja Fox. In addition to what follows, look for many more Q's and A's in the new [TV Guide magazine](http://www.tvguide.com/Magazine/default.aspx).
+You wanted answers about Grissom and Sara's relationship, and we've got 'em. For the occasion of "CSI**s Season 7 premiere (tonight at 9 pm/ET), TV Guide brought your burning questions, collected at TVGuide.com,&nbsp;to series stars William Petersen and Jorja Fox. In addition to what follows, look for many more Q's and A's in the new [TV Guide magazine](https://www.tvguide.com/Magazine/default.aspx).
 
 **Question: Are you surprised that a show that is not knownfor its romantic plots is now getting such a huge reaction for one scene at the end of one episode?**
 

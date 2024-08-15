@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "The CSI Cast Reflects On the Show's Finest Hours  "
 newsreporter: William Keck
 newssource: TVGuide.com
-newsurl: http://www.tvguide.com/News/CSI-300-Episodes-Best-1072388.aspx
+newsurl: https://www.tvguide.com/News/CSI-300-Episodes-Best-1072388.aspx
 
 ---
 

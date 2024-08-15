@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Marg's Big Year"
 newsreporter: Jenny Cooney Carillo
 newssource: TV Guide (New Zealand)
-newsurl: http://tv-guide.co.nz
+newsurl: https://tv-guide.co.nz
 
 ---
 

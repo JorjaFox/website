@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Q&A Jorja Fox  "
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 

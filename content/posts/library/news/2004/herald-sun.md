@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI star sacked"
 newsreporter: Staff
 newssource: Herald Sun
-newsurl: http://www.heraldsun.news.com.au/
+newsurl: https://www.heraldsun.news.com.au/
 
 ---
 

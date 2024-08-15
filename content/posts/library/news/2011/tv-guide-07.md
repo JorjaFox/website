@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "How *CSI* Got William Petersen Back  "
 newsreporter: Carita Rizzo
 newssource: TVGuide.com
-newsurl: http://www.tvguide.com/News/CSI-Got-William-1028901.aspx
+newsurl: https://www.tvguide.com/News/CSI-Got-William-1028901.aspx
 
 ---
 

@@ -3,7 +3,7 @@ title: The Early Show
 transcriber: David Masters
 layout: transcript
 date: 2005-11-17
-interviewurl: http://www.cbsnews.com/earlyshow/
+interviewurl: https://www.cbsnews.com/earlyshow/
 permalink: /transcript/2005/:title/
 categories: ["Interviews"]
 tags: [ "2005" ]

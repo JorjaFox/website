@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'Crime,' punishment, resolution"
 newsreporter: Staff
 newssource: New York City
-newsurl: http://www.nynewsday.com
+newsurl: https://www.nynewsday.com
 
 ---
 

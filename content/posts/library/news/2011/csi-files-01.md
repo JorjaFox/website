@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Report: Series Regulars Return For Season 12 Of 'CSI'  "
 newsreporter: Shane S Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2011/07/report-series-regulars-return-for-season-12-of-csi/
+newsurl: https://www.csifiles.com/content/2011/07/report-series-regulars-return-for-season-12-of-csi/
 
 ---
 

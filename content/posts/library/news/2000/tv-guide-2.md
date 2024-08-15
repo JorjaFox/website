@@ -9,7 +9,7 @@ tags: ["2000"]
 newstitle: CSI's Foxy Lady
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com/newsgossip/insider/001208a.asp
+newsurl: https://www.tvguide.com/newsgossip/insider/001208a.asp
 
 ---
 Through its exploration of anal swabs and poisoned nipples, CSI: Crime Street Investigation - the CBS drama that has been described as Quincy meets Seven - has quickly become one of this season's biggest hits. A large part of the show's success can be chalked up to its stomach-churning shock value, an element that required its plucky cast - including actress Jorja Fox - to develop an extra layer of thick skin.

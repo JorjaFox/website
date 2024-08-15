@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI STAR FOX FEARS SHE HAS UPSET TV BOSSES WITH VEGGIE AD  "
 newsreporter: Staff
 newssource: PR Inside
-newsurl: http://www.pr-inside.com/csi-star-fox-fears-she-has-upset-tv-bosses-with-veggie-ad-r4161.htm
+newsurl: https://www.pr-inside.com/csi-star-fox-fears-she-has-upset-tv-bosses-with-veggie-ad-r4161.htm
 
 ---
 

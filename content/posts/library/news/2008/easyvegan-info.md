@@ -10,11 +10,11 @@ permalink: /news/2008/:title/
 newstitle: "Sara Sidle: From 'CSI' to Terra-ist  "
 newsreporter: Kelly
 newssource: easyVegan.info
-newsurl: http://www.easyvegan.info/2008/11/07/sara-sidle-from-csi-to-terra-ist/
+newsurl: https://www.easyvegan.info/2008/11/07/sara-sidle-from-csi-to-terra-ist/
 
 ---
 
-On yesterday's episode of "CSI" ("Leave Out All the Rest"), recently departed CSI Sara Sidle sends Gil Grissom a .mov file -slash- Dear John "letter" over the internets. Look closely, and you can briefly see her email address flash across the screen: info@seashepherd.org. ZOMG! Sara is sailing with the crew of the [Sea Shepherd Conservation Society](http://www.seashepherd.org/)!
+On yesterday's episode of "CSI" ("Leave Out All the Rest"), recently departed CSI Sara Sidle sends Gil Grissom a .mov file -slash- Dear John "letter" over the internets. Look closely, and you can briefly see her email address flash across the screen: info@seashepherd.org. ZOMG! Sara is sailing with the crew of the [Sea Shepherd Conservation Society](https://www.seashepherd.org/)!
 
 Of her adventure with Captain Paul Watson and his band of anti-whaling pirates, Sara says,
 
@@ -28,4 +28,4 @@ Given that Jorja Fox is the high-profile veg*n on "CSI**s set, I assumed that sh
 
 Either way, I think it's totally awesome that Sara Sidle has defected - from Crime Scene Investigator to international, sea-faring, anti-whaling, activist-pirate-terrorist. Welcome to the dark green side, Sara. Just be careful who you extend your vegan potluck invites to.
 
-Keep up with Sara and the crew through [Whale Wars](http://animal.discovery.com/tv/whale-wars/), now airing on Animal Planet (Fridays at 9PM).
+Keep up with Sara and the crew through [Whale Wars](https://animal.discovery.com/tv/whale-wars/), now airing on Animal Planet (Fridays at 9PM).

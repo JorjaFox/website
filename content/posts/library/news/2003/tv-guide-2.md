@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Ask Matt
 newsreporter: Matt Roush
 newssource: TV Guide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 

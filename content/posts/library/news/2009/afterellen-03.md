@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "'CSI' spoils our Jorja peach  "
 newsreporter: the lister
 newssource: AfterEllen
-newsurl: http://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach
+newsurl: https://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach
 
 ---
 

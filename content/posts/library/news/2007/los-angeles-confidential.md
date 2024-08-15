@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja's a Peach  "
 newsreporter: Deborah Corday and Drew Seltzer
 newssource: Los Angeles Confidential
-newsurl: http://www.la-confidential.com
+newsurl: https://www.la-confidential.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "The Insider: Jorja Fox  "
 newsreporter: Staff
 newssource: Boston Herald
-newsurl: http://theedge.bostonherald.com
+newsurl: https://theedge.bostonherald.com
 
 ---
 

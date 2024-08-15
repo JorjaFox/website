@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Actress Jorja Fox to leave top-rated TV series CSI  "
 newsreporter: CBC News
 newssource: CBC
-newsurl: http://www.cbc.ca
+newsurl: https://www.cbc.ca
 
 ---
 

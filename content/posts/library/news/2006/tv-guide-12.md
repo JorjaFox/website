@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Las Vegas Confidential  "
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 
@@ -30,7 +30,7 @@ Then they really sang like canaries: Turns out "all" the CSIs will get roughed u
 
 [...]
 
-That's what we got. Now it's your turn. TV GUIDE sat down with Petersen and Fox to ask the "your" questions (collected on [tvguide.com](http://www.tvguide.com)) about all that's happened and what's still to come on "CSI".
+That's what we got. Now it's your turn. TV GUIDE sat down with Petersen and Fox to ask the "your" questions (collected on [tvguide.com](https://www.tvguide.com)) about all that's happened and what's still to come on "CSI".
 
 **Does the fan response to this new relationship shock you?**
 
@@ -85,4 +85,4 @@ That's what we got. Now it's your turn. TV GUIDE sat down with Petersen and Fox 
 
 [...]
 
-For more fan questions answered by William Petersen and Jorja Fox, go to [tvguide.com/csi](http://www.tvguide.com/csi)
+For more fan questions answered by William Petersen and Jorja Fox, go to [tvguide.com/csi](https://www.tvguide.com/csi)

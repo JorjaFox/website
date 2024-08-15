@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Exclusive *CSI* Video: Is Grissom Returning?!  "
 newsreporter: Michael Ausiello
 newssource: TV Line
-newsurl: http://www.tvline.com/2011/01/exclusive-csi-video-is-grissom-returning/
+newsurl: https://www.tvline.com/2011/01/exclusive-csi-video-is-grissom-returning/
 
 ---
 

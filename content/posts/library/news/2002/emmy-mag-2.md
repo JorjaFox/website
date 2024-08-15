@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: "Hole That Fiber!"
 newsreporter: Staff
 newssource: Emmy Magazine
-newsurl: http://emmy.com
+newsurl: https://emmy.com
 
 ---
 

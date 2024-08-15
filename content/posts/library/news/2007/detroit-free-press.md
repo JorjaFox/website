@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Madonna makes hall of fame list"
 newsreporter: Detroit Free Press
 newssource: Detroit Free Press
-newsurl: http://www.freep.com/
+newsurl: https://www.freep.com/
 
 ---
 

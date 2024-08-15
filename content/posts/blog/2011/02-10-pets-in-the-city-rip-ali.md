@@ -26,7 +26,7 @@ It's a phone interview, so the sound isn't the best quality, but you can underst
 
 I have to say, I've heard a lot of interviews with Jorja over the years, but this is probably the best, longest, and most informative of them all. In the interview, Jorja talks about ADI's incredible lion rescue, dishes about Grissom and Sara, talks about her time on _CSI_, tells us more about Sara, admits that she was outsmarted by a 12-year-old twice, celebrates her late dog Ali who just passed away (may she rest in peace), and tells us all how we can get involved in helping to save the lions.
 
-Click [HERE](http://www.podtunecast.com/PetsInTheCity_038_JorjaFox.mp3) to listen to it.
+Click [HERE](https://www.podtunecast.com/PetsInTheCity_038_JorjaFox.mp3) to listen to it.
 {{< /blockquote >}}
 
 As for the interview itself, Ann graciously allowed me to repost it here: **[Pets In The City Transcript](/library/transcript/2011/pets-in-the-city/)**.

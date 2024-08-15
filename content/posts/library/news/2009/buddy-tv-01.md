@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "CSI: The 200th Birthday Spectacular Review  "
 newsreporter: Abi Kirk
 newssource: BuddyTV.com
-newsurl: http://www.buddytv.com/articles/csi/csi-the-200th-birthday-spectac-27603.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-the-200th-birthday-spectac-27603.aspx
 
 ---
 

@@ -18,7 +18,7 @@ tags:
     - csi
 ---
 
-While some of this is a rehash from the article about [how Jorja thought _CSI_ would last six weeks](http://www.news.com.au/entertainment/tv/jorja-fox-thought-csi-crime-scene-investigation-would-last-six-weeks/story-e6frfmyi-1226867996661), news.au.com celebrates _CSI_ hitting 14 seasons in Australia by asking Eric and Jorja about CSI.
+While some of this is a rehash from the article about [how Jorja thought _CSI_ would last six weeks](https://www.news.com.au/entertainment/tv/jorja-fox-thought-csi-crime-scene-investigation-would-last-six-weeks/story-e6frfmyi-1226867996661), news.au.com celebrates _CSI_ hitting 14 seasons in Australia by asking Eric and Jorja about CSI.
 
 {{< blockquote >}}
 But Fox has her own theory on why the original drama in the _CSI_ franchise endures.
@@ -34,4 +34,4 @@ Surely Fox had no idea _CSI_ would become this monster hit when she signed to 
 “You know, when I read the script I was blown away by it,” she says.
 {{< /blockquote >}}
 
-Read the full article on news.au.com: [I got it so wrong on CSI, says Jorja Fox as Crime Scene Investigation celebrates 14 seasons](http://www.news.com.au/entertainment/tv/i-got-it-so-wrong-on-csi-says-jorja-fox-as-crime-scene-investigation-celebrates-14-seasons/story-e6frfmyi-1226957088333)
+Read the full article on news.au.com: [I got it so wrong on CSI, says Jorja Fox as Crime Scene Investigation celebrates 14 seasons](https://www.news.com.au/entertainment/tv/i-got-it-so-wrong-on-csi-says-jorja-fox-as-crime-scene-investigation-celebrates-14-seasons/story-e6frfmyi-1226957088333)

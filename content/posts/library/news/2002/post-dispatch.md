@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: What are they doing to my show?
 newsreporter: Staff
 newssource: Post-Dispatch
-newsurl: http://home.post-dispatch.com/
+newsurl: https://home.post-dispatch.com/
 
 ---
 

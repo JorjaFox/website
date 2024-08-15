@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Lions rescued in Bolivia have new home on plains of Colorado  "
 newsreporter: CNN Wire Staff
 newssource: CNN
-newsurl: http://www.cnn.com/
+newsurl: https://www.cnn.com/
 
 ---
 

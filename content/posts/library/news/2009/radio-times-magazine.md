@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Where There's A Gil  "
 newsreporter: Unknown
 newssource: Radio Times
-newsurl: http://www.radiotimes.com/content/magazine/
+newsurl: https://www.radiotimes.com/content/magazine/
 
 ---
 

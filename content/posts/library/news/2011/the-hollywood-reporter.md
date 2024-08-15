@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "'CSI': Jorja Fox Back as Series Regular  "
 newsreporter: Lesley Goldberg
 newssource: The Hollywood Reporter
-newsurl: http://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517
+newsurl: https://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517
 
 ---
 

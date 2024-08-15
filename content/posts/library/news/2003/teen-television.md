@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: CSI Castmates Are Best Friends
 newsreporter: Staff
 newssource: Teen Television
-newsurl: http://teentelevision.com/d.asp?r=28373
+newsurl: https://teentelevision.com/d.asp?r=28373
 
 ---
 

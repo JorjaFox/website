@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Sara is Back!  "
 newsreporter: Neil Turiz
 newssource: CSI
-newsurl: http://www.tvguidemagazine.com/csi/sara-is-back-2548.html
+newsurl: https://www.tvguidemagazine.com/csi/sara-is-back-2548.html
 
 ---
 

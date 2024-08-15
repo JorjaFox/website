@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "HOLLYWOOD IS HUNG UP ON MADONNA  "
 newsreporter: Staff
 newssource: In Style
-newsurl: http://www.instyle.com/
+newsurl: https://www.instyle.com/
 
 ---
 

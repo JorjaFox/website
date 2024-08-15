@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Hollywood: Pet a Dog or Kill It?"
 newsreporter: "Yahoo! Finance"
 newssource: "Yahoo! Finance"
-newsurl: http://biz.yahoo.com/
+newsurl: https://biz.yahoo.com/
 
 ---
 

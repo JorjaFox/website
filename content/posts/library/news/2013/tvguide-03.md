@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "CSI: Catherine and Sara INTERROGATED  "
 newsreporter: Craig Tomashoff
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com/
+newsurl: https://www.tvguidemagazine.com/
 
 ---
 

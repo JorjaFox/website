@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI' Spoiler Alert! What's next for Gil and Sara?"
 newsreporter: Staff
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com
+newsurl: https://www.ew.com
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: "'CSI' star's come a long way since her school days in Brevard"
 newsreporter: Staff
 newssource: Florida Today
-newsurl: http://www.floridatoday.com/
+newsurl: https://www.floridatoday.com/
 
 ---
 

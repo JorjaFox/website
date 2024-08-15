@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Jorja Fox 'I hesitated to re-sign'"
 newsreporter: Staff
 newssource: TeLe Star
-newsurl: http://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html
+newsurl: https://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html
 
 ---
 

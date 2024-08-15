@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "C.S.I Has Jorja On It's Mind  "
 newsreporter: Lori Acken
 newssource: Channel Guide Magazine
-newsurl: http://www.channelguidemagblog.com/index.php/2009/07/20/csi-has-jorja-on-its-mind/
+newsurl: https://www.channelguidemagblog.com/index.php/2009/07/20/csi-has-jorja-on-its-mind/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "FASCINATING FACT 1499  "
 newsreporter: Staff
 newssource: Contact Music
-newsurl: http://www.contactmusic.com
+newsurl: https://www.contactmusic.com
 
 ---
 

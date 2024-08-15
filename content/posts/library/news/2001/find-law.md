@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: Showbiz people briefs
 newsreporter: Staff
 newssource: Find Law
-newsurl: http://news.findlaw.com/
+newsurl: https://news.findlaw.com/
 
 ---
 HOLLYWOOD (Variety) - It was difficult to conduct interviews with director Allison Anders and stars Kim Dickens and Gabriel Mann Thursday during Showtime's "Things Behind the Sun" premiere after-party at the Paramount Theater.

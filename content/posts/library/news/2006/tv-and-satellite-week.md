@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI From A to Z  "
 newsreporter: Staff
 newssource: TV & Satellite Week
-newsurl: http://www.tvandsatelliteweek.com/
+newsurl: https://www.tvandsatelliteweek.com/
 
 ---
 

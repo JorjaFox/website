@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: Who's News
 newsreporter: Staff
 newssource: USA Today Weekend Magazine
-newsurl: http://usaweekend.com/01_issues/010617/010617whosnews.html
+newsurl: https://usaweekend.com/01_issues/010617/010617whosnews.html
 
 ---
 I'm one of the many fans of CBS' hit crime drama, "CSI: Crime Scene Investigation". Tell me about Jorja Fox, one of the forensic investigators.

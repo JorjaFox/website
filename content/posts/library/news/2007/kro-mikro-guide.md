@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: Jorja Fox
 newsreporter: Staff
 newssource: KRO Mikro Guide
-newsurl: http://kro-mikro.com
+newsurl: https://kro-mikro.com
 
 ---
 

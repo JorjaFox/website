@@ -9,7 +9,7 @@ newstitle: The Buzz
 date: 1997-03-18
 newsreporter: Staff
 newssource: The Advocate
-newsurl: http://www.advocate.com/
+newsurl: https://www.advocate.com/
 ---
 
 ***ER* gets a lesbian**

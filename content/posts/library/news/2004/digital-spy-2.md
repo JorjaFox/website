@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Two top 'CSI' actors fired"
 newsreporter: Staff
 newssource: Digital Spy
-newsurl: http://www.digitalspy.co.uk
+newsurl: https://www.digitalspy.co.uk
 
 ---
 

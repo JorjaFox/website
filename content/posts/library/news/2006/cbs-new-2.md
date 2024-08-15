@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Behind The Scenes Of 'CSI'  "
 newsreporter: Staff
 newssource: CBS News
-newsurl: http://www.cbsnews.com/
+newsurl: https://www.cbsnews.com/
 
 ---
 

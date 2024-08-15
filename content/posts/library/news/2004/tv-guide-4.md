@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Days' Diva Gender-Bends on CSI"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

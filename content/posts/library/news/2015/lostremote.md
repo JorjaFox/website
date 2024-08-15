@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: CSI Series Finale Drives Little Social Buzz
 newsreporter: Karen Fratti
 newssource: LostRemote
-newsurl: http://www.adweek.com/lostremote/csi-series-finale-drives-little-social-buzz/54032
+newsurl: https://www.adweek.com/lostremote/csi-series-finale-drives-little-social-buzz/54032
 
 ---
 

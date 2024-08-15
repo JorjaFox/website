@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Spoiler Chat: Smallville, Glee, Vampire Diaries and More!  "
 newsreporter: Kristin Dos Santos
 newssource: E! Online
-newsurl: http://www.eonline.com/uberblog/watch\_with\_kristin/b213428\_spoiler\_chat\_smallville\_glee_vampire.html
+newsurl: https://www.eonline.com/uberblog/watch\_with\_kristin/b213428\_spoiler\_chat\_smallville\_glee_vampire.html
 
 ---
 

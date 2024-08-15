@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "Jorja Fox Introduces Her New Rescue Dog  "
 newsreporter: K.C. BLUMM
 newssource: People Pets
-newsurl: http://www.peoplepets.com/people/pets/article/0,,20754984,00.html
+newsurl: https://www.peoplepets.com/people/pets/article/0,,20754984,00.html
 
 ---
 

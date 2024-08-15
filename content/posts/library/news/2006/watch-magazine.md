@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI From A to Z: Favorite Episodes"
 newsreporter: Staff
 newssource: Watch Magazine
-newsurl: http://www.cbs.com/watch_magazine/
+newsurl: https://www.cbs.com/watch_magazine/
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Terminated Two"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 

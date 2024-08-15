@@ -11,7 +11,7 @@ tags: ["2007"]
 newstitle: "Renaissance - Discussion about Season Seven!"
 newsreporter: Series TV
 newssource: Series TV
-newsurl: http://seriestv.co.fr
+newsurl: https://seriestv.co.fr
 
 ---
 

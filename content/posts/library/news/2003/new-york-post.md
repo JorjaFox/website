@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: "TV's Weirdest Romance"
 newsreporter: Staff
 newssource: New York Post
-newsurl: http://www.nypost.com/entertainment/4745.htm
+newsurl: https://www.nypost.com/entertainment/4745.htm
 
 ---
 

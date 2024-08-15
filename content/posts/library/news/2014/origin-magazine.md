@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "Jorja Fox"
 newsreporter: Robert Piper
 newssource: ORIGIN Magazine
-newsurl: http://www.originmagazine.com/2014/11/11/jorja-fox/
+newsurl: https://www.originmagazine.com/2014/11/11/jorja-fox/
 
 ---
 

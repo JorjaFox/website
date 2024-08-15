@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Celeb's - Who's News?  "
 newsreporter: Staff
 newssource: USA Weekend Magazine
-newsurl: http://www.usaweekend.com
+newsurl: https://www.usaweekend.com
 
 ---
 **What can you tell me about "CSI's" Jorja Fox?**

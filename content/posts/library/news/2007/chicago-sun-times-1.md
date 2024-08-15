@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Scurrilous: Chicago's No. 1 couch potato"
 newsreporter: Scurry
 newssource: Chicago Sun-Times
-newsurl: http://www.suntimes.com
+newsurl: https://www.suntimes.com
 
 ---
 

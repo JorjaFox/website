@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "It's about time 'CSI' got personal  "
 newsreporter: Staff
 newssource: Chicago Tribune
-newsurl: http://www.chicagotribune.com
+newsurl: https://www.chicagotribune.com
 
 ---
 

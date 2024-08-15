@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Behind the investigation
 newsreporter: Staff
 newssource: The Star Online
-newsurl: http://star-ecentral.com/
+newsurl: https://star-ecentral.com/
 
 ---
 

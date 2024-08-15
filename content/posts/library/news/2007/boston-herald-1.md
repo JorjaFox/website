@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Heart to heart: Checking in with prime-time's top valentines"
 newsreporter: Staff
 newssource: Boston Herald
-newsurl: http://theedge.bostonherald.com/tvNews/view.bg?articleid=182813
+newsurl: https://theedge.bostonherald.com/tvNews/view.bg?articleid=182813
 
 ---
 

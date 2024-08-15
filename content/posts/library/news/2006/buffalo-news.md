@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Shedding some light on season's best trivia  "
 newsreporter: Staff
 newssource: Buffalo News
-newsurl: http://www.buffalonews.com
+newsurl: https://www.buffalonews.com
 
 ---
 

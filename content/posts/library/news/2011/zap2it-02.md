@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "'CSI': What did you think of Grissom's return?  "
 newsreporter: Rick Porter
 newssource: Zap2It - Zap 2 News & Buzz
-newsurl: http://blog.zap2it.com/frominsidethebox/2011/02/csi-what-did-you-think-of-grissoms-return.html
+newsurl: https://blog.zap2it.com/frominsidethebox/2011/02/csi-what-did-you-think-of-grissoms-return.html
 
 ---
 

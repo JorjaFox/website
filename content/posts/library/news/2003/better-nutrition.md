@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: sweet jorja fox
 newsreporter: Barbara Hey
 newssource: Better Nutrition
-newsurl: http://www.betternutrition.com
+newsurl: https://www.betternutrition.com
 
 ---
 

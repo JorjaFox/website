@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "BRIEFLY"
 newsreporter: Staff
 newssource: Detroit Free Press
-newsurl: http://www.freep.com
+newsurl: https://www.freep.com
 
 ---
 

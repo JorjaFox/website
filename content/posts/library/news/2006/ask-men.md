@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Beauty Pageant Of The Week, CSI Chicks  "
 newsreporter: Staff
 newssource: Ask Men
-newsurl: http://www.askmen.com
+newsurl: https://www.askmen.com
 
 ---
 

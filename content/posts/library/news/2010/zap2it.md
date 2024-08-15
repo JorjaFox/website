@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Marlee Matlin lobbies for 'CSI: Chicago'  "
 newsreporter: Kate O'Hare
 newssource: Zap2it
-newsurl: http://blog.zap2it.com/frominsidethebox/2010/12/marlee-matlin-lobbies-for-csi-chicago.html
+newsurl: https://blog.zap2it.com/frominsidethebox/2010/12/marlee-matlin-lobbies-for-csi-chicago.html
 
 ---
 

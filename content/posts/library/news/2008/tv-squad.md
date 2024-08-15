@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "'CSI' bringing Jorja Fox back for fall premiere  "
 newsreporter: Allison Waldman
 newssource: TV Squad
-newsurl: http://www.tvsquad.com/2008/05/22/csi-bringing-jorja-fox-back-for-fall-premiere/
+newsurl: https://www.tvsquad.com/2008/05/22/csi-bringing-jorja-fox-back-for-fall-premiere/
 
 ---
 

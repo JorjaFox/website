@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox goes bike shopping"
 newsreporter: Cyclelicious
 newssource: Cyclelicious
-newsurl: http://www.cyclelicio.us
+newsurl: https://www.cyclelicio.us
 
 ---
 

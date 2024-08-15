@@ -10,7 +10,7 @@ permalink: /news/2008/:title/
 newstitle: "Life after Jorja"
 newsreporter: Jenny Cooney Carrillo
 newssource: The TV Guide
-newsurl: http://tv-guide.co.nz
+newsurl: https://tv-guide.co.nz
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI star, who grew up in Brevard, fired from show, report says"
 newsreporter: Staff
 newssource: Florida Today
-newsurl: http://www.floridatoday.com/
+newsurl: https://www.floridatoday.com/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Fans Continue to Show Support for Former 'CSI' Actress  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com
+newsurl: https://www.buddytv.com
 
 ---
 

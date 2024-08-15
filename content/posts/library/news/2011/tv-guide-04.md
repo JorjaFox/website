@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "How CSI Landed Ted Danson "
 newsreporter: Michael Schneider
 newssource: TV Guide
-newsurl: http://tvguidemagazine.com
+newsurl: https://tvguidemagazine.com
 
 ---
 

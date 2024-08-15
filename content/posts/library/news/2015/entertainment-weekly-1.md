@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: Saying Goodbye to CSI
 newsreporter: Lynette Rice
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com/
+newsurl: https://www.ew.com/
 
 ---
 

@@ -3,7 +3,7 @@ title: 'My First Place: Celebrity Style'
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2005-01-01
-interviewurl: http://www.hgtv.com
+interviewurl: https://www.hgtv.com
 permalink: /transcript/2005/:title/
 categories: ["Interviews"]
 tags: [ "2005" ]

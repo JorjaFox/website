@@ -21,4 +21,4 @@ tags:
 Actor Daniel J. Travanti talked about his early years breaking into television as a guest star on such shows as Route 66, The Defenders, and Gunsmoke. Travanti spoke in detail about the role for which he is most identified "Captain Frank Furillo" on Hill Street Blues. He also discussed the production of this series and some of the key series storylines. He then talked about his later work that included the television movies Adam and Murrow and the police drama series **Missing Persons**
 {{< /blockquote >}}
 
-Embedding is disabled, but check out the [Daniel Travanti interview](http://uk.youtube.com/watch?v=N5yaYuHV2f8).
+Embedding is disabled, but check out the [Daniel Travanti interview](https://uk.youtube.com/watch?v=N5yaYuHV2f8).

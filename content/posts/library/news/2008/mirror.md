@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "CSI: Crime Scene Investigation  "
 newsreporter: Staff
 newssource: The Mirror
-newsurl: http://www.mirror.co.uk/showbiz/tv/todaystv/2008/02/19/csi-crime-scene-investigation-89520-20324532/
+newsurl: https://www.mirror.co.uk/showbiz/tv/todaystv/2008/02/19/csi-crime-scene-investigation-89520-20324532/
 
 ---
 

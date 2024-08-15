@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Pulp friction"
 newsreporter: Staff
 newssource: NEWS.com.au
-newsurl: http://entertainment.news.com.au
+newsurl: https://entertainment.news.com.au
 
 ---
 [...]

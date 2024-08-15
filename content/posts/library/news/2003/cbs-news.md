@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: "'C.S.I.' Tunes"
 newsreporter: Staff
 newssource: CBS News
-newsurl: http://www.cbsnews.com/stories/2003/01/08/earlyshow/leisure/music/main535780.shtml
+newsurl: https://www.cbsnews.com/stories/2003/01/08/earlyshow/leisure/music/main535780.shtml
 
 ---
 

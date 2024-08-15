@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Ask Matt
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 

@@ -3,7 +3,7 @@ title: The Talk (2 April 2013)
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-04-02
-interviewurl: http://cbs.com/shows/thetalk
+interviewurl: https://cbs.com/shows/thetalk
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
 tags: [ "2013" ]

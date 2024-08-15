@@ -9,7 +9,7 @@ categories: ["Articles", "News"]
 newstitle: Review
 newsreporter: Luisa F. Ribeiro
 newssource: Box Off
-newsurl: http://www.boxoff.com/scripts/fiw.dll?GetReview?&where=ID&terms=4626
+newsurl: https://www.boxoff.com/scripts/fiw.dll?GetReview?&where=ID&terms=4626
 
 ---
 Starring Jorja Fox, Bill Nunn and Suzanne Mara. Directed by Gregory Ruzzin. Written by Fred Dresch and Ron Ratliff. Produced by Dan Gifford and Amy Sommer. A Mama's Boys release. Romantic comedy. Rated PG-13 for some mature thematic elements. Running time: 91 min.

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "New cast member could replace Jorja Fox on CSI"
 newsreporter: TV Squad
 newssource: TV Squad
-newsurl: http://www.tvsquad.com/
+newsurl: https://www.tvsquad.com/
 
 ---
 

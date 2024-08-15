@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Blue Crush"
 newsreporter: Staff
 newssource: People Magazine
-newsurl: http://people.com
+newsurl: https://people.com
 
 ---
 

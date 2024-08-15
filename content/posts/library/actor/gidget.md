@@ -15,4 +15,4 @@ Narrated by Jorja Fox and produced by Brian L. Gillogly and Robert Masters, ACCI
 
 Surfrider West LA/Malibu Chapter and the Malibu Surfing Association celebrated Gidget's story and the history of Malibu surfing with a special screening at Duke's Malibu. Attendees met Kathy 'Gidget' Kohner Zuckerman and other legends of the surf community, participated in a silent auction of artwork from top Malibu and LA artists, and attended an after party with live music.
 
-* [Event Website](http://surfriderwlam.org/cleanthebu/?p=125)
+* [Event Website](https://surfriderwlam.org/cleanthebu/?p=125)

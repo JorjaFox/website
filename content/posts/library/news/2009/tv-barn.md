@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "About that sentimental 'CSI' sendoff for Grissom ...  "
 newsreporter: Aaron Barnhart
 newssource: TV Barn
-newsurl: http://blogs.kansascity.com/tvbarn/2009/01/about-that-sent.html
+newsurl: https://blogs.kansascity.com/tvbarn/2009/01/about-that-sent.html
 
 ---
 

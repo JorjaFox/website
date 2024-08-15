@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Fox And Eads Fired From The Cast Of CSI"
 newsreporter: Staff
 newssource: Elite TV
-newsurl: http://www.elitestv.com
+newsurl: https://www.elitestv.com
 
 ---
 

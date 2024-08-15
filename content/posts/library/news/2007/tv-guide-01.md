@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Staying Alive: Jorja Fox in Talks with CSI"
 newsreporter: Staff
 newssource: TV Guide (online)
-newsurl: http://community.tvguide.com
+newsurl: https://community.tvguide.com
 
 ---
 

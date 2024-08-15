@@ -3,7 +3,7 @@ title: The Late Late Show
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-06-26
-interviewurl: http://www.cbs.com/
+interviewurl: https://www.cbs.com/
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
 tags: ["2002"]

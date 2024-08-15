@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Robert David Hall"
 newsreporter: Kristine Huntley
 newssource: CSI Files
-newsurl: http://www.csifiles.com/interviews/robert_david_hall.shtml
+newsurl: https://www.csifiles.com/interviews/robert_david_hall.shtml
 
 ---
 

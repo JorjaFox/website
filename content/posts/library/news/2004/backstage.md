@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Tale of Two Actors in 'CSI' Case"
 newsreporter: Staff
 newssource: Backstage
-newsurl: http://www.backstage.com/
+newsurl: https://www.backstage.com/
 
 ---
 

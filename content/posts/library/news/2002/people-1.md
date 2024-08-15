@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: CS-Why?
 newsreporter: Staff
 newssource: People Magazine
-newsurl: http://people.aol.com/
+newsurl: https://people.aol.com/
 
 
 ---

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' Stars Fired After Pay Requests"
 newsreporter: Staff
 newssource: FOX 23
-newsurl: http://www.fox23news.com
+newsurl: https://www.fox23news.com
 
 ---
 

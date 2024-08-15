@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "CSI: Back on the Scene"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 What a difference a year (not to mention a coffin, a crazed killer and hundreds of fire ants) has made for *CSI*.

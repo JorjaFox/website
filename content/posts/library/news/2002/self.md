@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: How I Work Out
 newsreporter: Shelly Levitt
 newssource: Self
-newsurl: http://self.com
+newsurl: https://self.com
 ---
 
 **Love Match**

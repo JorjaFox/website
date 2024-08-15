@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI Casting Call for Elvis Impersonators"
 newsreporter: Staff
 newssource: KLAS TV
-newsurl: http://www.klas-tv.com
+newsurl: https://www.klas-tv.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Jorja Fox: Grissom's Ladylove is Back  "
 newsreporter: Jen Vishta
 newssource: Show Biz Renegade
-newsurl: http://www.showbizrenegade.com/2011/07/22/jorja-fox-grissom%E2%80%99s-ladylove-is-back/7124
+newsurl: https://www.showbizrenegade.com/2011/07/22/jorja-fox-grissom%E2%80%99s-ladylove-is-back/7124
 
 ---
 

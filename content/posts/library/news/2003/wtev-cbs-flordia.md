@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: CSI Producers Forced to Increase Security
 newsreporter: Staff
 newssource: WTEV CBS Jacksonville
-newsurl: http://www.wtev.com/
+newsurl: https://www.wtev.com/
 
 ---
 

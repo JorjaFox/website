@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "CSI CAST ATTEND CSI EXHIBIT GALA OPENING"
 newsreporter: TV Show News
 newssource: TV Show News
-newsurl: http://www.accesstvshows.com/
+newsurl: https://www.accesstvshows.com/
 
 ---
 

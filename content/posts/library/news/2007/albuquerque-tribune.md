@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "What's on tonight: Thursday, Nov. 15"
 newsreporter: Mary-Ann McBride
 newssource: Albuquerque Tribune
-newsurl: http://www.abqtrib.com/news/2007/nov/15/whats-tonight-thursday-nov-15/
+newsurl: https://www.abqtrib.com/news/2007/nov/15/whats-tonight-thursday-nov-15/
 
 ---
 

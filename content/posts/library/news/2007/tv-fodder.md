@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: 'Jorja Fox Says Sayonara to "CSI"'
 newsreporter: TV Fodder
 newssource: TV Fodder
-newsurl: http://www.tvfodder.com
+newsurl: https://www.tvfodder.com
 
 ---
 

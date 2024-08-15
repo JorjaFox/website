@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Pop culture plays a role in what we name our kids  "
 newsreporter: Staff
 newssource: The StarPhoenix
-newsurl: http://www.canada.com/saskatoonstarphoenix/news/story.html?id=aead3433-f4b1-4712-9180-c966ad906212
+newsurl: https://www.canada.com/saskatoonstarphoenix/news/story.html?id=aead3433-f4b1-4712-9180-c966ad906212
 
 ---
 

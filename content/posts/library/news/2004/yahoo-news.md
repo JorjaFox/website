@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Eye axes 'CSI' duo"
 newsreporter: Staff
 newssource: Yahoo News
-newsurl: http://news.yahoo.com/
+newsurl: https://news.yahoo.com/
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Maggie Doyle and the Lesbian-Feminist Connection
 newsreporter: Sarah Warn
 newssource: AfterEllen
-newsurl: http://www.afterellen.com/
+newsurl: https://www.afterellen.com/
 
 ---
 

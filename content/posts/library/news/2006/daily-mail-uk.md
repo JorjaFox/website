@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "The lowdown on ...  "
 newsreporter: Staff
 newssource: Daily Mail UK
-newsurl: http://www.dailymail.co.uk
+newsurl: https://www.dailymail.co.uk
 
 ---
 

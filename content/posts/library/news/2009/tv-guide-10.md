@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Matt's TV Week in Review  "
 newsreporter: Matt Roush
 newssource: Daily Review
-newsurl: http://tvguidemagazine.com/matt-roush-daily-review/matts-tv-week-in-review-2557.html
+newsurl: https://tvguidemagazine.com/matt-roush-daily-review/matts-tv-week-in-review-2557.html
 
 ---
 

@@ -3,7 +3,7 @@ title: CBS 2 Chicago Evening News (23 May 2007)
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-05-23
-interviewurl: http://cbs2chicago.com/
+interviewurl: https://cbs2chicago.com/
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
 tags: [ "2007" ]

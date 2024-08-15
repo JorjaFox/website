@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "Cover Story - How I Became an Elephant: The Movie  "
 newsreporter: Brenda Carey
 newssource: Vegetarian Health and Fitness Magazine
-newsurl: http://www.vhfmag.com
+newsurl: https://www.vhfmag.com
 
 ---
 

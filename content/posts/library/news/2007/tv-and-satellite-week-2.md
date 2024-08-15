@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Valley of the dolls"
 newsreporter: Staff
 newssource: TV & Satellite Week
-newsurl: http://www.tvandsatelliteweek.com/
+newsurl: https://www.tvandsatelliteweek.com/
 
 ---
 

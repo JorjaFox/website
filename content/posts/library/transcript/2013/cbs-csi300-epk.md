@@ -3,7 +3,7 @@ title: CBS CSI300 EPK
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-10-22
-interviewurl: http://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1hvw2x
+interviewurl: https://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1hvw2x
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
 tags: [ "2013" ]

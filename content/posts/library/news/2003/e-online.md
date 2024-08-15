@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Watch with Kristin
 newsreporter: Staff
 newssource: ET Online
-newsurl: http://www.eonline.com/
+newsurl: https://www.eonline.com/
 
 ---
 

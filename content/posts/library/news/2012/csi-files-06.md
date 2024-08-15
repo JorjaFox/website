@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "Interview: Joe Pokaski  "
 newsreporter: Rachel Trongo
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2012/03/interview-joe-pokaski-2/
+newsurl: https://www.csifiles.com/content/2012/03/interview-joe-pokaski-2/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Me, Myself, and Eye  "
 newsreporter: Staff
 newssource: EW.com
-newsurl: http://www.ew.com
+newsurl: https://www.ew.com
 
 ---
 

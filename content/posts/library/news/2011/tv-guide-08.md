@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Matt's TV Week in Review  "
 newsreporter: Matt Roush
 newssource: TVGuide.com
-newsurl: http://www.tvguide.com/News/Matts-TV-Week-1028902.aspx
+newsurl: https://www.tvguide.com/News/Matts-TV-Week-1028902.aspx
 
 ---
 

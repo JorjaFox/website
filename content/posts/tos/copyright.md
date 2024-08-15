@@ -16,7 +16,7 @@ _Fans of LeFox_ is licensed under a Creative Commons Attribution-ShareAlike 4.0 
 
 This license lets others remix, tweak, and build upon the work here, even for commercial reasons, as long as they credit and license their new creations under the identical terms. This license is often compared to open source software licenses. All new works based on information found here will carry the same license.
 
-* [View License Deed](http://creativecommons.org/licenses/by-sa/4.0/)
+* [View License Deed](https://creativecommons.org/licenses/by-sa/4.0/)
 * [View Legal Code](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 ## Exceptions

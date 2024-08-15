@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Eric Szmanda : 'J'adore flirter avec Jorja Fox'"
 newsreporter: Staff
 newssource: Cine Tele Revue
-newsurl: http://www.cinetelerevue.be
+newsurl: https://www.cinetelerevue.be
 
 ---
 

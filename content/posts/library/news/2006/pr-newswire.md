@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "TiVo Survey Reveals Top 10 Most Unforgettable TV Moments of 2006 According to American TV Viewers  "
 newsreporter: Staff
 newssource: PR Newswire
-newsurl: http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/12-14-2006/0004491249&EDATE=
+newsurl: https://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/12-14-2006/0004491249&EDATE=
 
 ---
 

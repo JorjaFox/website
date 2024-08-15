@@ -10,7 +10,7 @@ permalink: /news/2015/:title/
 newstitle: "Saying Goodbye to CSI, a Show That Changed TV"
 newsreporter: Adam Bryant
 newssource: TV Guide
-newsurl: http://www.tvguide.com/news/how-csi-changed-tv-anthony-zuiker-william-petersen/
+newsurl: https://www.tvguide.com/news/how-csi-changed-tv-anthony-zuiker-william-petersen/
 
 ---
 

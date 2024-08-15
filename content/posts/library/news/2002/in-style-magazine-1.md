@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: "Scene + Heard"
 newsreporter: Staff
 newssource: In Style Magazine
-newsurl: http://www.instyle.com/
+newsurl: https://www.instyle.com/
 
 ---
 

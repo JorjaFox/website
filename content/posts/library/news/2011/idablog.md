@@ -10,7 +10,7 @@ permalink: /news/2011/:title/
 newstitle: "Are you ready for the Internation day of action for elephants in zoos?"
 newsreporter: Catherine Doyle
 newssource: IDA Blog
-newsurl: http://www.idablog.org/elephants/are-you-ready-for-the-international-day-of-action-for-elephants-in-zoos/
+newsurl: https://www.idablog.org/elephants/are-you-ready-for-the-international-day-of-action-for-elephants-in-zoos/
 
 ---
  On Saturday, June 11, activists in at least 24 cities around the world will take part in the International Day of Action for Elephants in Zoos, holding outreach events and demonstrations to send the message that it's wrong to keep elephants in small zoo displays where these magnificent animals are suffering and dying prematurely. This year we're also offering a surprise co-event, but you'll have to stay tuned to this blog for more information later in the week.

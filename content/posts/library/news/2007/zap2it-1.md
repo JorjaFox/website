@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Rock On - This Year's Emmy Winner Returns"
 newsreporter: TVGal
 newssource: TVGal
-newsurl: http://blog.zap2it.com
+newsurl: https://blog.zap2it.com
 
 ---
 

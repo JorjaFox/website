@@ -3,7 +3,7 @@ title: ExtraTV
 date: 2015-08-18
 transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://extratv.com/videos/0_mjhid6vd
+interviewurl: https://extratv.com/videos/0_mjhid6vd
 permalink: /transcript/2015/:title/
 categories: ["Interviews"]
 tags: [ "2015" ]

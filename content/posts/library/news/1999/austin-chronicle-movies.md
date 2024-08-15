@@ -9,7 +9,7 @@ categories: ["Articles", "News"]
 newstitle: The Hungry Bachelors Club
 newsreporter: Russell Smith
 newssource: Austin Chronicle
-newsurl: http://www.auschron.com
+newsurl: https://www.auschron.com
 
 ---
 Director: Gregory Ruzzin

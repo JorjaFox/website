@@ -29,8 +29,7 @@ I don't think we'll ever determine what he was meaning to say, but at least we c
 Vote in November.
 {{< /blockquote >}}
 
-* [eGreetings](http://www.egreetings.com)
-* [Video](https://jorjafox.net/video/beatgreets-csi-white-house/)
+* [eGreetings](https://www.egreetings.com)
 
 ## Democratic National Convention (28 August 2008)
 
@@ -40,4 +39,4 @@ While at the DNC in 2008, Jorja was briefly interviewed.
 Hi, I'm Jorja Fox. I'm on CSI sometimes. I don't know what I'm doing here at the DNC, I'm really confused. I'm in Denver. I just kidding! I'm here- I'm just honored, I feel so blessed I get to witness this amazing moment in history. Yes we can! Go Barak. Good luck, we love you. Thank you.
 {{< /blockquote >}}
 
-* [Democratic National Convention Committee](http://demconvention.com/)
+* [Democratic National Convention Committee](https://demconvention.com/)

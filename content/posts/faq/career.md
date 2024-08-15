@@ -7,7 +7,7 @@ layout: library
 
 The following questions pertain to Jorja's career on TV and in movies.
 
-For more questions about her personal life and advocacy, please read the **[FAQ about Jorja](/library/faq/jorja/)**.
+For more questions about her personal life and advocacy, please read the **[FAQ about Jorja](/faq/jorja/)**.
 
 ### What movies and TV shows has she been in?
 
@@ -21,7 +21,7 @@ She first played the Rooster, in a children's production of _Chicken Little_. He
 
 ### Why did Jorja leave _ER_?
 
-Since she wasn't a main cast member on _[ER](/library/actor/er/)_, Jorja Fox had the freedom to film a pilot for a UPN series, _[The True Story](/library/actor/true-story/)_. The pilot ep was reworked into _The Beat_, which was sans Fox and was canceled after a handful of episodes. She was then in two movies, _[Food For the Heart](/library/actor/food-heart/)_ (also known as _The Hungry Bachelor's Club_) and _[Velocity Trap](/library/actor/velocity-trap/)_, which accounts for her time between _ER_ and _The West Wing_, which became her next TV project.
+Since she wasn't a main cast member on _[ER](/library/actor/er/)_, Jorja Fox had the freedom to film a pilot for a UPN series, _[The True Story](/library/actor/true-story/)_. The pilot ep was reworked into _The Beat_, which was sans Fox and was canceled after a handful of episodes. She was then in two movies, _[Food For the Heart](/library/actor/food-for-the-heart/)_ (also known as _The Hungry Bachelor's Club_) and _[Velocity Trap](/library/actor/velocity-trap/)_, which accounts for her time between _ER_ and _The West Wing_, which became her next TV project.
 
 ### Why did Jorja leave _The West Wing_?
 

@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Jorja's Coming Back to 'CSI'"
 newsreporter: Franck Ragaine
 newssource: TV Guide Magazine
-newsurl: http://www.tvguide.com/Magazine/
+newsurl: https://www.tvguide.com/Magazine/
 
 ---
 

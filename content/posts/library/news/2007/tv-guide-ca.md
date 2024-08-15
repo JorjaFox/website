@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "The big 'CSI' question -- is Jorja Fox gone?"
 newsreporter: TV Guide CA
 newssource: TV Guide CA
-newsurl: http://entertainment1.sympatico.msn.ca
+newsurl: https://entertainment1.sympatico.msn.ca
 
 ---
 

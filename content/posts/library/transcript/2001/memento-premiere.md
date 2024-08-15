@@ -3,7 +3,7 @@ title: Memento Premiere
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2001-01-01
-interviewurl: http://wireimage.com/
+interviewurl: https://wireimage.com/
 permalink: /transcript/2001/:title/
 categories: ["Interviews"]
 tags: ["2001"]

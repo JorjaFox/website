@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' thesp back on set"
 newsreporter: Staff
 newssource: Variety
-newsurl: http://variety.com
+newsurl: https://variety.com
 
 ---
 

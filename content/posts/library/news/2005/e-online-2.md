@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Gossip - The Awful Truth"
 newsreporter: Staff
 newssource: E! Online
-newsurl: http://www.eonline.com/
+newsurl: https://www.eonline.com/
 
 ---
 **OscarBit**

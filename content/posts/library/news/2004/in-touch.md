@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "*CSI*'s Jorja skips Work"
 newsreporter: Staff
 newssource: In Touch
-newsurl: http://intouchweekly.hollywood.com/
+newsurl: https://intouchweekly.hollywood.com/
 
 ---
 

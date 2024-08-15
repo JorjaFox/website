@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Investigate Vegetarianism With CSIs Jorja Fox  "
 newsreporter: Staff
 newssource: Go Veg
-newsurl: http://www.goveg.com
+newsurl: https://www.goveg.com
 
 ---
 

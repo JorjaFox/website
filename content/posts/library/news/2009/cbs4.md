@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Sara Returns For Tenth Season Of CSI On CBS  "
 newsreporter: Staff
 newssource: CBS4
-newsurl: http://cbs4.com/entertainment/CBS.Season.premiere.2.1205834.html
+newsurl: https://cbs4.com/entertainment/CBS.Season.premiere.2.1205834.html
 
 ---
 

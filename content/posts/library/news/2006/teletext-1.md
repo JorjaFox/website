@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Life in the Worlds Most Popular Show  "
 newsreporter: Staff
 newssource: Teletext
-newsurl: http://teletext.com
+newsurl: https://teletext.com
 
 ---
 

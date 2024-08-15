@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Nelly rocks, Theron and Lauper spotted at SAG bash  "
 newsreporter: Lori Midson
 newssource: Rocky Mountain News
-newsurl: http://www.rockymountainnews.com/news/2008/aug/27/nelly-rocks-house-sag-bash/
+newsurl: https://www.rockymountainnews.com/news/2008/aug/27/nelly-rocks-house-sag-bash/
 
 ---
 

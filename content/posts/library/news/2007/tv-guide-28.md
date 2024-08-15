@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Can Grissom save Sara?"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 ---
 
 **Sneak Peek CSI**

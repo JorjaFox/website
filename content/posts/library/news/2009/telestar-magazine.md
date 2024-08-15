@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox Interview  "
 newsreporter: CStaff
 newssource: Tele Star
-newsurl: http://blog.telestar.fr/
+newsurl: https://blog.telestar.fr/
 
 ---
 

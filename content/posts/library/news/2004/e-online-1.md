@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' Axes Two Stars"
 newsreporter: Staff
 newssource: E! Online
-newsurl: http://eonline.com
+newsurl: https://eonline.com
 
 ---
 

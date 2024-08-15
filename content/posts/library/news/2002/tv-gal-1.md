@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: TV Gal Dishes Up the Globes
 newsreporter: Staff
 newssource: TV Gal
-newsurl: http://tv.zap2it.com/
+newsurl: https://tv.zap2it.com/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Q&A Jorja Fox  "
 newsreporter: Staff
 newssource: Guardian Unlimited
-newsurl: http://www.guardian.co.uk/
+newsurl: https://www.guardian.co.uk/
 
 ---
 

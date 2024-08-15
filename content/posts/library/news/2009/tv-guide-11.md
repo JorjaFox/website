@@ -10,7 +10,7 @@ permalink: /news/2009/:title/
 newstitle: "Breaking: Jorja Fox Returns to 'CSI'"
 newsreporter: Matt Mitovich
 newssource: TVGuide.com
-newsurl: http://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx
+newsurl: https://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx
 
 ---
 

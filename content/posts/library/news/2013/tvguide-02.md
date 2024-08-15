@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "Mega Buzz: A Big Once Mistake, a CSI Return and a Revolution 'Power' Grab  "
 newsreporter: Adam Bryant and Natalie Abrams
 newssource: TV Guide
-newsurl: http://www.tvguide.com/News/Mega-Buzz-Once-CSI-Revolution-Spoilers-1061957.aspx
+newsurl: https://www.tvguide.com/News/Mega-Buzz-Once-CSI-Revolution-Spoilers-1061957.aspx
 
 ---
 

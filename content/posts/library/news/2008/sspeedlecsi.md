@@ -10,7 +10,7 @@ permalink: /news/2008/:title/
 newstitle: "CSI Paparazzi: Jorja Fox visits Costa Rica  "
 newsreporter: sspeedle
 newssource: "CSI: Crime Scene Investigation News"
-newsurl: http://sspeedlecsi.blogspot.com/2008/04/csi-paparazzi-jorja-fox-visits-costa.html
+newsurl: https://sspeedlecsi.blogspot.com/2008/04/csi-paparazzi-jorja-fox-visits-costa.html
 
 ---
 

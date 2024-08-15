@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Returning Favorites - Thursday - CSI"
 newsreporter: Staff
 newssource: TV Guide Magazine
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

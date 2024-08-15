@@ -20,7 +20,7 @@ Told with the whispery voice-over of a little girl, Nick, Sara, Warrick and Greg
 
 The CSIs investigate the house, which has been ripped apart but nothing appeared to be stolen. In the basement, they find an indoor marijuana farm. Much of the dried pot was stolen. They also learn that the son was another entrepreneur, selling essays to the other kids in his grade. One of the prints matches a kid in ROTC, who turns out to have the pot in his car's trunk. The son told his classmates about the pot in order to be thought of as cool, but when they came over, his parents were still there. The three teenage boys shot the son and the father, and then the mother when she came down stairs.
 
-One of the boys was sent to drug the daughter, but she poured the cough syrup into her shoe and faked it, dropping 'cubes' of [Bubblicious](http://www.bubblicious.com/) gum as a Gum Drop trail. The boys then took the family out on a boat and dumped them in the middle of the nearby lake. One of the boys didn't want to dump Cassie, as she wasn't dead, and another boy slit her throat.
+One of the boys was sent to drug the daughter, but she poured the cough syrup into her shoe and faked it, dropping 'cubes' of [Bubblicious](https://www.bubblicious.com/) gum as a Gum Drop trail. The boys then took the family out on a boat and dumped them in the middle of the nearby lake. One of the boys didn't want to dump Cassie, as she wasn't dead, and another boy slit her throat.
 
 Cassie, however, was alive and managed to swim to shore, where she was found by Nick and thus able to speak (in whispers) and give us the voice-over for the episode.
 

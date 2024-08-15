@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Spring 2008 Newsletter"
 newsreporter: Staff
 newssource: Orangutan Outreach
-newsurl: http://campaign-archive.com/?u=5623ceeb639273a4885aa9d45&id=1wdtoJcvBM&e=
+newsurl: https://campaign-archive.com/?u=5623ceeb639273a4885aa9d45&id=1wdtoJcvBM&e=
 
 ---
 

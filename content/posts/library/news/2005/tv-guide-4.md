@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "CSI A to Z"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 [...]

@@ -15,7 +15,7 @@ thumbnail:
   url: /img/blog/2012/allies.png
 ---
 
-I admit, I had no idea what [Allie the Ally](http://allietheally.tumblr.com/) was until about 3 minutes ago. The Allie the Ally project started at the James Hubert Blake High School Gay-Straight Alliance, Allies 4 Equality. They are sending around a doll named Allie to members and supporters of the Lesbian, Gay, Bisexual, Transgender, and Questioning (LBGTQ) community to show support for LBGTQ youth.
+I admit, I had no idea what [Allie the Ally](https://allietheally.tumblr.com/) was until about 3 minutes ago. The Allie the Ally project started at the James Hubert Blake High School Gay-Straight Alliance, Allies 4 Equality. They are sending around a doll named Allie to members and supporters of the Lesbian, Gay, Bisexual, Transgender, and Questioning (LBGTQ) community to show support for LBGTQ youth.
 
 And Allie visited CSI.
 

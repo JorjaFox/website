@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "Interview: Christopher Barbour  "
 newsreporter: Shane Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2012/09/interview-christopher-barbour-3/
+newsurl: https://www.csifiles.com/content/2012/09/interview-christopher-barbour-3/
 
 ---
 

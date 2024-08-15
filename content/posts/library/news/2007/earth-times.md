@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox to leave 'CSI'"
 newsreporter: Earth Times
 newssource: Earth Times
-newsurl: http://www.earthtimes.org
+newsurl: https://www.earthtimes.org
 
 ---
 

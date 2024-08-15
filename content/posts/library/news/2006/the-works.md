@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Jorja Fox"
 newsreporter: Jenny Eden
 newssource: The Works
-newsurl: http://www.visimag.com/theworks/index.htm
+newsurl: https://www.visimag.com/theworks/index.htm
 
 ---
 

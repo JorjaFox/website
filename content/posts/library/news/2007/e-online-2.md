@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI's Jorja Fox Is Leaving the Show"
 newsreporter: "E! Online"
 newssource: Watch With Kristen
-newsurl: http://www.eonline.com
+newsurl: https://www.eonline.com
 
 ---
 

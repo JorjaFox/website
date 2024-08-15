@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "Ask Matt: Is The Good Wife Better Now? Plus, the Castle Breakup, CSI's Finale and More"
 newsreporter: Matt Roush
 newssource: Ask Matt @ TV Insider
-newsurl: http://www.tvinsider.com/article/44180/ask-matt-is-the-good-wife-better-now-plus-the-castle-breakup-csi-finale/
+newsurl: https://www.tvinsider.com/article/44180/ask-matt-is-the-good-wife-better-now-plus-the-castle-breakup-csi-finale/
 
 ---
 

@@ -9,7 +9,7 @@ categories: ["Articles", "News"]
 newstitle: The Hungry Bachelors Club
 newsreporter: Staff
 newssource: Variety
-newsurl: http://www.variety.com
+newsurl: https://www.variety.com
 
 ---
 A Mama's Boys Prods. release of a Taggart Transcontinental and Managed Passion Films presentation of a Mama's Boys production. Produced by Dan Gifford, Amy Sommer Gifford. Executive producer, Kimberly Becker. Co-producer, Robert Lynn New.

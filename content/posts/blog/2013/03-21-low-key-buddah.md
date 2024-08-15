@@ -23,4 +23,4 @@ Azar "Aze" Salehi says her store, Bella Bazaar, is known for having the best Bud
 Her most well-known shopper is actress Jorja Fox from "CSI." "She comes in and I never recognize her," Salehi said. "She's really low-key and relaxed."
 {{< /blockquote >}}
 
-Credit: [OC Register](http://www.ocregister.com/news/salehi-500771-made-business.html)
+Credit: [OC Register](https://www.ocregister.com/news/salehi-500771-made-business.html)

@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "'CSI' changes afoot: Could Grissom return? What's up with Langston's clothes?  "
 newsreporter: Maureen Ryan
 newssource: Chicago Tribune
-newsurl: http://featuresblogs.chicagotribune.com/entertainment_tv/2009/08/csi-fishburne-petersen.html
+newsurl: https://featuresblogs.chicagotribune.com/entertainment_tv/2009/08/csi-fishburne-petersen.html
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Joanna's Best & Worst of the Week"
 newsreporter: The TV Addict
 newssource: The TV Addict
-newsurl: http://thetvaddict.com
+newsurl: https://thetvaddict.com
 
 ---
 

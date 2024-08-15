@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Favorite TV Shows Return With Fanfare  "
 newsreporter: Staff
 newssource: The Showbuzz
-newsurl: http://www.showbuzz.cbsnews.com/stories/2008/03/24/tv/main3963566.shtml
+newsurl: https://www.showbuzz.cbsnews.com/stories/2008/03/24/tv/main3963566.shtml
 
 ---
 

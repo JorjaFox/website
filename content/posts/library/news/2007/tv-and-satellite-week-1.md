@@ -11,7 +11,7 @@ tags: ["2007"]
 newstitle: "CSI uncovered"
 newsreporter: Staff
 newssource: TV & Satellite Week
-newsurl: http://www.ipcmedia.com/
+newsurl: https://www.ipcmedia.com/
 
 ---
 

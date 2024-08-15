@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Here's when your favorite series wraps up its season"
 newsreporter: STLtoday
 newssource: STLtoday
-newsurl: http://www.stltoday.com/
+newsurl: https://www.stltoday.com/
 
 ---
 

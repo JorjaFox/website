@@ -8,7 +8,7 @@ categories: ["Articles", "News"]
 newstitle = CSI: Review
 newsreporter: Staff
 newssource: Hearald Sun TV Guide
-newsurl: http://www.heraldsun.news.com.au/
+newsurl: https://www.heraldsun.news.com.au/
 
 ---
 

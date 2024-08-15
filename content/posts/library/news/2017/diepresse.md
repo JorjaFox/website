@@ -8,7 +8,7 @@ categories: ["Articles", "News"]
 newstitle: "Photography: Naked, stars and wild horses"
 newsreporter: "Teresa Schaur-Wünsch"
 newssource: "Die Presse"
-newsurl: http://diepresse.com/home/leben/mensch/5253828/Fotografie_Nackte-Stars-und-wilde-Pferde
+newsurl: https://diepresse.com/home/leben/mensch/5253828/Fotografie_Nackte-Stars-und-wilde-Pferde
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Hot Box: Television to talk about"
 newsreporter: Toronto Star
 newssource: Toronto Star
-newsurl: http://www.thestar.com/
+newsurl: https://www.thestar.com/
 
 ---
 

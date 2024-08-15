@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "They've Got Q  "
 newsreporter: Glenn Garvin
 newssource: Miami Herald
-newsurl: http://www.miamiherald.com/tropical_life/story/474335.html
+newsurl: https://www.miamiherald.com/tropical_life/story/474335.html
 
 ---
 

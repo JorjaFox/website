@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI heads toward a romantic Grey area  "
 newsreporter: Staff
 newssource: Sun Sentinel
-newsurl: http://www.sun-sentinel.com/features/columnists/sfl-tvtjla-csi0jul20,0,3684284.column?coll=sfla-features-col
+newsurl: https://www.sun-sentinel.com/features/columnists/sfl-tvtjla-csi0jul20,0,3684284.column?coll=sfla-features-col
 
 ---
 

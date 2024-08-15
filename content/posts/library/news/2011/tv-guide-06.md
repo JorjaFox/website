@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Exclusive First Look: Ted Danson on CSI  "
 newsreporter: TV Guide Magazine News
 newssource: TV Guide Magazine
-newsurl: http://www.tvguide.com/News/Ted-Danson-CSI-1035847.aspx
+newsurl: https://www.tvguide.com/News/Ted-Danson-CSI-1035847.aspx
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "CSI series finale react: Into the sunset"
 newsreporter: Darren Franich
 newssource: E! Online
-newsurl: http://www.ew.com/article/2015/09/25/csi-series-finale-immortality-recap
+newsurl: https://www.ew.com/article/2015/09/25/csi-series-finale-immortality-recap
 
 ---
 

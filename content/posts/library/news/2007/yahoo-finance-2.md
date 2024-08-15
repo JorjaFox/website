@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "The Animal Power of the 21st Genesis Awards!"
 newsreporter: "Yahoo! Finance"
 newssource: "Yahoo! Finance"
-newsurl: http://biz.yahoo.com/
+newsurl: https://biz.yahoo.com/
 
 ---
 

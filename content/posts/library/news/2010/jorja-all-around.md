@@ -10,7 +10,7 @@ permalink: /news/2010/:title/
 newstitle: "JAA Exclusive: Interview with Caryn Mower  "
 newsreporter: Ann (iconraven)
 newssource: Jorja All Around
-newsurl: http://community.livejournal.com/jorjaallaround/658307.html
+newsurl: https://community.livejournal.com/jorjaallaround/658307.html
 
 ---
 

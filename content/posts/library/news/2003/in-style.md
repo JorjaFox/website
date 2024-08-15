@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Guess Who's Serving You Dinner?
 newsreporter: Staff
 newssource: In Style Magazine
-newsurl: http://instyle.com
+newsurl: https://instyle.com
 
 ---
 

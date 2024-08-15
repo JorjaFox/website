@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Jorja Fox
 newsreporter: Staff
 newssource: Stuff Magazine
-newsurl: http://stuffmagazine.com/
+newsurl: https://stuffmagazine.com/
 
 ---
 

@@ -19,4 +19,4 @@ One of the narrators is, of course, Jorja.
 
 {{< vimeo 143740212 >}}
 
-Read more about it at [Nation Earth](http://www.nationearth.com/unity)
+Read more about it at [Nation Earth](https://www.nationearth.com/unity)

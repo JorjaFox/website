@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' Actors Fox, Eads Fired"
 newsreporter: Staff
 newssource: AIM Today
-newsurl: http://channels.aimtoday.com
+newsurl: https://channels.aimtoday.com
 
 ---
 

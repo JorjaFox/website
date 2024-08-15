@@ -5,7 +5,7 @@ layout: transcript
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]
 tags: [ "2006" ]
-interviewurl: http://www.bbc.uk/
+interviewurl: https://www.bbc.uk/
 date: 2006-05-18
 ---
 Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, sport and in-depth interviews. On May 18th, he talked with Jorja Fox about ER, The West Wing, CSI and Dear Bernard.

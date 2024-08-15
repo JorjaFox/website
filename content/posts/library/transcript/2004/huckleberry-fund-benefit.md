@@ -3,7 +3,7 @@ title: Huckleberry Fund Benefit
 transcriber: David Masters
 layout: transcript
 date: 2004-12-05
-interviewurl: http://www.huckleberryfund.org/
+interviewurl: https://www.huckleberryfund.org/
 permalink: /transcript/2004/:title/
 categories: ["Interviews"]
 tags: [ "2004" ]

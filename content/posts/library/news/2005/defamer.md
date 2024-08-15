@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Hollywood Privacy Watch: Leonardo DiCaprio Eats Soup"
 newsreporter: Mark
 newssource: Defamer
-newsurl: http://defamer.com/hollywood/diary/hollywood-privacywatch-leonardo-dicaprio-eats-soup-31235.php
+newsurl: https://defamer.com/hollywood/diary/hollywood-privacywatch-leonardo-dicaprio-eats-soup-31235.php
 
 ---
 [...]

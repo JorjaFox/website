@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "The death of all romance: Could the Sara-Grissom affair be over?"
 newsreporter: Staff
 newssource: CTV
-newsurl: http://www.ctv.ca
+newsurl: https://www.ctv.ca
 
 ---
 

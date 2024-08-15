@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI star fired in 'pay dispute'"
 newsreporter: Staff
 newssource: BBC
-newsurl: http://news.bbc.co.uk/1/hi/entertainment/film/3899613.stm
+newsurl: https://news.bbc.co.uk/1/hi/entertainment/film/3899613.stm
 
 ---
 

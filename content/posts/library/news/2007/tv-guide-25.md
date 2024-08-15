@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Is 'CSI' On the Hunt for a New Jorja Fox?"
 newsreporter: TV Guide
 newssource: TV Guide
-newsurl: http://community.tvguide.com/
+newsurl: https://community.tvguide.com/
 
 ---
 

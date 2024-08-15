@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Celebrity Chef
 newsreporter: Staff
 newssource: TV Guide Canada
-newsurl: http://tvguide.ca
+newsurl: https://tvguide.ca
 
 ---
 

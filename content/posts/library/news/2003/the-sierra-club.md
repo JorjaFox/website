@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Celebrities give props to the environment
 newsreporter: Staff
 newssource: The Sierra Club
-newsurl: http://www.sierraclub.org/
+newsurl: https://www.sierraclub.org/
 
 ---
 

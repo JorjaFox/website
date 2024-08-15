@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "As 'CSI' comes to a close, actress Jorja Fox is open to an uncertain future"
 newsreporter: Jessica Ritz
 newssource: LA Times
-newsurl: http://www.latimes.com/health/la-he-jorja-fox-csi-interview-20150926-story.html
+newsurl: https://www.latimes.com/health/la-he-jorja-fox-csi-interview-20150926-story.html
 
 ---
 

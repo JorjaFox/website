@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox returns to 'CSI'  "
 newsreporter: Chuck Barney
 newssource: A+E Interactive
-newsurl: http://blogs.mercurynews.com/aei/2009/07/20/jorja-fox-returns-to-csi/
+newsurl: https://blogs.mercurynews.com/aei/2009/07/20/jorja-fox-returns-to-csi/
 
 ---
 

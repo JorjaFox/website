@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "'CSI' finale says goodbye with morgues, murder and mystery and a happy ending?"
 newsreporter: Larry Carroll
 newssource: Zap2It
-newsurl: http://zap2it.com/2015/09/csi-finale-says-goodbye-with-morgues-murder-and-mystery/
+newsurl: https://zap2it.com/2015/09/csi-finale-says-goodbye-with-morgues-murder-and-mystery/
 
 ---
 

@@ -6,7 +6,7 @@ layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
 tags: [ "2011" ]
-interviewurl: http://www.markiac.addr.com/PET_LIFE_RADIO/cityep38.html
+interviewurl: https://www.markiac.addr.com/PET_LIFE_RADIO/cityep38.html
 ---
 
 **Pets In The City:** For many of us, the circus brings back fond memories of lions, tigers, and other large, beautiful creatures performing incredible acts of courage and agility usually with their tamers and trainers on board. But in recent years, the ability of some circuses to properly care for these large beasts has been under scrutiny. This scrutiny has not been limited to the United States. Joining us today is Jorja Fox, who plays the popular character Sara Sidle on the mega hit *CSI *Las Vegas, to talk about her personal work on behalf of some very special and now globe-trotting lions that she and other notable stars have helped move from Bolivia to the U.S. through their support of Animal Defenders International and their work on Operation: Lion Arc. Thanks so much for joining us today, Jorja.

@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Review
 newsreporter: Staff
 newssource: Extra TV
-newsurl: http://extratv.warnerbros.com/
+newsurl: https://extratv.warnerbros.com/
 
 ---
 

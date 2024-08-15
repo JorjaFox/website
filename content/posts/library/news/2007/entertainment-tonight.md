@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox To Leave 'CSI'  "
 newsreporter: Staff
 newssource: Florida Today
-newsurl: http://www.etonline.com/news/2007/10/54845/index.html
+newsurl: https://www.etonline.com/news/2007/10/54845/index.html
 
 ---
 "The actress will hang up her badge in November."

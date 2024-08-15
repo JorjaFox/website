@@ -8,7 +8,7 @@ categories: ["Articles", "News"]
 newstitle: "CSI Goodbye! 'CSI: Final Press' New Year's Eve together with you for 15 years to finally crack the case!"
 newsreporter: "世界電影雜誌 World SCREEN"
 newssource: "World SCREEN"
-newsurl: http://www.worldscreen.com.tw/goods.php?goods_id=9998
+newsurl: https://www.worldscreen.com.tw/goods.php?goods_id=9998
 
 ---
 

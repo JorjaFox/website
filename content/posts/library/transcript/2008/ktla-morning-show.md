@@ -3,7 +3,7 @@ title: KTLA Morning Show
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-01-31
-interviewurl: http://ktla.trb.com/
+interviewurl: https://ktla.trb.com/
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
 tags: [ "2008" ]

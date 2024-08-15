@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: Backward Runs Mystery
 newsreporter: Staff
 newssource: MetroActive
-newsurl: http://www.metroactive.com/papers/metro/04.05.01/memento-0114.html
+newsurl: https://www.metroactive.com/papers/metro/04.05.01/memento-0114.html
 ---
 
 [...]

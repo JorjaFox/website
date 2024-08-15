@@ -15,4 +15,4 @@ More action adventure than traditional documentary, Lion Ark follows the worldâ€
 
 ## See Also
 
-* [Official Website](http://lionarkthemovie.com)
+* [Official Website](https://lionarkthemovie.com)

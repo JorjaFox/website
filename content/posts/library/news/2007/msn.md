@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Is Jorja Fox off CSI?"
 newsreporter: MSN Entertainment
 newssource: MSN Entertainment
-newsurl: http://entertainment.msn.com/
+newsurl: https://entertainment.msn.com/
 
 ---
 

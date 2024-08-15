@@ -9,7 +9,7 @@ tags: ["2009"]
 newstitle: "CSI: Sara and Grissom 'Absolutely Ended Up Together'"
 newsreporter: Henrik Batallones
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx
 
 ---
 

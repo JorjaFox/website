@@ -9,7 +9,7 @@ tags: ["2013"]
 newstitle: "Interview Extra: Jorja Fox  "
 newsreporter: David Collins
 newssource: TV Choice
-newsurl: http://www.tvchoicemagazine.co.uk/interviewextra/jorja-fox-csi-crime-scene-investigation
+newsurl: https://www.tvchoicemagazine.co.uk/interviewextra/jorja-fox-csi-crime-scene-investigation
 
 ---
 

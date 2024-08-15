@@ -3,7 +3,7 @@ title: The View
 transcriber: David Masters
 layout: transcript
 date: 2003-02-20
-interviewurl: http://abc.go.com/daytime/theview
+interviewurl: https://abc.go.com/daytime/theview
 permalink: /transcript/2003/:title/
 categories: ["Interviews"]
 tags: [ "2003" ]

@@ -10,7 +10,7 @@ permalink: /news/2008/:title/
 newstitle: "CBS Set to Producer More Post-Strike 'CSI'  "
 newsreporter: Rosario Santiago
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/cbs-set-to-producer-more-posts-16600.aspx
+newsurl: https://www.buddytv.com/articles/csi/cbs-set-to-producer-more-posts-16600.aspx
 
 ---
 

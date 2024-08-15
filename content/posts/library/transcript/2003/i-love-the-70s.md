@@ -3,7 +3,7 @@ title: "I Love the '70s"
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2003-08-18
-interviewurl: http://vh1.com/
+interviewurl: https://vh1.com/
 permalink: /transcript/2003/:title/
 categories: ["Interviews"]
 tags: [ "2003" ]
@@ -23,4 +23,4 @@ Jorja appeared in 5 episodes of the miniseries:
 
 ## See Also
 
-[VH1 - I Love the '70s](http://www.vh1.com/shows/dyn/i\_love\_the_70s/series.jhtml)
+[VH1 - I Love the '70s](https://www.vh1.com/shows/dyn/i\_love\_the_70s/series.jhtml)

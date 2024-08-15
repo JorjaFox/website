@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Fans Still Believe Cute Food Deliveries Can Sway TV Decision"
 newsreporter: Mark
 newssource: Defamer Hollywood
-newsurl: http://defamer.com
+newsurl: https://defamer.com
 
 ---
 

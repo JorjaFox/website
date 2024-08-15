@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Ausiello on Lost, Buffy, Heroes, ER and More!  "
 newsreporter: Michael Ausiello
 newssource: TV Guide Online (Ask Ausiello)
-newsurl: http://www.tvguide.com/Ask-Ausiello/071107
+newsurl: https://www.tvguide.com/Ask-Ausiello/071107
 
 ---
 [...]

@@ -36,6 +36,6 @@ I am proud to have worked with Animal Defenders International for several years,
 ADI really needs your help… to save animals, educate and change the world… together we can end the suffering of animals like Krissy. Please send a donation today.
 {{< /blockquote >}}
 
-* [Donate to ADI](http://www.ad-international.org/take_action/donate.php)
+* [Donate to ADI](https://www.ad-international.org/take_action/donate.php)
 * [Learn more about Break the Chain (aka Stop Circus Suffering)](https://www.stopcircussuffering.com/)
-* [Contact your Congress Member](http://bit.ly/EmailToCongress)
+* [Contact your Congress Member](https://bit.ly/EmailToCongress)

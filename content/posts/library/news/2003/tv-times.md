@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Applied Science
 newsreporter: Staff
 newssource: TV Times
-newsurl: http://tvtimes.com
+newsurl: https://tvtimes.com
 
 ---
 

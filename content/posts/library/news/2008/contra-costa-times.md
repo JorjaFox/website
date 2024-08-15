@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "L.A. Zoo's elephant forest temporarily shelved  "
 newsreporter: Brandon Lowrey
 newssource: Contra Costa Times
-newsurl: http://www.contracostatimes.com/california/ci_11133453?nclick_check=1
+newsurl: https://www.contracostatimes.com/california/ci_11133453?nclick_check=1
 
 ---
 

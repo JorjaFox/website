@@ -9,7 +9,7 @@ tags: ["2000"]
 newstitle: Hopping Mad
 newsreporter: Staff
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com
+newsurl: https://www.ew.com
 
 ---
 [...]

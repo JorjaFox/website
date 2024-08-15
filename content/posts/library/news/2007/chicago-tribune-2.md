@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "News on Spike, Sara Sidle and Santos"
 newsreporter: Staff
 newssource: Chicago Tribune
-newsurl: http://chicagotribune.com
+newsurl: https://chicagotribune.com
 
 ---
 

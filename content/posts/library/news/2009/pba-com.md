@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "JASON'S TV RECAP UNCENSORED - My CSI Experience  "
 newsreporter: Jason Thomas
 newssource: PBA.com
-newsurl: http://www.pba.com/news/feature.asp?ID=1681
+newsurl: https://www.pba.com/news/feature.asp?ID=1681
 
 ---
 

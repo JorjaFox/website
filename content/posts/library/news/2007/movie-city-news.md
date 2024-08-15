@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: What's happening now
 newsreporter: Movie City News
 newssource: Movie City News
-newsurl: http://www.moviecitynews.com
+newsurl: https://www.moviecitynews.com
 
 ---
 

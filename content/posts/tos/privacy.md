@@ -32,7 +32,7 @@ _Fans of LeFox_ also collects potentially personally-identifying information lik
 
 For additional details regarding cookie consent notices, please refer to [cookiechoices.org](https://cookiechoices.org)
 
-**Mailing Lists:** Visitors who chose to register for a double-opt-in email list will receive emails when new content on the site is published. All mailing lists are powered by [DreamHost](dreamhost.com). All emails are sent manually, meaning we automate nothing.
+**Mailing Lists:** Visitors who chose to register for a double-opt-in email list will receive emails when new content on the site is published. All mailing lists are powered by [DreamHost](https://dreamhost.com). All emails are sent manually, meaning we automate nothing.
 
 If visitors do not wish to be tracked then they should not register for an email subscription.
 
@@ -45,7 +45,7 @@ Third party vendors are used to provide additional services, analytics. These ve
 The following services are used:
 
 * [Google Analytics](https://www.google.com/policies/privacy/partners/)
-* [DreamHost.com Announcement List](dreamhost.com)
+* [DreamHost.com Announcement List](https://dreamhost.com)
 
 In addition, articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data, use cookies, embed additional third-party tracking, and monitor interaction with that embedded content, including tracking interaction with the embedded content if a visitor has an account and are logged in to that website.
 

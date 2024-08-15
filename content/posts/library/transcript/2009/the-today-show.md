@@ -2,7 +2,7 @@
 title: The Today Show
 transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://today.msnbc.msn.com/
+interviewurl: https://today.msnbc.msn.com/
 date: 2009-04-02
 permalink: /transcript/2009/:title/
 categories: ["Interviews"]

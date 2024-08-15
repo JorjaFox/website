@@ -3,7 +3,7 @@ title: ET Online
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-10-04
-interviewurl: http://www.etonline.com
+interviewurl: https://www.etonline.com
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
 tags: [ "2007" ]

@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Traveling circuses could lose exotic animals  "
 newsreporter: Bob Strauss / Daily News, Los Angeles
 newssource: Boston Herald
-newsurl: http://news.bostonherald.com/entertainment/lifestyle/view/20111103traveling_circuses_could_lose_exotic_animals/
+newsurl: https://news.bostonherald.com/entertainment/lifestyle/view/20111103traveling_circuses_could_lose_exotic_animals/
 
 ---
 

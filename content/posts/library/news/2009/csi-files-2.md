@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Interview: Allen MacDonald  "
 newsreporter: Kristine Huntley
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2009/11/interview-allen-macdonald/
+newsurl: https://www.csifiles.com/content/2009/11/interview-allen-macdonald/
 
 ---
 

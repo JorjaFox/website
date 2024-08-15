@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Fishburne gets makeover to help 'CSI' ratings  "
 newsreporter: Staff
 newssource: Hollywood Reporter
-newsurl: http://www.thrfeed.com/2009/08/fishburne-gets-makeover-csi-.html
+newsurl: https://www.thrfeed.com/2009/08/fishburne-gets-makeover-csi-.html
 
 ---
 

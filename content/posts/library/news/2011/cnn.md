@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Bob Barker touts bill to protect traveling circus animals  "
 newsreporter: Stacey Samuel
 newssource: CNN
-newsurl: http://www.cnn.com/2011/11/02/politics/barker-circus-animals-bill/
+newsurl: https://www.cnn.com/2011/11/02/politics/barker-circus-animals-bill/
 
 ---
 

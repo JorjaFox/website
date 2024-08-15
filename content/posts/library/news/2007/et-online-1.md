@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Romance Secrets from 'CSI'"
 newsreporter: Staff
 newssource: ET Online
-newsurl: http://www.etonline.com
+newsurl: https://www.etonline.com
 
 ---
 

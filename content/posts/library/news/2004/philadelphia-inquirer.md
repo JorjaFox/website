@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' fires 2 in contract dispute"
 newsreporter: Staff
 newssource: Philadelphia Inquirer
-newsurl: http://philly.com
+newsurl: https://philly.com
 
 ---
 

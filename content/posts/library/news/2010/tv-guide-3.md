@@ -10,7 +10,7 @@ permalink: /news/2010/:title/
 newstitle: "Best Bets  "
 newsreporter: Staff
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com/
+newsurl: https://www.tvguidemagazine.com/
 
 ---
 

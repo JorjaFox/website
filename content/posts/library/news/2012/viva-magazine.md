@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "In the Know this week with Viva: 05 / 28 / 2012  "
 newsreporter: 0215ag3sxa
 newssource: Viva Magazine
-newsurl: http://www.vivamagonline.com/in-the-know-this-week-with-viva-05-28-2012/
+newsurl: https://www.vivamagonline.com/in-the-know-this-week-with-viva-05-28-2012/
 
 ---
 

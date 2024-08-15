@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "San Francisco Indie Fest Ends With Controversy"
 newsreporter: IndyBay
 newssource: IndyBay
-newsurl: http://www.indybay.org/newsitems/2007/02/16/18364540.php
+newsurl: https://www.indybay.org/newsitems/2007/02/16/18364540.php
 
 ---
 

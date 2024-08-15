@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Hollywood Exclusive by Marilyn Beck & Stacy Jenel Smith  "
 newsreporter: Marilyn Beck & Stacy Jenel Smith
 newssource: Creators.com
-newsurl: http://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-04-05.html
+newsurl: https://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-04-05.html
 
 ---
 

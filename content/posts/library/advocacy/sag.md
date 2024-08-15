@@ -23,4 +23,4 @@ Hi there, I'm Jorja Fox. I'm a proud card carrying SAG member and AFRA member. I
 
 ## See Also
 
-* [SAG Solidarity](http://www.sag.org/files/documents/Solidarity\_Statement\_Ad.pdf)
+* [SAG Solidarity](https://www.sag.org/files/documents/Solidarity\_Statement\_Ad.pdf)

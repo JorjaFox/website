@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "The night's buzz includes series' futures and style insights"
 newsreporter: Staff
 newssource: Star Online
-newsurl: http://www.staronline.com/
+newsurl: https://www.staronline.com/
 
 ---
 

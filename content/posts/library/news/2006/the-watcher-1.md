@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "The Watcher: The Gil and Sara show on 'CSI'  "
 newsreporter: Staff
 newssource: The Watcher - A Chicago Tribune Web log
-newsurl: http://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/the\_gus\_and\_sar.html
+newsurl: https://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/the\_gus\_and\_sar.html
 
 ---
 

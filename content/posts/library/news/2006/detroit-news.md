@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "A chat with Jorja Fox  "
 newsreporter: Staff
 newssource: Detroit News
-newsurl: http://www.detnews.com/
+newsurl: https://www.detnews.com/
 
 ---
 

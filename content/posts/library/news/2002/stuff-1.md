@@ -7,7 +7,7 @@ tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: "Foxy Lady!"
-newsurl: http://www.starmagazine.com
+newsurl: https://www.starmagazine.com
 newsreporter: Staff
 newssource: Star Magazine
 

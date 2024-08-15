@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "I got it so wrong on CSI, says Jorja Fox as Crime Scene Investigation celebrates 14 seasons"
 newsreporter: Darren Devlyn
 newssource: news.com.au
-newsurl: http://www.news.com.au/entertainment/tv/i-got-it-so-wrong-on-csi-says-jorja-fox-as-crime-scene-investigation-celebrates-14-seasons/story-e6frfmyi-1226957088333
+newsurl: https://www.news.com.au/entertainment/tv/i-got-it-so-wrong-on-csi-says-jorja-fox-as-crime-scene-investigation-celebrates-14-seasons/story-e6frfmyi-1226957088333
 
 ---
 

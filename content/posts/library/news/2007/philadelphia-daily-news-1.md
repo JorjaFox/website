@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Tattle | Walter Reed gig snub puzzles Baez"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
-newsurl: http://www.philly.com
+newsurl: https://www.philly.com
 
 ---
 

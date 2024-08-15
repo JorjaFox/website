@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox Returning To Rescue 'CSI'  "
 newsreporter: Actress Archives
 newssource: Actress Archives
-newsurl: http://www.actressarchives.com/news.php?id=17528
+newsurl: https://www.actressarchives.com/news.php?id=17528
 
 ---
 

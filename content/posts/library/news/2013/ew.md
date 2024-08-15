@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "'CSI': What is sad Sara waiting for? - EXCLUSIVE VIDEO  "
 newsreporter: Lynette Rice
 newssource: EW.com
-newsurl: http://insidetv.ew.com/2013/02/19/csi-jorja-fox-william-petersen/
+newsurl: https://insidetv.ew.com/2013/02/19/csi-jorja-fox-william-petersen/
 
 ---
 

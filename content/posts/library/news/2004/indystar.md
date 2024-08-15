@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Fired 'CSI' stars will return to show after all"
 newsreporter: Staff
 newssource: IndyStar
-newsurl: http://www.indystar.com/
+newsurl: https://www.indystar.com/
 
 ---
 

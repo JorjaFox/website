@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Alex Goes to 'Hawaii'"
 newsreporter: Matt Roush
 newssource: Ask Matt
-newsurl: http://www.tvguidemagazine.com/ask-matt/ask-matt-alex-goes-to-hawaii-4079.html
+newsurl: https://www.tvguidemagazine.com/ask-matt/ask-matt-alex-goes-to-hawaii-4079.html
 
 ---
 

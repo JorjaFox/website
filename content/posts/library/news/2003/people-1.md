@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Blood and Yuks
 newsreporter: Staff
 newssource: People Magazine
-newsurl: http://people.com
+newsurl: https://people.com
 
 ---
 

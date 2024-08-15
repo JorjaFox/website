@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "Lady Luck"
 newsreporter: Bonnie Siegler | Photography Elisabeth Caren
 newssource: Viva Magazine
-newsurl: http://www.vivamagonline.com/
+newsurl: https://www.vivamagonline.com/
 
 ---
 

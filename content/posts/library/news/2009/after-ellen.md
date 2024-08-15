@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox sidles back to 'CSI' for several episodes  "
 newsreporter: Dorothy Snarker
 newssource: After Ellen
-newsurl: http://www.afterellen.com/blog/dorothysnarker/jorja-fox-sidles-back-to-csi-for-several-episodes
+newsurl: https://www.afterellen.com/blog/dorothysnarker/jorja-fox-sidles-back-to-csi-for-several-episodes
 
 ---
 

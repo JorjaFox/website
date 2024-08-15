@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "CSI: Partners in Love"
 newsreporter: Staff
 newssource: Galaxie Magazine
-newsurl: http://www.galaxie.com.my/
+newsurl: https://www.galaxie.com.my/
 
 ---
 [...]

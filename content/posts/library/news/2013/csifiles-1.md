@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "'Report: Sara's Story Comes To A Head With 'Future Implications,' Nick's New Arc & More  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2013/02/report-saras-story-comes-to-a-head-with-future-implications-nicks-new-arc-more/
+newsurl: https://www.csifiles.com/content/2013/02/report-saras-story-comes-to-a-head-with-future-implications-nicks-new-arc-more/
 
 ---
 

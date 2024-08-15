@@ -39,4 +39,4 @@ The most powerful documentaries alI inspire the viewer to challenge their belief
 “Also, there is an anti-fur protest in practically every city all over the country every weekend. If you see someone wearing a fur coat, don’t just walk by. Ask them if they know how their fur was killed. Get the message out. There are people who just don’t know. They don’t. If they knew, they’d probably stop supporting the industry. Fur is ridiculous, cruel, not fashionable, and if you buy it, you’re being defrauded.”
 {{< /blockquote >}}
 
--- Credit: [Elephant Journal](http://www.elephantjournal.com/2010/03/skin-trade-how-much-is-your-skin-worth/)
+-- Credit: [Elephant Journal](https://www.elephantjournal.com/2010/03/skin-trade-how-much-is-your-skin-worth/)

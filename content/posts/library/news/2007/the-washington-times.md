@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Tuning In"
 newsreporter: The Washington Times
 newssource: The Washington Times
-newsurl: http://washingtontimes.com/
+newsurl: https://washingtontimes.com/
 
 ---
 

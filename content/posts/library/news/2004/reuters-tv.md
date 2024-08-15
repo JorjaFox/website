@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Fired 'CSI' Star Hopes to Get Another Chance"
 newsreporter: Staff
 newssource: Reuters
-newsurl: http://www.reuters.com
+newsurl: https://www.reuters.com
 
 ---
 

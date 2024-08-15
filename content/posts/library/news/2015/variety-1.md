@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "'CSI' Finale: Creator Anthony Zuiker on Emotional Endings, Origins and Longevity"
 newsreporter: Cynthia Littleton
 newssource: Variety
-newsurl: http://variety.com/2015/tv/news/csi-finale-anthony-zuiker-cbs-william-petersen-1201603451/
+newsurl: https://variety.com/2015/tv/news/csi-finale-anthony-zuiker-cbs-william-petersen-1201603451/
 
 ---
 

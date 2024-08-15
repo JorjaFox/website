@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Walking for good cause without ever leaving home"
 newsreporter: Yahoo News
 newssource: Yahoo News
-newsurl: http://news.yahoo.com
+newsurl: https://news.yahoo.com
 
 ---
 

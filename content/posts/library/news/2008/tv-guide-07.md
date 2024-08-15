@@ -10,7 +10,7 @@ permalink: /news/2008/:title/
 newstitle: "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Faith and More!  "
 newsreporter: Matt Roush
 newssource: TV Guide.com - Ask Matt
-newsurl: http://www.tvguide.com/Roush/Ask-Matt-ER-34627.aspx
+newsurl: https://www.tvguide.com/Roush/Ask-Matt-ER-34627.aspx
 
 ---
 

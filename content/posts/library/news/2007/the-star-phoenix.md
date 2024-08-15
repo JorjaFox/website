@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Off to bed and off the air  "
 newsreporter: Lauren Denhartog
 newssource: The Star Phoenix
-newsurl: http://www.canada.com/saskatoonstarphoenix/news/lifestyle/story.html?id=bec1eb46-a8d7-47a0-bcb3-28f355b26b6c
+newsurl: https://www.canada.com/saskatoonstarphoenix/news/lifestyle/story.html?id=bec1eb46-a8d7-47a0-bcb3-28f355b26b6c
 
 ---
 

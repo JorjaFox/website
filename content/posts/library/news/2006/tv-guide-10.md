@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "ASK MATT  "
 newsreporter: Matt Roush
 newssource: TV Guide
-newsurl: http://www.tvguide.com/
+newsurl: https://www.tvguide.com/
 
 ---
 

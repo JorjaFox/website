@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Live chat with Anthony Zuiker  "
 newsreporter: Michael Schneider
 newssource: Variety
-newsurl: http://www.variety.com/article/VR1118018864.html
+newsurl: https://www.variety.com/article/VR1118018864.html
 
 ---
 

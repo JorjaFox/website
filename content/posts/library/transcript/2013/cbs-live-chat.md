@@ -3,7 +3,7 @@ title: CBS Live Chat
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-02-20
-interviewurl: http://cbs.com/
+interviewurl: https://cbs.com/
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
 tags: [ "2013" ]

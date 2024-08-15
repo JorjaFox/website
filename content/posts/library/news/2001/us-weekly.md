@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: We're Like Family
 newsreporter: Staff
 newssource: Us Weekly
-newsurl: http://usweekly.abc.com/
+newsurl: https://usweekly.abc.com/
 
 ---
 [...]

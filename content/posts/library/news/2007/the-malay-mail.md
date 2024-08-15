@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "CoverStory: Grissom and gang back to bust crime! - the bright lights of vegas return with season 7"
 newsreporter: The Malay Mail
 newssource: The Malay Mail
-newsurl: http://www.mmail.com.my
+newsurl: https://www.mmail.com.my
 
 ---
 

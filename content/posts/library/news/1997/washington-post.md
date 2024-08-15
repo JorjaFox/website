@@ -9,7 +9,7 @@ newstitle: ER Live!
 date: 1997-09-26
 newsreporter: Staff
 newssource: Washington Post
-newsurl: http://www.washingtonpost.com
+newsurl: https://www.washingtonpost.com
 
 ---
 [...]

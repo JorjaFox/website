@@ -9,7 +9,7 @@ newstitle: "Review/Television; 'Afterschool' Mini-Series on Life at the Mall"
 date: 1992-03-19
 newsreporter: John J. O'Conner
 newssource: The New York Times
-newsurl: http://query.nytimes.com/gst/fullpage.html?res=9E0CE7D9133EF93AA25750C0A964958260&sec=&spon=&scp=1&sq=Diane%20Dravecki&st=cse
+newsurl: https://query.nytimes.com/gst/fullpage.html?res=9E0CE7D9133EF93AA25750C0A964958260&sec=&spon=&scp=1&sq=Diane%20Dravecki&st=cse
 ---
 
 [...]

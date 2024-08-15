@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "What's The Best Thing You Ever Gave Up?"
 newsreporter: Ulrica Wihlborg
 newssource: Sweden with Love
-newsurl: http://www.swedenwithlove.com/2014/05/whats-best-thing-ever-gave/
+newsurl: https://www.swedenwithlove.com/2014/05/whats-best-thing-ever-gave/
 
 ---
 

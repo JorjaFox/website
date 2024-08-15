@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Partners in Crime?  "
 newsreporter: Staff
 newssource: Evening Standard
-newsurl: http://www.thisislondon.co.uk
+newsurl: https://www.thisislondon.co.uk
 
 ---
 

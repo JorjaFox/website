@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: Watch CSI Immortality teaser as the team comes back together for one last case
 newsreporter: Alistair McGeorge
 newssource: Mirror
-newsurl: http://www.mirror.co.uk/tv/tv-news/watch-csi-immortality-teaser-team-6447877
+newsurl: https://www.mirror.co.uk/tv/tv-news/watch-csi-immortality-teaser-team-6447877
 
 ---
 

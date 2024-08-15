@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Trade Round-Up: No More Negative Oscar Ads"
 newsreporter: Mark
 newssource: Defamer Business
-newsurl: http://defamer.com/hollywood/business/trade-round+up-no-more-negative-oscar-campaign-ads-17788.php
+newsurl: https://defamer.com/hollywood/business/trade-round+up-no-more-negative-oscar-campaign-ads-17788.php
 
 ---
 

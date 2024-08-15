@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI' Stars Talk About Their Characters"
 newsreporter: Staff
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-stars-talk-about-their-cha-10021.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-stars-talk-about-their-cha-10021.aspx
 
 ---
 

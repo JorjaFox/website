@@ -9,7 +9,7 @@ type: index
 notoc: true
 ---
 
-Television show recaps are available to help you decide what shows and episodes are best to watch for Jorja. Shows are [graded](/library/faq/grading/) on a scale of 0 to 5.
+Television show recaps are available to help you decide what shows and episodes are best to watch for Jorja. Shows are [graded](/faq/grading/) on a scale of 0 to 5.
 
 The following shows are currently recapped here:
 

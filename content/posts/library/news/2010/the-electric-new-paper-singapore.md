@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Back on CSI, but she'd rather get Lost  "
 newsreporter: Charlene Chua
 newssource: The Electric New Paper, Singapore
-newsurl: http://tnp.sg/show/story/0,4136,230452,00.html
+newsurl: https://tnp.sg/show/story/0,4136,230452,00.html
 
 ---
 

@@ -10,11 +10,11 @@ tags: ["2010"]
 newstitle: "Les Experts : Jorja Fox dit avoir a resigner.  "
 newsreporter: Staff
 newssource: TeLe Star
-newsurl: http://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html
+newsurl: https://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html
 
 ---
 
-*This article has been translated from it's original French by Angela of [Melinda-Clarke.org](http://www.melinda-clarke.org/).*
+*This article has been translated from it's original French by Angela of [Melinda-Clarke.org](https://www.melinda-clarke.org/).*
 
 ***CSI*'s Jorja Fox says she wasn't sure to re-sign**
 

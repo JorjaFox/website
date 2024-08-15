@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI's Jorja Fox Wants to Start a Revolution  "
 newsreporter: Staff
 newssource: Collegiate
-newsurl: http://www.lacitycollege.edu/
+newsurl: https://www.lacitycollege.edu/
 
 ---
 

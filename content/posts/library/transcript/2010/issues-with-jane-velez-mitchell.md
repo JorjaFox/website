@@ -3,7 +3,7 @@ title: Issues with Jane Velez-Mitchell
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-06-11
-interviewurl: http://edition.cnn.hu/TRANSCRIPTS/1006/11/ijvm.01.html
+interviewurl: https://edition.cnn.hu/TRANSCRIPTS/1006/11/ijvm.01.html
 permalink: /transcript/2010/:title/
 categories: ["Interviews"]
 tags: [ "2010" ]

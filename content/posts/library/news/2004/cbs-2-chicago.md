@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Jorja Fox Back On 'CSI'"
 newsreporter: Staff
 newssource: CBS 2 Chicago
-newsurl: http://www.CBS2chicago.com
+newsurl: https://www.CBS2chicago.com
 
 ---
 

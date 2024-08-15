@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Joanne Weintraub: Live from L.A.  "
 newsreporter: Staff
 newssource: JS Online
-newsurl: http://www.jsonline.com/
+newsurl: https://www.jsonline.com/
 
 ---
 

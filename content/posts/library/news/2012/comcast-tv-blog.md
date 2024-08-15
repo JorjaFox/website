@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "'CSI' Finale Promises the Introduction of Mrs. Russell -- and the Ultimate Home Invasion  "
 newsreporter: Paulette Cohn
 newssource: Comcast TV Blog
-newsurl: http://xfinity.comcast.net/blogs/tv/2012/05/09/csi-finale-scoop-peri-gilpin-homecoming-ted-danson/
+newsurl: https://xfinity.comcast.net/blogs/tv/2012/05/09/csi-finale-scoop-peri-gilpin-homecoming-ted-danson/
 
 ---
 

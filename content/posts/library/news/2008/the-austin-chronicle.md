@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Animal Defenders Seek Ban on Circus Wildlife  "
 newsreporter: Richard Whittaker
 newssource: The Austin Chronicle
-newsurl: http://www.austinchronicle.com/gyrobase/Issue/story?oid=oid:645923
+newsurl: https://www.austinchronicle.com/gyrobase/Issue/story?oid=oid:645923
 
 ---
 

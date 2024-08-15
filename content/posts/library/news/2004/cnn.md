@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' actors fired"
 newsreporter: Staff
 newssource: CNN
-newsurl: http://cnn.com
+newsurl: https://cnn.com
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Pay Dispute Sacks 'C.S.I.'s' Fox, Eads"
 newsreporter: Staff
 newssource: The Futon Critic
-newsurl: http://www.thefutoncritic.com
+newsurl: https://www.thefutoncritic.com
 
 ---
 

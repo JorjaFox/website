@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "An Extra special exit"
 newsreporter: Staff
 newssource: New York Daily News
-newsurl: http://www.nydailynews.com/
+newsurl: https://www.nydailynews.com/
 
 ---
 

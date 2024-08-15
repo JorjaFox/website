@@ -36,6 +36,6 @@ There have been a lot of great Secret Service characters on The West Wing, but n
 
 That moment, that shot of her screaming "GUN!" marked a major change in this site. All of the sudden, everyone wanted to know about this woman. And the next thing we all knew, she was on CSI (with a haircut) and solving crimes like a boss. I really loved Gina, her five episodes were a hoot, especially how she spent her breaks going over photos of skinheads. We never found out why she wore a wedding ring, but we knew she'd keep Zoey's secrets about boys safe from her father, even if dad was the President.
 
-Read about all the characters on [The Wire's Definitive Ranking of Every Character on 'The West Wing'](http://www.thewire.com/entertainment/2014/09/a-definitive-ranking-of-every-character-on-the-west-wing/380098/)
+Read about all the characters on [The Wire's Definitive Ranking of Every Character on 'The West Wing'](https://www.thewire.com/entertainment/2014/09/a-definitive-ranking-of-every-character-on-the-west-wing/380098/)
 
 My favorite tidbit about that show? Jorja got run over by a car. When the shooter fires, she jumps to protect her charge. There's a limo that runs up to block them, and it ran right over Jorja's leg. She was fine, but they took her to the ER ... where everyone recognized her from _ER_.

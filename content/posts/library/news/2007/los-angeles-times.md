@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "MY FAVORITE WEEKEND: JORJA FOX"
 newsreporter: Staff
 newssource: Los Angeles Times
-newsurl: http://www.calendarlive.com/
+newsurl: https://www.calendarlive.com/
 
 ---
 

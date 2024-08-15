@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Broadcasters stack Thursday lineups  "
 newsreporter: Rick Kissell
 newssource: Variety
-newsurl: http://www.variety.com/article/VR1118007290.html?categoryid=14&cs=1
+newsurl: https://www.variety.com/article/VR1118007290.html?categoryid=14&cs=1
 
 ---
 

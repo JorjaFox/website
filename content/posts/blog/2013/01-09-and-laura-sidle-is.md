@@ -29,4 +29,4 @@ Actress Kay Lenz has scored the pivotal role, sources confirm to me exclusively.
 In addition to _The Tick_ Lenz has appeared in, but not limited to, Magnum, P.I., Gunsmoke, ER, House and Southland. Production on the episode started this week.
 {{< /blockquote >}}
 
-All credit to CSI FIles: [CSI books 'The Tick' Actress to play Sara's mother](http://www.csifiles.com/content/2013/01/csi-books-the-tick-actress-to-play-saras-mother/)
+All credit to CSI FIles: [CSI books 'The Tick' Actress to play Sara's mother](https://www.csifiles.com/content/2013/01/csi-books-the-tick-actress-to-play-saras-mother/)

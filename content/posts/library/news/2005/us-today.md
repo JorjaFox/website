@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Petersen lays it on the table  "
 newsreporter: Staff
 newssource: US Today
-newsurl: http://www.usatoday.com/
+newsurl: https://www.usatoday.com/
 
 ---
 [...]

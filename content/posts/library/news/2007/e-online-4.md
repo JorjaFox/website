@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Breaking! Jorja Fox Confirms Her CSI Departure"
 newsreporter: Staff
 newssource: Watch With Kristin
-newsurl: http://www.eonline.com
+newsurl: https://www.eonline.com
 
 ---
 

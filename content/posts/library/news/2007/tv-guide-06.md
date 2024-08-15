@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "JORJA FOX 'CSI'  "
 newsreporter: N/A
 newssource: TV Guide Magazine
-newsurl: http://www.tvguide.com/
+newsurl: https://www.tvguide.com/
 
 ---
 

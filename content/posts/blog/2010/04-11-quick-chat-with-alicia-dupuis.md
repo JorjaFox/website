@@ -31,4 +31,4 @@ this film was how silly some of the stuff in my scene was. The character of Rob 
 
 Now you have just one more thing to look forward to when we all finally get to see _3 Weeks to Daytona_
 
-You can find out more about her at her website [aliciadupuis.com](http://www.aliciadupuis.com)
+You can find out more about her at her website [aliciadupuis.com](https://www.aliciadupuis.com)

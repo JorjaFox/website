@@ -3,7 +3,7 @@ title: ADI Press Update
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-05-28
-interviewurl: http://adirescuediary.com/
+interviewurl: https://adirescuediary.com/
 permalink: /transcript/2010/:title/
 categories: ["Interviews"]
 tags: [ "2010" ]

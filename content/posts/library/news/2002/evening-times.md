@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Jorja Can Track Down Top Roles
 newsreporter: Staff
 newssource: Evening Times
-newsurl: http://www.eveningtimes.co.uk/
+newsurl: https://www.eveningtimes.co.uk/
 
 ---
 

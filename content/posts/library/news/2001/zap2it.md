@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle:  The Meaning of 'Memento'
 newsreporter: Staff
 newssource: Zap2it
-newsurl: http://zap2it.com
+newsurl: https://zap2it.com
 
 ---
 

@@ -10,7 +10,7 @@ permalink: /news/2009/:title/
 newstitle: "Guest Profile - Jorja Fox  "
 newsreporter: Unknown
 newssource: Green With Glamour
-newsurl: http://www.greenwithglamour.com/index.php?main_page=editorial&e=profile&c=jorja_fox
+newsurl: https://www.greenwithglamour.com/index.php?main_page=editorial&e=profile&c=jorja_fox
 
 ---
 

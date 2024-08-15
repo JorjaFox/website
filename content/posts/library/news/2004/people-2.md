@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Emmy's Worst Dressed"
 newsreporter: Staff
 newssource: People Magazine
-newsurl: http://www.people.com
+newsurl: https://www.people.com
 ---
 
 [...]

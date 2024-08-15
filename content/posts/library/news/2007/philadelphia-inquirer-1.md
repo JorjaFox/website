@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Not a wealth of good shows, but nuggets, old and new"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
-newsurl: http://www.philly.com
+newsurl: https://www.philly.com
 
 ---
 

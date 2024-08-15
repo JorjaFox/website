@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "'CSI' Finally Becomes a Chalk Outline With Series Finale (SPOILERS)"
 newsreporter: Brian Lowry
 newssource: Variety
-newsurl: http://variety.com/2015/tv/columns/csi-series-finale-review-william-petersen-cbs-spoilers-1201603466/
+newsurl: https://variety.com/2015/tv/columns/csi-series-finale-review-william-petersen-cbs-spoilers-1201603466/
 
 ---
 

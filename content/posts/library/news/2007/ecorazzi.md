@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "CSI's Jorja Fox Goes Bike Shopping"
 newsreporter: Ecorazzi
 newssource: Ecorazzi
-newsurl: http://www.ecorazzi.com
+newsurl: https://www.ecorazzi.com
 
 ---
 

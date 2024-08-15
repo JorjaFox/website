@@ -2,7 +2,7 @@
 title: Animal Planet Radio
 transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://animal.discovery.com/fansites/radio/past/past.html
+interviewurl: https://animal.discovery.com/fansites/radio/past/past.html
 date: 2001-07-28
 permalink: /transcript/2001/:title/
 categories: ["Transcripts"]
@@ -190,5 +190,5 @@ tags: ["2001"]
 
 ## See Also
 
-* [Pounce Purrfections](http://www.pouncepurrfections.heinzpetproducts.com/index.asp )
-* [ASPCA](http://www.ascpa.org/)
+* [Pounce Purrfections](https://www.pouncepurrfections.heinzpetproducts.com/index.asp )
+* [ASPCA](https://www.ascpa.org/)

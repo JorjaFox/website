@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "TCA Live Blog Day 1: CBS  "
 newsreporter: Staff
 newssource: The TV Addict
-newsurl: http://thetvaddict.com/2009/08/03/tca-live-blog-day-1-cbs/
+newsurl: https://thetvaddict.com/2009/08/03/tca-live-blog-day-1-cbs/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Where the Girls are on TV: Jorja Fox, Jessica Capshaw, Kate Moennig  "
 newsreporter: Lauren Incognito
 newssource: SheWired.com
-newsurl: http://www.shewired.com/Article.cfm?ID=21380
+newsurl: https://www.shewired.com/Article.cfm?ID=21380
 
 ---
 

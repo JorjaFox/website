@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Exclusive: 'CSI' Boss Vows Jorja Fox is 'Coming Back'"
 newsreporter: Michael Ausiello
 newssource: TV Guide
-newsurl: http://community.tvguide.com/blog-entry/TVGuide-Editors-Blog/Ausiello-Report/Exclusive-Csi-Boss/800024964?rssDate=12345678
+newsurl: https://community.tvguide.com/blog-entry/TVGuide-Editors-Blog/Ausiello-Report/Exclusive-Csi-Boss/800024964?rssDate=12345678
 
 ---
 Now that Jorja Fox has officially confirmed the/ worst kept secret in the TV biz -- she's ditching *CSI* next month after seven years in the forensics lab -- we can start to focus on more important things in life. Like, you know, her return to the show! In her only interview, *CSI*'s top gun, Carol Mendelsohn, weighs in on the circumstances surrounding Fox's exit, responds to published reports that she considered killing her off, previews tonight's big marriage proposal, and utters the words grieving fans have been dying to hear: Sara Sidle *will* be back.

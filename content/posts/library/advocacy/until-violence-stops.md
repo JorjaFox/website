@@ -15,4 +15,4 @@ V-Day is a global movement to stop violence against women and girls. V-Day is a 
 
 ## See Also
 
-* [VDay.org](http://www.vday.org)
+* [VDay.org](https://www.vday.org)

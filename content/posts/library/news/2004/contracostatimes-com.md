@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CBS exec. defends firing of 'CSI' stars"
 newsreporter: Staff
 newssource: ContraCostaTimes
-newsurl: http://ContraCostaTimes.com
+newsurl: https://ContraCostaTimes.com
 
 ---
 

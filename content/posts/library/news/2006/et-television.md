@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Murder at a Hollywood Wedding  "
 newsreporter: Staff
 newssource: ET Television
-newsurl: http://et.tv.yahoo.com/
+newsurl: https://et.tv.yahoo.com/
 
 ---
 

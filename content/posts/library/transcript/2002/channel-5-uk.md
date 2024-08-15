@@ -3,7 +3,7 @@ title: Channel 5 UK
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-04-19
-interviewurl: http://www.channel5.co.uk/
+interviewurl: https://www.channel5.co.uk/
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
 tags: ["2002"]

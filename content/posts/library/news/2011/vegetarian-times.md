@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "[Q&A] Jorja On Our Mind "
 newsreporter: Rachel Dowd
 newssource: Vegetarian Times
-newsurl: http://www.vegetariantimes.com/
+newsurl: https://www.vegetariantimes.com/
 
 ---
 

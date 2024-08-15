@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: "Inside TV's Top Drama"
 newsreporter: Staff
 newssource: People Magazine
-newsurl: http://people.aol.com/people/magazine/
+newsurl: https://people.aol.com/people/magazine/
 
 
 ---

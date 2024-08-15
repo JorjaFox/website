@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "TV Guide Blogs: Sara and Grissom Sittin' in a Tree... K-I-S-S-I-N-G  "
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 

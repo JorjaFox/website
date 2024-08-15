@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "The Show Girl's Guide to Fall TV: 21 Things To Know"
 newsreporter: Maggie Furlong
 newssource: AOL TV
-newsurl: http://television.aol.com/feature/fall_tv/what-you-should-know-about-fall-tv-2
+newsurl: https://television.aol.com/feature/fall_tv/what-you-should-know-about-fall-tv-2
 
 ---
 

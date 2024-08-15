@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Who's News
 newsreporter: Staff
 newssource: USA Weekend
-newsurl: http://www.usaweekend.com
+newsurl: https://www.usaweekend.com
 
 ---
 

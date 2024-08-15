@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: 4 Questions
 newsreporter: Staff
 newssource: New York Post
-newsurl: http://nypost.com
+newsurl: https://nypost.com
 
 ---
 **I never got off the bus**

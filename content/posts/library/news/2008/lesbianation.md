@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Women We Love"
 newsreporter: Shane Cassidy
 newssource: LesbiaNataion
-newsurl: http://www.lesbianation.com/scene/index.cfm?listID=193
+newsurl: https://www.lesbianation.com/scene/index.cfm?listID=193
 
 ---
 

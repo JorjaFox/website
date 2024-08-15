@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "ASK AUSIELLO  "
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "'CSI' actress wasn't surprised by romance with Grissom  "
 newsreporter: Staff
 newssource: St. Paul Pioneer Press
-newsurl: http://www.twincities.com/mld/twincities/entertainment/television/16028862.htm?source=rss&channel=twincities_television
+newsurl: https://www.twincities.com/mld/twincities/entertainment/television/16028862.htm?source=rss&channel=twincities_television
 
 ---
 

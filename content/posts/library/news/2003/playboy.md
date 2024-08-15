@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: "Playboy's 20 Q"
 newsreporter: Staff
 newssource: Playboy Magazine
-newsurl: http://www.playboy.com/
+newsurl: https://www.playboy.com/
 
 ---
 

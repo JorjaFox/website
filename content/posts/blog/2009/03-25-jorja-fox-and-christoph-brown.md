@@ -17,6 +17,6 @@ photogallery:
  - "img/gallery/misc/christophbrown_02.jpg"
 ---
 
-Thanks to Jorja82 for finding two pictures of Christoph Brown, [Etch-a-Sketch Man](http://www.etchu.com/), and Jorja Fox at an unknown event.
+Thanks to Jorja82 for finding two pictures of Christoph Brown, [Etch-a-Sketch Man](https://www.etchu.com/), and Jorja Fox at an unknown event.
 
 {{< bs5-lightbox >}}

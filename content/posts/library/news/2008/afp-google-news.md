@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Hollywood stars launch video campaign for Myanmar's Suu Kyi  "
 newsreporter: Staff
 newssource: AFP Google News
-newsurl: http://afp.google.com/article/ALeqM5gFdVmAQBoMgnUdmzdoHRHKIK2uVg
+newsurl: https://afp.google.com/article/ALeqM5gFdVmAQBoMgnUdmzdoHRHKIK2uVg
 
 ---
 

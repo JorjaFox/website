@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "'CSI Cast & Crew Say Goodbye To Helgenberger  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2012/01/csi-cast-crew-say-goodbye-to-helgenberger/
+newsurl: https://www.csifiles.com/content/2012/01/csi-cast-crew-say-goodbye-to-helgenberger/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "'CSI' will reunite with Sara Sidle  "
 newsreporter:
 newssource: TV.com
-newsurl: http://www.tv.com/story/16633.html
+newsurl: https://www.tv.com/story/16633.html
 
 ---
 

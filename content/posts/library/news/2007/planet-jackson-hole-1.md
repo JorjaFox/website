@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "The Planet sits down with CSI star Jorja Fox"
 newsreporter: Planet Jackson Hole
 newssource: Planet Jackson Hole
-newsurl: http://planetjh.com/news/A_101286.aspx
+newsurl: https://planetjh.com/news/A_101286.aspx
 
 ---
 

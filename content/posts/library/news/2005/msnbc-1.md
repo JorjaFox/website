@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "CSI Crime File - Sept. 22"
 newsreporter: Staff
 newssource: MSNBC
-newsurl: http://msnbc.com
+newsurl: https://msnbc.com
 
 ---
 

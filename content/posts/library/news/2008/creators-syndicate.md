@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Ask Stacy  "
 newsreporter: Marilyn Beck and Stacy Jenel Smith
 newssource: Creators Syndicate
-newsurl: http://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-03-08.html
+newsurl: https://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-03-08.html
 
 ---
 

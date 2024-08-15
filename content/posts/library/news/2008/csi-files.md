@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Allen MacDonald  "
 newsreporter: Kristine Huntley
 newssource: CSI Files
-newsurl: http://www.csifiles.com/interviews/allen_macdonald.shtml
+newsurl: https://www.csifiles.com/interviews/allen_macdonald.shtml
 
 ---
 

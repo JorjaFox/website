@@ -22,4 +22,4 @@ Gina attended University of Virginia (studying Criminology), and was in the Army
 
 ## See Also
 
-* [The West Wing Episodes](/library/actor/west-wing-episodes/)
+* [The West Wing Episodes](/library/recaps/west-wing/)

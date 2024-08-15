@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Two 'CSI' Stars Fired"
 newsreporter: Staff
 newssource: CBS 4 Denver
-newsurl: http://news4colorado.com/
+newsurl: https://news4colorado.com/
 ---
 Search Is Underway For Replacements
 

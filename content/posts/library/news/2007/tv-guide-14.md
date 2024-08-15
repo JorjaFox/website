@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: " Jorja's 'CSI' Finale, 'Top Model''s Plus-Size Problem, Calista's 'Sister'ly Turn and more!"
 newsreporter: Matt Roush
 newssource: Ask Matt
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Fall TV Preview: Returning Favorites  "
 newsreporter: Tracy Phillips
 newssource: Fancast
-newsurl: http://www.fancast.com/blogs/tv-news/fall-tv-preview-returning-favorites/
+newsurl: https://www.fancast.com/blogs/tv-news/fall-tv-preview-returning-favorites/
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2014/:title/
 newstitle: "Jorja's Lionhearted Activism"
 newsreporter: Sarah Marloff
 newssource: Entertainment Weekly
-newsurl: http://sharpheels.com/2014/02/jorjafoxlions/
+newsurl: https://sharpheels.com/2014/02/jorjafoxlions/
 
 ---
 

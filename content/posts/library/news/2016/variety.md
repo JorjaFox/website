@@ -8,7 +8,7 @@ categories: ["Articles", "News"]
 newstitle: "Jorja Fox Lists 1930s Mediterranean in Los Angeles’s Silver Lake Community"
 newsreporter: "Mark David"
 newssource: "Variety"
-newsurl: http://variety.com/2016/dirt/real-estalker/jorja-fox-lists-silver-lake-house-1201724559/
+newsurl: https://variety.com/2016/dirt/real-estalker/jorja-fox-lists-silver-lake-house-1201724559/
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "61st Annual Golden Globe Awards: On the Red Carpet"
 newsreporter: Staff
 newssource: Hollywood.com
-newsurl: http://www.hollywood.com
+newsurl: https://www.hollywood.com
 
 ---
 

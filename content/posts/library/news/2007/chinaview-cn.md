@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: '"Sara Sidle" bids farewell to "CSI"  '
 newsreporter: Wang Yan
 newssource: Chinaview.cn
-newsurl: http://news.xinhuanet.com/english/2007-11/16/content_7088017.htm
+newsurl: https://news.xinhuanet.com/english/2007-11/16/content_7088017.htm
 
 ---
 

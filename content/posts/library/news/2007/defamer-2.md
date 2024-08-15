@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Potentially ill-advised Career Moves "
 newsreporter: Mark
 newssource: Defamer Hollywood
-newsurl: http://defamer.com/hollywood/potentially-ill_advised-career-moves/-311083.php
+newsurl: https://defamer.com/hollywood/potentially-ill_advised-career-moves/-311083.php
 
 ---
 

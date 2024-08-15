@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "JORJA FOX 'You're finally going to see me smile.'"
 newsreporter: Staff
 newssource: TFI
-newsurl: http://tfi.com
+newsurl: https://tfi.com
 
 ---
 _Translated from French_

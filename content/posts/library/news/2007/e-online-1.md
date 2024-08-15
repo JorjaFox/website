@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI' Losing Fox, Wins Ratings"
 newsreporter: "E! Online"
 newssource: "E! Online"
-newsurl: http://www.eonline.com
+newsurl: https://www.eonline.com
 
 ---
 

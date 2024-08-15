@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "CSI: Get Ready to Say Goodbye to Sara  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-get-ready-to-say-goodbye-t-13679.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-get-ready-to-say-goodbye-t-13679.aspx
 
 ---
 

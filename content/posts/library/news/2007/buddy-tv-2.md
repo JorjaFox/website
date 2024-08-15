@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: CSI To Kill Off Sara Sidle?
 newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-to-kill-off-sara-sidle-6046.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-to-kill-off-sara-sidle-6046.aspx
 
 ---
 

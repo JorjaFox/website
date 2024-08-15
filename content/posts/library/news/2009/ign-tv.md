@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "CSI: 'Family Affair' Review  "
 newsreporter: James Chamberlin
 newssource: IGN
-newsurl: http://tv.ign.com/articles/102/1028487p1.html
+newsurl: https://tv.ign.com/articles/102/1028487p1.html
 
 ---
 

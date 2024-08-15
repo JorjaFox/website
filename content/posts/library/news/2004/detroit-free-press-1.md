@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CBS detects reasons to look forward to fall"
 newsreporter: Staff
 newssource: Detroit Free Press
-newsurl: http://www.freep.com/
+newsurl: https://www.freep.com/
 
 ---
 

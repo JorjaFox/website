@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI: Crime Scene Investigation - Cast Interviews  "
 newsreporter: Staff
 newssource: Channel Five
-newsurl: http://www.five.tv
+newsurl: https://www.five.tv
 
 ---
 

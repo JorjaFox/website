@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Save Billy from LA Zoo  "
 newsreporter: Terrence Lau
 newssource: LA Wave
-newsurl: http://www.wavenewspapers.com/community/calendar/38493429.html
+newsurl: https://www.wavenewspapers.com/community/calendar/38493429.html
 
 ---
 

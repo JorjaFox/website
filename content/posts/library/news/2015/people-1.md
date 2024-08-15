@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "William Petersen, Marg Helgenberger Tease Their CSI Return to Say Goodbye to the Show Where 'Each Day Was an Invention'"
 newsreporter: Lanford Beard
 newssource: People
-newsurl: http://www.people.com/article/csi-series-finale-sneak-peek-william-petersen-marg-helgenberger
+newsurl: https://www.people.com/article/csi-series-finale-sneak-peek-william-petersen-marg-helgenberger
 
 ---
 

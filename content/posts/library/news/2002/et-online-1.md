@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: "CSI's Invasion of the Little People"
 newsreporter: Staff
 newssource: ET Online
-newsurl: http://etonline.com
+newsurl: https://etonline.com
 
 ---
 

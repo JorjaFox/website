@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Cold Cases?"
 newsreporter: Staff
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com
+newsurl: https://www.ew.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox Returning to CSI  "
 newsreporter: Staff
 newssource: Us Weekly
-newsurl: http://www.usmagazine.com/news/jorja-fox-returning-to-csi-2009177
+newsurl: https://www.usmagazine.com/news/jorja-fox-returning-to-csi-2009177
 
 ---
 

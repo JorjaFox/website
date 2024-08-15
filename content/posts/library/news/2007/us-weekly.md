@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Secret's of TV's Fall Favorites"
 newsreporter: Staff
 newssource: Us Weekly
-newsurl: http://www.usmagazine.com
+newsurl: https://www.usmagazine.com
 
 ---
 

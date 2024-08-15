@@ -2,7 +2,7 @@
 title: The Kevin and Bean Show
 transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://kroq.com/
+interviewurl: https://kroq.com/
 date: 2009-09-24
 permalink: /transcript/2009/:title/
 categories: ["Interviews"]

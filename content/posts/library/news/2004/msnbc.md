@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Festive, glamorous Emmys red carpet"
 newsreporter: Staff
 newssource: MSNBC
-newsurl: http://msnbc.msn.com/
+newsurl: https://msnbc.msn.com/
 
 ---
 

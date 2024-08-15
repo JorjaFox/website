@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Sara's Back!  "
 newsreporter: Staff
 newssource: The Star Online
-newsurl: http://www.star-ecentral.com/news/story.asp?file=/2010/2/19/tvnradio/5694184&sec=tvnradio
+newsurl: https://www.star-ecentral.com/news/story.asp?file=/2010/2/19/tvnradio/5694184&sec=tvnradio
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Grissom & Sara  "
 newsreporter: Bill Savage
 newssource: The F-Word
-newsurl: http://www.thefword.org.uk/blog/2009/02/grissom_sara
+newsurl: https://www.thefword.org.uk/blog/2009/02/grissom_sara
 
 ---
 

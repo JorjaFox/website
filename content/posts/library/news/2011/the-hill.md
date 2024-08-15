@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "CSI's Jorja Fox opens Capitol Scene investigation into animal entertainment  "
 newsreporter: Staff
 newssource: The Hill
-newsurl: http://washingtonscene.thehill.com/calendar/events/12687-csis-jorja-fox-opens-capitol-scene-investigation-into-animal-entertainment
+newsurl: https://washingtonscene.thehill.com/calendar/events/12687-csis-jorja-fox-opens-capitol-scene-investigation-into-animal-entertainment
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Leaving 'CSI' the 'hardest decision' says Fox  "
 newsreporter: Staff
 newssource: CTV
-newsurl: http://www.ctv.ca
+newsurl: https://www.ctv.ca
 
 ---
 

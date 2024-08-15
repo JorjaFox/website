@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Hollywood Privacy Watch: Super-Sized, Picture Enhanced Edition"
 newsreporter: Mark
 newssource: Defamer
-newsurl: http://defamer.com/hollywood/gossip/hollywood-privacywatch-super+sized-picture+enhanced-edition-27102.php
+newsurl: https://defamer.com/hollywood/gossip/hollywood-privacywatch-super+sized-picture+enhanced-edition-27102.php
 
 ---
 

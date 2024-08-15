@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Ready, set, action!
 newsreporter: Brian Truitt
 newssource: USA Weekend
-newsurl: http://www.usaweekend.com/03_issues/030706/030706movies.html
+newsurl: https://www.usaweekend.com/03_issues/030706/030706movies.html
 
 ---
 

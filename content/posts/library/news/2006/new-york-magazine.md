@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "The Year in TV  "
 newsreporter: Staff
 newssource: New York Magazine
-newsurl: http://nymag.com/arts/cultureawards/2006/25307/index1.html
+newsurl: https://nymag.com/arts/cultureawards/2006/25307/index1.html
 
 ---
 

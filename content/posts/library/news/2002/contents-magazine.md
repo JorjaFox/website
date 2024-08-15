@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Contents
 newsreporter: Staff
 newssource: Contents
-newsurl: http://contents.com
+newsurl: https://contents.com
 
 ---
 

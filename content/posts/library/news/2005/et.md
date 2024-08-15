@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Mark Uncovers Secrets from the CSI Set"
 newsreporter: Staff
 newssource: ET Online
-newsurl: http://et.tv.yahoo.com
+newsurl: https://et.tv.yahoo.com
 
 ---
 [...]

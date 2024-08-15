@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "THE WILD, THE BEAUTIFUL AND THE REBELLIOUS"
 newsreporter: John Esther
 newssource: The Lesbian News
-newsurl: http://www.lesbiannews.com
+newsurl: https://www.lesbiannews.com
 
 ---
 Jorja Fox and Kirsten Holly Smith talk about the life and music of Dusty Springfield.

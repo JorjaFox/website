@@ -3,7 +3,7 @@ title: PETA
 author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
-tags: 
+tags:
   - "Animal Rights"
 website: http://www.peta.org/
 ---
@@ -16,4 +16,4 @@ Jorja Fox is a supporter of PETA and has attended many functions, as well as app
 
 ## See Also
 
-* [Investigate Vegetarianism](http://veggietestimonial.peta.org/psa.aspx?CID=a3493023-a4f4-4309-961c-8e4e3528908c)
+* [Investigate Vegetarianism](https://veggietestimonial.peta.org/psa.aspx?CID=a3493023-a4f4-4309-961c-8e4e3528908c)

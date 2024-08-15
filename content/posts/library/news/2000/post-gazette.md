@@ -9,7 +9,7 @@ tags: ["2000"]
 newstitle: "'West Wing' elects to keep its idealistic platform"
 newsreporter: Staff
 newssource: Post-Gazette
-newsurl: http://www.post-gazette.com
+newsurl: https://www.post-gazette.com
 
 ---
 **Who's been shot?**

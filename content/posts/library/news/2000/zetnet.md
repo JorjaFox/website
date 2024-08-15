@@ -9,7 +9,7 @@ tags: ["2000"]
 newstitle: "Shadows on the Wall: MEMENTO"
 newsreporter: Staff
 newssource: Zetnet
-newsurl: http://www.zetnet.com/
+newsurl: https://www.zetnet.com/
 ---
 After the promise of the no-budget London thriller *Following, *all eyes were on what Nolan would do with a little Hollywood cash. And he certainly hasn't taken the easy road. **Memento **is told with an even more unconventional narrative that keeps your brain in high gear from the very first shot. And it's absolutely brilliant-a terrific little thriller that takes the genre and turns it inside out.
 

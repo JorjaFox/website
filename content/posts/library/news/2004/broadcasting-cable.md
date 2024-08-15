@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI Rehires Actor"
 newsreporter:  Staff
 newssource: Broadcasting Cable
-newsurl: http://www.broadcastingcable.com/article/CA438342?display=Breaking+News
+newsurl: https://www.broadcastingcable.com/article/CA438342?display=Breaking+News
 
 ---
 

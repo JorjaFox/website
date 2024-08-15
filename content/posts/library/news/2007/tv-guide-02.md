@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Preview: How Grissom's Exit Will Shake Up 'CSI'!"
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Interview: Jorja Fox"
 newsreporter: Kathleen Germann
 newssource: Journal of The American Academy of Dramatic Arts
-newsurl: http://www.aada.org/pdf/alumni/americada_2007_01.pdf
+newsurl: https://www.aada.org/pdf/alumni/americada_2007_01.pdf
 
 ---
 

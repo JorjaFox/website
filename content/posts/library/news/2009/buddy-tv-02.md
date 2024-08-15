@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox's 'CSI' Return Extended Indefinitely  "
 newsreporter: Henrik Batallones
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/jorja-foxs-csi-return-extended-31893.aspx
+newsurl: https://www.buddytv.com/articles/csi/jorja-foxs-csi-return-extended-31893.aspx
 
 ---
 

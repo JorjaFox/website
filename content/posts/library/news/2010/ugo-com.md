@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "The 50 Hottest Women on Television  "
 newsreporter: UGO Team
 newssource: UGO.com
-newsurl: http://www.ugo.com/tv/50-hottest-women-on-tv-14
+newsurl: https://www.ugo.com/tv/50-hottest-women-on-tv-14
 
 ---
 

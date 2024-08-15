@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: Coachella 2005
 newsreporter: Staff
 newssource: Aversion
-newsurl: http://www.aversion.com/
+newsurl: https://www.aversion.com/
 
 ---
 

@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: Line Of Duty
 newsreporter: Staff
 newssource: Time Out New York
-newsurl: http://www.timeoutny.com/timein/313/313U.tv.jorja.box.html
+newsurl: https://www.timeoutny.com/timein/313/313U.tv.jorja.box.html
 
 ---
 **CSI's Jorja Fox is out for truth, justice and a steady job**

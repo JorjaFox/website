@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'Crime Scene' solution"
 newsreporter: Staff
 newssource: AZ Central
-newsurl: http://www.azcentral.com/
+newsurl: https://www.azcentral.com/
 
 ---
 

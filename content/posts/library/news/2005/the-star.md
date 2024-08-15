@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Procter prospers"
 newsreporter: Staff
 newssource: The Star
-newsurl: http://www.star-ecentral.com/
+newsurl: https://www.star-ecentral.com/
 
 ---
 [...]

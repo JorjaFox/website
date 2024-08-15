@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "CSI Gets Personal  "
 newsreporter: Staff
 newssource: Now Playing
-newsurl: http://www.nowplaying.com
+newsurl: https://www.nowplaying.com
 
 ---
 

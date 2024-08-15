@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI' makes strong case to be 'Scene'"
 newsreporter: NY Daily News
 newssource: NY Daily News
-newsurl: http://www.nydailynews.com/
+newsurl: https://www.nydailynews.com/
 
 ---
 

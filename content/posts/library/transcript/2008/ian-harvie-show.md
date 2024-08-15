@@ -3,7 +3,7 @@ title: Ian Harvie Show
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-01-21
-interviewurl: http://www.ianharvie.com/jorjafox.html
+interviewurl: https://www.ianharvie.com/jorjafox.html
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
 tags: [ "2008" ]
@@ -301,7 +301,7 @@ _Audience cracks up ... Ian cracks up .. Jorja cracks up_
 
 **Ian Harvie:** Your website is?
 
-**Jorja Fox:** [Jorjafox.org](http://www.jorjafox.org)
+**Jorja Fox:** [Jorjafox.org](https://www.jorjafox.org)
 
 **Ian Harvie:** Okay, .org.
 

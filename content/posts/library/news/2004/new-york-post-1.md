@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'BYE GEORGE & JORJA"
 newsreporter: Staff
 newssource: New York Post
-newsurl: http://www.nypost.com/
+newsurl: https://www.nypost.com/
 
 ---
 

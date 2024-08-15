@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox Aint Ready To Leave"
 newsreporter: E Canada Now
 newssource: E Canada Now
-newsurl: http://www.ecanadanow.com
+newsurl: https://www.ecanadanow.com
 
 ---
 

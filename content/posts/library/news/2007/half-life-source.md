@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox departs from CSI  "
 newsreporter: Jennifer Hong
 newssource: Half-Life Source
-newsurl: http://www.halflifesource.com/news/2007/11/14/article10091.htm
+newsurl: https://www.halflifesource.com/news/2007/11/14/article10091.htm
 
 ---
 **The TV hit series CSI will lose Jorja Fox as one of their starring actors.**

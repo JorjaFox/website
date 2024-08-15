@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "'CSI' wraps up epic 15-year run with a two-hour movie"
 newsreporter: David Hinckley
 newssource: NY Daily News
-newsurl: http://www.nydailynews.com/entertainment/tv/csi-two-hour-goodbye-article-1.2370519
+newsurl: https://www.nydailynews.com/entertainment/tv/csi-two-hour-goodbye-article-1.2370519
 
 ---
 

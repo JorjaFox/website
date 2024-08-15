@@ -14,7 +14,7 @@ thumbnail:
   url: /img/blog/2011/1102-poolshark001.jpg
 ---
 
-Let's just put this out there, no one is more pro-GSR than Jorja.  The following article is from the Associated Press, and I cannot find a good link for it except [this one where they call her Jorga](http://www.digtriad.com/news/article/198438/204/Jorga-Fox-Wants-An-Episode-To-Reunite-Sara-With-Gil-On-CSI), so I'm posting it here:
+Let's just put this out there, no one is more pro-GSR than Jorja.  The following article is from the Associated Press, and I cannot find a good link for it except [this one where they call her Jorga](https://www.digtriad.com/news/article/198438/204/Jorga-Fox-Wants-An-Episode-To-Reunite-Sara-With-Gil-On-CSI), so I'm posting it here:
 
 {{< blockquote >}}
 WASHINGTON (AP) -- There's a feeling of dread on the set of "CSI" and it has nothing to do with a murder. Jorja Fox says they're starting to shoot the episodes leading up to Marg Helgenberger's departure after 12 years. She says they've been on "this really fun high" since Ted Danson joined the show, but now, they're "about to be devastated." She says it's getting "pretty emotional" on the set. She says not a day goes by that someone doesn't ask Helgenberger to stay.

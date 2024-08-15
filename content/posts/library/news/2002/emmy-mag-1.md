@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: "Labors of Love: Cold Characters and Warm Regards"
 newsreporter: Todd Longwell
 newssource: Emmy Magazine
-newsurl: http://www.emmy.com/
+newsurl: https://www.emmy.com/
 
 ---
 

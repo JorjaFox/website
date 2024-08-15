@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "The Secret Talents at CSI"
 newsreporter: Staff
 newssource: TMZ
-newsurl: http://tmz.aol.com/
+newsurl: https://tmz.aol.com/
 
 ---
 

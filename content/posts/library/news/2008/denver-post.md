@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "New mom Lopez turns out to hail a champion of children  "
 newsreporter: Bill Husted
 newssource: Denver Post
-newsurl: http://www.denverpost.com/politics/ci_10319601
+newsurl: https://www.denverpost.com/politics/ci_10319601
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Ask Stacy: Who Makes More, 50 Cent or Nicole Kidman?"
 newsreporter: Staff
 newssource: National Ledger
-newsurl: http://www.nationalledger.com
+newsurl: https://www.nationalledger.com
 
 ---
 [...]

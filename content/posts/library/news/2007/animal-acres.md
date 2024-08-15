@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "The Animal Acres 2007 Gala, August 25th, Acton, CA"
 newsreporter: Staff
 newssource: Animal Acres
-newsurl: http://animalacres.org/events/gala_2007.html
+newsurl: https://animalacres.org/events/gala_2007.html
 
 ---
 

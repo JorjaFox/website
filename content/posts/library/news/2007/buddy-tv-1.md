@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "CSI's Gil Grissom and Sara Sidle"
 newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csis-gil-grissom-and-sara-sidl-5240.aspx
+newsurl: https://www.buddytv.com/articles/csi/csis-gil-grissom-and-sara-sidl-5240.aspx
 
 ---
 

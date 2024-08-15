@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Which Season Ended With a Bang?  "
 newsreporter: Staff
 newssource: AOL News
-newsurl: http://news.aol.com
+newsurl: https://news.aol.com
 
 ---
 

@@ -9,7 +9,7 @@ tags: ["2000"]
 newstitle: Review
 newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com/magazine/issues/000925/fri5.asp
+newsurl: https://www.tvguide.com/magazine/issues/000925/fri5.asp
 
 ---
 9-10PM, CBS

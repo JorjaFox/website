@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Inauthentic despite wrinkles  "
 newsreporter: Dianne Butler
 newssource: The Courier-Mail
-newsurl: http://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html
+newsurl: https://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html
 
 ---
 

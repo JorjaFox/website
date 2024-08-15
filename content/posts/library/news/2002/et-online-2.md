@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: This Week
 newsreporter: Staff
 newssource: ET Online
-newsurl: http://etonline.com
+newsurl: https://etonline.com
 
 ---
 

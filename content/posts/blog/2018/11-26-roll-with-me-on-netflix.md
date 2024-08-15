@@ -25,6 +25,6 @@ The drama didn't end with filming, however. Even though Jorja Fox and Sharon Swa
 
 And that brings us to today.
 
-[ARRAY](http://www.arraynow.com/roll-with-me) will release _Roll With Me_ on select screens around the country starting in Los Angeles and New York on November 26 and on Netflix beginning **December 1**, just prior to International Day of Persons with Disabilities on December 3. This day honors the estimated one billion people living with disabilities worldwide.
+[ARRAY](https://www.arraynow.com/roll-with-me) will release _Roll With Me_ on select screens around the country starting in Los Angeles and New York on November 26 and on Netflix beginning **December 1**, just prior to International Day of Persons with Disabilities on December 3. This day honors the estimated one billion people living with disabilities worldwide.
 
-Don't have Netflix? Check out the [ARRAY _Roll With Me_](http://www.arraynow.com/roll-with-me) page for more screenings.
+Don't have Netflix? Check out the [ARRAY _Roll With Me_](https://www.arraynow.com/roll-with-me) page for more screenings.

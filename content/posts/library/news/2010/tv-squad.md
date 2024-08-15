@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Happy World Vegetarian Day to Our Favorite TV Herbivores  "
 newsreporter: Chris Harnick
 newssource: TV Squad
-newsurl: http://www.tvsquad.com/2010/10/01/happy-world-vegetarian-day-to-our-favorite-tv-herbivores/
+newsurl: https://www.tvsquad.com/2010/10/01/happy-world-vegetarian-day-to-our-favorite-tv-herbivores/
 
 ---
 

@@ -17,4 +17,4 @@ A word of warning: This is NOT safe for work.  The song's a bit offensive to peo
 
 {{< youtube jlfhx5VcWUc >}}
 
-All credits to [Ian Harvie](http://www.ianharvie.com)
+All credits to [Ian Harvie](https://www.ianharvie.com)

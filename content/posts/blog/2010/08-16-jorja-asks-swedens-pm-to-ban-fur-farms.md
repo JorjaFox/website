@@ -34,4 +34,4 @@ Sincerely,
 Jorja Fox
 {{< /blockquote >}}
 
-Source: [Sveket mot minkarna](http://sveketmotminkarna.se/kampanjen/nyheter/jorja-fox-till-fredrik-reinfeldt-stäng-minkfarmerna)
+Source: [Sveket mot minkarna](https://sveketmotminkarna.se/kampanjen/nyheter/jorja-fox-till-fredrik-reinfeldt-stäng-minkfarmerna)

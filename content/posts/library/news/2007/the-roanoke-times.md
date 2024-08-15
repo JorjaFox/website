@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "TV Q&A"
 newsreporter: The Roanoke Times
 newssource: The Roanoke Times
-newsurl: http://www.roanoke.com
+newsurl: https://www.roanoke.com
 
 ---
 

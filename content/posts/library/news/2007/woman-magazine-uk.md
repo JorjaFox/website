@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "The Way I See It..."
 newsreporter: Woman Magazine
 newssource: Woman Magazine
-newsurl: http://www.ipcmedia.com/magazines/woman/
+newsurl: https://www.ipcmedia.com/magazines/woman/
 
 ---
 

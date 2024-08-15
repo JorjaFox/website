@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "Interview: Tom Mularz  "
 newsreporter: Shane Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2012/11/interview-tom-mularz-3/
+newsurl: https://www.csifiles.com/content/2012/11/interview-tom-mularz-3/
 
 ---
 

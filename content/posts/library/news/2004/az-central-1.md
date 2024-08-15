@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "2 stars of 'CSI' reportedly fired"
 newsreporter: Staff
 newssource: AZ Central
-newsurl: http://www.azcentral.com/
+newsurl: https://www.azcentral.com/
 
 ---
 

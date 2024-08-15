@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Congress: Bill to end use of wild animals in circuses unveiled  "
 newsreporter: Staff
 newssource: ADI International
-newsurl: http://www.ad-international.org/animals_in_entertainment/go.php?id=2263&ssi=10
+newsurl: https://www.ad-international.org/animals_in_entertainment/go.php?id=2263&ssi=10
 
 ---
 

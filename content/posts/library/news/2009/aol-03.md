@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox Interview on Returning to 'CSI'  "
 newsreporter: Sandra Deane
 newssource: AOL TV
-newsurl: http://television.aol.com/insidetv/2009/08/18/jorja-fox-interview-on-returning-to-csi/
+newsurl: https://television.aol.com/insidetv/2009/08/18/jorja-fox-interview-on-returning-to-csi/
 
 ---
 

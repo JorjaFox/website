@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: " Celebrities, animal lovers turn out for Acton sanctuary's gala"
 newsreporter: Julie Drake
 newssource: Antelope Valley Press
-newsurl: http://www.avpress.com/n/08/0908_s4.hts
+newsurl: https://www.avpress.com/n/08/0908_s4.hts
 
 ---
 

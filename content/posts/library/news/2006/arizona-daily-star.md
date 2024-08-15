@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "'CSI' going romantic against 'Grey's Anatomy'  "
 newsreporter: Staff
 newssource: Arizona Daily Star
-newsurl: http://www.azstarnet.com
+newsurl: https://www.azstarnet.com
 
 ---
 

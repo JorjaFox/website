@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Chatter"
 newsreporter: Staff
 newssource: People Magazine
-newsurl: http://people.com
+newsurl: https://people.com
 
 ---
 Which Celebrity's Closet Would You Love To Raid?

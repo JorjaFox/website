@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Hollywood PrivacyWatch: Elvish Warrior Takes In Some Postmodern Feminist Art"
 newsreporter: Mark
 newssource: Defamer Hollywood
-newsurl: http://defamer.com
+newsurl: https://defamer.com
 
 ---
 

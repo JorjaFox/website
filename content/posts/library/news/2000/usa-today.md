@@ -9,7 +9,7 @@ tags: ["2000"]
 newstitle: "'CSI' succeeds with gritty realism."
 newsreporter: Staff
 newssource: USA Today
-newsurl: http://www.usatoday.com
+newsurl: https://www.usatoday.com
 
 ---
 12/21/00- Updated 07:16 PM ET

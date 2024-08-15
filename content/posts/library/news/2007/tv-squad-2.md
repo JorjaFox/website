@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "The fate of CSI's Jorja Fox"
 newsreporter: TV Squad
 newssource: TV Squad
-newsurl: http://www.tvsquad.com/2007/09/28/the-fate-of-csis-jorja-fox/
+newsurl: https://www.tvsquad.com/2007/09/28/the-fate-of-csis-jorja-fox/
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Bob Barker And Jorja Fox Launch Circus Animal Cruelty Bill  "
 newsreporter: Teddy Hilton
 newssource: FotoPeep
-newsurl: http://fotopeep.com/2011/11/bob-barker-and-jorja-fox-launch-circus-animal-cruelty-bill/
+newsurl: https://fotopeep.com/2011/11/bob-barker-and-jorja-fox-launch-circus-animal-cruelty-bill/
 
 ---
 

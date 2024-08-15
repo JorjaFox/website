@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "Charlie Weber on \"Warehouse 13\", \"Buffy\" and Riding Naked on an Elephant"
 newsreporter: Ed Kennedy
 newssource: Logo - NewNowNext
-newsurl: http://www.newnownext.com/charlie-weber-photos-interview/06/2013/
+newsurl: https://www.newnownext.com/charlie-weber-photos-interview/06/2013/
 
 ---
 

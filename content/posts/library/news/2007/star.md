@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "CSI 'JILTS JORJA!'"
 newsreporter: Star
 newssource: Star
-newsurl: http://www.star.com
+newsurl: https://www.star.com
 
 ---
 

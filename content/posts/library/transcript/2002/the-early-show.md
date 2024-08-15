@@ -3,7 +3,7 @@ title: The Early Show
 date: 2002-05-15
 transcriber: David Masters
 layout: transcript
-interviewurl: http://www.cbsnews.com/earlyshow/
+interviewurl: https://www.cbsnews.com/earlyshow/
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
 tags: ["2002"]

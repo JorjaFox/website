@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Jorja Fox Selects Vintage Gown from P.B.P. for Primetime Emmys"
 newsreporter: Staff
 newssource: The Paper Bag Princess
-newsurl: http://www.thepaperbagprincess.com
+newsurl: https://www.thepaperbagprincess.com
 
 ---
 

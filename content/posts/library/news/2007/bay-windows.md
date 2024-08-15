@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: Billy Masters
 newsreporter: Staff
 newssource: Bay Windows
-newsurl: http://baywindows.com
+newsurl: https://baywindows.com
 
 ---
 

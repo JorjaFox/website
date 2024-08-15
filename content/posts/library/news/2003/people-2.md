@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: Hey There, Jorja Girl
 newsreporter: Staff
 newssource: People Magazine
-newsurl: http://people.com
+newsurl: https://people.com
 
 ---
 

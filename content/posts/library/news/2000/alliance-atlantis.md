@@ -8,7 +8,7 @@ permalink: /news/2000/:title/
 tags: ["2000"]
 newssource: Alliance Atlantis
 newsreporter: Staff
-newsurl: http://www.allianceatlantis.com/
+newsurl: https://www.allianceatlantis.com/
 newstitle: Premiering on CBS Television Network this Fall
 ---
 

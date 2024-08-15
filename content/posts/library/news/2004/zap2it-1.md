@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' Rehires Fox; Eads Waits to Hear"
 newsreporter: Staff
 newssource: Maxim
-newsurl: http://tv.zap2it.com/
+newsurl: https://tv.zap2it.com/
 
 ---
 

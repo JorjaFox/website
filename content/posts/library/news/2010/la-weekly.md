@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "Vote for Love: Manifest Equality Art Show  "
 newsreporter: Staff
 newssource: LA Weekly
-newsurl: http://www.laweekly.com/slideshow/vote-for-love-manifest-equality-art-show-29371560/11
+newsurl: https://www.laweekly.com/slideshow/vote-for-love-manifest-equality-art-show-29371560/11
 
 ---
 

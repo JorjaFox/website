@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Jorja Fox Returns To 'CSI'"
 newsreporter: Staff
 newssource: Perez Hilton
-newsurl: http://perezhilton.com/2009-07-18-jorja-fox-returns-to-csi
+newsurl: https://perezhilton.com/2009-07-18-jorja-fox-returns-to-csi
 
 ---
 

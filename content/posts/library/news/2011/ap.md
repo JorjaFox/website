@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "'CSI' - JORJA FOX  "
 newsreporter: unknown
 newssource: ap
-newsurl: http://www.ap.com/
+newsurl: https://www.ap.com/
 
 ---
 

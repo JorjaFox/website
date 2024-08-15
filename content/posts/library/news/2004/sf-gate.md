@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' stars get the boot"
 newsreporter: Staff
 newssource: SF Gate
-newsurl: http://www.sfgate.com/
+newsurl: https://www.sfgate.com/
 
 ---
 

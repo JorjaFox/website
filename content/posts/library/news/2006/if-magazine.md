@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "TV Review: C.S.I. - CRIME SCENE INVESTIGATION - Season 6 - 'Way To Go'"
 newsreporter: Staff
 newssource: If Magazine
-newsurl: http://www.ifmagazine.com
+newsurl: https://www.ifmagazine.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Girl Interrupted  "
 newsreporter: Bryan Cairns
 newssource: The Official CSI Magazine
-newsurl: http://www.titanmagazines.com/app?service=external/Product&sp=l1075
+newsurl: https://www.titanmagazines.com/app?service=external/Product&sp=l1075
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Whoever Has 'Talent' Has Clout, Too  "
 newsreporter: Lisa de Moraes
 newssource: The TV Column
-newsurl: http://www.washingtonpost.com/wp-dyn/content/article/2009/07/20/AR2009072003089_2.html
+newsurl: https://www.washingtonpost.com/wp-dyn/content/article/2009/07/20/AR2009072003089_2.html
 
 ---
 

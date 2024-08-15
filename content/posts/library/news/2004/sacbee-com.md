@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "'CSI' star, producer respond to firing of actors"
 newsreporter: Staff
 newssource: Sacbee.com
-newsurl: http://www.sacbee.com/
+newsurl: https://www.sacbee.com/
 
 ---
 

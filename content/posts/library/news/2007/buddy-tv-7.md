@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox Speaks about Leaving CSI"
 newsreporter: Staff
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/
+newsurl: https://www.buddytv.com/
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: TV Gal Critiques Techniques
 newsreporter: Staff
 newssource: TV Gal
-newsurl: http://tv.zap2it.com
+newsurl: https://tv.zap2it.com
 
 ---
 

@@ -9,7 +9,7 @@ categories: ["Articles", "News"]
 newstitle: Hungry Bachelors" kills appetite
 newsreporter: Jae-Ha Kim
 newssource: Chicago Sun-Times
-newsurl: http://www.suntimes.com
+newsurl: https://www.suntimes.com
 ---
 Mama's Boys LLC presents a film directed by Gregory Ruzzin. Written by Fred Dresch and Ron Ratliff. Running time: 93 minutes. Rated PG-13 (for language). Opening today at Deerbrook, Lincoln Mall, Randhurst and Yorktown.
 

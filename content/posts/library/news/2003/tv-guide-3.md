@@ -9,7 +9,7 @@ permalink: /news/2003/:title/
 newstitle: CSI Gets Personal
 newsreporter: Michael Logan
 newssource: TV Guide
-newsurl: http://tvguide.com/
+newsurl: https://tvguide.com/
 
 ---
 

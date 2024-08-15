@@ -9,7 +9,7 @@ categories: ["Articles", "News"]
 newstitle: "ER's Fox Set to Lead New UPN Drama"
 newsreporter: Staff
 newssource: Ultimate TV (now Zap2It.com)
-newsurl: http://www.zap2it.com
+newsurl: https://www.zap2it.com
 
 ---
 

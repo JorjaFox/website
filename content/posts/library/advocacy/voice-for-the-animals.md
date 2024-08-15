@@ -25,4 +25,4 @@ I'm really ... I would like to address, specifically, the issue of Billy. The so
 
 Each year a kind group of comedians and volunteers generously come together to benefit Voice For The Animals. The audience enjoys the performances and participates in auctions. Individuals and groups are honored for their contributions to help animals. Jorja Fox was a presenter in 2009, and also served on "Team Billy"
 
-* [Help Billy](http://www.helpbilly.org)
+* [Help Billy](https://www.helpbilly.org)

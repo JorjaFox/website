@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "Taylor Swift Opens Up About Her Lack of Friends and Reveals How She Punishes Heart-Breaking Boys  "
 newsreporter: Hollie McKay
 newssource: Fox News
-newsurl: http://www.foxnews.com/story/0,2933,521872,00.html
+newsurl: https://www.foxnews.com/story/0,2933,521872,00.html
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI' Fans Launch Save Jorja Fox Campaign"
 newsreporter: Staff
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com
+newsurl: https://www.ew.com
 
 ---
 

@@ -11,7 +11,7 @@ tags: ["2013"]
 newstitle: "FOXY LADY MOVES ON  "
 newsreporter: Liz Smith
 newssource: New York Post
-newsurl: http://www.nypost.com/seven/12022007/gossip/liz/foxy\_lady\_moves\_on\_670812.htm?page=0
+newsurl: https://www.nypost.com/seven/12022007/gossip/liz/foxy\_lady\_moves\_on\_670812.htm?page=0
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "The menu? Food for thought  "
 newsreporter: Staff
 newssource: Calendarlive.com
-newsurl: http://Calendarlive.com
+newsurl: https://Calendarlive.com
 
 ---
 

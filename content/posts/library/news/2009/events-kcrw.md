@@ -10,7 +10,7 @@ permalink: /news/2009/:title/
 newstitle: "Jorja Fox is our Guest DJ  "
 newsreporter: RR
 newssource: Music News & Events on KCRW
-newsurl: http://kcrwmusicnews.vox.com/library/post/jorja-fox-is-our-guest-dj.html
+newsurl: https://kcrwmusicnews.vox.com/library/post/jorja-fox-is-our-guest-dj.html
 
 ---
 

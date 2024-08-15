@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "SHOOTING STARS: CSI returns to Vegas  "
 newsreporter: Staff
 newssource: Las Vegas Review-Journal
-newsurl: http://www.reviewjournal.com
+newsurl: https://www.reviewjournal.com
 
 ---
 

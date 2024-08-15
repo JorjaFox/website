@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI' outshines stars"
 newsreporter: Doug Elfman
 newssource: Chicago Sun-Times
-newsurl: http://www.suntimes.com
+newsurl: https://www.suntimes.com
 
 ---
 

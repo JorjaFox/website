@@ -10,7 +10,7 @@ tags: ["2010"]
 newstitle: "The Big Tease: Scoop on 'House,' 'NCIS,' 'Bones' and More!  "
 newsreporter: Matt Webb Mitovich
 newssource: Fancast
-newsurl: http://www.fancast.com/blogs/2010/tv-news/the-big-tease-scoop-on-house-ncis-bones-and-more/
+newsurl: https://www.fancast.com/blogs/2010/tv-news/the-big-tease-scoop-on-house-ncis-bones-and-more/
 
 ---
 

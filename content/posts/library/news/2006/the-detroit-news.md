@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "'CSI' faces competition with love  "
 newsreporter: Staff
 newssource: The Detroit News
-newsurl: http://www.detroitnews.com/
+newsurl: https://www.detroitnews.com/
 
 ---
 

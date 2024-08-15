@@ -67,7 +67,7 @@ and sara has always feared rejection more than just about anything, especially w
 
 so she consents to the divorce, even though it breaks her heart to do so. she knows she’ll always love him and that she’ll never love anyone else again, but she figures she has no choice but to accept the status quo and soldier on.
 
-she copes by throwing herself into her work more than ever before, but, as we see throughout [seasons fourteen](http://addictedtostorytelling.tumblr.com/post/122197654026/a-gsr-shippers-guide-to-the-galaxy-season) and [fifteen](http://addictedtostorytelling.tumblr.com/post/129711329361/a-gsr-shippers-guide-to-the-galaxy-season) after the divorce, she is still very much in love with grissom and misses him intensely.
+she copes by throwing herself into her work more than ever before, but, as we see throughout [seasons fourteen](https://addictedtostorytelling.tumblr.com/post/122197654026/a-gsr-shippers-guide-to-the-galaxy-season) and [fifteen](https://addictedtostorytelling.tumblr.com/post/129711329361/a-gsr-shippers-guide-to-the-galaxy-season) after the divorce, she is still very much in love with grissom and misses him intensely.
 
 in the meanwhile, grissom “copes” with the divorce by joining a sea shepherd “ocean peace” organization, which is originally what sara wanted him to run away with her to do in season nine. he names his boat after a character in a book they’ve both always loved. he thinks about her all the time, but he tries his best to stay out of her life because he doesn’t want to hinder her in any way; he just wants her to be happy.
 

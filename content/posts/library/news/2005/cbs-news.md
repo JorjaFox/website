@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Dissecting CSIs Success Story"
 newsreporter: Staff
 newssource: CBS News
-newsurl: http://www.cbsnews.com
+newsurl: https://www.cbsnews.com
 
 ---
 [...]

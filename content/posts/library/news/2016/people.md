@@ -8,7 +8,7 @@ categories: ["Articles", "News"]
 newstitle: "Don't Forget: 15 Things You Didn't Know About Memento, 15 Years Later"
 newsreporter: "Drew Mackie"
 newssource: "People"
-newsurl: http://www.people.com/article/memento-movie-trivia
+newsurl: https://www.people.com/article/memento-movie-trivia
 
 ---
 

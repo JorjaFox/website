@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "CBS Press Release"
 newsreporter: Staff
 newssource: The Futon Critic
-newsurl: http://www.thefutoncritic.com
+newsurl: https://www.thefutoncritic.com
 
 ---
 CSI STARS AND PRODUCERS TALK ABOUT THE EXPLOSIVE TWO-HOUR SEASON FINALE OF "CSI: CRIME SCENE INVESTIGATION," AND ABOUT WORKING WITH DIRECTOR QUENTIN TARANTINO

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CSI actors fired for breach of contract"
 newsreporter: Staff
 newssource: The Mercury News
-newsurl: http://www.mercurynews.com/
+newsurl: https://www.mercurynews.com/
 
 ---
 

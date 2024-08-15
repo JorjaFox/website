@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: "5 things we learned at the 'CSI' farewell salute"
 newsreporter: Mary Sollosi
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute
+newsurl: https://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute
 
 ---
 

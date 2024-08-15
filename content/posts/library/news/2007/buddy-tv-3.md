@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "More on Jorja Fox's Possible Exit from CSI"
 newsreporter: Staff
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214.aspx
+newsurl: https://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214.aspx
 
 ---
 

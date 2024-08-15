@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "CSI FANS ATTEMPT TO BLOCK FOX'S DEPARTURE"
 newsreporter: Staff
 newssource: Contact Music
-newsurl: http://www.contactmusic.com/
+newsurl: https://www.contactmusic.com/
 
 ---
 

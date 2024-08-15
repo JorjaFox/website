@@ -10,7 +10,7 @@ tags: ["2005"]
 newstitle: "Esprite de Corpse"
 newsreporter: Staff
 newssource: The Globe and Mail
-newsurl: http://www.theglobeandmail.com
+newsurl: https://www.theglobeandmail.com
 
 ---
 [...]

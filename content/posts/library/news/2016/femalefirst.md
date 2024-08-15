@@ -8,7 +8,7 @@ categories: ["Articles", "News"]
 newstitle: "'My empathy and compassion for the human condition came first, and then it expanded'"
 newsreporter: "Lucy Moore"
 newssource: "FemaleFirst"
-newsurl: http://www.femalefirst.co.uk/vegan/jorja-fox-vegan-peta-958255.html
+newsurl: https://www.femalefirst.co.uk/vegan/jorja-fox-vegan-peta-958255.html
 
 ---
 

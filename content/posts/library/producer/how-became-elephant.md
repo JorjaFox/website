@@ -13,4 +13,4 @@ How I Became An Elephant is more than just a film. It's one girl's story... whic
 
 ## See Also
 
-* [Official Website](http://www.howibecameanelephant.com)
+* [Official Website](https://www.howibecameanelephant.com)

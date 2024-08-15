@@ -10,7 +10,7 @@ permalink: /news/2009/:title/
 newstitle: "Jorja On Our Mind  "
 newsreporter: Megan Walsh-Boyle
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com
+newsurl: https://www.tvguidemagazine.com
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Is Jorja Fox Leaving CSI?!"
 newsreporter: Staff
 newssource: Associated Content
-newsurl: http://www.associatedcontent.com/
+newsurl: https://www.associatedcontent.com/
 
 ---
 

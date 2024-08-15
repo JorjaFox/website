@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: A Fox with Moxie!
 newsreporter: Daniel R. Coleridge
 newssource: TVGuide
-newsurl: http://tvguide.com
+newsurl: https://tvguide.com
 
 ---
 

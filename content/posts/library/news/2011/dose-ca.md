@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Jorja Fox is Once Again a CSI Series Regular. You Mean She Wasn't Already?  "
 newsreporter: Kat Angus, Dose.ca
 newssource: Dose.ca
-newsurl: http://www.dose.ca/Jorja+Once+Again+Series+Regular+Mean+Wasn+Already/5131564/story.html
+newsurl: https://www.dose.ca/Jorja+Once+Again+Series+Regular+Mean+Wasn+Already/5131564/story.html
 
 ---
 

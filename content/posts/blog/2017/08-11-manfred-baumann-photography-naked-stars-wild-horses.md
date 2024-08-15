@@ -22,4 +22,4 @@ He met her photographing for a magazine and while he does photograph her for hea
 Whenever there are great waves, we are there too"; CSI actress and surfer Jorja Fox usually puts him "where they are."
 {{< /blockquote >}}
 
-You can read the original article on Die Presse -- [Fotografie: Nackte, Stars und wilde Pferde](http://diepresse.com/home/leben/mensch/5253828/Fotografie_Nackte-Stars-und-wilde-Pferde) or the (bad) translation on the Library -- [Photography: Naked, stars and wild horses](https://jorjafox.net/library/news/2017/diepresse/).
+You can read the original article on Die Presse -- [Fotografie: Nackte, Stars und wilde Pferde](https://diepresse.com/home/leben/mensch/5253828/Fotografie_Nackte-Stars-und-wilde-Pferde) or the (bad) translation on the Library -- [Photography: Naked, stars and wild horses](https://jorjafox.net/library/news/2017/diepresse/).

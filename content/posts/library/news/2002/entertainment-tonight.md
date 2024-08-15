@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: CSI Secrets
 newsreporter: Staff
 newssource: Entertainment Tonight
-newsurl: http://www.et.com/
+newsurl: https://www.et.com/
 
 ---
 

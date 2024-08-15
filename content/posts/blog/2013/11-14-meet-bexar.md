@@ -26,6 +26,6 @@ Bexar, pronounced 'Bear', is a total scruffy mutt. Part poodle, no doubt, but no
 "I actually spent the first months kind of pushing her away a bit and she did the same to me … Then all of a sudden, it flipped, and now I'm completely in love with her," Fox admits. "She's the coolest, little scruffy dog I ever knew."
 {{< /blockquote >}}
 
-Credit: [People Pets](http://www.peoplepets.com/people/pets/article/0,,20754984,00.html)
+Credit: [People Pets](https://www.peoplepets.com/people/pets/article/0,,20754984,00.html)
 
 Hey if that's what it takes to get Jorja on the front of People.com, I'll take it. Bexar is adorable and looks very cuddly!

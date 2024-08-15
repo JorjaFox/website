@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Crime Scene Stealer
 newsreporter: Deborah Starr Seibel
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

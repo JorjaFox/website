@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: Jorja Fox goes three for three with CSI
 newsreporter: Staff
 newssource: Canoe Jam! Showbiz
-newsurl: http://www.canoe.ca/
+newsurl: https://www.canoe.ca/
 
 ---
 Jorja Fox is on some kind of new career trajectory.

@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Local superdelegate reports from Democratic convention  "
 newsreporter: Jason Rae
 newssource: Leader-Telegram
-newsurl: http://www.leadertelegram.com/story-news_local.asp?id=BHJQ5EUUEQV
+newsurl: https://www.leadertelegram.com/story-news_local.asp?id=BHJQ5EUUEQV
 
 ---
 

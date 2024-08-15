@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "Jorja Fox Takes A Walk On The Wild Side  "
 newsreporter: Ulrica Wihlborg
 newssource: Sweden With Love
-newsurl: http://www.swedenwithlove.com/2013/11/jorja-fox-takes-a-walk-on-the-wild-side/
+newsurl: https://www.swedenwithlove.com/2013/11/jorja-fox-takes-a-walk-on-the-wild-side/
 
 ---
 

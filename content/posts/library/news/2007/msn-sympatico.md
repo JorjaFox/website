@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Jorja Fox spills the beans on what she thinks of William Petersen's replacement"
 newsreporter: Staff
 newssource: "MSN/Sympatico"
-newsurl: http://msn.com
+newsurl: https://msn.com
 
 ---
 

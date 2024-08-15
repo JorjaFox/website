@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: Jorja Fox and Archie Kayo Talk About "C.S.I." at the Premiere of "The Emperor's Club"
 newsreporter: Rebecca Murray
 newssource: About.com
-newsurl: http://movies.about.com/library/weekly/aa112102f.htm
+newsurl: https://movies.about.com/library/weekly/aa112102f.htm
 
 ---
 

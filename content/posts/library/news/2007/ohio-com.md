@@ -11,7 +11,7 @@ tags: ["2013"]
 newstitle: "Pop Quiz - Jorja Fox leaving CSI  "
 newsreporter: By Rich Heldenfels
 newssource: Ohio.com
-newsurl: http://www.ohio.com/
+newsurl: https://www.ohio.com/
 
 ---
 

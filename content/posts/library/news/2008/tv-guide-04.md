@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Oh No They Didn't!"
 newsreporter: Staff
 newssource: TV Guide Magazine
-newsurl: http://www.tvguide.com/Magazine/
+newsurl: https://www.tvguide.com/Magazine/
 
 ---
 

@@ -3,7 +3,7 @@ title: 'RTL.de - Germany'
 transcriber: David Masters
 layout: transcript
 date: 2007-11-01
-interviewurl: http://www.rtl.de/
+interviewurl: https://www.rtl.de/
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
 tags: [ "2007" ]

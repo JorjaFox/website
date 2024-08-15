@@ -2,7 +2,7 @@
 title: Radio Times
 transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://www.radiotimes.com
+interviewurl: https://www.radiotimes.com
 date: 2006-06-06
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]

@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Galapagos, a destination of stars  "
 newsreporter: Guayaquil
 newssource: El Comercio
-newsurl: http://www.elcomercio.com/entretenimiento/Galapagos-destino-estrellas_0_502149843.html
+newsurl: https://www.elcomercio.com/entretenimiento/Galapagos-destino-estrellas_0_502149843.html
 
 ---
 

@@ -10,7 +10,7 @@ permalink: /news/2009/:title/
 newstitle: "TV SPY SAYS  "
 newsreporter: Staff
 newssource: TV & Satellite week
-newsurl: http://whatsontv.co.uk/blogs/tvspy/various/in-the-latest-issue-of-tv-satellite-week-3/
+newsurl: https://whatsontv.co.uk/blogs/tvspy/various/in-the-latest-issue-of-tv-satellite-week-3/
 
 ---
 

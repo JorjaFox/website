@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: Who's Q&A
 newsreporter: Staff
 newssource: USA Today
-newsurl: http://www.usatoday.com/
+newsurl: https://www.usatoday.com/
 
 ---
 

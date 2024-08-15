@@ -9,7 +9,7 @@ permalink: /news/2002/:title/
 newstitle: "TV Gal Chats up 'Once and Again'"
 newsreporter: Staff
 newssource: TV Gal
-newsurl: http://tv.zap2it.com/
+newsurl: https://tv.zap2it.com/
 
 ---
 

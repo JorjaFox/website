@@ -10,7 +10,7 @@ tags: ["2009"]
 newstitle: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
 newsreporter: Staff
 newssource: AceShowBiz
-newsurl: http://www.aceshowbiz.com/news/view/00026009.html
+newsurl: https://www.aceshowbiz.com/news/view/00026009.html
 
 ---
 

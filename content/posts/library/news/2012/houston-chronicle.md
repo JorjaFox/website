@@ -10,7 +10,7 @@ tags: ["2012"]
 newstitle: "CSI's Jorja Fox Takes on the Circus Elephant Abusers  "
 newsreporter: PRWeb
 newssource: Houston Chronicle
-newsurl: http://www.chron.com/business/press-releases/article/CSI-s-Jorja-Fox-Takes-on-the-Circus-Elephant-3495060.php
+newsurl: https://www.chron.com/business/press-releases/article/CSI-s-Jorja-Fox-Takes-on-the-Circus-Elephant-3495060.php
 
 ---
 

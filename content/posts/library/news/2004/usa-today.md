@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "CBS sacks 2 stars in 'CSI' salary flap"
 newsreporter: Staff
 newssource: USA Today
-newsurl: http://www.usatoday.com
+newsurl: https://www.usatoday.com
 
 ---
 

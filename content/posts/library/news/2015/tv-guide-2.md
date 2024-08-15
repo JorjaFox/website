@@ -9,7 +9,7 @@ permalink: /news/2015/:title/
 newstitle: Final Investigation
 newsreporter: Michael Logan
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com/sneak-peek-2015-heroes-reborn/
+newsurl: https://www.tvguidemagazine.com/sneak-peek-2015-heroes-reborn/
 
 ---
 

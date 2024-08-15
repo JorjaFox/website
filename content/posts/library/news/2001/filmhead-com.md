@@ -9,7 +9,7 @@ tags: ["2001"]
 newstitle: Review
 newsreporter: Staff
 newssource: Filmhead
-newsurl: http://www.filmhead.com/reviews/2001/memento.html
+newsurl: https://www.filmhead.com/reviews/2001/memento.html
 
 ---
 [...]

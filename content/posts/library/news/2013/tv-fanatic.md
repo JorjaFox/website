@@ -10,7 +10,7 @@ tags: ["2013"]
 newstitle: "'We're number one in the world'  "
 newsreporter: Jim Halterman
 newssource: TV Fanatic
-newsurl: http://www.tvfanatic.com/2013/05/csi-exclusive-elisabeth-harnois-on-season-13-finale-morgan-under/
+newsurl: https://www.tvfanatic.com/2013/05/csi-exclusive-elisabeth-harnois-on-season-13-finale-morgan-under/
 
 ---
 

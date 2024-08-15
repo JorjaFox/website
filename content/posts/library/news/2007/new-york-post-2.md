@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "'CSI'S' SARA SIDLE SURVIVES"
 newsreporter: New York Post
 newssource: New York Post
-newsurl: http://www.nypost.com
+newsurl: https://www.nypost.com
 
 ---
 

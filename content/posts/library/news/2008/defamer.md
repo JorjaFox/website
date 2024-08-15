@@ -10,7 +10,7 @@ tags: ["2008"]
 newstitle: "Hollywood PrivacyWatch: Bruce Willis Man Enough To Pull Off Lavender"
 newsreporter: Seth
 newssource: Defamer
-newsurl: http://defamer.com/365361/bruce-willis-man-enough-to-pull-off-lavender
+newsurl: https://defamer.com/365361/bruce-willis-man-enough-to-pull-off-lavender
 
 ---
 

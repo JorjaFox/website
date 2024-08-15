@@ -10,7 +10,7 @@ tags: ["2007"]
 newstitle: "Grissom! Sara! Other stuff! It's the 'CSI' finale"
 newsreporter: Staff
 newssource: Chicago Tribune
-newsurl: http://featuresblogs.chicagotribune.com
+newsurl: https://featuresblogs.chicagotribune.com
 
 ---
 

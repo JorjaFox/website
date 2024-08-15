@@ -14,7 +14,7 @@ tags:
     - tv
 ---
 
-By all reports (thank you [Season Zero](http://season-zero.com)), _Chiefs_ starts filming their pilot on Sunday in Atlanta.
+By all reports (thank you [Season Zero](https://season-zero.com)), _Chiefs_ starts filming their pilot on Sunday in Atlanta.
 
 Let's take the time to wish Jorja, Carol, Liz, and everyone working on the show the best of luck. Remember, the last pilot Jorja filmed that didn't get picked up died a horrible, ugly death (_The True Story)_. So clearly she's good luck for shows.
 

@@ -9,7 +9,7 @@ permalink: /news/2004/:title/
 newstitle: "Fox, Eads stick together"
 newsreporter: Staff
 newssource: Northwest Herald
-newsurl: http://www.nwherald.com/
+newsurl: https://www.nwherald.com/
 
 ---
 

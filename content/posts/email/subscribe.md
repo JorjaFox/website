@@ -1,7 +1,7 @@
 ---
 title: Congratulations!
 date: '2024-08-14'
-layout: minimal
+layout: library
 ---
 
 {{< alert color="success" icon="fas fa-champagne-glasses" >}}

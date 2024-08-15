@@ -14,13 +14,13 @@ All content is located in the `/content/` folder and are separated into subdivis
 
 ### `/assets/`
 
-All javascripts, css, and images. this includes 'gallery' images.
+All javascript, css, and images. this includes 'gallery' images.
 
 ### `/data/`
 
 Formatted data (like a database).
 
-* `filmography.json’ - acting, writing, self, etc.
+* `filmography.json` - acting, writing, self, etc.
 * `/episodes/*` - All the episodes for the TV shows, with scores, excerpts, and production information.
 
 ### `/posts/`
@@ -62,7 +62,7 @@ When the `production` branch is updated, it will automatically push the code to 
 1. Create a new branch to work on based on `production`.
 2. Test locally: `npm run start`
 3. Validate all MD files: `npm run lint`
-4. Push branch to github
+4. Push branch to GitHub
 5. Open a PR to `production`
 
 A lead dev will review and merge.

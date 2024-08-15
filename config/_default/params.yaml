@@ -7,6 +7,7 @@ head:
 
 style:
   primary: "#107952"
+  secondary: "#34383C"
 
 navigation:
   logo: "logo.svg"

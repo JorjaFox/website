@@ -1,7 +1,7 @@
 ---
 title: We Can't Find Your Account
 date: '2024-08-14'
-layout: minimal
+layout: library
 ---
 
 {{< alert color="warning" icon="fas fa-triangle-exclamation" >}}

@@ -1,7 +1,7 @@
 ---
 title: Welcome Back!
 date: '2024-08-14'
-layout: minimal
+layout: library
 ---
 
 {{< alert color="info" icon="fas fa-hand-sparkles" >}}

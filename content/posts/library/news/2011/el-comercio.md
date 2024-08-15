@@ -32,4 +32,4 @@ Others, like in the case of Jorja Fox, request a tour of the offices of PNG in o
 
 [...]
 
-*Translation done with the help of [http://translate.google.com Google]*
+*Translation done with the help of [translate.google.com Google]*

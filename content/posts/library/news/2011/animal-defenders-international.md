@@ -22,7 +22,7 @@ The lions, who lived as many as 8 in a cage the size of a double bed, now have 8
 
 Says Jorja, "I hope you'll join me in supporting Operation Lion Ark. These majestic animals have been through so much and now through the compelling and daring acts of ADI, they are finally going to have a life of ease, dignity, and grace. We'd love for you to be a part of this amazing and unprecedented epic event."
 
-Visitors to two of Jorja's fan sites, **http://www.jorjaallaround.org** and **http://jorjafox.net**, felt the same way!
+Visitors to two of Jorja's fan sites, **jorjaallaround.org** and **jorjafox.net**, felt the same way!
 
 They combined efforts to raise money for Operation Lion Ark -- a generous $600! And both sites have further encouraged the adoption of the lions as a way to both bring in funding for their continued care, and to establish a positive bond between ADI supporters and these amazing creatures who care about giving these lions a wonderful future.
 

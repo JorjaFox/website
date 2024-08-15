@@ -26,4 +26,4 @@ Surf legends and present-day "surfer girls" set the stage and take the Gidget st
 
 [...]
 
-[http://www.MCOF.org www.MCOF.org]
+[www.MCOF.org www.MCOF.org]

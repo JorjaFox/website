@@ -5,7 +5,7 @@ categories: ["Filmography", "CSI Vegas"]
 tags: ["Television"]
 layout: actor
 slug: csi-vegas
-imdb: http://www.imdb.com/title/tt12887536/
+imdb: https://www.imdb.com/title/tt12887536/
 website: https://www.cbs.com/shows/csi-vegas/
 actorimage: /img/actors/csi-vegas.jpg
 episodelist: true

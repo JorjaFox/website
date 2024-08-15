@@ -28,7 +28,7 @@ Nick, who speaks fluent Spanish, is surprised when the locals claim the criminal
 
 While all this rankles the police, the evidence does not lie, and matters will only get worse as it appears the dead cop was shot by friendly fire.
 
-_This episode continues in [A Bullet Runs Through It (Part 2)](/library/recaps/csi/a-bullet-runs/through-it-part-2/)_
+_This episode continues in [A Bullet Runs Through It (Part 2)](/library/recaps/csi/a-bullet-runs-through-it-part-2/)_
 
 ## Review
 

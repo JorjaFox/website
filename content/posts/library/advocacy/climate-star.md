@@ -5,7 +5,7 @@ layout: advocacy
 categories: ["Advocacy"]
 tags:
   - Environmentalism
-website: http://www.ClimateStar.org
+website: https://www.ClimateStar.org
 ---
 
 The following is a text only reprint of an ad done by Jorja Fox for Climate Star.

@@ -9,7 +9,7 @@ categories: ["Interviews"]
 tags: [ "2015" ]
 ---
 
-## On the Set of 'CSI'! All the Scoop on the Series Finale
+## On the Set of 'CSI'! All the Scoop on the Series Finale
 
 *'Crime Watch Daily' host Matt Doran was the perfect 'Extra' special correspondent to stop by the 'CSI' set to get the scoop on the series finale. Watch!
 

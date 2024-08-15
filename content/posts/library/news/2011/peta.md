@@ -20,4 +20,4 @@ She even got things cooking in the kitchen, helping the chefs with the evening's
 
 Jorja went vegetarian years ago-halfway through a sandwich. "I was having a meatball sub one day in Brooklyn, and it just clicked," she explains. "I was in the middle of that sandwich, and I put it down, and I never had meat again."
 
-"CSI" fans: Follow Jorja's advice and do some sleuthing into the [http://www.meat.org/ meat industry by clicking here].
+"CSI" fans: Follow Jorja's advice and do some sleuthing into the [www.meat.org/ meat industry by clicking here].

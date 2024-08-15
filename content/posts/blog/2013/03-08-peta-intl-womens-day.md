@@ -26,7 +26,7 @@ PETA has been proud to work with many powerful women of every age, race, and sex
 
 **9. Ending cruelty _and_ sexism? Jorja Fox is on the case.**
 
-{{< figure src="/img/blog/2013/5342.AdJorjaFox.jpg" title="Jorja Fox asking us to investigate vegetarianism" attr="PETA" attrlink="http://www.peta.org/b/thepetafiles/archive/2013/03/08/international-womens-day-powerful-women-peta.aspx" >}}
+{{< figure src="/img/blog/2013/5342.AdJorjaFox.jpg" title="Jorja Fox asking us to investigate vegetarianism" attr="PETA" attrlink="https://www.peta.org/b/thepetafiles/archive/2013/03/08/international-womens-day-powerful-women-peta.aspx" >}}
 {{< /blockquote >}}
 
 Credit: [PETA](https://www.peta.org/b/thepetafiles/archive/2013/03/08/international-womens-day-powerful-women-peta.aspx)

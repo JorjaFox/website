@@ -13,11 +13,11 @@ newsurl: https://www.afterellen.com/
 
 ---
 
-**1996 saw an "explosion" of lesbians on TV compared to previous years: we were introduced to **lesbian twenty-something Rhonda Roth on the new (and short-lived) series *[http://www.afterellen.com/TV/relativity.html Relativity]*, Paul's sister came out on *Mad About You*, Roseanne's mom came out on *Roseanne*, lesbian Officer Abby Sullivan joined *NYPD Blue*-and Dr. Maggie Doyle became the first lesbian to join the staff of the hit NBC series *[http://www.afterellen.com/TV/er.html ER]*, then in its third season.
+**1996 saw an "explosion" of lesbians on TV compared to previous years: we were introduced to **lesbian twenty-something Rhonda Roth on the new (and short-lived) series *[www.afterellen.com/TV/relativity.html Relativity]*, Paul's sister came out on *Mad About You*, Roseanne's mom came out on *Roseanne*, lesbian Officer Abby Sullivan joined *NYPD Blue*-and Dr. Maggie Doyle became the first lesbian to join the staff of the hit NBC series *[www.afterellen.com/TV/er.html ER]*, then in its third season.
 
 Doyle (played by Jorja Fox, currently on *CSI*) is a new intern in the ER, a vegetarian, street-smart daughter of a cop with a red BMW and no-bullshit attitude. Over the next three seasons, her extreme self-confidence and willingness to challenge authority occasionally get her into trouble at work, but her passion and willingness to help others wins her friends, too. In particular, Doyle and fellow resident John Carter develop a friendly and mutually supportive working relationship, and she also befriends (heterosexual) HIV+ nurse Jeanie Boulet.
 
-**Doyle's passion, activism, and willingness to work around the system are established early on. **In the first part of the third season, Doyle alerts law enforcement to a pregnant woman who tried to drink her baby to death, and when chastised by [http://www.afterellen.com/TV/sandylopez.html Dr. Weaver] for doing so, retorts "How about this? If I get to testify against the bitch, I'll do it on my own time."
+**Doyle's passion, activism, and willingness to work around the system are established early on. **In the first part of the third season, Doyle alerts law enforcement to a pregnant woman who tried to drink her baby to death, and when chastised by [www.afterellen.com/TV/sandylopez.html Dr. Weaver] for doing so, retorts "How about this? If I get to testify against the bitch, I'll do it on my own time."
 
 In another episode, Doyle secretly uses the office pool to buy a bus ticket for an abused woman trying to escape from her husband. She also publicly supports Jeanie's decision to come out as HIV+ to the rest of the hospital staff, and when Jeanie is fired by the hospital in the fourth season, Doyle puts her in touch with a Gay/Lesbian Defense Fund lawyer and urges her to sue the hospital for discrimination.
 
@@ -71,7 +71,7 @@ And while it may be that for many lesbians, their sexuality is *not* in fact rel
 
 To make her a full cast member would have required devoting more screen time to her personal life and to the lesbian feminist issues she cares about, and while the writers at *ER* *have* pushed the envelope in terms of lesbian representation more than once, they are still products of their ratings-ruled environment in which lesbian feminists don't generate huge audience response. And if there's anything more threatening than a lesbian feminist on TV, it's a lesbian feminist in a happy relationship.
 
-There have been other complex, realistic and even feminist lesbian characters on network television (including the current lesbian characters on *ER* and *[http://www.afterellen.com/TV/buffy.html Buffy]), *and unlike Doyle, they are actually allowed to have on-screen relationships. But none have embodied quite the same activist spirit as Doyle, the same desire to take on the system; as long as American culture retains its sexist and homophobic roots, this may remain true for awhile to come.
+There have been other complex, realistic and even feminist lesbian characters on network television (including the current lesbian characters on *ER* and *[www.afterellen.com/TV/buffy.html Buffy]), *and unlike Doyle, they are actually allowed to have on-screen relationships. But none have embodied quite the same activist spirit as Doyle, the same desire to take on the system; as long as American culture retains its sexist and homophobic roots, this may remain true for awhile to come.
 
 &nbsp;
 

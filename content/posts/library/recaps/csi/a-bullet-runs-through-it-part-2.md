@@ -16,7 +16,7 @@ prodnum: 608
 
 ## Synopsis
 
-_This episode continues from [A Bullet Runs Through It (Part 1)](/library/recaps/csi/a-bullet-runs/through-it-part-1/)_
+_This episode continues from [A Bullet Runs Through It (Part 1)](/library/recaps/csi/a-bullet-runs-through-it-part-1/)_
 
 In the conclusion of "A Bullet Runs Through It (Part 1)", the detectives and CSI follow the questions of who shot officer Bell, who shot the young boy on his bicycle, and why would a car open fire on a police squad car.
 

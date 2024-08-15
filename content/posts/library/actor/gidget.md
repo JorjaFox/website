@@ -5,7 +5,7 @@ categories: ["Filmography"]
 tags: ["movies"]
 slug: "gidget"
 genre: "Documentary"
-imdb: http://www.imdb.com/title/tt1602011/
+imdb: https://www.imdb.com/title/tt1602011/
 actorimage: /img/actors/gidget.jpg
 ---
 
@@ -13,6 +13,6 @@ Narrated by Jorja Fox and produced by Brian L. Gillogly and Robert Masters, ACCI
 
 ## Fundraiser (05 Sept. 2008)
 
-Surfrider West LA/Malibu Chapter and the Malibu Surfing Association celebrated Gidget's story and the history of Malibu surfing with a special screening at Duke's Malibu. Attendees met Kathy 'Gidget' Kohner Zuckerman and other legends of the surf community, participated in a silent auction of artwork from top Malibu and LA artists, and attended an after party with live music.
+Surfrider West LA/Malibu Chapter and the Malibu Surfing Association celebrated Gidget's story and the history of Malibu surfing with a special screening at Duke's Malibu. Attendees met Kathy 'Gidget' Kohner Zuckerman and other legends of the surf community, participated in a silent auction of artwork from top Malibu and LA artists, and attended an after party with live music.
 
 * [Event Website](https://surfriderwlam.org/cleanthebu/?p=125)

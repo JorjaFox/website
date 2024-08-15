@@ -17,7 +17,7 @@ tags:
 
 Both the longer and shorter videos show it.
 
-{{< blockquote source="http://tvline.com/2015/09/14/csi-series-finale-trailer-video-sidle-grissom-reunion/" by="TV Line - CSI Series Finale Trailer Touts Sidle and Grissom's Emotional Reunion" >}}
+{{< blockquote source="https://tvline.com/2015/09/14/csi-series-finale-trailer-video-sidle-grissom-reunion/" by="TV Line - CSI Series Finale Trailer Touts Sidle and Grissom's Emotional Reunion" >}}
 The first teaser trailer for CSI‘s two-hour finale event (CBS, Sept. 27) promises to tie up any loose ends from the procedural’s 15-season run — including Sara Sidle and Gil Grissom’s uncertain romantic future.
 
 “Do you love him?” Lady Heather (guest-star Melinda Clarke) asks Sidle, to which Sidle tearfully replies, “I do.” That exchange, coupled with a shot of Sidle approaching Grissom on a boat, should offer suffering fans quite a bit of hope.

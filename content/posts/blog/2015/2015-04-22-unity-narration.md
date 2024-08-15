@@ -27,4 +27,4 @@ Monson also made "Earthlings" which looks at humanity's relationship with other 
 
 "Unity" will be distributed by SpectiCast to around 1150 screens worldwide, starting Aug. 12, 2015.
 
-For more information visit [http://unitythemovement.com/](https://unitythemovement.com/)
+For more information visit [unitythemovement.com/](https://unitythemovement.com/)

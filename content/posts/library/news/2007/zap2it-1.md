@@ -20,6 +20,6 @@ newsurl: https://blog.zap2it.com
 
 I with you guys. I'm upset that Jorja Fox is leaving CSI. In fact, I'm not happy at all. So as promised, here's the link of a campaign fans have started to keep her on the show.
 
-http://www.dollarforsense.com/index.html
+dollarforsense.com/index.html
 
 [...]

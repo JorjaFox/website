@@ -16,7 +16,7 @@ tags:
 
 The most asked question before and since the finale aired was 'Why did Grissom and Sara divorce anyway?' I'm not a Tumblr person, but I was linked to this beautiful explanation:
 
-{{< blockquote by="AJ -- Addicted to Storytelling" source="http://addictedtostorytelling.tumblr.com/post/130203512466/i-dont-get-it-though-if-they-loved-each-other-so" >}}
+{{< blockquote by="AJ -- Addicted to Storytelling" source="https://addictedtostorytelling.tumblr.com/post/130203512466/i-dont-get-it-though-if-they-loved-each-other-so" >}}
 **Anonymous asked: I don't get it though if they loved each other so much why did they divorce**
 
 hey, anon!

@@ -6,7 +6,7 @@ categories: ["Advocacy"]
 tags:
  - "Animal Rights"
  - humanity
-website: http://www.animalacres.org
+website: https://www.animalacres.org
 ---
 
 Animal Acres is a farmed animal sanctuary and compassionate living center located just 45 minutes from Los Angeles. Animal Acres works to promote compassionate living through its farmed animal rescue and refuge efforts, public education and outreach, and advocacy projects to prevent cruelty to farmed animals.

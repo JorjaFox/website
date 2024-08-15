@@ -3,7 +3,7 @@ title: PETA Vegetarian Thanksgiving
 date: 2006-11-01
 transcriber: David Masters
 layout: transcript
-interviewurl:  http://www.peta.com
+interviewurl: https://www.peta.com
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]
 tags: [Transcript, "2006", humanity, "Animal Rights"]

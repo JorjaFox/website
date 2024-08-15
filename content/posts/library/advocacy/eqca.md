@@ -4,7 +4,7 @@ author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: [Humanity]
-website: http://eqca.org
+website: https://eqca.org
 ---
 
 ## NO on H8!

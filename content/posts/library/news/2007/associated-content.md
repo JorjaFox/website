@@ -38,8 +38,4 @@ This season has seen Grissom both giddy about his lady love and completely freak
 
 Stay tunned.
 
-Sources:
-:http://popgurls.com/article_show.php3?id=661
-:http://www.tvguide.com
-:http://www.watchingcsi.com
-:http://featuresblogs.chicagotribune.com
+[...]

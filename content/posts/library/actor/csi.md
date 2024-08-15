@@ -5,7 +5,7 @@ categories: ["Filmography", "CSI"]
 tags: ["Television"]
 layout: actor
 slug: csi
-imdb: http://www.imdb.com/title/tt0247082/
+imdb: https://www.imdb.com/title/tt0247082/
 website: https://www.cbs.com/shows/csi/
 actorimage: /img/actors/csi.jpg
 episodelist: true

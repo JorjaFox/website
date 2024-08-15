@@ -16,7 +16,7 @@ prodnum: 604
 
 ## Synopsis
 
-A fairly straightforward case, in so far as they go. After dumping they body of Ty Bently in someone's yard, a dozen of unwashed cult members retreat to their compound and eleven of the twelve die by ritual suicide (spiked vodka) to ascend via the mother ship during the [http://comets.amsmeteors.org/meteors/showers/orionidhistory.html Orionid meteor shower].
+A fairly straightforward case, in so far as they go. After dumping they body of Ty Bently in someone's yard, a dozen of unwashed cult members retreat to their compound and eleven of the twelve die by ritual suicide (spiked vodka) to ascend via the mother ship during the [comets.amsmeteors.org/meteors/showers/orionidhistory.html Orionid meteor shower].
 
 The cult members broke into the house by slashing the screen door, and proceeded to raid the fridge for junk food. They dumped Ty in the hard, who had numerous broken bones, and killed the dog with the same Ketamine they took later during the peak of the meteor shower. The cult was run by Joseph Diamond, who made a habit of luring impressionable young college students to his side, using sex with the woman (and possibly the men). The FBI had been keeping mild tabs on him for years, but generally he'd drug the kids and steal their money (which they'd written home for) and they'd wake up broke with a hangover.
 

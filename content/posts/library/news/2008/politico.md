@@ -26,4 +26,4 @@ Rumor has it Halperin was so popular people kept asking questions 40 minutes aft
 
 "There's a new group in town, and Hollywood is excited to learn about it," says a happy Steve Ross, A&A's executive director.
 
-Here are some [http://web.beimages.net/link/11thltsllnc13/ images] from the event. (Oh look is Scott Wolfe and his "Real World" wife!)
+Here are some [web.beimages.net/link/11thltsllnc13/ images] from the event. (Oh look is Scott Wolfe and his "Real World" wife!)

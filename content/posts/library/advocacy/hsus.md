@@ -5,7 +5,7 @@ layout: advocacy
 categories: ["Advocacy"]
 tags:
   - "Animal Rights"
-website: http://www.humanesociety.org/
+website: https://www.humanesociety.org/
 ---
 
 The Humane Society of the United States is the nation's largest and most effective animal protection organization -- backed by 11 million Americans, or one in every 28. Established in 1954, The HSUS seeks a humane and sustainable world for all animals -- a world that will also benefit people. We are America's mainstream force against cruelty, exploitation and neglect, as well as the most trusted voice extolling the human-animal bond.

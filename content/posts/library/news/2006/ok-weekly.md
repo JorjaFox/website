@@ -10,7 +10,7 @@ tags: ["2006"]
 newstitle: "Foxy Lady"
 newsreporter: Staff
 newssource: OK Weekly
-newsurl:  http://okmagazine.com/
+newsurl: https://okmagazine.com/
 
 ---
 

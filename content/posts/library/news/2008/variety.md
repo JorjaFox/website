@@ -90,4 +90,4 @@ Cake. I like to eat cake for breakfast. I strongly recommend it.
 
 Johnny Depp. Still is. Guess I'm loyal.
 
-For more on "Stay Together: The Life and Music of Dusty Springfield," [http://www.stayforeverdusty.com/ click here]
+For more on "Stay Together: The Life and Music of Dusty Springfield," [www.stayforeverdusty.com/ click here]

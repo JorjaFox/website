@@ -5,7 +5,7 @@ layout: advocacy
 categories: ["Advocacy"]
 tags:
   - "Animal Rights"
-website: http://www.peta.org/
+website: https://www.peta.org/
 ---
 
 PETA (People for the Ethical Treatment of Animals) is the largest animal rights organization in the world.

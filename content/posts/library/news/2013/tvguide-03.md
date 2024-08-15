@@ -26,7 +26,7 @@ Meanwhile, both Nick Stokes (George Eads) and Ray Langston (Laurence Fishburne) 
 
 The case may also be just the thing to bring the team together and feeling like a family again. "We were out of our rhythm a bit last year," says Eads. "We needed to go back to the garage and find what inspired us, and there's some good stuff with what's happening on the show now."
 
-That starts with the return of Fox, whose departure two seasons ago "felt like we lost our lead guitarist," Eads adds. So, as *CSI* tunes up for its 10th season, **TV GUIDE MAGAZINE** sat down with Fox and Helgenberger to ask them questions send in by fans on [http://tvguidemagazine.com tvguidemagazine.com], and found out how the team is getting its mojo back.
+That starts with the return of Fox, whose departure two seasons ago "felt like we lost our lead guitarist," Eads adds. So, as *CSI* tunes up for its 10th season, **TV GUIDE MAGAZINE** sat down with Fox and Helgenberger to ask them questions send in by fans on [tvguidemagazine.com tvguidemagazine.com], and found out how the team is getting its mojo back.
 
 - - -
 

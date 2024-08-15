@@ -3,9 +3,9 @@ title: Macy's Passport Fund
 author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
-tags: 
+tags:
   - Health
-website: http://passportfund.macysinc.com/
+website: https://passportfund.macysinc.com/
 ---
 
 Macy’s Passport Fund supports agencies providing HIV/AIDS programming in certain counties with an operating Macy’s store location.

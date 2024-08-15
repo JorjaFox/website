@@ -9,12 +9,12 @@ actions:
     title: "About Jorja"
     weight: 1
   twitter:
-    url: "https://twitter.com/jorjafoxofficia"
+    url: "https://twitter.com/jorjafoxofficia/"
     icon: "fab square-x-twitter"
     label: "Follow Jorja on X/Twitter"
     weight: 2
   facebook:
-    url: "https://www.facebook.com/JorjaFoxworldwide"
+    url: "https://www.facebook.com/JorjaFoxworldwide/"
     icon: "fab facebook"
     label: "Follow Jorja on Facebook"
     weight: 3

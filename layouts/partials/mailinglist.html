@@ -1,5 +1,6 @@
 {{- $submitbutton := .params.submitbutton -}}
 {{- $listname := .params.listname -}}
+{{- $display := .params.display -}}
 
 <form method="post" action="https://scripts.dreamhost.com/add_list.cgi">
 
@@ -19,12 +20,19 @@
     <input type="hidden" name="req_address2" value="1" input name="email" />
 </div>
 
-<div class="button">
-    <input type="submit" name="submit" value="{{ $submitbutton }}">
-</div>
+{{ if eq $display "unsubscribe" }}
+	<!-- Optional Unsubscribe Button -->
+	<div class="button">
+    	<input type="submit" name="unsub" value="Remove me from the list">
+	</div>
+{{ else }}
+	<div class="button">
+ 	   <input type="submit" name="submit" value="{{ $submitbutton }}">
+	</div>
 
-<!-- Optional Unsubscribe Button -->
-<div class="button">
-    <input type="submit" name="unsub" value="Remove from list">
-</div>
+	<!-- Optional Unsubscribe Button -->
+	<div class="button">
+    	<input type="submit" name="unsub" value="Remove from list">
+	</div>
+{{ end }}
 </form>

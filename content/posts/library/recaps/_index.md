@@ -21,5 +21,3 @@ The following shows are currently recapped here:
 | {{< fas microscope >}} {{< link "/library/recaps/csi/" >}}CSI: Crime Scene Investigation{{< /link >}} {{< recapcount show="csi" >}} |
 | {{< fas dna >}} {{< link "/library/recaps/csi-vegas/" >}}CSI: Vegas{{< /link >}} {{< recapcount show="csi-vegas" >}} |
 {{< /table >}}
-
-

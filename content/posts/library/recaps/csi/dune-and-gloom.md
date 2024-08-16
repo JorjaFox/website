@@ -40,8 +40,8 @@ When Russell tells Sara about his cousin, who became a paranoid schizophrenic, s
 
 ## Quotes
 
-**Morgan Brody** I've had dates end that way. Argue, pull over, slam the door and sulk home to watch _The Notebook_.\
-**Sara Sidle** _The Notebook_, really?
+**Morgan Brody:** I've had dates end that way. Argue, pull over, slam the door and sulk home to watch *The Notebook*.\
+**Sara Sidle:** *The Notebook*, really?
 
 - - -
 

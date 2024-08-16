@@ -12,7 +12,6 @@ tags: ["index"]
 
 {{< button color="success" href="/library/politics/">}}See Also: Politics{{< /button >}}
 
-
 ### Supported Groups
 
 The following are groups that Jorja Fox supports and has done work for:

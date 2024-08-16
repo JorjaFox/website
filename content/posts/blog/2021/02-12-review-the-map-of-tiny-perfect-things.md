@@ -21,7 +21,6 @@ The movie _The Map of Tiny Perfect Things_ has been released on Amazon.
 * [Detailed Review](https://jorjafox.net/library/actor/map-of-tiny-perfect-things/)
 * {{< icon fas fa-star text-warning >}}{{< icon fas fa-star text-warning >}}{{< icon fas fa-star text-warning >}}{{< icon fas fa-star text-secondary >}}{{< icon fas fa-star text-secondary >}} (3 out of 5)
 
-
 The movie is based on the book of the same name and is about a young man (Mark) and a woman (Margaret) who both find themselves stuck in a 'Groundhog's Day' temporal loop, where they repeat the same day over and over. At first, each feels they're the only one, but when they finally meet they begin to share their common bond.
 
 As the two grow closer, they also find out (much like Bill Murray) that there is more to life than just having fun all day, and they start to use the time to become better versions of themselves. It takes Mark a little longer, and he eventually realizes that Margaret is still keeping parts of her life away from him.

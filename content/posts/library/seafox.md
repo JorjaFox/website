@@ -14,6 +14,7 @@ Seafox Productions is an independent film, television and theatre company based 
 
 * Jorja Fox - President
 * Renee Threatte - Chief Operating Officer
+
 ## Projects
 
 {{< filmography company="Seafox Productions" showtoc="false" >}}

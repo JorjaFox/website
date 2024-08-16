@@ -27,7 +27,7 @@ Yes, I think he's got a creative force in all the projects he's a part of. We we
 
 For me, it was the first time that people were really going to see my work. So I was scared senseless. On the night I got the job, I honestly almost drove to Mexico, because I was so terrified. I nearly told them I didn't want to do it. But it was very thrilling for me to work with people who were so talented. And a great honour.
 
-**And then you joined _The West Wing_ ...**
+**And then you joined *The West Wing* ...**
 
 *The West Wing* was one of the most special moments in my life. I never thought that someone like myself would get to be part of the political process. It was an election year in 2000 in the States, so I found myself in places in Washington DC, and I never imagined that would happen.
 

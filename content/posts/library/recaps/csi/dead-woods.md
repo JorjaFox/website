@@ -22,7 +22,7 @@ An autopsy and blood test of the exhumed body of the father shows he'd been drug
 
 Fogel claims innocence. He found in about Hannah while in prison and looked them up. He saw them packing to go camping and he talked to Cathy about letting him see Hannah, but she told him to go to hell. He touched the sleeping bags then, but did not hurt anyone.
 
-Abby IDs a hunter, Donald Wraith, as the man who shot her parents, but when the CSIs go to arrest him, Donald is dead. Shot in the head the same way the Fishers had been. Randy Pruitt, president of Wraith's hunting club, had killed him, and his prints match the unknowns found in the Fishers' tent. Randy and Donald wanted to rape the wife, so the drugged the husband but she fought back and Donald killed her. He and Randy had done this before.
+Abby IDs a hunter, Donald Wraith, as the man who shot her parents, but when the CSIs go to arrest him, Donald is dead. Shot in the head the same way the Fishers had been. Randy Pruitt, president of Wraith's hunting club, had killed him, and his prints match the unknowns found in the Fishers' tent. Randy and Donald wanted to rape the wife, so they drugged the husband, but she fought back and Donald killed her. He and Randy had done this before.
 
 ## Review
 
@@ -57,7 +57,7 @@ Sara does not initially believe Abby, but after looking at the evidence, starts 
 - - -
 
 **Greg:** You look like your dad.\
-**Sara:** He used to read to me when I was a kid. *Charlotte's Web*, my favorite. Must have read it a hundred times.\
+**Sara:** He used to read to me when I was a kid. _Charlotte's Web_, my favorite. Must have read it a hundred times.\
 **Greg:** It's a nice memory.\
 **Sara:** I have a lot of nice memories of him. My mom too. They were toxic when they were together, though.\
 **Greg:** Your mom said your dad was abusive? Kill him in self defense?\

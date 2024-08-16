@@ -44,7 +44,6 @@ All the `*.md` files of pure content.
 * `/transcripts/` - interviews, online and off, sorted by year
 * `/writer/` - work done as a writer
 
-
 ## Installation
 
 * Checkout from Github

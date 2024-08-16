@@ -2,7 +2,7 @@
 title: Welcome, Fans of LeFox
 description: Since 1996, Fans of LeFox has collected and documented Jorja Fox's career from acting to advocacy and everything in-between.
 thumbnail:
-    url: /img/JorjaFox-com.jpg
+    url: /img/front-page/JorjaFox-com.jpg
 actions:
   about:
     url: "/faq/jorja/"

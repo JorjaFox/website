@@ -2,8 +2,6 @@
 title: Join our Mailing List
 date: '2024-08-14'
 layout: library
-aliases:
-  - /email/
 ---
 
 {{< alert color="info" icon="fas fa-truck-fast" >}}

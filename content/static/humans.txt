@@ -1,0 +1,16 @@
+Fans of LeFox is the best place to go if you're interested in Jorja Fox, as an actress, an advocate or a humanitarian. It's run by one tiny human, who doesn't even have unicorns, pandas or cookies to get her through the day.
+
+/* TEAM */
+	Mika Epstein
+	Contact: webmaster [at] jorjafox.net
+	From: Orange County, CA
+
+/* THANKS */
+	The millions of fans!
+
+/* SITE */
+	Language: English
+	Doctype: HTML5
+	IDE: VSCode
+	CMS: Hugo
+	Theme: HiNode

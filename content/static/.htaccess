@@ -1,0 +1,134 @@
+# Stop protected folders from being narked.
+ErrorDocument 401 /401.html
+
+# General Headers
+AddDefaultCharset UTF-8
+AcceptPathInfo Off
+
+# Tinfoil Hat Stuff
+Options +Includes
+Options +FollowSymLinks -Indexes
+
+## Security Section
+<IfModule mod_rewrite.c>
+    # SSL
+    RewriteEngine On
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    # ultimate hotlink protection
+    RewriteCond %{HTTP_REFERER} !^$
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteCond %{REQUEST_FILENAME} \.(gif|jpe?g?|png|svg)$           [NC]
+    RewriteCond %{HTTP_REFERER} !^https?://([^.]+\.)?jorjafox.net     [NC]
+    RewriteRule \.(gif|jpe?g?|png|svg)$                             - [F,NC,L]
+</IfModule>
+
+### Extra Security
+<IfModule mod_headers.c>
+    Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Content-Type-Options nosniff
+    Header always set Expect-CT "max-age=7776000, enforce"
+    Header set Access-Control-Allow-Origin "*"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+    Header add Content-Security-Policy "default-src 'self'; script-src 'self' https://*.google-analytics.com https://*.googletagmanager.com; style-src 'self' https://fonts.googleapis.com https://www.youtube.com; object-src 'none'; base-uri 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com; img-src 'self' data: https://*.imgix.net https://*.imagekit.io https://*.cloudinary.com https://i.vimeocdn.com https://i.ytimg.com https://*.google-analytics.com https://*.googletagmanager.com https://tile.openstreetmap.org; manifest-src 'self'; media-src 'self' "
+    Header set Permissions-Policy "geolocation=(); midi=(); notifications=(); push=(); sync-xhr=(); accelerometer=(); gyroscope=(); magnetometer=(); payment=(); camera=(); microphone=(); usb=(); xr=(); speaker=(self); vibrate=(); fullscreen=(self 'https://jorjafox.net');"
+</IfModule>
+
+## BEGIN EXPIRES
+<IfModule mod_expires.c>
+    <Filesmatch "\.(webp|jpeg|jpg|png|gif|ico|svg|swf|mov|mp3|mpeg|mp4|ogg|ogv|woff|woff2)$">
+        ExpiresActive on
+        ExpiresDefault "access 1 year"
+    </Filesmatch>
+
+    <Filesmatch "\.(css|js|ttf|eot|xml|html)$">
+        ExpiresActive on
+        ExpiresDefault "access 3 months"
+    </Filesmatch>
+
+    ExpiresDefault "access 2 days"
+</IfModule>
+## END EXPIRES
+
+## Gzip
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript text/javascript font/opentype font/truetype font/eot application/x-font-ttf
+</IfModule>
+## End Gzip
+
+# Massive Redirect Section!
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+    # RSS
+    Redirect 301 /feed/ /feed.xml
+
+    # Single Pages
+    Redirect 301 /terms_of_use/ /terms-of-use/
+    Redirect 301 /next-csi-episode/ /library/actor/csi/
+    Redirect 301 /library/biography/ /library/biographies/
+    Redirect 301 /library/categories/ /library/
+    Redirect 301 /library/faqs/ /faq/
+    Redirect 301 /library/recaps/csi/73_seconds/ /library/recaps/csi/73-seconds/
+    Redirect 301 /email/ /email/join/
+
+    Redirect 301 /library/actor/ww-episodes/ /library/recaps/west-wing/
+    Redirect 301 /library/actor/food-heart/ /library/actor/food-for-the-heart/
+    Redirect 301 /library/actor/how-make-cruelest-month/ /library/actor/how-to-make-cruelest-month/
+
+    Redirect 301 /library/interviews/2008/ausiello_tv/ /library/interviews/2008/ausiello-tv/
+    Redirect 301 /library/interviews/2010/adi_press_update__28_may_2010_/ /library/transcript/2010/adi-press-update/
+    Redirect 301 /library/interviews/2010/adi_rescue_diary-3/ /library/transcript/2010/adi-rescue-diary-3/
+    Redirect 301 /library/interviews/extra-tv-18-august-2015/ /library/transcript/2015/extra-tv/
+
+    Redirect 301 /library/self/the-test/ /library/transcript/2001/the-test/
+    Redirect 301 /library/transcript/2002/rise/ /library/transcript/2002/ri-se/
+    Redirect 301 /library/transcript/2002/channel5-uk/ /library/transcript/2002/channel-5-uk/
+    Redirect 301 /library/transcript/2003/i-love-70s/ /library/transcript/2003/i-love-the-70s/
+    Redirect 301 /library/transcript/2003/93.7-buzz/ /library/transcript/2003/93/
+    Redirect 301 /library/transcript/2003/earlyshow/ /library/transcript/2003/the-early-show/
+    Redirect 301 /library/transcript/2007/rtlde-1/ /library/transcript/2007/rtl-de-germany/
+    Redirect 301 /library/transcript/2007/the_early_show-1/ /library/transcript/2007/the-early-show/
+    Redirect 301 /library/transcript/2007/the_view/ /library/transcript/2007/the-view/
+    Redirect 301 /library/transcript/2008/ktla_morning_show /library/transcript/2008/ktla-morning-show
+    Redirect 301 /library/transcript/2008/access_hollywood/ /library/transcript/2008/access-hollywood/
+
+    # Large Sections
+    RedirectMatch 301 ^/(.*)\.md$ /$1
+    RedirectMatch 301 ^/(info|work)/(.*)$ /library/
+    RedirectMatch 301 ^/articles/(.*)$ /library/news
+    RedirectMatch 301 ^/wiki/(news|articles)/(.*)$ /library/news
+    RedirectMatch 301 ^/(about-notifications|feedback)(.*)$ /about/
+    RedirectMatch 301 ^/gallery/(.*)$ /faq/gallery/
+    RedirectMatch 301 ^/videos/(.*)$ /faq/gallery/
+    RedirectMatch 301 ^/wiki/(.*)$ /library/
+    RedirectMatch 301 ^/(csiwatch|mailman|updates)(.*)$ /email/join/
+    RedirectMatch 301 ^/Category:(.*)$ /library/
+
+    RedirectMatch 301 ^/library/recaps/csi/grissom-vs\.(.*)$ /library/recaps/csi/grissom-vs-volcano/
+    RedirectMatch 301 ^/library/interviews(.*)$ /library/transcript$1
+    RedirectMatch 301 ^/library/faq/(.*)$ /faq/$1
+    RedirectMatch 301 ^/library/acting(.*)$ /library/actor$1
+    RedirectMatch 301 ^/library/producing(.*)$ /library/producer$1
+
+    RedirectMatch 301 ^/library/transcript/2009/the_today_show(.*)$ /library/transcript/2009/the-today-show/
+    RedirectMatch 301 ^/library/transcript/lylapalooza(.*)$ /library/transcript/2015/lylapalooza/
+    RedirectMatch 301 ^/library/transcript/issues-with(.*)$ /library/transcript/2013/issues-with-jane-velez-mitchell/
+    RedirectMatch 301 ^/library/transcript/shark(.*)$ /library/transcript/2015/shark-allies/
+    RedirectMatch 301 ^/library/transcript/twitter(.*)$ /library/transcript/2014/twitter-live-chat/
+
+    # For fucks sake
+    Redirect 410 /postname
+    Redirect 410 /agora
+    Redirect 410 /ad-free
+    Redirect 410 /activity
+    Redirect 410 /achievements
+    Redirect 410 /comment-subscriptions
+    Redirect 410 /cdn-cgi
+    Redirect 410 /community
+    Redirect 410 /forums
+    Redirect 410 /formspring
+    Redirect 410 /2010/about-notifications/
+</IfModule>

@@ -29,7 +29,8 @@ Options +FollowSymLinks -Indexes
 <IfModule mod_headers.c>
     Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
     Header set X-XSS-Protection "1; mode=block"
-    Header set X-Content-Type-Options nosniff
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "DENY"
     Header always set Expect-CT "max-age=7776000, enforce"
     Header set Access-Control-Allow-Origin "*"
     Header set Referrer-Policy "strict-origin-when-cross-origin"

@@ -40,6 +40,10 @@
 
 <h2><a name="gallery">Gallery</a></h2>
 
+{{ if ne $caption false }}
+    <!-- NOTICE! THE FOLLOWING IMAGES ARE COPYRIGHT {{ $caption }}. FANS OF LEFOX MAKES NO CLAIM TO ANY OWNERSHIP. THEY ARE REPRODUCED HERE FOR INFORMATIONAL PURPOSES ONLY. -->
+{{ end }}
+
 <div class="card">
     <div class="card-body">
         <div class="row row-cols-1 row-cols-md-3 g-4">
@@ -67,3 +71,6 @@
     {{ end }}
 </div>
 
+{{ if ne $caption false }}
+    <!-- NOTICE! THE PREVIOUS IMAGES ARE COPYRIGHT {{ $caption }}. FANS OF LEFOX MAKES NO CLAIM TO ANY OWNERSHIP. THEY ARE REPRODUCED HERE FOR INFORMATIONAL PURPOSES ONLY. -->
+{{ end }}

@@ -1,11 +1,20 @@
-<div class="card">
-    <div class="card-body">
-        <p class="card-text">Transcript by {{ if .Params.transcriber }}{{ .Params.transcriber }}{{ else }}Anonymous{{ end }}</p>
-        <p class="card-text">Published: {{ .Date.Format "January 02, 2006" }}</p>
+<div class="toc toc-sidebar mb-5 my-md-0 mb-lg-5 p-3 text-body-secondary sticky-top">
+    <div class="card">
+        <div class="card-header">
+            &copy; {{.Title}}
+        </div>
+
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Transcriber: {{ if .Params.transcriber }}{{ .Params.transcriber }}{{ else }}Anonymous{{ end }}</li>
+            <li class="list-group-item">Pub.: {{ .Date.Format "January 02, 2006" }}</li>
+        </ul>
+
+        <div class="card-footer">
+            {{ if .Params.interviewurl }}
+                <center><a href="{{.Params.interviewurl}}" target="_blank" class="btn btn-primary">Original Transcript</a></center>
+            {{ end }}
+        </div>
     </div>
-    <div class="card-footer">
-        {{ if .Params.interviewurl }}
-            <center><a href="{{.Params.interviewurl}}" target="_blank" class="btn btn-primary">Original Transcript</a></center>
-        {{ end }}
-    </div>
+
+    {{ .Render "sidebar/toc" }}
 </div>

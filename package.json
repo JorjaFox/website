@@ -1,6 +1,6 @@
 {
     "name": "@JorjaFox/website",
-    "version": "3.0.2",
+    "version": "3.0.4",
     "description": "Fans of LeFox uses Hinode - a clean documentation and blog theme for Hugo, an open-source static site generator",
     "keywords": [
         "hugo",
@@ -56,14 +56,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/gethinode/hinode.git"
+        "url": "git+https://github.com/JorjaFox/website.git"
     },
     "author": "Mark Dumay",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/gethinode/hinode/issues"
+        "url": "https://github.com/JorjaFox/website/issues"
     },
-    "homepage": "https://gethinode.com",
+    "homepage": "https://jorjafox.net",
     "dependencies": {
         "@fullhuman/postcss-purgecss": "^6.0.0",
         "autoprefixer": "^10.4.20",

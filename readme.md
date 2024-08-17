@@ -1,6 +1,12 @@
 # Fans of LeFox
 
-Due to unforeseen circumstances, we've been forced to change the site.
+This is the repostiory for the website [Fans of LeFox](https://jorjafox.net). It houses both all of the code and all the content. 
+
+## Licensing
+
+All original literary content on this site is licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Excluded from this license are the sections `/news/` and `/transcript/`, as well as most images. All attempts have been made to properly attribute images, however that may not be easily evident when viewing the code. 
+
+All code is licensed Apache License 2.0, including all forked code (as we share the same license on purpose).
 
 ## Powered By
 
@@ -52,7 +58,7 @@ All the `*.md` files of pure content.
 
 To build the site, run `npm run build`
 
-To upgrade the backend site code, run `npm run upgrade`
+To upgrade the backend site code, run `npm run upgrade` - this is currently locked to minor releases knky due to a conflict with some libraries.
 
 ## Development
 

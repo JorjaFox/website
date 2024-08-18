@@ -1,0 +1,40 @@
+name: 'Preflight Checks'
+
+on:
+  push:
+
+concurrency:
+     group: ${{ github.ref }}-ci
+     cancel-in-progress: true
+
+jobs:
+  preflight-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Do a git checkout including submodules
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Setup Node and Install
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install && npm run mod:update
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Build site
+        run: npm run build
+
+    

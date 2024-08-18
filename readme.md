@@ -1,10 +1,10 @@
 # Fans of LeFox
 
-This is the repostiory for the website [Fans of LeFox](https://jorjafox.net). It houses both all of the code and all the content. 
+This is the repostiory for the website [Fans of LeFox](https://jorjafox.net). It houses both all of the code and all the content.
 
 ## Licensing
 
-All original literary content on this site is licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Excluded from this license are the sections `/news/` and `/transcript/`, as well as most images. All attempts have been made to properly attribute images, however that may not be easily evident when viewing the code. 
+All original literary content on this site is licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Excluded from this license are the sections `/news/` and `/transcript/`, as well as most images. All attempts have been made to properly attribute images, however that may not be easily evident when viewing the code.
 
 All code is licensed Apache License 2.0, including all forked code (as we share the same license on purpose).
 

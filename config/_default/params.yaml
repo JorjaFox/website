@@ -54,3 +54,5 @@ modules:
     state: "async"
   katex:
     disableTemplate: true
+  leaflet:
+    disableTemplate: true

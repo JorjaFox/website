@@ -40,4 +40,3 @@ jobs:
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
           TARGET: "/home/jorjafox/jorjafox.net/"
-          #EXCLUDE: "/dist/, /node_modules/"

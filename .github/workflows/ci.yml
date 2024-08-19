@@ -34,7 +34,18 @@ jobs:
       - name: Lint
         run: npm run lint
 
+      - name: Copy resources from server
+        run: wget -qOr --no-parent --reject="index.html*" https://${{ secrets.HUGO_RESOURCES_URL }}/ resources/
+
       - name: Build site
         run: npm run build
 
-    
+      - name: Copy back down all the resources
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+          ARGS: "-rlgoDzvc -i --delete"
+          SOURCE: "resources/"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: "/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/"

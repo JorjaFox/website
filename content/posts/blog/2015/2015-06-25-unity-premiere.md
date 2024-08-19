@@ -20,7 +20,6 @@ photogallery:
   - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-003.jpg
   - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-004.jpg
   - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-005.jpg
-  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-006.jpg
   - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-007.jpg
   - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-008.jpg
   - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-009.jpg

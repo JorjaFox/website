@@ -14,10 +14,10 @@ date: 2009-09-24
 prodnum: 207
 modules: ["bs5-lightbox"]
 photogallery:
-  - /img/gallery/tv/csi/10/1001-family_001.jpg
-  - /img/gallery/tv/csi/10/1001-family_002.jpg
-  - /img/gallery/tv/csi/10/1001-family_003.jpg
-  - /img/gallery/tv/csi/10/1001-family_004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_004.jpg
 ---
 
 ## Synopsis

@@ -12,13 +12,13 @@ tags:
     - 'social media'
 modules: [ "bs5-lightbox" ]
 photogallery:
-  - /img/gallery/advocacy/artistsathletes/20130605-cousteau001.jpg
-  - /img/gallery/advocacy/artistsathletes/20130605-cousteau002.jpg
-  - /img/gallery/advocacy/artistsathletes/20130605-cousteau003.jpg
-  - /img/gallery/advocacy/artistsathletes/20130605-cousteau004.jpg
-  - /img/gallery/advocacy/artistsathletes/20130605-cousteau005.jpg
-  - /img/gallery/advocacy/artistsathletes/20130605-cousteau006.jpg
-  - /img/gallery/advocacy/artistsathletes/20130605-cousteau007.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20130605-cousteau001.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20130605-cousteau002.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20130605-cousteau003.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20130605-cousteau004.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20130605-cousteau005.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20130605-cousteau006.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20130605-cousteau007.jpg
 thumbnail:
   url: /img/blog/2011/Philippe-Cousteau-FB-Web.jpg
 ---

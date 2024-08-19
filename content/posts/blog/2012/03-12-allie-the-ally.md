@@ -19,4 +19,4 @@ I admit, I had no idea what [Allie the Ally](https://allietheally.tumblr.com/) w
 
 And Allie visited CSI.
 
-{{< image src="/img/gallery/advocacy/20120312-allie.jpg" >}}
+{{< image src="https://assets.jorjafox.net/img/gallery/advocacy/20120312-allie.jpg" >}}

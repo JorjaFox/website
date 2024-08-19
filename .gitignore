@@ -12,3 +12,4 @@ node_modules/*
 /public
 node_modules/
 .hugo_build.lock
+/resources/*

@@ -13,10 +13,10 @@ thumbnail:
     url: /img/blog/2009/20091028-obamaissues04.jpg
 modules: [ "bs5-lightbox" ]
 photogallery:
- - "img/gallery/advocacy/artistsathletes/20091028-obamaissues01.jpg"
- - "img/gallery/advocacy/artistsathletes/20091028-obamaissues02.jpg"
- - "img/gallery/advocacy/artistsathletes/20091028-obamaissues03.jpg"
- - "img/gallery/advocacy/artistsathletes/20091028-obamaissues04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20091028-obamaissues01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20091028-obamaissues02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20091028-obamaissues03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20091028-obamaissues04.jpg"
 ---
 
 The [Artists & Athletes Alliance](https://artistsandathletes.org) held a private briefing on October 28th to explain the status of President Obama’s legislative priorities.  Jorja and Marg were in attendance.

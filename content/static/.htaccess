@@ -20,9 +20,9 @@ Options +FollowSymLinks -Indexes
     # ultimate hotlink protection
     RewriteCond %{HTTP_REFERER} !^$
     RewriteCond %{REQUEST_FILENAME} -f
-    RewriteCond %{REQUEST_FILENAME} \.(gif|jpe?g?|png|svg)$           [NC]
-    RewriteCond %{HTTP_REFERER} !^https?://([^.]+\.)?jorjafox.net     [NC]
-    RewriteRule \.(gif|jpe?g?|png|svg)$                             - [F,NC,L]
+    RewriteCond %{REQUEST_FILENAME} \.(gif|jpe?g?|png|svg|ico)$        [NC]
+    RewriteCond %{HTTP_REFERER} !^https?://([^.]+\.)?jorjafox.net      [NC]
+    RewriteRule \.(gif|jpe?g?|png|svg|ico)$                          - [F,NC,L]
 </IfModule>
 
 ### Extra Security

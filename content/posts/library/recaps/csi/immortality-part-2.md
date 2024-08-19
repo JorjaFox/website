@@ -14,15 +14,15 @@ date: 2015-09-27
 prodnum: 337
 modules: ["bs5-lightbox"]
 photogallery:
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-07.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-08.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-09.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-10.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-11.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-12.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-13.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-14.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-15.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-07.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-08.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-09.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-10.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-11.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-12.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-13.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-14.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-15.jpg
 ---
 
 ## Synopsis

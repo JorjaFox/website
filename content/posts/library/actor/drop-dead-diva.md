@@ -10,8 +10,8 @@ imdb: https://www.imdb.com/title/tt1471519/
 actorimage: /img/actors/drop-dead-diva.jpg
 modules: [ "bs5-lightbox" ]
 photogallery:
- - "img/gallery/tv/dropdeaddiva_01.jpg"
- - "img/gallery/tv/dropdeaddiva_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/dropdeaddiva_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/dropdeaddiva_02.jpg"
 ---
 
 The series revolves around vapid aspiring model, Deborah "Deb" Dobkins, who is killed in a car crash on the way to an audition for The Price Is Right. As her soul enters the gates of Heaven, she finds herself being judged by a gatekeeper named Fred. As a result of her shallowness, Fred declares her a "zero-zero," since she has performed zero good deeds and zero bad deeds during her time on Earth. While he's distracted, Deb presses the "return" key before Fred can stop her and is brought back to life in the body of a recently deceased lawyer named Jane Bingum , who died protecting her boss, Jay Parker.

@@ -34,8 +34,11 @@ jobs:
       - name: Lint
         run: npm run lint
 
-      - name: Copy resources from server
-        run: wget -qOr --no-parent --reject="index.html*" https://${{ secrets.HUGO_RESOURCES_URL }}/ resources/
+      - name: Download resources from server
+        run: wget -qr --no-parent --reject="index.html*" https://${{ secrets.HUGO_RESOURCES_URL }}/
+
+      - name: Copy resources to resources folder
+        run: cp -r ${GITHUB_WORKSPACE}/${{ secrets.HUGO_RESOURCES_URL }}/* resources/
 
       - name: Build site
         run: npm run build

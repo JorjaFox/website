@@ -2,8 +2,6 @@ name: 'Preflight Checks'
 
 on:
   push:
-    branches:
-      - '!production'   # excludes production.
 
 concurrency:
      group: ${{ github.ref }}-ci

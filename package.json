@@ -1,6 +1,6 @@
 {
     "name": "@JorjaFox/website",
-    "version": "3.0.4",
+    "version": "3.0.5",
     "description": "Fans of LeFox uses Hinode - a clean documentation and blog theme for Hugo, an open-source static site generator",
     "keywords": [
         "hugo",
@@ -9,7 +9,7 @@
         "responsive",
         "front-end",
         "blog",
-        "documentation"
+        "fansite"
     ],
     "main": "index.js",
     "publishConfig": {

@@ -7,7 +7,14 @@ on:
 jobs:
   deploy-website:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
       - name: Do a git checkout including submodules
         uses: actions/checkout@v4
         with:
@@ -26,16 +33,13 @@ jobs:
           cache: 'npm'
 
       - name: Install Dependencies
-        run: npm install && npm run mod:update
+        run: npm install
 
-      - name: Download resources from server
-        run: wget -qr -np -R 'index.html*' https://${{ secrets.HUGO_RESOURCES_URL }}/_gen/
-
-      - name: Make Resources
+      - name: Make Resources Folder locally
         run: mkdir resources
 
-      - name: Copy resources to resources folder
-        run: mv ${{ secrets.HUGO_RESOURCES_URL }}/_gen resources/
+      - name: Download resources from server
+        run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@ ${{ secrets.REMOTE_HOST }}:/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
       - name: Build site
         run: npm run build

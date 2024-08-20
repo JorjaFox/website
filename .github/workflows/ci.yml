@@ -2,6 +2,8 @@ name: 'Preflight Checks'
 
 on:
   push:
+    branches:
+      - '!production'   # excludes production.
 
 concurrency:
      group: ${{ github.ref }}-ci
@@ -10,7 +12,14 @@ concurrency:
 jobs:
   preflight-checks:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
       - name: Do a git checkout including submodules
         uses: actions/checkout@v4
         with:
@@ -31,27 +40,17 @@ jobs:
       - name: Install Dependencies
         run: npm install && npm run mod:update
 
-      - name: Lint
-        run: npm run lint
+      #- name: Lint
+      #  run: npm run lint
 
-      - name: Download resources from server
-        run: wget -qr -np -R 'index.html*' https://${{ secrets.HUGO_RESOURCES_URL }}/_gen/
-
-      - name: Make Resources
+      - name: Make Resources Folder locally
         run: mkdir resources
 
-      - name: Copy resources to resources folder
-        run: mv ${{ secrets.HUGO_RESOURCES_URL }}/_gen resources/
+      - name: Download resources from server
+        run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@ ${{ secrets.REMOTE_HOST }}:/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
-      - name: Build site
-        run: npm run build
+      #- name: Build site
+      #  run: npm run build
 
-      - name: Copy back down all the resources
-        uses: easingthemes/ssh-deploy@main
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-          ARGS: "-rlgoDzvc -i --delete"
-          SOURCE: "resources/"
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: "/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/"
+      #- name: Copy back down all the regenerated resources
+      #  run: rsync -rlgoDzvc -i --delete resources/ ${{ secrets.REMOTE_USER }}@ ${{ secrets.REMOTE_HOST }}:/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/

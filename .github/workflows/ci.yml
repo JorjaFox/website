@@ -37,11 +37,14 @@ jobs:
       - name: Download resources from server
         run: wget -qr -np -R='index.html*' https://${{ secrets.HUGO_RESOURCES_URL }}/_gen/
 
-#      - name: Copy resources to resources folder
-#        run: cp -r ${GITHUB_WORKSPACE}/${{ secrets.HUGO_RESOURCES_URL }}/* resources/
+      - name: Make Resources
+        run: mkdir resources
 
-      - name: Test list
-        run: ls -lah ${{ secrets.HUGO_RESOURCES_URL }}
+      - name: Copy resources to resources folder
+        run: mv ${{ secrets.HUGO_RESOURCES_URL }}/_gen resources/
+
+      - name: Test again
+        run: ls -lah resources/_gen/
 
 #      - name: Build site
 #        run: npm run build

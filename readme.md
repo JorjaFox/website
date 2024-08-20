@@ -1,5 +1,34 @@
 # Fans of LeFox
 
+
+<!-- Badges -->
+<p align="center">
+    <a href="https://gohugo.io">
+        <img src="https://img.shields.io/badge/generator-hugo-brightgreen" alt="Hugo website">
+    </a>
+    <a href="https://gethinode.com">
+        <img src="https://img.shields.io/badge/theme-hinode-blue" alt="Hinode theme">
+    </a>
+    <a href="https://www.npmjs.com/package/%40gethinode/hinode">
+        <img src="https://img.shields.io/npm/v/%40gethinode/hinode" alt="npm package">
+    </a>
+    <a href="https://stats.uptimerobot.com/xyGVYhLJmV">
+        <img src="https://img.shields.io/uptimerobot/status/m791334689-73d9dfc82030f4f955b2d6bb" alt="UptimeRobot Status">
+    </a>
+    <a href="https://github.com/JorjaFox/website/commits/main">
+        <img src="https://img.shields.io/github/last-commit/gethinode/hinode.svg" alt="Last commit">
+    </a>
+    <a href="https://github.com/JorjaFox/website/issues">
+        <img src="https://img.shields.io/github/issues/gethinode/hinode.svg" alt="Issues">
+    </a>
+    <a href="https://github.com/JorjaFox/website/pulls">
+        <img src="https://img.shields.io/github/issues-pr-raw/gethinode/hinode.svg" alt="Pulls">
+    </a>
+    <a href="https://github.com/JorjaFox/website/blob/production/apache-2.0-license.txt">
+        <img src="https://img.shields.io/github/license/gethinode/hinode" alt="License">
+    </a>
+</p>
+
 This is the repostiory for the website [Fans of LeFox](https://jorjafox.net). It houses both all of the code and all the content.
 
 ## Licensing

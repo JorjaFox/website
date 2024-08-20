@@ -35,10 +35,10 @@ jobs:
         run: npm run lint
 
       - name: Download resources from server
-        run: wget -qr -np -R https://resources.jorjafox.net/_gen/
+        run: wget -qr -np -R https://${{ secrets.HUGO_RESOURCES_URL }}/_gen/
 
-      - name: Copy resources to resources folder
-        run: cp -r ${GITHUB_WORKSPACE}/${{ secrets.HUGO_RESOURCES_URL }}/* resources/
+#      - name: Copy resources to resources folder
+#        run: cp -r ${GITHUB_WORKSPACE}/${{ secrets.HUGO_RESOURCES_URL }}/* resources/
 
       - name: Test list
         run: ls -lah

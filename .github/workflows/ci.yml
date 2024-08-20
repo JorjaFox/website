@@ -44,9 +44,6 @@ jobs:
       - name: Make Resources Folder locally
         run: mkdir resources
 
-      - name: Make SSH Folder locally
-        run: mkdir "$HOME/.ssh"
-
       - name: Copy SSH Key
         run: echo "${{ secrets.SERVER_SSH_KEY }} > "$HOME/.ssh/deploy_key"
 

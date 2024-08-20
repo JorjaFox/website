@@ -13,8 +13,8 @@ thumbnail:
     url: /img/blog/2009/chrisbrown_01.jpg
 modules: [ "bs5-lightbox" ]
 photogallery:
- - "img/gallery/misc/christophbrown_01.jpg"
- - "img/gallery/misc/christophbrown_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/misc/christophbrown_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/misc/christophbrown_02.jpg"
 ---
 
 Thanks to Jorja82 for finding two pictures of Christoph Brown, [Etch-a-Sketch Man](https://www.etchu.com/), and Jorja Fox at an unknown event.

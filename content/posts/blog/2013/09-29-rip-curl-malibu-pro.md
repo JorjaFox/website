@@ -12,31 +12,26 @@ tags:
     - 'public events'
 modules: [ "bs5-lightbox" ]
 photogallery:
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_001.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_002.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_003.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_004.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_005.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_006.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_007.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_008.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_009.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_010.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_011.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_012.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_013.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_014.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_015.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_016.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_017.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_018.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_019.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_020.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_021.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_022.jpg
-  - /img/gallery/benefits/20040930-ripcurl/ripcurl2004_023.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_001.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_002.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_003.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_004.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_005.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_010.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_011.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_013.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_014.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_015.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_016.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_017.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_018.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_019.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_020.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_021.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_022.jpg
+  - https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_023.jpg
 thumbnail:
-  url: /img/gallery/benefits/20040930-ripcurl/ripcurl2004_001.jpg
+  url: https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_001.jpg
 ---
 
 {{< bs5-lightbox >}}

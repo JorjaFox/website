@@ -1,7 +1,7 @@
 ---
 title: "CBS (CSI: Vegas)"
 author: "Mika A. Epstein"
-layout: biographies
+layout: library
 permalink: /biographies/cbs-csi-vegas/
 categories: ["Biographies"]
 tags: ["Internet"]

@@ -12,8 +12,8 @@ tags:
     - 'public events'
 modules: [ "bs5-lightbox" ]
 photogallery:
- - "img/gallery/advocacy/artistsathletes/20110417-aa-gulf01.jpg"
- - "img/gallery/advocacy/artistsathletes/20110417-aa-gulf02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20110417-aa-gulf01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/advocacy/artistsathletes/20110417-aa-gulf02.jpg"
 thumbnail:
   url: /img/blog/2011/Philippe-Cousteau-FB-Web.jpg
 ---

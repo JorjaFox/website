@@ -20,9 +20,9 @@ Options +FollowSymLinks -Indexes
     # ultimate hotlink protection
     RewriteCond %{HTTP_REFERER} !^$
     RewriteCond %{REQUEST_FILENAME} -f
-    RewriteCond %{REQUEST_FILENAME} \.(gif|jpe?g?|png|svg)$           [NC]
-    RewriteCond %{HTTP_REFERER} !^https?://([^.]+\.)?jorjafox.net     [NC]
-    RewriteRule \.(gif|jpe?g?|png|svg)$                             - [F,NC,L]
+    RewriteCond %{REQUEST_FILENAME} \.(gif|jpe?g?|png|svg|ico)$        [NC]
+    RewriteCond %{HTTP_REFERER} !^https?://([^.]+\.)?jorjafox.net      [NC]
+    RewriteRule \.(gif|jpe?g?|png|svg|ico)$                          - [F,NC,L]
 </IfModule>
 
 ### Extra Security
@@ -35,7 +35,7 @@ Options +FollowSymLinks -Indexes
     Header set Access-Control-Allow-Origin "*"
     Header set Referrer-Policy "strict-origin-when-cross-origin"
     Header add Content-Security-Policy "default-src 'self'; script-src 'self' https://*.google-analytics.com https://*.googletagmanager.com; style-src 'self' https://fonts.googleapis.com https://www.youtube.com; object-src 'none'; base-uri 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com; img-src 'self' data: https://*.imgix.net https://*.imagekit.io https://*.cloudinary.com https://i.vimeocdn.com https://i.ytimg.com https://*.google-analytics.com https://*.googletagmanager.com https://tile.openstreetmap.org; manifest-src 'self'; media-src 'self' "
-    Header set Permissions-Policy "geolocation=(); midi=(); notifications=(); push=(); sync-xhr=(); accelerometer=(); gyroscope=(); magnetometer=(); payment=(); camera=(); microphone=(); usb=(); xr=(); speaker=(self); vibrate=(); fullscreen=(self 'https://jorjafox.net');"
+    Header set Permissions-Policy "geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(), payment=()"
 </IfModule>
 
 ## BEGIN EXPIRES

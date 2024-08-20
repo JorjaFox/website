@@ -15,18 +15,17 @@ tags:
     - photos
 modules: [ "bs5-lightbox" ]
 photogallery:
-  - /img/gallery/advocacy/20150624-unity/unity-001.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-002.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-003.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-004.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-005.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-006.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-007.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-008.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-009.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-010.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-011.jpg
-  - /img/gallery/advocacy/20150624-unity/unity-012.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-001.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-002.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-003.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-004.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-005.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-007.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-008.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-009.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-010.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-011.jpg
+  - https://assets.jorjafox.net/img/gallery/advocacy/20150624-unity/unity-012.jpg
 ---
 
 Jorja's in the busy, advocacy, time of year!

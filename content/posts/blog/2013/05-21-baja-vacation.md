@@ -13,11 +13,11 @@ tags:
     - travel
 modules: [ "bs5-lightbox" ]
 photogallery:
-  - /img/gallery/travel/20130500-baja/kkbutter-001.jpg
-  - /img/gallery/travel/20130500-baja/kkbutter-002.jpg
-  - /img/gallery/travel/20130500-baja/johnroberts-001.jpg
-  - /img/gallery/travel/20130500-baja/johnroberts-002.jpg
-  - /img/gallery/travel/20130500-baja/surfbunny-001.jpg
+  - https://assets.jorjafox.net/img/gallery/travel/20130500-baja/kkbutter-001.jpg
+  - https://assets.jorjafox.net/img/gallery/travel/20130500-baja/kkbutter-002.jpg
+  - https://assets.jorjafox.net/img/gallery/travel/20130500-baja/johnroberts-001.jpg
+  - https://assets.jorjafox.net/img/gallery/travel/20130500-baja/johnroberts-002.jpg
+  - https://assets.jorjafox.net/img/gallery/travel/20130500-baja/surfbunny-001.jpg
 thumbnail:
   url: /img/blog/2013/Rivabellosa_-_Ayuntamiento_de_Ribera_Baja_6.jpg
 ---

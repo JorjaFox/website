@@ -14,10 +14,10 @@ date: 2015-09-27
 prodnum: 336
 modules: ["bs5-lightbox"]
 photogallery:
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-01.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-02.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-03.jpg
-  - /img/gallery/tv/csi/16-immortality/1601-immortality-04.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-04.jpg
 ---
 
 ## Synopsis

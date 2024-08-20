@@ -1,11 +1,14 @@
-name: 'Generate and deploy'
+name: 'Preflight Checks'
 
 on:
   push:
-    branches: [ production ]
+
+concurrency:
+     group: ${{ github.ref }}-ci
+     cancel-in-progress: true
 
 jobs:
-  deploy-website:
+  preflight-checks:
     runs-on: ubuntu-latest
     steps:
       - name: Do a git checkout including submodules
@@ -28,6 +31,9 @@ jobs:
       - name: Install Dependencies
         run: npm install && npm run mod:update
 
+      - name: Lint
+        run: npm run lint
+
       - name: Download resources from server
         run: wget -qr -np -R 'index.html*' https://${{ secrets.HUGO_RESOURCES_URL }}/_gen/
 
@@ -40,12 +46,12 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Deploy to Server
+      - name: Copy back down all the resources
         uses: easingthemes/ssh-deploy@main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
           ARGS: "-rlgoDzvc -i --delete"
-          SOURCE: "public/"
+          SOURCE: "resources/"
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: "/home/jorjafox/jorjafox.net/"
+          TARGET: "/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/"

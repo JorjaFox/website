@@ -1,6 +1,41 @@
 # Fans of LeFox
 
-Due to unforeseen circumstances, we've been forced to change the site.
+
+<!-- Badges -->
+<p align="center">
+    <a href="https://gohugo.io">
+        <img src="https://img.shields.io/badge/generator-hugo-brightgreen" alt="Hugo website">
+    </a>
+    <a href="https://gethinode.com">
+        <img src="https://img.shields.io/badge/theme-hinode-blue" alt="Hinode theme">
+    </a>
+    <a href="https://www.npmjs.com/package/%40gethinode/hinode">
+        <img src="https://img.shields.io/npm/v/%40gethinode/hinode" alt="npm package">
+    </a>
+    <a href="https://jorjafox.net/">
+        <img src="https://img.shields.io/uptimerobot/status/m789264262-eff8de1bc574272c71ccbdb9" alt="UptimeRobot Status">
+    </a>
+    <a href="https://github.com/JorjaFox/website/commits/main">
+        <img src="https://img.shields.io/github/last-commit/JorjaFox/website.svg" alt="Last commit">
+    </a>
+    <a href="https://github.com/JorjaFox/website/issues">
+        <img src="https://img.shields.io/github/issues/JorjaFox/website.svg" alt="Issues">
+    </a>
+    <a href="https://github.com/JorjaFox/website/pulls">
+        <img src="https://img.shields.io/github/issues-pr-raw/JorjaFox/website.svg" alt="Pulls">
+    </a>
+    <a href="https://github.com/JorjaFox/website/blob/production/apache-2.0-license.txt">
+        <img src="https://img.shields.io/github/license/JorjaFox/website" alt="License">
+    </a>
+</p>
+
+This is the repostiory for the website [Fans of LeFox](https://jorjafox.net). It houses both all of the code and all the content.
+
+## Licensing
+
+All original literary content on this site is licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Excluded from this license are the sections `/news/` and `/transcript/`, as well as most images. All attempts have been made to properly attribute images, however that may not be easily evident when viewing the code.
+
+All code is licensed Apache License 2.0, including all forked code (as we share the same license on purpose).
 
 ## Powered By
 
@@ -52,7 +87,7 @@ All the `*.md` files of pure content.
 
 To build the site, run `npm run build`
 
-To upgrade the backend site code, run `npm run upgrade`
+To upgrade the backend site code, run `npm run upgrade` - this is currently locked to minor releases knky due to a conflict with some libraries.
 
 ## Development
 

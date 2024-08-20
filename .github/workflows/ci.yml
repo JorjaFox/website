@@ -54,7 +54,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to Server
-        run: run: rsync -rlgoDzvc -i --delete resources/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/
+        run: rsync -rlgoDzvc -i --delete resources/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/
 
       #  uses: easingthemes/ssh-deploy@main
       #  env:

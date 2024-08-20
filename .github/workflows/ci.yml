@@ -45,7 +45,7 @@ jobs:
         run: mkdir resources
 
       - name: Copy SSH Key
-        run: echo "${{ secrets.SERVER_SSH_KEY }} > "$HOME/.ssh/deploy_key"
+        run: echo "${{ secrets.SERVER_SSH_KEY }}" > "$HOME/.ssh/deploy_key"
 
       - name: CHMOD SSH Key
         run: chmod 600 "$HOME/.ssh/deploy_key"

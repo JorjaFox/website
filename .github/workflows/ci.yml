@@ -21,7 +21,10 @@ jobs:
         uses: shimataro/ssh-key-action@v2
         with:
           key: ${{ secrets.SERVER_SSH_KEY }}
-          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+          known_hosts: 'placeholder'
+
+      - name: Adding Known Hosts
+          run: ssh-keyscan -H ${{ secrets.REMOTE_HOST }} >> ~/.ssh/known_hosts
 
       #- name: Setup Hugo
       #  uses: peaceiris/actions-hugo@v3
@@ -44,14 +47,8 @@ jobs:
       - name: Make Resources Folder locally
         run: mkdir resources
 
-      - name: Copy SSH Key
-        run: echo "${{ secrets.SERVER_SSH_KEY }}" > "$HOME/.ssh/deploy_key"
-
-      - name: CHMOD SSH Key
-        run: chmod 600 "$HOME/.ssh/deploy_key"
-
       - name: Download resources from server
-        run: rsync -rlgoDzvc 'ssh -i $HOME/.ssh/deploy_key -o StrictHostKeyChecking=no' ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
+        run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
       #- name: Build site
       #  run: npm run build

@@ -35,13 +35,16 @@ jobs:
         run: npm run lint
 
       - name: Download resources from server
-        run: wget -qr -np https://resources.jorjafox.net/_gen/
+        run: wget -qr -np -R https://resources.jorjafox.net/_gen/
 
-#      - name: Copy resources to resources folder
-#        run: cp -r ${GITHUB_WORKSPACE}/${{ secrets.HUGO_RESOURCES_URL }}/* resources/
+      - name: Copy resources to resources folder
+        run: cp -r ${GITHUB_WORKSPACE}/${{ secrets.HUGO_RESOURCES_URL }}/* resources/
 
-#      - name: Build site
-#        run: npm run build
+      - name: Test list
+        run: ls -lah
+
+      - name: Build site
+        run: npm run build
 
 #      - name: Copy back down all the resources
 #        uses: easingthemes/ssh-deploy@main

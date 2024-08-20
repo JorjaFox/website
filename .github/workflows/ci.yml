@@ -35,7 +35,7 @@ jobs:
         run: npm run lint
 
       - name: Download resources from server
-        run: wget -qr -np -R='index.html*' https://${{ secrets.HUGO_RESOURCES_URL }}/_gen/
+        run: wget -qr -np -R 'index.html*' https://${{ secrets.HUGO_RESOURCES_URL }}/_gen/
 
       - name: Make Resources
         run: mkdir resources
@@ -43,18 +43,15 @@ jobs:
       - name: Copy resources to resources folder
         run: mv ${{ secrets.HUGO_RESOURCES_URL }}/_gen resources/
 
-      - name: Test again
-        run: ls -lah resources/_gen/
+      - name: Build site
+        run: npm run build
 
-#      - name: Build site
-#        run: npm run build
-
-#      - name: Copy back down all the resources
-#        uses: easingthemes/ssh-deploy@main
-#        env:
-#          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-#          ARGS: "-rlgoDzvc -i --delete"
-#          SOURCE: "resources/"
-#          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-#          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-#          TARGET: "/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/"
+      - name: Copy back down all the resources
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+          ARGS: "-rlgoDzvc -i --delete"
+          SOURCE: "resources/"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: "/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/"

@@ -12,31 +12,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Do a git checkout including submodules
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
         with:
           key: ${{ secrets.SERVER_SSH_KEY }}
           known_hosts: ${{ secrets.KNOWN_HOSTS }}
 
-      - name: Do a git checkout including submodules
-        uses: actions/checkout@v4
-        with:
-          submodules: true
+      #- name: Setup Hugo
+      #  uses: peaceiris/actions-hugo@v3
+      #  with:
+      #    hugo-version: 'latest'
+      #    extended: true
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: 'latest'
-          extended: true
+      #- name: Setup Node and Install
+      #  uses: actions/setup-node@v4
+      #  with:
+      #    node-version-file: '.nvmrc'
+      #    cache: 'npm'
 
-      - name: Setup Node and Install
-        uses: actions/setup-node@v4
-        with:
-          node-version-file: '.nvmrc'
-          cache: 'npm'
-
-      - name: Install Dependencies
-        run: npm install && npm run mod:update
+      #- name: Install Dependencies
+      #  run: npm install && npm run mod:update
 
       #- name: Lint
       #  run: npm run lint
@@ -44,11 +44,27 @@ jobs:
       - name: Make Resources Folder locally
         run: mkdir resources
 
+      - name: Make SSH Folder locally
+        run: mkdir "$HOME/.ssh"
+
+      - name: Copy SSH Key
+        run: echo "${{ secrets.SERVER_SSH_KEY }} > "$HOME/.ssh/deploy_key"
+
+      - name: CHMOD SSH Key
+        run: chmod 600 "$HOME/.ssh/deploy_key"
+
       - name: Download resources from server
-        run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
+        run: rsync -rlgoDzvc 'ssh -i $HOME/.ssh/deploy_key -o StrictHostKeyChecking=no' ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
       #- name: Build site
       #  run: npm run build
 
-      #- name: Copy back down all the regenerated resources
-      #  run: rsync -rlgoDzvc -i --delete resources/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/jorjafox/${{ secrets.HUGO_RESOURCES_URL }}/
+      #- name: Deploy to Server
+      #  uses: easingthemes/ssh-deploy@main
+      #  env:
+      #    SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+      #    ARGS: "-rlgoDzvc -i --delete"
+      #    SOURCE: "resources/"
+      #    REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+      #    REMOTE_USER: ${{ secrets.REMOTE_USER }}
+      #    TARGET: "/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/"

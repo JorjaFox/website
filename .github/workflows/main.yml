@@ -47,4 +47,4 @@ jobs:
         run: npm run build
 
       - name: Deploy to Server
-        run: run: rsync -rlgoDzvc -i --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.REMOTE_HOST }}/
+        run: rsync -rlgoDzvc -i --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.REMOTE_HOST }}/

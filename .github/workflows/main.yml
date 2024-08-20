@@ -28,6 +28,15 @@ jobs:
       - name: Install Dependencies
         run: npm install && npm run mod:update
 
+      - name: Download resources from server
+        run: wget -qr -np -R 'index.html*' https://${{ secrets.HUGO_RESOURCES_URL }}/_gen/
+
+      - name: Make Resources
+        run: mkdir resources
+
+      - name: Copy resources to resources folder
+        run: mv ${{ secrets.HUGO_RESOURCES_URL }}/_gen resources/
+
       - name: Build site
         run: npm run build
 

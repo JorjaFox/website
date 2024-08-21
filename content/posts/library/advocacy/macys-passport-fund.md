@@ -2,7 +2,6 @@
 title: Macy's Passport Fund
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Health
 website: https://passportfund.macysinc.com/

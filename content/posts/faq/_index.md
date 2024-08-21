@@ -5,8 +5,6 @@ layout: library
 permalink: /faq/
 aliases:
   - /faq/
-categories: ["FAQ"]
-tags: ["index"]
 ---
 
 Find the answers for the most frequently asked questions below:

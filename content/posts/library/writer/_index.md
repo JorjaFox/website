@@ -3,8 +3,6 @@ layout: library
 title: "Writer"
 author: "Mika A. Epstein"
 permalink: /writer/
-categories: ["Filmography"]
-tags: ["Movies", "Television"]
 ---
 
 {{< filmography type="writer" >}}

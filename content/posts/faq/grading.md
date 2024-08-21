@@ -1,7 +1,5 @@
 ---
 title: About Stars / Grading
-categories: ["FAQ"]
-tags: ["website"]
 layout: library
 ---
 

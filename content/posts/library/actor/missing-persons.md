@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Missing Persons"
-categories: ["Filmography"]
-tags: ["Television"]
 slug: "missing-persons"
 imdb: https://www.imdb.com/title/tt0106067/
 actorimage: /img/actors/missingpersons.png

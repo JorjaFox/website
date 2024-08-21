@@ -1,8 +1,6 @@
 ---
 title: "Looking for the Wiki?"
 layout: library
-categories: ["FAQ"]
-tags: ["gallery"]
 ---
 
 {{< alert type="info" >}}

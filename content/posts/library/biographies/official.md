@@ -3,8 +3,6 @@ title: Official Biography
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/official/
-categories: ["Biographies"]
-tags: ["Official"]
 date: "2002-05-01"
 ---
 

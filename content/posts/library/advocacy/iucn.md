@@ -2,7 +2,6 @@
 title: International Union for Conservation of Nature
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Environmentalism
 website: https://www.iucn.org/

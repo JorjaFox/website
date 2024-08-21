@@ -3,8 +3,6 @@ title: "CBS (CSI: Crime Scene Investigation)"
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/cbs/
-categories: ["Biographies"]
-tags: ["Internet"]
 date: "2000-08-20"
 sourceurl: "https://www.cbs.com/shows/csi/"
 ---

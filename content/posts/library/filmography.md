@@ -3,7 +3,6 @@ layout: library
 title: Filmography
 author: "Mika A. Epstein"
 permalink: /filmography/
-categories: ["General"]
 tags:
   - Movies
   - Television

@@ -3,8 +3,6 @@ title: TVGuide.com
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/tvguide/
-categories: ["Biographies"]
-tags: ["Internet"]
 date: "2002-05-01"
 ---
 

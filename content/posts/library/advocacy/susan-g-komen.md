@@ -2,7 +2,6 @@
 title: Susan G. Komen for the Cure
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Health
 website: https://www.komen.org/

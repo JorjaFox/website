@@ -1,8 +1,6 @@
 ---
 title: "CSI: Crime Scene Investigation"
 description: CSI Sara Sidle solves crimes in Las Vegas.
-categories: ["Filmography", "CSI"]
-tags: ["Television"]
 layout: actor
 slug: csi
 imdb: https://www.imdb.com/title/tt0247082/

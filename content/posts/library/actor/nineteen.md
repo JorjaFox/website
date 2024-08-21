@@ -2,8 +2,6 @@
 title: "Nineteen"
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: nineteen
 actorimage: /img/actors/nineteen.jpg
 ---

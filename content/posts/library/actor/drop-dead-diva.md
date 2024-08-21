@@ -2,8 +2,6 @@
 title: 'Drop Dead Diva'
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: drop-dead-diva
 description: "Jorja guest starred on an episode of 'Drop Dead Diva' as a nurse who was an accessory to a crime 20 years ago."
 imdb: https://www.imdb.com/title/tt1471519/

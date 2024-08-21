@@ -7,8 +7,11 @@
 {{ if .Get "order" }}{{ $order = .Get "order" }}{{ end }}
 {{ if .Get "count" }}{{ $count = .Get "count" }}{{ end }}
 
-{{ $yearnews := ( where ( where ( where .Site.Pages.ByDate "Layout" "news") "Params.newstitle" "!=" nil ) ".Params.newstags" "intersect" $tags ) }}
-{{ $len := len $yearnews }}
+{{ $news_pages    := where .Site.Pages.ByDate "Layout" "news" }}
+{{ $news_articles := where $news_pages "Params.newstitle" "ne" nil }}
+{{ $news_year     := where $news_articles ".Params.newstags" "eq" $pagedate }}
+
+{{ $len := len $news_year }}
 
 {{ if eq $order "reverse" }}<br />&nbsp;{{ end }}
 
@@ -30,7 +33,7 @@
             <td colspan="3">There are no news articles for {{ $pagedate }} yet.</td>
         </tr>
     {{ else if eq $order "reverse" }}
-        {{ range first $count $yearnews.Reverse }}
+        {{ range first $count $news_year.Reverse }}
             <tr>
                 <td>{{ .Date.Format "January 02" }}</td>
                 <td><a href="{{ .Permalink }}">{{ .Params.newssource }}</a></td>
@@ -38,7 +41,7 @@
             </tr>
         {{ end }}
     {{ else }}
-        {{ range $yearnews }}
+        {{ range $news_year }}
             <tr>
                 <td>{{ .Date.Format "January 02" }}</td>
                 <td><a href="{{ .Permalink }}">{{ .Params.newssource }}</a></td>

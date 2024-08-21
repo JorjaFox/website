@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Velocity Trap"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "velocity-trap"
 imdb: https://www.imdb.com/title/tt0120435/
 actorimage: /img/actors/velocity-trap.jpg

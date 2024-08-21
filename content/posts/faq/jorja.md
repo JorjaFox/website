@@ -1,7 +1,5 @@
 ---
 title: About Jorja Fox
-categories: ["FAQ"]
-tags: ["jorja fox"]
 layout: library
 ---
 

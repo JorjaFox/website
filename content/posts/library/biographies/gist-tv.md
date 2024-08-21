@@ -3,8 +3,6 @@ title: Gist TV
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/gist/
-categories: ["Biographies"]
-tags: ["Internet"]
 date: "2000-08-20"
 ---
 

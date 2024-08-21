@@ -2,7 +2,6 @@
 title: The Friends of El Faro
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Human Rights"
 website: https://friendsofelfaro.com

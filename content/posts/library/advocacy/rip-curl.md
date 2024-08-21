@@ -2,7 +2,6 @@
 title: Rip Curl
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Environmentalism
 website: https://www.ripcurl.com/

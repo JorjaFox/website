@@ -1,8 +1,6 @@
 ---
 title: Biographies
 author: "Mika A. Epstein"
-categories: ["Biographies"]
-tags: ["Index"]
 icon: fas person-walking-arrow-right
 layout: library
 sidebar: library

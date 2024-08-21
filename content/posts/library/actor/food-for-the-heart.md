@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Food for the Heart"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "food-for-the-heart"
 imdb: https://www.imdb.com/title/tt0197570/
 actorimage: /img/actors/food-for-the-heart.jpg

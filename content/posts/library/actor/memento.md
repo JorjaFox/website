@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Memento"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "memento"
 imdb: https://www.imdb.com/title/tt0209144/
 actorimage: /img/actors/memento.jpg

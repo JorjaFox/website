@@ -2,8 +2,6 @@
 layout: actor
 title: "The West Wing"
 description: "Secret Service Agent Gina Toscano has the toughest job of all: protecting the president's youngest daughter."
-categories: ["Filmography"]
-tags: ["Television"]
 imdb: https://www.imdb.com/title/tt0200276/
 actorimage: /img/actors/west-wing.jpg
 episodelist: true

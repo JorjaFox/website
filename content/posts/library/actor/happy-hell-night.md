@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Happy Hell Night"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "happy-hell-night"
 imdb: https://www.imdb.com/title/tt0236283/
 actorimage: /img/actors/happy-hell-night.jpg

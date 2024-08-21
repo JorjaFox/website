@@ -7,8 +7,11 @@
 {{ if .Get "order" }}{{ $order = .Get "order" }}{{ end }}
 {{ if .Get "count" }}{{ $count = .Get "count" }}{{ end }}
 
-{{ $yeartranscripts := ( where ( where ( where .Site.Pages.ByDate "Layout" "transcript") "Params.interviewurl" "!=" nil ) ".Params.tags" "intersect" $tags ) }}
-{{ $len := len $yeartranscripts }}
+{{ $inter_pages    := where .Site.Pages.ByDate "Layout" "transcript" }}
+{{ $inter_articles := where $inter_pages "Params.interviewurl" "ne" nil }}
+{{ $inter_year     := where $inter_articles ".Params.interviewtags" "eq" $pagedate }}
+
+{{ $len := len $inter_year }}
 
 {{ if eq $order "reverse" }}<br />&nbsp;{{ end }}
 
@@ -29,14 +32,14 @@
                 <td colspan="2">There are no transcripts for {{ $pagedate }} yet.</td>
             </tr>
         {{ else if eq $order "reverse" }}
-            {{ range first $count $yeartranscripts.Reverse }}
+            {{ range first $count $inter_year.Reverse }}
                 <tr>
                     <td>{{ .Date.Format "January 02" }}</td>
                     <td><a href="{{ .Permalink }}">{{ htmlUnescape .Title }}</a></td>
                 </tr>
             {{ end }}
         {{ else }}
-            {{ range $yeartranscripts }}
+            {{ range $inter_year }}
                 <tr>
                     <td>{{ .Date.Format "January 02" }}</td>
                     <td>

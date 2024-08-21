@@ -2,7 +2,6 @@
 title: Racing Extinction
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Animal Rights"
   - Environmentalism

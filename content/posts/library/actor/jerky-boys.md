@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "The Jerky Boys"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "jerky-boys"
 imdb: https://www.imdb.com/title/tt0110189/
 actorimage: /img/actors/jerky-boys.jpg

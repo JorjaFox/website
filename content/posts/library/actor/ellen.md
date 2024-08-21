@@ -2,8 +2,6 @@
 title: "Ellen"
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: ellen
 imdb: https://www.imdb.com/title/tt0570077/
 actorimage: /img/actors/ellen.jpg

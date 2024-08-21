@@ -2,8 +2,6 @@
 layout: library
 title: Library
 description: Welcome to the Fans of LeFox Library
-categories: ["Jorja Fox"]
-tags: ["Index"]
 noToc: true
 type: index
 ---

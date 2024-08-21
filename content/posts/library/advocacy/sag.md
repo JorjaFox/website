@@ -2,7 +2,6 @@
 title: Screen Actors Guild
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Acting
   - Unions

@@ -2,7 +2,6 @@
 title: Andean Bear Conservation Project
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Animal Rights"
 website: https://www.andeanbear.org/

@@ -4,7 +4,6 @@ date: 2015-12-03
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
-categories: ["Articles", "News"]
 newstitle: "William Petersen on Manhattan, Michael Mann, and sailing into the sunset on CSI"
 newsreporter: "Will Harris"
 newssource: "A.V. Club"

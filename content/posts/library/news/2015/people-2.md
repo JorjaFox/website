@@ -4,7 +4,6 @@ date: 2015-09-27
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
-categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "CSI Insiders Look Back Before Finale, Remember a 'Lippy' Young Justin Bieber and How Taylor Swift Made Them Realize They'd 'Made It'"
 newsreporter: Scott Huver

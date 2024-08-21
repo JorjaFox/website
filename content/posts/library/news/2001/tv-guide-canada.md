@@ -4,7 +4,6 @@ date: 2001-09-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Foxy Lady - 50 Most Beautiful People
 newsreporter: Staff

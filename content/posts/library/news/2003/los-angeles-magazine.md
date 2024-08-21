@@ -4,7 +4,6 @@ date: 2003-10-01
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
-categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: "Los Angeles' Race for the Cure"
 newsreporter: Bekah Wright

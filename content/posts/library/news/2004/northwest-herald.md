@@ -4,7 +4,6 @@ date: 2004-08-04
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
-categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Fox, Eads stick together"
 newsreporter: Staff

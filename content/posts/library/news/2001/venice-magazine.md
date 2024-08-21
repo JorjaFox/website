@@ -4,7 +4,6 @@ date: 2001-04-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "For Jorja Fox It's Personal"
 newsreporter: Staff

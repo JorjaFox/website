@@ -4,7 +4,6 @@ date: 2021-10-08
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "What Excited _CSI: Vegas_’ Jorja Fox About Returning As Sara Sidle"
 newsreporter: "Tom O'Brian"
 newssource: "Central Recorder"

@@ -4,7 +4,6 @@ date: 2014-09-16
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
-categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Fifteen Years at County General: Definitively Ranking the Cast of 'ER'"
 newsreporter: David Sims

@@ -4,7 +4,6 @@ date: 2021-10-06
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "'CSI: Vegas': Jorja Fox on Leaving 'The West Wing' for the OG 'CSI,' and Why Sara Couldn't Come Back Without Grissom"
 newsreporter: "Liz Shannon Miller"
 newssource: "Collider"

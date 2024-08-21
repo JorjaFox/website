@@ -4,7 +4,6 @@ date: 2016-07-07
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2016"]
-categories: ["Articles", "News"]
 newstitle: "'My empathy and compassion for the human condition came first, and then it expanded'"
 newsreporter: "Lucy Moore"
 newssource: "FemaleFirst"

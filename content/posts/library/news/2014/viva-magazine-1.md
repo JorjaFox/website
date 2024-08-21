@@ -4,7 +4,6 @@ date: 2014-04-01
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
-categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Lady Luck"
 newsreporter: Bonnie Siegler | Photography Elisabeth Caren

@@ -4,7 +4,6 @@ date: 2022-01-25
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
-categories: ["Articles", "News"]
 newstitle: "Jorja Fox Exits 'CSI: Vegas' Ahead of Season 2"
 newsreporter: "Phillipa Ng"
 newssource: "ET online"

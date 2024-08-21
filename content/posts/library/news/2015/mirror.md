@@ -4,7 +4,6 @@ date: 2015-09-15
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
-categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: Watch CSI Immortality teaser as the team comes back together for one last case
 newsreporter: Alistair McGeorge

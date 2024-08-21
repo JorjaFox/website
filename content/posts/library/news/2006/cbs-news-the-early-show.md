@@ -4,7 +4,6 @@ date: 2006-05-10
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: ["Articles", "News"]
 tags: ["2006"]
 
 newstitle: "The Early Show: Inside Minds Of 'CSI' Characters"

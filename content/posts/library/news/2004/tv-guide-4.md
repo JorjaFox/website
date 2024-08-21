@@ -4,7 +4,6 @@ date: 2004-11-18
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
-categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Days' Diva Gender-Bends on CSI"
 newsreporter: Staff

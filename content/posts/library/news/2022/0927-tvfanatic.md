@@ -4,7 +4,6 @@ date: 2022-09-27
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
-categories: ["Articles", "News"]
 newstitle: "CSI: Vegas Reveals What Happened to Sara Sidle and Gil Grissom"
 newsreporter: "Paul Dailly"
 newssource: "TV Fanatic"

@@ -4,7 +4,6 @@ date: 2021-10-01
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "‘CSI’ is back to showcase ‘latest and greatest of Las Vegas’"
 newsreporter: "Christopher Lawrence"
 newssource: "Las Vegas Review-Journal"

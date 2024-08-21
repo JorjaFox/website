@@ -4,7 +4,6 @@ date: 2004-01-27
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
-categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Blue Crush"
 newsreporter: Staff

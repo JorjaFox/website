@@ -4,7 +4,6 @@ date: 2021-11-03
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "'CSI: Vegas' Star Jorja Fox Warns Grissom and Sara Are at Their Lowest Point (Exclusive)"
 newsreporter: "Phillipa Ng"
 newssource: "ET"

@@ -4,7 +4,6 @@ date: 2003-08-24
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
-categories: ["Articles", "News"]
 newstitle = CSI: Review
 newsreporter: Staff
 newssource: Hearald Sun TV Guide

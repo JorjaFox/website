@@ -3,7 +3,6 @@ title: 'In the Shadow of Two Gunmen: Part I'
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/west-wing/:title/
-categories: ["Recaps"]
 tags: ["The West Wing"]
 station: NBC
 showname: "The West Wing"

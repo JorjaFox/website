@@ -3,7 +3,6 @@ title: Georgia
 date: 2000-01-02
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newstitle: Review

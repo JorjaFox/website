@@ -4,7 +4,6 @@ date: 2021-12-18
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "CSI: Vegas Showrunner Solves the Mystery of That Cut 'GSR' Kiss"
 newsreporter: "Matt Mitovitch"
 newssource: "TVLine"

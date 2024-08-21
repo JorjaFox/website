@@ -21,14 +21,14 @@ No, "Fans of LeFox" (formerly "Jorja Fox: Online") is run by fans for the purpos
 
 ### Is this the official Jorja Fox site?
 
-No, this is not.  Jorja's official site is [JorjaFox.ORG](https://jorjafox.org)
+No, this is not.  Jorja's official site is [JorjaFox.COM](https://jorjafox.com)
 
 ### How can I contact Jorja?
 
 Fan mail request-sending by postal mail only:
 
-Studio Fan Mail
-1048 Irvine Ave #624
+Studio Fan Mail \
+1048 Irvine Ave #624 \
 Newport Beach, CA 92660
 
 ### What's Jorja's Social Media?

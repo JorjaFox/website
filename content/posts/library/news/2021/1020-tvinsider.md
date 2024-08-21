@@ -4,7 +4,6 @@ date: 2021-10-20
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas’ EP & Star on That Metaphor for Gil & Sara’s Relationship, the Hodges Case & More"
 newsreporter: "Maggie Helpern"
 newssource: "TV Insider"

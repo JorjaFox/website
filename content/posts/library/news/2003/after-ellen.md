@@ -4,7 +4,6 @@ date: 2003-03-15
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
-categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Maggie Doyle and the Lesbian-Feminist Connection
 newsreporter: Sarah Warn

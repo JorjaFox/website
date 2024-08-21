@@ -4,7 +4,6 @@ date: 2001-07-09
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Dead Heat
 newsreporter: Staff

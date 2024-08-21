@@ -4,7 +4,6 @@ date: 2021-10-05
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "My worst moment: ‘CSI’ star Jorja Fox and being pressured into silence"
 newsreporter: "Nina Metz"
 newssource: "Chicago Tribune"

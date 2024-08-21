@@ -4,7 +4,6 @@ date: 2021-11-30
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "Jorja Fox Reveals Her Thoughts On A CSI: Vegas Season 2"
 newsreporter: "Lexi Heinitz"
 newssource: "Looper"

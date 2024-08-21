@@ -4,7 +4,6 @@ date: 2003-01-12
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
-categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Who's News
 newsreporter: Staff

@@ -4,7 +4,6 @@ date: 2001-08-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
 tags: ["2001"]
 newsreporter: Jorja Fox
 newssource: Jezebel Magazine

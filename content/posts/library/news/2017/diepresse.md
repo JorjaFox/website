@@ -4,7 +4,6 @@ date: 2017-07-17
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2017"]
-categories: ["Articles", "News"]
 newstitle: "Photography: Naked, stars and wild horses"
 newsreporter: "Teresa Schaur-Wünsch"
 newssource: "Die Presse"

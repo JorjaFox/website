@@ -4,7 +4,6 @@ date: 2022-08-08
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
-categories: ["Articles", "News"]
 newstitle: "CSI Fans Noticed A Major Change In Sara's Character In CSI: Vegas"
 newsreporter: "Chris Perez"
 newssource: "Looper"

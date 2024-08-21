@@ -4,7 +4,6 @@ date: 2010-01-25
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2010"]
-categories: ["Articles", "News"]
 permalink: /news/2010/:title/
 
 newstitle: "Best Bets  "

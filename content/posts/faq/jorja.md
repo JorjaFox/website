@@ -45,17 +45,17 @@ Jorja lives around the Los Angeles area in California.
 
 Her official fan mail contact is as follows:
 
-Studio Fan Mail
-1048 Irvine Ave #624
+Studio Fan Mail \
+1048 Irvine Ave #624 \
 Newport Beach, CA 92660
 
 ### How do I get an autographed picture of her?
 
-Send a letter to the above address. It may take a long time to get a reply though. All her fan mail is checked before it gets to her.
+Send a letter to the above address. It may take a long time to get a reply, as all her fan mail is checked before it gets to her.
 
 ### Will you forward my email too her?
 
-I would if I could, but as I can't, please don't email personal letters to me. It's very embarrassing for me to read the reeeeally personal details of total strangers.
+Sadly we can't help you there. Also it's incredibly uncomfortable to read all those personal messages, so please don't email me thinking you'll get to Jorja! You just sent an email to a very confused fan.
 
 ### What's her official website?
 

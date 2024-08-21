@@ -4,7 +4,6 @@ date: 2009-10-05
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
-categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "In Box  "

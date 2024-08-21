@@ -4,7 +4,6 @@ date: 2022-03-27
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
-categories: ["Articles", "News"]
 newstitle: "The Most Shocking Cast Exits Announced (So Far) This Year"
 newsreporter: "Rebecca Iannucci"
 newssource: "TVLine"

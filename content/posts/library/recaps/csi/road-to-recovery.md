@@ -3,8 +3,6 @@ title: "Road To Recovery"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,4 +18,4 @@ The CSI team investigates the death of a woman full of alcohol and drugs in a po
 
 ## Review
 
-_Sara Sidle does not appear in this episode._
+{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

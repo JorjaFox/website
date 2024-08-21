@@ -3,8 +3,6 @@ title: "The Book Of Shadows"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,4 +18,4 @@ The CSI team suspects foul play when a chemistry teacher's science experiment go
 
 ## Review
 
-_Sara Sidle does not appear in this episode._
+{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

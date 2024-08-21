@@ -4,7 +4,6 @@ date: 2021-11-17
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "‘CSI’ Comeback Wasn’t Easy For William Petersen & Jorja Fox"
 newsreporter: "Hollywood Outbreak"
 newssource: "Hollywood Outbreak"

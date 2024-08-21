@@ -4,7 +4,6 @@ date: 2015-09-17
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
-categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "5 things we learned at the 'CSI' farewell salute"
 newsreporter: Mary Sollosi

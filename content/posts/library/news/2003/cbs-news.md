@@ -4,7 +4,6 @@ date: 2003-01-09
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
-categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: "'C.S.I.' Tunes"
 newsreporter: Staff

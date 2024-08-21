@@ -4,7 +4,6 @@ date: 2003-01-26
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
-categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: CSI Castmates Are Best Friends
 newsreporter: Staff

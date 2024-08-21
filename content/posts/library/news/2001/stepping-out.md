@@ -4,7 +4,6 @@ date: 2001-04-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "Jorja Fox Shines On TV's Hottest Show"
 newsreporter: Staff

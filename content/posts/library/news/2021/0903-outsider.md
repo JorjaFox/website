@@ -4,7 +4,6 @@ date: 2021-09-03
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas’ Has ‘Ace in the Hole’ with New Promo"
 newsreporter: "Joe Rutland"
 newssource: "Outsider"

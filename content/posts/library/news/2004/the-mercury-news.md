@@ -4,7 +4,6 @@ date: 2004-07-15
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
-categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "CSI actors fired for breach of contract"
 newsreporter: Staff

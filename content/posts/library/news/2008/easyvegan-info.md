@@ -4,7 +4,6 @@ date: 2008-11-07
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
-categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: "Sara Sidle: From 'CSI' to Terra-ist  "

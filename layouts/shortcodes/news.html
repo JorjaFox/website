@@ -7,7 +7,7 @@
 {{ if .Get "order" }}{{ $order = .Get "order" }}{{ end }}
 {{ if .Get "count" }}{{ $count = .Get "count" }}{{ end }}
 
-{{ $yearnews := ( where ( where ( where .Site.Pages.ByDate "Layout" "news") "Params.newstitle" "!=" nil ) ".Params.tags" "intersect" $tags ) }}
+{{ $yearnews := ( where ( where ( where .Site.Pages.ByDate "Layout" "news") "Params.newstitle" "!=" nil ) ".Params.newstags" "intersect" $tags ) }}
 {{ $len := len $yearnews }}
 
 {{ if eq $order "reverse" }}<br />&nbsp;{{ end }}

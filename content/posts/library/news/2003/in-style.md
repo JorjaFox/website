@@ -3,7 +3,6 @@ title: In Style
 date: 2003-03-01
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 tags: ["2003"]
 permalink: /news/2003/:title/
 newstitle: Guess Who's Serving You Dinner?

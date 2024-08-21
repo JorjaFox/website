@@ -5,7 +5,6 @@ date: 2004-04-01
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
-categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Now she's crowing"
 newsreporter: Staff

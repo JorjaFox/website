@@ -3,7 +3,6 @@ title: Alliance-Atlantis
 date: 2000-08-09
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newssource: Alliance Atlantis

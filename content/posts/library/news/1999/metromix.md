@@ -5,7 +5,6 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
-categories: ["Articles", "News"]
 newstitle: Relationships are at the core of 'The Hungry Bachelors Club'
 newsreporter: John Petrakis
 newssource: Chicago MetroMix

@@ -4,7 +4,6 @@ date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
-categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: CSI Series Finale Drives Little Social Buzz
 newsreporter: Karen Fratti

@@ -4,7 +4,6 @@ date: 2008-04-17
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
-categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: "CSI Paparazzi: Jorja Fox visits Costa Rica  "

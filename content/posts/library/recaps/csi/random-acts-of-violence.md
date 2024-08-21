@@ -3,8 +3,6 @@ title: "Random Acts of Violence"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,4 +18,4 @@ Warrick is the focus of this intense hour in which he allows emotion to trump ev
 
 ## Review
 
-_Sara Sidle does not appear in this episode._
+{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

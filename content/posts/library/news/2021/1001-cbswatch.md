@@ -4,7 +4,6 @@ date: 2021-10-01
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "What Happens in Vegas"
 newsreporter: "Mara Reinstein"
 newssource: "CBS Watch"

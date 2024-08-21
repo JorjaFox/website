@@ -4,7 +4,6 @@ date: 2014-07-01
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
-categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "GILT-Y Pleasures"
 newsreporter: Staff

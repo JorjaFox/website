@@ -4,7 +4,6 @@ date: 2022-09-24
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
-categories: ["Articles", "News"]
 newstitle: "Here's How CSI: Vegas Will Write Out Sara and Gil in Season 2"
 newsreporter: "Matt Webb Mitovitch"
 newssource: "TVLine"

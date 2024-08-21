@@ -4,7 +4,6 @@ date: 2003-06-11
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
-categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: "'CSI' star's come a long way since her school days in Brevard"
 newsreporter: Staff

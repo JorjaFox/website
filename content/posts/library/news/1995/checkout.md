@@ -3,7 +3,6 @@ title: Checkout
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1995/:title/
-categories: ["Articles", "News"]
 tags: ["1995"]
 newstitle: Review
 date: 1995-01-01

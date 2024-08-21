@@ -3,8 +3,6 @@ title: "Genetic Disorders"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,4 +18,4 @@ A dead man is found in the bed of Dr. Al Robbins, by his wife Judy. The implicat
 
 ## Review
 
-_Sara Sidle does not appear in this episode._
+{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

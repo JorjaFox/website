@@ -4,7 +4,6 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1997/:title/
 tags: ["1997"]
-categories: ["Articles", "News"]
 newstitle: The Buzz
 date: 1997-03-18
 newsreporter: Staff

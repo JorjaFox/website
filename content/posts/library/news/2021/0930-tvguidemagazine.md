@@ -4,7 +4,6 @@ date: 2021-08-30
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "Fall Preview 2021"
 newsreporter: "Jim Halterman"
 newssource: "TV Guide Magazine"

@@ -4,7 +4,6 @@ date: 2002-07-01
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
-categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Babe Between Bodybags
 newsreporter: Dutch text by Belinda Janssen, translated by Isis de Jong.

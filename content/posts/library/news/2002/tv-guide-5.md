@@ -4,7 +4,6 @@ date: 2002-12-14
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
-categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Hollywood Grapevine
 newsreporter: Staff

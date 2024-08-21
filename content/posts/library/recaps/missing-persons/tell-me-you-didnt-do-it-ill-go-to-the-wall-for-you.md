@@ -3,7 +3,6 @@ title: "Tell Me You Didn't Do It ... I'll Go to the Wall for You"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/missing-persons/:title/
-categories: ["Recaps"]
 tags: ["Missing Persons"]
 station: ABC
 showname: "Missing Persons"

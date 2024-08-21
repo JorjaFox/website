@@ -3,7 +3,6 @@ title: Newsday
 date: 2000-09-24
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
 tags: ["2000"]
 newstitle: Weird, wild and witty

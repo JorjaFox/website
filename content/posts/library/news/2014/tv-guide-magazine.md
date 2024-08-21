@@ -4,7 +4,6 @@ date: 2014-09-22
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
-categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Returning Favorites: CSI"
 newsreporter: Michael Logan

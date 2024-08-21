@@ -4,7 +4,6 @@ date: 2022-01-26
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
-categories: ["Articles", "News"]
 newstitle: "What is Jorja Fox's net worth? Fortune explored as actress quits CSI: Vegas"
 newsreporter: "Amlan Chakraborty"
 newssource: "SK Pop"

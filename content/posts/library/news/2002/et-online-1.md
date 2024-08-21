@@ -4,7 +4,6 @@ date: 2002-10-17
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
-categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: "CSI's Invasion of the Little People"
 newsreporter: Staff

@@ -4,7 +4,6 @@ date: 2021-03-31
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "CSI Sequel Series Formally Greenlit at CBS; Wallace Langham Returning Alongside William Petersen, Jorja Fox"
 newsreporter: "Michael Ausiello"
 newssource: "TV Line"

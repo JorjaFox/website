@@ -4,7 +4,6 @@ date: 2021-11-12
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "This Is The Best Couple From CSI"
 newsreporter: "Nathan Richard"
 newssource: "Looper"

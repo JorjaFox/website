@@ -4,7 +4,6 @@ date: 2021-11-03
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas’: Jorja Fox Says Sara & Grissom Are ‘Pushed to the Limits’ After the Latest Twist"
 newsreporter: "Meredith Jacobs"
 newssource: "TVInsider"

@@ -4,7 +4,6 @@ date: 2014-10-12
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
-categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "'CSI' Season 15 News, Spoilers: Will Someone DIE? Sara And Greg Quarantined After Exposure To Deadly Pathogen [VIDEO]"
 newsreporter: Jess Goodwin

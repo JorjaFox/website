@@ -3,8 +3,7 @@ title: The New York Times
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1992/:title/
-categories: ["Articles", "News"]
-tags: ["1992"]
+newstags: ["1992"]
 newstitle: "Review/Television; 'Afterschool' Mini-Series on Life at the Mall"
 date: 1992-03-19
 newsreporter: John J. O'Conner

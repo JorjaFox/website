@@ -4,7 +4,6 @@ date: 2014-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
-categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Watch Julie Finlay Face Death in 'CSI' Season 15 Premiere"
 newsreporter: Sandra Gonzalez

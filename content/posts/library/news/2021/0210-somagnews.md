@@ -4,7 +4,6 @@ date: 2021-02-10
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "The reason Jorja Fox decided to leave the show"
 newsreporter: "Kaitlyn Kubrick"
 newssource: "Somag News"

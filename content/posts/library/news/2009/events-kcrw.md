@@ -4,7 +4,6 @@ date: 2009-09-25
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
-categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "Jorja Fox is our Guest DJ  "

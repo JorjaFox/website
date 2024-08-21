@@ -4,7 +4,6 @@ date: 2002-11-01
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
-categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Jorja Fox and Archie Kayo Talk About "C.S.I." at the Premiere of "The Emperor's Club"
 newsreporter: Rebecca Murray

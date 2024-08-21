@@ -1,11 +1,31 @@
-<ul class="list-group">
-    <li class="list-group-item active text-uppercase" aria-current="true"><h5><center>Jorja Fox</center></h5></li>
-    <li class="list-group-item"><a href="/library/biographies/">Who is Jorja Fox?</a></li>
-    <li class="list-group-item"><a href="/library/filmography/">Filmography</a></li>
-    <li class="list-group-item"><a href="/library/seafox/">Seafox Productions</a></li>
-    <li class="list-group-item"><a href="https://jorjafox.com/">Official Website</a></li>
-    <li class="list-group-item"><center>
-        <a href="https://www.facebook.com/JorjaFoxWorldwide">{{ partial "assets/icon.html" (dict "icon" "fab facebook") }}</a>
-        <a href="https://twitter.com/jorjafoxofficia">{{ partial "assets/icon.html" (dict "icon" "fab x-twitter") }}</a>
-    </center></li>
+<ul class="nav nav-pills nav-flush flex-column mb-auto text-center">
+    <li class="nav-item">
+      <a href="/" class="nav-link active py-3 border-bottom rounded-0" aria-current="page" data-bs-toggle="tooltip" data-bs-placement="right" aria-label="Home" data-bs-original-title="Home">
+        <img src="/logo.svg" alt="Fans of LeFox logo" height="30" width="30">
+      </a>
+    </li>
+    <li>
+      <a href="/library/biographies/" class="nav-link py-3 border-bottom rounded-0" data-bs-toggle="tooltip" data-bs-placement="right" aria-label="Biographies" data-bs-original-title="Biographies">
+        {{- partial "assets/icon.html" (dict "icon" "fas book-open-reader" "spacing" false) }}
+      </a>
+    </li>
+    <li>
+      <a href="/library/filmography/" class="nav-link py-3 border-bottom rounded-0" data-bs-toggle="tooltip" data-bs-placement="right" aria-label="Filmography" data-bs-original-title="Filmography">
+        {{- partial "assets/icon.html" (dict "icon" "fas film" "spacing" false) }}
+      </a>
+    </li>
+    <li>
+      <a href="/library/seafox/" class="nav-link py-3 border-bottom rounded-0" data-bs-toggle="tooltip" data-bs-placement="right" aria-label="Seafox Productions" data-bs-original-title="Seafox Productions">
+        {{- partial "assets/icon.html" (dict "icon" "fas water" "spacing" false) }}
+      </a>
+    </li>
+    <li>
+      <a href="https://jorjafox.com/" class="nav-link py-3 border-bottom rounded-0" data-bs-toggle="tooltip" data-bs-placement="right" aria-label="Official Website" data-bs-original-title="Official Website">
+        {{- partial "assets/icon.html" (dict "icon" "fas house-chimney-user" "spacing" false) }}
+      </a>
+    </li>
+    <li class="nav-link py-3 border-bottom rounded-0">
+        <a href="https://www.facebook.com/JorjaFoxWorldwide" data-bs-toggle="tooltip" data-bs-placement="right" aria-label="Jorja Fox on Facebook" data-bs-original-title="Jorja Fox on Facebook">{{ partial "assets/icon.html" (dict "icon" "fab facebook") }}</a>
+        <a href="https://www.facebook.com/JorjaFoxWorldwide" data-bs-toggle="tooltip" data-bs-placement="right" aria-label="Jorja Fox on X/Twitter" data-bs-original-title="Jorja Fox on X/Twitter">{{ partial "assets/icon.html" (dict "icon" "fab x-twitter") }}</a>
+    </li>
 </ul>

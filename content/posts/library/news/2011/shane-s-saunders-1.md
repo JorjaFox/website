@@ -4,7 +4,6 @@ date: 2011-03-10
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2011"]
-categories: ["Articles", "News"]
 permalink: /news/2011/:title/
 
 newstitle: "Interview: Christopher Barbour"

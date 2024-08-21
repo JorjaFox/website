@@ -4,7 +4,6 @@ date: 2021-08-31
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
-categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas’: Jorja Fox on Whether Sara & Grissom Have Changed (VIDEO)"
 newsreporter: "Jim Halterman"
 newssource: "TV Insider"

@@ -4,7 +4,6 @@ date: 2008-10-24
 transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
-categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Faith and More!  "

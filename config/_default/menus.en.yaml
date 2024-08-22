@@ -55,3 +55,19 @@ footer:
   parent: Links
   pageRef: https://jorjafox.net/feed.xml
   weight: 40
+
+jorja:
+- name: Follow Jorja Fox
+  weight: 10
+- name: Official Website
+  parent: Follow Jorja Fox
+  pageRef: https://jorjafox.net
+  weight: 10
+- name: X/Twitter
+  parent: Follow Jorja Fox
+  pageRef: https://twitter.com/jorjafoxofficia
+  weight: 20
+- name: Facebook
+  parent: Follow Jorja Fox
+  pageRef: https://www.facebook.com/jorjafoxofficial
+  weight: 30

@@ -9,6 +9,13 @@
     {{- errorf "partial [footer/footer.html] - Missing value for param 'page'" -}}
 {{- end -}}
 
+{{- $jorjaName := "jorja" }}
+{{- $jorjas := index site.Menus $jorjaName -}}
+{{- if or (ne (printf "%T" $jorjas) "navigation.Menu") (ne (index $jorjas 0).Menu $jorjaName) -}}
+    {{- errorf "partial [footer/footer.html] - Invalid value for param 'jorjas': %s" $jorjaName -}}
+{{- end -}}
+
+
 {{- $menuName := "footer" }}
 {{- $menus := index site.Menus $menuName -}}
 {{- if or (ne (printf "%T" $menus) "navigation.Menu") (ne (index $menus 0).Menu $menuName) -}}
@@ -19,9 +26,16 @@
     <div class="container-xxl px-3 px-xxl-0 py-5">
         <div class="row">
             <div class="col-md-4 small">
-                <div class="pt-3"><center>
-                    <a href="{{ site.Home.RelPermalink }}"><img class="img-fluid " src="/img/logo.svg" height="150" width="150" alt="Fans of LeFox"></a>
-                </center></div>
+                <div class="pt-3">
+                    {{- range $jorja := $jorjas -}}
+                        <div class="fs-md-5 fs-6 fw-bold footer-muted">{{ .Name }}</div>
+                        {{- range .Children -}}
+                            <div class="py-1">
+                                {{- partial "assets/navbar-item.html" (dict "menu" . "page" $page "class" "link-bg-footer") -}}
+                            </div>
+                        {{- end -}}
+                    {{- end -}}
+                </div>
             </div>
             <div class="col-md-4 small">
                 {{- range $menu := $menus -}}

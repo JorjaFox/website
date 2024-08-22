@@ -3,7 +3,7 @@ title: Defamer Business
 date: 2004-07-23
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Trade Round-Up: 'Joey''s New Love Interest Crowned"
 newsreporter: Mark

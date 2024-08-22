@@ -3,7 +3,7 @@ title: "Looper"
 date: 2021-10-04
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "Jorja Fox Opens Up About Returning To CSI: Vegas"
 newsreporter: "Eric Betts"
 newssource: "Looper"

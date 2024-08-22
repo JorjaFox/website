@@ -4,8 +4,7 @@ date: 2007-11-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "A terrific 'CSI': Sara Sidle leaves in classic style  "
 newsreporter: Hal Boedecker

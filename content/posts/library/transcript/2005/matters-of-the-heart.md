@@ -5,8 +5,7 @@ layout: transcript
 date: 2005-10-10
 interviewurl: https://www.cbs.com
 permalink: /transcript/2005/:title/
-categories: ["Interviews"]
-tags: [ "2005" ]
+interviewyear: "2005"
 ---
 
 It's kind of a funny thing about our show, 'cause I say that the audience is almost split down the middle, where about 50% of the audience really just wants to, they want the stories. They don't wanna get into the characters personal lives all that much. And then the whole other 50% of the audience wants always to know more about the characters. It's a unique conundrum for the writers, and I think they handle it very gracefully and ... they're always disappointing _someone_ and they're always making someone happy. So they tend to follow their hearts a lot and just write what they feel, and, ah.

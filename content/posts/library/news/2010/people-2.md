@@ -4,8 +4,7 @@ date: 2010-02-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "'CSI' Star Jorja Fox, HSUS Team Up Against Dogfighting  "
 newsreporter: Kate Hogan

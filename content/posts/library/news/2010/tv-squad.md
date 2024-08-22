@@ -4,8 +4,7 @@ date: 2010-10-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Happy World Vegetarian Day to Our Favorite TV Herbivores  "
 newsreporter: Chris Harnick

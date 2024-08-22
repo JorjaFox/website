@@ -3,7 +3,7 @@ title: "Looper"
 date: 2021-12-03
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "How Jorja Fox Really Feels About The New CSI: Vegas Cast"
 newsreporter: "Scott Chernoff"
 newssource: "Looper"

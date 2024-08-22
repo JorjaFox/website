@@ -3,7 +3,7 @@ title: The Male Couple
 date: 2011-07-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2011"]
+newsyear: "2011"
 permalink: /news/2011/:title/
 
 newstitle: "Never Be Ashamed of Who You Are"

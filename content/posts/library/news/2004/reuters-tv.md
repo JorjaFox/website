@@ -3,7 +3,7 @@ title: Reuters TV
 date: 2004-07-22
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Fired 'CSI' Star Hopes to Get Another Chance"
 newsreporter: Staff

@@ -3,7 +3,7 @@ title: Better Nutrition
 date: 2003-02-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: sweet jorja fox
 newsreporter: Barbara Hey

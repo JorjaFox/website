@@ -3,7 +3,7 @@ title: Zap2It
 date: 2014-10-13
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "'CSI' justifies intense Ebola fears with rural outbreaks"
 newsreporter: Whitney McIntosh

@@ -3,7 +3,7 @@ title: TV Guide
 date: 2002-01-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: "What a Crime! No Sex Scenes"
 newsreporter: Staff

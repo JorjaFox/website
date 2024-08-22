@@ -4,8 +4,7 @@ date: 2007-07-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "New cast member could replace Jorja Fox on CSI"
 newsreporter: TV Squad

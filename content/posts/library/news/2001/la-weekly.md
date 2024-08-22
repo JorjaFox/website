@@ -4,7 +4,7 @@ date: 2001-01-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-tags: ["2001"]
+newsyear: "2001"
 newsreporter: Chuck Stephens
 newssource: LA Weekly
 newsurl: https://www.laweekly.com/

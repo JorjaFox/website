@@ -3,7 +3,7 @@ title: In Touch
 date: 2004-05-14
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "*CSI*'s Jorja skips Work"
 newsreporter: Staff

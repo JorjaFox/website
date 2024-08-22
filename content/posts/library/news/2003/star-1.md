@@ -3,7 +3,7 @@ title: Star Magazine
 date: 2003-06-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 newsreporter: Staff
 permalink: /news/2003/:title/
 newstitle: CSI Beauty Going From Lab Drab to Jorja Foxy

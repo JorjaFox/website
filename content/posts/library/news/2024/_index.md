@@ -4,8 +4,7 @@ transcriber: "Mika A. Epstein"
 layout: news-index
 date: 2024-01-01
 permalink: /news/2024/
-categories: ["News"]
-tags: ["2024"]
+newsyear: "2024"
 ---
 
 {{< news >}}

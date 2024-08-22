@@ -4,8 +4,7 @@ date: 2012-09-05
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "Interview with Jorja Fox of CSI Las Vegas & producer of documentary 'How I Became an Elephant'"
 newsreporter: Staff

@@ -5,8 +5,7 @@ transcriber: David Masters
 layout: transcript
 interviewurl: https://www.peta.com
 permalink: /transcript/2005/:title/
-categories: ["Interviews"]
-tags: [ "2005" ]
+interviewyear: "2005"
 
 ---
 

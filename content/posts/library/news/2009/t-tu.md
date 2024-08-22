@@ -4,8 +4,7 @@ date: 2009-10-28
 transcriber: nadiarichard
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: 'Jorja Fox: Long live the return of the (just a little bit) "butch" CSI'
 newsreporter: Myrtille Rambion

@@ -4,8 +4,7 @@ date: 2007-10-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Save 'CSI's' Sara, Or Spend The Money On Crack?"
 newsreporter: MeeVee

@@ -5,8 +5,7 @@ layout: transcript
 date: 2001-01-01
 interviewurl: https://wireimage.com/
 permalink: /transcript/2001/:title/
-categories: ["Interviews"]
-tags: ["2001"]
+interviewyear: "2001"
 ---
 Jorja Fox was interviewed at the premiere of "Memento"
 

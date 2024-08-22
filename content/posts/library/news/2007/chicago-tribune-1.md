@@ -4,8 +4,7 @@ date: 2007-04-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Grissom! Sara! Other stuff! It's the 'CSI' finale"
 newsreporter: Staff

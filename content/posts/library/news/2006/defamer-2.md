@@ -4,8 +4,7 @@ date: 2006-12-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Hollywood Privacy Watch: Kiefer Sutherland-Christmas Tree Peace Accord Still In Effect  "
 newsreporter: Seth

@@ -4,8 +4,7 @@ date: 2007-01-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "What Gay Celebrities And John Mayer Think About Isaiah Washington: A Round-Up"
 newsreporter: Seth

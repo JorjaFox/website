@@ -4,8 +4,7 @@ date: 2011-10-06
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "'CSI' Season 12, Episode3: Like abductor, like daughter  "
 newsreporter: Willie Clark

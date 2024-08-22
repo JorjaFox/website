@@ -4,8 +4,7 @@ date: 2010-08-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Jorja Fox till Fredrik Reinfeldt: StÃ¤ng minkfarmerna!  "
 newsreporter: Administrator

@@ -3,7 +3,7 @@ title: "Reed all about Tracie's Obama adventures"
 date: 2008-08-29
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2008"]
+newsyear: "2008"
 permalink: /news/2008/:title/
 
 newstitle: "Thursday Night Under the Lights  "

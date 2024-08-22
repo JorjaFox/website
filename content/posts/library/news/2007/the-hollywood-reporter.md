@@ -4,8 +4,7 @@ date: 2007-08-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Lucas on scene as 'CSI' newbie"
 newsreporter: The Hollywood Reporter

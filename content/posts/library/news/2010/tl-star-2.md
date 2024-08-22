@@ -4,8 +4,7 @@ date: 2010-08-23
 transcriber: Angela
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Jorja Fox 'I hesitated to re-sign'"
 newsreporter: Staff

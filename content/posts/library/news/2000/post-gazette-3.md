@@ -4,7 +4,7 @@ date: 2000-07-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: Giving Her All
 newsreporter: Staff
 newssource: Post-Gazette

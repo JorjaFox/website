@@ -4,8 +4,7 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' can bleed talent and survive: Jorja Fox's departure shouldn't hurt show  "
 newsreporter: Cristina Kinon

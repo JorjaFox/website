@@ -3,7 +3,7 @@ title: ORIGIN Magazine
 date: 2014-11-11
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "Jorja Fox"
 newsreporter: Robert Piper

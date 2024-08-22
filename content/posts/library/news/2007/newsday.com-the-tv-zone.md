@@ -4,8 +4,7 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Quickie Review: Jorja Fox Says Goodbye (and Good Luck) to 'CSI'"
 newsreporter: Verne Gay

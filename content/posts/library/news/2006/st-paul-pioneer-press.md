@@ -4,8 +4,7 @@ date: 2006-11-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "'CSI' actress wasn't surprised by romance with Grissom  "
 newsreporter: Staff

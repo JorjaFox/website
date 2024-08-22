@@ -4,8 +4,7 @@ date: 2007-10-31
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Ausiello on Bones, Grey's, 24, Lost and More!  "
 newsreporter: Michael Ausiello

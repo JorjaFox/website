@@ -4,8 +4,7 @@ date: 2012-12-21
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "Don't Mess with the Zohar: Backstage at new Dusty Springfield Musical  "
 newsreporter: Kristen Elizabeth

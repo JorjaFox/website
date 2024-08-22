@@ -3,7 +3,7 @@ title: New York Post
 date: 2004-07-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "'BYE GEORGE & JORJA"
 newsreporter: Staff

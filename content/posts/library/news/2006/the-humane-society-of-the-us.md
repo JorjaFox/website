@@ -4,8 +4,7 @@ date: 2006-03-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Red Carpet Quotes: Stars Share Their Thoughts on Animals, Animal Protection, and the Genesis Awards"
 newsreporter: Staff

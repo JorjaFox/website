@@ -3,7 +3,7 @@ title: TV Insider
 date: 2015-10-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "Ask Matt: Is The Good Wife Better Now? Plus, the Castle Breakup, CSI's Finale and More"
 newsreporter: Matt Roush

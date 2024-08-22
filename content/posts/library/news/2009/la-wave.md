@@ -4,8 +4,7 @@ date: 2009-01-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Save Billy from LA Zoo  "
 newsreporter: Terrence Lau

@@ -4,8 +4,7 @@ date: 2009-08-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Jorja Fox sidles back to 'CSI' for several episodes  "
 newsreporter: Dorothy Snarker

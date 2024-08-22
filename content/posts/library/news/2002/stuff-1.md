@@ -3,7 +3,7 @@ title: Star Magazine
 date: 2002-04-20
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: "Foxy Lady!"
 newsurl: https://www.starmagazine.com

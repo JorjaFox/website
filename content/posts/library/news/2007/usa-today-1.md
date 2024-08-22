@@ -4,8 +4,7 @@ date: 2007-10-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Stars in demure mode at Frederick's lingerie show "
 newsreporter: Brent Jones

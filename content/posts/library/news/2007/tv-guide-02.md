@@ -4,8 +4,7 @@ date: 2007-01-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Preview: How Grissom's Exit Will Shake Up 'CSI'!"
 newsreporter: Staff

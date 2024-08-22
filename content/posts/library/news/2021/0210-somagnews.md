@@ -3,7 +3,7 @@ title: "Somag News"
 date: 2021-02-10
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "The reason Jorja Fox decided to leave the show"
 newsreporter: "Kaitlyn Kubrick"
 newssource: "Somag News"

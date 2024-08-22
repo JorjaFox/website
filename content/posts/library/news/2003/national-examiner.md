@@ -3,7 +3,7 @@ title: National Examiner
 date: 2003-09-30
 transcriber: "Mika A. Epstein"
 layout: news
-tags: [2003, tabloids]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: CSI Sex Plot Furor
 newsurl: https://national-examiner.com

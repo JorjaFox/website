@@ -3,7 +3,7 @@ title: "Die Presse"
 date: 2017-07-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2017"]
+newsyear: "2017"
 newstitle: "Photography: Naked, stars and wild horses"
 newsreporter: "Teresa Schaur-Wünsch"
 newssource: "Die Presse"

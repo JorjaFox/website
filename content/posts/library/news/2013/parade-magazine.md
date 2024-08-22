@@ -4,8 +4,7 @@ date: 2013-08-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "CSI's Jorja Fox on Animal Advocacy on TV and in Real Life  "
 newsreporter: Michele C. Hollow

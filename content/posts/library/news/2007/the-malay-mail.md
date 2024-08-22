@@ -4,8 +4,7 @@ date: 2007-03-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "CoverStory: Grissom and gang back to bust crime! - the bright lights of vegas return with season 7"
 newsreporter: The Malay Mail

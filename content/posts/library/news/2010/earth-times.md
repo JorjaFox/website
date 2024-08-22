@@ -4,8 +4,7 @@ date: 2010-05-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "CSI Star Jorja Fox to Provide Updates on Incredible Bolivian Lion Journey  "
 newsreporter: Animal Defenders International

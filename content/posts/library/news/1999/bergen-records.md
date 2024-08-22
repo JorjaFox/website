@@ -4,7 +4,7 @@ date: 1999-02-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
+newsyear: "1999"
 newstitle: A family drama with docs, cops, and inmates
 newsreporter: Gail Shister
 newssource: Bergen Record Corp.

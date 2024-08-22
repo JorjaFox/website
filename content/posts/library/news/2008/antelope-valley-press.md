@@ -4,8 +4,7 @@ date: 2008-09-08
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: " Celebrities, animal lovers turn out for Acton sanctuary's gala"
 newsreporter: Julie Drake

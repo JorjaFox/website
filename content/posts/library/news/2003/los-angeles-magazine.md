@@ -3,7 +3,7 @@ title: Los Angeles Magazine
 date: 2003-10-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: "Los Angeles' Race for the Cure"
 newsreporter: Bekah Wright

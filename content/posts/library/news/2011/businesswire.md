@@ -4,8 +4,7 @@ date: 2011-02-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Bob Barker, Jorja Fox and a Pride of Celebrities Pledge Their Support to ADI's Record Breaking Lion Rescue, Urging People to Give to the Appeal  "
 newsreporter: Staff

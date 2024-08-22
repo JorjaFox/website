@@ -3,7 +3,7 @@ title: "Outsider"
 date: 2021-08-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "‘CSI’: Vegas’ Stars William Peterson & Jorja Fox Reveal How They First Reacted When First Getting Call About Show"
 newsreporter: "Anna Dunn"
 newssource: "Outsider"

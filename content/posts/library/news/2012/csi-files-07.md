@@ -4,8 +4,7 @@ date: 2012-01-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "'CSI Cast & Crew Say Goodbye To Helgenberger  "
 newsreporter: Shane S. Saunders

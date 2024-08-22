@@ -5,8 +5,7 @@ layout: transcript
 date: 2001-04-26
 interviewurl: https://www.cbsnews.com/latest/the-early-show/
 permalink: /transcript/2001/:title/
-categories: ["Interviews"]
-tags: ["2001"]
+interviewyear: "2001"
 ---
 
 "The Early Show" is a CBS morning show. On Thursday, April 26th, they aired a 'behind the scenes' sequence on CSI. Gary Dourdan, George Eads and Jorja Fox gave tours.

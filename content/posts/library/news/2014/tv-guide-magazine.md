@@ -3,7 +3,7 @@ title: TV Guide Magazine
 date: 2014-09-22
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "Returning Favorites: CSI"
 newsreporter: Michael Logan

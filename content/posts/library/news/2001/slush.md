@@ -4,7 +4,7 @@ date: 2001-03-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Whaleness Begins Here
 newsreporter: J.V. McAuley
 newssource: SLUSH - Babes in Babylon

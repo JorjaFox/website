@@ -3,7 +3,7 @@ title: TV Guide
 date: 2004-11-18
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Days' Diva Gender-Bends on CSI"
 newsreporter: Staff

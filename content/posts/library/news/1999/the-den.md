@@ -4,7 +4,7 @@ date: 1999-02-09
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
+newsyear: "1999"
 newstitle: Headed for One True Thing
 newsreporter: Staff
 newssource: The Den

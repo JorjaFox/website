@@ -3,7 +3,7 @@ title: The Wire
 date: 2014-09-22
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "A Definitive Ranking of Every Character on 'The West Wing'"
 newsreporter: Joe Reid, David Sims, Kevin O'Keeffe

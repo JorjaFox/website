@@ -4,8 +4,7 @@ date: 2009-09-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "The Show Girl's Guide to Fall TV: 21 Things To Know"
 newsreporter: Maggie Furlong

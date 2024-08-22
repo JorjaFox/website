@@ -4,7 +4,7 @@ date: 2001-04-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Pet Project
 newsreporter: Paul Semel
 newssource: UNICRU

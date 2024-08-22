@@ -4,8 +4,7 @@ date: 2012-12-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "CSI Season 13 Review 'Risky Business Class' -- Owner of a Lonely Heart  "
 newsreporter: Kristen Elizabeth

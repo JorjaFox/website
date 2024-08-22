@@ -4,8 +4,7 @@ date: 2013-02-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "'CSI's' Long-Suffering Power Couple Face The Music  "
 newsreporter: Lynette Rice

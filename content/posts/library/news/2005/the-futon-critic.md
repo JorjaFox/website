@@ -4,8 +4,7 @@ date: 2005-04-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "CBS Press Release"
 newsreporter: Staff

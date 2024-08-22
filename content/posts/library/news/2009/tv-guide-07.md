@@ -3,7 +3,7 @@ title: TV Guide Magazine
 date: 2009-07-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "*CSI*'s Riley Leaves the Lab  "

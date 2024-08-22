@@ -5,8 +5,7 @@ layout: transcript
 date: 2008-05-04
 interviewurl: https://www.accesshollywood.com
 permalink: /transcript/2008/:title/
-categories: ["Interviews"]
-tags: [ "2008" ]
+interviewyear: "2008"
 ---
 
 **Interviewer:** What are some tips you have to going green?

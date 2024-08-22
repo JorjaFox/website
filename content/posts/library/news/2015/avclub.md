@@ -3,7 +3,7 @@ title: "A.V. Club"
 date: 2015-12-03
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 newstitle: "William Petersen on Manhattan, Michael Mann, and sailing into the sunset on CSI"
 newsreporter: "Will Harris"
 newssource: "A.V. Club"

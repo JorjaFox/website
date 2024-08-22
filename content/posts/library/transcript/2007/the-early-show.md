@@ -5,8 +5,7 @@ layout: transcript
 date: 2007-05-10
 interviewurl: https://www.cbsnews.com
 permalink: /transcript/2007/:title/
-categories: ["Interviews"]
-tags: [ "2007" ]
+interviewyear: "2007"
 ---
 
 Chen's 'CSI' Investigation

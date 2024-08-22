@@ -4,8 +4,7 @@ date: 2007-10-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Jorja Fox: 'CSI' Is a Keeper, So I'm a Goner  "
 newsreporter: Matt Webb Mitovich

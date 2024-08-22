@@ -3,7 +3,7 @@ title: Couriermail
 date: 2014-03-04
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "Elisabeth Shue talks ahead of season 14 of CSI: Crime Scene Investigation"
 newsreporter: Darren Devlyn

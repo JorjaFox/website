@@ -4,8 +4,7 @@ date: 2005-05-30
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Chatter"
 newsreporter: Staff

@@ -4,8 +4,7 @@ date: 2007-10-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' Spoiler Alert! What's next for Gil and Sara?"
 newsreporter: Staff

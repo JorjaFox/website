@@ -5,8 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://youtu.be/4Riq6ek0-rk?t=44m49s
 permalink: /transcript/2015/:title/
-categories: ["Interviews"]
-tags: [ "2015" ]
+interviewyear: "2015"
 ---
 
 **Renee Bargh:** ... Ah but first up we've got Jorja Fox from _CSI_. Hi, how are you?

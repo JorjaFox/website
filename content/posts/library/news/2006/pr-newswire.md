@@ -4,8 +4,7 @@ date: 2006-12-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "TiVo Survey Reveals Top 10 Most Unforgettable TV Moments of 2006 According to American TV Viewers  "
 newsreporter: Staff

@@ -5,8 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.paleycenter.org
 permalink: /transcript/2021/:title/
-categories: ["Interviews"]
-tags: ["2021"]
+interviewyear: "2021"
 aliases:
     - /transcript/2021/paleycenter-0914/
 ---

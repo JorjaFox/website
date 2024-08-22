@@ -4,7 +4,7 @@ date: 2000-07-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: Even celebrities are carried away with castaways
 newsreporter: Staff
 newssource: Post-Gazette Publishing

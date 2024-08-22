@@ -4,8 +4,7 @@ date: 2007-09-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "News on Spike, Sara Sidle and Santos"
 newsreporter: Staff

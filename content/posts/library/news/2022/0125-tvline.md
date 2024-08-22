@@ -3,7 +3,7 @@ title: "TVLine"
 date: 2022-01-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2022"]
+newsyear: "2022"
 newstitle: "Jorja Fox Won't Return for CSI: Vegas Season 2, Explains: 'I Just Can't Split Sara and Grissom Up Again'"
 newsreporter: "Matt Mitovitch"
 newssource: "TVLine"

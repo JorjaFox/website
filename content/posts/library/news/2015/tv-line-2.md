@@ -3,7 +3,7 @@ title: TV Line
 date: 2015-09-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI Finale Preview: Grissom and Sidle's 'Awkward' Reunion, MIA Nick and More"
 newsreporter: Rebecca Iannucci

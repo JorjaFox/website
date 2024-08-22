@@ -5,8 +5,7 @@ layout: transcript
 date: 2002-05-29
 interviewurl: https://www.channel4.com
 permalink: /transcript/2002/:title/
-categories: ["Interviews"]
-tags: ["2002"]
+interviewyear: "2002"
 ---
 
 Jorja Fox (Sara Sidle), Paul Guilfoyle (Jim Brass) and Robert David Hall (Dr. Al 'David' Robbins) were on Ri:se, Channel 4(UK) to promote the season 1 DVD. There was a clip of Season 1 stuff with a voice over and lots of Gary Dourdan (Warrick Brown) clips. Then they showed an interview of Jorja in one hotel room Paul and Robert in another, interspersed with clips form various episodes. There was mention of CSI's ratings success in the US and also for the UK's Channel 5, and a way too enthusiastic commentary from the presenters about the TMI cam for a breakfast show. Also blah blah Jorja Fox is aptly named, she was Maggie Doyle form ER.

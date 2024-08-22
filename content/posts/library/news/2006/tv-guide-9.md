@@ -4,8 +4,7 @@ date: 2006-05-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "TV Guide Blogs: Sara and Grissom Sittin' in a Tree... K-I-S-S-I-N-G  "
 newsreporter: Staff

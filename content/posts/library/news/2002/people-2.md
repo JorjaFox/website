@@ -3,7 +3,7 @@ title: People
 date: 2002-10-03
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: "Inside TV's Top Drama"
 newsreporter: Staff

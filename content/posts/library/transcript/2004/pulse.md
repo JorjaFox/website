@@ -5,8 +5,7 @@ layout: transcript
 date: 2004-02-13
 interviewurl: https://www.pulse.org/
 permalink: /transcript/2004/:title/
-categories: ["Interviews"]
-tags: [ "2004" ]
+interviewyear: "2004"
 ---
 
 "Pulse" is a talk show.

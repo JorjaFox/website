@@ -3,7 +3,7 @@ title: ET Online
 date: 2002-10-31
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: This Week
 newsreporter: Staff

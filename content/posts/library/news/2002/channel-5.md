@@ -3,7 +3,7 @@ title: Channel 5
 date: 2002-03-19
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: CSI star Jorja Fox
 newsreporter: Staff

@@ -4,8 +4,7 @@ date: 2006-11-07
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Shedding some light on season's best trivia  "
 newsreporter: Staff

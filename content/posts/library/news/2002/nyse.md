@@ -3,7 +3,7 @@ title: NYSE
 date: 2002-05-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: NYSE
 newsreporter: Staff

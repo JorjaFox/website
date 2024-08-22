@@ -3,7 +3,7 @@ title: "Looper"
 date: 2021-09-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "The Real Reason George Eads And Jorja Fox Were Fired From CSI"
 newsreporter: "Scott Chernoff"
 newssource: "Looper"

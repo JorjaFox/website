@@ -4,8 +4,7 @@ date: 2009-01-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "About that sentimental 'CSI' sendoff for Grissom ...  "
 newsreporter: Aaron Barnhart

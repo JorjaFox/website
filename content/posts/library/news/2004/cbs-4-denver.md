@@ -3,7 +3,7 @@ title: CBS 4 Denver
 date: 2004-07-15
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Two 'CSI' Stars Fired"
 newsreporter: Staff

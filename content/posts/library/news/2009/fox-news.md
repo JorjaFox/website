@@ -4,8 +4,7 @@ date: 2009-05-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Taylor Swift Opens Up About Her Lack of Friends and Reveals How She Punishes Heart-Breaking Boys  "
 newsreporter: Hollie McKay

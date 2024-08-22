@@ -4,8 +4,7 @@ date: 2008-11-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "There's a new group in town, and Hollywood is excited to learn about it  "
 newsreporter: Anne Schroeder Mullins

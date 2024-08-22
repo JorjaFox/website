@@ -4,7 +4,7 @@ date: 2001-03-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-tags: ["2001"]
+newsyear: "2001"
 newstitle:  The Meaning of 'Memento'
 newsreporter: Staff
 newssource: Zap2it

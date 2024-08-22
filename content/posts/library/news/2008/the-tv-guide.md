@@ -3,7 +3,7 @@ title: The TV Guide
 date: 2008-04-05
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2008"]
+newsyear: "2008"
 permalink: /news/2008/:title/
 
 newstitle: "Life after Jorja"

@@ -4,8 +4,7 @@ date: 2008-07-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "North Texas E-news  "
 newsreporter: Animal Defenders International media release

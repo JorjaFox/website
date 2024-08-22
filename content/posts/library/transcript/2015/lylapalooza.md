@@ -5,8 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://fkr.tv
 permalink: /transcript/2015/:title/
-categories: ["Interviews"]
-tags: [ "2015" ]
+interviewyear: "2015"
 ---
 
 *CSI star Jorja Fox takes time out to chat with Lyla about dogs, insects, and ice cream. Special guest appearance by Belle the puppy.*

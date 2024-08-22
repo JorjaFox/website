@@ -4,8 +4,7 @@ date: 2013-11-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Jorja Foxs New Best Friend: Her Rescue Dog  "
 newsreporter: Jennifer Mishler

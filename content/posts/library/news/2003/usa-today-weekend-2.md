@@ -3,7 +3,7 @@ title: USA Today Weekend
 date: 2003-07-04
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Ready, set, action!
 newsreporter: Brian Truitt

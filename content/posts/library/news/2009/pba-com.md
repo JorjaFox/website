@@ -4,8 +4,7 @@ date: 2009-11-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "JASON'S TV RECAP UNCENSORED - My CSI Experience  "
 newsreporter: Jason Thomas

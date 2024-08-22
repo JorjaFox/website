@@ -4,8 +4,7 @@ date: 2007-10-31
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Off to bed and off the air  "
 newsreporter: Lauren Denhartog

@@ -4,8 +4,7 @@ date: 2007-10-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Exclusive: 'CSI' Boss Vows Jorja Fox is 'Coming Back'"
 newsreporter: Michael Ausiello

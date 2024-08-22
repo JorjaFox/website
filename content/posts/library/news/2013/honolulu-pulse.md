@@ -4,8 +4,7 @@ date: 2013-10-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Freestyle: CSI star jumps in at HIFF  "
 newsreporter: Elizabeth Kieszkowski

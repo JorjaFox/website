@@ -3,7 +3,7 @@ title: Zap 2 It
 date: 2009-07-18
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "'CSI's' Jorja Fox returns  "

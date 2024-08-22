@@ -3,7 +3,7 @@ title: The Age
 date: 2004-12-23
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Beauty and crime?"
 newsreporter: Staff

@@ -4,8 +4,7 @@ date: 2005-04-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Reality TV: Good for Networks, Bad for Network Workers"
 newsreporter: Andrew Murphy

@@ -3,7 +3,7 @@ title: "TV Insider"
 date: 2021-08-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "‘CSI’ Stars William Petersen & Jorja Fox on What’s Next for Grissom & Sara in ‘Vegas’"
 newsreporter: "Jim Halterman"
 newssource: "TV Insider"

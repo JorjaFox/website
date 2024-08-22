@@ -4,8 +4,7 @@ date: 2013-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "CSI: Catherine and Sara INTERROGATED  "
 newsreporter: Craig Tomashoff

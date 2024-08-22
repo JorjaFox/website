@@ -4,8 +4,7 @@ date: 2011-11-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Suit against IMDb shedding light on how birth dates can kill careers  "
 newsreporter: Bob Strauss

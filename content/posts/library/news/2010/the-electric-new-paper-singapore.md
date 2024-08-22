@@ -4,8 +4,7 @@ date: 2010-02-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Back on CSI, but she'd rather get Lost  "
 newsreporter: Charlene Chua

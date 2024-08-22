@@ -3,7 +3,7 @@ title: "Looper"
 date: 2021-11-30
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "Jorja Fox Reveals Her Thoughts On A CSI: Vegas Season 2"
 newsreporter: "Lexi Heinitz"
 newssource: "Looper"

@@ -4,8 +4,7 @@ date: 2007-08-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "The big 'CSI' question -- is Jorja Fox gone?"
 newsreporter: TV Guide CA

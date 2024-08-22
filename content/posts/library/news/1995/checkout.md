@@ -3,7 +3,7 @@ title: Checkout
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1995/:title/
-tags: ["1995"]
+newsyear: "1995"
 newstitle: Review
 date: 1995-01-01
 newsreporter: Sandra Brennan

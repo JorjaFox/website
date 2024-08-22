@@ -4,8 +4,7 @@ date: 2012-01-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "Marg Helgenberger Says Goodbye to CSI  "
 newsreporter: Craig Tomashoff

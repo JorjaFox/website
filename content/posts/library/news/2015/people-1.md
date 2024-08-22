@@ -3,7 +3,7 @@ title: People
 date: 2015-09-23
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "William Petersen, Marg Helgenberger Tease Their CSI Return to Say Goodbye to the Show Where 'Each Day Was an Invention'"
 newsreporter: Lanford Beard

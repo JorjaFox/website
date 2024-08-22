@@ -5,8 +5,7 @@ interviewurl: https://www.redcarpetreporttv.com
 transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2014/:title/
-categories: ["Interviews"]
-tags: [ "2014" ]
+interviewyear: "2014"
 ---
 
 Jorja Fox at the 30th Annual IDA Documentary Awards Gala #IDAawards

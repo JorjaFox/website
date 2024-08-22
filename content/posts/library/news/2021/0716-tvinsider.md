@@ -3,7 +3,7 @@ title: "TV Insider"
 date: 2021-06-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "‘CSI: Vegas,’ ‘NCIS: Hawaii’ & More Spinoffs of Your Fave Procedurals Coming This Fall"
 newsreporter: "TV Insider Staff"
 newssource: "TV Insider"

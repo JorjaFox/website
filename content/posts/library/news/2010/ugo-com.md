@@ -4,8 +4,7 @@ date: 2010-01-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "The 50 Hottest Women on Television  "
 newsreporter: UGO Team

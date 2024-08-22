@@ -3,7 +3,7 @@ title: EW
 date: 2015-09-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI finale: William Petersen's lips are sealed on a potential Sara-Grissom reunion"
 newsreporter: Mary Sollosi

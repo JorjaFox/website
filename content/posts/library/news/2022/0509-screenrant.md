@@ -3,7 +3,7 @@ title: "Screenrant"
 date: 2022-05-09
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2022"]
+newsyear: "2022"
 newstitle: "Sara Sidle's Actress Perfectly Explained Why CSI Fans Dislike Her So Much"
 newsreporter: "Vickie Scullard"
 newssource: "Screenrant"

@@ -3,7 +3,7 @@ title: Entertainment Weekly
 date: 2015-09-14
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI' finale: The cast looks back on 15 seasons"
 newsreporter: Lynette Rice

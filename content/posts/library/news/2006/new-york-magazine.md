@@ -4,8 +4,7 @@ date: 2006-12-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "The Year in TV  "
 newsreporter: Staff

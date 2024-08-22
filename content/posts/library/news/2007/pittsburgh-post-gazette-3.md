@@ -5,8 +5,7 @@ date: 2007-11-30
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "TV Q&A with Rob Owen  "
 newsreporter: Rob Owen

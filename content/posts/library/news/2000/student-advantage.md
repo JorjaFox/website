@@ -4,7 +4,7 @@ date: 2000-08-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: The West Wing NBC
 newsreporter: Staff
 newssource: Student Advantage

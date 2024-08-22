@@ -3,7 +3,7 @@ title: MSN Entertainment
 date: 2011-01-06
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2011"]
+newsyear: "2011"
 permalink: /news/2011/:title/
 
 newstitle: "Entertainment News"

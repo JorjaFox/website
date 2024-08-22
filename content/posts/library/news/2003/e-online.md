@@ -3,7 +3,7 @@ title: E Online
 date: 2003-09-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Watch with Kristin
 newsreporter: Staff

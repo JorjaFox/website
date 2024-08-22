@@ -4,8 +4,7 @@ date: 2011-06-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Japan is well on the road to recovery, ambassador says  "
 newsreporter: Wendy Soderburg

@@ -3,7 +3,7 @@ title: "Showbiz Cheetsheet"
 date: 2021-09-10
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "‘CSI: Vegas’: William Peterson Thought It Was ‘Completely Weird’ Reuniting With Jorja Fox"
 newsreporter: "Perry Carpenter"
 newssource: "Showbiz Cheetsheet"

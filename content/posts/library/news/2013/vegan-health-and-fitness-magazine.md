@@ -4,8 +4,7 @@ date: 2013-06-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Cover Story - How I Became an Elephant: The Movie  "
 newsreporter: Brenda Carey

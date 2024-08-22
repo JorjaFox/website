@@ -4,8 +4,7 @@ date: 2007-10-08
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Spoiler Chat: Stop By for Some Scoop on Friday, Housewives, Grey's and More!"
 newsreporter: Staff

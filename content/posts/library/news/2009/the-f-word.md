@@ -4,8 +4,7 @@ date: 2009-02-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Grissom & Sara  "
 newsreporter: Bill Savage

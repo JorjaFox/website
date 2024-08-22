@@ -3,7 +3,7 @@ title: Living GWG
 date: 2009-04-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "A smouldering photoshoot with Jorja Fox ... where do we begin?  "

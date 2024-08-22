@@ -4,8 +4,7 @@ date: 2011-07-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Jorja Fox Signs On for Full-Time CSI Gig  "
 newsreporter: Rich Juzwiak

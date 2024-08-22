@@ -4,8 +4,7 @@ date: 2007-04-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: CSI To Kill Off Sara Sidle?
 newsreporter: Kris De Leon

@@ -3,7 +3,7 @@ title: Mantra Online
 date: 2002-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: Briefly
 newsreporter: Staff

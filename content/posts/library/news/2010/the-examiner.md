@@ -4,8 +4,7 @@ date: 2010-07-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Cousteau briefs Hollywood on Gulf oil spill  "
 newsreporter: Nikki Schwab

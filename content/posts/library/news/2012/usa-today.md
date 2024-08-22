@@ -4,8 +4,7 @@ date: 2012-09-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "More returning TV series: 'CSI,' 'Bones,' 'Scandal'  "
 newsreporter: Carol Memmott, Bruce Schwartz, Bill Keveny, Brian Truitt

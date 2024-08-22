@@ -3,7 +3,7 @@ title: "Outsider"
 date: 2021-08-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "‘CSI: Vegas’: William Petersen & Jorja Fox Explain How They ‘Pulled a Jimmy Buffett’ for New Show"
 newsreporter: "Lauren Boisvert "
 newssource: "Outsider"

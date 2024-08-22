@@ -4,7 +4,7 @@ title: TV Guide (Brisbane Australia)
 date: 2004-04-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Now she's crowing"
 newsreporter: Staff

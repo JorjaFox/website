@@ -4,8 +4,7 @@ date: 2007-04-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "PopGurls Interview: CSI's Jorja Fox"
 newsreporter: Popgurls.com

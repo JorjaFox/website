@@ -3,7 +3,7 @@ title: Channel Guide Magazine
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI Series Finale: How Did It End?"
 newsreporter: Kellie Freeze

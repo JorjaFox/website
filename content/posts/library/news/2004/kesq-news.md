@@ -3,7 +3,7 @@ title: KESQ News
 date: 2004-07-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "CSI producer expresses sadness after two actors fired"
 newsreporter: Staff

@@ -4,8 +4,7 @@ date: 2009-12-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Jorja Fox Interview  "
 newsreporter: CStaff

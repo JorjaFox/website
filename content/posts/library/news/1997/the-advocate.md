@@ -3,7 +3,7 @@ title: The Advocate
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1997/:title/
-tags: ["1997"]
+newsyear: "1997"
 newstitle: The Buzz
 date: 1997-03-18
 newsreporter: Staff

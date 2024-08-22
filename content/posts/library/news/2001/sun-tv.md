@@ -4,7 +4,7 @@ date: 2001-02-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-tags: ["2001"]
+newsyear: "2001"
 newstitle: "Q&A with CSI's Jorja Fox"
 newsreporter: Staff
 newssource: Sun TV

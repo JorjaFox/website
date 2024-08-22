@@ -5,8 +5,6 @@ layout: transcript-index
 topic: index
 date: 2014-01-01
 permalink: /transcript/2014/
-categories: ["Interviews"]
-tags: [""]
 ---
 
 {{< transcripts >}}

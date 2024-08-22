@@ -4,8 +4,7 @@ date: 2010-12-30
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Celebrity Resolutions for 2011  "
 newsreporter: Staff

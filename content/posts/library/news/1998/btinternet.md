@@ -3,7 +3,7 @@ title: BTinternet
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1998/:title/
-tags: ["1998"]
+newsyear: "1998"
 newstitle: Review
 date: 1998-01-01
 newsreporter: staff

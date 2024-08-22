@@ -5,8 +5,7 @@ layout: transcript
 date: 2013-10-05
 interviewurl: https://www.ad-international.org
 permalink: /transcript/2013/:title/
-categories: ["Interviews"]
-tags: [ "2013" ]
+interviewyear: "2013"
 
 ---
 

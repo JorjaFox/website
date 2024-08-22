@@ -3,7 +3,7 @@ title: USA Today
 date: 2015-09-24
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "Original 'CSI' stars return for final case"
 newsreporter: Bill Keveney

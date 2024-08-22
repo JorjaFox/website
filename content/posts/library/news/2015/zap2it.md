@@ -3,7 +3,7 @@ title: Zap2It
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI' finale says goodbye with morgues, murder and mystery and a happy ending?"
 newsreporter: Larry Carroll

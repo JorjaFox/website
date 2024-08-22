@@ -4,8 +4,7 @@ date: 2008-07-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "'CSI' Star Jorja Fox Campaigns Against Circus Animal Abuse  "
 newsreporter: Jennifer Tormo

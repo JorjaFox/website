@@ -4,8 +4,7 @@ date: 2005-08-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Ask Stacy: Who Makes More, 50 Cent or Nicole Kidman?"
 newsreporter: Staff

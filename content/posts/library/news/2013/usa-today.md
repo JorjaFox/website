@@ -4,8 +4,7 @@ date: 2013-12-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Cause Celeb: Jorja Fox investigates lion rescue  "
 newsreporter: Gayle Jo Carter

@@ -4,8 +4,7 @@ date: 2011-08-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Matt's Inside Line: Scoop on Both NCIS Shows, Two CSIs, Criminal Minds, Chuck and More!  "
 newsreporter: Matt Webb Mitovich

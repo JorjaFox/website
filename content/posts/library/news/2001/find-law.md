@@ -4,7 +4,7 @@ date: 2001-08-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Showbiz people briefs
 newsreporter: Staff
 newssource: Find Law

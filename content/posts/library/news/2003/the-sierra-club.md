@@ -3,7 +3,7 @@ title: The Sierra Club
 date: 2003-07-08
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Celebrities give props to the environment
 newsreporter: Staff

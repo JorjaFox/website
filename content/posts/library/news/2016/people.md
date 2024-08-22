@@ -3,7 +3,7 @@ title: "People"
 date: 2016-03-15
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2016"]
+newsyear: "2016"
 newstitle: "Don't Forget: 15 Things You Didn't Know About Memento, 15 Years Later"
 newsreporter: "Drew Mackie"
 newssource: "People"

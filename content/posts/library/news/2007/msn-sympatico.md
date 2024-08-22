@@ -4,8 +4,7 @@ date: 2007-01-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Jorja Fox spills the beans on what she thinks of William Petersen's replacement"
 newsreporter: Staff

@@ -3,7 +3,7 @@ title: Seattle Post Inteligencer
 date: 2004-07-24
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "People in the News"
 newsreporter: Staff

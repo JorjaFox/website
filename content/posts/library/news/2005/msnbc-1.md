@@ -4,8 +4,7 @@ date: 2005-09-22
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "CSI Crime File - Sept. 22"
 newsreporter: Staff

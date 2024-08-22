@@ -4,8 +4,7 @@ date: 2007-05-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "More on Jorja Fox's Possible Exit from CSI"
 newsreporter: Staff

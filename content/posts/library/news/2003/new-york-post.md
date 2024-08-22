@@ -3,7 +3,7 @@ title: New York Post
 date: 2003-09-03
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: "TV's Weirdest Romance"
 newsreporter: Staff

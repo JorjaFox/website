@@ -3,7 +3,7 @@ title: "Outsider"
 date: 2021-11-04
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "‘CSI: Vegas’ Star Jorja Fox Speaks on ‘Extremely Creepy Moment’ in Crime Lab Scene"
 newsreporter: "Lauren Boisvert"
 newssource: "Outsider"

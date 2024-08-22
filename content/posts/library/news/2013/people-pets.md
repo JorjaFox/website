@@ -4,8 +4,7 @@ date: 2013-11-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Jorja Fox Introduces Her New Rescue Dog  "
 newsreporter: K.C. BLUMM

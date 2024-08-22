@@ -4,8 +4,7 @@ date: 2007-09-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Madonna makes hall of fame list"
 newsreporter: Detroit Free Press

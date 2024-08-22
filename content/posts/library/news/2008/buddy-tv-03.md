@@ -4,8 +4,7 @@ date: 2008-06-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Jorja Fox's Heart Belongs to 'CSI'  "
 newsreporter: Kris De Leon

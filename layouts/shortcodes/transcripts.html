@@ -9,7 +9,7 @@
 
 {{ $inter_pages    := where .Site.Pages.ByDate "Layout" "transcript" }}
 {{ $inter_articles := where $inter_pages "Params.interviewurl" "ne" nil }}
-{{ $inter_year     := where $inter_articles ".Params.interviewtags" "eq" $pagedate }}
+{{ $inter_year     := where $inter_articles ".Params.interviewyear" "eq" $pagedate }}
 
 {{ $len := len $inter_year }}
 

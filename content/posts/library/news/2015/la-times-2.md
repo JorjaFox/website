@@ -3,7 +3,7 @@ title: LA Times
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'I was part of this weird love story': Jorja Fox on 'CSI' finale and working with William Petersen"
 newsreporter: Greg Braxton

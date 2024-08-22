@@ -3,7 +3,7 @@ title: "Cinemablend"
 date: 2024-08-02
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2024"]
+newsyear: "2024"
 newstitle: "32 TV Wives That Are Way Younger Than Their Husband"
 newsreporter: "Christina Izzo"
 newssource: "Cinemablend"

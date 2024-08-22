@@ -3,7 +3,7 @@ title: TV Guide Magazine
 date: 2015-08-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: Final Investigation
 newsreporter: Michael Logan

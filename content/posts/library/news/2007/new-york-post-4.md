@@ -5,8 +5,7 @@ date: 2007-12-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "FOXY LADY MOVES ON  "
 newsreporter: Liz Smith

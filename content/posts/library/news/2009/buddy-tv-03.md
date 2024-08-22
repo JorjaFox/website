@@ -4,8 +4,7 @@ date: 2009-08-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Jorja Fox Knows 'CSI' Ain't Exactly for Romantic Stuff (Which Is Perhaps Why She Did 'Drop Dead Diva')  "
 newsreporter: Henrik Batallones

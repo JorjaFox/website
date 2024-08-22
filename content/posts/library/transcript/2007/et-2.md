@@ -5,8 +5,7 @@ layout: transcript
 date: 2007-10-04
 interviewurl: https://www.etonline.com
 permalink: /transcript/2007/:title/
-categories: ["Interviews"]
-tags: [ "2007" ]
+interviewyear: "2007"
 ---
 
 **Jorja Fox:** How fun is this, right? And what a tease for me!

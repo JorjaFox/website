@@ -4,8 +4,7 @@ date: 2006-06-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Pop culture plays a role in what we name our kids  "
 newsreporter: Staff

@@ -5,8 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://cbs5.com/video/?id=65714@kpix.dayport.com
 permalink: /transcript/2010/:title/
-categories: ["Interviews"]
-tags: [ "2010" ]
+interviewyear: "2010"
 ---
 
 **Don Knapp** And along for the trip tonight was Jorja Fox, of *CSI*, she's lending her celebrity and her back.

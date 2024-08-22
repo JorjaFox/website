@@ -3,7 +3,7 @@ title: Washington Post
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "How 'CSI' out-CSIed itself for the series finale"
 newsreporter: Stephanie Merry

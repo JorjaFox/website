@@ -1,8 +1,6 @@
 ---
 title: "News"
 author: "Mika A. Epstein"
-categories: [News]
-tags: [Index]
 layout: news-index
 topic: index
 outputs:

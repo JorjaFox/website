@@ -3,9 +3,6 @@ title: Transcripts
 author: "Mika A. Epstein"
 layout: transcript-index
 permalink: /transcript/
-categories: ["Transcripts"]
-tags:
-  - Index
 type: index
 ---
 

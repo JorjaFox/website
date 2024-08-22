@@ -4,8 +4,7 @@ date: 2012-09-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "'CSI' Boss: Season 13 Will Pull the Team Apart  "
 newsreporter: Paulette Cohn

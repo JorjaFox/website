@@ -3,7 +3,7 @@ title: GLAAD
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1997/:title/
-tags: ["1997"]
+newsyear: "1997"
 newstitle: ER Doctor comes out of the OR and the closet
 date: 1997-02-07
 newsreporter: Staff

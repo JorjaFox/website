@@ -4,8 +4,7 @@ date: 2006-08-03
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "'CSI' adds love story as competition nears  "
 newsreporter: Staff

@@ -5,8 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.sharkallies.com/
 permalink: /transcript/2017/:title/
-categories: ["Interviews"]
-tags: [ "2017" ]
+interviewyear: "2017"
 ---
 
 Ed Asner: Some of us love to entertain

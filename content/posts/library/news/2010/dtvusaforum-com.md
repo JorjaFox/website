@@ -4,8 +4,7 @@ date: 2010-12-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "The Grissoms Get Centerstage on 'CSI'  "
 newsreporter: Orrymain

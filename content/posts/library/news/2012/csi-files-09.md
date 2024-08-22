@@ -4,8 +4,7 @@ date: 2012-11-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "Report: Sara To Take An ‘Interesting Turn,’ Residual Fallout For Nick On ‘CSI’  "
 newsreporter: Shane Saunders

@@ -4,8 +4,7 @@ date: 2009-01-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Watercooler - What we're all talking about this week  "
 newsreporter: Lauren Incognito

@@ -6,8 +6,6 @@ topic: index
 type: index
 date: 2002-01-01
 permalink: /transcript/2002/
-categories: ["Interviews"]
-tags: [""]
 ---
 
 {{< transcripts >}}

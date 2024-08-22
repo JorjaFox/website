@@ -4,8 +4,7 @@ date: 2008-05-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Spring 2008 Newsletter"
 newsreporter: Staff

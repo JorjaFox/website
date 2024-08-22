@@ -4,8 +4,7 @@ date: 2010-05-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Bolivian Lions Set for Presidential Style Arrival in San Francisco After Dramatic Rescue  "
 newsreporter: Animal Defenders International

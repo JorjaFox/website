@@ -4,8 +4,7 @@ date: 2012-05-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "In the Know this week with Viva: 05 / 28 / 2012  "
 newsreporter: 0215ag3sxa

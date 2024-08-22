@@ -4,8 +4,7 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Tuned In Journal: Sara sidles away from 'CSI'  "
 newsreporter: Rob Owen

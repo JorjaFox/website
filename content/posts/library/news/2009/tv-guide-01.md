@@ -3,7 +3,7 @@ title: TV Guide
 date: 2009-05-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "TV Guide's Best Top Moments  "

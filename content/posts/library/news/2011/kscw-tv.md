@@ -4,8 +4,7 @@ date: 2011-02-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Rescued Bolivian lions moved to Colo. sanctuary  "
 newsreporter: Web Staff KDVR Denver

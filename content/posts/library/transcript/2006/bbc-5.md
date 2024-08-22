@@ -3,8 +3,7 @@ title: BBC 5
 transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2006/:title/
-categories: ["Interviews"]
-tags: [ "2006" ]
+interviewyear: "2006"
 interviewurl: https://www.bbc.uk/
 date: 2006-05-18
 ---

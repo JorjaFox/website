@@ -3,7 +3,7 @@ title: Northwest Herald
 date: 2004-08-04
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Fox, Eads stick together"
 newsreporter: Staff

@@ -3,7 +3,7 @@ title: Shane S Saunders
 date: 2011-03-10
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2011"]
+newsyear: "2011"
 permalink: /news/2011/:title/
 
 newstitle: "Interview: Christopher Barbour"

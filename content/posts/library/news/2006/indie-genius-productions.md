@@ -4,8 +4,7 @@ date: 2006-09-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Convicted Domestic Terrorists to Be Sentenced Today in Landmark Freedom of Speech Case"
 newsreporter: Staff

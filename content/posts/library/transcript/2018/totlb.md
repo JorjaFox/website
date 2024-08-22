@@ -5,8 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://totlb.com/podcast/totlb-s22-jorja-fox/
 permalink: /transcript/2018/:title/
-categories: ["Interviews"]
-tags: [ "2018" ]
+interviewyear: "2018"
 ---
 
 _[Intro: Scenes from Memento]_

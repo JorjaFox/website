@@ -4,8 +4,7 @@ date: 2007-12-10
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "JORJA FOX 'CSI'  "
 newsreporter: N/A

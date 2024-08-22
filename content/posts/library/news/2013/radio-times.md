@@ -4,8 +4,7 @@ date: 2013-06-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Series 13 - 15. Forget Me Not"
 newsreporter: David Butcher

@@ -4,8 +4,7 @@ date: 2009-04-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Where There's A Gil  "
 newsreporter: Unknown

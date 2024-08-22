@@ -4,8 +4,7 @@ date: 2007-03-30
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "CSI's Jorja Fox Goes Bike Shopping"
 newsreporter: Ecorazzi

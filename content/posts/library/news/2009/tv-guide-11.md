@@ -3,7 +3,7 @@ title: TVGuide.com
 date: 2009-07-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "Breaking: Jorja Fox Returns to 'CSI'"

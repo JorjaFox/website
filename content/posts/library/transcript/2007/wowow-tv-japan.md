@@ -5,8 +5,7 @@ layout: transcript
 date: 2007-06-29
 interviewurl: https://www.wowow.co.jp/
 permalink: /transcript/2007/:title/
-categories: ["Interviews"]
-tags: [ "2007" ]
+interviewyear: "2007"
 ---
 
 ## Question - about Sara Sidle(?)

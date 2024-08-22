@@ -5,8 +5,7 @@ transcriber: David Masters
 layout: transcript
 interviewurl: https://www.cbs.com
 permalink: /transcript/2003/:title/
-categories: ["Interviews"]
-tags: [ "2003" ]
+interviewyear: "2003"
 ---
 
 ## Crash and Burn

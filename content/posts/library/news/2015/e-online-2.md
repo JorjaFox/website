@@ -3,7 +3,7 @@ title: E! Online (News)
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI Series Finale: 49 Thoughts You Have When the First Episode You Ever Watch Is the Last One"
 newsreporter: Tierney Bricker

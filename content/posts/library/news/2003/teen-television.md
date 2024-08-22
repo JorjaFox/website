@@ -3,7 +3,7 @@ title: Teen Television
 date: 2003-01-26
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: CSI Castmates Are Best Friends
 newsreporter: Staff

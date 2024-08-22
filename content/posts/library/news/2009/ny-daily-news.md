@@ -4,8 +4,7 @@ date: 2009-08-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "CSI star Jorja Fox gets turn in orange jumpsuit on 'Drop Dead Diva'  "
 newsreporter: Christina Kinon

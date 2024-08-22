@@ -4,8 +4,7 @@ date: 2006-07-21
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "It's about time 'CSI' got personal  "
 newsreporter: Staff

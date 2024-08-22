@@ -4,8 +4,7 @@ date: 2011-11-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Bob Barker And Jorja Fox Launch Circus Animal Cruelty Bill  "
 newsreporter: Teddy Hilton

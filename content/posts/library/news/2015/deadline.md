@@ -3,7 +3,7 @@ title: Deadline
 date: 2015-09-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI' Series Finale: Creator Anthony Zuiker On That Ending, Deleted Scene And The Future For The Characters & Himself"
 newsreporter: Nellie Andreeva

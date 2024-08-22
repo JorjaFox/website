@@ -4,8 +4,7 @@ date: 2011-10-31
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "CSI's Jorja Fox opens Capitol Scene investigation into animal entertainment  "
 newsreporter: Staff

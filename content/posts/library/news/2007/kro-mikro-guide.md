@@ -4,8 +4,7 @@ date: 2007-01-21
 transcriber: Janne G.
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: Jorja Fox
 newsreporter: Staff

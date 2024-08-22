@@ -3,7 +3,7 @@ title: Entertainment Tonight
 date: 2002-07-24
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: CSI Secrets
 newsreporter: Staff

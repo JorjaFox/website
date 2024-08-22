@@ -5,8 +5,6 @@ layout: news-index
 topic: index
 date: 1992-01-01
 permalink: /news/1992/
-categories: ["News"]
-newstags: ["1992"]
 ---
 
 {{< news >}}

@@ -5,8 +5,7 @@ transcriber: David Masters
 layout: transcript
 interviewurl: https://www.peta.com
 permalink: /transcript/2006/:title/
-categories: ["Interviews"]
-tags: [Transcript, "2006", humanity, "Animal Rights"]
+interviewyear: "2006"
 
 ---
 

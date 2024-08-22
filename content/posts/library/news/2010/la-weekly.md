@@ -4,8 +4,7 @@ date: 2010-03-05
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Vote for Love: Manifest Equality Art Show  "
 newsreporter: Staff

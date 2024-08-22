@@ -4,8 +4,7 @@ date: 2011-09-21
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Interview: Jorja Fox  "
 newsreporter: Shane S. Saunders

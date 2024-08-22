@@ -4,8 +4,7 @@ date: 2011-09-21
 transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
-categories: ["Interviews"]
-tags: [ "2011" ]
+interviewyear: "2011"
 interviewurl: https://artistsondemandonline.com/
 ---
 

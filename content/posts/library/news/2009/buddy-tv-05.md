@@ -4,8 +4,7 @@ date: 2009-08-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "The 'CSI' Franchise Case File: Someone's Returning and Someone's Not  "
 newsreporter: Henrik Batallones

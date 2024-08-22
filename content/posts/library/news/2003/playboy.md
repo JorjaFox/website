@@ -3,14 +3,12 @@ title: Playboy
 date: 2003-05-01
 transcriber: "Mika A. Epstein"
 layout: news
-categories: [News, Articles]
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: "Playboy's 20 Q"
 newsreporter: Staff
 newssource: Playboy Magazine
 newsurl: https://www.playboy.com/
-
 ---
 
 The star of TV's top show, CSI, on marriage allergies, getting frisked and bad smells in the lab.

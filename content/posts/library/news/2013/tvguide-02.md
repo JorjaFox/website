@@ -4,8 +4,7 @@ date: 2013-02-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Mega Buzz: A Big Once Mistake, a CSI Return and a Revolution 'Power' Grab  "
 newsreporter: Adam Bryant and Natalie Abrams

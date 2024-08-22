@@ -9,7 +9,7 @@
 
 {{ $news_pages    := where .Site.Pages.ByDate "Layout" "news" }}
 {{ $news_articles := where $news_pages "Params.newstitle" "ne" nil }}
-{{ $news_year     := where $news_articles ".Params.newstags" "eq" $pagedate }}
+{{ $news_year     := where $news_articles ".Params.newsyear" "eq" $pagedate }}
 
 {{ $len := len $news_year }}
 

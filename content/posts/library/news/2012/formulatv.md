@@ -4,8 +4,7 @@ date: 2012-09-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "Jorja Fox: 'Grissom's return to 'CSI: Las Vegas' was very exciting'"
 newsreporter: Staff

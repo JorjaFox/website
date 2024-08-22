@@ -4,8 +4,7 @@ date: 2012-10-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "'CSI' spoilers: Sara has sparks with someone from her past  "
 newsreporter: Meredith Jacobs

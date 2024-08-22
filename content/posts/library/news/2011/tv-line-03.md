@@ -4,8 +4,7 @@ date: 2011-01-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Exclusive *CSI* Video: Is Grissom Returning?!  "
 newsreporter: Michael Ausiello

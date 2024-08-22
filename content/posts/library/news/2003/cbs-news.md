@@ -3,7 +3,7 @@ title: CBS News
 date: 2003-01-09
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: "'C.S.I.' Tunes"
 newsreporter: Staff

@@ -4,7 +4,7 @@ date: 1999-11-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
+newsyear: "1999"
 newstitle: The Hungry Bachelors Club
 newsreporter: Russell Smith
 newssource: Austin Chronicle

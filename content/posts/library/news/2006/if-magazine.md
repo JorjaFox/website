@@ -4,8 +4,7 @@ date: 2006-05-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "TV Review: C.S.I. - CRIME SCENE INVESTIGATION - Season 6 - 'Way To Go'"
 newsreporter: Staff

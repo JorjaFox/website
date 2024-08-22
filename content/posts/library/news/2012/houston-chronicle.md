@@ -4,8 +4,7 @@ date: 2012-04-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "CSI's Jorja Fox Takes on the Circus Elephant Abusers  "
 newsreporter: PRWeb

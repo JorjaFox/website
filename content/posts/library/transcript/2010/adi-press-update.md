@@ -5,8 +5,7 @@ layout: transcript
 date: 2010-05-28
 interviewurl: https://adirescuediary.com/
 permalink: /transcript/2010/:title/
-categories: ["Interviews"]
-tags: [ "2010" ]
+interviewyear: "2010"
 ---
 
 **CSI's Jorja Fox addresses the press on the morning of the release of four ex-circus lions rescued by ADI from Bolivia**

@@ -5,8 +5,7 @@ date: 2007-07-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "My Name Is Inigo Montoya - Prepare To Pay Me More"
 newsreporter: Seat42F

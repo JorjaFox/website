@@ -3,7 +3,7 @@ title: "Looper"
 date: 2021-11-05
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "CSI: Vegas’ Jorja Fox Breaks Down Sara’s Reaction To The ‘Extremely Creepy’ Confrontation"
 newsreporter: "Scott Chernoff"
 newssource: "Looper"

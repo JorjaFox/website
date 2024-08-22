@@ -4,7 +4,7 @@ date: 1999-01-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
+newsyear: "1999"
 newstitle: Review
 newsreporter: Jonathan Crow
 newssource: Checkout

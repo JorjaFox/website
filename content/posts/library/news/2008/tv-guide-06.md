@@ -4,8 +4,7 @@ date: 2008-08-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Convention Notebook: Eat, Drink and Watch CNN  "
 newsreporter: Stephen Battaglio

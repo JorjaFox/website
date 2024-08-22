@@ -4,8 +4,7 @@ date: 2007-06-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: Backstory
 newsreporter: Staff

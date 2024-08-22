@@ -3,7 +3,7 @@ title: Animal Defender
 date: 2010-08-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2010"]
+newsyear: "2010"
 permalink: /news/2010/:title/
 
 newstitle: "Summer 2010"

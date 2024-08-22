@@ -3,7 +3,7 @@ title: People Magazine
 date: 2004-01-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Blue Crush"
 newsreporter: Staff

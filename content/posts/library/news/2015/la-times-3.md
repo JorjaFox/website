@@ -3,7 +3,7 @@ title: LA Times (Review)
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI: Crime Scene Investigation' recap: Grissom and the gang say goodbye"
 newsreporter: Libby Hill

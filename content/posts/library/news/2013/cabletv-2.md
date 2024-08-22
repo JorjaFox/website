@@ -4,8 +4,7 @@ date: 2013-10-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Jorja Fox Says This Season of CSI Will be About Darkness and Going Darker"
 newsreporter: Monica Gleberman

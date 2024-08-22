@@ -3,7 +3,7 @@ title: "Parade.com"
 date: 2021-11-03
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
+newsyear: "2021"
 newstitle: "Jorja Fox on Joining CSI: Vegas To Keep the Bad Guys in Jail and Prevent Vegas from Becoming Another Gotham City!"
 newsreporter: "Paulette Cohn"
 newssource: "Parade.com"

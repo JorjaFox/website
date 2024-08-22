@@ -4,8 +4,7 @@ date: 2011-01-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Georgia Bulldogs Basketball Fans, Is Mark Fox Your Favorite Fox?  "
 newsreporter: T Kyle King

@@ -4,8 +4,7 @@ date: 2010-07-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Eric Szmanda : 'J'adore flirter avec Jorja Fox'"
 newsreporter: Staff

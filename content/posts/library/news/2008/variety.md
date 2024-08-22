@@ -4,8 +4,7 @@ date: 2008-02-06
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Jorja Fox - Co-producer of 'Stay Together: The Life and Music of Dusty Springfield,' which opens on Feb. 7  "
 newsreporter: Variety Staff

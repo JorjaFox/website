@@ -4,8 +4,7 @@ date: 2007-06-01
 transcriber: unspoken_hellie
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Exclusive: 'CSI's Jorja Fox"
 newsreporter: Curve Magazine

@@ -4,8 +4,7 @@ date: 2011-01-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Matlin a blast from the past on 'CSI'"
 newsreporter: Zap2It

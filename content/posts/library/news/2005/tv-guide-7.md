@@ -4,8 +4,7 @@ date: 2005-11-07
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "The Ausiello Report"
 newsreporter: Michael Ausiello

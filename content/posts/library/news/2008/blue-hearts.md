@@ -3,7 +3,7 @@ title: Blue Hearts
 date: 2008-08-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2008"]
+newsyear: "2008"
 permalink: /news/2008/:title/
 
 newstitle: "Day 3 at the convention  "

@@ -3,7 +3,7 @@ title: Contents Magazine
 date: 2002-06-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: Contents
 newsreporter: Staff

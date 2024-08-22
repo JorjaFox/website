@@ -3,7 +3,7 @@ title: IDABlog
 date: 2011-06-07
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2011"]
+newsyear: "2011"
 permalink: /news/2011/:title/
 
 newstitle: "Are you ready for the Internation day of action for elephants in zoos?"

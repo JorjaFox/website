@@ -3,7 +3,7 @@ title: Scotsman.com News
 date: 2004-07-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "TV drama stars sacked at scene of the crime"
 newsreporter: Staff

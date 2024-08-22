@@ -3,7 +3,7 @@ title: Sweden with Love (May 6 2014)
 date: 2014-05-06
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "What's The Best Thing You Ever Gave Up?"
 newsreporter: Ulrica Wihlborg

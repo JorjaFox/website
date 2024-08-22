@@ -4,8 +4,7 @@ date: 2012-07-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "Interview: Don McGill  "
 newsreporter: Shane S. Saunders

@@ -4,8 +4,7 @@ date: 2013-02-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "'Report: Sara's Story Comes To A Head With 'Future Implications,' Nick's New Arc & More  "
 newsreporter: Shane S. Saunders

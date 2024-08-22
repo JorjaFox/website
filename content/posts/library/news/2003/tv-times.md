@@ -3,7 +3,7 @@ title: TV Times
 date: 2003-01-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Applied Science
 newsreporter: Staff

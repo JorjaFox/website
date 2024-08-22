@@ -4,8 +4,7 @@ date: 2005-11-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Famous Friends of Farm Animals Daryl Hannah and Jorja Fox Celebrate Thanksgiving by Feeding a Turkey Rather Than Eating One!  "
 newsreporter: Staff

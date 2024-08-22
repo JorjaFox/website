@@ -9,7 +9,6 @@ newstitle: "'C.S.I.' returns to Las Vegas"
 newsreporter: Staff
 newssource: Las Vegas Review Journal
 newsurl: https://www.lvrj.com/
-
 ---
 It's a Strip-to-strip week for "C.S.I."
 

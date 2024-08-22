@@ -10,7 +10,6 @@ newstitle: "Bolivian Lions Transported To DIA  "
 newsreporter: AP
 newssource: Huffington Post
 newsurl: https://www.huffingtonpost.com/2011/02/16/bolivian-lions-arrive-at-_n_824132.html
-
 ---
 
 Twenty-five lions, most of them rescued from Bolivian circuses, are heading to Colorado to start their new lives at a wildlife sanctuary.

@@ -10,7 +10,6 @@ newstitle: "'CSI'S' SARA SIDLE SURVIVES"
 newsreporter: New York Post
 newssource: New York Post
 newsurl: https://www.nypost.com
-
 ---
 
 SARA lives.

@@ -10,7 +10,6 @@ newstitle: "AOL Inside TV  "
 newsreporter: Liane Bonin
 newssource: AOL Inside TV
 newsurl: https://television.aol.com/insidetv/2009/02/05/memorable-tv-love-triangles/
-
 ---
 
 [...]

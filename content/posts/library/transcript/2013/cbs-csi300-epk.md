@@ -6,7 +6,6 @@ date: 2013-10-22
 interviewurl: https://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1hvw2x
 permalink: /transcript/2013/:title/
 interviewyear: "2013"
-
 ---
 
 ...

@@ -9,7 +9,6 @@ newstitle: Who's Q&A
 newsreporter: Staff
 newssource: USA Today
 newsurl: https://www.usatoday.com/
-
 ---
 
 Issue Date: June 17, 2001

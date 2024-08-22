@@ -6,7 +6,6 @@ date: 2013-10-05
 interviewurl: https://www.ad-international.org
 permalink: /transcript/2013/:title/
 interviewyear: "2013"
-
 ---
 
 ## Introduction

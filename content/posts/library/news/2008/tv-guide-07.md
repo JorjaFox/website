@@ -10,7 +10,6 @@ newstitle: "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Fait
 newsreporter: Matt Roush
 newssource: TV Guide.com - Ask Matt
 newsurl: https://www.tvguide.com/Roush/Ask-Matt-ER-34627.aspx
-
 ---
 
 [...]

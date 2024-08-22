@@ -10,7 +10,6 @@ newstitle: "Record Breaking 25 Rescued Bolivian Lions Arriving at Denver Interna
 newsreporter: Staff
 newssource: "EON: Enhanced Online News "
 newsurl: https://eon.businesswire.com/news/eon/20110214007416/en/Animal-Defenders-International/ADI/Bob-Barker
-
 ---
 
 **Bob Barker and CSI Actress Jorja Fox to Greet Lions**

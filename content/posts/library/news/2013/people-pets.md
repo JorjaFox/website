@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Introduces Her New Rescue Dog  "
 newsreporter: K.C. BLUMM
 newssource: People Pets
 newsurl: https://www.peoplepets.com/people/pets/article/0,,20754984,00.html
-
 ---
 
 Jorja Fox wasn't quite ready to adopt a new dog. The "CSI: Crime Scene Investigation" star was still mourning the loss of her old pet, who died in January, when a scruffy little mutt came into her life.

@@ -10,7 +10,6 @@ newstitle: "'CSI' star Jorja Fox is off the case"
 newsreporter: NY Daily News
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/
-
 ---
 
 Jorja Fox's "CSI" character, Sara Sidle, survived a harrowing run-in with a killer in Thursday's season premiere, but now it seems Fox is a goner.

@@ -9,11 +9,9 @@ newstitle: "HOW DO YOU DEFINE BALANCED LIVING?"
 newsreporter: Viva Magazine
 newssource: Viva Magazine
 newsurl: https://www.vivamagonline.com/
-
 ---
 
 HOW DO YOU DEFINE BALANCED LIVING?
-
 ---
 
 JORJA FOX

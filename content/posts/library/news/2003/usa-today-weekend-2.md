@@ -9,7 +9,6 @@ newstitle: Ready, set, action!
 newsreporter: Brian Truitt
 newssource: USA Weekend
 newsurl: https://www.usaweekend.com/03_issues/030706/030706movies.html
-
 ---
 
 **With all the comic book-inspired movies out lately, we asked super celebrities which hero they'd most like to play.**

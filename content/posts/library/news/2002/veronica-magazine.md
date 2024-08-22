@@ -9,7 +9,6 @@ newstitle: Babe Between Bodybags
 newsreporter: Dutch text by Belinda Janssen, translated by Isis de Jong.
 newssource: Veronica Magazine
 newsurl: https://service.veronica.nl/veronicamagazine/
-
 ---
 
 One person's death is another person's breath. That's something Jorja Fox knows everything about. The part of a forensic investigator on the television show C.S.I. has introduced her to a large audience. We talked to the American actress about her own life and her love/hate-relationship with death.

@@ -10,7 +10,6 @@ newstitle: "Ask Matt: Zero's Epic Fail, CSI Split, Americans, Following, Southla
 newsreporter: Matt Roush
 newssource: TV Guide
 newsurl: https://www.tvguide.com/News/Ask-Matt-Zero-Hour-1062162.aspx
-
 ---
 
 [...]

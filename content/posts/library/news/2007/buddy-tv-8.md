@@ -10,7 +10,6 @@ newstitle: "Fans Show Support for 'CSI' Actress"
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/
-
 ---
 
 The noise surrounding Jorja Fox's reported departure on "CSI" has fueled fans to exert great efforts to keep her character, Sara Sidle, on the CBS show. Although the 39-year-old actress has neither confirmed nor denied the controversy, supporters have quickly found ways to demonstrate their support by putting up websites such as The Jorja Fox Appreciation Campaign and Dollars for Sense.

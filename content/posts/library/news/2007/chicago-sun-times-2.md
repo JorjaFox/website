@@ -10,7 +10,6 @@ newstitle: "'CSI' outshines stars"
 newsreporter: Doug Elfman
 newssource: Chicago Sun-Times
 newsurl: https://www.suntimes.com
-
 ---
 
 **REVIEW | Dazzling visuals set pace for TV procedurals, making departure of Fox or anyone else secondary**

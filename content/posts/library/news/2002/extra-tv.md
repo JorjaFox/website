@@ -9,7 +9,6 @@ newstitle: Review
 newsreporter: Staff
 newssource: Extra TV
 newsurl: https://extratv.warnerbros.com/
-
 ---
 
 Those crafty crime scene investigators of "CSI" are back on the case for another season of murder and mayhem, shifting into high gear for the third season of CBS? runaway hit. And only "Extra" was on location in Las Vegas with the ratings grabbing gumshoes as they shot an upcoming episode with a crime ripped from the headlines.

@@ -9,7 +9,6 @@ newstitle: Hopping Mad
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com
-
 ---
 [...]
 

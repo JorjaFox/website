@@ -9,7 +9,6 @@ newstitle: Watch CSI Immortality teaser as the team comes back together for one 
 newsreporter: Alistair McGeorge
 newssource: Mirror
 newsurl: https://www.mirror.co.uk/tv/tv-news/watch-csi-immortality-teaser-team-6447877
-
 ---
 
 After 15 years on the air, it's time to say goodbye - but it's all hands on deck for the final mystery.

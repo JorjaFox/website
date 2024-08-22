@@ -9,7 +9,6 @@ newstitle: "Beauty and crime?"
 newsreporter: Staff
 newssource: The Age
 newsurl: https://www.theage.com.au
-
 ---
 
 **Here are 10 good reasons why the babe factor plays a big part in solving crimes, writes David Campbell.**

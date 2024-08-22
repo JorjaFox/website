@@ -10,7 +10,6 @@ newstitle: "'CSI's' Jorja Fox Inks New Deal to Return to CBS Drama (Exclusive)  
 newsreporter: Lesley Goldberg
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/live-feed/csi-jorja-fox-new-deal-cbs-television-studios-323338
-
 ---
 
 The original cast member has signed a new pact with CBS Television Studios to return to the long-running procedural for its upcoming 13th season.

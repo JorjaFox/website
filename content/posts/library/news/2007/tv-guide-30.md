@@ -10,7 +10,6 @@ newstitle: "Ausiello Report"
 newsreporter: Michael Ausiello
 newssource: TVGuide
 newsurl: https://www.tvguide.com/
-
 ---
 
 **Warning: If You Haven't Watched Tonight's "CSI", Stop Reading!**

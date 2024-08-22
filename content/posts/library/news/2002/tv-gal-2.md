@@ -9,7 +9,6 @@ newstitle: "TV Gal Chats up 'Once and Again'"
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://tv.zap2it.com/
-
 ---
 
 [...]

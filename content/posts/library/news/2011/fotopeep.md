@@ -10,7 +10,6 @@ newstitle: "Bob Barker And Jorja Fox Launch Circus Animal Cruelty Bill  "
 newsreporter: Teddy Hilton
 newssource: FotoPeep
 newsurl: https://fotopeep.com/2011/11/bob-barker-and-jorja-fox-launch-circus-animal-cruelty-bill/
-
 ---
 
 **Bob Barker**, a well known animal enthusiast, and **Jorja Fox**, an animal advocate as well, had teamed up to help get three elephants moved to a sanctuary from a Toronto zoo where things were too cold.

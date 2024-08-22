@@ -9,7 +9,6 @@ newstitle: "'CSI' Actors Fox, Eads Fired"
 newsreporter: Staff
 newssource: AIM Today
 newsurl: https://channels.aimtoday.com
-
 ---
 
 **Two stars of the CBS hit television series "CSI: Crime Scene Investigation" were fired for breach of contract, KCBS-TV and Variety reported Thursday.**

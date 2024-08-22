@@ -10,7 +10,6 @@ newstitle: "'CSI': What did you think of Grissom's return?  "
 newsreporter: Rick Porter
 newssource: Zap2It - Zap 2 News & Buzz
 newsurl: https://blog.zap2it.com/frominsidethebox/2011/02/csi-what-did-you-think-of-grissoms-return.html
-
 ---
 
 As implicitly promised in all the teases leading up to the show, Thursday's (Feb. 3) episode of "CSI" featured the return of the show's original lead character, Gil Grissom (William Petersen) - at least for a couple minutes.

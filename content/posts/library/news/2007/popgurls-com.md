@@ -10,7 +10,6 @@ newstitle: "PopGurls Interview: CSI's Jorja Fox"
 newsreporter: Popgurls.com
 newssource: Popgurls.com
 newsurl: https://www.popgurls.com/article_show.php3?id=661
-
 ---
 
 The first thing that I notice about Jorja Fox is how quick she is to laugh. It's a little disarming, considering her character on CSI: Crime Scene Investigation, Sara Sidle, is not known for her jovial sense of humor. Disarming, yet infectious and even over the phone, its feels less like an interview and more like we're kicking back a few beers in a local pub and sharing stories.

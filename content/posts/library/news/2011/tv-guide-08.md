@@ -10,7 +10,6 @@ newstitle: "Matt's TV Week in Review  "
 newsreporter: Matt Roush
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/Matts-TV-Week-1028902.aspx
-
 ---
 
 [...]

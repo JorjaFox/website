@@ -10,7 +10,6 @@ newstitle: "Sara, the mother hen in CSI - Background  "
 newsreporter: Leks van der Horst
 newssource: Televizier
 newsurl: https://www.televizier.nl/nieuws/achtergrond/sara-de-moederkloek-in-csi-achtergrond.1049543.lynkx
-
 ---
 
 *[Translated from Dutch by Google & Corrected by Volunteers.]*

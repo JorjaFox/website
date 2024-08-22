@@ -10,7 +10,6 @@ newstitle: "CBS targets the masses  "
 newsreporter: Staff
 newssource: Newsday
 newsurl: https://www.newsday.com/entertainment/tv/ny-ettour164819479jul16,0,2337581.story?coll=ny-television-print
-
 ---
 
 [...]

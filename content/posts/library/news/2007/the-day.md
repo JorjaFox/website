@@ -10,7 +10,6 @@ newstitle: "Jorja on my Mind  "
 newsreporter: Elissa Bass
 newssource: The Day
 newsurl: https://www.theday.com/re.aspx?re=a096bb22-8455-4798-9510-c6773984ccd4
-
 ---
 It became official on Monday, when Jorja Fox, who plays the recovering alcoholic Sara Sidle on the still-enormously popular CBS crime show, CSI, confirmed to ew.com that she is leaving the show this fall.
 

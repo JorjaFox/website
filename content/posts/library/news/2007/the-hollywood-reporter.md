@@ -10,7 +10,6 @@ newstitle: "Lucas on scene as 'CSI' newbie"
 newsreporter: The Hollywood Reporter
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/
-
 ---
 
 "**CSI" adds new cast member**

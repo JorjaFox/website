@@ -10,7 +10,6 @@ newstitle: "Jorja Fox: Why I Quit 'CSI'  "
 newsreporter: Lynette Rice
 newssource: EW
 newsurl: https://www.ew.com/ew/article/0,,20152746,00.html
-
 ---
 **The actress' decision to leave TV's No. 1 show has "nothing to do with money," she tells EW in an exclusive sit-down**
 

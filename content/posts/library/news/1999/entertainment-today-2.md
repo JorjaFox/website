@@ -9,7 +9,6 @@ newstitle: The Hungry Bachelors' Club
 newsreporter: Staff
 newssource: Entertainment Today
 newsurl: https://www.ent-today.com
-
 ---
 Offscreen bonds help the ensemble cast of The Hungry Bachelors Club bring a relaxed emotional honesty to their roles.
 

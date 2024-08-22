@@ -10,7 +10,6 @@ newstitle: "THIS JUST IN... From the CBS Television Network... JORJA FOX RETURNS
 newsreporter: CBS Entertainment
 newssource: CBS Entertainment Releases
 newsurl: https://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=22289
-
 ---
 
 **JORJA FOX RETURNS TO CSI!**

@@ -9,7 +9,6 @@ newstitle: "Pay Dispute Sacks 'C.S.I.'s' Fox, Eads"
 newsreporter: Staff
 newssource: The Futon Critic
 newsurl: https://www.thefutoncritic.com
-
 ---
 
 In one of the industry's most surprising moves in recent memory, actors George Eads and Jorja Fox have been fired from CBS' top-rated drama "C.S.I.: Crime Scene Investigation" over breach of contract.

@@ -10,7 +10,6 @@ newstitle: 'Major "CSI" Casting News'
 newsreporter: E. Van Dril
 newssource: The Celebrity Cafe
 newsurl: https://www.thecelebritycafe.com/features/16082.html
-
 ---
 
 SPOILER ALERT

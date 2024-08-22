@@ -8,7 +8,6 @@ newstitle: "‘CSI’ Comeback Wasn’t Easy For William Petersen & Jorja Fox"
 newsreporter: "Hollywood Outbreak"
 newssource: "Hollywood Outbreak"
 newsurl: https://www.hollywoodoutbreak.com/2021/11/17/csi-comeback-wasnt-easy-for-william-petersen-jorja-fox/
-
 ---
 
 The return of William Petersen and Jorja Fox to the new CSI show, CSI: Vegas, isn’t just a return to their old characters — it’s the first time either of them has taken a starring role on a television show since the original CSI’s finale. That being the case, both Petersen and Fox admitted to being a little rusty when they showed up at the new CSI: Vegas set, and they talked to us about the toughest part about trying to pick up where they’d left off. [...]

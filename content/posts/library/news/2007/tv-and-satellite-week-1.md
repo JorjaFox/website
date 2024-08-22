@@ -11,7 +11,6 @@ newstitle: "CSI uncovered"
 newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: https://www.ipcmedia.com/
-
 ---
 
 **Jorja Fox takes time off from playing CSI's forensics investigator Sara Sidle to show us around the set of the hit TV Show**

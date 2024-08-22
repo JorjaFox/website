@@ -10,7 +10,6 @@ newstitle: "Mega Buzz: Scandal's Big Mystery, Prentiss' Minds Return and Dead's 
 newsreporter: Adam Bryant and Natalie Abrams
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/Mega-Buzz-Scandal-Spoilers-1071522.aspx
-
 ---
 
 [...]

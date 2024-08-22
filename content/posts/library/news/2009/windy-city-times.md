@@ -10,7 +10,6 @@ newstitle: "Billy Masters  "
 newsreporter: Billy Masters
 newssource: Windy City Times
 newsurl: https://www.windycitymediagroup.com/gay/lesbian/news/ARTICLE.php?AID=21948
-
 ---
 
 [...]

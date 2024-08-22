@@ -10,7 +10,6 @@ newstitle: "Jorja Fox to leave 'CSI'"
 newsreporter: Earth Times
 newssource: Earth Times
 newsurl: https://www.earthtimes.org
-
 ---
 
 Hollywood actress Jorja Fox is reportedly planning to leave the popular police procedural, "CSI: Crime Scene Investigation."

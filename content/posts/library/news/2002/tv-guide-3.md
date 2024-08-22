@@ -9,7 +9,6 @@ newstitle: Crime Scene Stealer
 newsreporter: Deborah Starr Seibel
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 *Within six years, Jorja Fox has graced three top 10 shows - ER, The West Wing, and now CSI. She's the kind of Hollywood Success Story that seems, well, almost suspect.*

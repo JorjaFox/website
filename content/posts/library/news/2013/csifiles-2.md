@@ -10,7 +10,6 @@ newstitle: "Interview: Michael FX Daley  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2013/04/interview-michael-fx-daley-2/
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "Dita Von Teese and Murray Hill Tear Up Avalon  "
 newsreporter: Tricia Romano
 newssource: BlackBook
 newsurl: https://www.blackbookmag.com/article/dita-von-teese-and-murray-hill-tear-up-avalon/9416
-
 ---
 
 [...]

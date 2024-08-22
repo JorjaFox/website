@@ -10,7 +10,6 @@ newstitle: "'CSI' fan says losing Sara would be a crime  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times
 newsurl: https://www.sptimes.com/
-
 ---
 **A Dunedin woman is rallying the troops online to keep Jorja Fox on "CSI: Crime Scene Investigation."**
 

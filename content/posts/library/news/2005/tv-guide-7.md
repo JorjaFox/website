@@ -10,7 +10,6 @@ newstitle: "The Ausiello Report"
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 [...]
 

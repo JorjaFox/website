@@ -10,7 +10,6 @@ newstitle: 'Jorja Fox Says Sayonara to "CSI"'
 newsreporter: TV Fodder
 newssource: TV Fodder
 newsurl: https://www.tvfodder.com
-
 ---
 
 When "CSI" ended last season, the fate of lab tech Sara Sidle was up in the air, both on and off the screen. Viewers were left wondering whether the character would survive, especially since the actress that plays her, Jorja Fox, had not yet renewed her contract. According to Entertainment Weekly, Fox finally made up her mind and will leave the hit show by the end of the year.

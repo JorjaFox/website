@@ -9,7 +9,6 @@ newstitle: "'CSI' Axes Two Stars"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com
-
 ---
 
 It could be another gruesome CSI crime scene. Except this one doesn't involve dead bodies. Just axed actors.

@@ -10,7 +10,6 @@ newstitle: "TV's Top Cops  "
 newsreporter: Staff
 newssource: MSN tv
 newsurl: https://tv.msn.com/tv/galleryfeature/tvs-top-cops/?photoidx=7
-
 ---
 
 [...]

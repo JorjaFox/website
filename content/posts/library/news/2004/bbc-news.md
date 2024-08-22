@@ -9,7 +9,6 @@ newstitle: "CSI star fired in 'pay dispute'"
 newsreporter: Staff
 newssource: BBC
 newsurl: https://news.bbc.co.uk/1/hi/entertainment/film/3899613.stm
-
 ---
 
 One of the stars of the Emmy-nominated drama CSI has been fired in what is thought to be a dispute over salaries.

@@ -9,7 +9,6 @@ newstitle: Tube Tied
 newsreporter: Craig D. Lindsey
 newssource: Tube Tied
 newsurl: https://www.brainsoap.com/ Brainsoap
-
 ---
 *I know you're a huge CSI fan.*
 

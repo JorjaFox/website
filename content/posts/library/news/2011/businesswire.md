@@ -10,7 +10,6 @@ newstitle: "Bob Barker, Jorja Fox and a Pride of Celebrities Pledge Their Suppor
 newsreporter: Staff
 newssource: BusinessWire
 newsurl: https://www.businesswire.com/news/home/20110201007057/en/Bob-Barker-Jorja-Fox-Pride-Celebrities-Pledge
-
 ---
 
 **"I am so impressed with ADI that I am going to make another investment in their mind-boggling work, and I invite you, in fact, I urge you to 'man-up' and join me, too."- Bob Barker, former host of the Price Is Right and ADI supporter**

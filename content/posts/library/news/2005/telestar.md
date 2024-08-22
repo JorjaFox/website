@@ -10,7 +10,6 @@ newstitle: "CSIs Sara Sidle"
 newsreporter: Staff
 newssource: TeleStar
 newsurl: https://www.telestar.fr/
-
 ---
 Jorja Fox - "Marriage? It gives me the shivers!"
 

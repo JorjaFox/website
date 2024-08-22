@@ -10,7 +10,6 @@ newstitle: "CSI Star Investigates Vegetarianism  "
 newsreporter: Michelle Sherrow
 newssource: PETA
 newsurl: https://www.peta.org/b/thepetafiles/archive/2011/11/08/csi-star-investigates-vegetarianism-at-sublime.aspx
-
 ---
 
 "CSI" star Jorja Fox thinks that everyone should play detective and investigate how animals are killed for food. Jorja unveiled her pro-vegetarian PETA ad to an enthusiastic crowd Sunday at Fort Lauderdale's gourmet vegan restaurant, Sublime.

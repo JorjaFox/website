@@ -10,7 +10,6 @@ newstitle: "Is Jorja Fox off CSI?"
 newsreporter: MSN Entertainment
 newssource: MSN Entertainment
 newsurl: https://entertainment.msn.com/
-
 ---
 
 **Another contract dispute with CBS may mean Sara Sidle is toast **

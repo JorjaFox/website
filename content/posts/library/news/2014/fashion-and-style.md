@@ -9,7 +9,6 @@ newstitle: "'CSI' Season 15 News, Spoilers: Will Someone DIE? Sara And Greg Quar
 newsreporter: Jess Goodwin
 newssource: Fashion and Style
 newsurl: https://www.fashionnstyle.com/articles/27356/20141011/csi-season-15-news-spoilers-will-someone-die-sara-and-greg-quarantined-after-exposure-to-deadly-pathogen-video.htm
-
 ---
 
 No one escapes alive.

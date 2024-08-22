@@ -10,7 +10,6 @@ newstitle: Backstory
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com
-
 ---
 [...]
 

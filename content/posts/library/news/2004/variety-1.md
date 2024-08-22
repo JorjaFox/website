@@ -9,7 +9,6 @@ newstitle: "Actor threats Eye-popping"
 newsreporter: Staff
 newssource: Variety
 newsurl: https://www.variety.com
-
 ---
 
 In his first major news conference since being elevated to Viacom co-prexy/co-chief operating officer, Eye topper Leslie Moonves left little doubt that he and CBS Entertainment prexy Nancy Tellem had tired of the annual salary dance, in which thesps seeking more coin often call in sick to make a point.

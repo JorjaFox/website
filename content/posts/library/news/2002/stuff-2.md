@@ -9,7 +9,6 @@ newstitle: Jorja Fox
 newsreporter: Staff
 newssource: Stuff Magazine
 newsurl: https://stuffmagazine.com/
-
 ---
 
 **BEST IN SHOWS:**

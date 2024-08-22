@@ -10,7 +10,6 @@ newstitle: "CSI A to Z"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 [...]
 

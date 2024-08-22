@@ -9,7 +9,6 @@ newstitle: "'CSI': The Gang's All Here"
 newsreporter: Staff
 newssource: Zap2it.com
 newsurl: https://Zap2it.com
-
 ---
 
 LOS ANGELES (Zap2it.com) It looks like we can finally close the book on the past week of "As 'CSI' Turns."

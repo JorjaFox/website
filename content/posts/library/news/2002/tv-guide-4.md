@@ -9,7 +9,6 @@ newstitle: Ask Matt
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 [...]

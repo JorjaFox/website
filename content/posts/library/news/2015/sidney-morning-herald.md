@@ -9,7 +9,6 @@ newstitle: "'You don't win friends with salad': TV's best (and worst) vegetarian
 newsreporter: Ellen Laughton
 newssource: Sidney Morning Herald
 newsurl: https://www.smh.com.au/entertainment/tv-and-radio/you-dont-win-friends-with-saladtvs-best-and-worst-vegetarians-20150921-gjpo0b.html
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "Sara 'Sidles' Back!"
 newsreporter: Bryan Cairns
 newssource: The Official CSI Magazine
 newsurl: https://www.titanmagazines.com/app?service=external/Product&sp=l1075
-
 ---
 
 None of us wanted her to go, least of all Gil Grissom ... so it's great news that Jorja Fox, aka CSI Sara Sidle, will return to reprise her role in season nine. Fox is expected to appear in the first three episodes of the year as the team lay Warrick Brown to rest.

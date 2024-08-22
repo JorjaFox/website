@@ -10,7 +10,6 @@ newstitle: "A chat with Jorja Fox  "
 newsreporter: Staff
 newssource: Detroit News
 newsurl: https://www.detnews.com/
-
 ---
 
 Don't worry, "CSI: Crime Scene Investigation" fans. CBS will not be changing the name of its hit drama to "When Sara met Grissom." But the network will continue to explore the love of these two forensic nerds if for no other reason than to compete with ABC's "Grey's Anatomy," which also airs at 9 p.m. Thursdays.

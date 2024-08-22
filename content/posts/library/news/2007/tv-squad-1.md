@@ -10,7 +10,6 @@ newstitle: "New cast member could replace Jorja Fox on CSI"
 newsreporter: TV Squad
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/
-
 ---
 
 On the heels of news that Rory Cochrane is returning to one of the other CSI shows, CSI: Miami, comes this news: Jorja Fox is probably on her way out.

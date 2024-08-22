@@ -9,7 +9,6 @@ newstitle: Final Investigation
 newsreporter: Michael Logan
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/sneak-peek-2015-heroes-reborn/
-
 ---
 
 **After 15 years and countless cases, *CSI* closes the lab for good with a two-hour send-off.**

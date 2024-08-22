@@ -10,7 +10,6 @@ newstitle: "Famous Friends of Farm Animals Daryl Hannah and Jorja Fox Celebrate 
 newsreporter: Staff
 newssource: U.S. Newswire
 newsurl: https://www.usnewswire.com/
-
 ---
 On Nov. 19, Animal Acres, LA's newly opened farm animal sanctuary, will celebrate Thanksgiving with a unique celebration called the "Feed A Turkey Ceremony" at the sanctuary in Acton, Calif.
 

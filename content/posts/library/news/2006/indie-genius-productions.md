@@ -10,7 +10,6 @@ newstitle: "Convicted Domestic Terrorists to Be Sentenced Today in Landmark Free
 newsreporter: Staff
 newssource: Indie Genius Productions
 newsurl: https://www.instyle.com/
-
 ---
 
 **- Feature film will cover animal rights activists' trial and conviction -**

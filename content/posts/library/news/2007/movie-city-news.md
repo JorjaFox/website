@@ -10,7 +10,6 @@ newstitle: What's happening now
 newsreporter: Movie City News
 newssource: Movie City News
 newsurl: https://www.moviecitynews.com
-
 ---
 
 THE 2007 JACKSON HOLE FILM FESTIVAL

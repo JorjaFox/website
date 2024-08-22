@@ -10,7 +10,6 @@ newstitle: "Candid shorts"
 newsreporter: Staff
 newssource: Star eCentral
 newsurl: https://www.star-ecentral.com
-
 ---
 THE cast of CSI: Crime Scene Investigation talks about the show, its appeal and more.
 

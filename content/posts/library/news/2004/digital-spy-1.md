@@ -9,7 +9,6 @@ newstitle: "Axed 'CSI' actors may return"
 newsreporter: Staff
 newssource: Digital Spy
 newsurl: https://www.digitalspy.co.uk
-
 ---
 
 Axed *CSI* actors George Eads and Jorja Fox look set to be reinstated on the cast of the crime drama, according to reports today.

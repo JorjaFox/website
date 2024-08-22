@@ -9,7 +9,6 @@ newstitle: "Jorja Fox thought CSI: Crime Scene Investigation would last six week
 newsreporter: Darren Devlyn
 newssource: news.com.au
 newsurl: https://www.news.com.au/entertainment/tv/jorja-fox-thought-csi-crime-scene-investigation-would-last-six-weeks/story-e6frfmyi-1226867996661
-
 ---
 
 "'SHE plays forensic scientist Sara Sidle in one of most successful television dramas in history."'

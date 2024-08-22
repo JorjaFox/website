@@ -10,7 +10,6 @@ newstitle: "ASK AUSIELLO  "
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 **Will CSI Have a Cow Over Fox Spot?**

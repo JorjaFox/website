@@ -9,7 +9,6 @@ newstitle: "'CSI' star, producer respond to firing of actors"
 newsreporter: Staff
 newssource: Sacbee.com
 newsurl: https://www.sacbee.com/
-
 ---
 
 William Petersen, star and executive producer of "CSI: Crime Scene Investigation," issued a statement Friday concerning reports that co-stars Jorja Fox and George Eads were fired.

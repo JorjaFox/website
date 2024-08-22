@@ -10,7 +10,6 @@ newstitle: "The Twitchhiker: The amazing story of how Paul Smith travelled the w
 newsreporter: Paul Smith
 newssource: Daily Mail
 newsurl: https://www.dailymail.co.uk/news/article-1293636/The-Twitchhiker-The-amazing-story-Paul-Smith-travelled-world-free-using-Twitter.html
-
 ---
 
 [...]

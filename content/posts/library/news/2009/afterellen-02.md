@@ -10,7 +10,6 @@ newstitle: "Fake Gay News: Lesbian closed captioner sues employer after terminat
 newsreporter: bad machine
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/blog/badmachine/fake-gay-news-lesbian-closed-captioner-sued
-
 ---
 
 "Note: This is one of a series of satirical blog posts about entertainment. "Satire" means it's not true."

@@ -9,7 +9,6 @@ newstitle: "GILT-Y Pleasures"
 newsreporter: Staff
 newssource: CBS Watch! Magazine
 newsurl: https://cbswatchmagazine.com
-
 ---
 
 **Jorja Fox** of *CSI: Crime Scene Investigation* makes waves with her stylish selections

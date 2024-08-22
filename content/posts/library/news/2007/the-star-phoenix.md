@@ -10,7 +10,6 @@ newstitle: "Off to bed and off the air  "
 newsreporter: Lauren Denhartog
 newssource: The Star Phoenix
 newsurl: https://www.canada.com/saskatoonstarphoenix/news/lifestyle/story.html?id=bec1eb46-a8d7-47a0-bcb3-28f355b26b6c
-
 ---
 
 **Some shows can't survive characters finally getting together**

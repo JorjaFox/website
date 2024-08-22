@@ -10,7 +10,6 @@ newstitle: "Which Season Ended With a Bang?  "
 newsreporter: Staff
 newssource: AOL News
 newsurl: https://news.aol.com
-
 ---
 
 [...]

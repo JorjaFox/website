@@ -10,7 +10,6 @@ newstitle: "'CSI' Star Jorja Fox, HSUS Team Up Against Dogfighting  "
 newsreporter: Kate Hogan
 newssource: People Pets
 newsurl: https://www.peoplepets.com/news/celebrities/csi-star-jorja-fox-hsus-team-up-against-dogfighting/1
-
 ---
 
 Growing up in rural Florida, *CSI *actress Jorja Fox was aware of the dark world of dogfighting. But she didn't know all the dirty details until she teamed with the Humane Society of the United States to help with their End Dogfighting campaign. "The more you know, the less you want to know," Fox tells PEOPLEPets.com. "It's terrifying."

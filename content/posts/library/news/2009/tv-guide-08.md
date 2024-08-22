@@ -10,7 +10,6 @@ newstitle: "Ask Matt: 'House' Cleaning  "
 newsreporter: Matt Roush
 newssource: Ask Matt
 newsurl: https://www.tvguidemagazine.com/ask-matt/ask-matt-house-cleaning-2583.html
-
 ---
 
 [...]

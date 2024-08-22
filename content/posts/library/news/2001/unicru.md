@@ -9,7 +9,6 @@ newstitle: Pet Project
 newsreporter: Paul Semel
 newssource: UNICRU
 newsurl: https://www.unicru.com/asp/Breakroom/BrkCfj010427.asp
-
 ---
 Before she landed the role of scientist Sara Sidle on *C.S.I.*, actress Jorja Fox's life was literally going to the dogs.
 

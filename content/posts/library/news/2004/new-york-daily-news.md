@@ -9,7 +9,6 @@ newstitle: "An Extra special exit"
 newsreporter: Staff
 newssource: New York Daily News
 newsurl: https://www.nydailynews.com/
-
 ---
 
 [...]

@@ -9,7 +9,6 @@ newstitle: "CSI Series Finale: How Did It End?"
 newsreporter: Kellie Freeze
 newssource: Channel Guide Magazine
 newsurl: https://www.channelguidemagblog.com/index.php/2015/09/28/csi-series-finale-how-did-it-end/
-
 ---
 
 [...]

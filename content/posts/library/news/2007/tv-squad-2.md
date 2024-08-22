@@ -10,7 +10,6 @@ newstitle: "The fate of CSI's Jorja Fox"
 newsreporter: TV Squad
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/2007/09/28/the-fate-of-csis-jorja-fox/
-
 ---
 
 The day finally arrived: "CSI: Crime Scene Investigation" fans finally know if Sara Sidle, played by Jorja Fox, survived or not. Last year's finale had the CSI team not only continue their search for the "Miniature Killer" but also for Sara, who became the killer's last victim. There was a lot of speculation over the summer surrounding Sara's fate especially since the show was doing its best to keep it a secret (fans were told they would at least see Sara under the car in the premiere but didn't say more).

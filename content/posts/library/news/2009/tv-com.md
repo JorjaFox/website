@@ -10,7 +10,6 @@ newstitle: "'CSI' will reunite with Sara Sidle  "
 newsreporter:
 newssource: TV.com
 newsurl: https://www.tv.com/story/16633.html
-
 ---
 
 **Jorja Fox returning to CBS' hit drama for multiple episodes. **

@@ -10,7 +10,6 @@ newstitle: "Preview: Lady Heather Returns to CSI -- With Ties to Big Bad Nate Ha
 newsreporter: Megan Masters
 newssource: TVLine
 newsurl: https://www.tvline.com/2011/04/csi-preview-lady-heather-melinda-clarke/
-
 ---
 
 Lady Heather rears her ~~ugly~~ gorgeous head on CSI this Thursday (CBS, 9/8c), but why the unexpected encore? The vexing vixen - played by Nikita's Melinda Clarke - is back for two reasons: to solve a strange crime, and to provide insider knowledge on that "evil" DNA gene that Langston (Laurence Fishburne) shares with MIA murderer Nate Haskell (returning guest star Bill Irwin).

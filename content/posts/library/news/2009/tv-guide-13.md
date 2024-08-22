@@ -10,7 +10,6 @@ newstitle: "'CSI:' Will Catherine Be a Good Leader?  "
 newsreporter: Adam Bryant
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/CSI-Marg-Helgenberger-1010131.aspx
-
 ---
 
 [...]

@@ -9,7 +9,6 @@ newstitle: "Elisabeth Shue talks ahead of season 14 of CSI: Crime Scene Investig
 newsreporter: Darren Devlyn
 newssource: Couriermail
 newsurl: https://www.couriermail.com.au/entertainment/television/elisabeth-shue-talks-ahead-of-season-14-of-csi-crime-scene-investigation/story-fnihmoiz-1226845061147
-
 ---
 
 [...]

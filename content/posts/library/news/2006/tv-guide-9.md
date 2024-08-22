@@ -10,7 +10,6 @@ newstitle: "TV Guide Blogs: Sara and Grissom Sittin' in a Tree... K-I-S-S-I-N-G 
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 Holy schnike! The nookie is confirmed! While seeing a shot of Sara in a robe coming over to our dear Gil in bed certainly was no great surprise, it still made my heart race. I was kind of hoping the long, drawn-out pan around the room and the true answer to "GG + ?" would lead us to something more shocking (like Brass' daughter, maybe), but I'm happy to see this ending as well. A good handful of readers have said they would never watch the show again if Grissom hooks up with Sara. I've got one thing to say to that: I'll be looking forward to your posts next season.

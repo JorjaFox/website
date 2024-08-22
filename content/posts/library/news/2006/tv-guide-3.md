@@ -10,7 +10,6 @@ newstitle: "ASK AUSIELLO  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **Question:** Saw you on that new show *Square Off* and I have to ask: What was with the "Grissom and Sara are going to have sex" comment? *Please* elaborate! - Donna

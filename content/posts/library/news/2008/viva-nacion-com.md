@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Vists"
 newsreporter: Staff
 newssource: VIVA nacion
 newsurl: https://www.nacion.com/viva/2008/abril/17/viva1500216.html
-
 ---
 
 _Translated from Spanish_

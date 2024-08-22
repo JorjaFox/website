@@ -9,7 +9,6 @@ newstitle: "CSI Pink Slips Two Players, O.C.ers Tee Up on Trump's Greens"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com
-
 ---
 
 **From Jean_Jenegan:** **Please tell me that Jorja and George will be back on *CSI!*!**

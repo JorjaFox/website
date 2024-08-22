@@ -10,7 +10,6 @@ newstitle: "SAG Awards: Million-Dollar Night"
 newsreporter: Staff
 newssource: Backstage.com
 newsurl: https://www.backstage.com
-
 ---
 [...]
 

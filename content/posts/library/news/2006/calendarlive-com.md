@@ -10,7 +10,6 @@ newstitle: "The menu? Food for thought  "
 newsreporter: Staff
 newssource: Calendarlive.com
 newsurl: https://Calendarlive.com
-
 ---
 
 Farm critters don't have to worry about their future at the Animal Acres shelter.

@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Speaks about Leaving CSI"
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/
-
 ---
 
 There was much speculation about whether or not Sara Sidle would make it out alive from her encounter with "CSI"'s Miniature Killer. While the season premiere answered that question, the resolution was overshadowed by word that despite surviving, Sara is still not long for the CSI world ... because Jorja Fox, the actress who plays her, will be leaving "CSI".

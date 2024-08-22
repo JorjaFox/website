@@ -9,7 +9,6 @@ newstitle: Hey There, Jorja Girl
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.com
-
 ---
 
 CSI*'s Jorja Fox has a simple plan: Don't worry, be hippie.*

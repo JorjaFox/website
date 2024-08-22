@@ -10,7 +10,6 @@ newstitle: "The Insider: Jorja Fox  "
 newsreporter: Staff
 newssource: Boston Herald
 newsurl: https://theedge.bostonherald.com
-
 ---
 
 Jorja Fox

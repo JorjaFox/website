@@ -10,7 +10,6 @@ newstitle: "Women We Love"
 newsreporter: Shane Cassidy
 newssource: LesbiaNataion
 newsurl: https://www.lesbianation.com/scene/index.cfm?listID=193
-
 ---
 
 ## Most Loved Women of 2007

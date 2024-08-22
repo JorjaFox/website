@@ -9,7 +9,6 @@ newstitle: "2 stars of 'CSI' reportedly fired"
 newsreporter: Staff
 newssource: AZ Central
 newsurl: https://www.azcentral.com/
-
 ---
 
 A Los Angeles TV station reports two of the stars of "CSI" are off the case.

@@ -10,7 +10,6 @@ newstitle: "SHOOTING STARS: CSI returns to Vegas  "
 newsreporter: Staff
 newssource: Las Vegas Review-Journal
 newsurl: https://www.reviewjournal.com
-
 ---
 
 TV's top-rated drama - CBS' set-in-Vegas "CSI: Crime Scene Investigation" - returns home this week for a "Killer" episode, shooting today and Tuesday at Glitter Gulch.

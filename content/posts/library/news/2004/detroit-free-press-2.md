@@ -9,7 +9,6 @@ newstitle: "BRIEFLY"
 newsreporter: Staff
 newssource: Detroit Free Press
 newsurl: https://www.freep.com
-
 ---
 
 Reinstated: Jorja Fox, the actress fired with George Eads from CBS's "CSI" show reportedly because they wanted more money. E! reports she has been un-fired, with both sides acknowledging a misunderstanding.

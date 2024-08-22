@@ -10,7 +10,6 @@ newstitle: "'CSI' sendoff  "
 newsreporter: Mark A. Perigard
 newssource: Boston Herald
 newsurl: https://news.bostonherald.com/entertainment/television/reviews/view.bg?articleid=1044674
-
 ---
 
 **Fans put through ringer on Jorja Fox's farewell episode**

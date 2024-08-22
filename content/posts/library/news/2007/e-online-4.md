@@ -10,7 +10,6 @@ newstitle: "Breaking! Jorja Fox Confirms Her CSI Departure"
 newsreporter: Staff
 newssource: Watch With Kristin
 newsurl: https://www.eonline.com
-
 ---
 
 Well, I suppose this puts the nail in the coffin. Sorry, Sara Sidle fans.

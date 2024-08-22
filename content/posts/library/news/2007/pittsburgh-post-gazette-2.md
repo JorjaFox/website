@@ -10,7 +10,6 @@ newstitle: "Tuned In Journal: Sara sidles away from 'CSI'  "
 newsreporter: Rob Owen
 newssource: Pittsburgh Post-Gazette
 newsurl: https://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm
-
 ---
 Maybe I'm too well-adjusted to relate (and that would be a first), but **Sara Sidle (Jorja Fox) departs CBS's "CSI: Crime Scene Investigation"** (9 tonight) in the most unrealistic, only-on-TV way possible.
 

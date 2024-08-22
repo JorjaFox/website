@@ -10,7 +10,6 @@ newstitle: "Jorja Fox spills the beans on what she thinks of William Petersen's 
 newsreporter: Staff
 newssource: "MSN/Sympatico"
 newsurl: https://msn.com
-
 ---
 
 **The CSIer talks about her website, her beliefs, and the possibility that CSI may lose fans because of Liev Schreiber**

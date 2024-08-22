@@ -10,7 +10,6 @@ newstitle: "Bye-bye CSI  "
 newsreporter: Cristina Kinon
 newssource: Telestar
 newsurl: https://blog.telestar.fr/
-
 ---
 
 Sara Sidle is leaving the TF1 hit series

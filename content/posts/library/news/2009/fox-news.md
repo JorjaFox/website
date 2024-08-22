@@ -10,7 +10,6 @@ newstitle: "Taylor Swift Opens Up About Her Lack of Friends and Reveals How She 
 newsreporter: Hollie McKay
 newssource: Fox News
 newsurl: https://www.foxnews.com/story/0,2933,521872,00.html
-
 ---
 
 [...]

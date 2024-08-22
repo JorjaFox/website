@@ -10,7 +10,6 @@ newstitle: "Matt's Inside Line: Scoop on Both NCIS Shows, Two CSIs, Criminal Min
 newsreporter: Matt Webb Mitovich
 newssource: TV Line
 newsurl: https://www.tvline.com/2011/08/matts-inside-line-scoop-ncis-csi-criminal-minds-chuck/
-
 ---
 
 [...]

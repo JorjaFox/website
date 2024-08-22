@@ -10,7 +10,6 @@ newstitle: "Entertainment News"
 newsreporter: Sean Plummer
 newssource: MSN Entertainment
 newsurl: https://entertainment.ca.msn.com/tv/gallery.aspx?cp-documentid=27142465
-
 ---
  "Glee" star Matthew Morrison's recent comments to E! Online that his character Will will finally get together with his lady love Emma (Jayma Mays) "by season 14" got us thinking about that eternal TV dilemma: should TV couples consummate their unconsummated sexual tension and risk ruining their show? Here are ten TV duos where the question wasn't "will they or won't they," it's "should they or shouldn't they?"
 

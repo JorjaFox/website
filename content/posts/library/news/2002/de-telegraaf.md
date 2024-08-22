@@ -9,7 +9,6 @@ newstitle: TV Weekeinde
 newsreporter: Staff
 newssource: De Telegraaf
 newsurl: https://www.telegraaf.nl
-
 ---
 
 [CSI] has an outstanding cast with William Petersen, Jorja Fox and Eric Szmanda.

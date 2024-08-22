@@ -9,7 +9,6 @@ newstitle: "'CSI' fires 2 in contract dispute"
 newsreporter: Staff
 newssource: Philadelphia Inquirer
 newsurl: https://philly.com
-
 ---
 
 We have disquieting news for CSI: Crime Scene Investigation fans.

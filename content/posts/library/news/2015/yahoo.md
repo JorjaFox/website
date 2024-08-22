@@ -9,7 +9,6 @@ newstitle: "'CSI' ends its 15-season run with 2-hour reunion finale"
 newsreporter: Fraizer Moore
 newssource: Yahoo! News
 newsurl: https://news.yahoo.com/csi-ends-15-season-run-2-hour-reunion-132146292.html
-
 ---
 
 "CSI: Crime Scene Investigation" was a last-minute pickup by CBS, plugged into a Friday lineup whose widely forecast surefire hit would be a reboot of "The Fugitive," not a quirky little drama dwelling on hair fibers and blood spatter.

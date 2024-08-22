@@ -9,7 +9,6 @@ newstitle: "CSI producer expresses sadness after two actors fired"
 newsreporter: Staff
 newssource: KESQ News
 newsurl: https://www.kesq.com
-
 ---
 
 The executive producer of "CSI: Crime Scene Investigation" says he's "very saddened and deeply disappointed" over the firing of two stars on the show.

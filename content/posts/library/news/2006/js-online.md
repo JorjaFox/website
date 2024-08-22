@@ -10,7 +10,6 @@ newstitle: "Joanne Weintraub: Live from L.A.  "
 newsreporter: Staff
 newssource: JS Online
 newsurl: https://www.jsonline.com/
-
 ---
 
 [...]

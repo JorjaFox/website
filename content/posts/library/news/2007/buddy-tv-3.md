@@ -10,7 +10,6 @@ newstitle: "More on Jorja Fox's Possible Exit from CSI"
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214.aspx
-
 ---
 
 As we told you **last week**, speculation is running rampant about whether **Jorja Fox**, who plays Sara Sidle, will be leaving **CSI**. Now more possible details have emerged - but are they true? You be the judge.

@@ -9,7 +9,6 @@ newstitle: "'West Wing' elects to keep its idealistic platform"
 newsreporter: Staff
 newssource: Post-Gazette
 newsurl: https://www.post-gazette.com
-
 ---
 **Who's been shot?**
 

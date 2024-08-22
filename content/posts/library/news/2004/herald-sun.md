@@ -9,7 +9,6 @@ newstitle: "CSI star sacked"
 newsreporter: Staff
 newssource: Herald Sun
 newsurl: https://www.heraldsun.news.com.au/
-
 ---
 
 ACTOR Jorja Fox has been sacked from the hit TV drama CSI just a day before filming was due to begin on a new series.

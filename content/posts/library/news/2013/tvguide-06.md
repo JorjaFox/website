@@ -10,7 +10,6 @@ newstitle: "CSI Bosses on 300 Episodes of Murder and the Legacy of Gil Grissom  
 newsreporter: Adam Bryant
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/CSI-300th-Episode-Carol-Mendelsohn-1072418.aspx
-
 ---
 
 Wednesday's episode of CSI marks the CBS procedural's 300th episode, and no matter how you slice it, that's a lot of murder.

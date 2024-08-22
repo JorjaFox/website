@@ -9,7 +9,6 @@ newstitle: "Las Vegas 'CSI' makes news on Press Tour"
 newsreporter: Staff
 newssource: New York City
 newsurl: https://www.nynewsday.com
-
 ---
 
 A new, New York-focused "CSI" is due on CBS this fall, but the "CSI" making headlines last week is the original, Las Vegas version.

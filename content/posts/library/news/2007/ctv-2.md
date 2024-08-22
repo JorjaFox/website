@@ -10,7 +10,6 @@ newstitle: "Leaving 'CSI' the 'hardest decision' says Fox  "
 newsreporter: Staff
 newssource: CTV
 newsurl: https://www.ctv.ca
-
 ---
 
 Last Thursday marked the departure of Sara Sidle (Jorja Fox) from the long-running hit drama "CSI."

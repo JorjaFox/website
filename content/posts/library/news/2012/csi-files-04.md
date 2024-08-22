@@ -10,7 +10,6 @@ newstitle: "Interview: Joe Pokaski"
 newsreporter: Shane Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/10/interview-joe-pokaski-3/
-
 ---
 
 [...]

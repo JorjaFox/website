@@ -10,7 +10,6 @@ newstitle: "Sara's Back!  "
 newsreporter: Staff
 newssource: The Star Online
 newsurl: https://www.star-ecentral.com/news/story.asp?file=/2010/2/19/tvnradio/5694184&sec=tvnradio
-
 ---
 
 Welcome home, Jorja Fox. Even as we longed for her return as Sara Sidle (a.k.a. Mrs Gil Grissom) on *CSI*, Fox said she had been missing her onscreen persona, her cast-mates and the show terribly.

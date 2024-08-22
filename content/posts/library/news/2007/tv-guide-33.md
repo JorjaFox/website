@@ -10,7 +10,6 @@ newstitle: Ask Ausiello
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://www.tvguide.com/
-
 ---
 
 [...]

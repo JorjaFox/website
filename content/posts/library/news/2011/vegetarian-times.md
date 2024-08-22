@@ -10,7 +10,6 @@ newstitle: "[Q&A] Jorja On Our Mind "
 newsreporter: Rachel Dowd
 newssource: Vegetarian Times
 newsurl: https://www.vegetariantimes.com/
-
 ---
 
 *CSI: Crime Scene Investigation* fans breathed a sign of relief when **Jorja Fox** returned this season as criminologist Sara Sidle. More gregarious than her on-screen character, the veg actress applies her equally sharp mind and big heart in real life to activism on behalf of animals. She's an executive producer of the upcoming documentary *How I Became an Elephant*, which follows a 14-year-old girl on her mission to save the planet's gentle giants.

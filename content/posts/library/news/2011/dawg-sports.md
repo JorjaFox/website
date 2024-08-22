@@ -10,7 +10,6 @@ newstitle: "Georgia Bulldogs Basketball Fans, Is Mark Fox Your Favorite Fox?  "
 newsreporter: T Kyle King
 newssource: Dawg Sports
 newsurl: https://www.dawgsports.com/2011/1/18/1942206/georgia-bulldogs-basketball-fans-is-mark-fox-your-favorite-fox
-
 ---
 
 I feel safe in stating that, at this juncture, every denizen of Bulldog Nation is a fan of Mark Fox. Whether you were a Georgia Bulldogs basketball booster in the first place or have become more enthusiastic in your support of the sport as a result of the Hoop Hounds' recent success, you doubtless have discovered that there is a lot to like about Coach Fox. Since there is little sense in comparing him to past Georgia basketball coaches-that would be to damn him with faint praise, indeed-the only other way to evaluate him is, of course, to compare him to other Foxes.

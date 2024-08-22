@@ -10,7 +10,6 @@ newstitle: "Preview: How Grissom's Exit Will Shake Up 'CSI'!"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 [...]

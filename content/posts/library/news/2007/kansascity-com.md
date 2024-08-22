@@ -10,7 +10,6 @@ newstitle: "Short takes"
 newsreporter: Staff
 newssource: kansascity.com
 newsurl: https://www.kansascity.com/211/story/93175.html
-
 ---
 
 [...]

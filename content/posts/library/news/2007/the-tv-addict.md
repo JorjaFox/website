@@ -10,7 +10,6 @@ newstitle: "Joanna's Best & Worst of the Week"
 newsreporter: The TV Addict
 newssource: The TV Addict
 newsurl: https://thetvaddict.com
-
 ---
 
 [...]

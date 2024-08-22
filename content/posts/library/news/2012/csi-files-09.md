@@ -10,7 +10,6 @@ newstitle: "Report: Sara To Take An ‘Interesting Turn,’ Residual Fallout For
 newsreporter: Shane Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/11/report-sara-to-take-an-interesting-turn-residual-fallout-for-nick-on-csi/
-
 ---
 
 *CSI: Crime Scene Investigation* is preparing for some heavy character development in the second stretch of Season Thirteen.

@@ -10,7 +10,6 @@ newstitle: "CSI: Crime Scene Investigation - Cast Interviews  "
 newsreporter: Staff
 newssource: Channel Five
 newsurl: https://www.five.tv
-
 ---
 
 **Jorja Fox

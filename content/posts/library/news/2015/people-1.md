@@ -9,7 +9,6 @@ newstitle: "William Petersen, Marg Helgenberger Tease Their CSI Return to Say Go
 newsreporter: Lanford Beard
 newssource: People
 newsurl: https://www.people.com/article/csi-series-finale-sneak-peek-william-petersen-marg-helgenberger
-
 ---
 
 What happened in Vegas ...

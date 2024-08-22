@@ -9,7 +9,6 @@ newstitle: Star Talk
 newsreporter: Staff
 newssource: In Style
 newsurl: https://www.instyle.com/instyle/read/ci/startalk/0,10285,167332,00.html
-
 ---
 **What is the strangest thing in your fridge?**
 

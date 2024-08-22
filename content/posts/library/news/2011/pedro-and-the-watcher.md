@@ -10,7 +10,6 @@ newstitle: "Jorja Fox returns to 'CSI' as a regular  "
 newsreporter: The Watcher
 newssource: Pedro and the Watcher
 newsurl: https://pedrowatcher.ocregister.com/2011/07/20/jorja-fox-returns-to-csi-as-a-regular/39777/
-
 ---
 
 **Jorja Fox's** on-again. off-again relationship with **"CSI: Crime Scene Investigation"** flipped to on-again, as CBS announced she will return to the series as a regular this fall.

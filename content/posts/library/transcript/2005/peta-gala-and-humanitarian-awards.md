@@ -6,7 +6,6 @@ layout: transcript
 interviewurl: https://www.peta.com
 permalink: /transcript/2005/:title/
 interviewyear: "2005"
-
 ---
 
 [...]

@@ -9,7 +9,6 @@ newstitle: A Fox with Moxie!
 newsreporter: Daniel R. Coleridge
 newssource: TVGuide
 newsurl: https://tvguide.com
-
 ---
 
 **CSI Star MIA at ER Funeral**

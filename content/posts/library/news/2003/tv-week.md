@@ -9,7 +9,6 @@ newstitle: Applied Science
 newsreporter: Staff
 newssource: TV Week
 newsurl: https://tvweek.com
-
 ---
 
 [...]

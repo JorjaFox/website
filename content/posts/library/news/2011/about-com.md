@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Returns to CSI Permanently  "
 newsreporter: Rachel Thomas
 newssource: About.com
 newsurl: https://tvdramas.about.com/b/2011/07/22/jorja-fox-returns-to-csi-permanently.htm
-
 ---
 
 The merry-go-round that is Jorja Fox's status on the hit CBS series *CSI: Crime Scene Investigation* has changed once again - but this time the news is good.

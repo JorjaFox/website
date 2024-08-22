@@ -9,7 +9,6 @@ date: 1997-09-26
 newsreporter: Staff
 newssource: Washington Post
 newsurl: https://www.washingtonpost.com
-
 ---
 [...]
 

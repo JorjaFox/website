@@ -11,7 +11,6 @@ newstitle: "Pop Quiz - Jorja Fox leaving CSI  "
 newsreporter: By Rich Heldenfels
 newssource: Ohio.com
 newsurl: https://www.ohio.com/
-
 ---
 
 Can you please enlighten me about Jorja Fox/Sara leaving on "CSI"? Surely CBS is not abandoning the romance story between her and Grissom after teasing us about it for over a year?! Will Sarah come back to the "CSI" show or have we seen the last of her? It would be a real bummer if she disappears from the show. I may quit watching if she goes!

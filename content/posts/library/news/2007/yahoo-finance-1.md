@@ -10,7 +10,6 @@ newstitle: "Hollywood: Pet a Dog or Kill It?"
 newsreporter: "Yahoo! Finance"
 newssource: "Yahoo! Finance"
 newsurl: https://biz.yahoo.com/
-
 ---
 
 **Open Letter Demands Celebrities Withdraw Support for PETA**

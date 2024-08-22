@@ -10,7 +10,6 @@ newstitle: "Interview: CSI's Jorja Fox  "
 newsreporter: Amy and Nancy Harrington
 newssource: ScreenPicks
 newsurl: https://screenpicks.com/2012/10/interview-csis-jorja-fox/
-
 ---
 
 Written in conjunction with PopCulturePassionistas.com.

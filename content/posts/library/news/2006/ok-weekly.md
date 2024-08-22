@@ -10,7 +10,6 @@ newstitle: "Foxy Lady"
 newsreporter: Staff
 newssource: OK Weekly
 newsurl: https://okmagazine.com/
-
 ---
 
 "My six-pack is not like most actresses' - my six-pack is beer."

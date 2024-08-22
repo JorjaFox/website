@@ -10,7 +10,6 @@ newstitle: "Jorja Fox back on the case at 'CSI'  "
 newsreporter: Nellie Andreeva
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/hr/content_display/news/e3ibdf529f18374f6c927c299508c098b12
-
 ---
 
 **Will appear in five episodes of the show's 10th season**

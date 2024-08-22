@@ -9,7 +9,6 @@ newstitle: What are they doing to my show?
 newsreporter: Staff
 newssource: Post-Dispatch
 newsurl: https://home.post-dispatch.com/
-
 ---
 
 [...]

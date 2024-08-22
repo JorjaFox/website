@@ -9,7 +9,6 @@ newstitle: "Prime Time Crime News"
 newsreporter: Staff
 newssource: Lexington Herald-Leader
 newsurl: https://www.kentucky.com
-
 ---
 
 _The Sopranos_ won't air again until 2006, and George Eads and Jorja Fox, who were fired from the top-rated _CSI: Crime Scene Investigation_ for skipping work, will return to their hit show.

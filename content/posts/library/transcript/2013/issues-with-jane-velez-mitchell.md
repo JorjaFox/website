@@ -6,7 +6,6 @@ date: 2013-10-23
 interviewurl: https://www.hlntv.com/video/2013/10/23/jorja-fox-blackfish-jvm
 permalink: /transcript/2013/:title/
 interviewyear: "2013"
-
 ---
 
 [...]

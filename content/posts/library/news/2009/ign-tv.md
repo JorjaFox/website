@@ -10,7 +10,6 @@ newstitle: "CSI: 'Family Affair' Review  "
 newsreporter: James Chamberlin
 newssource: IGN
 newsurl: https://tv.ign.com/articles/102/1028487p1.html
-
 ---
 
 **Sara returns to a team in transition.**

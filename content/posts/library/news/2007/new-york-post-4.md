@@ -11,7 +11,6 @@ newstitle: "FOXY LADY MOVES ON  "
 newsreporter: Liz Smith
 newssource: New York Post
 newsurl: https://www.nypost.com/seven/12022007/gossip/liz/foxy\_lady\_moves\_on\_670812.htm?page=0
-
 ---
 
 'I'D WALK through fire for the 'guys' I worked with on 'CSI.' I could never be sick of them!" says **Jorja Fox**, who has left the popular TV series.

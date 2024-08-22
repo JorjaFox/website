@@ -9,7 +9,6 @@ newstitle: "Festive, glamorous Emmys red carpet"
 newsreporter: Staff
 newssource: MSNBC
 newsurl: https://msnbc.msn.com/
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "Interview: Executive Producer Naren Shankar on 'CSI's' Post-Petersen
 newsreporter: Jim Halterman
 newssource: The Futon Critic
 newsurl: https://www.thefutoncritic.com/rant.aspx?id=20090924_csi
-
 ---
 
 [...]

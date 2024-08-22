@@ -11,7 +11,6 @@ newstitle: "TV Chat: Who would you boot off TV?  "
 newsreporter: Ellen Gray and Jonathan Storm
 newssource: Philadelphia Inquirer
 newsurl: https://www.philly.com/inquirer/online\_extras/chats/TV\_Chat\_Who\_would\_you\_boot\_off\_TV.html
-
 ---
 
 [...]

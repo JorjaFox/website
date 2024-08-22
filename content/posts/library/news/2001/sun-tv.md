@@ -9,7 +9,6 @@ newstitle: "Q&A with CSI's Jorja Fox"
 newsreporter: Staff
 newssource: Sun TV
 newsurl: https://www.canoe.ca/
-
 ---
 Jorja Fox probably prefers not to describe her talents as "acting chops." The dedicated vegetarian told The Sun's Claire Bickley she even finds playing one of CSI's forensic investigators a little too realistic.
 

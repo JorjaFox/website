@@ -10,7 +10,6 @@ newstitle: 'Ausiello on "CSI", "Office", "Heroes", "Bones", "Lost" and More!'
 newsreporter: Michael Ausiello
 newssource: Ask Ausiello
 newsurl: https://www.tvguide.com/Ask-Ausiello/080408
-
 ---
 
 [...]

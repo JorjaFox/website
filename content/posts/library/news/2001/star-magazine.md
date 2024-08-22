@@ -9,7 +9,6 @@ newstitle: Jorja Fox likes to Rock and Roll
 newsreporter: Staff
 newssource: Star Magazine
 newsurl: https://www.starmagazine.com
-
 ---
 JORJA FOX, C.S.I.'s high-tech, no-nonsense investigator, Sara Sidel, once sand and played drums and guitar as a member of Honey Pot - an all girl band lead by lesbian singer Heather Grody.
 

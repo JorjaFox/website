@@ -10,7 +10,6 @@ newstitle: "Fans Still Believe Cute Food Deliveries Can Sway TV Decision"
 newsreporter: Mark
 newssource: Defamer Hollywood
 newsurl: https://defamer.com
-
 ---
 
 In this post-Jericho era, any network executive or TV producer who's just signed off on a potentially unpopular change now expects to spend their next day at the office buried underneath an avalanche of foodstuffs delivered by protesting viewers who now believe that even the most stubborn of minds can be changed with a metric ton of peanuts. Discussing the announcement of Jorja Fox's (officially voluntary) departure from CSI with TVGuide.com, executive producer Carol Mendelsohn marvels at how disappointed fans have escalated things since the now quaint-seeming NUTS to CBS! campaign:

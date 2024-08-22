@@ -10,7 +10,6 @@ newstitle: "Jorja Fox is Once Again a CSI Series Regular. You Mean She Wasn't Al
 newsreporter: Kat Angus, Dose.ca
 newssource: Dose.ca
 newsurl: https://www.dose.ca/Jorja+Once+Again+Series+Regular+Mean+Wasn+Already/5131564/story.html
-
 ---
 
 It's been two years since Jorja Fox returned to CSI, and considering her long history with the CBS crime procedural and the huge popularity of character Sara Sidle, you'd be forgiven for thinking the actress was already a series regular. Not so, TV Line revealed this week, as Fox has only just been promoted to regular status, coinciding with the start of CSI's twelfth season this fall.

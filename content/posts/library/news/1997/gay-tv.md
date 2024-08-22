@@ -9,7 +9,6 @@ date: 1997-09-26
 newsreporter: Staff
 newssource: Gay TV
 newsurl: https://gay.com
-
 ---
 **FUN FACTOID**
 

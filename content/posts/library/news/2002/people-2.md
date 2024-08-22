@@ -10,7 +10,6 @@ newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.aol.com/people/magazine/
 
-
 ---
 
 As crime-solving wizards on TV's top-rated drama, the stars of CSI steep themselves in blood, bullet holes and (very) gross anatomy.

@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Interview  "
 newsreporter: CStaff
 newssource: Tele Star
 newsurl: https://blog.telestar.fr/
-
 ---
 
 "I love the idea of returning as an "invitee" to *CSI*"

@@ -9,7 +9,6 @@ newstitle: "News"
 newsreporter: Staff
 newssource: Variety
 newsurl: https://www.variety.com/
-
 ---
 
 [...]

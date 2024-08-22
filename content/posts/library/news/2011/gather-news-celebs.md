@@ -10,7 +10,6 @@ newstitle: "Ted Danson alienating 'CSI' costars?  "
 newsreporter: Coco George
 newssource: Gather News - Celebs
 newsurl: https://celebs.gather.com/viewArticle.action?articleId=281474980349493
-
 ---
 
 Ted Danson has built up a lot of goodwill among audiences after appearing on such hits as "Cheers," "Damages," and "Becker." But that goodwill might not extend to his new costars on "CSI."

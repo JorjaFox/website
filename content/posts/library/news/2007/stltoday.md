@@ -10,7 +10,6 @@ newstitle: "Here's when your favorite series wraps up its season"
 newsreporter: STLtoday
 newssource: STLtoday
 newsurl: https://www.stltoday.com/
-
 ---
 
 [...]

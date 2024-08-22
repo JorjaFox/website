@@ -10,7 +10,6 @@ newstitle: "Killer cast  "
 newsreporter: Staff
 newssource: The Star
 newsurl: https://www.star-ecentral.com/news/story.asp?file=/2006/5/28/tvnradio/14230809&sec=tvnradio
-
 ---
 
 *CSI: MIAMI* and *CSI: NY *may seem like generic copycats of their predecessor to the non-fan but to *CSI*-heads, each series has its own charm - be it the regular characters, the horrific and sometimes creative crimes, or the striking settings (casinos, alligators and the Empire State Building ... can life get any more exciting than that?).

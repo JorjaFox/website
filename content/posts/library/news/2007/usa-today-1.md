@@ -10,7 +10,6 @@ newstitle: "Stars in demure mode at Frederick's lingerie show "
 newsreporter: Brent Jones
 newssource: USA Today
 newsurl: https://www.usatoday.com/life/people/2007-10-25-fredericks_n.htm
-
 ---
 
 [...]

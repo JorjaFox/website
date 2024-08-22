@@ -10,7 +10,6 @@ newstitle: "'CSI' Stars Talk About Their Characters"
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/csi-stars-talk-about-their-cha-10021.aspx
-
 ---
 
 Like other actors on the "CSI" franchise, William Petersen (Gil Grissom) and Jorja Fox (Sara Sidle) feel fortunate to portray their respective characters and to be part of such an award-winning series.

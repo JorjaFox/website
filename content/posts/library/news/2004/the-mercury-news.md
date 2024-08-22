@@ -9,7 +9,6 @@ newstitle: "CSI actors fired for breach of contract"
 newsreporter: Staff
 newssource: The Mercury News
 newsurl: https://www.mercurynews.com/
-
 ---
 
 Two stars of the CBS hit television series "CSI: Crime Scene Investigation" were fired for breach of contract and one failed to show up for work, KCBS-TV and Variety reported Thursday.

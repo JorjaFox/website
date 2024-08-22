@@ -10,7 +10,6 @@ newstitle: "Jorja Fox bids farewell to 'CSI' in thrilling episode  "
 newsreporter: Hal Boedeker
 newssource: Orlando Sentinel
 newsurl: https://www.orlandosentinel.com/entertainment/orl-csi1507nov15,0,1039405.story
-
 ---
 Beloved characters deserve fitting farewells, and Sara Sidle (Jorja Fox) receives one tonight from CSI.
 

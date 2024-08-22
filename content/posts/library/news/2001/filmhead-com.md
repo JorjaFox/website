@@ -9,7 +9,6 @@ newstitle: Review
 newsreporter: Staff
 newssource: Filmhead
 newsurl: https://www.filmhead.com/reviews/2001/memento.html
-
 ---
 [...]
 

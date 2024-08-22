@@ -9,7 +9,6 @@ newstitle: "Original 'CSI' stars return for final case"
 newsreporter: Bill Keveney
 newssource: USA Today
 newsurl: https://www.usatoday.com/story/life/tv/2015/09/24/william-petersen-marg-helgenberger-cbs-csi-finale/72664736/
-
 ---
 
 [...]

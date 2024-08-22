@@ -10,7 +10,6 @@ newstitle: "SARA'S LAST DAY  "
 newsreporter: Adam Buckman
 newssource: New York Post
 newsurl: https://www.nypost.com/seven/11152007/tv/saras\_last\_day_271927.htm
-
 ---
 AS if **"CSI"** wasn't de pressing enough, to night's episode is devoted entirely to the disillusionment of Sara Sidle.
 

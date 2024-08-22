@@ -9,7 +9,6 @@ newstitle: "CSI Finale Preview: Grissom and Sidle's 'Awkward' Reunion, MIA Nick 
 newsreporter: Rebecca Iannucci
 newssource: TV Line
 newsurl: https://tvline.com/2015/09/17/csi-series-finale-spoilers-grissom-sidle-relationship/
-
 ---
 
 Brush up on your forensic jargon and crank the volume on The Who, because it's nearly time to say goodbye to CSI.

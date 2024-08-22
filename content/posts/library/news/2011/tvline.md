@@ -10,7 +10,6 @@ newstitle: "CSI Exclusive: Jorja Fox Rejoins Series Regular Ranks For Season 12 
 newsreporter: Michael Ausiello
 newssource: TVLine
 newsurl: https://www.tvline.com/2011/07/csi-jorja-fox-series-regular-season-12/
-
 ---
 
 After four seasons as a recurring guest star, Jorja Fox is returning to *CSI* this fall as a full-fledged series regular, sources confirm to TVLine exclusively.

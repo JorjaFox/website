@@ -10,7 +10,6 @@ newstitle: "Hot Box: Television to talk about"
 newsreporter: Toronto Star
 newssource: Toronto Star
 newsurl: https://www.thestar.com/
-
 ---
 
 [...]

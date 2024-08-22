@@ -10,7 +10,6 @@ newstitle: "Sauveront-elles les Experts?  "
 newsreporter: Staff
 newssource: Cine Tele Revue
 newsurl: https://www.cinetelerevue.be
-
 ---
 
 [...]

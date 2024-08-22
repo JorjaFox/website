@@ -10,7 +10,6 @@ newstitle: "20 October  "
 newsreporter: Bryan Kristopowitz
 newssource: 411Mania.com
 newsurl: https://www.411mania.com/movies/columns/158335/
-
 ---
  [...]
 

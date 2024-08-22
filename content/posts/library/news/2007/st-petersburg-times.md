@@ -10,7 +10,6 @@ newstitle: "An uninspired ending for CSI character  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times
 newsurl: https://www.sptimes.com/
-
 ---
 **Jorja Fox's character is written out of CSI in a way that writes her off.**
 

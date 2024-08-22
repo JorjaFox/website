@@ -10,7 +10,6 @@ newstitle: "'CSI' changes afoot: Could Grissom return? What's up with Langston's
 newsreporter: Maureen Ryan
 newssource: Chicago Tribune
 newsurl: https://featuresblogs.chicagotribune.com/entertainment_tv/2009/08/csi-fishburne-petersen.html
-
 ---
 
 [...]

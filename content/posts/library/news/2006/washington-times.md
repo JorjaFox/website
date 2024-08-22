@@ -10,7 +10,6 @@ newstitle: "TV plots victimize female law enforcers  "
 newsreporter: Staff
 newssource: Washington Times
 newsurl: https://www.washingtontimes.com/entertainment/20061022-110541-3858r.htm
-
 ---
 
 [...]

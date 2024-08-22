@@ -9,7 +9,6 @@ newstitle: "Returning Favorites: CSI"
 newsreporter: Michael Logan
 newssource: TV Guide Magazine
 newsurl: https://tvguidemagazine.com
-
 ---
 
 **RETURNS Sunday, Sept 28, 10/9c, CBS**

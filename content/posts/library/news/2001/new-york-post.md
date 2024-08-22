@@ -9,7 +9,6 @@ newstitle: 4 Questions
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://nypost.com
-
 ---
 **I never got off the bus**
 

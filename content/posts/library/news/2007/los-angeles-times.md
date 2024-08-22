@@ -10,7 +10,6 @@ newstitle: "MY FAVORITE WEEKEND: JORJA FOX"
 newsreporter: Staff
 newssource: Los Angeles Times
 newsurl: https://www.calendarlive.com/
-
 ---
 
 ## This 'CSI' snoop knows how to locate L.A.'s vegetarian options

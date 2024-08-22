@@ -10,7 +10,6 @@ newstitle: "TV Review: C.S.I. - CRIME SCENE INVESTIGATION - Season 6 - 'Way To G
 newsreporter: Staff
 newssource: If Magazine
 newsurl: https://www.ifmagazine.com
-
 ---
 
 For a season finale, the series leaves viewers on a sour note and cranks up the cheese more than usual

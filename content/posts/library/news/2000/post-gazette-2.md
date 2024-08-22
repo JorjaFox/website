@@ -9,7 +9,6 @@ newstitle: Even celebrities are carried away with castaways
 newsreporter: Staff
 newssource: Post-Gazette Publishing
 newsurl: https://www.post-gazette.com
-
 ---
 [...]
 

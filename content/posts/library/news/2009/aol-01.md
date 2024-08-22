@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Staying on 'CSI.' Will This Help the Ratings? "
 newsreporter: Gary Susman
 newssource: AOL Inside TV
 newsurl: https://insidetv.aol.com/2009/10/15/jorja-fox-staying-on-csi-will-this-help-the-ratings/
-
 ---
 
 The latest puzzler for the 'CSI: Crime Scene Investigation': How to stop a ratings slide that began with William Petersen's departure last season and has continued into a new season, during which the granddaddy of forensic procedural dramas has lost its crown as TV's top-rated scripted series to 'NCIS'? Answer? Stunts, starting with extending Jorja Fox's return to the show from temporary (five episodes) to indefinite.

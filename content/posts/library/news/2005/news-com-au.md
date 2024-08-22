@@ -10,7 +10,6 @@ newstitle: "Pulp friction"
 newsreporter: Staff
 newssource: NEWS.com.au
 newsurl: https://entertainment.news.com.au
-
 ---
 [...]
 

@@ -8,7 +8,6 @@ newstitle: "Don't Forget: 15 Things You Didn't Know About Memento, 15 Years Late
 newsreporter: "Drew Mackie"
 newssource: "People"
 newsurl: https://www.people.com/article/memento-movie-trivia
-
 ---
 
 We'd make a joke about deja vu, but that's not the memory anomaly at the center of _Memento_, which first hit American theaters in limited release on March 16, 2001 – 15 years ago this week.

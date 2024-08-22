@@ -10,7 +10,6 @@ newstitle: "Former Mel-Hi student Fox leaving CSI  "
 newsreporter: Staff
 newssource: Florida Today
 newsurl: https://www.floridatoday.com/apps/pbcs.dll/article?AID=/20071016/BREAKINGNEWS/71016003/1086
-
 ---
 Jorja Fox, who plays Sara Sidle on CSI, has decided to leave the CBS crime show, USA Today reported today.
 

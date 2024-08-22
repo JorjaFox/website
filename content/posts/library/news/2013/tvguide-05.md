@@ -10,7 +10,6 @@ newstitle: "The CSI Cast Reflects On the Show's Finest Hours  "
 newsreporter: William Keck
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/CSI-300-Episodes-Best-1072388.aspx
-
 ---
 
 Over 14 seasons and 300 episodes, "CSI" has concocted some wild plots and brought in memorable guest stars to keep the body-bagging business fresh and fun. We asked the cast - including Marg Helgenberger, who reprises her role as Catherine Willows for Wednesday's landmark 300th episode, which flashes back to a case the team failed to crack in 2000 - to reflect on the show's best installments, selected by longtime executive producer Carol Mendelsohn.

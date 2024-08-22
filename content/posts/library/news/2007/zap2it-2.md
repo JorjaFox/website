@@ -10,7 +10,6 @@ newstitle: "'CSI': With a Whimper  "
 newsreporter: Andy Grieser
 newssource: Zap2It.com
 newsurl: https://blog.zap2it.com/ithappenedlastnight/2007/11/csi-with-a-whim.html
-
 ---
 Which is the better way to go out, with a bang or a whimper? Unlike its Miami-based counterpart, "**CSI"** has never been about the bang. The flagship show's characters are more cerebral, its sets dressed in somber blues. It may have made for better storytelling to have Sara Sidle die at the hands of the Miniature Killer, but her actual departure fit better with the show's sensibilities.
 

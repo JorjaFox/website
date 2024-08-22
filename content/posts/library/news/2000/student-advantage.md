@@ -9,7 +9,6 @@ newstitle: The West Wing NBC
 newsreporter: Staff
 newssource: Student Advantage
 newsurl: https://www.studentadvantage.com/
-
 ---
 
 **Scoop**: In Entertainment Weekly's February cover story, director Aaron Sorkin discussed his plans for this year's "The West Wing." The most dramatic change is in the cast, since Moira Kelly is leaving.

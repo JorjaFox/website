@@ -10,7 +10,6 @@ newstitle: "Animal Defenders Seek Ban on Circus Wildlife  "
 newsreporter: Richard Whittaker
 newssource: The Austin Chronicle
 newsurl: https://www.austinchronicle.com/gyrobase/Issue/story?oid=oid:645923
-
 ---
 
 There was a Fox loose in City Hall last week: **Jorja Fox,** star of hit TV show *CSI: Las Vegas*, visited Austin on July 11 to highlight a new report on animal cruelty in traveling circuses.

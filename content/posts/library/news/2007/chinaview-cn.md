@@ -10,7 +10,6 @@ newstitle: '"Sara Sidle" bids farewell to "CSI"  '
 newsreporter: Wang Yan
 newssource: Chinaview.cn
 newsurl: https://news.xinhuanet.com/english/2007-11/16/content_7088017.htm
-
 ---
 
 After eight seasons on one of TV's highest-rated shows, Jorja Fox left the CBS drama "CSI: Crime Scene Investigation" Thursday night.

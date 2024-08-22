@@ -10,7 +10,6 @@ newstitle: "Personality Parade  "
 newsreporter: Walter Scott
 newssource: Parade
 newsurl: https://www.parade.com/articles/editions/2008/edition_07-06-2008/Personality_Parade
-
 ---
 
 [...]

@@ -11,7 +11,6 @@ newstitle: "Renaissance - Discussion about Season Seven!"
 newsreporter: Series TV
 newssource: Series TV
 newsurl: https://seriestv.co.fr
-
 ---
 
 Number one all around the world, CSI is apparently still at the top of its game. One could be forgiven for thinking that after seven seasons and two spin-offs, the genre would have completely lost steam, but that's not taking into account the talent of the writers and the quality of the actors. We went to talk to the team behind the show to find out what they have in store for us in Season seven and how the show has managed to remain as fresh as ever.

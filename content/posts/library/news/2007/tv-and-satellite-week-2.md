@@ -10,7 +10,6 @@ newstitle: "Valley of the dolls"
 newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: https://www.tvandsatelliteweek.com/
-
 ---
 
 [...]

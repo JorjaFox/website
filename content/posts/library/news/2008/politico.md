@@ -10,7 +10,6 @@ newstitle: "There's a new group in town, and Hollywood is excited to learn about
 newsreporter: Anne Schroeder Mullins
 newssource: Politico
 newsurl: https://www.politico.com/blogs/anneschroeder/1108/Theres_a_new_group_in_town_and_Hollywood_is_excited_to_learn_about_it.html
-
 ---
 
 The Obama campaign is going to do wonders for the gang running Artists & Athletes, the nonprofit that has found its niche within the confines of Hollywood's interest in and naiveté about Washington.

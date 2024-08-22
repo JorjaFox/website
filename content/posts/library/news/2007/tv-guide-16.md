@@ -10,7 +10,6 @@ newstitle: "Is 'CSI' killing off Jorja Fox?"
 newsreporter: Michael Ausiello
 newssource: Ausiello Report
 newsurl: https://www.tvguide.com
-
 ---
 
 [...]

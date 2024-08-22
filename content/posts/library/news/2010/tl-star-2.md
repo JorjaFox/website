@@ -10,7 +10,6 @@ newstitle: "Jorja Fox 'I hesitated to re-sign'"
 newsreporter: Staff
 newssource: TeLe Star
 newsurl: https://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html
-
 ---
 
 *This article has been translated from it's original French.*

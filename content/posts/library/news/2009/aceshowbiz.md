@@ -10,7 +10,6 @@ newstitle: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
 newsreporter: Staff
 newssource: AceShowBiz
 newsurl: https://www.aceshowbiz.com/news/view/00026009.html
-
 ---
 
 "CSI: Crime Scene Investigation' season 10 will see a lot of Sara Sidle but none of Riley Adams."

@@ -10,7 +10,6 @@ newstitle: "The Miniature Killer Is Revealed - But Where's Sara?"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 [...]

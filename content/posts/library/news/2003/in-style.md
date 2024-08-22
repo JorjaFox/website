@@ -9,7 +9,6 @@ newstitle: Guess Who's Serving You Dinner?
 newsreporter: Staff
 newssource: In Style Magazine
 newsurl: https://instyle.com
-
 ---
 
 A future Academy Award winner, perhaps. Today's stars recall how time spent waiting for their big break often meant waiting on customers.

@@ -10,7 +10,6 @@ newstitle: "'CSI' Star Jorja Fox Campaigns Against Circus Animal Abuse  "
 newsreporter: Jennifer Tormo
 newssource: AHN
 newsurl: https://www.allheadlinenews.com/articles/7011574660
-
 ---
 
 Jorja Fox's character on "CSI: Crime Scene Investigation" is known for fighting crime. Now the actress is taking a stand against wrong-doers in real life, too.

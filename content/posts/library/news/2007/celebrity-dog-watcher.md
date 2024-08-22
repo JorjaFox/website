@@ -10,7 +10,6 @@ newstitle: "Jorja Fox and Ali, the Other Boxer"
 newsreporter: Celebrity Dog Watcher
 newssource: Celebrity Dog Watcher
 newsurl: https://celebritydogwatcher.com/
-
 ---
 
 "Los Angeles Confidential" magazine featured "CSI: Crime Scene Investigation**s Jorja Fox in the May issue, 'Gimmie Shelter' column.

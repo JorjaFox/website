@@ -10,7 +10,6 @@ newstitle: "Dissecting CSIs Success Story"
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com
-
 ---
 [...]
 

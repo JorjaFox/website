@@ -10,7 +10,6 @@ newstitle: "ASK AUSIELLO  "
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 As promised, here's my interview with CSI's veggie-lovin' babe Jorja Fox. Spoilerphobes, read at your own risk!

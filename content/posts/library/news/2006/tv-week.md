@@ -10,7 +10,6 @@ newstitle: "Marg Helgenberger Got Slipped a Roofie, But It's Not a Bad Thing  "
 newsreporter: Staff
 newssource: TV Week
 newsurl: https://www.tvweek.com/
-
 ---
 
 [...]

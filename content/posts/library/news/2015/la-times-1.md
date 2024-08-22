@@ -9,7 +9,6 @@ newstitle: "As 'CSI' comes to a close, actress Jorja Fox is open to an uncertain
 newsreporter: Jessica Ritz
 newssource: LA Times
 newsurl: https://www.latimes.com/health/la-he-jorja-fox-csi-interview-20150926-story.html
-
 ---
 
 "Jorja Fox of "CSI" is preparing to face welcome uncertainty. "I think you kind of have to embrace the unknown if you're an actor," she says."

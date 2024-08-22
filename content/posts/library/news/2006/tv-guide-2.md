@@ -10,7 +10,6 @@ newstitle: "ASK AUSIELLO  "
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **Question:** OK, we've been waiting for six years. Is something going to happen between Grissom and Sara on CSI before the end of this season? - Cindy

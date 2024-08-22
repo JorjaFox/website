@@ -10,7 +10,6 @@ newstitle: "Partners in Crime?  "
 newsreporter: Staff
 newssource: Evening Standard
 newsurl: https://www.thisislondon.co.uk
-
 ---
 
 **Romance is on the cards for Sara and Grissom after a night of passion**

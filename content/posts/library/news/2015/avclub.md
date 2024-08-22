@@ -8,7 +8,6 @@ newstitle: "William Petersen on Manhattan, Michael Mann, and sailing into the su
 newsreporter: "Will Harris"
 newssource: "A.V. Club"
 newsurl: https://www.avclub.com/article/william-petersen-manhattan-michael-mann-and-sailin-229108
-
 ---
 
 [...]

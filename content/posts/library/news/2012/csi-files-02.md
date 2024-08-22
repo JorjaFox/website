@@ -11,7 +11,6 @@ newsreporter: Shane Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/10/interview-jorja-fox-2/
 
-
 ---
 
 Anyone who knows Jorja Fox&nbsp;understands just how special of a woman she is. The Sara Sidle actress is not only amazingly humble, talented, and yes, beautiful, but she"s also incredibly&nbsp;brilliant, kind, and well spoken, which makes anyone in her presence feel special. After playing this one character for over twelve seasons, she knows the ins and outs of her character to a T, and is always eager to add new layers and nuances to her performance. Fortunately, for fans, this season will be a year of personal development for many of the characters on *CSI*, which will allow Fox to crank out some of those dramatic performances she"s known for. Which is the case tonight with the new episode 'Code Blue Plate Special,' an installment that really hits close to home for Sara. Shane Saunders&nbsp;caught up with the actress earlier this week to discuss character growth, upcoming episodes, and yes, the state of GSR. Spoilers after the jump.

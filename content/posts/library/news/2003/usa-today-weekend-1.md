@@ -9,7 +9,6 @@ newstitle: Who's News
 newsreporter: Staff
 newssource: USA Weekend
 newsurl: https://www.usaweekend.com
-
 ---
 
 [...]

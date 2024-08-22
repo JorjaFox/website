@@ -10,7 +10,6 @@ newstitle: "Marlee Matlin lobbies for 'CSI: Chicago'  "
 newsreporter: Kate O'Hare
 newssource: Zap2it
 newsurl: https://blog.zap2it.com/frominsidethebox/2010/12/marlee-matlin-lobbies-for-csi-chicago.html
-
 ---
 
 If Marlee Matlin has her way, there will be more "CSI" dramas than just the three - the original, "CSI: Crime Scene Investigation," and its spin-offs, ("CSI: Miami" and "CSI: NY") that CBS has on the air now.

@@ -9,7 +9,6 @@ newstitle: Tiara Tango
 newsreporter: Marjorie Baumgarten
 newssource: Austin Chronicle
 newsurl: https://www.auschron.com
-
 ---
 D: Werner Molinsky; with Jean Smart, Robert Wagner, Emily Procter, Justin William Root, Jorja Fox, Mink Stole.
 

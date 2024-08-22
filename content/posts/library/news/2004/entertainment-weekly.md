@@ -9,7 +9,6 @@ newstitle: "Cold Cases?"
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com
-
 ---
 
 Can fired "CSI" actors get their jobs back? George Eads and Jorja Fox insist that they were fired over misunderstandings and weren't holding out for more money by Gary Susman

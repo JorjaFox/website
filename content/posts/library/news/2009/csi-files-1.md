@@ -10,7 +10,6 @@ newstitle: "Robert David Hall"
 newsreporter: Kristine Huntley
 newssource: CSI Files
 newsurl: https://www.csifiles.com/interviews/robert_david_hall.shtml
-
 ---
 
 [...]

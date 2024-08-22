@@ -9,7 +9,6 @@ newstitle: "CSI: Sara and Grissom 'Absolutely Ended Up Together'"
 newsreporter: Henrik Batallones
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx
-
 ---
 
 Just when I think we've heard enough about the developments on "CSI" over the past week-Jorja Fox arriving for five episodes, and Lauren Lee Smith leaving entirely-then comes more. Maybe you've already heard some of these things, but I shall point your attention to this article's title, somewhere up there. Yeah, exactly.

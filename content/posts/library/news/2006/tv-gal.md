@@ -10,7 +10,6 @@ newstitle: "TV Gal Has Hopes for Fall  "
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://www.zap2it.com/
-
 ---
 
 [...]

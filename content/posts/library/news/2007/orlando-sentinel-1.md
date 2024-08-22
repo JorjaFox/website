@@ -10,7 +10,6 @@ newstitle: 'At CBS party, previews of "CSI," "Without a Trace," "Cold Case," "Th
 newsreporter: Orlando Sentinel
 newssource: Orlando Sentinel
 newsurl: https://blogs.orlandosentinel.com/
-
 ---
 
 [...]

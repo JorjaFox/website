@@ -10,7 +10,6 @@ newstitle: "TV Gal Shares a Moment  "
 newsreporter: Staff
 newssource: Zap2It
 newsurl: https://www.zap2it.com
-
 ---
 
 [...]

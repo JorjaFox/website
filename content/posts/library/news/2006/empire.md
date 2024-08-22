@@ -10,7 +10,6 @@ newstitle: "Jorja Fox - More from the set of CSI"
 newsreporter: Staff
 newssource: Empire
 newsurl: https://www.empireonline.com
-
 ---
 
 She's been working in some of the best shows on US TV for a full decade - ER and The West Wing among them. But it's CSI which has made her a household name. We spoke to the actress on set of the world's most popular show.

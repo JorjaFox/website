@@ -11,7 +11,6 @@ newstitle: "Hollywood's Healthiest Snacks  "
 newsreporter: Gerri Miller
 newssource: Everyday Health
 newsurl: https://www.everydayhealth.com/photogallery/starsecrets/favoritehealthysnack.aspx#/slide-7
-
 ---
 
 How celebs satisfy their cravings without packing on the pounds.

@@ -10,7 +10,6 @@ newstitle: "Forgetting Sara Sidle  "
 newsreporter: Genevieve Loh
 newssource: TODAYonline
 newsurl: https://www.todayonline.com/Plus/Television/EDC100226-0000056/Forgetting-Sara-Sidle
-
 ---
 
 **The fans didn't, and neither could Jorja Fox, who's reprising the role in CSI**

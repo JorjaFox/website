@@ -9,7 +9,6 @@ newstitle: "The Hot 20: CSI's Foxy Lady"
 newsreporter: Staff
 newssource: Shape Magazine
 newsurl: https://www.shapemag.com
-
 ---
 Jorja Fox admits she has trouble seeing herself as the beautiful woman she is today. "Up until the age of 17, I was an overweight kid," she says. "So I still see my body that way sometimes. It stays with you." Lately though, Fox has been feeling more comfortable in her own skin, having landed a coveted role as crime scene investigator Sara Sidle on last season's top-rated freshman drama, *CSI*. Fox, a self-admitted tomboy, says she prefers outdoor exercise to the confines of a gym. "I've never even had a membership!" - Alexis Iacone.
 

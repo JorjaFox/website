@@ -9,7 +9,6 @@ newstitle: Relationships are at the core of 'The Hungry Bachelors Club'
 newsreporter: John Petrakis
 newssource: Chicago MetroMix
 newsurl: https://www.metromix.com
-
 ---
 Gregory Ruzzin's "The Hungry Bachelors Club," produced by the team that gave us the award-winning documentary "Waco: The Rules Of Engagement," is in many ways a trifle, a low-key romantic comedy about a close-knit group of friendly oddballs who occasionally gather for discussion, companionship and home-cooked meals. Where it rises above the ordinary is in its attempt to address issues of personal consequence - like infidelity, interracial romance and surrogate motherhood - even as it maintains its tenuous comic roots.
 

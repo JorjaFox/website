@@ -10,7 +10,6 @@ newstitle: "TCA BLOG: Diggs gets defensive; V. Williams gets 'Ugly'; Where are t
 newsreporter: Staff
 newssource: EURweb.com
 newsurl: https://EURweb.com
-
 ---
 
 [...]

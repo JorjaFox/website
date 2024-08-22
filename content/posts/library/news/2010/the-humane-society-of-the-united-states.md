@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Joins The HSUS to Help End Dogfighting in Chicago  "
 newsreporter: Staff
 newssource: The Humane Society of the United States
 newsurl: https://www.humanesociety.org/news/news/2010/02/spotlight\_humane\_chicago_021210.html
-
 ---
 
 **Our annual Spotlight Humane gala features dogs, drinks, and fine dining**

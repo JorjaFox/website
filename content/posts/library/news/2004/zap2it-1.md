@@ -9,7 +9,6 @@ newstitle: "'CSI' Rehires Fox; Eads Waits to Hear"
 newsreporter: Staff
 newssource: Maxim
 newsurl: https://tv.zap2it.com/
-
 ---
 
 LOS ANGELES (Zap2it.com) "CSI" will resume production next week with, at most, one fewer regular than in past seasons.

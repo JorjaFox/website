@@ -10,7 +10,6 @@ newstitle: "Everyone's Talking About"
 newsreporter: DIVA
 newssource: DIVA
 newsurl: https://www.divamag.co.uk/diva/
-
 ---
 
 **Jorja Fox**

@@ -9,7 +9,6 @@ newstitle: "'CSI' actors fired"
 newsreporter: Staff
 newssource: CNN
 newsurl: https://cnn.com
-
 ---
 
 Fox and Eads let go for breach of contract, sources say

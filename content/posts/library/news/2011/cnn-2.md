@@ -10,7 +10,6 @@ newstitle: "Lions rescued in Bolivia have new home on plains of Colorado  "
 newsreporter: CNN Wire Staff
 newssource: CNN
 newsurl: https://www.cnn.com/
-
 ---
 
 **(CNN) -** Two dozen lions rescued from harrowing conditions at circuses in Bolivia have a new home in Colorado, where they will live outside of cages and roar at the distant Rocky Mountains.

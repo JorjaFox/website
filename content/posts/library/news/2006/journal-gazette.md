@@ -10,7 +10,6 @@ newstitle: "'CSI' adds love story as competition nears  "
 newsreporter: Staff
 newssource: Journal Gazette
 newsurl: https://www.fortwayne.com/
-
 ---
 
 **Romance blossomed at end of CBS show's sixth season**

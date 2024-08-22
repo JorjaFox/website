@@ -10,7 +10,6 @@ newstitle: "Quickie Review: Jorja Fox Says Goodbye (and Good Luck) to 'CSI'"
 newsreporter: Verne Gay
 newssource: The TV Zone
 newsurl: https://weblogs.newsday.com/entertainment/tv/blog/2007/11/quicke\_review\_jorja\_fox\_says_g.html
-
 ---
 Watch tonight's "CSI" and you too will understand why Jorja Fox - Sara Sidle - quit.
 

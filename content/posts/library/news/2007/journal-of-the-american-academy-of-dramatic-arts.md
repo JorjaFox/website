@@ -10,7 +10,6 @@ newstitle: "Interview: Jorja Fox"
 newsreporter: Kathleen Germann
 newssource: Journal of The American Academy of Dramatic Arts
 newsurl: https://www.aada.org/pdf/alumni/americada_2007_01.pdf
-
 ---
 
 We recently invited Jorja Fox and Eric Szmanda of the hit television series *CSI: Crime Scene Investigation *to share their professional and Academy experiences with us.

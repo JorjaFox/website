@@ -10,7 +10,6 @@ newstitle: "Guest Profile - Jorja Fox  "
 newsreporter: Unknown
 newssource: Green With Glamour
 newsurl: https://www.greenwithglamour.com/index.php?main_page=editorial&e=profile&c=jorja_fox
-
 ---
 
  A tireless advocate for the rights and welfare of animals, people and the environment alike, Jorja Fox is a brilliant fit as the Spring '09 "face" of Green with Glamour.

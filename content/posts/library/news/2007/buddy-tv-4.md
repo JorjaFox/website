@@ -10,7 +10,6 @@ newstitle: "BuddyTV SpoilerFix TVj session by Isabelle"
 newsreporter: Isabelle
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/buddytv-spoilerfix/7312007-buddytv-spoilerfix-tvj-8915.aspx
-
 ---
 
 [...]

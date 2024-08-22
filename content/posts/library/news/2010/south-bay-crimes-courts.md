@@ -10,7 +10,6 @@ newstitle: "Surfer loses lawsuit against LAPD officers  "
 newsreporter: Larry Altman
 newssource: South Bay Crimes & Courts
 newsurl: https://www.earthtimes.org/articles/show/csi-star-jorja-fox-to,1308038.shtml
-
 ---
 
 [...]

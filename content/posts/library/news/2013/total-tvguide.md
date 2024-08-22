@@ -10,7 +10,6 @@ newstitle: "'We're number one in the world'  "
 newsreporter: David Collins
 newssource: Total TVguide
 newsurl: https://www.tvchoicemagazine.co.uk/
-
 ---
 
 **Jorja Fox**, who plays Sara Sidle, is proud to be part of the planet's favourite show

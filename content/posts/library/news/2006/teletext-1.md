@@ -10,7 +10,6 @@ newstitle: "Life in the Worlds Most Popular Show  "
 newsreporter: Staff
 newssource: Teletext
 newsurl: https://teletext.com
-
 ---
 
 *CSI: Crime Scene Investigation* is the US's Number One Show and has proved a Global hit, including here in the UK.

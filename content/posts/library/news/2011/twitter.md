@@ -10,7 +10,6 @@ newstitle: "Live CSI Chat (on Twitter)  "
 newsreporter: Carol Mendelsohn
 newssource: Twitter
 newsurl: https://jorjafox.net/2011/tweetcap-of-the-live-csi-chat/
-
 ---
 
 Welcome to everyone. Don and I are excited to be here and talk about the new season #CSI

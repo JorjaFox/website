@@ -10,7 +10,6 @@ newstitle: "In Box  "
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/
-
 ---
 
  [...]

@@ -9,7 +9,6 @@ newstitle: "AXED 'CSIER' IN TALKS"
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://www.nypost.com/
-
 ---
 
 Fox, who plays Sara Sidle, says a "misunderstanding" caused her not to show up for work last week.

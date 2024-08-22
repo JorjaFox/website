@@ -10,7 +10,6 @@ newstitle: 'Mega Buzz on "SVU", "Criminal Minds", "CSI", "Numbers" and More'
 newsreporter: "Matt Mitovich, Mickey O'Connor & Tim Molloy"
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/MegaBuzz-SVU-Criminal-1008330.aspx
-
 ---
 
 

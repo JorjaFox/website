@@ -10,7 +10,6 @@ newstitle: "News on Spike, Sara Sidle and Santos"
 newsreporter: Staff
 newssource: Chicago Tribune
 newsurl: https://chicagotribune.com
-
 ---
 
 So what is happening with Sara Sidle on "CSI"?

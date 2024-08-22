@@ -9,7 +9,6 @@ newstitle: "'CSI' Series Finale: Creator Anthony Zuiker On That Ending, Deleted 
 newsreporter: Nellie Andreeva
 newssource: Deadline
 newsurl: https://deadline.com/2015/09/csi-series-finale-reaction-ending-deleted-scene-future-creator-anthony-zuiker-1201553754/
-
 ---
 
 [...]

@@ -8,7 +8,6 @@ newstitle: "Jorja Fox Lists 1930s Mediterranean in Los Angeles’s Silver Lake C
 newsreporter: "Mark David"
 newssource: "Variety"
 newsurl: https://variety.com/2016/dirt/real-estalker/jorja-fox-lists-silver-lake-house-1201724559/
-
 ---
 
 **SELLER:** Jorja Fox

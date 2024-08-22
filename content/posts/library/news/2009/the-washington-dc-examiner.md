@@ -10,7 +10,6 @@ newstitle: "Superhero summit at Milano  "
 newsreporter: Jeff Dufour and Patrick Gavin
 newssource: The Washington DC Examiner
 newsurl: https://www.dcexaminer.com/opinion/blogs/YeasandNays/Superhero_summit_at_Milano_0120.html
-
 ---
 
 [...]

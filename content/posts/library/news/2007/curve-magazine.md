@@ -11,7 +11,6 @@ newsreporter: Curve Magazine
 newssource: Curve Magazine
 newsurl: https://www.curvemag.com
 
-
 ---
 
 **Every lesbian's favourite "CSI" star, Jorja Fox, isn't your average sexpot. The attractive but geeky tomboy hasn't graced the pages of Vogue, she doesn't spend each episode in impossibly high heels, and you're more likely to find her at a PETA rally protesting animal cruelty than pitching Revlon products to you from a talk show on the Oxygen Network. That's why we love her and her strong, sexy brand of androgyny and even her slightly intoxicating don't-care-to-talk-about-my-personal-life attitude. But, just once, wouldn't it be nice if she didn't have to take herself so seriously? We turned the tables on the earnest star with an exclusive, old-fashioned girlie-girl interview that dares to ask the questions on everyone's mind (except, of course, that one) about work, fashion and why you should never wear lavender perfume on a date.**

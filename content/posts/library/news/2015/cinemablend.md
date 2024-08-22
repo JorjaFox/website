@@ -9,7 +9,6 @@ newstitle: "CSI: CBS' Drama Just Gave The Fans The Ending They Deserved"
 newsreporter: Libby Hill
 newssource: CinemaBlend
 newsurl: https://www.cinemablend.com/television/CSI-CBS-Drama-Just-Gave-Fans-Ending-They-Deserved-88607.html
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "Gossip - The Awful Truth"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://www.eonline.com/
-
 ---
 **OscarBit**
 

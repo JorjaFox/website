@@ -9,7 +9,6 @@ newstitle: "'CSI' wraps up epic 15-year run with a two-hour movie"
 newsreporter: David Hinckley
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/entertainment/tv/csi-two-hour-goodbye-article-1.2370519
-
 ---
 
 'CSI' wraps up its final case Sunday (Sept. 27), with a two-hour movie (CBS, 9 p.m.) that allows one of the most influential and successful shows in TV history to take a well-deserved final bow.

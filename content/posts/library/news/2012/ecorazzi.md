@@ -10,7 +10,6 @@ newstitle: "WATCH: CSI's Jorja Fox in PSA Against Circus Elephant Abuse  "
 newsreporter: Linda St.Cyr
 newssource: Ecorazzi
 newsurl: https://www.ecorazzi.com/2012/04/20/watch-csis-jorja-fox-in-psa-against-circus-elephant-abuse/
-
 ---
 
 CSI"s "'Jorja Fox"' is taking on circus animal abusers in a new PSA for Animal Defenders International (ADI). The PSA is only 90 seconds long but the impact of the video is strong. The scenes flip from free roaming wild elephants in Africa to a traveling circus elephant named Krissy that is chained, beaten, and broken for the entertainment of humans.

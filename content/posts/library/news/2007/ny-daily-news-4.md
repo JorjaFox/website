@@ -10,7 +10,6 @@ newstitle: "'CSI' can bleed talent and survive: Jorja Fox's departure shouldn't 
 newsreporter: Cristina Kinon
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/entertainment/tv/2007/11/15/2007-11-15\_csi\_can\_bleed\_talent\_and\_survive\_jorja\_f.html
-
 ---
 Original "CSI: Crime Scene Investigation" cast member Jorja Fox leaves the hit CBS drama Thursday night, but expect the series to be just fine without her.
 

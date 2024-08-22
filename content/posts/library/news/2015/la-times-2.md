@@ -9,7 +9,6 @@ newstitle: "'I was part of this weird love story': Jorja Fox on 'CSI' finale and
 newsreporter: Greg Braxton
 newssource: LA Times
 newsurl: https://www.latimes.com/entertainment/tv/showtracker/la-st-jorja-fox-csi-20150925-story.html
-
 ---
 
 [...]

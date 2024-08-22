@@ -9,7 +9,6 @@ newstitle: "The night's buzz includes series' futures and style insights"
 newsreporter: Staff
 newssource: Star Online
 newsurl: https://www.staronline.com/
-
 ---
 
 Glamour mixes with relaxed attitudes as stars enter the Shrine

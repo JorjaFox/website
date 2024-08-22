@@ -10,7 +10,6 @@ newstitle: "Me, Myself, and Eye  "
 newsreporter: Staff
 newssource: EW.com
 newsurl: https://www.ew.com
-
 ---
 
 [...]

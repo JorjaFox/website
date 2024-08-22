@@ -10,7 +10,6 @@ newstitle: "CSI: Catherine and Sara INTERROGATED  "
 newsreporter: Craig Tomashoff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/
-
 ---
 
  "'Marg Helgenberger and Jorja Fox answer burning questions about Sara's return and the crime show's killer new season"'

@@ -9,7 +9,6 @@ newstitle: Foxy Lady
 newsreporter: Rebecca Fletcher
 newssource: The Look
 newsurl:
-
 ---
 
 Lead roles in ER and CSI have made Jorja Fox one of the most envied actresses in Hollywood.

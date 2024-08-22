@@ -10,7 +10,6 @@ newstitle: "CoverStory: Grissom and gang back to bust crime! - the bright lights
 newsreporter: The Malay Mail
 newssource: The Malay Mail
 newsurl: https://www.mmail.com.my
-
 ---
 
 **GET ready for more intriguing crimebusting as our hardworking Las Vegas Crime Scene Investigators return on AXN in a brand new season that is "built to kill".**

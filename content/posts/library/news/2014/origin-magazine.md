@@ -9,7 +9,6 @@ newstitle: "Jorja Fox"
 newsreporter: Robert Piper
 newssource: ORIGIN Magazine
 newsurl: https://www.originmagazine.com/2014/11/11/jorja-fox/
-
 ---
 
 **Robert Piper: What inspires you?**

@@ -10,7 +10,6 @@ newstitle: "Finale burning questions answered!"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com/
-
 ---
 
 [...]

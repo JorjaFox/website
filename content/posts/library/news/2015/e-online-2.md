@@ -9,7 +9,6 @@ newstitle: "CSI Series Finale: 49 Thoughts You Have When the First Episode You E
 newsreporter: Tierney Bricker
 newssource: E! Online
 newsurl: https://www.eonline.com/news/700506/csi-series-finale-49-thoughts-you-have-when-the-first-episode-you-ever-watch-is-the-last-one
-
 ---
 
 Confession: I have never purposefully watched an episode of CSI. Or any of its spinoffs.

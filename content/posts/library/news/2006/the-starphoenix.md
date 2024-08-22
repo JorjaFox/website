@@ -10,7 +10,6 @@ newstitle: "Pop culture plays a role in what we name our kids  "
 newsreporter: Staff
 newssource: The StarPhoenix
 newsurl: https://www.canada.com/saskatoonstarphoenix/news/story.html?id=aead3433-f4b1-4712-9180-c966ad906212
-
 ---
 
 Move over, Madison. New names take hold.

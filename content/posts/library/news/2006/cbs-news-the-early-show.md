@@ -10,7 +10,6 @@ newstitle: "The Early Show: Inside Minds Of 'CSI' Characters"
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com
-
 ---
 
 **Several Of The Actors Reflect On What Makes Them Tick**

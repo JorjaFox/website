@@ -9,7 +9,6 @@ newstitle: "'CSI' Kills Back to Life?"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com
-
 ---
 
 Are CSI's casualties about to return from the dead?

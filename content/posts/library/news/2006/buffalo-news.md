@@ -10,7 +10,6 @@ newstitle: "Shedding some light on season's best trivia  "
 newsreporter: Staff
 newssource: Buffalo News
 newsurl: https://www.buffalonews.com
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "Marg Helgenberger Says Goodbye to CSI  "
 newsreporter: Craig Tomashoff
 newssource: TV Guide
 newsurl: https://www.tvguide.com/News/Marg-Helgenberger-CSI-1042180.aspx
-
 ---
 
 [...]

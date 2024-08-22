@@ -9,7 +9,6 @@ newstitle: "CSI 'Immortality, Parts 1 & 2' Review (Season 16 Premiere/Series Fin
 newsreporter: Mark Trammell
 newssource: TV Equals
 newsurl: https://www.tvequals.com/2015/09/28/csi-immortality-part-1-2-review-season-16-premiereseries-finale/
-
 ---
 
 [...]

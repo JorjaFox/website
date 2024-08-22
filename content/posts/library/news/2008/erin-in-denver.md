@@ -10,7 +10,6 @@ newstitle: "WOW part three  "
 newsreporter: Erin Moore
 newssource: Erin in Denver
 newsurl: https://lgbtdelegate.blogspot.com/2008/08/wow-part-three.html
-
 ---
 
 [...]

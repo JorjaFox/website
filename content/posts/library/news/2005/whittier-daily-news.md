@@ -10,7 +10,6 @@ newstitle: "'Shrek 2' tops People's Choice Awards  "
 newsreporter: Staff
 newssource: Whittier Daily News
 newsurl: https://www.whittierdailynews.com
-
 ---
 [...]
 

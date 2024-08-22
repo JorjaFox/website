@@ -10,7 +10,6 @@ newstitle: "Helgenberger focuses on family  "
 newsreporter: Will Keck
 newssource: Pittsburgh Tribune-Review
 newsurl: https://www.pittsburghlive.com/x/pittsburghtrib/living/s_558968.html
-
 ---
 
 [...]

@@ -9,7 +9,6 @@ newstitle: "'CSI' justifies intense Ebola fears with rural outbreaks"
 newsreporter: Whitney McIntosh
 newssource: Zap2It
 newsurl: https://www.zap2it.com/blogs/csi_season_15_episode_3_ebola-2014-10
-
 ---
 
 It is hard to believe the " CSI: Crime Scene Investigation" writers specifically meant for an episode surrounding panic around an Ebola-like virus to land on the schedule exactly when Ebola panic has permeated the US consciousness at yet to be matched levels of cable news attention. Even so, with multiple references to Ebola in the first fifteen minutes alone, the comparisons are too timely and specific to be a complete coincidence.

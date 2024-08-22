@@ -10,7 +10,6 @@ newstitle: "Personality Parade  "
 newsreporter: Staff
 newssource: Parade Magazine
 newsurl: https://www.parade.com/celebrity/slideshows/personality-parade/male-film-legends.html?index=9
-
 ---
 
 [...]

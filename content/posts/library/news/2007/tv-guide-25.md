@@ -10,7 +10,6 @@ newstitle: "Is 'CSI' On the Hunt for a New Jorja Fox?"
 newsreporter: TV Guide
 newssource: TV Guide
 newsurl: https://community.tvguide.com/
-
 ---
 
 Although "CSI" hasn't even pronounced Sara dead yet, it sounds suspiciously like the powers-that-be are already planning to breathe new life into the show by introducing a replacement for Jorja Fox's hot cop.

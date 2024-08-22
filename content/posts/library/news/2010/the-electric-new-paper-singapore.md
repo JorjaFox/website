@@ -10,7 +10,6 @@ newstitle: "Back on CSI, but she'd rather get Lost  "
 newsreporter: Charlene Chua
 newssource: The Electric New Paper, Singapore
 newsurl: https://tnp.sg/show/story/0,4136,230452,00.html
-
 ---
 
 WHEN she announced that she was taking a break from acting three years ago, CSI fans flew planes over the Universal Studios film sets in California in protest.

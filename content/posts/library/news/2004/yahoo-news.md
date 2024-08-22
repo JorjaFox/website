@@ -9,7 +9,6 @@ newstitle: "Eye axes 'CSI' duo"
 newsreporter: Staff
 newssource: Yahoo News
 newsurl: https://news.yahoo.com/
-
 ---
 
 Blood is on the floor at "CSI": CBS has fired thesps George Eads and Jorja Fox from the hit Eye drama for breach of contract.

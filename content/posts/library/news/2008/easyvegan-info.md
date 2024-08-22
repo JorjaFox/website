@@ -10,7 +10,6 @@ newstitle: "Sara Sidle: From 'CSI' to Terra-ist  "
 newsreporter: Kelly
 newssource: easyVegan.info
 newsurl: https://www.easyvegan.info/2008/11/07/sara-sidle-from-csi-to-terra-ist/
-
 ---
 
 On yesterday's episode of "CSI" ("Leave Out All the Rest"), recently departed CSI Sara Sidle sends Gil Grissom a .mov file -slash- Dear John "letter" over the internets. Look closely, and you can briefly see her email address flash across the screen: info@seashepherd.org. ZOMG! Sara is sailing with the crew of the [Sea Shepherd Conservation Society](https://www.seashepherd.org/)!

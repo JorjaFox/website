@@ -9,7 +9,6 @@ newstitle: "Hole That Fiber!"
 newsreporter: Staff
 newssource: Emmy Magazine
 newsurl: https://emmy.com
-
 ---
 
 **CSI  the series that makes forensic science look sexy  wraps a very successful second season. Bring on the spinoff and the next victim ...**

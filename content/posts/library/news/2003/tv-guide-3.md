@@ -9,7 +9,6 @@ newstitle: CSI Gets Personal
 newsreporter: Michael Logan
 newssource: TV Guide
 newsurl: https://tvguide.com/
-
 ---
 
 **TV's No. 1 show finally investigates the team's private lives.**

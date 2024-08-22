@@ -9,7 +9,6 @@ newstitle: "I got it so wrong on CSI, says Jorja Fox as Crime Scene Investigatio
 newsreporter: Darren Devlyn
 newssource: news.com.au
 newsurl: https://www.news.com.au/entertainment/tv/i-got-it-so-wrong-on-csi-says-jorja-fox-as-crime-scene-investigation-celebrates-14-seasons/story-e6frfmyi-1226957088333
-
 ---
 
 "'A DETECTIVE studies the body of George Tabin, a professional Elvis impersonator."'

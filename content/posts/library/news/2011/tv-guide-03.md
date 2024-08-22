@@ -10,7 +10,6 @@ newstitle: "Mega Buzz: Gunshots on Castle, Chloe's Smallville Return and Bones' 
 newsreporter: Adam Bryant and Natalie Abrams
 newssource: TV Guide.com
 newsurl: https://www.tvguide.com/News/MegaBuzz-Castle-Smallville-Bones-1032052.aspx
-
 ---
 
 [...]

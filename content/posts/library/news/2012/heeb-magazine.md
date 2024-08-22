@@ -10,7 +10,6 @@ newstitle: "Don't Mess with the Zohar: Backstage at new Dusty Springfield Musica
 newsreporter: Kristen Elizabeth
 newssource: Heeb Magazine
 newsurl: https://heebmagazine.com/dont-mess-with-the-zohar-backstage-at-new-dusty-springfield-musical/41497
-
 ---
 
 [...]

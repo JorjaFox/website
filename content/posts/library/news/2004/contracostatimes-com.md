@@ -9,7 +9,6 @@ newstitle: "CBS exec. defends firing of 'CSI' stars"
 newsreporter: Staff
 newssource: ContraCostaTimes
 newsurl: https://ContraCostaTimes.com
-
 ---
 
 Two dismissed "CSI"ers learned the hard way:

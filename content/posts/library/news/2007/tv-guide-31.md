@@ -10,7 +10,6 @@ newstitle: "Ausiello Report"
 newsreporter: Michael Ausiello
 newssource: TVGuide
 newsurl: https://www.tvguide.com/
-
 ---
 
 "CSI" Fans: What Are You Doing After the Premiere!?

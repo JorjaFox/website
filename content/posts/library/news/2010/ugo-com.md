@@ -10,7 +10,6 @@ newstitle: "The 50 Hottest Women on Television  "
 newsreporter: UGO Team
 newssource: UGO.com
 newsurl: https://www.ugo.com/tv/50-hottest-women-on-tv-14
-
 ---
 
 Lists inspire debate and remind us of our favorite people and events. Oh, and there's one other cool thing about lists: they give us an excuse to drool over dozens of the sexiest women in television.

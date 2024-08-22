@@ -9,7 +9,6 @@ newstitle: Dead Heat
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/
-
 ---
 [...]
 

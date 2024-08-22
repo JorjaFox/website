@@ -10,7 +10,6 @@ newstitle: "Beauty Pageant Of The Week, CSI Chicks  "
 newsreporter: Staff
 newssource: Ask Men
 newsurl: https://www.askmen.com
-
 ---
 
 Jorja Fox

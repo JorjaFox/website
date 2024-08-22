@@ -10,7 +10,6 @@ newstitle: "'CSI' Stars Spend a Night at the Museum"
 newsreporter: TV Guide
 newssource: TV Guide
 newsurl: https://community.tvguide.com/
-
 ---
 
 [...]

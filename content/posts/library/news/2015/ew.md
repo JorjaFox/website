@@ -9,7 +9,6 @@ newstitle: "CSI finale: William Petersen's lips are sealed on a potential Sara-G
 newsreporter: Mary Sollosi
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/article/2015/09/17/william-petersen-csi-finale-sara-grissom
-
 ---
 
 Original 'CSI' cast members reflect on the positive impact of the CBS show 15 years later

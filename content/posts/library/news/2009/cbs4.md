@@ -10,7 +10,6 @@ newstitle: "Sara Returns For Tenth Season Of CSI On CBS  "
 newsreporter: Staff
 newssource: CBS4
 newsurl: https://cbs4.com/entertainment/CBS.Season.premiere.2.1205834.html
-
 ---
 
 The tenth season of "CSI" kicks off Thursday night and the season premiere marks the return of Sara Sidle. Sara comes back to help out the lab which is understaffed.

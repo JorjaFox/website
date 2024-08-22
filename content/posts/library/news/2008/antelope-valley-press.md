@@ -10,7 +10,6 @@ newstitle: " Celebrities, animal lovers turn out for Acton sanctuary's gala"
 newsreporter: Julie Drake
 newssource: Antelope Valley Press
 newsurl: https://www.avpress.com/n/08/0908_s4.hts
-
 ---
 
 The well-heeled wore their compassion on their designer threads as hundreds of animal lovers turned out Saturday evening for a star-studded gala at the Animal Acres farm animal sanctuary.

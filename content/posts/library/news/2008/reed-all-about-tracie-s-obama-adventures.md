@@ -10,7 +10,6 @@ newstitle: "Thursday Night Under the Lights  "
 newsreporter: Tracie Reed
 newssource: Reed all about Tracie's Obama adventures
 newsurl: https://tracie4obama.blogspot.com/2008/08/thursday-night-under-lights.html
-
 ---
 
 [...]

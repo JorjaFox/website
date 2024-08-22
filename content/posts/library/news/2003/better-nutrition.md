@@ -9,7 +9,6 @@ newstitle: sweet jorja fox
 newsreporter: Barbara Hey
 newssource: Better Nutrition
 newsurl: https://www.betternutrition.com
-
 ---
 
 **vegetarian girl next door catapults to stardom**

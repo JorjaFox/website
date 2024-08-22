@@ -10,7 +10,6 @@ newstitle: "Petersen lays it on the table  "
 newsreporter: Staff
 newssource: US Today
 newsurl: https://www.usatoday.com/
-
 ---
 [...]
 

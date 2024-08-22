@@ -10,7 +10,6 @@ newstitle: "Q&A Jorja Fox  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **CSI's *sexiest vegetarian on snatching (fake) bodies, carrying a torch for Grissom and the show's all-star band.***

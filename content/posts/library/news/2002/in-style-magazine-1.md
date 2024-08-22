@@ -9,7 +9,6 @@ newstitle: "Scene + Heard"
 newsreporter: Staff
 newssource: In Style Magazine
 newsurl: https://www.instyle.com/
-
 ---
 
 **She said ... Jorja Fox**

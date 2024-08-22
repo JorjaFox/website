@@ -9,7 +9,6 @@ newstitle: Applied Science
 newsreporter: Staff
 newssource: TV Times
 newsurl: https://tvtimes.com
-
 ---
 
 *Gruesome but gripping - that's CSI, the US crime series that's gained quiet a reputation*

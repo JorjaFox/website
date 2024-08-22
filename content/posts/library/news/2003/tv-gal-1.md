@@ -9,7 +9,6 @@ newstitle: TV Gal Flaunts Her Final Four
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://tv.zap2it.com
-
 ---
 [...]
 

@@ -10,7 +10,6 @@ newstitle: "JORJA'S RULES"
 newsreporter: New York Post
 newssource: New York Post
 newsurl: https://www.nypost.com
-
 ---
 
 ** 'CSI' STAR REFUSES TO DIE**

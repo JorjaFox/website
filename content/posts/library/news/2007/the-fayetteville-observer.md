@@ -10,7 +10,6 @@ newstitle: "Sara says good-bye to 'CSI'  "
 newsreporter: Jessica Banov
 newssource: The Fayetteville Observer
 newsurl: https://www.fayobserver.com/article?id=277791
-
 ---
 [...]
 

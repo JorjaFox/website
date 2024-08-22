@@ -10,7 +10,6 @@ newstitle: "Matt's TV Week in Review"
 newsreporter: Kate Stanhope
 newssource: "Today's News: Our Take"
 newsurl: https://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx
-
 ---
 
 Jorja Fox will be returning to "CSI: Crime Scene Investigation" this season indefinitely, TVGuide.com has confirmed.

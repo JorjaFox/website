@@ -10,7 +10,6 @@ newstitle: "CSI's Sizzling Return!  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 I beg forgiveness for all the mean things I've said recently about TV Guide, because I nearly died when I saw your Jorja Fox/William Petersen cover [9/25]. He looks "soooooo" good. And Jorja's a doll, too! - "Lauren Kleinfeldt, Glendale, N.Y."

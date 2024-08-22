@@ -10,7 +10,6 @@ newstitle: "San Francisco Indie Fest Ends With Controversy"
 newsreporter: IndyBay
 newssource: IndyBay
 newsurl: https://www.indybay.org/newsitems/2007/02/16/18364540.php
-
 ---
 
 San Francisco Indie Fest Closes with controversial film "Your Mommy Kills Animals".

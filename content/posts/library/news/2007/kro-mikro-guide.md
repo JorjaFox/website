@@ -10,7 +10,6 @@ newstitle: Jorja Fox
 newsreporter: Staff
 newssource: KRO Mikro Guide
 newsurl: https://kro-mikro.com
-
 ---
 
 Every young actress with ambition hopes to make it in movies. But if it doesn't work out the way you wanted, television can be a great alternative for a successful career. A great example of this is Jorja Fox (38).

@@ -9,7 +9,6 @@ newstitle: Celebrity Chef
 newsreporter: Staff
 newssource: TV Guide Canada
 newsurl: https://tvguide.ca
-
 ---
 
 **Pizza to die for**

@@ -10,7 +10,6 @@ newstitle: "Hollywood Privacy Watch: Gene Simmons Drains The Python Before Midni
 newsreporter: Seth
 newssource: Defamer
 newsurl: https://defamer.com/hollywood/sightings/hollywood-privacywatch-gene-simmons-drains-the-python-before-midnight-snakes-screening-195292.php
-
 ---
 
 [...]

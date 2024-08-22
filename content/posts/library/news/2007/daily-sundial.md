@@ -10,7 +10,6 @@ newstitle: "Makers of 'CSI' film episode on campus"
 newsreporter: Daily Sundial
 newssource: Daily Sundial
 newsurl: https://media.sundial.csun.edu
-
 ---
 
 [...]

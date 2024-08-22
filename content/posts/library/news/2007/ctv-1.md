@@ -10,7 +10,6 @@ newstitle: "The death of all romance: Could the Sara-Grissom affair be over?"
 newsreporter: Staff
 newssource: CTV
 newsurl: https://www.ctv.ca
-
 ---
 
 Underneath the crime scenes and forensic labs on "CSI" lays one of the show's most compelling mysteries: the relationship between Gil Grissom, head of the crime lab, and investigator Sara Sidle.

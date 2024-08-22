@@ -10,7 +10,6 @@ newstitle: "Returning Favorites - Thursday - CSI"
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com
-
 ---
 
 **Sara Sidle is carrying a heavy weight on her shoulders these days.**

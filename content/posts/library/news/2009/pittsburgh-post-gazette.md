@@ -10,7 +10,6 @@ newstitle: "Tuned In: NBC pins future on Leno, new shows  "
 newsreporter: Rob Owen
 newssource: Pittsburgh Post-Gazette
 newsurl: https://www.post-gazette.com/pg/09016/942125-42.stm
-
 ---
 
 [...]

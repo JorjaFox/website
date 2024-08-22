@@ -10,7 +10,6 @@ newstitle: "CSI From A to Z  "
 newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: https://www.tvandsatelliteweek.com/
-
 ---
 
 [...]

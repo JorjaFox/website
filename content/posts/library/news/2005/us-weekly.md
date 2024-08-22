@@ -10,7 +10,6 @@ newstitle: "Prime-Time's Crime-Fighting Beauties  "
 newsreporter: Staff
 newssource: US Weekly
 newsurl: https://www.usweekly.com
-
 ---
 *CSI*'s Jorja Fox
 

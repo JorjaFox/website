@@ -10,7 +10,6 @@ newstitle: "Life after Jorja"
 newsreporter: Jenny Cooney Carrillo
 newssource: The TV Guide
 newsurl: https://tv-guide.co.nz
-
 ---
 
 For eight seasons of "**CSI: Crime Scene Investigation"**, William Petersen has played Gil Grissom [...] The 55-year-old theater veteran talks to "TV Guide" about the hit show, his character and what happens now co-star Jorja Fox has left.

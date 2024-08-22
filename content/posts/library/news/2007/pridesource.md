@@ -10,7 +10,6 @@ newstitle: "Billy Masters in Hollywood  "
 newsreporter: Billy Masters
 newssource: Pride Source
 newsurl: https://www.pridesource.com/article.shtml?article=27785
-
 ---
 [...]
 

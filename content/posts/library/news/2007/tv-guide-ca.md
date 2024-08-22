@@ -10,7 +10,6 @@ newstitle: "The big 'CSI' question -- is Jorja Fox gone?"
 newsreporter: TV Guide CA
 newssource: TV Guide CA
 newsurl: https://entertainment1.sympatico.msn.ca
-
 ---
 
 ** Executive producer confirms that Sara Sidle is...**

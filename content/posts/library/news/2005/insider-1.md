@@ -10,7 +10,6 @@ newstitle: "'CSI's Criminal Hospital Creeper"
 newsreporter: Staff
 newssource: Insider
 newsurl: https://insider.tv.yahoo.com/
-
 ---
 If you liked the 'House on Haunted Hill,' then tonight's "CSI" is just for you. TV's hardnosed investigative team encounter dead bodies and deranged patients at a creepy state mental hospital in the hair-raising episode, called "Committed" (9 p.m. on CBS).
 

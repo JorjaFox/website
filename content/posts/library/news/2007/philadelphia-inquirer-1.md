@@ -10,7 +10,6 @@ newstitle: "Not a wealth of good shows, but nuggets, old and new"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: https://www.philly.com
-
 ---
 
 [...]

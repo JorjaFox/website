@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Quitting Role on CBS Hit 'CSI'  "
 newsreporter: AP
 newssource: AOL Money and Finance
 newsurl: https://money.aol.com/news/articles/_a/jorja-fox-quitting-role-on-cbs-hit-csi/n20071016144209990009
-
 ---
 
 NEW YORK (AP) - Jorja Fox is waving goodbye to "CSI: Crime Scene Investigation."

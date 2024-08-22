@@ -9,7 +9,6 @@ newstitle: "'BYE GEORGE & JORJA"
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://www.nypost.com/
-
 ---
 
 CBS has axed "CSI" stars George Eads and Jorja Fox for demanding more money to stay on the show.

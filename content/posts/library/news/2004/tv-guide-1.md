@@ -9,7 +9,6 @@ newstitle: "Terminated Two"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **George and Jorja are no longer on CBS exec Leslie Moonves' mind**

@@ -9,7 +9,6 @@ newstitle: TV Gal Dishes Up the Globes
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://tv.zap2it.com/
-
 ---
 
 Okay people, clearly I'm going to have to fly to LA and apply for a job at the E! channel.

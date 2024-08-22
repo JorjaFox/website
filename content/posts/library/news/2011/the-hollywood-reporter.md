@@ -10,7 +10,6 @@ newstitle: "'CSI': Jorja Fox Back as Series Regular  "
 newsreporter: Lesley Goldberg
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517
-
 ---
 
 **The actress rejoins the crime procedural as a full-time cast member for its upcoming 12th season.**

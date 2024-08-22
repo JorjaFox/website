@@ -10,7 +10,6 @@ newstitle: "Fans Continue to Show Support for Former 'CSI' Actress  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com
-
 ---
 
 Though Sara Sidle has already left "CSI", fans of the forensic drama are still determined to convey their support to her portrayer, Jorja Fox.

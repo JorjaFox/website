@@ -10,7 +10,6 @@ newstitle: "ER Finale  "
 newsreporter: Staff
 newssource: Us Magazine
 newsurl: https://usmagazine.com
-
 ---
 
 [...]

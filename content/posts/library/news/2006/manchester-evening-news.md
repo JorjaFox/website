@@ -10,7 +10,6 @@ newstitle: "Jorja's thrill ride finale  "
 newsreporter: Staff
 newssource: Manchester Evening News
 newsurl: https://www.manchestereveningnews.co.uk
-
 ---
 
 She's played Sara Sidle in the hit American forensics drama **CSI: Crime Scene Investigation** for six years, but Jorja Fox says she still isn't bored with the role.

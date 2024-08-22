@@ -10,7 +10,6 @@ newstitle: "'CSI' faces competition with love  "
 newsreporter: Staff
 newssource: The Detroit News
 newsurl: https://www.detroitnews.com/
-
 ---
 
 TV's highest-rated scripted show, which is all about science, has proven a crucial law of nature.

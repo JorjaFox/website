@@ -9,7 +9,6 @@ newstitle: Ask Matt
 newsreporter: Matt Roush
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **Question:** Okay, what is up with CSI? In the beginning it was no romance,

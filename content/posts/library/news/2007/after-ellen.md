@@ -10,7 +10,6 @@ newstitle: "'CSI' Stars Talk About Their Characters"
 newsreporter: Staff
 newssource: After Ellen
 newsurl: https://www.afterellen.com/blog/seige/jessica-lucas-added-to-csi
-
 ---
 
 [...]

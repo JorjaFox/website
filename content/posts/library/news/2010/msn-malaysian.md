@@ -10,7 +10,6 @@ newstitle: "Jorja Fox: She's back on CSI!  "
 newsreporter: Staff
 newssource: MSN Malaysian
 newsurl: https://entertainment.malaysia.msn.com/tv/article.aspx?cp-documentid=3904920
-
 ---
 
 After a four year break, Jorja's returning to the hit crime drama series CSI and MSN Entertainment has got the latest on her character, Sara Sidle and what's up and coming for Season 10 of CSI.

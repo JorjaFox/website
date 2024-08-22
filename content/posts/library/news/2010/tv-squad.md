@@ -10,7 +10,6 @@ newstitle: "Happy World Vegetarian Day to Our Favorite TV Herbivores  "
 newsreporter: Chris Harnick
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/2010/10/01/happy-world-vegetarian-day-to-our-favorite-tv-herbivores/
-
 ---
 
 It's the most important holiday EVER today. No, not my birthday, it's World Vegetarian Day!

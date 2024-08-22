@@ -10,7 +10,6 @@ newstitle: "Procter prospers"
 newsreporter: Staff
 newssource: The Star
 newsurl: https://www.star-ecentral.com/
-
 ---
 [...]
 

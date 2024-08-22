@@ -10,7 +10,6 @@ newstitle: "Pitching an idea for a new show in the Star Trek franchise.  "
 newsreporter: Janet D. Stemwedel
 newssource: ScienceBlogs
 newsurl: https://scienceblogs.com/ethicsandscience/2009/09/pitching_an_idea_for_a_new_sho.php
-
 ---
 
 [...]

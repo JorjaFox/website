@@ -10,7 +10,6 @@ newstitle: "DNC Report"
 newsreporter: Cris Seligman
 newssource: Arkansas Tonight
 newsurl: https://arkansastonight.com/2008/08/dnc-report.html
-
 ---
 
 [...]

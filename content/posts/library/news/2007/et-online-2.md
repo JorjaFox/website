@@ -10,7 +10,6 @@ newstitle: "Fresh Face Joins the Cast of 'CSI'"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://www.etonline.com
-
 ---
 
 The CSI team investigates the suspicious death of a go-cart racer who took his hobby to the highway, when a severed head rolls through tonight's episode of "CSI: Crime Scene Investigation," airing at 9 p.m. on CBS.

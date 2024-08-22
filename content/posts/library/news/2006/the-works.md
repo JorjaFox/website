@@ -10,7 +10,6 @@ newstitle: "Jorja Fox"
 newsreporter: Jenny Eden
 newssource: The Works
 newsurl: https://www.visimag.com/theworks/index.htm
-
 ---
 
 One of the stars of the US's top-rated drama **CSI** speaks out...

@@ -9,7 +9,6 @@ newstitle: "'CSI' star Jorja Fox focuses on another dream role"
 newsreporter: Staff
 newssource: Houston Chronicle
 newsurl: https://www.chron.com/cs/CDA/story.hts/headline/entertainment/1063653
-
 ---
 Jorja Fox speaks for many of us trying to work while also worrying about current events.
 

@@ -10,7 +10,6 @@ newstitle: "Breaking: Jorja Fox Returns to 'CSI'"
 newsreporter: Matt Mitovich
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx
-
 ---
 
  Jorja Fox is returning to "CSI" as Sara Sidle.

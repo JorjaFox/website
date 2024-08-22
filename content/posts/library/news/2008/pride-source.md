@@ -10,7 +10,6 @@ newstitle: "Billy Masters  "
 newsreporter: Billy Masters
 newssource: Pride Source
 newsurl: https://www.pridesource.com/article.shtml?article=29643
-
 ---
 
 [...]

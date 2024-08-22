@@ -10,7 +10,6 @@ newstitle: "CSI's Jorja Fox Takes on the Circus Elephant Abusers  "
 newsreporter: PRWeb
 newssource: Houston Chronicle
 newsurl: https://www.chron.com/business/press-releases/article/CSI-s-Jorja-Fox-Takes-on-the-Circus-Elephant-3495060.php
-
 ---
 
 *CSI actress Jorja Fox released a new video message about circus animal abuse today on behalf of Animal Defenders International (ADI)*

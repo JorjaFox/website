@@ -10,7 +10,6 @@ newstitle: "Esprite de Corpse"
 newsreporter: Staff
 newssource: The Globe and Mail
 newsurl: https://www.theglobeandmail.com
-
 ---
 [...]
 

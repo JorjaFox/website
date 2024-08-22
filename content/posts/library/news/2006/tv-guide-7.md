@@ -10,7 +10,6 @@ newstitle: "ASK AUSIELLO  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 [...]

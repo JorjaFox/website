@@ -10,7 +10,6 @@ newstitle: "Live chat with Anthony Zuiker  "
 newsreporter: Michael Schneider
 newssource: Variety
 newsurl: https://www.variety.com/article/VR1118018864.html
-
 ---
 
 **Chat with the exec producer of the 'CSI' franchise**

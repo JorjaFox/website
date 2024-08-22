@@ -10,7 +10,6 @@ newstitle: "CSI: The Departure of Sara Sidle "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/
-
 ---
 
 The time has finally come for fans to bid farewell to one of the key players of "CSI". After seven years of playing Sara Sidle, Jorja Fox is ready to exit the forensic drama and move on. But before she leaves, the 39-year-old actress will be portraying her character one last time, giving closure to the "Grissom Sara Romance" many fans have learned to adore, in tonight's episode entitled "Goodbye and Good Luck."

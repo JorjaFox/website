@@ -10,7 +10,6 @@ newstitle: "'CSI's Jorja Fox Is Leaving the Show"
 newsreporter: "E! Online"
 newssource: Watch With Kristen
 newsurl: https://www.eonline.com
-
 ---
 
 She's outta there.

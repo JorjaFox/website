@@ -10,7 +10,6 @@ newstitle: "Hollywood PrivacyWatch: Elvish Warrior Takes In Some Postmodern Femi
 newsreporter: Mark
 newssource: Defamer Hollywood
 newsurl: https://defamer.com
-
 ---
 
 [...]

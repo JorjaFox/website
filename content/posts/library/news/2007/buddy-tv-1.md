@@ -10,7 +10,6 @@ newstitle: "CSI's Gil Grissom and Sara Sidle"
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/csis-gil-grissom-and-sara-sidl-5240.aspx
-
 ---
 
 On CBS's hit **CSI** flagship show, the romantic relationship between CSIs Sara Sidle and her boss Gil Grissom has been a matter of much controversy with fans weighing in on both sides.

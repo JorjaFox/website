@@ -10,7 +10,6 @@ newstitle: "TV Q&A"
 newsreporter: The Roanoke Times
 newssource: The Roanoke Times
 newsurl: https://www.roanoke.com
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "CSI From A to Z: Favorite Episodes"
 newsreporter: Staff
 newssource: Watch Magazine
 newsurl: https://www.cbs.com/watch_magazine/
-
 ---
 
 Jorja Fox aka Sara Sidle:

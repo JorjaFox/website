@@ -6,7 +6,6 @@ date: 2013-10-23
 interviewurl: https://cbs.com/shows/thetalk
 permalink: /transcript/2013/:title/
 interviewyear: "2013"
-
 ---
 
 [...]

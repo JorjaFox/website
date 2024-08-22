@@ -10,7 +10,6 @@ newstitle: "Walking for good cause without ever leaving home"
 newsreporter: Yahoo News
 newssource: Yahoo News
 newsurl: https://news.yahoo.com
-
 ---
 
 Want to walk for a good cause but find yourself strapped for time or physically incapable? Welcome to the "virtual walk" where you can raise money for charity without ever stepping out the front door.

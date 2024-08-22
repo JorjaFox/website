@@ -10,7 +10,6 @@ newstitle: "'CSI' spoils our Jorja peach  "
 newsreporter: the lister
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach
-
 ---
 
 One of the many conflicts about Thursday night TV is this:

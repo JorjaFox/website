@@ -10,7 +10,6 @@ newstitle: "Never Be Ashamed of Who You Are"
 newsreporter: Antonio C.
 newssource: The Male Couple
 newsurl: https://themalecouple.blogspot.com/2011/07/matthew-jaeger-never-be-ashamed-of-who.html
-
 ---
  [...]
 

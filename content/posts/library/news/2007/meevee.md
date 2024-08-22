@@ -10,7 +10,6 @@ newstitle: "Save 'CSI's' Sara, Or Spend The Money On Crack?"
 newsreporter: MeeVee
 newssource: MeeVee
 newsurl: https://blog.meevee.com/my_weblog/2007/10/save-csis-sara-.html
-
 ---
 
 TV executives all over Hollywood must just want to beat Nina Tassler like a gong. The CBS Entertainment chief brought back "Jericho" for a deserved midseason run and admitted that the "Nuts to CBS" campaign by fans was a factor in the show's survival. Now every Comic Book Guy and No. #1 Fan out there is managing a campaign to save their favorite canceled show or fired actor. Aside from "Jericho" and "Cagney and Lacey" back in the '80s, there's seldom any sign that these campaigns are effective. The latest - again aimed in Tassler's direction - is a fan campaign for Jorja Fox as Sara Sidle, a supporting character on "CSI: Crime Scene Investigation."

@@ -9,7 +9,6 @@ newstitle: "Fired 'CSI' Star Hopes to Get Another Chance"
 newsreporter: Staff
 newssource: Reuters
 newsurl: https://www.reuters.com
-
 ---
 
 LOS ANGELES (Hollywood Reporter) - In his first public appearance since being fired from CBS' hit drama "CSI: Crime Scene Investigation," George Eads called his dismissal "a misunderstanding."

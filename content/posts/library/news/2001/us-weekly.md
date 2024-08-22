@@ -9,7 +9,6 @@ newstitle: We're Like Family
 newsreporter: Staff
 newssource: Us Weekly
 newsurl: https://usweekly.abc.com/
-
 ---
 [...]
 

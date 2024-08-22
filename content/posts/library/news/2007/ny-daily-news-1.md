@@ -10,7 +10,6 @@ newstitle: "'CSI' makes strong case to be 'Scene'"
 newsreporter: NY Daily News
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/
-
 ---
 
 The eighth season of "CSI: Crime Scene Investigation" traverses a tense path that long-time fans of the show will find familiar: a race-against-time CSI team effort to find one of their own, left to die in the desert by a vengeful killer.

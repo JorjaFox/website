@@ -10,7 +10,6 @@ newstitle: "Animal Antics  "
 newsreporter: Stephanie Fourqurean
 newssource: Daily Texan
 newsurl: https://media.www.dailytexanonline.com/media/storage/paper410/news/2008/07/14/TopStories/Animal.Antics-3390468.shtml
-
 ---
 
 Circuses advertise a joyful, colorful form of entertainment, but for circus animals, the shows hold dark promises of horrible living conditions that force animals into miserable confinements, according to animal advocacy groups.

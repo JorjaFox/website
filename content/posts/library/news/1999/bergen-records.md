@@ -9,7 +9,6 @@ newstitle: A family drama with docs, cops, and inmates
 newsreporter: Gail Shister
 newssource: Bergen Record Corp.
 newsurl: https://www.bergen.com/
-
 ---
 *Special from The Philadelphia Inquirer*
 

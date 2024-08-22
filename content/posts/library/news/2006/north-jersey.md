@@ -10,7 +10,6 @@ newstitle: "The Scoop  "
 newsreporter: Staff
 newssource: North Jersey
 newsurl: https://www.bergen.com/
-
 ---
 
 [...]

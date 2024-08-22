@@ -10,7 +10,6 @@ newstitle: "Fox at Bay"
 newsreporter: Staff
 newssource: TV Zone
 newsurl: https://www.visimag.com
-
 ---
 As CSI's Sara Sidle, she has her hands full of blood, bugs and rotting parts - but Fox's passion for acting gives her the stomach to cope, as she explains to Jenny.
 

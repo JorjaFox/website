@@ -10,7 +10,6 @@ newstitle: "The Secret Talents at CSI"
 newsreporter: Staff
 newssource: TMZ
 newsurl: https://tmz.aol.com/
-
 ---
 
 **Trading forensic evidence in for a kickball craze**

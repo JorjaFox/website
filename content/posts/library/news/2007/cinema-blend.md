@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Is Definitely Leaving CSI  "
 newsreporter: Kelly West
 newssource: Cinema Blend
 newsurl: https://www.cinemablend.com/
-
 ---
 
 Well "CSI" fans, it looks like its official. Despite the online campaigns and petitions set up by fans to keep her around, Jorja Fox is leaving "CSI". TV Guide's Ausiello interviewed Fox last month and at that time, she refused to respond to the rumors about her departure from the series. Today, Entertainment Weekly has reported that the rumors are true.

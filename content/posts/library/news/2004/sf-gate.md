@@ -9,7 +9,6 @@ newstitle: "'CSI' stars get the boot"
 newsreporter: Staff
 newssource: SF Gate
 newsurl: https://www.sfgate.com/
-
 ---
 
 'CSI' STARS FIRED AFTER PAY REQUESTS

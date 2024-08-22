@@ -9,7 +9,6 @@ newstitle: "CSI's Invasion of the Little People"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://etonline.com
-
 ---
 
 Not since 'The Wizard of Oz' have so many little people gathered together for a production, but this week's "CSI" earns that distinction when the team investigates the death of one of the members attending the International Organization of Little People's convention in Las Vegas.

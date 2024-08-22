@@ -9,7 +9,6 @@ newstitle: "Labors of Love: Cold Characters and Warm Regards"
 newsreporter: Todd Longwell
 newssource: Emmy Magazine
 newsurl: https://www.emmy.com/
-
 ---
 
 **As forensic detective Sarah Sidle on the CBS Series *CSI*,** Jorja Fox works with the dead, searching for clues that will help solve the mystery of their demise. She has made some discoveries among the living, too.

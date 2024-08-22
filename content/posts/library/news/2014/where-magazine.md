@@ -9,7 +9,6 @@ newstitle: "Celebrity Interview: Jorja Fox"
 newsreporter: Jessica Radloff
 newssource: Where Magazine
 newsurl: https://wherela.com/blog/2014/10/26/celebrity-interview-jorja-fox/
-
 ---
 
 "'Catch up with the *CSI: Crime Scene Investigation* star, find out her favorite places in Los Angeles and more."'

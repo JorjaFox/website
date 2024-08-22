@@ -10,7 +10,6 @@ newstitle: "CSI's Jorja Fox Wants to Start a Revolution  "
 newsreporter: Staff
 newssource: Collegiate
 newsurl: https://www.lacitycollege.edu/
-
 ---
 
 Modest to a fault, Jorja Fox is gracious about what many would call the burden of fame and relentless scrutiny by the public that comes when starring on TV's top rated show. CBS's "CSI: Crime Scene Investigation."

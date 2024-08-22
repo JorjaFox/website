@@ -10,7 +10,6 @@ newstitle: "Jorja Fox sidles back to 'CSI' for several episodes  "
 newsreporter: Dorothy Snarker
 newssource: After Ellen
 newsurl: https://www.afterellen.com/blog/dorothysnarker/jorja-fox-sidles-back-to-csi-for-several-episodes
-
 ---
 
 Oh, Sara Sidle. **CSI** just can't quit you. Original series actress **Jorja Fox** will return for five episodes in the new season of the hit crime drama.

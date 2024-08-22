@@ -10,7 +10,6 @@ newstitle: "JAA Exclusive: Interview with Caryn Mower  "
 newsreporter: Ann (iconraven)
 newssource: Jorja All Around
 newsurl: https://community.livejournal.com/jorjaallaround/658307.html
-
 ---
 
 

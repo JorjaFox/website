@@ -10,7 +10,6 @@ newstitle: "'CSI' spoilers: Sara has sparks with someone from her past  "
 newsreporter: Meredith Jacobs
 newssource: Examiner.com
 newsurl: https://www.examiner.com/article/csi-spoilers-sara-has-sparks-with-someone-from-her-past
-
 ---
 
 "CSI," which airs on CBS 2 in Queens, may be dealing with a possible act of terrorism in an upcoming episode. What happened? On Saturday, SpoilerTV shared the following synopsis for episode 10, "Risky Business Class."

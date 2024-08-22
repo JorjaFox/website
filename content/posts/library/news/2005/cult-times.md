@@ -10,7 +10,6 @@ newstitle: "Jorja's Marvellous Medicine"
 newsreporter: Staff
 newssource: Cult Times
 newsurl: https://www.visimag.com/
-
 ---
 **She knows a swab from a cotton bud and a Glock from a... er... glockenspeil. Jorja Fox looks at the career of *CSI* Sara Sidle**
 

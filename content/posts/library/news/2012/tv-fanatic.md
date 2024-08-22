@@ -10,7 +10,6 @@ newstitle: "CSI Review: Shaking The Family Tree  "
 newsreporter: Jim Garner
 newssource: TV Fanatic
 newsurl: https://www.tvfanatic.com/2012/12/csi-review-shaking-the-family-tree/
-
 ---
 
 

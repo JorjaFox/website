@@ -10,7 +10,6 @@ newstitle: "The lowdown on ...  "
 newsreporter: Staff
 newssource: Daily Mail UK
 newsurl: https://www.dailymail.co.uk
-
 ---
 
 JORJA FOX (CSI, Five, 9pm)

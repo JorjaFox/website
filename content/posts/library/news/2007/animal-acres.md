@@ -10,7 +10,6 @@ newstitle: "The Animal Acres 2007 Gala, August 25th, Acton, CA"
 newsreporter: Staff
 newssource: Animal Acres
 newsurl: https://animalacres.org/events/gala_2007.html
-
 ---
 
 **A Benefit to Build L.A.'s Farmed Animal Sanctuary**

@@ -10,7 +10,6 @@ newstitle: "*CSI* Finale: Will This Be the Final Langston-Haskell Showdown?  "
 newsreporter: Adam Bryant
 newssource: TV Guide.com
 newsurl: https://www.tvguide.com/News/CSI-Finale-Laurence-Fishburne-1032989.aspx
-
 ---
 
 [...]

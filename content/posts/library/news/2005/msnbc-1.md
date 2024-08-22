@@ -10,7 +10,6 @@ newstitle: "CSI Crime File - Sept. 22"
 newsreporter: Staff
 newssource: MSNBC
 newsurl: https://msnbc.com
-
 ---
 
 **The ABCs of 'CSI': Who's dead, who dun it and who solved it.**

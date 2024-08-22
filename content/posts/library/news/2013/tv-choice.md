@@ -9,7 +9,6 @@ newstitle: "Interview Extra: Jorja Fox  "
 newsreporter: David Collins
 newssource: TV Choice
 newsurl: https://www.tvchoicemagazine.co.uk/interviewextra/jorja-fox-csi-crime-scene-investigation
-
 ---
 
 **Jorja Fox plays forensic scientist Sara Sidle in *CSI: Crime Scene Investigation*, a crime drama series that has more than 60 million viewers worldwide. Here, she tells *TV Choice* how it feels to have such an amazing fan base. But she also reflects on her other roles in *ER* and *The West Wing*, and talks about her work as a conservationist campaigner**

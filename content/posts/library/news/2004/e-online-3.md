@@ -9,7 +9,6 @@ newstitle: "First Look"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com
-
 ---
 
 BACK ON THE JOB: Exclusive sources telling E! News Live that Jorja Fox will report back to work at CSI and it was just a misunderstanding with CBS.

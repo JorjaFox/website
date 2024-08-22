@@ -10,7 +10,6 @@ newstitle: "'CSI' Stars Share Their Experience  "
 newsreporter: Steve Friess
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/news/csi-stars-share-their-experience-2346.html
-
 ---
 
 [...]

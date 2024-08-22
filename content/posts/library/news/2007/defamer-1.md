@@ -10,7 +10,6 @@ newstitle: "What Gay Celebrities And John Mayer Think About Isaiah Washington: A
 newsreporter: Seth
 newssource: Defamer Hollywood
 newsurl: https://defamer.com/
-
 ---
 [...]
 

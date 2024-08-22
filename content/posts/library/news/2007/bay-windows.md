@@ -10,7 +10,6 @@ newstitle: Billy Masters
 newsreporter: Staff
 newssource: Bay Windows
 newsurl: https://baywindows.com
-
 ---
 
 [...]

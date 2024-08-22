@@ -10,7 +10,6 @@ newstitle: "Mark Uncovers Secrets from the CSI Set"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://et.tv.yahoo.com
-
 ---
 [...]
 

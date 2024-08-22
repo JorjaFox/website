@@ -10,7 +10,6 @@ newstitle: "Romance Secrets from 'CSI'"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://www.etonline.com
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "Day 3 at the convention  "
 newsreporter: Kristin Amend
 newssource: Blue Hearts
 newsurl: https://blueheartskc.blogspot.com/2008/08/blue-hearts-day-3-at-convention.html
-
 ---
 
 [...]

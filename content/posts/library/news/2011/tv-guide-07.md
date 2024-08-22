@@ -10,7 +10,6 @@ newstitle: "How *CSI* Got William Petersen Back  "
 newsreporter: Carita Rizzo
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/CSI-Got-William-1028901.aspx
-
 ---
 
 It was a reunion of sorts when, after almost two years of absence, Gil Grissom (William Petersen) appeared on the February 3 episode of *CSI*, titled "The Two Mrs. Grissoms."

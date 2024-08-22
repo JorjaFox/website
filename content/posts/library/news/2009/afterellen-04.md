@@ -10,7 +10,6 @@ newstitle: "Ask AfterEllen.com (Jan. 27, 2009)  "
 newsreporter: Karman Kregloe
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/column/ask-afterellen-01-27-09?page=0%2C2
-
 ---
 
 [...]

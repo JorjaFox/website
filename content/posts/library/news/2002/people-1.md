@@ -10,7 +10,6 @@ newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.aol.com/
 
-
 ---
 
 Someone must have forgotten to tell CSI: Crime Scene Investigation's Jorja Fox that it's still summer: The actress (whose show is an Emmy contender for outstanding drama series) opts to pair her spaghetti-strapped dress with calf-high leather boots.

@@ -10,7 +10,6 @@ newstitle: "Jorja Fox Leaves CSI  "
 newsreporter: Jane Ivory
 newssource: eFlux Media
 newsurl: https://www.efluxmedia.com/news\_Jorja\_Fox\_Leaves\_CSI_10711.html
-
 ---
 "Goodbye and Good Luck" was Jorja Fox's last appearance on the popular CBS series "CSI," after a seven-year tenure on the show.
 

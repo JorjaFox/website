@@ -9,7 +9,6 @@ newstitle: "Los Angeles' Race for the Cure"
 newsreporter: Bekah Wright
 newssource: Los Angeles Magazine
 newsurl: https://www.lamag.com
-
 ---
 
 The fight against cancer is a team effort. Nowhere is that more evident than at the annual Komen Las Angeles County Race for the Cure, at the Pasadena Rose Bowl on November 2. Jorja Fox of CBS' *CSI: Crime Scene Investigation*, who is serving as spokesperson for the cause [...] felt passionate about joining the fight after losing both her mother and a friend to cancer. "One of the keys to having a great life is to get involved in things that you care about."

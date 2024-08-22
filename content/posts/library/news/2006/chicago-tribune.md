@@ -10,7 +10,6 @@ newstitle: "It's about time 'CSI' got personal  "
 newsreporter: Staff
 newssource: Chicago Tribune
 newsurl: https://www.chicagotribune.com
-
 ---
 
 For her part, Fox says she was "thrilled" to get the script pages with that intimate scene between Grissom and Sidle.

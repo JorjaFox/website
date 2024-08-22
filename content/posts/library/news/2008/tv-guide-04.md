@@ -10,7 +10,6 @@ newstitle: "Oh No They Didn't!"
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com/Magazine/
-
 ---
 
 **Inside sources reveal top secrets about the season's biggest burning questions**

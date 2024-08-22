@@ -9,7 +9,6 @@ newstitle: Hollywood Grapevine
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 **Showbiz Buzz + Celebrity Scoop**

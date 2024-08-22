@@ -10,7 +10,6 @@ newstitle: "Tuning In"
 newsreporter: The Washington Times
 newssource: The Washington Times
 newsurl: https://washingtontimes.com/
-
 ---
 
 **Sara sidles out**

@@ -9,7 +9,6 @@ newstitle: "CSI Says Goodbye With a Totally Insane But Perfectly Fitting Series 
 newsreporter: Lauren Piester
 newssource: E! Online
 newsurl: https://www.eonline.com/news/700490/csi-says-goodbye-with-a-totally-insane-but-perfectly-fitting-series-finale-we-are-weirdly-emotional-over-it
-
 ---
 
 Full disclosure: I haven't watched "CSI" in years, but that didn't mean tonight wasn't a total emotional roller coaster for me.

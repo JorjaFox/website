@@ -10,7 +10,6 @@ newstitle: "TCA Diary, July 21: The lesbianish weekend update  "
 newsreporter: Malinda Lo
 newssource: After Ellen
 newsurl: https://www.afterellen.com/blog/malinda/tca-diary-july-21
-
 ---
 
 [...]

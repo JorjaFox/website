@@ -9,7 +9,6 @@ newstitle: "Jorja Fox Back On 'CSI'"
 newsreporter: Staff
 newssource: CBS 2 Chicago
 newsurl: https://www.CBS2chicago.com
-
 ---
 
 LOS ANGELES (AP)

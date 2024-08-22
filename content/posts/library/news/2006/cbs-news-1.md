@@ -10,7 +10,6 @@ newstitle: "What is Up With Gil And Sara?  "
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com
-
 ---
 
 **CSI Colleagues Aren't Just Pals**

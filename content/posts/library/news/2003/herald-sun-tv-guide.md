@@ -8,7 +8,6 @@ newstitle = CSI: Review
 newsreporter: Staff
 newssource: Hearald Sun TV Guide
 newsurl: https://www.heraldsun.news.com.au/
-
 ---
 
 [...]

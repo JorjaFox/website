@@ -10,7 +10,6 @@ newstitle: "CSI Special  "
 newsreporter: Janice Butler
 newssource: RT Guide
 newsurl: https://www.rteguide.ie
-
 ---
 
 [...]

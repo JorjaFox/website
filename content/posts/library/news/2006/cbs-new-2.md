@@ -10,7 +10,6 @@ newstitle: "Behind The Scenes Of 'CSI'  "
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com/
-
 ---
 
 **The Hit Show's Seventh Season Has Been An Eventful One**

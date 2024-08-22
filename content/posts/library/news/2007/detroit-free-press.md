@@ -10,7 +10,6 @@ newstitle: "Madonna makes hall of fame list"
 newsreporter: Detroit Free Press
 newssource: Detroit Free Press
 newsurl: https://www.freep.com/
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "Interview: Elisabeth Shue  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/03/interview-elisabeth-shue/
-
 ---
 
 [...]

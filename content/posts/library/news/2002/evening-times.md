@@ -9,7 +9,6 @@ newstitle: Jorja Can Track Down Top Roles
 newsreporter: Staff
 newssource: Evening Times
 newsurl: https://www.eveningtimes.co.uk/
-
 ---
 
 Jorja Fox appears to have the golden touch, having starred in three of the biggest US TV hits of the last decade!

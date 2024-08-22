@@ -10,7 +10,6 @@ newstitle: "Jorja Fox - Co-producer of 'Stay Together: The Life and Music of Dus
 newsreporter: Variety Staff
 newssource: Variety
 newsurl: https://www.variety.com/article/VR1117980300.html?categoryid=15&cs=1
-
 ---
 
 **Jorja Fox**, co-producer of "Stay Together: The Life and Music of Dusty Springfield," which opens on Feb. 7

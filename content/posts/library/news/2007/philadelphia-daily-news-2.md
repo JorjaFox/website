@@ -10,7 +10,6 @@ newstitle: "Tattle | Paris is facing a big day in court"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: https://www.philly.com
-
 ---
 
 [...]

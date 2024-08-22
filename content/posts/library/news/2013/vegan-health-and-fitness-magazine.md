@@ -10,7 +10,6 @@ newstitle: "Cover Story - How I Became an Elephant: The Movie  "
 newsreporter: Brenda Carey
 newssource: Vegetarian Health and Fitness Magazine
 newsurl: https://www.vhfmag.com
-
 ---
 
 As per usual, our cover models are more than just pretty faces. They are co-producers of an important new film called *How I Became an Elephant*. This powerful documentary follows 14-year-old Juliette West who embarks on a journey to learn more about elephants in their native land. After single-handedly raising the funs for her journey, she finds herself in Southeast Asia, meeting and working with her hero, Lek Chailert. Lek is known as "The Elephand Lady," and has risked her life and freedom for more than three decades to protect elephants from illegal trade and abuse. This is the story of two women, one from the East, one from the West, coming together on common ground to save elephants. It's also the coming of age story of a passionate young woman joining forces with a wise and experienced animal advocate on an enlightening journey of compassion, action and hope. The message: no matter what your age, your ethnicity, or disposition, you can make a difference. As we follow Juliette on this journey, and she uncovers the plight of these magnificent creatures, the film poses the poignant question, "how far would you go to save a species?"

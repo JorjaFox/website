@@ -10,7 +10,6 @@ newstitle: "Live From The Democratic Convention!"
 newsreporter: Michele Smith
 newssource: 43rd Ward Democrats - Michele Smith Committeeman
 newsurl: https://43rdwarddemocrats.blogspot.com/2008/09/live-from-democratic-convention.html
-
 ---
 
 [...]

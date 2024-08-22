@@ -10,7 +10,6 @@ newstitle: "Secret's of TV's Fall Favorites"
 newsreporter: Staff
 newssource: Us Weekly
 newsurl: https://www.usmagazine.com
-
 ---
 
 [...]

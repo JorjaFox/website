@@ -10,7 +10,6 @@ newstitle: "Is Jorja Fox Leaving CSI?!"
 newsreporter: Staff
 newssource: Associated Content
 newsurl: https://www.associatedcontent.com/
-
 ---
 
 Rumors are swirling that CSI is set to kill off Sara Sidle. "TV Guide" is reporting that the Jorja Fox's contract is up next month and that she may not renew.

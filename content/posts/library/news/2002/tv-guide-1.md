@@ -9,7 +9,6 @@ newstitle: "What a Crime! No Sex Scenes"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 Maybe they should rename the show CSI: Celibate Scientists Investigating. The brainchild behind CBS's Thursday night smash says he's in no rush to see Catherine (Marg Helgenberger) and Gil (William L. Petersen) throw down their ion detectors and electrothermal atomizers and acknowledge the mountain of evidence piling up right before their eyes: They want each other bad. In fact, creator-executive producer Anthony Zuiker seems content portraying all of CSI's sexy sleuths as poster children for abstinence.

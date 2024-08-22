@@ -10,7 +10,6 @@ newstitle: "Where There's A Gil  "
 newsreporter: Unknown
 newssource: Radio Times
 newsurl: https://www.radiotimes.com/content/magazine/
-
 ---
 
 [...]

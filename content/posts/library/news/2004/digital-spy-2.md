@@ -9,7 +9,6 @@ newstitle: "Two top 'CSI' actors fired"
 newsreporter: Staff
 newssource: Digital Spy
 newsurl: https://www.digitalspy.co.uk
-
 ---
 
 George Eads and Jorja Fox have been sacked from *C.S.I.: Crime Scene Investigation* for breach of contract.

@@ -10,7 +10,6 @@ newstitle: "'CSI' Losing Fox, Wins Ratings"
 newsreporter: "E! Online"
 newssource: "E! Online"
 newsurl: https://www.eonline.com
-
 ---
 
 Sara Sidle is a survivor. The actor that plays her, not so much.

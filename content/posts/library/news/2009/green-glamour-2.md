@@ -10,7 +10,6 @@ newstitle: "13 Questions - Jorja Fox  "
 newsreporter: Unknown
 newssource: Green With Glamour
 newsurl: https://www.greenwithglamour.com/index.php?main_page=editorial&e=questions&c=13_jorja_fox
-
 ---
 
 1. **spring, summer, autumn, or winter?**

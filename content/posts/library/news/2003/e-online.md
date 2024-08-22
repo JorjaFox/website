@@ -9,7 +9,6 @@ newstitle: Watch with Kristin
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://www.eonline.com/
-
 ---
 
 [...]

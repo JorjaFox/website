@@ -9,7 +9,6 @@ newstitle: "'Crime,' punishment, resolution"
 newsreporter: Staff
 newssource: New York City
 newsurl: https://www.nynewsday.com
-
 ---
 
 "It's like if you have a large rock fall on your head ... you absolutely don't want another rock to fall on you!"

@@ -10,7 +10,6 @@ newstitle: "Suit against IMDb shedding light on how birth dates can kill careers
 newsreporter: Bob Strauss
 newssource: Daily News
 newsurl: https://www.dailynews.com/news/ci_19325714
-
 ---
 
 It's a joke almost as old as show business itself. The aging actor - or, the more common stereotype, actress - who insists they can play characters decades younger than they are.

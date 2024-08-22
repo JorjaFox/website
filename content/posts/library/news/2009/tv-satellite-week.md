@@ -10,7 +10,6 @@ newstitle: "TV SPY SAYS  "
 newsreporter: Staff
 newssource: TV & Satellite week
 newsurl: https://whatsontv.co.uk/blogs/tvspy/various/in-the-latest-issue-of-tv-satellite-week-3/
-
 ---
 
  **TV SPY SAYS** "Since leaving CSI during series eight, Jorja Fox, who plays Sara, has devoted her time to campaigning against the use of animals in circuses."

@@ -10,7 +10,6 @@ newstitle: "Jorja's a Peach  "
 newsreporter: Deborah Corday and Drew Seltzer
 newssource: Los Angeles Confidential
 newsurl: https://www.la-confidential.com
-
 ---
 
 **Jorja Fox** may have new mysteries to solve every week on *CSI*, but she has a kindhearted philosophy about animals all figured out.

@@ -9,7 +9,6 @@ newstitle: "CSI Insiders Look Back Before Finale, Remember a 'Lippy' Young Justi
 newsreporter: Scott Huver
 newssource: People
 newsurl: https://www.people.com/article/csi-series-finale-cast-members-talk-justin-bieber-taylor-swift
-
 ---
 
 [...]

@@ -10,7 +10,6 @@ newstitle: "'CSI' actress wasn't surprised by romance with Grissom  "
 newsreporter: Staff
 newssource: St. Paul Pioneer Press
 newsurl: https://www.twincities.com/mld/twincities/entertainment/television/16028862.htm?source=rss&channel=twincities_television
-
 ---
 
 Don't worry, "CSI: Crime Scene Investigation" fans. CBS will not be changing the name of its hit drama to "When Sara Met Grissom." But the network will continue to explore the love of these two forensic nerds.

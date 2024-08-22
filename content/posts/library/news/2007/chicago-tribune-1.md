@@ -10,7 +10,6 @@ newstitle: "Grissom! Sara! Other stuff! It's the 'CSI' finale"
 newsreporter: Staff
 newssource: Chicago Tribune
 newsurl: https://featuresblogs.chicagotribune.com
-
 ---
 
 Because I like stirring up "CSI" fans, I thought I'd post this summary of what's going to happen on the May 17 season finale of the CBS show. Standard spoiler alert: Avert your eyes if you don't want to know.

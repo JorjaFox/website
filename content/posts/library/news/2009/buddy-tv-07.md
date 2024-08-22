@@ -10,7 +10,6 @@ newstitle: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
 newsreporter: Henrik Batallones
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/csi-sara-gets-five-episodes-as-30312.aspx
-
 ---
 
 I guess people didn't really warm to Riley Adams after all.

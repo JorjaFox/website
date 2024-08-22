@@ -10,7 +10,6 @@ newstitle: "CSI: Sara Sidle Says Goodbye "
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com
-
 ---
 
 I'll preface this by admitting that I was not a big Sara fan. I think I turned against Jorja Fox after the first contract dispute. To me, "CSI" is more of an ensemble show, so even though I have my favorites, \*cough\* Warrick \*cough\*, I resented the impression I got that she thought she was more important than any of the others. Besides that, I kinda wanted Lady Heather to loosen Grissom up a bit. All that being said, I really felt for Sara tonight.

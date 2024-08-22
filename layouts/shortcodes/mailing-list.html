@@ -1,0 +1,18 @@
+{{- $display := "main" -}}
+{{- $listname := "announcements" -}}
+{{- $headermsg := "Join the mailing List" -}}
+
+{{ if .Get "list" }}
+    {{ $display = .Get "list" }}
+{{ end }}
+
+{{ if eq $display "main" }}
+    {{ $headermsg = "Join the Fans of LeFox Announcement List" }}
+{{ else if eq $display "unsubscribe" }}
+	{{ $headermsg = "Leave the Fans of LeFox Announcement List" }}
+{{ else }}
+    {{ $headermsg = $display }}
+    {{ $listname = $display }}
+{{ end }}
+
+{{ partial "mailinglist.html" (dict "headermsg" $headermsg "listname" $listname "display" $display) }}

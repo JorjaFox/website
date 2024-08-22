@@ -1,12 +1,12 @@
 ---
 title: "TV Line"
 date: 2021-03-31
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "CSI Sequel Series Formally Greenlit at CBS; Wallace Langham Returning Alongside William Petersen, Jorja Fox"
-newsauthor: "Michael Ausiello"
+newsreporter: "Michael Ausiello"
 newssource: "TV Line"
 newsurl: https://tvline.com/2021/03/31/_CSI_-vegas-reboot-series-order-wallace-langham-hodges/
 aliases:

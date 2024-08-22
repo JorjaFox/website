@@ -1,16 +1,16 @@
 ---
 title: Telestar (November 2007)
 date: 2007-11-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Bye-bye CSI  "
-newsauthor: Cristina Kinon
+newsreporter: Cristina Kinon
 newssource: Telestar
-newsurl: http://blog.telestar.fr/
+newsurl: https://blog.telestar.fr/
 
 ---
 

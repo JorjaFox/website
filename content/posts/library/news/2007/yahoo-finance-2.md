@@ -1,16 +1,16 @@
 ---
 title: Yahoo! Finance
 date: 2007-02-08
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "The Animal Power of the 21st Genesis Awards!"
-newsauthor: "Yahoo! Finance"
+newsreporter: "Yahoo! Finance"
 newssource: "Yahoo! Finance"
-newsurl: http://biz.yahoo.com/
+newsurl: https://biz.yahoo.com/
 
 ---
 

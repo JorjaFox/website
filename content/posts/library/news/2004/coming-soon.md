@@ -1,15 +1,15 @@
 ---
 title: Coming Soon!
 date: 2004-07-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Eads & Fox Returning to CSI?"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Coming Soon
-newsurl: http://comingsoon.net/
+newsurl: https://comingsoon.net/
 
 ---
 

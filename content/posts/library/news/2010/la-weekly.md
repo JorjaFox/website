@@ -1,16 +1,16 @@
 ---
 title: LA Weekly
 date: 2010-03-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Vote for Love: Manifest Equality Art Show  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: LA Weekly
-newsurl: http://www.laweekly.com/slideshow/vote-for-love-manifest-equality-art-show-29371560/11
+newsurl: https://www.laweekly.com/slideshow/vote-for-love-manifest-equality-art-show-29371560/11
 
 ---
 

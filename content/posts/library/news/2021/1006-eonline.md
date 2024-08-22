@@ -1,12 +1,12 @@
 ---
 title: "E!"
 date: 2021-10-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "CSI: Vegas Is Not Your Parents' CSI: See What the Stars Have to Say About the Sequel Series"
-newsauthor: "Alyssa Ray"
+newsreporter: "Alyssa Ray"
 newssource: "E!"
 newsurl: https://www.eonline.com/news/1304917/csi-vegas-is-not-your-parents-csi-see-what-the-stars-have-to-say-about-the-sequel-series
 ---

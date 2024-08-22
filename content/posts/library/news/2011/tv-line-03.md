@@ -1,16 +1,16 @@
 ---
 title: TV Line
 date: 2011-01-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Exclusive *CSI* Video: Is Grissom Returning?!  "
-newsauthor: Michael Ausiello
+newsreporter: Michael Ausiello
 newssource: TV Line
-newsurl: http://www.tvline.com/2011/01/exclusive-csi-video-is-grissom-returning/
+newsurl: https://www.tvline.com/2011/01/exclusive-csi-video-is-grissom-returning/
 
 ---
 

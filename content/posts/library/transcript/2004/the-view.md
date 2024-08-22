@@ -1,9 +1,9 @@
 ---
 title: The View
-author: David Masters
+transcriber: David Masters
 layout: transcript
 date: 2004-02-19
-interviewurl: http://abc.go.com/daytime/theview/
+interviewurl: https://abc.go.com/daytime/theview/
 permalink: /transcript/2004/:title/
 categories: ["Interviews"]
 tags: [ "2004" ]

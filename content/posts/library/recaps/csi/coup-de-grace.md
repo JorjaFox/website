@@ -30,7 +30,7 @@ When the second case comes in, Sara picks it up. When Nick calls the phone of a 
 
 ## Quotes
 
-**Ecklie:** Sara, good to see you back from your week of in Paris.
+**Ecklie:** Sara, good to see you back from your week of in Paris.\
 **Sara:** Ecklie. Dr. Grissom sends his regards.
 
 - - -

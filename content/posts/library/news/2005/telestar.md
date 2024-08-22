@@ -1,16 +1,16 @@
 ---
 title: TeleStar
 date: 2005-04-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "CSIs Sara Sidle"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TeleStar
-newsurl: http://www.telestar.fr/
+newsurl: https://www.telestar.fr/
 
 ---
 Jorja Fox - "Marriage? It gives me the shivers!"

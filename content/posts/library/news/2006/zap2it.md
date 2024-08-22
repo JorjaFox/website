@@ -1,16 +1,16 @@
 ---
 title: Zap2it
 date: 2006-12-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "TV Gal Shares a Moment  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Zap2It
-newsurl: http://www.zap2it.com
+newsurl: https://www.zap2it.com
 
 ---
 

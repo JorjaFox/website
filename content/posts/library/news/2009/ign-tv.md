@@ -1,16 +1,16 @@
 ---
 title: IGN TV
 date: 2009-09-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "CSI: 'Family Affair' Review  "
-newsauthor: James Chamberlin
+newsreporter: James Chamberlin
 newssource: IGN
-newsurl: http://tv.ign.com/articles/102/1028487p1.html
+newsurl: https://tv.ign.com/articles/102/1028487p1.html
 
 ---
 

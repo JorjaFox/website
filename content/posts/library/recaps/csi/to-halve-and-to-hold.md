@@ -35,22 +35,22 @@ Meg (the bride-to-be) confesses to having consensual sex with the victim and the
 
 ## Quotes
 
-**Grissom:** Sara, Warrick -- dead body in the Lucky Seven Motel.
+**Grissom:** Sara, Warrick -- dead body in the Lucky Seven Motel.\
 **Sara:** Is that the place with that weird pool?
 
 - - -
 
-**Warrick:** _(reading the call sheet)_ Maid found dead male body in a hotel room.
+**Warrick:** _(reading the call sheet)_ Maid found dead male body in a hotel room.\
 **Sara:** Any chance it's old age?
 
 - - -
 
-**Warrick:** Who's the room registered to?
+**Warrick:** Who's the room registered to?\
 **Sara:** Well, you know, that would be Celine Dion.
 
 - - -
 
-**Warrick:** She lied to us.
+**Warrick:** She lied to us.\
 **Sara:** At this point, I think all those girls are lying to us.
 
 - - -

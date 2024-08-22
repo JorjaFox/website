@@ -1,15 +1,15 @@
 ---
 title: CNN
 date: 2004-07-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "'CSI' actors fired"
-newsauthor: Staff
+newsreporter: Staff
 newssource: CNN
-newsurl: http://cnn.com
+newsurl: https://cnn.com
 
 ---
 

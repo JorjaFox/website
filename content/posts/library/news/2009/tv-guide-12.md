@@ -1,16 +1,16 @@
 ---
 title: TV Guide
 date: 2009-09-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: 'Mega Buzz: Scoop on "CSI", "SVU", "Grey&apos;s", "90210" and More!'
-newsauthor: "Mickey O'Connor and Adam Bryant"
+newsreporter: "Mickey O'Connor and Adam Bryant"
 newssource: TV Guide
-newsurl: http://www.tvguide.com/News/MegaBuzz-CSI-SVU-Greys-1010090.aspx
+newsurl: https://www.tvguide.com/News/MegaBuzz-CSI-SVU-Greys-1010090.aspx
 
 ---
 

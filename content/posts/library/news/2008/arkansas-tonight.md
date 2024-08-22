@@ -1,16 +1,16 @@
 ---
 title: Arkansas Tonight
 date: 2008-08-31
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "DNC Report"
-newsauthor: Cris Seligman
+newsreporter: Cris Seligman
 newssource: Arkansas Tonight
-newsurl: http://arkansastonight.com/2008/08/dnc-report.html
+newsurl: https://arkansastonight.com/2008/08/dnc-report.html
 
 ---
 

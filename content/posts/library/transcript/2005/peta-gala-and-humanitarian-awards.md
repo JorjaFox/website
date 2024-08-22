@@ -1,9 +1,9 @@
 ---
 title: PETA Gala and Humanitarian Awards
 date: 2005-09-10
-author: David Masters
+transcriber: David Masters
 layout: transcript
-interviewurl:  http://www.peta.com
+interviewurl: https://www.peta.com
 permalink: /transcript/2005/:title/
 categories: ["Interviews"]
 tags: [ "2005" ]
@@ -48,4 +48,4 @@ tags: [ "2005" ]
 
 **VegTV** Anywhere we can follow that? Is it on the Internet?
 
-**Jorja Fox** Uh, yeah, [dearbernard.com](http://www.dearbernard.com/), it's on the Internet, it's a full length original musical, so we'll see. We put it up in L.A. last year, and we're taking, slowly getting to London in March.
+**Jorja Fox** Uh, yeah, [dearbernard.com](https://www.dearbernard.com/), it's on the Internet, it's a full length original musical, so we'll see. We put it up in L.A. last year, and we're taking, slowly getting to London in March.

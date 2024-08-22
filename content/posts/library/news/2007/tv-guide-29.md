@@ -1,16 +1,16 @@
 ---
 title: TV Guide
 date: 2007-08-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Roush on CSI: Crime Scene Investigation and Jorja Fox"
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: Ask Matt
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

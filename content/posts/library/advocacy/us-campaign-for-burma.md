@@ -4,7 +4,7 @@ author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: [Politics, 'Human Rights']
-website: http://www.burmaitcantwait.org
+website: https://www.burmaitcantwait.org
 ---
 
 30 Hollywood celebrities ran a campaign from May 1 through May 30 to seek the release of Myanmar's democracy icon Aung San Suu Kyi and push for freedom in the military-ruled nation.
@@ -29,4 +29,4 @@ Jorja filmed a video with Eric Szmanda which aired on May 11th (day 11). In it, 
 
 **Eric:** No one does.
 
-* [Jorja and Eric's video](http://link.brightcove.com/services/link/bcpid1517481413/bclid1527697194/bctid1533001469)
+* [Jorja and Eric's video](https://link.brightcove.com/services/link/bcpid1517481413/bclid1527697194/bctid1533001469)

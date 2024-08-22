@@ -1,16 +1,16 @@
 ---
 title: CSI Files
 date: 2012-03-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "Interview: Joe Pokaski  "
-newsauthor: Rachel Trongo
+newsreporter: Rachel Trongo
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2012/03/interview-joe-pokaski-2/
+newsurl: https://www.csifiles.com/content/2012/03/interview-joe-pokaski-2/
 
 ---
 

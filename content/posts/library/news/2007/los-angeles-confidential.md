@@ -1,16 +1,16 @@
 ---
 title: Los Angeles Confidential
 Date: 2007-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja's a Peach  "
-newsauthor: Deborah Corday and Drew Seltzer
+newsreporter: Deborah Corday and Drew Seltzer
 newssource: Los Angeles Confidential
-newsurl: http://www.la-confidential.com
+newsurl: https://www.la-confidential.com
 
 ---
 
@@ -40,7 +40,7 @@ Speaking of trendsetting, I'd also love to plug something I saw on TV... There's
 
 **LAG:** We understand that you helped open the North Central Animal Shelter here in Los Angeles last October. What kind of an experience was that for you?
 
-**JF:**That's so nice to say, but everyone else did the work. I just showed up at the opening. Lacey Street is my local shelter, so I've been there many times over the years. What really struck me was how beautifully the place has transformed. I think Los Angelenos should do themselves a favor and check it out. There's a real feeling of hope since the day of the re-opening, the mayor [Antonio Villaaigosa] and other politicians were there, giving a press conference. The coolest thing I've heard in a long time was when the mayor stated that it's the city's goal over the next five years to convert all the shelters in Los Angeles to no-kill shelters. I don't think people realize what a staggering number of animals are euthanized every year. Surprisingly a lot of farm animals also end up in city shelters. I'm really active in Animal Acres [http://animalacres.org animalacres.org], which is an amazing sanctuary for farm animals.
+**JF:**That's so nice to say, but everyone else did the work. I just showed up at the opening. Lacey Street is my local shelter, so I've been there many times over the years. What really struck me was how beautifully the place has transformed. I think Los Angelenos should do themselves a favor and check it out. There's a real feeling of hope since the day of the re-opening, the mayor [Antonio Villaaigosa] and other politicians were there, giving a press conference. The coolest thing I've heard in a long time was when the mayor stated that it's the city's goal over the next five years to convert all the shelters in Los Angeles to no-kill shelters. I don't think people realize what a staggering number of animals are euthanized every year. Surprisingly a lot of farm animals also end up in city shelters. I'm really active in Animal Acres [animalacres.org animalacres.org], which is an amazing sanctuary for farm animals.
 
 **LAG:** Is there a specific message you'd like to share with the readers?
 

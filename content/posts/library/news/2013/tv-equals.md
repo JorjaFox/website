@@ -1,16 +1,16 @@
 ---
 title: TV Equals
 date: 2013-02-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "CSI Season 13 Review 'Forget Me Not' -- Read Before Jumping Ship"
-newsauthor: Kristen Elizabeth
+newsreporter: Kristen Elizabeth
 newssource: TV Equals
-newsurl: http://www.tvequals.com/2013/02/21/csi-season-13-review-forget-me-not-resist-the-urge-to-jump-the-ship/
+newsurl: https://www.tvequals.com/2013/02/21/csi-season-13-review-forget-me-not-resist-the-urge-to-jump-the-ship/
 
 ---
 

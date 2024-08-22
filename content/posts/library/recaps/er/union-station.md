@@ -31,5 +31,5 @@ Early in the episode, Doyle is impressed and intimidated by Susan's skills, who 
 
 ## Quotes
 
-**Maggie:** How about this? If I get to testify against the bitch, I'll do it on my own time
+**Maggie:** How about this? If I get to testify against the bitch, I'll do it on my own time.\
 **Doug:** I think we're gonna like her.

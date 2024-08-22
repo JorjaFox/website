@@ -1,15 +1,15 @@
 ---
 title: SharpHeels
 date: 2014-02-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Jorja's Lionhearted Activism"
-newsauthor: Sarah Marloff
+newsreporter: Sarah Marloff
 newssource: Entertainment Weekly
-newsurl: http://sharpheels.com/2014/02/jorjafoxlions/
+newsurl: https://sharpheels.com/2014/02/jorjafoxlions/
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: Stepping Out
 date: 2001-04-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "Jorja Fox Shines On TV's Hottest Show"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Stepping Out Magazine
-newsurl: http://www.steppinoutmagazine.com/
+newsurl: https://www.steppinoutmagazine.com/
 ---
 
 No stranger to television, Fox also starred on NBC's top-rated series "ER" as resident intern Dr. Maggie Doyle prior to her segue as Secret Service Agent Gina Toscano on Aaron Sokin's Emmy Award-winning drama, "The West Wing." Additional credits include guest turns on "Law and Order" and the historic coming out episode of "Ellen."

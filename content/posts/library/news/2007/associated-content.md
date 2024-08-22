@@ -1,16 +1,16 @@
 ---
 title: Associated Content
 date: 2007-04-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Is Jorja Fox Leaving CSI?!"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Associated Content
-newsurl: http://www.associatedcontent.com/
+newsurl: https://www.associatedcontent.com/
 
 ---
 
@@ -38,8 +38,4 @@ This season has seen Grissom both giddy about his lady love and completely freak
 
 Stay tunned.
 
-Sources:
-:http://popgurls.com/article_show.php3?id=661
-:http://www.tvguide.com
-:http://www.watchingcsi.com
-:http://featuresblogs.chicagotribune.com
+[...]

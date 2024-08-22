@@ -1,15 +1,15 @@
 ---
 title: Variety
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1998/:title/
 tags: ["1998"]
 categories: ["Articles", "News"]
 newstitle: Review
 date: 1998-02-02
-newsauthor: Staff
+newsreporter: Staff
 newssource: Variety
-newsurl: http://variety.com
+newsurl: https://variety.com
 ---
 A Fugue State/Magnet Prods. presentation. Produced by Alison Dickey, Mark Lipson. Executive producer, James R. Hedges. Co-producer, Caitlin Abramoritz.
 

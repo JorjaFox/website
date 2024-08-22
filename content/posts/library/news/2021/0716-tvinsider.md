@@ -1,12 +1,12 @@
 ---
 title: "TV Insider"
 date: 2021-06-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "‘CSI: Vegas,’ ‘NCIS: Hawaii’ & More Spinoffs of Your Fave Procedurals Coming This Fall"
-newsauthor: "TV Insider Staff"
+newsreporter: "TV Insider Staff"
 newssource: "TV Insider"
 newsurl: https://www.tvinsider.com/1001781/fall-2021-tv-preview-law-order-for-the-defense-csi-vegas-ncis-hawaii-fbi-international/
 aliases:

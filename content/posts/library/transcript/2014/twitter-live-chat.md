@@ -1,9 +1,9 @@
 ---
 title: Twitter Live Chat
 date: 2014-03-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://cbs.com
+interviewurl: https://cbs.com
 permalink: /transcript/2014/:title/
 categories: ["Interviews"]
 tags: [ "2014" ]

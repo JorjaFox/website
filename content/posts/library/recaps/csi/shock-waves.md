@@ -36,6 +36,6 @@ We don't see Sara again still the end of the episode where she is clearly exhaus
 
 - - -
 
-**Sara:** Just say no, huh?
-**Langston:** Hear you pack a real mean right hook.
+**Sara:** Just say no, huh?\
+**Langston:** Hear you pack a real mean right hook.\
 **Sara:** Like Gandhi, I turn the other cheek. It just wasn't mine.

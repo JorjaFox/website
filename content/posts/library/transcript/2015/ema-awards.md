@@ -1,7 +1,7 @@
 ---
 title: Extra at the EMA Awards Green Carpet
 date: 2015-10-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://youtu.be/4Riq6ek0-rk?t=44m49s
 permalink: /transcript/2015/:title/

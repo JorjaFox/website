@@ -39,24 +39,24 @@ Questioning the main suspect, Sara loses her temper and accuses him of killing h
 
 - - -
 
-**Sara:** Look, all I am asking is to have a black-and-white do regular welfare checks.
-**Catherine:** Did the wife ask for help?
-**Sara:** Well, that's kind of hard to do when you don't speak English and you're a sex slave. I'm sure she doesn't know her rights.
-**Catherine:** _sighs_ You can't arrest someone for marrying the wrong person.
-**Sara:** You would know.
-**Catherine:** If the guy's an abuser, if he killed his first wife, we will build a case and we will nail him.
-**Sara:** And in the meantime, he can just keep using her as a punching bag.
-**Catherine:** Sara, I was there -- there wasn't a mark on her.
-**Sara:** Not that we could see, Catherine.
-**Catherine:** You know ... every time we get a case with a hint of domestic violence or abuse, you go off the deep end. What is your problem?
+**Sara:** Look, all I am asking is to have a black-and-white do regular welfare checks.\
+**Catherine:** Did the wife ask for help?\
+**Sara:** Well, that's kind of hard to do when you don't speak English and you're a sex slave. I'm sure she doesn't know her rights.\
+**Catherine:** _sighs_ You can't arrest someone for marrying the wrong person.\
+**Sara:** You would know.\
+**Catherine:** If the guy's an abuser, if he killed his first wife, we will build a case and we will nail him.\
+**Sara:** And in the meantime, he can just keep using her as a punching bag.\
+**Catherine:** Sara, I was there -- there wasn't a mark on her.\
+**Sara:** Not that we could see, Catherine.\
+**Catherine:** You know ... every time we get a case with a hint of domestic violence or abuse, you go off the deep end. What is your problem?\
 **Sara:** Yeah, I probably do, and you let your sexuality cloud your judgment about men, and I'm gonna go over your head.
 
 - - -
 
-**Sara:** The only reason this is your lab is because Grissom doesn't kiss ass. You couldn't hack it in the field, so you fail your way up, you break up our team, and now you just hang out in the hallways waiting for one of us to screw up.
-**Ecklie:** Sidle, you're on one-week suspension without pay, ...
-**Sara:** mutters Great.
-**Ecklie:** ... and when you get back, you're apologizing to Catherine.
+**Sara:** The only reason this is your lab is because Grissom doesn't kiss ass. You couldn't hack it in the field, so you fail your way up, you break up our team, and now you just hang out in the hallways waiting for one of us to screw up.\
+**Ecklie:** Sidle, you're on one-week suspension without pay, ...\
+**Sara:** mutters Great.\
+**Ecklie:** ... and when you get back, you're apologizing to Catherine.\
 **Sara:** shakes her head No, I'm not.
 
 - - -
@@ -65,8 +65,8 @@ Questioning the main suspect, Sara loses her temper and accuses him of killing h
 
 - - -
 
-**Sara:** It's funny ... the things that you remember and the things that you don't, you know. There was a smell of iron in the air. Cast-off on the bedroom wall. There was this young cop puking his guts. I remember the woman who took me to foster care. I can't remember her name. Which is strange, you know, 'cause I couldn't let go of her hand.
-**Grissom:** Well ... the mind has its filters.
-**Sara:** I do remember the looks. I became the girl whose father was stabbed to death. Do you think there's a murder gene?
-**Grissom:** I don't believe that genes are a predictor of violent behavior.
+**Sara:** It's funny ... the things that you remember and the things that you don't, you know. There was a smell of iron in the air. Cast-off on the bedroom wall. There was this young cop puking his guts. I remember the woman who took me to foster care. I can't remember her name. Which is strange, you know, 'cause I couldn't let go of her hand.\
+**Grissom:** Well ... the mind has its filters.\
+**Sara:** I do remember the looks. I became the girl whose father was stabbed to death. Do you think there's a murder gene?\
+**Grissom:** I don't believe that genes are a predictor of violent behavior.\
 **Sara:** You wouldn't know that in my house. The fights, the yelling, the trips to the hospital. I thought it was the way that everybody lived. When my mother killed my father, I found out that it wasn't.

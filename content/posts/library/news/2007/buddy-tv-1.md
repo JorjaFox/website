@@ -1,16 +1,16 @@
 ---
 title: Buddy TV
 date: 2007-03-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "CSI's Gil Grissom and Sara Sidle"
-newsauthor: Kris De Leon
+newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csis-gil-grissom-and-sara-sidl-5240.aspx
+newsurl: https://www.buddytv.com/articles/csi/csis-gil-grissom-and-sara-sidl-5240.aspx
 
 ---
 

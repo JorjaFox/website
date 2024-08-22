@@ -1,16 +1,16 @@
 ---
 title: Pittsburgh Post-Gazette
 date: 2007-07-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "SUMMER PRESS TOUR: Dead show walking; party patrol"
-newsauthor: Pittsburgh Post-Gazette
+newsreporter: Pittsburgh Post-Gazette
 newssource: Pittsburgh Post-Gazette
-newsurl: http://www.post-gazette.com
+newsurl: https://www.post-gazette.com
 
 ---
 

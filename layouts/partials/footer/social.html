@@ -19,23 +19,35 @@
     <div class="container-xxl px-3 px-xxl-0 py-5">
         <div class="row">
             <div class="col-md-4 small">
-                <a href="{{ site.Home.RelPermalink }}">
-                    {{- partial "assets/image.html" (dict "url" "/img/logo.svg" "wrapper" "w-25" "title" "Fans of LeFox") -}}
-                </a>
-                <div class="pt-3">{{ $description }}</div>
+                <div class="pt-3"><center>
+                    <a href="{{ site.Home.RelPermalink }}"><img class="img-fluid " src="/img/logo.svg" height="150" width="150" alt="Fans of LeFox"></a>
+                </center></div>
             </div>
-            <div class="col-md-2 small">&nbsp</div>
-
-            {{- range $menu := $menus -}}
-                <div class="col-md-2 col-4 pt-5 pt-md-0">
+            <div class="col-md-4 small">
+                {{- range $menu := $menus -}}
                     <div class="fs-md-5 fs-6 fw-bold footer-muted">{{ .Name }}</div>
                     {{- range .Children -}}
                         <div class="py-1">
                             {{- partial "assets/navbar-item.html" (dict "menu" . "page" $page "class" "link-bg-footer") -}}
                         </div>
                     {{- end -}}
-                </div>
-            {{- end -}}
+                {{- end -}}
+            </div>
+            <div class="col-md-4 small">
+                {{ partial "mailinglist.html" (dict "headermsg" "Join the Fans of LeFox Announcement List" "listname" "announcements" "display" "main") }}
+            </div>
         </div>
     </div>
 </footer>
+
+<!--
+Fans of LeFox © 1996 by Mika A. Epstein.
+All original literary content on this site is licensed CC BY-NC-SA 4.0.
+
+Excluded from this license are the sections /news and /transcript
+
+To view a copy of this license, visit
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+All attempts have been made to properly attribute images.
+-->

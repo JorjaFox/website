@@ -1,16 +1,16 @@
 ---
 title: USA Today
 date: 2007-11-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Critic's Corner Thursday  "
-newsauthor: Robert Bianco
+newsreporter: Robert Bianco
 newssource: USA Today
-newsurl: http://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm
+newsurl: https://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm
 
 ---
 [...]

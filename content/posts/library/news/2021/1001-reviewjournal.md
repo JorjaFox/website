@@ -1,12 +1,12 @@
 ---
 title: "CBS Watch"
 date: 2021-10-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "‘CSI’ is back to showcase ‘latest and greatest of Las Vegas’"
-newsauthor: "Christopher Lawrence"
+newsreporter: "Christopher Lawrence"
 newssource: "Las Vegas Review-Journal"
 newsurl: https://www.reviewjournal.com/entertainment/tv/csi-is-back-to-showcase-latest-and-greatest-of-las-vegas-2451176/
 ---

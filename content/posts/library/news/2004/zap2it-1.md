@@ -1,15 +1,15 @@
 ---
 title: Zap2it
 date: 2004-07-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "'CSI' Rehires Fox; Eads Waits to Hear"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Maxim
-newsurl: http://tv.zap2it.com/
+newsurl: https://tv.zap2it.com/
 
 ---
 

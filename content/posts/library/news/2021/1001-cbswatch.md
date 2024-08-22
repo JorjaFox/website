@@ -1,12 +1,12 @@
 ---
 title: "CBS Watch"
 date: 2021-10-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "What Happens in Vegas"
-newsauthor: "Mara Reinstein"
+newsreporter: "Mara Reinstein"
 newssource: "CBS Watch"
 newsurl: https://digital.cbswatchmagazine.com/view/962262132/
 ---

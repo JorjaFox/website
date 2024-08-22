@@ -1,16 +1,16 @@
 ---
 title: AfterEllen
 date: 2009-09-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "'CSI' spoils our Jorja peach  "
-newsauthor: the lister
+newsreporter: the lister
 newssource: AfterEllen
-newsurl: http://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach
+newsurl: https://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach
 
 ---
 

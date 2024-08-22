@@ -1,16 +1,16 @@
 ---
 title: The Globe and Mail
 date: 2005-03-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Esprite de Corpse"
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Globe and Mail
-newsurl: http://www.theglobeandmail.com
+newsurl: https://www.theglobeandmail.com
 
 ---
 [...]

@@ -1,16 +1,16 @@
 ---
 title: Calendarlive.com
 date: 2006-03-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "The menu? Food for thought  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Calendarlive.com
-newsurl: http://Calendarlive.com
+newsurl: https://Calendarlive.com
 
 ---
 

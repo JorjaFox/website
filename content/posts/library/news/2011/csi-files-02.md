@@ -1,16 +1,16 @@
 ---
 title: CSI Files
 date: 2011-10-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Interview: Jorja Fox  "
-newsauthor: Shane S. Saunders
+newsreporter: Shane S. Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2011/10/chat-transcript-elisabeth-harnois/
+newsurl: https://www.csifiles.com/content/2011/10/chat-transcript-elisabeth-harnois/
 
 ---
 

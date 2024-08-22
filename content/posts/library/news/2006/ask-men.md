@@ -1,16 +1,16 @@
 ---
 title: Ask Men
 date: 2006-06-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Beauty Pageant Of The Week, CSI Chicks  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Ask Men
-newsurl: http://www.askmen.com
+newsurl: https://www.askmen.com
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: Austin Chronicle Movies
 date: 1999-11-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: The Hungry Bachelors Club
-newsauthor: Russell Smith
+newsreporter: Russell Smith
 newssource: Austin Chronicle
-newsurl: http://www.auschron.com
+newsurl: https://www.auschron.com
 
 ---
 Director: Gregory Ruzzin

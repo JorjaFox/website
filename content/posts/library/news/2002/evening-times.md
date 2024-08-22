@@ -1,15 +1,15 @@
 ---
 title: Evening Times
 date: 2002-02-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Jorja Can Track Down Top Roles
-newsauthor: Staff
+newsreporter: Staff
 newssource: Evening Times
-newsurl: http://www.eveningtimes.co.uk/
+newsurl: https://www.eveningtimes.co.uk/
 
 ---
 

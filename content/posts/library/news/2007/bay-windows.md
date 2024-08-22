@@ -1,16 +1,16 @@
 ---
 title: Bay Windows
 date: 2007-05-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: Billy Masters
-newsauthor: Staff
+newsreporter: Staff
 newssource: Bay Windows
-newsurl: http://baywindows.com
+newsurl: https://baywindows.com
 
 ---
 

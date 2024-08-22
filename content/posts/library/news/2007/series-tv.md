@@ -2,16 +2,16 @@
 title: Series TV
 
 date: 2007-01-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Renaissance - Discussion about Season Seven!"
-newsauthor: Series TV
+newsreporter: Series TV
 newssource: Series TV
-newsurl: http://seriestv.co.fr
+newsurl: https://seriestv.co.fr
 
 ---
 

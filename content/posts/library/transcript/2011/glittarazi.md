@@ -1,12 +1,12 @@
 ---
 title: Glittarazi
 date: 2011-11-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
 tags: [ "2011" ]
-interviewurl: http://glittarazzi.com/
+interviewurl: https://glittarazzi.com/
 ---
 
 **Glittarazi:** How does it feel to constantly be named one of PETA's sexiest vegetarians?

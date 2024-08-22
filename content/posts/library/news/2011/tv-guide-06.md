@@ -1,16 +1,16 @@
 ---
 title: TV Guide Magazine
 date: 2011-07-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Exclusive First Look: Ted Danson on CSI  "
-newsauthor: TV Guide Magazine News
+newsreporter: TV Guide Magazine News
 newssource: TV Guide Magazine
-newsurl: http://www.tvguide.com/News/Ted-Danson-CSI-1035847.aspx
+newsurl: https://www.tvguide.com/News/Ted-Danson-CSI-1035847.aspx
 
 ---
 

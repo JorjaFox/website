@@ -2,16 +2,16 @@
 title: Ohio.com
 
 date: 2007-12-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Pop Quiz - Jorja Fox leaving CSI  "
-newsauthor: By Rich Heldenfels
+newsreporter: By Rich Heldenfels
 newssource: Ohio.com
-newsurl: http://www.ohio.com/
+newsurl: https://www.ohio.com/
 
 ---
 

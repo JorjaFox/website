@@ -28,5 +28,5 @@ _Sara does not appear in the episode._
 
 ## Quotes
 
-**Catherine:** What do you hear from Sara?
+**Catherine:** What do you hear from Sara?\
 **Grissom:** I don't know where she is.

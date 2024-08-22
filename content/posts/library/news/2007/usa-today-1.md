@@ -1,16 +1,16 @@
 ---
 title: USA Today
 date: 2007-10-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Stars in demure mode at Frederick's lingerie show "
-newsauthor: Brent Jones
+newsreporter: Brent Jones
 newssource: USA Today
-newsurl:  http://www.usatoday.com/life/people/2007-10-25-fredericks_n.htm
+newsurl: https://www.usatoday.com/life/people/2007-10-25-fredericks_n.htm
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: Stuff Magazine
 date: 2002-05-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Jorja Fox
-newsauthor: Staff
+newsreporter: Staff
 newssource: Stuff Magazine
-newsurl: http://stuffmagazine.com/
+newsurl: https://stuffmagazine.com/
 
 ---
 

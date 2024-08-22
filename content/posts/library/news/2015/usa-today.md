@@ -1,15 +1,15 @@
 ---
 title: USA Today
 date: 2015-09-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "Original 'CSI' stars return for final case"
-newsauthor: Bill Keveney
+newsreporter: Bill Keveney
 newssource: USA Today
-newsurl: http://www.usatoday.com/story/life/tv/2015/09/24/william-petersen-marg-helgenberger-cbs-csi-finale/72664736/
+newsurl: https://www.usatoday.com/story/life/tv/2015/09/24/william-petersen-marg-helgenberger-cbs-csi-finale/72664736/
 
 ---
 

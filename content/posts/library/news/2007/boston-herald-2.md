@@ -1,16 +1,16 @@
 ---
 title: Boston Herald
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' sendoff  "
-newsauthor: Mark A. Perigard
+newsreporter: Mark A. Perigard
 newssource: Boston Herald
-newsurl: http://news.bostonherald.com/entertainment/television/reviews/view.bg?articleid=1044674
+newsurl: https://news.bostonherald.com/entertainment/television/reviews/view.bg?articleid=1044674
 
 ---
 

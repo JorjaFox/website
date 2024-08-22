@@ -31,18 +31,18 @@ Sara investigates a dumped body in Henderson, dumpster dives and realizes the co
 
 ## Quotes
 
-**Grissom:** Sara, body of your own. Dumpster out near Henderson.
+**Grissom:** Sara, body of your own. Dumpster out near Henderson.\
 **Sara:** Oh, I'll dress down.
 
 - - -
 
-**Phillips:** I really admire the gusto with which you approach your job.
+**Phillips:** I really admire the gusto with which you approach your job.\
 **Sara:** Are you hitting on me, David? _(David nods, shyly_ _Sidle laughs softly)_ Let me give you some advice. If you want to pull chicks, you've gotta get aggressive. Lose the glasses, lose the coat, grow some scruff. _(thoughtful pause)_ You do get a C for cute, though.
 
 - - -
 
-**Sara:** You sell caskets, right? As part of your mortuary service? I want to see some.
-**Mortician** I can arrange a viewing.
+**Sara:** You sell caskets, right? As part of your mortuary service? I want to see some.\
+**Mortician** I can arrange a viewing.\
 **Sara:** Bonus.
 
 - - -
@@ -51,5 +51,5 @@ Sara investigates a dumped body in Henderson, dumpster dives and realizes the co
 
 - - -
 
-**Mortician** I see the world in a totally different perspective from most people.
+**Mortician** I see the world in a totally different perspective from most people.\
 **Sara:** Yeah, I know. You see dead people. So do I. And when they turn up in dumpsters, I like to see they get back where they belong.

@@ -1,16 +1,16 @@
 ---
 title: TV Guide Magazine
 date: 2010-01-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2010"]
 categories: ["Articles", "News"]
 permalink: /news/2010/:title/
 
 newstitle: "Best Bets  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com/
+newsurl: https://www.tvguidemagazine.com/
 
 ---
 

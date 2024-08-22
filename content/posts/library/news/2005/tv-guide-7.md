@@ -1,16 +1,16 @@
 ---
 title: TV Guide
 date: 2005-11-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "The Ausiello Report"
-newsauthor: Michael Ausiello
+newsreporter: Michael Ausiello
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 [...]

@@ -1,15 +1,15 @@
 ---
 title: Entertainment Weekly
 date: 2015-09-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: Saying Goodbye to CSI
-newsauthor: Lynette Rice
+newsreporter: Lynette Rice
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com/
+newsurl: https://www.ew.com/
 
 ---
 

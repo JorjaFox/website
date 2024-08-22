@@ -7,7 +7,7 @@ layout: library
 
 Questions here are about Jorja Fox's personal life and, in broad terms, her career, including how to get in touch with her.
 
-For more questions about her career, please read the **[FAQ about Jorja's career](/library/faq/career/)**.
+For more questions about her career, please read the **[FAQ about Jorja's career](/faq/career/)**.
 
 ### Who is Jorja Fox?
 
@@ -59,7 +59,7 @@ I would if I could, but as I can't, please don't email personal letters to me. I
 
 ### What's her official website?
 
-[jorjafox.com](http://jorjafox.com)
+[jorjafox.com](https://jorjafox.com)
 
 ### Does Jorja have social media?
 

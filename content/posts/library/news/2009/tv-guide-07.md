@@ -1,16 +1,16 @@
 ---
 title: TV Guide Magazine
 date: 2009-07-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "*CSI*'s Riley Leaves the Lab  "
-newsauthor: Carita Rizzo
+newsreporter: Carita Rizzo
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com/news/csis-riley-leaves-the-lab-1852.html
+newsurl: https://www.tvguidemagazine.com/news/csis-riley-leaves-the-lab-1852.html
 
 ---
 

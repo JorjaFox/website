@@ -1,16 +1,16 @@
 ---
 title: Sveket mot minkarna
 date: 2010-08-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Jorja Fox till Fredrik Reinfeldt: StÃ¤ng minkfarmerna!  "
-newsauthor: Administrator
+newsreporter: Administrator
 newssource: Sveket mot minkarna
-newsurl: http://sveketmotminkarna.se/kampanjen/nyheter/jorja-fox-till-fredrik-reinfeldt-stÃ¤ng-minkfarmerna
+newsurl: https://sveketmotminkarna.se/kampanjen/nyheter/jorja-fox-till-fredrik-reinfeldt-stÃ¤ng-minkfarmerna
 
 ---
 

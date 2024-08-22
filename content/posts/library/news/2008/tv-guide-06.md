@@ -1,16 +1,16 @@
 ---
 title: TV Guide - The Biz Blog
 date: 2008-08-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Convention Notebook: Eat, Drink and Watch CNN  "
-newsauthor: Stephen Battaglio
+newsreporter: Stephen Battaglio
 newssource: TV Guide Editors' Blogs - The Biz Blog
-newsurl: http://community.tvguide.com/blog/TVGuide-Editors-Blog/Biz/800054319
+newsurl: https://community.tvguide.com/blog/TVGuide-Editors-Blog/Biz/800054319
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: Us Weekly
 date: 2009-08-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox Returning to CSI  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Us Weekly
-newsurl: http://www.usmagazine.com/news/jorja-fox-returning-to-csi-2009177
+newsurl: https://www.usmagazine.com/news/jorja-fox-returning-to-csi-2009177
 
 ---
 

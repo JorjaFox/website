@@ -1,16 +1,16 @@
 ---
 title: Living GWG
 date: 2009-04-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "A smouldering photoshoot with Jorja Fox ... where do we begin?  "
-newsauthor: Deana
+newsreporter: Deana
 newssource: Living GWG
-newsurl: http://www.greenwithglamour.com/blog/archives/472/
+newsurl: https://www.greenwithglamour.com/blog/archives/472/
 
 ---
 

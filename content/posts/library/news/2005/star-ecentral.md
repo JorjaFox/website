@@ -1,16 +1,16 @@
 ---
 title: Star eCentral
 date: 2005-07-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Candid shorts"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Star eCentral
-newsurl: http://www.star-ecentral.com
+newsurl: https://www.star-ecentral.com
 
 ---
 THE cast of CSI: Crime Scene Investigation talks about the show, its appeal and more.

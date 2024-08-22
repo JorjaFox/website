@@ -1,16 +1,16 @@
 ---
 title: MSNBC (2)
 date: 2007-11-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Don't let the door hit you on the way out, Sara  "
-newsauthor: MSNBC
+newsreporter: MSNBC
 newssource: MSNBC
-newsurl: http://www.msnbc.msn.com/id/21776926/
+newsurl: https://www.msnbc.msn.com/id/21776926/
 
 ---
 **Readers dish on why Jorja Fox's departure from 'CSI' should be celebrated**

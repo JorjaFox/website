@@ -1,16 +1,16 @@
 ---
 title: TVGuide.com
 date: 2009-09-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "'CSI:' Will Catherine Be a Good Leader?  "
-newsauthor: Adam Bryant
+newsreporter: Adam Bryant
 newssource: TVGuide.com
-newsurl: http://www.tvguide.com/News/CSI-Marg-Helgenberger-1010131.aspx
+newsurl: https://www.tvguide.com/News/CSI-Marg-Helgenberger-1010131.aspx
 
 ---
 

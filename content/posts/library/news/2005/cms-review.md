@@ -1,16 +1,16 @@
 ---
 title: CMS Review
 date: 2005-04-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Reality TV: Good for Networks, Bad for Network Workers"
-newsauthor: Andrew Murphy
+newsreporter: Andrew Murphy
 newssource: CMS Review
-newsurl: http://www.niagara.edu/communication/pdf/CMS%20Review%20Apr%2005%20Vol8-4.pdf
+newsurl: https://www.niagara.edu/communication/pdf/CMS%20Review%20Apr%2005%20Vol8-4.pdf
 
 ---
 [...]

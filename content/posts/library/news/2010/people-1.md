@@ -1,16 +1,16 @@
 ---
 title: People Pets
 date: 2010-09-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Jorja Fox's Dog Is Almost 100 -- In Dog Years  "
-newsauthor: Nina Tyler
+newsreporter: Nina Tyler
 newssource: People Pets
-newsurl: http://www.peoplepets.com/news/dogs/jorja-fox-s-dog-is-almost-100-in-dog-years/1
+newsurl: https://www.peoplepets.com/news/dogs/jorja-fox-s-dog-is-almost-100-in-dog-years/1
 
 ---
 

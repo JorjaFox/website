@@ -1,15 +1,15 @@
 ---
 title: Entertainment Weekly
 date: 2015-09-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "5 things we learned at the 'CSI' farewell salute"
-newsauthor: Mary Sollosi
+newsreporter: Mary Sollosi
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute
+newsurl: https://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute
 
 ---
 

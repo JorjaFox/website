@@ -1,12 +1,12 @@
 ---
 title: "SK Pop"
 date: 2022-01-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
 categories: ["Articles", "News"]
 newstitle: "What is Jorja Fox's net worth? Fortune explored as actress quits CSI: Vegas"
-newsauthor: "Amlan Chakraborty"
+newsreporter: "Amlan Chakraborty"
 newssource: "SK Pop"
 newsurl: https://www.sportskeeda.com/pop-culture/news-what-jorja-fox-s-net-worth-fortune-explored-actress-quits-csi-vegas-1
 ---
@@ -14,7 +14,9 @@ Jorja Fox, a veteran of the  _CSI: Crime Scene Investigation_ franchise, confirm
 
 On Tuesday, she took to Twitter to announce her departure from the show. She wrote,
 
-> Hey all you #CSI fans! After much deliberating, I have decided not to 'Sidle up' for CSI Vegas. For me, CSI has always been a love story. The story that people can find love in the darkest of places and times. And the story that love, even in the darkest of places and times, can expand and grow roots and endure. I personally just can't split Sara and Grissom up again. So goes Grissom…..So goes Sara. Wherever they go, they belong together.
+{{< blockquote >}}
+Hey all you #CSI fans! After much deliberating, I have decided not to 'Sidle up' for CSI Vegas. For me, CSI has always been a love story. The story that people can find love in the darkest of places and times. And the story that love, even in the darkest of places and times, can expand and grow roots and endure. I personally just can't split Sara and Grissom up again. So goes Grissom…..So goes Sara. Wherever they go, they belong together.
+{{< /blockquote >}}
 
 The revival, which reunited Fox with William Petersen, her longtime co-star in the original _CSI_ franchise, has already received a second season order from CBS. Paula Newsom, Matt Lauria, Mandeep Dhillon, and Mel Rodriguez portrayed a fresh new _CSI_ squad on the show. Although Petersen will not feature in season 2, he will continue to serve as an executive producer.
 

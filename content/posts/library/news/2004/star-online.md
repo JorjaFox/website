@@ -1,15 +1,15 @@
 ---
 title: Star Online
 date: 2004-09-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "The night's buzz includes series' futures and style insights"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Star Online
-newsurl: http://www.staronline.com/
+newsurl: https://www.staronline.com/
 
 ---
 

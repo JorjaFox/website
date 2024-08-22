@@ -1,12 +1,12 @@
 ---
 title: "ET Online"
 date: 2021-11-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "'CSI: Vegas' Star Jorja Fox Warns Grissom and Sara Are at Their Lowest Point (Exclusive)"
-newsauthor: "Phillipa Ng"
+newsreporter: "Phillipa Ng"
 newssource: "ET"
 newsurl: https://www.etonline.com/csi-vegas-star-jorja-fox-warns-grissom-and-sara-are-at-their-lowest-point-exclusive-174583
 ---

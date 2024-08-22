@@ -1,16 +1,16 @@
 ---
 title: The Celebrity Cafe
 date: 2008-05-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: 'Major "CSI" Casting News'
-newsauthor: E. Van Dril
+newsreporter: E. Van Dril
 newssource: The Celebrity Cafe
-newsurl: http://www.thecelebritycafe.com/features/16082.html
+newsurl: https://www.thecelebritycafe.com/features/16082.html
 
 ---
 

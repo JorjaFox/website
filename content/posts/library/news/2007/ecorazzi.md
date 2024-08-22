@@ -1,16 +1,16 @@
 ---
 title: Ecorazzi
 date: 2007-03-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "CSI's Jorja Fox Goes Bike Shopping"
-newsauthor: Ecorazzi
+newsreporter: Ecorazzi
 newssource: Ecorazzi
-newsurl: http://www.ecorazzi.com
+newsurl: https://www.ecorazzi.com
 
 ---
 

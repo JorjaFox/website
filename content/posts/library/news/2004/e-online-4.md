@@ -1,15 +1,15 @@
 ---
 title: E! Online
 date: 2004-07-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "'CSI' Kills Back to Life?"
-newsauthor: Staff
+newsreporter: Staff
 newssource: E! Online
-newsurl: http://eonline.com
+newsurl: https://eonline.com
 
 ---
 

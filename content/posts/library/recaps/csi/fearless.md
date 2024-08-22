@@ -40,8 +40,8 @@ At the end, when Sara returns Justin's wedding ring to Mary, they discuss love, 
 
 ## Quotes
 
-**Sara:**: I'm not gonna ask.
-**Hodges:**: Really? How disappointing.
-**Sara:**: Not doing it.
-**Hodges:**: I wore it for you.
+**Sara:**: I'm not gonna ask.\
+**Hodges:**: Really? How disappointing.\
+**Sara:**: Not doing it.\
+**Hodges:**: I wore it for you.\
 **Sara:**: ... Fine. What?

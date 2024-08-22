@@ -1,16 +1,16 @@
 ---
 title: Movie City News
 date: 2007-05-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: What's happening now
-newsauthor: Movie City News
+newsreporter: Movie City News
 newssource: Movie City News
-newsurl: http://www.moviecitynews.com
+newsurl: https://www.moviecitynews.com
 
 ---
 

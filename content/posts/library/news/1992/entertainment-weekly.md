@@ -1,15 +1,15 @@
 ---
 title: Entertainment Weekly
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1992/:title/
 categories: ["Articles", "News"]
 tags: ["1992"]
 newstitle: "Summer Stories: The Mall"
 date: 1992-03-13
-newsauthor: Ken Tucker
+newsreporter: Ken Tucker
 newssource: Entertainment Weekly
-newsurl: http://www.ew.com/ew/article/0,,309807,00.html
+newsurl: https://www.ew.com/ew/article/0,,309807,00.html
 ---
 
 Here's something different and ambitious from ABC's Afterschool Specials series: its first miniseries. For the next three weeks, **Summer Stories: The Mall** will dole out tales of teens laboring in a suburban mall. (The Mall was filmed at the Nanuet Mall in Rockland County, N.Y.)

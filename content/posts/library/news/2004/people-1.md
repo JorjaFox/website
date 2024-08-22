@@ -1,15 +1,15 @@
 ---
 title: People Magazine
 date: 2004-01-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Blue Crush"
-newsauthor: Staff
+newsreporter: Staff
 newssource: People Magazine
-newsurl: http://people.com
+newsurl: https://people.com
 
 ---
 

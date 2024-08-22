@@ -1,8 +1,8 @@
 ---
 title: CTV eTalkDaily
-author: David Masters
+transcriber: David Masters
 layout: transcript
-interviewurl: http://www.ctv.ca
+interviewurl: https://www.ctv.ca
 date: 2006-04-13
 permalink: /transcript/2006/:title/
 categories: [ "Interviews" ]

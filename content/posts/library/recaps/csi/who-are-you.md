@@ -29,12 +29,12 @@ Sara and Warrick work the police shooting. At first, Sara is sympathetic towards
 
 ## Quotes
 
-**Sara:** I drive.
+**Sara:** I drive.\
 **Warrick:** Picture that.
 
 - - -
 
-**Warrick:** I don't give a damn what Brass likes.
+**Warrick:** I don't give a damn what Brass likes.\
 **Sara:** Like I do? If Tyner's dirty, he goes down. I just know what happens when you piss off the P.D.
 
 - - -
@@ -43,6 +43,6 @@ Sara and Warrick work the police shooting. At first, Sara is sympathetic towards
 
 - - -
 
-**Sara:** You think the bullet's somewhere in the jeep.
-**Warrick:** It's not in the body. It's not at the crime scene. I like our odds.
+**Sara:** You think the bullet's somewhere in the jeep.\
+**Warrick:** It's not in the body. It's not at the crime scene. I like our odds.\
 **Sara:** Let's do it.

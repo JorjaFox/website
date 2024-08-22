@@ -1,15 +1,15 @@
 ---
 title: TV Line
 date: 2015-09-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "CSI Finale Preview: Grissom and Sidle's 'Awkward' Reunion, MIA Nick and More"
-newsauthor: Rebecca Iannucci
+newsreporter: Rebecca Iannucci
 newssource: TV Line
-newsurl: http://tvline.com/2015/09/17/csi-series-finale-spoilers-grissom-sidle-relationship/
+newsurl: https://tvline.com/2015/09/17/csi-series-finale-spoilers-grissom-sidle-relationship/
 
 ---
 

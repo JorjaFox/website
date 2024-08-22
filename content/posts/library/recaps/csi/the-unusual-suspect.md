@@ -20,7 +20,7 @@ prodnum: 618
 
 What is known is that there were fake 'out of order' signs in the girls' locker room, and the only non-labeled showerhead was packed with sodium, so that it exploded when Stacy used it. The explosion was big enough to cut Stacy, and she grabbed the shower curtain and ran off. In her panic, she fell down a flight of stairs and cracked her head open. The body was dragged to the flower bed, and Stacy's car was left outside her boyfriend house, Scott Baird.
 
-In an earlier confessional, Marlon explained that he hated Stacy, though everyone else at the school adored her. Hannah also disliked Stacy, mostly because Stacy harassed Hannah, who threw off the grading curve. Stacy pranked Hannah a couple times, before enlisting Scott to encourage Hannah to come to the Spring Formal and give her a dress from Stacy. At the dance, wearing the dress, the words 'FLAT' and 'Rainbow Party!' were written in ink that only showed up under the black light of the dance. Pictures were taken and Hannah was embarrassed on [http://www.myspace.com MySpace].
+In an earlier confessional, Marlon explained that he hated Stacy, though everyone else at the school adored her. Hannah also disliked Stacy, mostly because Stacy harassed Hannah, who threw off the grading curve. Stacy pranked Hannah a couple times, before enlisting Scott to encourage Hannah to come to the Spring Formal and give her a dress from Stacy. At the dance, wearing the dress, the words 'FLAT' and 'Rainbow Party!' were written in ink that only showed up under the black light of the dance. Pictures were taken and Hannah was embarrassed on [www.myspace.com MySpace].
 
 The blood found on Hannah's shirt was her own, but the soil matched the flower garden. Nick and Sara explore the house while Sofia talks to the parents. The parents obviously prefer Hannah, to the point they ignore her brother. The siblings share the bathroom where Stacy's hair was found, and while Marlon's room has no evidence, Hannah's has her award winning science fair project on elemental sodium.
 
@@ -40,6 +40,6 @@ Sara, a smart girl and the odd one out at her school, sympathizes with Hannah, a
 
 ## Quotes
 
-**Sara:** _(reading what was written on Hannah's dress)_ Rainbow party?
-**Nick:** Yeah, it's a party game where the boys get the girls to wear different colored lip sticks while they have oral sex. The boy with the most colors wins. It's supposed to be trendy.
+**Sara:** _(reading what was written on Hannah's dress)_ Rainbow party?\
+**Nick:** Yeah, it's a party game where the boys get the girls to wear different colored lip sticks while they have oral sex. The boy with the most colors wins. It's supposed to be trendy.\
 **Sara:** So much for spin the bottle.

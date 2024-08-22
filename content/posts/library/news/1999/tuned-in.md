@@ -1,15 +1,15 @@
 ---
 title: Tuned In
 date: 1999-07-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: UPN schedule plays to men with WWF wrestling
-newsauthor: Rob Owen
+newsreporter: Rob Owen
 newssource: Post-Gazette Publishing
-newsurl: http://www.post-gazette.com
+newsurl: https://www.post-gazette.com
 
 ---
 PASADENA, CALIF. - TV critics can be an unforgiving lot, but UPN's fall schedule makes compassion tough to muster.

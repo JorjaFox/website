@@ -1,9 +1,9 @@
 ---
 title: VegTV (25 August 2007)
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-08-25
-interviewurl: http://www.vegtv.com
+interviewurl: https://www.vegtv.com
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
 tags: [ "2007" ]

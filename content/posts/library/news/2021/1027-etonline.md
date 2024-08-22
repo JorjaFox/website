@@ -1,12 +1,12 @@
 ---
 title: "ET Online"
 date: 2021-10-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "'CSI' Creator on the Magic of Reuniting With William Petersen and Jorja Fox on 'Vegas' Revival (Exclusive)"
-newsauthor: "Phillipa Ng"
+newsreporter: "Phillipa Ng"
 newssource: "ET"
 newsurl: https://www.etonline.com/csi-creator-on-the-magic-of-reuniting-with-william-petersen-and-jorja-fox-on-vegas-revival
 ---

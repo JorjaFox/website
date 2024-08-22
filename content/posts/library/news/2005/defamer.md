@@ -1,16 +1,16 @@
 ---
 title: Defamer
 date: 2005-01-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Hollywood Privacy Watch: Leonardo DiCaprio Eats Soup"
-newsauthor: Mark
+newsreporter: Mark
 newssource: Defamer
-newsurl: http://defamer.com/hollywood/diary/hollywood-privacywatch-leonardo-dicaprio-eats-soup-31235.php
+newsurl: https://defamer.com/hollywood/diary/hollywood-privacywatch-leonardo-dicaprio-eats-soup-31235.php
 
 ---
 [...]

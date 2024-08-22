@@ -4,9 +4,8 @@ title: "The Kill-Off"
 categories: ["Filmography"]
 tags: ["movies"]
 slug: "kill-off"
-gallery: https://jorjafox.net/gallery/movies/kill-off/
 imdb: https://www.imdb.com/title/tt0097665/
-image: /img/actors/the-kill-off.jpg
+actorimage: /img/actors/the-kill-off.jpg
 ---
 
 ## Synopsis

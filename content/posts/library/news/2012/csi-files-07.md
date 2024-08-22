@@ -1,16 +1,16 @@
 ---
 title: CSI Files
 date: 2012-01-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "'CSI Cast & Crew Say Goodbye To Helgenberger  "
-newsauthor: Shane S. Saunders
+newsreporter: Shane S. Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2012/01/csi-cast-crew-say-goodbye-to-helgenberger/
+newsurl: https://www.csifiles.com/content/2012/01/csi-cast-crew-say-goodbye-to-helgenberger/
 
 ---
 
@@ -18,8 +18,10 @@ Tonight, "'Marg Helgenberger"s"' run as sexy, smart, and sassy crime scene inves
 
 [...]
 
-> What I"m going to miss most about Marg is her laugh. It"s bold, authentic, and very contagious. I plan to hang out with her often off the set to get my fix. I love ya, Marg. Who"s gonna laugh at my jokes now????
+{{< blockquote >}}
+What I"m going to miss most about Marg is her laugh. It"s bold, authentic, and very contagious. I plan to hang out with her often off the set to get my fix. I love ya, Marg. Who"s gonna laugh at my jokes now????
 
 "'-- Jorja Fox"' (Sara Sidle)
+{{< /blockquote >}}
 
 [...]

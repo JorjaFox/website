@@ -1,16 +1,16 @@
 ---
 title: Emmy Magazine
 date: 2009-03-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: 'Paging All Staff! Stat! A Look Back at "ER"'
-newsauthor: Neal Baer
+newsreporter: Neal Baer
 newssource: Emmy Magazine
-newsurl: http://cdn.emmys.tv/emmymag/eex-09mar-er2-singl.php
+newsurl: https://cdn.emmys.tv/emmymag/eex-09mar-er2-singl.php
 
 ---
 

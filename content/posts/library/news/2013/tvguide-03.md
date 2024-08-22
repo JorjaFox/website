@@ -1,16 +1,16 @@
 ---
 title: TV Guide Magazine
 date: 2013-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "CSI: Catherine and Sara INTERROGATED  "
-newsauthor: Craig Tomashoff
+newsreporter: Craig Tomashoff
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com/
+newsurl: https://www.tvguidemagazine.com/
 
 ---
 
@@ -26,7 +26,7 @@ Meanwhile, both Nick Stokes (George Eads) and Ray Langston (Laurence Fishburne) 
 
 The case may also be just the thing to bring the team together and feeling like a family again. "We were out of our rhythm a bit last year," says Eads. "We needed to go back to the garage and find what inspired us, and there's some good stuff with what's happening on the show now."
 
-That starts with the return of Fox, whose departure two seasons ago "felt like we lost our lead guitarist," Eads adds. So, as *CSI* tunes up for its 10th season, **TV GUIDE MAGAZINE** sat down with Fox and Helgenberger to ask them questions send in by fans on [http://tvguidemagazine.com tvguidemagazine.com], and found out how the team is getting its mojo back.
+That starts with the return of Fox, whose departure two seasons ago "felt like we lost our lead guitarist," Eads adds. So, as *CSI* tunes up for its 10th season, **TV GUIDE MAGAZINE** sat down with Fox and Helgenberger to ask them questions send in by fans on [tvguidemagazine.com tvguidemagazine.com], and found out how the team is getting its mojo back.
 
 - - -
 

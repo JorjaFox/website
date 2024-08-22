@@ -1,16 +1,16 @@
 ---
 title: MSNBC
 date: 2005-10-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "CSI Crime File - Oct. 13"
-newsauthor: Staff
+newsreporter: Staff
 newssource: MSNBC
-newsurl: http://msnbc.com
+newsurl: https://msnbc.com
 
 ---
 **The ABCs of 'CSI': Who's dead, who dun it and who solved it.**

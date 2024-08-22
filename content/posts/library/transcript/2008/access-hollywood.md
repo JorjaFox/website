@@ -1,9 +1,9 @@
 ---
 title: Access Hollywood
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-05-04
-interviewurl: http://www.accesshollywood.com
+interviewurl: https://www.accesshollywood.com
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
 tags: [ "2008" ]

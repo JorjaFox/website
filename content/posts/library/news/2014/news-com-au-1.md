@@ -1,15 +1,15 @@
 ---
 title: News.com.au
 date: 2014-06-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "I got it so wrong on CSI, says Jorja Fox as Crime Scene Investigation celebrates 14 seasons"
-newsauthor: Darren Devlyn
+newsreporter: Darren Devlyn
 newssource: news.com.au
-newsurl: http://www.news.com.au/entertainment/tv/i-got-it-so-wrong-on-csi-says-jorja-fox-as-crime-scene-investigation-celebrates-14-seasons/story-e6frfmyi-1226957088333
+newsurl: https://www.news.com.au/entertainment/tv/i-got-it-so-wrong-on-csi-says-jorja-fox-as-crime-scene-investigation-celebrates-14-seasons/story-e6frfmyi-1226957088333
 
 ---
 

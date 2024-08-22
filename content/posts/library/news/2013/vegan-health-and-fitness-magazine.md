@@ -1,16 +1,16 @@
 ---
 title: Vegan Health and Fitness Magazine
 date: 2013-06-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Cover Story - How I Became an Elephant: The Movie  "
-newsauthor: Brenda Carey
+newsreporter: Brenda Carey
 newssource: Vegetarian Health and Fitness Magazine
-newsurl: http://www.vhfmag.com
+newsurl: https://www.vhfmag.com
 
 ---
 

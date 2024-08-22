@@ -1,14 +1,14 @@
 ---
 title: Jezebel Magazine
 date: 2001-08-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
-newsauthor: Jorja Fox
+newsreporter: Jorja Fox
 newssource: Jezebel Magazine
-newsurl: http://www.jezweb.com/
+newsurl: https://www.jezweb.com/
 newstitle: Celebrity Questionnaire
 ---
 "Note: Jorja Fox's answers were hand written, and spelling errors were not corrected."

@@ -4,8 +4,8 @@ layout: self
 author: "Mika A. Epstein"
 categories: ["Filmography"]
 tags: ["Mini Series"]
-website: http://www.vh1.com/shows/i_love_the_70s/series.jhtml
-imdb: http://www.imdb.com/title/tt0377192/
+website: https://www.vh1.com/shows/i_love_the_70s/series.jhtml
+imdb: https://www.imdb.com/title/tt0377192/
 
 ---
 

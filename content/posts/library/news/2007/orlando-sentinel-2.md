@@ -1,16 +1,16 @@
 ---
 title: Orlando Sentinel
 date: 2007-11-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "A terrific 'CSI': Sara Sidle leaves in classic style  "
-newsauthor: Hal Boedecker
+newsreporter: Hal Boedecker
 newssource: Orlando Sentinel
-newsurl: http://blogs.orlandosentinel.com/entertainment\_tv\_tvblog/2007/11/a-terrific-csi-.html
+newsurl: https://blogs.orlandosentinel.com/entertainment\_tv\_tvblog/2007/11/a-terrific-csi-.html
 
 ---
 Jorja Fox's Sara Sidle leaves "CSI" Thursday night. No matter how you feel about that development, the episode is tremendous. All actors who depart long-running series should receive such heartfelt, memorable sendoffs.

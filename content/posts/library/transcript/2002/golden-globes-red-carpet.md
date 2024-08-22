@@ -1,9 +1,9 @@
 ---
 title: Golden Globes Red Carpet
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-01-20
-interviewurl: http://www.eonline.com/
+interviewurl: https://www.eonline.com/
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
 tags: ["2002"]

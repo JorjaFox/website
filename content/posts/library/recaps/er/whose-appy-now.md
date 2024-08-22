@@ -30,15 +30,15 @@ Yet again, Carter and Doyle's friendly rivalry rears its head, as the two clash 
 
 ## Quotes
 
-**Maggie:** My dad's a cop. We talk ammunition at the dinner table.
-**Carter:** Really?
+**Maggie:** My dad's a cop. We talk ammunition at the dinner table.\
+**Carter:** Really?\
 **Maggie:** You should see my gun collection.
 
 ---
 
-**Carter:** What are you doing?
-**Maggie:** Practicing one-handed sutures.
-**Carter:** What's that?
-**Maggie:** It's an eggplant.
-**Carter:** They run out of pigs' feet?
+**Carter:** What are you doing?\
+**Maggie:** Practicing one-handed sutures.\
+**Carter:** What's that?\
+**Maggie:** It's an eggplant.\
+**Carter:** They run out of pigs' feet?\
 **Maggie:** I'm a vegetarian.

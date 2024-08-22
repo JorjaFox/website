@@ -1,16 +1,16 @@
 ---
 title: NY Daily News
 date: 2007-09-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' star Jorja Fox is off the case"
-newsauthor: NY Daily News
+newsreporter: NY Daily News
 newssource: NY Daily News
-newsurl: http://www.nydailynews.com/
+newsurl: https://www.nydailynews.com/
 
 ---
 

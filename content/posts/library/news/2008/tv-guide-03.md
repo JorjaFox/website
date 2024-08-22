@@ -1,15 +1,15 @@
 ---
 title: TV Guide - Ausiello Report
 date: 2008-05-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 newstitle: "Exclusive: Jorja Fox Returning to 'CSI'!  "
-newsauthor: Michael Ausiello & Carita Rizzo
+newsreporter: Michael Ausiello & Carita Rizzo
 newssource: TV Guide - Ausiello Report
-newsurl: http://community.tvguide.com/blog-entry/TVGuide-Editors-Blog/Ausiello-Report/Ausiello-Scoop-Jorja/800040233
+newsurl: https://community.tvguide.com/blog-entry/TVGuide-Editors-Blog/Ausiello-Report/Ausiello-Scoop-Jorja/800040233
 ---
 
 "CSI" boss Carol Mendelsohn wasn't pulling my leg when she told me last October that we haven't seen the last of Sara Sidle. Sources confirm that Jorja Fox has inked a deal to return for the show's ninth-season premiere next fall.

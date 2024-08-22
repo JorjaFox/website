@@ -1,9 +1,9 @@
 ---
 title: CBS Live Chat
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-02-20
-interviewurl: http://cbs.com/
+interviewurl: https://cbs.com/
 permalink: /transcript/2013/:title/
 categories: ["Interviews"]
 tags: [ "2013" ]
@@ -13,7 +13,7 @@ tags: [ "2013" ]
 
 Q - @ThatIsNotAnExit
 
-@CSI_CBS We've made a message page to jorja so were wondering if there's a way she could get the link? It's http://weloveyoujorjafox.tumblr.com/ #askjorja
+@CSI_CBS We've made a message page to jorja so were wondering if there's a way she could get the link? It's https://weloveyoujorjafox.tumblr.com/ #askjorja
 
 A - @CSI_CBS
 
@@ -107,7 +107,7 @@ What are your favorite things to do on your days off? Also just a note I love/ap
 
 A - @CSI_CBS
 
-.@keskt I'm producing a play in NYC right now. http://Foreverdusty.com . Loving it. Here's to Pat Derby at PAWS. RIP. #CSI
+.@keskt I'm producing a play in NYC right now. https://Foreverdusty.com . Loving it. Here's to Pat Derby at PAWS. RIP. #CSI
 
 Q - @S00000PHIE
 

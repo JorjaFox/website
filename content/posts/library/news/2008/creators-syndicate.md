@@ -1,16 +1,16 @@
 ---
 title: Creators Syndicate
 date: 2008-03-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Ask Stacy  "
-newsauthor: Marilyn Beck and Stacy Jenel Smith
+newsreporter: Marilyn Beck and Stacy Jenel Smith
 newssource: Creators Syndicate
-newsurl: http://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-03-08.html
+newsurl: https://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-03-08.html
 
 ---
 

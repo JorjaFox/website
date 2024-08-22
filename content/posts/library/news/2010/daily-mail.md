@@ -1,16 +1,16 @@
 ---
 title: Daily Mail
 date: 2010-07-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "The Twitchhiker: The amazing story of how Paul Smith travelled the world for free using only Twitter  "
-newsauthor: Paul Smith
+newsreporter: Paul Smith
 newssource: Daily Mail
-newsurl: http://www.dailymail.co.uk/news/article-1293636/The-Twitchhiker-The-amazing-story-Paul-Smith-travelled-world-free-using-Twitter.html
+newsurl: https://www.dailymail.co.uk/news/article-1293636/The-Twitchhiker-The-amazing-story-Paul-Smith-travelled-world-free-using-Twitter.html
 
 ---
 

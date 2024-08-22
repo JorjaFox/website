@@ -1,9 +1,9 @@
 ---
 title: The Early Show
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2001-04-26
-interviewurl: http://www.cbsnews.com/latest/the-early-show/
+interviewurl: https://www.cbsnews.com/latest/the-early-show/
 permalink: /transcript/2001/:title/
 categories: ["Interviews"]
 tags: ["2001"]

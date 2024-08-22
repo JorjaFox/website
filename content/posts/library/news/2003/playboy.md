@@ -1,15 +1,15 @@
 ---
 title: Playboy
 date: 2003-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 categories: [News, Articles]
 tags: ["2003"]
 permalink: /news/2003/:title/
 newstitle: "Playboy's 20 Q"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Playboy Magazine
-newsurl: http://www.playboy.com/
+newsurl: https://www.playboy.com/
 
 ---
 

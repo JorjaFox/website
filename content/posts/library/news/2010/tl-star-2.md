@@ -1,17 +1,16 @@
 ---
 title: TeLe Star
 date: 2010-08-23
-author: Angela
+transcriber: Angela
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Jorja Fox 'I hesitated to re-sign'"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TeLe Star
-newsurl: http://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html
-
+newsurl: https://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html
 
 ---
 
@@ -51,5 +50,8 @@ newsurl: http://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hes
 
 **J.F.:** True. This will be an important year for the character of Marg! And there are great chances that we might see Grissom.
 
-> **Female solidarity ineffective**
-> After William Petersen (Grissom) and Marg Helgenberger (Catherine Willows), it is time for the character of Wendy Simms (one of the heroines often confined to the laboratory) to disappear from the series. Liz Vassey has indeed been thanked by the production. It's a great dissapointment to Jorja Fox: "I am very disappointed. Liz, Marg and I were the only heroines. We wanted to look for more women, it's sad."
+{{< blockquote >}}
+**Female solidarity ineffective**
+
+After William Petersen (Grissom) and Marg Helgenberger (Catherine Willows), it is time for the character of Wendy Simms (one of the heroines often confined to the laboratory) to disappear from the series. Liz Vassey has indeed been thanked by the production. It's a great dissapointment to Jorja Fox: "I am very disappointed. Liz, Marg and I were the only heroines. We wanted to look for more women, it's sad."
+{{< /blockquote >}}

@@ -1,15 +1,15 @@
 ---
 title: TV Line
 date: 2015-09-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "'CSI' Series Finale Trailer Touts Sidle and Grissom's Emotional Reunion"
-newsauthor: Andy Swift
+newsreporter: Andy Swift
 newssource: TV Line
-newsurl: http://tvline.com/2015/09/14/csi-series-finale-trailer-video-sidle-grissom-reunion/
+newsurl: https://tvline.com/2015/09/14/csi-series-finale-trailer-video-sidle-grissom-reunion/
 
 ---
 

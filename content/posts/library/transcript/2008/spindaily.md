@@ -1,9 +1,9 @@
 ---
 title: SpinDaily
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-02-04
-interviewurl: http://www.spindaily.com/content/view/315/1/
+interviewurl: https://www.spindaily.com/content/view/315/1/
 permalink: /transcript/2008/:title/
 categories: ["Interviews"]
 tags: [ "2008" ]

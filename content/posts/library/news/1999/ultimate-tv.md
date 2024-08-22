@@ -1,15 +1,15 @@
 ---
 title: Ultimate TV
 date: 1999-02-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: "ER's Fox Set to Lead New UPN Drama"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Ultimate TV (now Zap2It.com)
-newsurl: http://www.zap2it.com
+newsurl: https://www.zap2it.com
 
 ---
 

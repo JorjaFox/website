@@ -30,17 +30,17 @@ Sara, Nick and Greg arrive at the scene; Greg is carrying Sara's kit. Sara is a 
 
 ## Quotes
 
-**Greg:** So, when he asks if anybody has any questions, he's not really asking?
+**Greg:** So, when he asks if anybody has any questions, he's not really asking?\
 **Sara:** _(smiles)_ Well, I don't know much about roller coaster accidents, but in auto collisions, the victims found furthest away from the car usually weren't wearing a seat belt. That'd be my bet.
 
 - - -
 
-**Sara:** 'A Turn of the Screw' isn't really a horror story. It's more of a mystery. Did the governess kill the little boy, or did the ghost do it?
+**Sara:** 'A Turn of the Screw' isn't really a horror story. It's more of a mystery. Did the governess kill the little boy, or did the ghost do it?\
 **Grissom:** Well, it's only a mystery if you believe in ghosts.
 
 - - -
 
-**Sara:** What? Sex on a rollercoaster?
+**Sara:** What? Sex on a rollercoaster?\
 **Greg:** Or some kid shaking hands with Shorty.
 
 - - -
@@ -49,7 +49,7 @@ Sara, Nick and Greg arrive at the scene; Greg is carrying Sara's kit. Sara is a 
 
 - - -
 
-**Hodges:** Your killer has a rash.
+**Hodges:** Your killer has a rash.\
 **Sara:** And we need to catch it.
 
 - - -

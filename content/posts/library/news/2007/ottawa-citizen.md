@@ -1,16 +1,16 @@
 ---
 title: Ottawa Citizen
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "At the end of the day, CSI makes a nice, mind-numbing formula  "
-newsauthor: Alex Strachan
+newsreporter: Alex Strachan
 newssource: Ottawa Citizen
-newsurl: http://www.canada.com/ottawacitizen/news/story.html?id=25dfb6a3-be7e-41f4-aa93-f7a77848176b
+newsurl: https://www.canada.com/ottawacitizen/news/story.html?id=25dfb6a3-be7e-41f4-aa93-f7a77848176b
 
 ---
 CSI is a curiosity. Long before the popular procedural drama became TV's most-watched crime show, it bucked TV convention. CSI debuted on the same night and the same network as a slick, glossy remake of The Fugitive, one of TV's most respected and fondly remembered classics. The conventional wisdom was that The Fugitive remake, starring a dashing Tim Daly, would be a hit, and CSI would be lucky if it played out the string for a season or two.

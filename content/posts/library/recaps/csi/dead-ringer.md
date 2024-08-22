@@ -29,13 +29,13 @@ Sara takes part in the police relay marathon, and hugs Greg when she finishes he
 
 ## Quotes
 
-**Warrick:** What happened? Break the bad news to the wife?
-**Sara:** Oh, I didn't have to.
-**Warrick:** Women always know, huh?
-**Sara:** Not always.
-**Warrick:** I think so. Women always know when the man is straying.
-**Sara:** What are you, the voice of experience?
-**Warrick:** _(laughing)_ No. I'm a really nice guy.
+**Warrick:** What happened? Break the bad news to the wife?\
+**Sara:** Oh, I didn't have to.\
+**Warrick:** Women always know, huh?\
+**Sara:** Not always.\
+**Warrick:** I think so. Women always know when the man is straying.\
+**Sara:** What are you, the voice of experience?\
+**Warrick:** _(laughing)_ No. I'm a really nice guy.\
 **Sara:** Oh, I believe you.
 
 - - -
@@ -48,14 +48,14 @@ Sara takes part in the police relay marathon, and hugs Greg when she finishes he
 
 - - -
 
-**Warrick:** Well, someone was pissed. This is, like, a two, three hundred La Perle nightie, ripped to shreds.
-**Sara:** _(sarcastic)_ Oh, looks comfortable.
+**Warrick:** Well, someone was pissed. This is, like, a two, three hundred La Perle nightie, ripped to shreds.\
+**Sara:** _(sarcastic)_ Oh, looks comfortable.\
 **Warrick:** It's not designed to stay on that long.
 
 - - -
 
-**Sara:** How could you know that if the only part you know is his body?
-**Lopez** Pedestal's a little high, don't you think?
+**Sara:** How could you know that if the only part you know is his body?\
+**Lopez** Pedestal's a little high, don't you think?\
 **Sara:** Your best friend, your lover are dead. What do you expect me to think?
 
 - - -

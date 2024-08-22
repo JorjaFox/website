@@ -1,16 +1,16 @@
 ---
 title: TV Guide Online
 date: 2007-10-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Ausiello on Lost, Buffy, Heroes, ER and More!  "
-newsauthor: Michael Ausiello
+newsreporter: Michael Ausiello
 newssource: TV Guide Online (Ask Ausiello)
-newsurl: http://www.tvguide.com/Ask-Ausiello/071107
+newsurl: https://www.tvguide.com/Ask-Ausiello/071107
 
 ---
 [...]

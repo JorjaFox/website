@@ -1,16 +1,16 @@
 ---
 title: The Hollywood Reporter
 date: 2011-07-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "'CSI': Jorja Fox Back as Series Regular  "
-newsauthor: Lesley Goldberg
+newsreporter: Lesley Goldberg
 newssource: The Hollywood Reporter
-newsurl: http://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517
+newsurl: https://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517
 
 ---
 

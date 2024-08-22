@@ -1,16 +1,16 @@
 ---
 title: The Official CSI Magazine
 date: 2008-09-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Sara 'Sidles' Back!"
-newsauthor: Bryan Cairns
+newsreporter: Bryan Cairns
 newssource: The Official CSI Magazine
-newsurl: http://www.titanmagazines.com/app?service=external/Product&sp=l1075
+newsurl: https://www.titanmagazines.com/app?service=external/Product&sp=l1075
 
 ---
 

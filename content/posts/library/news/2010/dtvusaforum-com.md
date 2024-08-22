@@ -1,16 +1,16 @@
 ---
 title: DTVUSAForum.com
 date: 2010-12-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "The Grissoms Get Centerstage on 'CSI'  "
-newsauthor: Orrymain
+newsreporter: Orrymain
 newssource: DTVUSAForum.co
-newsurl: http://www.dtvusaforum.com/content/469-grissoms-get-centerstage-csi.html
+newsurl: https://www.dtvusaforum.com/content/469-grissoms-get-centerstage-csi.html
 
 ---
 

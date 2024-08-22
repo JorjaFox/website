@@ -1,15 +1,15 @@
 ---
 title: TV Guide Magazine
 date: 2014-09-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Returning Favorites: CSI"
-newsauthor: Michael Logan
+newsreporter: Michael Logan
 newssource: TV Guide Magazine
-newsurl: http://tvguidemagazine.com
+newsurl: https://tvguidemagazine.com
 
 ---
 

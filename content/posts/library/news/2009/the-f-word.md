@@ -1,16 +1,16 @@
 ---
 title: The F-Word
 date: 2009-02-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Grissom & Sara  "
-newsauthor: Bill Savage
+newsreporter: Bill Savage
 newssource: The F-Word
-newsurl: http://www.thefword.org.uk/blog/2009/02/grissom_sara
+newsurl: https://www.thefword.org.uk/blog/2009/02/grissom_sara
 
 ---
 

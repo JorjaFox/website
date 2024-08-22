@@ -1,16 +1,16 @@
 ---
 title: The Courier-Mail
 date: 2008-10-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Inauthentic despite wrinkles  "
-newsauthor: Dianne Butler
+newsreporter: Dianne Butler
 newssource: The Courier-Mail
-newsurl: http://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html
+newsurl: https://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html
 
 ---
 

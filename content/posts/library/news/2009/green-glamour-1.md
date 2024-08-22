@@ -1,16 +1,16 @@
 ---
 title: Green With Glamour
 date: 2009-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "Guest Profile - Jorja Fox  "
-newsauthor: Unknown
+newsreporter: Unknown
 newssource: Green With Glamour
-newsurl: http://www.greenwithglamour.com/index.php?main_page=editorial&e=profile&c=jorja_fox
+newsurl: https://www.greenwithglamour.com/index.php?main_page=editorial&e=profile&c=jorja_fox
 
 ---
 

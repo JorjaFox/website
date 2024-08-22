@@ -1,16 +1,16 @@
 ---
 title: Zap2It - Zap 2 News and Buzz
 date: 2011-02-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "'CSI': What did you think of Grissom's return?  "
-newsauthor: Rick Porter
+newsreporter: Rick Porter
 newssource: Zap2It - Zap 2 News & Buzz
-newsurl: http://blog.zap2it.com/frominsidethebox/2011/02/csi-what-did-you-think-of-grissoms-return.html
+newsurl: https://blog.zap2it.com/frominsidethebox/2011/02/csi-what-did-you-think-of-grissoms-return.html
 
 ---
 

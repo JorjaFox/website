@@ -1,15 +1,15 @@
 ---
 title: BTinternet
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1998/:title/
 tags: ["1998"]
 categories: ["Articles", "News"]
 newstitle: Review
 date: 1998-01-01
-newsauthor: staff
+newsreporter: staff
 newssource: btInternet
-newsurl: http://btinternet.com
+newsurl: https://btinternet.com
 ---
 Written for the screen & directed by Maggie Greenwald.
 

@@ -1,16 +1,16 @@
 ---
 title: BuddyTV
 date: 2009-08-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
-newsauthor: Henrik Batallones
+newsreporter: Henrik Batallones
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-sara-gets-five-episodes-as-30312.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-sara-gets-five-episodes-as-30312.aspx
 
 ---
 

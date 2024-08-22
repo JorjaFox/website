@@ -1,9 +1,9 @@
 ---
 title: The Insider
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-10-20
-interviewurl: http://www.theinsider.com
+interviewurl: https://www.theinsider.com
 permalink: /transcript/2010/:title/
 categories: ["Interviews"]
 tags: [ "2010" ]

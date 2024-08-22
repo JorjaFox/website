@@ -1,16 +1,16 @@
 ---
 title: Dawg Sports
 date: 2011-01-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Georgia Bulldogs Basketball Fans, Is Mark Fox Your Favorite Fox?  "
-newsauthor: T Kyle King
+newsreporter: T Kyle King
 newssource: Dawg Sports
-newsurl: http://www.dawgsports.com/2011/1/18/1942206/georgia-bulldogs-basketball-fans-is-mark-fox-your-favorite-fox
+newsurl: https://www.dawgsports.com/2011/1/18/1942206/georgia-bulldogs-basketball-fans-is-mark-fox-your-favorite-fox
 
 ---
 

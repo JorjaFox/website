@@ -34,16 +34,16 @@ Sara works the apartment murder by herself until Warrick is assigned to help her
 
 ## Quotes
 
-**Grissom:** Sara. 419.
-**Sara:** Dead body -- bonus.
+**Grissom:** Sara. 419.\
+**Sara:** Dead body -- bonus.\
 **Catherine:** Whoa, somebody likes their job.
 
 - - -
 
-**Grissom:** Nick [...] 416 [...] She says she knows you.
-**Catherine:** Former girlfriend?
-**Nick:** That depends. Is she the assaulter or the assaulted?
-**Sara:** You tell us -- you like leather or lace?
+**Grissom:** Nick [...] 416 [...] She says she knows you.\
+**Catherine:** Former girlfriend?\
+**Nick:** That depends. Is she the assaulter or the assaulted?\
+**Sara:** You tell us -- you like leather or lace?\
 **Nick:** _(laughs)_ I'm not going to answer that _(turns to leave)_ Lace.
 
 - - -
@@ -52,30 +52,30 @@ Sara works the apartment murder by herself until Warrick is assigned to help her
 
 - - -
 
-**Sara:** I'm going to need you to strip.
-**Kenny** What, right here?
+**Sara:** I'm going to need you to strip.\
+**Kenny** What, right here?\
 **Sara:** Don't be shy on my account. But if you are, this nice detective will accompany you to the bedroom. Oh, and I'm going to need to take your window with me. It's all in the warrant.
 
 - - -
 
-**Sara:** Grissom reinstated you.
-**Warrick:** And you have a problem with that.
-**Sara:** Let me guess. Grissom gets you to dime yourself off and now you both feel better? You're supposed to be in court. Instead, you're placing bets for a cheap thrill to satisfy nothing.
-**Warrick:** Hey! This has nothing to do with you. So are we going to work together, or not?
+**Sara:** Grissom reinstated you.\
+**Warrick:** And you have a problem with that.\
+**Sara:** Let me guess. Grissom gets you to dime yourself off and now you both feel better? You're supposed to be in court. Instead, you're placing bets for a cheap thrill to satisfy nothing.\
+**Warrick:** Hey! This has nothing to do with you. So are we going to work together, or not?\
 **Sara:** I'm already working.
 
 - - -
 
-**Sara:** I'm surprised you didn't tag him as a fellow gambler.
-**Warrick:** You just don't let up.
+**Sara:** I'm surprised you didn't tag him as a fellow gambler.\
+**Warrick:** You just don't let up.\
 **Sara:** _(keeping her back turned to Brown)_ It's a flaw.
 
 - - -
 
-**Warrick:** Oh, so now I'm worthy?
+**Warrick:** Oh, so now I'm worthy?\
 **Sara:** Just take a damn look.
 
 - - -
 
-**Warrick:** Makes you reconsider, doesn't it?
+**Warrick:** Makes you reconsider, doesn't it?\
 **Sara:** I never said you weren't a good CSI.

@@ -1,16 +1,16 @@
 ---
 title: The Detroit News
 date: 2006-08-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "'CSI' faces competition with love  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Detroit News
-newsurl: http://www.detroitnews.com/
+newsurl: https://www.detroitnews.com/
 
 ---
 

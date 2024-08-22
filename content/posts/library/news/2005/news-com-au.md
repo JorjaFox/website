@@ -1,16 +1,16 @@
 ---
 title: NEWS.com.au
 date: 2005-11-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Pulp friction"
-newsauthor: Staff
+newsreporter: Staff
 newssource: NEWS.com.au
-newsurl: http://entertainment.news.com.au
+newsurl: https://entertainment.news.com.au
 
 ---
 [...]

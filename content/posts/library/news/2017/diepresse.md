@@ -1,14 +1,14 @@
 ---
 title: "Die Presse"
 date: 2017-07-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2017"]
 categories: ["Articles", "News"]
 newstitle: "Photography: Naked, stars and wild horses"
-newsauthor: "Teresa Schaur-Wünsch"
+newsreporter: "Teresa Schaur-Wünsch"
 newssource: "Die Presse"
-newsurl: http://diepresse.com/home/leben/mensch/5253828/Fotografie_Nackte-Stars-und-wilde-Pferde
+newsurl: https://diepresse.com/home/leben/mensch/5253828/Fotografie_Nackte-Stars-und-wilde-Pferde
 
 ---
 

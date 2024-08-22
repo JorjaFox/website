@@ -34,8 +34,8 @@ Not much for Sara in this episode. At the warehouse, Sara takes the outside peri
 
 - - -
 
-**Sara:** Hey, guys. What do you make of this piece of bamboo? I found it on the roof.
-**Nick:** Bag it.
+**Sara:** Hey, guys. What do you make of this piece of bamboo? I found it on the roof.\
+**Nick:** Bag it.\
 **Sara:** Funny. Very funny.
 
 - - -
@@ -44,7 +44,7 @@ Not much for Sara in this episode. At the warehouse, Sara takes the outside peri
 
 - - -
 
-**Hodges:** Give me more time -- I'm not a miracle worker.
-**Sara:** Well, that's obvious, Hodges. If you were a miracle worker, you wouldn't be rude.
-**Hodges:** I wasn't being 'rude', I was being 'curt'. 'Rude' would be, ...When I know, you'll know._ _(pause)_ Friends?
+**Hodges:** Give me more time -- I'm not a miracle worker.\
+**Sara:** Well, that's obvious, Hodges. If you were a miracle worker, you wouldn't be rude.\
+**Hodges:** I wasn't being 'rude', I was being 'curt'. 'Rude' would be, ...When I know, you'll know._ _(pause)_ Friends?\
 **Sara:** _(shakes her head, smiling tightly)_ No.

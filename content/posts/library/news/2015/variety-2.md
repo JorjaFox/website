@@ -1,15 +1,15 @@
 ---
 title: Variety (Columns)
 date: 2015-09-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "'CSI' Finally Becomes a Chalk Outline With Series Finale (SPOILERS)"
-newsauthor: Brian Lowry
+newsreporter: Brian Lowry
 newssource: Variety
-newsurl: http://variety.com/2015/tv/columns/csi-series-finale-review-william-petersen-cbs-spoilers-1201603466/
+newsurl: https://variety.com/2015/tv/columns/csi-series-finale-review-william-petersen-cbs-spoilers-1201603466/
 
 ---
 

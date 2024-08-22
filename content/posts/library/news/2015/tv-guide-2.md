@@ -1,15 +1,15 @@
 ---
 title: TV Guide Magazine
 date: 2015-08-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: Final Investigation
-newsauthor: Michael Logan
+newsreporter: Michael Logan
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com/sneak-peek-2015-heroes-reborn/
+newsurl: https://www.tvguidemagazine.com/sneak-peek-2015-heroes-reborn/
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: The Herald
 date: 2007-05-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Poll position"
-newsauthor: The Herald
+newsreporter: The Herald
 newssource: The Herald
-newsurl: http://www.theherald.co.uk/
+newsurl: https://www.theherald.co.uk/
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: CSI Season 3 DVD extras
 date: 2003-07-01
-author: David Masters
+transcriber: David Masters
 layout: transcript
-interviewurl: http://www.cbs.com
+interviewurl: https://www.cbs.com
 permalink: /transcript/2003/:title/
 categories: ["Interviews"]
 tags: [ "2003" ]

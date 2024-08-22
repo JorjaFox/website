@@ -5,8 +5,7 @@ categories: ["Filmography"]
 tags: ["movies"]
 slug: "3-weeks-to-daytona"
 imdb: https://www.imdb.com/title/tt1857605/
-gallery: https://jorjafox.net/gallery/movies/3weekstodaytona/
-image: /img/actors/3-weeks-daytona.jpg
+actorimage: /img/actors/3-weeks-daytona.jpg
 ---
 
 ## Recap

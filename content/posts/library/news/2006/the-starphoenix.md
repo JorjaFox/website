@@ -1,16 +1,16 @@
 ---
 title: The StarPhoenix
 date: 2006-06-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Pop culture plays a role in what we name our kids  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The StarPhoenix
-newsurl: http://www.canada.com/saskatoonstarphoenix/news/story.html?id=aead3433-f4b1-4712-9180-c966ad906212
+newsurl: https://www.canada.com/saskatoonstarphoenix/news/story.html?id=aead3433-f4b1-4712-9180-c966ad906212
 
 ---
 

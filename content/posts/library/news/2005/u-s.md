@@ -1,16 +1,16 @@
 ---
 title: U.S. Newswire
 date: 2005-11-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Famous Friends of Farm Animals Daryl Hannah and Jorja Fox Celebrate Thanksgiving by Feeding a Turkey Rather Than Eating One!  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: U.S. Newswire
-newsurl: http://www.usnewswire.com/
+newsurl: https://www.usnewswire.com/
 
 ---
 On Nov. 19, Animal Acres, LA's newly opened farm animal sanctuary, will celebrate Thanksgiving with a unique celebration called the "Feed A Turkey Ceremony" at the sanctuary in Acton, Calif.
@@ -23,4 +23,4 @@ In addition to nine rescued turkeys, the Animal Acres sanctuary is also home to 
 
 The Animal Acres "Feed A Turkey" celebration hopes to teach people that farm animals are living sentient animals who deserve protection, and kindness, too. Most states specifically exclude farm animals from anti-cruelty laws. There are no federal laws to protect farm animals from abuse. As a result, farm animals in the United States are raised, transported and slaughtered in conditions considered so cruel they have been banned in other countries.
 
-The sanctuary is directed by Lorri Bauston who co-founded the nation's first shelter for farm animals in 1986. Considered to be the pioneer of the farm animal sanctuary movement, Bauston has helped establish dozens of sanctuaries around the country and her efforts have been featured in several documentaries. For more information please visit http://www.animalacres.org or call 661- 269-0986.
+The sanctuary is directed by Lorri Bauston who co-founded the nation's first shelter for farm animals in 1986. Considered to be the pioneer of the farm animal sanctuary movement, Bauston has helped establish dozens of sanctuaries around the country and her efforts have been featured in several documentaries. For more information please visit https://www.animalacres.org or call 661- 269-0986.

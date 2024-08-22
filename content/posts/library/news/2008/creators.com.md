@@ -1,16 +1,16 @@
 ---
 title: Creators.com
 date: 2008-04-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Hollywood Exclusive by Marilyn Beck & Stacy Jenel Smith  "
-newsauthor: Marilyn Beck & Stacy Jenel Smith
+newsreporter: Marilyn Beck & Stacy Jenel Smith
 newssource: Creators.com
-newsurl: http://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-04-05.html
+newsurl: https://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-04-05.html
 
 ---
 

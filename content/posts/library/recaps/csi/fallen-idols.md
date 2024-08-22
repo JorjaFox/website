@@ -35,13 +35,13 @@ At the end of the episode, Grissom has his beard shaved off by Sara.
 
 ## Quotes
 
-**Sara:** You know, when I was in college, I had this boyfriend, and I thought we were monogamous. One night during the post-coital panty search, he handed me a pair of underwear that wasn't mine.
-**Warrick:** Oof. How'd he explain that one?
-**Sara:** He said they belonged to his sister.
-**Warrick:** Yeah right.
+**Sara:** You know, when I was in college, I had this boyfriend, and I thought we were monogamous. One night during the post-coital panty search, he handed me a pair of underwear that wasn't mine.\
+**Warrick:** Oof. How'd he explain that one?\
+**Sara:** He said they belonged to his sister.\
+**Warrick:** Yeah right.\
 **Sara:** I know.
 
 - - -
 
-**Sara:** _(holding straight razor)_ You trust me?
+**Sara:** _(holding straight razor)_ You trust me?\
 **Grissom:** _(all lathered up)_ Intimately.

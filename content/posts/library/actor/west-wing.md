@@ -5,8 +5,7 @@ description: "Secret Service Agent Gina Toscano has the toughest job of all: pro
 categories: ["Filmography"]
 tags: ["Television"]
 imdb: https://www.imdb.com/title/tt0200276/
-gallery: https://jorjafox.net/gallery/tv/westwing/
-image: /img/actors/west-wing.jpg
+actorimage: /img/actors/west-wing.jpg
 episodelist: true
 slug: west-wing
 thumbnail:
@@ -23,4 +22,4 @@ Gina attended University of Virginia (studying Criminology), and was in the Army
 
 ## See Also
 
-* [The West Wing Episodes](/library/actor/west-wing-episodes/)
+* [The West Wing Episodes](/library/recaps/west-wing/)

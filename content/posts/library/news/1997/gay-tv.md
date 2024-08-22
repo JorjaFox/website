@@ -1,15 +1,15 @@
 ---
 title: Gay TV
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1997/:title/
 tags: ["1997"]
 categories: ["Articles", "News"]
 newstitle: Gaynet
 date: 1997-09-26
-newsauthor: Staff
+newsreporter: Staff
 newssource: Gay TV
-newsurl: http://gay.com
+newsurl: https://gay.com
 
 ---
 **FUN FACTOID**

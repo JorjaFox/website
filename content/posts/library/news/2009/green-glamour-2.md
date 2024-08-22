@@ -1,16 +1,16 @@
 ---
 title: Green With Glamour
 date: 2009-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]
 permalink: /news/2009/:title/
 
 newstitle: "13 Questions - Jorja Fox  "
-newsauthor: Unknown
+newsreporter: Unknown
 newssource: Green With Glamour
-newsurl: http://www.greenwithglamour.com/index.php?main_page=editorial&e=questions&c=13_jorja_fox
+newsurl: https://www.greenwithglamour.com/index.php?main_page=editorial&e=questions&c=13_jorja_fox
 
 ---
 
@@ -40,4 +40,4 @@ Johny Depp, of course.
 1. **most inspired by?**
 the Beatles, MLK, Robert Redford, and Maya Angelou.
 1. **favorite cause?**
-[Heal the Bay](http://www.healthebay.org/), [NRDC](http://www.nrdc.org/), [FINCA](http://www.villagebanking.org/site/c.erKPI2PCIoE/b.2394109/k.BEA3/Home.htm), [PETA](http://www.peta.org/), [Animal Acres](http://www.animalacres.org/), [Human Rights Campaign](http://www.hrc.org/), [HSUS](http://www.hsus.org/ )
+[Heal the Bay](https://www.healthebay.org/), [NRDC](https://www.nrdc.org/), [FINCA](https://www.villagebanking.org/site/c.erKPI2PCIoE/b.2394109/k.BEA3/Home.htm), [PETA](https://www.peta.org/), [Animal Acres](https://www.animalacres.org/), [Human Rights Campaign](https://www.hrc.org/), [HSUS](https://www.hsus.org/ )

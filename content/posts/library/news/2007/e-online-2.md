@@ -1,16 +1,16 @@
 ---
 title: E Online
 date: 2007-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI's Jorja Fox Is Leaving the Show"
-newsauthor: "E! Online"
+newsreporter: "E! Online"
 newssource: Watch With Kristen
-newsurl: http://www.eonline.com
+newsurl: https://www.eonline.com
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: Buddy TV
 date: 2007-12-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Fans Continue to Show Support for Former 'CSI' Actress  "
-newsauthor: Kris De Leon
+newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com
+newsurl: https://www.buddytv.com
 
 ---
 

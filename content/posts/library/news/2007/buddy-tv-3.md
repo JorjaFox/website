@@ -1,16 +1,16 @@
 ---
 title: Buddy TV
 date: 2007-05-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "More on Jorja Fox's Possible Exit from CSI"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214.aspx
+newsurl: https://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214.aspx
 
 ---
 

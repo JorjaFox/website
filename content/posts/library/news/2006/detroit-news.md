@@ -1,16 +1,16 @@
 ---
 title: Detroit News
 date: 2006-11-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "A chat with Jorja Fox  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Detroit News
-newsurl: http://www.detnews.com/
+newsurl: https://www.detnews.com/
 
 ---
 

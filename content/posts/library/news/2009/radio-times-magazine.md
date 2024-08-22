@@ -1,16 +1,16 @@
 ---
 title: Radio Times Magazine
 date: 2009-04-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Where There's A Gil  "
-newsauthor: Unknown
+newsreporter: Unknown
 newssource: Radio Times
-newsurl: http://www.radiotimes.com/content/magazine/
+newsurl: https://www.radiotimes.com/content/magazine/
 
 ---
 

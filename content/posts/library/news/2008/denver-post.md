@@ -1,16 +1,16 @@
 ---
 title: Denver Post
 date: 2008-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "New mom Lopez turns out to hail a champion of children  "
-newsauthor: Bill Husted
+newsreporter: Bill Husted
 newssource: Denver Post
-newsurl: http://www.denverpost.com/politics/ci_10319601
+newsurl: https://www.denverpost.com/politics/ci_10319601
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: TV Guide
 date: 2002-06-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Crime Scene Stealer
-newsauthor: Deborah Starr Seibel
+newsreporter: Deborah Starr Seibel
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

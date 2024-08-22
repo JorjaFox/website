@@ -29,7 +29,7 @@ There's not much for Sara in this episode. She reprimands the cops at the statio
 
 ## Quotes
 
-**Sara:** It's not like you to get right down to business.
+**Sara:** It's not like you to get right down to business.\
 **Hodges:** Even I have off days, Sara.
 
 - - -

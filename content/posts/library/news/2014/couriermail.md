@@ -1,15 +1,15 @@
 ---
 title: Couriermail
 date: 2014-03-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Elisabeth Shue talks ahead of season 14 of CSI: Crime Scene Investigation"
-newsauthor: Darren Devlyn
+newsreporter: Darren Devlyn
 newssource: Couriermail
-newsurl: http://www.couriermail.com.au/entertainment/television/elisabeth-shue-talks-ahead-of-season-14-of-csi-crime-scene-investigation/story-fnihmoiz-1226845061147
+newsurl: https://www.couriermail.com.au/entertainment/television/elisabeth-shue-talks-ahead-of-season-14-of-csi-crime-scene-investigation/story-fnihmoiz-1226845061147
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: Find Law
 date: 2001-08-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Showbiz people briefs
-newsauthor: Staff
+newsreporter: Staff
 newssource: Find Law
-newsurl: http://news.findlaw.com/
+newsurl: https://news.findlaw.com/
 
 ---
 HOLLYWOOD (Variety) - It was difficult to conduct interviews with director Allison Anders and stars Kim Dickens and Gabriel Mann Thursday during Showtime's "Things Behind the Sun" premiere after-party at the Paramount Theater.

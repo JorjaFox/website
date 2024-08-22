@@ -1,12 +1,12 @@
 ---
 title: "TV Insider"
 date: 2022-01-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2022"]
 categories: ["Articles", "News"]
 newstitle: "Jorja Fox Not Returning to ‘CSI: Vegas’: ‘So Goes Grissom… So Goes Sara’"
-newsauthor: "Meredith Jacobs"
+newsreporter: "Meredith Jacobs"
 newssource: "TV Insider"
 newsurl: https://www.tvinsider.com/1030035/csi-vegas-season-2-jorja-fox-leaving-sara-grissom/
 ---

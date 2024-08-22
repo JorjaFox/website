@@ -1,16 +1,16 @@
 ---
 title: San Francisco Bay Area Independent Media Center
 date: 2007-02-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "San Francisco Indie Fest Ends With Controversy"
-newsauthor: IndyBay
+newsreporter: IndyBay
 newssource: IndyBay
-newsurl: http://www.indybay.org/newsitems/2007/02/16/18364540.php
+newsurl: https://www.indybay.org/newsitems/2007/02/16/18364540.php
 
 ---
 

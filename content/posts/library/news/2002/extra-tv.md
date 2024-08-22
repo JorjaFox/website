@@ -1,15 +1,15 @@
 ---
 title: Extra TV
 date: 2002-09-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Review
-newsauthor: Staff
+newsreporter: Staff
 newssource: Extra TV
-newsurl: http://extratv.warnerbros.com/
+newsurl: https://extratv.warnerbros.com/
 
 ---
 

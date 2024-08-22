@@ -1,16 +1,16 @@
 ---
 title: Look to the Stars
 date: 2010-05-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Jorja Fox Helps Rescue Circus Lions From Bolivia  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Look to the Stars
-newsurl: http://www.looktothestars.org/news/4484-jorja-fox-helps-rescue-circus-lions-from-bolivia
+newsurl: https://www.looktothestars.org/news/4484-jorja-fox-helps-rescue-circus-lions-from-bolivia
 
 ---
 

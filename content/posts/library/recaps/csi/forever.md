@@ -26,13 +26,13 @@ Sara and Warrick work the case of the suicides in Death Valley, eventually findi
 
 ## Notes
 
-* Sara knows the character of Madame DeFarge from Charles Dickens' [A Tale of Two Cities](http://en.wikipedia.org/wiki/A_Tale_of_Two_Cities).
+* Sara knows the character of Madame DeFarge from Charles Dickens' [A Tale of Two Cities](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities).
 * There is no reaction from Sara about the foster home situation, despite her own history
 * Sara is not pleased that the baby will end up back with the grandmother.
 
 ## Quotes
 
-**Robbins** Treated himself to a hamburger with pickles and ketchup, chocolate shake, and what I can only assume was super-size fries.
+**Robbins** Treated himself to a hamburger with pickles and ketchup, chocolate shake, and what I can only assume was super-size fries.\
 **Sara:** So that's what killed him.
 
 - - -

@@ -1,15 +1,15 @@
 ---
 title: The Den
 date: 1999-02-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: Headed for One True Thing
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Den
-newsurl: http://www.theden.com
+newsurl: https://www.theden.com
 
 ---
 Jorja who? No one really knows who the hell she is, but she's pretty hot, she's on ER, and that's good enough for UPN.

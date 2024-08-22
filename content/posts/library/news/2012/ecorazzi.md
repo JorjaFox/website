@@ -1,16 +1,16 @@
 ---
 title: Ecorazzi
 date: 2012-04-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "WATCH: CSI's Jorja Fox in PSA Against Circus Elephant Abuse  "
-newsauthor: Linda St.Cyr
+newsreporter: Linda St.Cyr
 newssource: Ecorazzi
-newsurl: http://www.ecorazzi.com/2012/04/20/watch-csis-jorja-fox-in-psa-against-circus-elephant-abuse/
+newsurl: https://www.ecorazzi.com/2012/04/20/watch-csis-jorja-fox-in-psa-against-circus-elephant-abuse/
 
 ---
 

@@ -29,14 +29,14 @@ Nick has apparently heard about Sara's breakup with Hank, and tries to set her u
 
 ## Quotes
 
-**Nick:** Hey, Sara, I don't want to cross any lines here, but, uh, I've got this buddy who's not going out with anybody...
-**Sara:** No. No, no, forget it.
-**Nick:** He's a cool guy.
-**Sara:** No.
-**Nick:** I mean, you don't...
+**Nick:** Hey, Sara, I don't want to cross any lines here, but, uh, I've got this buddy who's not going out with anybody...\
+**Sara:** No. No, no, forget it.\
+**Nick:** He's a cool guy.\
+**Sara:** No.\
+**Nick:** I mean, you don't...\
 **Sara:** No, Nick ...
 
 - - -
 
-**Sara:** Well, you know what they say -- it's what's on the inside that counts.
+**Sara:** Well, you know what they say -- it's what's on the inside that counts.\
 **Nick:** _(tests the drill he's holding, then hands it to Sara)_ Well put.

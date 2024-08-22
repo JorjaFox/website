@@ -1,16 +1,16 @@
 ---
 title: TV Guide.com
 date: 2010-07-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Keck's Exclusives: CBS Press Tour Party Scoops  "
-newsauthor: William Keck
+newsreporter: William Keck
 newssource: TV Guide.com
-newsurl: http://www.tvguide.com/News/Kecks-Exclusives-CBS-1021153.aspx
+newsurl: https://www.tvguide.com/News/Kecks-Exclusives-CBS-1021153.aspx
 
 ---
 

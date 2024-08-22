@@ -1,16 +1,16 @@
 ---
 title: TV Guide Magazine
 date: 2009-01-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Watercooler - What we're all talking about this week  "
-newsauthor: Lauren Incognito
+newsreporter: Lauren Incognito
 newssource: TV Guide Magazine
-newsurl: http://www.tvguidemagazine.com
+newsurl: https://www.tvguidemagazine.com
 
 ---
 

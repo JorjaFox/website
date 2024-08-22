@@ -1,16 +1,16 @@
 ---
 title: Hollywood Reporter
 date: 2009-08-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Fishburne gets makeover to help 'CSI' ratings  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Hollywood Reporter
-newsurl: http://www.thrfeed.com/2009/08/fishburne-gets-makeover-csi-.html
+newsurl: https://www.thrfeed.com/2009/08/fishburne-gets-makeover-csi-.html
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Issues with Jane Velez-Mitchell
 date: 2011-10-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
 tags: [ "2011" ]
-interviewurl: http://transcripts.cnn.com/TRANSCRIPTS/1110/06/ijvm.01.html
+interviewurl: https://transcripts.cnn.com/TRANSCRIPTS/1110/06/ijvm.01.html
 ---
 
 (BEGIN VIDEO CLIP)

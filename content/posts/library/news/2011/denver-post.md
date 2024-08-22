@@ -1,16 +1,16 @@
 ---
 title: Denver Post
 date: 2011-02-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Bolivian lions land in Denver  "
-newsauthor: Jeffrey Leib
+newsreporter: Jeffrey Leib
 newssource: Denver Post
-newsurl: http://www.denverpost.com/breakingnews/ci_17405414
+newsurl: https://www.denverpost.com/breakingnews/ci_17405414
 
 ---
 

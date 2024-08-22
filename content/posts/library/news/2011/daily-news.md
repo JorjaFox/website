@@ -1,16 +1,16 @@
 ---
 title: Daily News
 date: 2011-11-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Suit against IMDb shedding light on how birth dates can kill careers  "
-newsauthor: Bob Strauss
+newsreporter: Bob Strauss
 newssource: Daily News
-newsurl: http://www.dailynews.com/news/ci_19325714
+newsurl: https://www.dailynews.com/news/ci_19325714
 
 ---
 

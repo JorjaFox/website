@@ -1,16 +1,16 @@
 ---
 title: Global Surf News
 date: 2006-11-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "World Premier of Documentary 'Accidental Icon: The Real Gidget Story'  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Global Surf News
-newsurl: http://www.globalsurfnews.com
+newsurl: https://www.globalsurfnews.com
 
 ---
 
@@ -26,4 +26,4 @@ Surf legends and present-day "surfer girls" set the stage and take the Gidget st
 
 [...]
 
-[http://www.MCOF.org www.MCOF.org]
+[www.MCOF.org www.MCOF.org]

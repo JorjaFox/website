@@ -30,5 +30,5 @@ Sara didn't do a whole lot this episode. She worked efficiently and well. She di
 
 ## Quotes
 
-**Cop:** Why's [Grissom] leaving?
+**Cop:** Why's [Grissom] leaving?\
 **Sara:** Well. That's kind of what he does.

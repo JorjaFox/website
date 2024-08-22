@@ -1,16 +1,16 @@
 ---
 title: KansasCity.com
 date: 2007-05-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Short takes"
-newsauthor: Staff
+newsreporter: Staff
 newssource: kansascity.com
-newsurl: http://www.kansascity.com/211/story/93175.html
+newsurl: https://www.kansascity.com/211/story/93175.html
 
 ---
 

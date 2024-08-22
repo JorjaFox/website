@@ -6,9 +6,9 @@ description: "What happened to everything!? Don't panic!"
 layout: post
 tags: ["Announcement"]
 thumbnail:
-    url: /img/blog/4344878104_5b22de25b1_h.jpg
+    url: /img/blog/2024/4344878104_5b22de25b1_h.jpg
     originURL: https://www.flickr.com/photos/90371939@N00/4344878104
-    author: nathan
+    authorname: nathan
 ---
 
 I'm sure you're all wondering what happened.

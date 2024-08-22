@@ -1,12 +1,12 @@
 ---
 title: "Cinemablend"
 date: 2021-11-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "CSI: Vegas’ Jorja Fox Breaks Down Sara’s Reaction To The ‘Extremely Creepy’ Confrontation"
-newsauthor: "Megan Behnke"
+newsreporter: "Megan Behnke"
 newssource: "Cinemablend"
 newsurl: https://www.cinemablend.com/television/csi-vegas-jorja-fox-breaks-down-saras-reaction-to-the-extremely-creepy-confrontation
 ---
@@ -21,12 +21,15 @@ Sara was alone in the lab when Kline came out of nowhere to make an introduction
 
 And it would also be the last one, as Kline was found dead not that long after making a phone call to tell a mysterious person that Sara and Grissom knew. Sara was surprisingly calm in their meeting even though she was taken by surprise and had every reason to believe that he would want to do her harm to keep his secret from getting out. Jorja Fox broke down Sara's reaction starting at the beginning, telling TV Insider:
 
-> The hope was that she was trying to keep her cool and really seemed like she wasn’t freaked out, but yeah, that was an extremely creepy moment, I think maybe one of the scariest in the series for Sara. There’d been times in the past where there have been criminals that had had a personal interest in taking Grissom down and taking Sara down. Sara really almost lost her life once and she almost lost her job a second time. The trick is trying to play it cool, but I think she was shaking in her shoes.
+{{< blockquote >}}
+The hope was that she was trying to keep her cool and really seemed like she wasn’t freaked out, but yeah, that was an extremely creepy moment, I think maybe one of the scariest in the series for Sara. There’d been times in the past where there have been criminals that had had a personal interest in taking Grissom down and taking Sara down. Sara really almost lost her life once and she almost lost her job a second time. The trick is trying to play it cool, but I think she was shaking in her shoes.
+{{< /blockquote >}}
 
 It definitely makes sense that Sara would play it cool. If one were to freak out around a criminal like Kline, who really would have had a lot to gain if he could silence Sara with nobody else around, then it could have only made matters worse for her. Especially since Sara has gone through a lot, it’s not surprising to see she would know how to act in these types of situations. Still, it's good Grissom showed up when he did! Jorja Fox said:
 
-> It was very, very, very spooky. And that he got in, how did he get in? He got right in, he just showed right up. He’s totally brazen about it. I think it was really great that Grissom showed up when he did. I don’t know if it would have been as polite.
-Advertisement
+{{< blockquote >}}
+It was very, very, very spooky. And that he got in, how did he get in? He got right in, he just showed right up. He’s totally brazen about it. I think it was really great that Grissom showed up when he did. I don’t know if it would have been as polite.
+{{< /blockquote >}}
 
 This storyline is far from over despite Kline's death and it will likely be a hot topic for at least a few more episodes. Hopefully fans will find out just who else is part of the bigger picture and what will happen. If anyone can crack the case, it’s Gil and Sara.
 

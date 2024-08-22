@@ -29,18 +29,18 @@ Sara and Warrick investigate an apparent suicide at an apartment complex. At the
 
 ## Quotes
 
-**Warrick:** Are you sure that in all your lifesaving efforts you didn't move her?
-**Peddigrew** I'm telling you, I only checked for vitals.
+**Warrick:** Are you sure that in all your lifesaving efforts you didn't move her?\
+**Peddigrew** I'm telling you, I only checked for vitals.\
 **Sara:** It's okay, baby.
 
 - - -
 
-**Peddigrew** I'm going to hit the road ... baby.
+**Peddigrew** I'm going to hit the road ... baby.\
 **Sara:** _(grimaces)_ I'm sorry.
 
 - - -
 
-**Hodges:** Didn't beep you to say hi.
+**Hodges:** Didn't beep you to say hi.\
 **Sara:** Glad to you're settling in, Hodges. ... Stranger things have happened. If you weren't such a lab rat, you would know that.
 
 - - -

@@ -1,16 +1,16 @@
 ---
 title: Planet Jackson Hole
 date: 2007-06-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "The Planet sits down with CSI star Jorja Fox"
-newsauthor: Planet Jackson Hole
+newsreporter: Planet Jackson Hole
 newssource: Planet Jackson Hole
-newsurl: http://planetjh.com/news/A_101286.aspx
+newsurl: https://planetjh.com/news/A_101286.aspx
 
 ---
 

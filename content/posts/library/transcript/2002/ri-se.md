@@ -1,9 +1,9 @@
 ---
 title: "Ri:se"
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-05-29
-interviewurl: http://www.channel4.com
+interviewurl: https://www.channel4.com
 permalink: /transcript/2002/:title/
 categories: ["Interviews"]
 tags: ["2002"]

@@ -1,16 +1,16 @@
 ---
 title: Animal Defender
 date: 2010-08-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2010"]
 categories: ["Articles", "News"]
 permalink: /news/2010/:title/
 
 newstitle: "Summer 2010"
-newsauthor: 2010
+newsreporter: 2010
 newssource: Animal Defender
-newsurl: http://www.ad-international.org/publications/go.php?id=1965&si=98
+newsurl: https://www.ad-international.org/publications/go.php?id=1965&si=98
 
 ---
  **Late at night in San Francisco Airport; two transport trucks waiting; film and camera crews at the ready; ADI Ambassador Jorja Fox and the ADI Rescue Team on hand with supplies of water; one of the runways was about to play host to a contingent of lions flying in from Bolivia.**

@@ -1,15 +1,15 @@
 ---
 title: Orlando Sentinel
 date: 2015-09-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 newstitle: "'CSI': Gil Grissom departs heroically"
-newsauthor: Hal Boedeker
+newsreporter: Hal Boedeker
 newssource: Orlando Sentinel
-newsurl: http://www.orlandosentinel.com/entertainment/tv/tv-guy/os-csi-gil-grissom-departs-heroically-20150927-post.html
+newsurl: https://www.orlandosentinel.com/entertainment/tv/tv-guy/os-csi-gil-grissom-departs-heroically-20150927-post.html
 
 ---
 

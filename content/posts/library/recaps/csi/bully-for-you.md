@@ -34,14 +34,14 @@ Sara and Nick work the case of a liquified corpse found in a bag, which was shov
 
 ## Quotes
 
-**Greg:** _(sniffs)_ You smell like death.
-**Sara:** _(bitter)_ I've heard.
-**Greg:** _(starts to walk away, turns back)_ You know, a real man wouldn't mind.
+**Greg:** _(sniffs)_ You smell like death.\
+**Sara:** _(bitter)_ I've heard.\
+**Greg:** _(starts to walk away, turns back)_ You know, a real man wouldn't mind.\
 **Sara:** _(sighs)_
 
 - - -
 
-**Warrick:** Sara, what were you in high school?
-**Sara:** Science nerd.
-**Nick:** Have you changed [your clothes]? _(he sniffs her shirt)_ You still smell [like death].
+**Warrick:** Sara, what were you in high school?\
+**Sara:** Science nerd.\
+**Nick:** Have you changed [your clothes]? _(he sniffs her shirt)_ You still smell [like death].\
 **Sara:** _(grimaces)_

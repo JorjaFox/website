@@ -1,16 +1,16 @@
 ---
 title: TV Guide
 date: 2007-11-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Roush on CSI: Crime Scene Investigation"
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: Ask Matt
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 ---
 
 **Question: Just wanted to thank you for your recent comments about "CSI" and Jorja Fox. Your response to Sandra S.' question about whether Grissom and Sara's relationship hurt "CSI" was the most accurate evaluation of their romance and the last couple of seasons of the show that I've read. It was nice to see someone in the media not jumping on the "they turned the show into a soap opera!" bandwagon, which so many fans inexplicably have joined. Personally, I wonder if the "soap opera" people are watching the same show I've been watching.-- Melanie**

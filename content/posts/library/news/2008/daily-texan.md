@@ -1,16 +1,16 @@
 ---
 title: Daily Texan
 date: 2008-07-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Animal Antics  "
-newsauthor: Stephanie Fourqurean
+newsreporter: Stephanie Fourqurean
 newssource: Daily Texan
-newsurl: http://media.www.dailytexanonline.com/media/storage/paper410/news/2008/07/14/TopStories/Animal.Antics-3390468.shtml
+newsurl: https://media.www.dailytexanonline.com/media/storage/paper410/news/2008/07/14/TopStories/Animal.Antics-3390468.shtml
 
 ---
 

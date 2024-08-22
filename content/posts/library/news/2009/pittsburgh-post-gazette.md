@@ -1,16 +1,16 @@
 ---
 title: Pittsburgh Post-Gazette
 date: 2009-01-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Tuned In: NBC pins future on Leno, new shows  "
-newsauthor: Rob Owen
+newsreporter: Rob Owen
 newssource: Pittsburgh Post-Gazette
-newsurl: http://www.post-gazette.com/pg/09016/942125-42.stm
+newsurl: https://www.post-gazette.com/pg/09016/942125-42.stm
 
 ---
 

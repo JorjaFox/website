@@ -1,15 +1,15 @@
 ---
 title: Mashable
 date: 2014-09-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Watch Julie Finlay Face Death in 'CSI' Season 15 Premiere"
-newsauthor: Sandra Gonzalez
+newsreporter: Sandra Gonzalez
 newssource: Mashable
-newsurl: http://mashable.com/2014/09/28/finlay-csi-season-15-premiere-clip
+newsurl: https://mashable.com/2014/09/28/finlay-csi-season-15-premiere-clip
 
 ---
 

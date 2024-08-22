@@ -1,16 +1,16 @@
 ---
 title: Indie Genius Productions
 date: 2006-09-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Convicted Domestic Terrorists to Be Sentenced Today in Landmark Freedom of Speech Case"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Indie Genius Productions
-newsurl: http://www.instyle.com/
+newsurl: https://www.instyle.com/
 
 ---
 
@@ -24,4 +24,4 @@ Producer/director Curt Johnson follows this historic case in his latest film "Yo
 
 The film is slated for a spring 2007 national theatrical release and includes child star Pamelyn Ferdin (Lucy from "Peanuts", "Lassie", "Odd Couple"), Willie Nelson, Moby, Joe Mantegna, Jorja Fox, Drew Carey, Ben Stein among others voicing their opinions on this controversial movement and trial.
 
-For more information: [www.myspace.com/yourmommykillsanimals](http://www.myspace.com/yourmommykillsanimals).
+For more information: [www.myspace.com/yourmommykillsanimals](https://www.myspace.com/yourmommykillsanimals).

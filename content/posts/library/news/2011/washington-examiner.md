@@ -1,16 +1,16 @@
 ---
 title: Washington Examiner
 date: 2011-11-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Bob Barker, Jorja Fox fight for animal rights  "
-newsauthor: Katy Adams And Nikki Schwab
+newsreporter: Katy Adams And Nikki Schwab
 newssource: Washington Examiner
-newsurl: http://washingtonexaminer.com/blogs/yeas-nays/2011/11/bob-barker-jorja-fox-fight-animal-rights
+newsurl: https://washingtonexaminer.com/blogs/yeas-nays/2011/11/bob-barker-jorja-fox-fight-animal-rights
 
 ---
 

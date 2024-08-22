@@ -51,3 +51,7 @@ footer:
   parent: Links
   pageRef: /tos/copyright
   weight: 30
+- name: RSS Feed
+  parent: Links
+  pageRef: https://jorjafox.net/feed.xml
+  weight: 40

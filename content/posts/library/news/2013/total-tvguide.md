@@ -1,16 +1,16 @@
 ---
 title: Total TVguide
 date: 2013-04-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "'We're number one in the world'  "
-newsauthor: David Collins
+newsreporter: David Collins
 newssource: Total TVguide
-newsurl: http://www.tvchoicemagazine.co.uk/
+newsurl: https://www.tvchoicemagazine.co.uk/
 
 ---
 
@@ -28,7 +28,6 @@ Well, the bigger surprise for me was that I returned to the show! I came back in
 
 Well, the biggest compliment is that last year we were the most popular show in the world again. So I have to say a big thank you to all our overseas fans!
 
-**You've also starred in *The West Wing* but your first big break came in *ER*. What was it like landing the role of Dr Maggie Doyle?
-**
+**You've also starred in *The West Wing* but your first big break came in *ER*. What was it like landing the role of Dr Maggie Doyle?**
 
 It was the first time that people were really going to see my work. So I was scared senseless. On the night I got the job, I honestly almost drove to Mexico, because I was so terrified. I nearly told them I didn't want to do it. But it was a great honour for me to work with people who were so talented.

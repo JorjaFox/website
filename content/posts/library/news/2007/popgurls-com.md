@@ -1,16 +1,16 @@
 ---
 title: Popgurls.com
 date: 2007-04-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "PopGurls Interview: CSI's Jorja Fox"
-newsauthor: Popgurls.com
+newsreporter: Popgurls.com
 newssource: Popgurls.com
-newsurl: http://www.popgurls.com/article_show.php3?id=661
+newsurl: https://www.popgurls.com/article_show.php3?id=661
 
 ---
 

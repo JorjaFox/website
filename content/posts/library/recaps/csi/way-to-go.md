@@ -66,8 +66,8 @@ Sara spends most of her time working on the corset angle of the Carson case. Whe
 
 - - -
 
-**David** This must be some kind of birth defect.
-**Grissom:** What do you think?
+**David** This must be some kind of birth defect.\
+**Grissom:** What do you think?\
 **Sara:** I think I feel fat.
 
 - - -
@@ -76,5 +76,5 @@ Sara spends most of her time working on the corset angle of the Carson case. Whe
 
 - - -
 
-**Grissom:** I don't know. Most people want to die in their sleep, I suppose. Never know that it's happening, like a crime scene. Surprise, you're dead. I'd prefer to know in advance that I was going to die. I'd like to be diagnosed with cancer actually, have some time to prepare. Go back to the rain forest one more time, re-read 'Moby Dick.' Possibly enter an international chess tournament. At least have enough time to say 'goodbye' to the ones that I love.
+**Grissom:** I don't know. Most people want to die in their sleep, I suppose. Never know that it's happening, like a crime scene. Surprise, you're dead. I'd prefer to know in advance that I was going to die. I'd like to be diagnosed with cancer actually, have some time to prepare. Go back to the rain forest one more time, re-read 'Moby Dick.' Possibly enter an international chess tournament. At least have enough time to say 'goodbye' to the ones that I love.\
 **Sara:** I'm not ready to say 'Goodbye.'

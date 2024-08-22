@@ -1,16 +1,16 @@
 ---
 title: TVGuide.com
 date: 2009-10-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Matt's TV Week in Review"
-newsauthor: Kate Stanhope
+newsreporter: Kate Stanhope
 newssource: "Today's News: Our Take"
-newsurl: http://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx
+newsurl: https://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx
 
 ---
 

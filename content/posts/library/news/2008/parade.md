@@ -1,16 +1,16 @@
 ---
 title: Parade
 date: 2008-07-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Personality Parade  "
-newsauthor: Walter Scott
+newsreporter: Walter Scott
 newssource: Parade
-newsurl: http://www.parade.com/articles/editions/2008/edition_07-06-2008/Personality_Parade
+newsurl: https://www.parade.com/articles/editions/2008/edition_07-06-2008/Personality_Parade
 
 ---
 

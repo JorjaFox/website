@@ -1,16 +1,16 @@
 ---
 title: AHN
 date: 2008-07-11
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "'CSI' Star Jorja Fox Campaigns Against Circus Animal Abuse  "
-newsauthor: Jennifer Tormo
+newsreporter: Jennifer Tormo
 newssource: AHN
-newsurl: http://www.allheadlinenews.com/articles/7011574660
+newsurl: https://www.allheadlinenews.com/articles/7011574660
 
 ---
 

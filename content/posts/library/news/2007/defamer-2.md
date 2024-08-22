@@ -1,16 +1,16 @@
 ---
 title: Defamer
 date: 2007-10-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Potentially ill-advised Career Moves "
-newsauthor: Mark
+newsreporter: Mark
 newssource: Defamer Hollywood
-newsurl: http://defamer.com/hollywood/potentially-ill_advised-career-moves/-311083.php
+newsurl: https://defamer.com/hollywood/potentially-ill_advised-career-moves/-311083.php
 
 ---
 

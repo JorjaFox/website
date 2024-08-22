@@ -1,16 +1,16 @@
 ---
 title: Orangutan Outreach
 date: 2008-05-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Spring 2008 Newsletter"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Orangutan Outreach
-newsurl: http://campaign-archive.com/?u=5623ceeb639273a4885aa9d45&id=1wdtoJcvBM&e=
+newsurl: https://campaign-archive.com/?u=5623ceeb639273a4885aa9d45&id=1wdtoJcvBM&e=
 
 ---
 
@@ -22,6 +22,6 @@ We spent a few days this past January in sunny California filming our first set 
 
 [...]
 
-The PSAs are in the final stage of post-production. Once they are edited and ready to go, we will be debuting them online. They will be available on our website and YouTube - as well as our [http://www.facebook.com/group.php?gid=18449414264&utm_source=Spring2008Newsletter&utm_medium=MailChimp Facebook] and [http://www.myspace.com/orangutanoutreach?utm_source=Spring2008Newsletter&utm_medium=MailChimp MySpace] pages. We are also hoping to air them on Animal Planet and at any media outlet that will play them.
+The PSAs are in the final stage of post-production. Once they are edited and ready to go, we will be debuting them online. They will be available on our website and YouTube - as well as our [www.facebook.com/group.php?gid=18449414264&utm_source=Spring2008Newsletter&utm_medium=MailChimp Facebook] and [www.myspace.com/orangutanoutreach?utm_source=Spring2008Newsletter&utm_medium=MailChimp MySpace] pages. We are also hoping to air them on Animal Planet and at any media outlet that will play them.
 
 [...]

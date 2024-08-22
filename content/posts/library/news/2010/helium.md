@@ -1,16 +1,16 @@
 ---
 title: Helium
 date: 2010-08-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Top 10 TV couples  "
-newsauthor: Heather Bellingham
+newsreporter: Heather Bellingham
 newssource: Helium
-newsurl: http://www.helium.com/items/1920801-top-10-tv-couples
+newsurl: https://www.helium.com/items/1920801-top-10-tv-couples
 
 ---
 

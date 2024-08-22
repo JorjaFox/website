@@ -35,18 +35,18 @@ Back at the station, Ray approves of her work in the field, allowing Connie to c
 
 ## Quotes
 
-**Connie**: When?
-**Ray:** Connie, I need you here. You're the only one who can find certain things.
+**Connie**: When?\
+**Ray:** Connie, I need you here. You're the only one who can find certain things.\
 **Connie:** I know, I know. You need me, right.
 
 - - -
 
-**Connie:** So Ray comes walking out here looking for somebody to replace Carlos, and he says 'Nobody's around, I guess I'm gonna have to go do it myself.' So I look at him, and I'm like, 'What am I? Chopped liver?' And he looks at me and says 'Connie-'
-**Bobby:** 'I'd be lost without you, Connie. I depend on you'
+**Connie:** So Ray comes walking out here looking for somebody to replace Carlos, and he says 'Nobody's around, I guess I'm gonna have to go do it myself.' So I look at him, and I'm like, 'What am I? Chopped liver?' And he looks at me and says 'Connie-'\
+**Bobby:** 'I'd be lost without you, Connie. I depend on you.'\
 **Connie:** It's a curse.
 
 - - -
 
-**Connie:** Thanks, you're a doll.
-**Doorman:** Hey, you're not chopped liver yourself!
+**Connie:** Thanks, you're a doll.\
+**Doorman:** Hey, you're not chopped liver yourself!\
 **Connie:** Tell that to my boss. He seems to think I am.

@@ -1,15 +1,15 @@
 ---
 title: New York Post
 date: 2003-09-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: "TV's Weirdest Romance"
-newsauthor: Staff
+newsreporter: Staff
 newssource: New York Post
-newsurl: http://www.nypost.com/entertainment/4745.htm
+newsurl: https://www.nypost.com/entertainment/4745.htm
 
 ---
 

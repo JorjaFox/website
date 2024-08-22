@@ -1,16 +1,16 @@
 ---
 title: CNN
 date: 2011-02-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Lions rescued in Bolivia have new home on plains of Colorado  "
-newsauthor: CNN Wire Staff
+newsreporter: CNN Wire Staff
 newssource: CNN
-newsurl: http://www.cnn.com/
+newsurl: https://www.cnn.com/
 
 ---
 

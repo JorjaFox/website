@@ -1,9 +1,9 @@
 ---
 title: CSI Season 1 DVD extras
 date: 2001-07-01
-author: David Masters
+transcriber: David Masters
 layout: transcript
-interviewurl: http://www.cbs.com
+interviewurl: https://www.cbs.com
 sourcename: "CSI DVD Extras"
 permalink: /transcript/2001/:title/
 categories: ["Transcripts"]

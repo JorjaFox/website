@@ -32,7 +32,7 @@ Sara gathers tread scraps from the scene. Later she painstakingly separates them
 
 - - -
 
-**Warrick:** You've got that 'Sara' look.
+**Warrick:** You've got that 'Sara' look.\
 **Sara:** You mean that 'Grissom' look.
 
 - - -
@@ -49,10 +49,10 @@ Sara gathers tread scraps from the scene. Later she painstakingly separates them
 
 - - -
 
-**Vincent** _(without looking up)_ I heard Sanders broke out of here, fared poorly and disgraced us all.
+**Vincent** _(without looking up)_ I heard Sanders broke out of here, fared poorly and disgraced us all.\
 **Sara:** No, he didn't.
 
 - - -
 
-**Vincent** You ever heard the phrase 'pissing up a rope'?
+**Vincent** You ever heard the phrase 'pissing up a rope'?\
 **Sara:** Not in a scientific sense, no.

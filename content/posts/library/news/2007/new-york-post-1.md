@@ -1,16 +1,16 @@
 ---
 title: New York Post
 date: 2007-05-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "JORJA'S RULES"
-newsauthor: New York Post
+newsreporter: New York Post
 newssource: New York Post
-newsurl: http://www.nypost.com
+newsurl: https://www.nypost.com
 
 ---
 

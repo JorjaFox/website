@@ -29,21 +29,21 @@ Sara processes the boxing ring with Warrick, showing one of her only aversions: 
 
 ## Quotes
 
-**Sara:** Nice sport.
-**Warrick:** Well, it's only dirty if you make it dirty. You know, boxing's about discipline.
+**Sara:** Nice sport.\
+**Warrick:** Well, it's only dirty if you make it dirty. You know, boxing's about discipline.\
 **Sara:** It's two guys beating their brains out in a race for early-onset Parkinson's.
 
 - - -
 
-**Warrick:** What've you got?
-**Sara:** Saliva.
-**Warrick:** Oh, spit bucket. _(pauses as Sidle picks up the bucket with a rather odd grin)_ What's so funny?
-**Sara:** Smiling, uh, supresses the gag reflex.
-**Warrick:** This from the same woman who processed fecal fat from a ruptured colon?
-**Sara:** Every crim's got at least on problem area. Mine's saliva.
-**Warrick:** Want me to get that [bucket] for you?
-**Sara:** No! No.
-**Warrick:** You sure?
+**Warrick:** What've you got?\
+**Sara:** Saliva.\
+**Warrick:** Oh, spit bucket. _(pauses as Sidle picks up the bucket with a rather odd grin)_ What's so funny?\
+**Sara:** Smiling, uh, supresses the gag reflex.\
+**Warrick:** This from the same woman who processed fecal fat from a ruptured colon?\
+**Sara:** Every crim's got at least on problem area. Mine's saliva.\
+**Warrick:** Want me to get that [bucket] for you?\
+**Sara:** No! No.\
+**Warrick:** You sure?\
 **Sara:** Mind and body. Right?
 
 - - -

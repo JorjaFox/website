@@ -1,14 +1,14 @@
 ---
 title: Cosas Madres (07 01 2011)
 date: 2011-07-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "The actress is committed to the environment."
-newsauthor: Unknown
+newsreporter: Unknown
 newssource: Cosas Madres
 newsurl: https://static.jorjafox.net/wp-content/uploads/2011/10/58-62jorjafox.pdf
 

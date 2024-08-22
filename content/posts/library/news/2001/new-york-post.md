@@ -1,15 +1,15 @@
 ---
 title: New York Post
 date: 2001-06-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: 4 Questions
-newsauthor: Staff
+newsreporter: Staff
 newssource: New York Post
-newsurl: http://nypost.com
+newsurl: https://nypost.com
 
 ---
 **I never got off the bus**

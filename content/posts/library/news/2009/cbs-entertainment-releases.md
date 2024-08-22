@@ -1,16 +1,16 @@
 ---
 title: CBS Entertainment Releases
 date: 2009-08-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "THIS JUST IN... From the CBS Television Network... JORJA FOX RETURNS TO CSI!  "
-newsauthor: CBS Entertainment
+newsreporter: CBS Entertainment
 newssource: CBS Entertainment Releases
-newsurl: http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=22289
+newsurl: https://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=22289
 
 ---
 

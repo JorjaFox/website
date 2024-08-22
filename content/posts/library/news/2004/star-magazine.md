@@ -1,15 +1,15 @@
 ---
 title: Star Magazine
 date: 2004-09-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: [2004, tabloids]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "(Untitled)"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Star Magazine
-newsurl: http://www.starmagazine.com
+newsurl: https://www.starmagazine.com
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: Rocky Mountain News
 date: 2008-08-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Nelly rocks, Theron and Lauper spotted at SAG bash  "
-newsauthor: Lori Midson
+newsreporter: Lori Midson
 newssource: Rocky Mountain News
-newsurl: http://www.rockymountainnews.com/news/2008/aug/27/nelly-rocks-house-sag-bash/
+newsurl: https://www.rockymountainnews.com/news/2008/aug/27/nelly-rocks-house-sag-bash/
 
 ---
 

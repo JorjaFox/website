@@ -1,16 +1,16 @@
 ---
 title: Yahoo News
 date: 2007-10-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Walking for good cause without ever leaving home"
-newsauthor: Yahoo News
+newsreporter: Yahoo News
 newssource: Yahoo News
-newsurl: http://news.yahoo.com
+newsurl: https://news.yahoo.com
 
 ---
 

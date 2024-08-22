@@ -1,16 +1,16 @@
 ---
 title: US Today
 date: 2005-02-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Petersen lays it on the table  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: US Today
-newsurl: http://www.usatoday.com/
+newsurl: https://www.usatoday.com/
 
 ---
 [...]

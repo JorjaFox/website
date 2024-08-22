@@ -1,16 +1,16 @@
 ---
 title: The UkuLady's UkulUniverse
 date: 2008-02-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: "I Do Not Know Jorja Fox  "
-newsauthor: The UkuLady
+newsreporter: The UkuLady
 newssource: The UkuLady's UkulUniverse
-newsurl: http://ukulady.blogspot.com/2008/02/i-do-not-know-jorja-fox.html
+newsurl: https://ukulady.blogspot.com/2008/02/i-do-not-know-jorja-fox.html
 
 ---
 

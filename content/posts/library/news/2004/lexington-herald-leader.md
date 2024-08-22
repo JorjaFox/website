@@ -1,15 +1,15 @@
 ---
 title: Lexington Herald-Leader
 date: 2004-07-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Prime Time Crime News"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Lexington Herald-Leader
-newsurl: http://www.kentucky.com
+newsurl: https://www.kentucky.com
 
 ---
 

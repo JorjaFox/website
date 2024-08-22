@@ -1,16 +1,16 @@
 ---
 title: "CBS News - The Early Show"
 date: 2006-05-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: ["Articles", "News"]
 tags: ["2006"]
 
 newstitle: "The Early Show: Inside Minds Of 'CSI' Characters"
-newsauthor: Staff
+newsreporter: Staff
 newssource: CBS News
-newsurl: http://www.cbsnews.com
+newsurl: https://www.cbsnews.com
 
 ---
 

@@ -31,6 +31,6 @@ While Connie's at home, the morgue calls to tell her they found a woman matching
 
 ## Quotes
 
-**Bobby:** Who got the nothing on it?
-**Connie:** Me!
+**Bobby:** Who got the nothing on it?\
+**Connie:** Me!\
 **Bobby:** Oh, Connie, that's what I love about you. Your spirit of adventure.

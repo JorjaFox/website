@@ -1,15 +1,15 @@
 ---
 title: Viva Magazine
 date: 2014-04-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "Lady Luck"
-newsauthor: Bonnie Siegler | Photography Elisabeth Caren
+newsreporter: Bonnie Siegler | Photography Elisabeth Caren
 newssource: Viva Magazine
-newsurl: http://www.vivamagonline.com/
+newsurl: https://www.vivamagonline.com/
 
 ---
 

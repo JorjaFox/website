@@ -1,16 +1,16 @@
 ---
 title: Philadelphia Daily News
 date: 2007-05-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Tattle | Walter Reed gig snub puzzles Baez"
-newsauthor: Philadelphia Daily News
+newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
-newsurl: http://www.philly.com
+newsurl: https://www.philly.com
 
 ---
 

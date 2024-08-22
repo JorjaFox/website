@@ -1,16 +1,16 @@
 ---
 title: AOL News
 date: 2006-05-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Which Season Ended With a Bang?  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: AOL News
-newsurl: http://news.aol.com
+newsurl: https://news.aol.com
 
 ---
 

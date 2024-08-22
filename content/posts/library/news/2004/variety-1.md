@@ -1,15 +1,15 @@
 ---
 title: Variety
 date: 2004-07-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "Actor threats Eye-popping"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Variety
-newsurl: http://www.variety.com
+newsurl: https://www.variety.com
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "People"
 date: 2016-03-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2016"]
 categories: ["Articles", "News"]
 newstitle: "Don't Forget: 15 Things You Didn't Know About Memento, 15 Years Later"
-newsauthor: "Drew Mackie"
+newsreporter: "Drew Mackie"
 newssource: "People"
-newsurl: http://www.people.com/article/memento-movie-trivia
+newsurl: https://www.people.com/article/memento-movie-trivia
 
 ---
 

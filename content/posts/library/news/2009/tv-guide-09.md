@@ -1,16 +1,16 @@
 ---
 title: TV Guide Magazine
 date: 2009-09-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Sara is Back!  "
-newsauthor: Neil Turiz
+newsreporter: Neil Turiz
 newssource: CSI
-newsurl: http://www.tvguidemagazine.com/csi/sara-is-back-2548.html
+newsurl: https://www.tvguidemagazine.com/csi/sara-is-back-2548.html
 
 ---
 

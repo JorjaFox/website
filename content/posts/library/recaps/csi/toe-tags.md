@@ -35,6 +35,6 @@ Sara clearly remembers when she first met Grissom and what he said in the lectur
 
 ## Quotes
 
-**Sara:** You know what this reminds me of? The time we first met. San Francisco. Your lecture. Double murder in a garage. I'd heard you were a little dull as a speaker, but you can't rely on your first blush. That was, uh, the subject of your talk.
-**Grissom:** I believe that I said first opinions are crucial, but if the evidence changes, so must the theory.
+**Sara:** You know what this reminds me of? The time we first met. San Francisco. Your lecture. Double murder in a garage. I'd heard you were a little dull as a speaker, but you can't rely on your first blush. That was, uh, the subject of your talk.\
+**Grissom:** I believe that I said first opinions are crucial, but if the evidence changes, so must the theory.\
 **Sara:** Exactly.

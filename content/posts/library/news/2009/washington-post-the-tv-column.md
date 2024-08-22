@@ -1,16 +1,16 @@
 ---
 title: Washington Post
 date: 2009-08-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Whoever Has 'Talent' Has Clout, Too  "
-newsauthor: Lisa de Moraes
+newsreporter: Lisa de Moraes
 newssource: The TV Column
-newsurl: http://www.washingtonpost.com/wp-dyn/content/article/2009/07/20/AR2009072003089_2.html
+newsurl: https://www.washingtonpost.com/wp-dyn/content/article/2009/07/20/AR2009072003089_2.html
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: The Works (July 2006)
 date: 2006-05-25
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Jorja Fox"
-newsauthor: Jenny Eden
+newsreporter: Jenny Eden
 newssource: The Works
-newsurl: http://www.visimag.com/theworks/index.htm
+newsurl: https://www.visimag.com/theworks/index.htm
 
 ---
 

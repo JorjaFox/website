@@ -12,6 +12,12 @@ season: 10
 epnum: 1
 date: 2009-09-24
 prodnum: 207
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_004.jpg
 ---
 
 ## Synopsis
@@ -39,9 +45,9 @@ When the Russians break into the lab, Sara and Nick chase them out, firing at th
 
 - - -
 
-**Catherine:** Sara, I know you walked into some fireworks in the break room.
-**Sara:** What, Ecklie? Please.
-**Catherine:** No, I just read Riley's exit interview. She had some harsh things to say about my leadership. That the team's fractured. That it lacks cohesion. Because of me. Because of my managerial style. I don't know, I admit it. I admit that things are different since Grissom left.
-**Sara:** Well, its like when a great baseball team loses its best cleanup hitter. Suddenly everybody is swinging for the fences and nobody is playing small ball.
-**Catherine:** You're using a baseball analogy.
+**Catherine:** Sara, I know you walked into some fireworks in the break room.\
+**Sara:** What, Ecklie? Please.\
+**Catherine:** No, I just read Riley's exit interview. She had some harsh things to say about my leadership. That the team's fractured. That it lacks cohesion. Because of me. Because of my managerial style. I don't know, I admit it. I admit that things are different since Grissom left.\
+**Sara:** Well, its like when a great baseball team loses its best cleanup hitter. Suddenly everybody is swinging for the fences and nobody is playing small ball.\
+**Catherine:** You're using a baseball analogy.\
 **Sara:** Uh. Apparently part of being married is attempting to share in your spouses interests...

@@ -4,7 +4,7 @@ author: "Mika A. Epstein"
 layout: library
 permalink: /faq/
 aliases:
-  - /library/faq/
+  - /faq/
 categories: ["FAQ"]
 tags: ["index"]
 ---

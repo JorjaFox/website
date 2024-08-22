@@ -1,16 +1,16 @@
 ---
 title: The TV Guide
 date: 2008-04-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]
 permalink: /news/2008/:title/
 
 newstitle: "Life after Jorja"
-newsauthor: Jenny Cooney Carrillo
+newsreporter: Jenny Cooney Carrillo
 newssource: The TV Guide
-newsurl: http://tv-guide.co.nz
+newsurl: https://tv-guide.co.nz
 
 ---
 

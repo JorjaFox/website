@@ -1,15 +1,15 @@
 ---
 title: New York City
 date: 2004-08-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "'Crime,' punishment, resolution"
-newsauthor: Staff
+newsreporter: Staff
 newssource: New York City
-newsurl: http://www.nynewsday.com
+newsurl: https://www.nynewsday.com
 
 ---
 

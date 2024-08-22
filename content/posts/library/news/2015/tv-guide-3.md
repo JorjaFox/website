@@ -1,16 +1,16 @@
 ---
 title: TV Guide
 date: 2015-09-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
 permalink: /news/2015/:title/
 
 newstitle: "Saying Goodbye to CSI, a Show That Changed TV"
-newsauthor: Adam Bryant
+newsreporter: Adam Bryant
 newssource: TV Guide
-newsurl: http://www.tvguide.com/news/how-csi-changed-tv-anthony-zuiker-william-petersen/
+newsurl: https://www.tvguide.com/news/how-csi-changed-tv-anthony-zuiker-william-petersen/
 
 ---
 

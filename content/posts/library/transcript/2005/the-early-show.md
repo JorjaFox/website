@@ -1,9 +1,9 @@
 ---
 title: The Early Show
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2005-11-04
-interviewurl: http://www.cbsnews.com/earlyshow/
+interviewurl: https://www.cbsnews.com/earlyshow/
 permalink: /transcript/2005/:title/
 categories: ["Interviews"]
 tags: [ "2005" ]

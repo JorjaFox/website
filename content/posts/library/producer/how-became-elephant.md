@@ -1,7 +1,7 @@
 ---
 title: "How I Became an Elephant"
 author: "Mika A. Epstein"
-layout: producer
+layout: library
 categories: ["Filmography"]
 tags: ["producer", "movies"]
 genre: Documentary
@@ -13,4 +13,4 @@ How I Became An Elephant is more than just a film. It's one girl's story... whic
 
 ## See Also
 
-* [Official Website](http://www.howibecameanelephant.com)
+* [Official Website](https://www.howibecameanelephant.com)

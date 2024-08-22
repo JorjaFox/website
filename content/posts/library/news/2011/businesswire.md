@@ -1,16 +1,16 @@
 ---
 title: BusinessWire
 date: 2011-02-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Bob Barker, Jorja Fox and a Pride of Celebrities Pledge Their Support to ADI's Record Breaking Lion Rescue, Urging People to Give to the Appeal  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: BusinessWire
-newsurl: http://www.businesswire.com/news/home/20110201007057/en/Bob-Barker-Jorja-Fox-Pride-Celebrities-Pledge
+newsurl: https://www.businesswire.com/news/home/20110201007057/en/Bob-Barker-Jorja-Fox-Pride-Celebrities-Pledge
 
 ---
 

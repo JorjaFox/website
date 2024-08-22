@@ -1,16 +1,16 @@
 ---
 title: Buddy TV
 date: 2007-04-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: CSI To Kill Off Sara Sidle?
-newsauthor: Kris De Leon
+newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-to-kill-off-sara-sidle-6046.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-to-kill-off-sara-sidle-6046.aspx
 
 ---
 

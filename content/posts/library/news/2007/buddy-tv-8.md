@@ -1,16 +1,16 @@
 ---
 title: Buddy TV
 date: 2007-10-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Fans Show Support for 'CSI' Actress"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/
+newsurl: https://www.buddytv.com/
 
 ---
 

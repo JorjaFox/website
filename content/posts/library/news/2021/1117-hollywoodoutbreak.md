@@ -1,12 +1,12 @@
 ---
 title: "Hollywood Outbreak"
 date: 2021-11-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
 newstitle: "‘CSI’ Comeback Wasn’t Easy For William Petersen & Jorja Fox"
-newsauthor: "Hollywood Outbreak"
+newsreporter: "Hollywood Outbreak"
 newssource: "Hollywood Outbreak"
 newsurl: https://www.hollywoodoutbreak.com/2021/11/17/csi-comeback-wasnt-easy-for-william-petersen-jorja-fox/
 

@@ -1,15 +1,15 @@
 ---
 title: INQ7
 date: 2003-04-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: "CSI STAR Jorja Fox's answered prayer"
-newsauthor: Staff
+newsreporter: Staff
 newssource: INQ 7
-newsurl: http://www.inq7.net/ent/2003/apr/04/ent_3-1.htm
+newsurl: https://www.inq7.net/ent/2003/apr/04/ent_3-1.htm
 
 ---
 

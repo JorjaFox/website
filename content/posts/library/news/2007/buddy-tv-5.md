@@ -1,16 +1,16 @@
 ---
 title: Buddy TV
 date: 2007-08-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI' Stars Talk About Their Characters"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/csi-stars-talk-about-their-cha-10021.aspx
+newsurl: https://www.buddytv.com/articles/csi/csi-stars-talk-about-their-cha-10021.aspx
 
 ---
 

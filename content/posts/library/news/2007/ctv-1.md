@@ -1,16 +1,16 @@
 ---
 title: CTV
 date: 2007-04-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "The death of all romance: Could the Sara-Grissom affair be over?"
-newsauthor: Staff
+newsreporter: Staff
 newssource: CTV
-newsurl: http://www.ctv.ca
+newsurl: https://www.ctv.ca
 
 ---
 

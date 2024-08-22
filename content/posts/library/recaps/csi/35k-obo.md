@@ -31,12 +31,12 @@ With Brass, Sara takes the knife tip removed from a body to a shop to determine 
 
 ## Quotes
 
-**Salesman:** Did you really dig this [knife tip] out of a body?
+**Salesman:** Did you really dig this [knife tip] out of a body?\
 **Sara:** Yeah, but I washed it for you.
 
 - - -
 
-**Salesman:** How's a cop know all that [about metal]?
+**Salesman:** How's a cop know all that [about metal]?\
 **Sara:** _grins_ He's the cop. I'm the scientist.
 
 - - -

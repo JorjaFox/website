@@ -1,15 +1,15 @@
 ---
 title: Entertainment Today
 date: 1999-11-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: The Hungry Bachelors' Club
-newsauthor: Staff
+newsreporter: Staff
 newssource: Entertainment Today
-newsurl: http://www.ent-today.com
+newsurl: https://www.ent-today.com
 
 ---
 Offscreen bonds help the ensemble cast of The Hungry Bachelors Club bring a relaxed emotional honesty to their roles.

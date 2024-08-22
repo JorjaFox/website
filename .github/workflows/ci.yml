@@ -1,0 +1,66 @@
+name: 'Preflight Checks'
+
+on:
+  push:
+
+concurrency:
+     group: ${{ github.ref }}-ci
+     cancel-in-progress: true
+
+jobs:
+  preflight-checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Do a git checkout including submodules
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          known_hosts: unnecessary
+
+      - name: Adding Known Hosts
+        run: ssh-keyscan -H ${{ secrets.REMOTE_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Setup Node and Install
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install && npm run mod:update
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Make Resources Folder locally
+        run: mkdir resources
+
+      - name: Download resources from server
+        run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
+
+      - name: Build site
+        run: npm run build
+
+      - name: Deploy to Server
+        run: rsync -rlgoDzvc -i --delete resources/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/
+
+      #  uses: easingthemes/ssh-deploy@main
+      #  env:
+      #    SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+      #    ARGS: "-rlgoDzvc -i --delete"
+      #    SOURCE: "resources/"
+      #    REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+      #    REMOTE_USER: ${{ secrets.REMOTE_USER }}
+      #    TARGET: "/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/"

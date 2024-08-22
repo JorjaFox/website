@@ -1,0 +1,14 @@
+{{ $section := .Get "show" }}
+
+{{ if .Get "show" }}
+    {{ $recaps     := (where .Site.RegularPages "Layout" "recaps" ) }}
+    {{ $showRecaps := (where .Site.Pages "Params.showslug" $section ) }}
+    {{ $filtered   := $recaps | intersect $showRecaps }}
+    {{ $postCount  := len $filtered }}
+
+    {{ if eq $postCount 0 }}
+        <span class="badge rounded-pill bg-secondary">Coming Soon</span>
+    {{ else }}
+        <span class="badge rounded-pill bg-success-subtle"><a href="/library/recaps/{{ $section }}/">{{ $postCount }} recap{{ if ne $postCount 1 }}s{{ end }}</a></span>
+    {{ end }}
+{{ end }}

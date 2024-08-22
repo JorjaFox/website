@@ -1,15 +1,15 @@
 ---
 title: TV Gal
 date: 2002-03-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: "TV Gal Chats up 'Once and Again'"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Gal
-newsurl: http://tv.zap2it.com/
+newsurl: https://tv.zap2it.com/
 
 ---
 

@@ -1,16 +1,16 @@
 ---
-title: South Bay Crimes &#038; Courts
+title: South Bay Crimes & Courts
 date: 2010-05-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Surfer loses lawsuit against LAPD officers  "
-newsauthor: Larry Altman
+newsreporter: Larry Altman
 newssource: South Bay Crimes & Courts
-newsurl: http://www.earthtimes.org/articles/show/csi-star-jorja-fox-to,1308038.shtml
+newsurl: https://www.earthtimes.org/articles/show/csi-star-jorja-fox-to,1308038.shtml
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: TVGuide.com
 date: 2013-10-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "CSI Bosses on 300 Episodes of Murder and the Legacy of Gil Grissom  "
-newsauthor: Adam Bryant
+newsreporter: Adam Bryant
 newssource: TVGuide.com
-newsurl: http://www.tvguide.com/News/CSI-300th-Episode-Carol-Mendelsohn-1072418.aspx
+newsurl: https://www.tvguide.com/News/CSI-300th-Episode-Carol-Mendelsohn-1072418.aspx
 
 ---
 

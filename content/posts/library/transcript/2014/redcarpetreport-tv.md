@@ -1,8 +1,8 @@
 ---
 title: RedCarpetReport TV
 date: 2014-12-05
-interviewurl: http://www.redcarpetreporttv.com
-author: "Mika A. Epstein"
+interviewurl: https://www.redcarpetreporttv.com
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2014/:title/
 categories: ["Interviews"]

@@ -1,16 +1,16 @@
 ---
 title: Defamer (6 November 2007)
 date: 2007-11-06
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Hollywood PrivacyWatch: Elvish Warrior Takes In Some Postmodern Feminist Art"
-newsauthor: Mark
+newsreporter: Mark
 newssource: Defamer Hollywood
-newsurl: http://defamer.com
+newsurl: https://defamer.com
 
 ---
 

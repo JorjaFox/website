@@ -1,16 +1,16 @@
 ---
 title: Morocco Times
 date: 2005-05-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "TV star Jorja Fox to visit Morocco in a good will trip"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Morocco Times
-newsurl: http://www.moroccotimes.com
+newsurl: https://www.moroccotimes.com
 
 ---
 Jorja Fox, who plays Sara Sidle on the long-running American television hit series CSI (Crime Scene Investigation), will fulfill her lifelong dream by making a goodwill trip to Morocco early June, said a release of the "Friendship Caravan" who will coordinate the trip in cooperation with the Embassy of Morocco in Washington.

@@ -1,15 +1,15 @@
 ---
 title: Chicago Sun-Times
 date: 1999-11-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: Hungry Bachelors" kills appetite
-newsauthor: Jae-Ha Kim
+newsreporter: Jae-Ha Kim
 newssource: Chicago Sun-Times
-newsurl: http://www.suntimes.com
+newsurl: https://www.suntimes.com
 ---
 Mama's Boys LLC presents a film directed by Gregory Ruzzin. Written by Fred Dresch and Ron Ratliff. Running time: 93 minutes. Rated PG-13 (for language). Opening today at Deerbrook, Lincoln Mall, Randhurst and Yorktown.
 

@@ -41,8 +41,8 @@ During the interrogation scene, when the camera pans down Sara, her fingernail i
 
 - - -
 
-**Sara:** When my father died, my mother came to a place like this for a while for evaluation. It looked the same, it smelled the same. It smelled like lies.
-**Grissom:** You sure you're okay?
-**Sara:** Crazy people do make me feel crazy.
-**Grissom:** If you want, I can have somebody take your place.
+**Sara:** When my father died, my mother came to a place like this for a while for evaluation. It looked the same, it smelled the same. It smelled like lies.\
+**Grissom:** You sure you're okay?\
+**Sara:** Crazy people do make me feel crazy.\
+**Grissom:** If you want, I can have somebody take your place.\
 **Sara:** I appreciate that. I do, I really do, but ... [...] I kind of made a decision to move beyond that and ... I really want to finish this case.

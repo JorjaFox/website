@@ -5,15 +5,14 @@ categories: ["Filmography", "CSI Vegas"]
 tags: ["Television"]
 layout: actor
 slug: csi-vegas
-imdb: http://www.imdb.com/title/tt12887536/
+imdb: https://www.imdb.com/title/tt12887536/
 website: https://www.cbs.com/shows/csi-vegas/
-gallery: https://jorjafox.net/gallery/tv/csi-vegas/
-image: /img/actors/csi-vegas.jpg
+actorimage: /img/actors/csi-vegas.jpg
 episodelist: true
 aliases:
   - /self/csi-vegas/
 thumbnail:
-  url: img/front-page/CSIVegasCard.jpg
+  url: img/front-page/csi-vegas.jpg
 ---
 
 A sequel/reboot to _[CSI: Crime Scene Investigation](/library/actor/csi/)_, _CSI: Vegas_ faces an existential threat that could bring down the Crime Lab, a brilliant new team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.

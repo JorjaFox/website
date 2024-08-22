@@ -1,7 +1,7 @@
 ---
 title: "Stay Forever: The Life and Music of Dusty Springfield"
 author: "Mika A. Epstein"
-layout: producer
+layout: library
 categories: ["Filmography"]
 tags: [producer, stage, honeypot, bunnyhop]
 genre: Musical
@@ -15,4 +15,4 @@ In 2012, the show was revived off-Broadway.
 
 ## See Also
 
-* [Official Website](http://foreverdusty.com)
+* [Official Website](https://foreverdusty.com)

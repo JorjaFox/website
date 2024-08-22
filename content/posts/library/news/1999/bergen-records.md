@@ -1,15 +1,15 @@
 ---
 title: Bergen Records
 date: 1999-02-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]
 categories: ["Articles", "News"]
 newstitle: A family drama with docs, cops, and inmates
-newsauthor: Gail Shister
+newsreporter: Gail Shister
 newssource: Bergen Record Corp.
-newsurl: http://www.bergen.com/
+newsurl: https://www.bergen.com/
 
 ---
 *Special from The Philadelphia Inquirer*

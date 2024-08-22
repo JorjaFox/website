@@ -1,15 +1,15 @@
 ---
 title: FW
 date: 2001-12-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: Prime Time's New Line Up
-newsauthor: Staff
+newsreporter: Staff
 newssource: FW magazine
-newsurl: http://www.myfw.com
+newsurl: https://www.myfw.com
 
 ---
 Fresh for the fall and taking over living rooms across North America, FW brings you the rising stars from the hottest TV shows this season. Opinionated, multi-talented, stylish, indipendent and really easy on the eyes, these young stars show us what hitting the big time is all about.

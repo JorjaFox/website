@@ -1,7 +1,7 @@
 ---
 title: "Live With Kelly and Ryan"
 date: 2021-10-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://kellyandryan.com/guide/october-28-2021/
 categories: ["Interviews"]

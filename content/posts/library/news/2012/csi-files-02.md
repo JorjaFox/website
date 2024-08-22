@@ -1,16 +1,16 @@
 ---
 title: CSI Files
 date: 2012-10-10
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "Interview: Jorja Fox"
-newsauthor: Shane Saunders
+newsreporter: Shane Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2012/10/interview-jorja-fox-2/
+newsurl: https://www.csifiles.com/content/2012/10/interview-jorja-fox-2/
 
 
 ---

@@ -4,10 +4,12 @@ author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: [Health]
-website: http://whatapair.org
+website: https://whatapair.org
 ---
 
-> "The whole is more than the sum of its parts." - Aristotle
+{{< blockquote by="Aristotle" >}}
+"The whole is more than the sum of its parts."
+{{< /blockquote >}}
 
 **_What A Pair!_** is a non-profit 501c3 that was created when a personal tragedy  motivated three Hollywood producers  to do something to give back. Co-founders **Jo Levi DiSante**, **Jody Price**, and **Ruth Stalford** believe that by partnering the right people with the right organizations, allowing folks to share their talent and expertise, we can make the world a better place and enrich lives.
 

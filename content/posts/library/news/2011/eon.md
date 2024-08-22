@@ -1,16 +1,16 @@
 ---
 title: "EON: Enhanced Online News"
 date: 2011-02-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Record Breaking 25 Rescued Bolivian Lions Arriving at Denver International Airport Wednesday, February 16, 2011  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: "EON: Enhanced Online News "
-newsurl: http://eon.businesswire.com/news/eon/20110214007416/en/Animal-Defenders-International/ADI/Bob-Barker
+newsurl: https://eon.businesswire.com/news/eon/20110214007416/en/Animal-Defenders-International/ADI/Bob-Barker
 
 ---
 

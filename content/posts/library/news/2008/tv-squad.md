@@ -1,16 +1,16 @@
 ---
 title: TV Squad
 date: 2008-05-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "'CSI' bringing Jorja Fox back for fall premiere  "
-newsauthor: Allison Waldman
+newsreporter: Allison Waldman
 newssource: TV Squad
-newsurl: http://www.tvsquad.com/2008/05/22/csi-bringing-jorja-fox-back-for-fall-premiere/
+newsurl: https://www.tvsquad.com/2008/05/22/csi-bringing-jorja-fox-back-for-fall-premiere/
 
 ---
 

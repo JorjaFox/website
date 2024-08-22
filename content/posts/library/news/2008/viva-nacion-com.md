@@ -1,16 +1,16 @@
 ---
 title: VIVA nacion.com
 date: 2008-04-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Jorja Fox Vists"
-newsauthor: Staff
+newsreporter: Staff
 newssource: VIVA nacion
-newsurl: http://www.nacion.com/viva/2008/abril/17/viva1500216.html
+newsurl: https://www.nacion.com/viva/2008/abril/17/viva1500216.html
 
 ---
 

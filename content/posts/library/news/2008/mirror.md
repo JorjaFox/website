@@ -1,16 +1,16 @@
 ---
 title: Mirror
 date: 2008-02-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "CSI: Crime Scene Investigation  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Mirror
-newsurl: http://www.mirror.co.uk/showbiz/tv/todaystv/2008/02/19/csi-crime-scene-investigation-89520-20324532/
+newsurl: https://www.mirror.co.uk/showbiz/tv/todaystv/2008/02/19/csi-crime-scene-investigation-89520-20324532/
 
 ---
 

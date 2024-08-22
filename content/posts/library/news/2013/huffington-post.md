@@ -1,16 +1,16 @@
 ---
 title: Huffington Post
 date: 2013-02-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "'CSI' Preview: Is Sara Cheating On Grissom? (EXCLUSIVE VIDEO)  "
-newsauthor: Laura Prudom
+newsreporter: Laura Prudom
 newssource: Huffington Post
-newsurl: http://www.huffingtonpost.com/2013/02/19/csi-sara-grissom\_n\_2715275.html
+newsurl: https://www.huffingtonpost.com/2013/02/19/csi-sara-grissom\_n\_2715275.html
 
 ---
 

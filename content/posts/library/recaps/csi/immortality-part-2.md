@@ -12,6 +12,17 @@ season: 16
 epnum: 2
 date: 2015-09-27
 prodnum: 337
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-07.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-08.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-09.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-10.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-11.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-12.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-13.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-14.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-15.jpg
 ---
 
 ## Synopsis
@@ -55,13 +66,12 @@ And she gives it all up for Grissom, sailing off into the ocean with him.
 
 ## Quotes
 
-**Sara** Lady Heather, as much as I'd like to roll out the voluntary red carpet and welcome you here to your own bombing party, I can't find it in my bone marrow to overrule my gut. But I'm sure you're having a blast with the blasts, so I'll just ask the question... are you the one behind the bombings?
-**Lady Heather** Your hostility connotes jealousy and resentment. It doesn't suit
-you, Sara.
-**Sara** Mrs. Sidle to you.
+**Sara** Lady Heather, as much as I'd like to roll out the voluntary red carpet and welcome you here to your own bombing party, I can't find it in my bone marrow to overrule my gut. But I'm sure you're having a blast with the blasts, so I'll just ask the question... are you the one behind the bombings?\
+**Lady Heather** Your hostility connotes jealousy and resentment. It doesn't suit you, Sara.\
+**Sara** Mrs. Sidle to you.\
 **Lady Heather** Ms. Sidle, isn't it?
 
 - - -
 
-**Lady Heather** Do you love him?
+**Lady Heather** Do you love him?\
 **Sara** I do.

@@ -1,16 +1,16 @@
 ---
 title: Toronto Star
 date: 2007-05-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Hot Box: Television to talk about"
-newsauthor: Toronto Star
+newsreporter: Toronto Star
 newssource: Toronto Star
-newsurl: http://www.thestar.com/
+newsurl: https://www.thestar.com/
 
 ---
 

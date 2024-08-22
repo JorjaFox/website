@@ -32,8 +32,8 @@ Sara is unhappy, going behind people's backs, to solve the fake case, but collec
 
 ## Quotes
 
-**Sara:** Scorpio, ruled by Pluto -- all though since it's, ah, not a planet any more, I'm not sure how that works.
-**Phillips:** Maybe it's a dwarf sign, you know, like Pluto's a dwarf planet now.
+**Sara:** Scorpio, ruled by Pluto -- all though since it's, ah, not a planet any more, I'm not sure how that works.\
+**Phillips:** Maybe it's a dwarf sign, you know, like Pluto's a dwarf planet now.\
 **Sara:** smiles
 
 - - -
@@ -42,5 +42,5 @@ Sara is unhappy, going behind people's backs, to solve the fake case, but collec
 
 - - -
 
-**Catherine:** Sara?
+**Catherine:** Sara?\
 **Sara:** If I have something to say to you, Catherine, I'll say it in private. _(pause)_ No offense.

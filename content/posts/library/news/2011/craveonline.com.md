@@ -1,16 +1,16 @@
 ---
 title: CraveOnline.com
 date: 2011-02-05
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "CSI 11.13 'The Two Mrs. Grissoms'  "
-newsauthor: Hilary Rothing
+newsreporter: Hilary Rothing
 newssource: CraveOnline.com
-newsurl: http://www.craveonline.com/entertainment/tv/article/csi-1113-the-two-mrs-grissoms-123003
+newsurl: https://www.craveonline.com/entertainment/tv/article/csi-1113-the-two-mrs-grissoms-123003
 
 ---
 

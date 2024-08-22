@@ -46,7 +46,7 @@ However, when faced with Darcy, Sara stays true to justice. Instead of relying o
 
 ## Quotes
 
-**Russell:** Sara, got something?
+**Russell:** Sara, got something?\
 **Sara:** A piece of the past.
 
 - - -
@@ -59,5 +59,5 @@ However, when faced with Darcy, Sara stays true to justice. Instead of relying o
 
 - - -
 
-**Sara:** All this evidence, all these years ... you ever think you've had enough?
+**Sara:** All this evidence, all these years ... you ever think you've had enough?\
 **Greg:** You kidding? I'm just getting started.

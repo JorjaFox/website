@@ -1,15 +1,15 @@
 ---
 title: Minneapolis Star Tribune
 date: 2001-01-19
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: The Success of CSI is No Mystery
-newsauthor: Staff
+newsreporter: Staff
 newssource: Minneapolis Star Tribune
-newsurl: http://www.startribune.com/
+newsurl: https://www.startribune.com/
 ---
 
 [...]

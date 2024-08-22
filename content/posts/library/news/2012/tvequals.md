@@ -1,16 +1,16 @@
 ---
 title: TVEquals
 date: 2012-12-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "CSI Season 13 Review 'Risky Business Class' -- Owner of a Lonely Heart  "
-newsauthor: Kristen Elizabeth
+newsreporter: Kristen Elizabeth
 newssource: TVEquals
-newsurl: http://www.tvequals.com/2012/12/12/csi-season-13-review-risky-business-class-owner-of-a-lonely-heart/
+newsurl: https://www.tvequals.com/2012/12/12/csi-season-13-review-risky-business-class-owner-of-a-lonely-heart/
 
 ---
 

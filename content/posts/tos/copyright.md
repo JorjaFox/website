@@ -3,12 +3,12 @@ title: Terms of Use
 date: '2015-10-01'
 updated: '2024-07-31'
 author: 'Mika E. (Ipstenu)'
-layout: minimal
+layout: library
 aliases:
 - /tos/copyrights/
 ---
 
-{{< alert color="success" >}}Last Updated: **20 July 2024**{{< /alert >}}
+{{< alert color="success" >}}Last Updated: **14 August 2024**{{< /alert >}}
 
 All contributions to _Fans of LeFox_ are the property of this site unless otherwise noted and credited.
 
@@ -16,7 +16,7 @@ _Fans of LeFox_ is licensed under a Creative Commons Attribution-ShareAlike 4.0 
 
 This license lets others remix, tweak, and build upon the work here, even for commercial reasons, as long as they credit and license their new creations under the identical terms. This license is often compared to open source software licenses. All new works based on information found here will carry the same license.
 
-* [View License Deed](http://creativecommons.org/licenses/by-sa/4.0/)
+* [View License Deed](https://creativecommons.org/licenses/by-sa/4.0/)
 * [View Legal Code](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 ## Exceptions
@@ -26,10 +26,10 @@ Information that is not owned or claimed by _Fans of LeFox_ falls under its own 
 A list of items we do not hold copyright to include, but are not limited to (unless otherwise noted):
 
 * News Articles
+* Transcriptions
 * Fan Contributions
-* Blog Comments
 
-Use of that material on this site falls under the Fair Use copyright law 107.
+Use of that material on this site falls under the [Fair Use copyright law 107](https://www.copyright.gov/fair-use/).
 
 ## Publication by third parties
 

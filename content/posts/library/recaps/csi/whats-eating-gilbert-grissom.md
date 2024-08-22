@@ -28,10 +28,10 @@ Sara is tasked to decipher the psychological clues in the bondage comic book. La
 
 ## Quotes
 
-**Catherine:** Uh, sorry, Sara. I need the microscope. Priority.
-**Sara:** I got three more samples to run. When I'm finished, it'll be your turn.
-**Catherine:** This can't wait.
-**Sara:** It can't? Or you can't? _(she looks at Catherine)_
-**Catherine:** Both. Go have a cup of coffee on me.
-**Sara:** _(stands up)_ The coffee's free.
-**Catherine:** Thank you. _(sits down as Sara leaves__
+**Catherine:** Uh, sorry, Sara. I need the microscope. Priority.\
+**Sara:** I got three more samples to run. When I'm finished, it'll be your turn.\
+**Catherine:** This can't wait.\
+**Sara:** It can't? Or you can't? _(she looks at Catherine)_\
+**Catherine:** Both. Go have a cup of coffee on me.\
+**Sara:** _(stands up)_ The coffee's free.\
+**Catherine:** Thank you. _(sits down as Sara leaves)_

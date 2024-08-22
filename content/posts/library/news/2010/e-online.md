@@ -1,16 +1,16 @@
 ---
 title: E! Online - Watch With Kristin
 date: 2010-11-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Spoiler Chat: Smallville, Glee, Vampire Diaries and More!  "
-newsauthor: Kristin Dos Santos
+newsreporter: Kristin Dos Santos
 newssource: E! Online
-newsurl: http://www.eonline.com/uberblog/watch\_with\_kristin/b213428\_spoiler\_chat\_smallville\_glee_vampire.html
+newsurl: https://www.eonline.com/uberblog/watch\_with\_kristin/b213428\_spoiler\_chat\_smallville\_glee_vampire.html
 
 ---
 

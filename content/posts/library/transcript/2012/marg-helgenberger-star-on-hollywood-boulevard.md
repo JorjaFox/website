@@ -1,9 +1,9 @@
 ---
 title: "Marg Helgenberger's Star on Hollywood Boulevard"
 date: 2012-01-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://www.walkoffame.com/
+interviewurl: https://www.walkoffame.com/
 permalink: /transcript/2012/:title/
 categories: ["Interviews"]
 tags: ["2012"]

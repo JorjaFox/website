@@ -1,15 +1,15 @@
 ---
 title: Pets In The City
 date: 2011-02-09
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
 tags: [ "2011" ]
-interviewurl: http://www.markiac.addr.com/PET_LIFE_RADIO/cityep38.html
+interviewurl: https://www.markiac.addr.com/PET_LIFE_RADIO/cityep38.html
 ---
 
-**Pets In The City: **For many of us, the circus brings back fond memories of lions, tigers, and other large, beautiful creatures performing incredible acts of courage and agility usually with their tamers and trainers on board. But in recent years, the ability of some circuses to properly care for these large beasts has been under scrutiny. This scrutiny has not been limited to the United States. Joining us today is Jorja Fox, who plays the popular character Sara Sidle on the mega hit *CSI *Las Vegas, to talk about her personal work on behalf of some very special and now globe-trotting lions that she and other notable stars have helped move from Bolivia to the U.S. through their support of Animal Defenders International and their work on Operation: Lion Arc. Thanks so much for joining us today, Jorja.
+**Pets In The City:** For many of us, the circus brings back fond memories of lions, tigers, and other large, beautiful creatures performing incredible acts of courage and agility usually with their tamers and trainers on board. But in recent years, the ability of some circuses to properly care for these large beasts has been under scrutiny. This scrutiny has not been limited to the United States. Joining us today is Jorja Fox, who plays the popular character Sara Sidle on the mega hit *CSI *Las Vegas, to talk about her personal work on behalf of some very special and now globe-trotting lions that she and other notable stars have helped move from Bolivia to the U.S. through their support of Animal Defenders International and their work on Operation: Lion Arc. Thanks so much for joining us today, Jorja.
 
 **Jorja Fox:** Oh Diane, thank you so much for having me, I'm really excited about this project.
 
@@ -45,7 +45,7 @@ They're laughing their American Circus Campaign relatively soon and I think we s
 
 **PITC:** I do have to ask you this: now, a lot of us who are "of a certain age", shall we say *(Jorja laughs)* have these fond memories of going to the circus, and I mean, it wasn't a big deal, you know, that was actually one of the big things we were looking for, you know, the lions jumping through the fire, jumping through the hoops. You know, how do you fundamentally change somebody's, I guess, childhood memories of that? You know, is there a challenge to shifting from saying "What you were watching was horrible and awful, but we want you to watch this instead?"
 
-**JF: **Yeah. Well, and I wouldn't want to try and reframe people's memories, you know, certainly if they have good memories, that's a great first connection, you know, because if they have a great memory of animals in a circus then probably they connected at some point that there was a, a love and admiration for these animals. So, I've been lucky enough- and I'm not all that young myself- but I've been lucky enough to you know, kind of grow up with first *National Geographic* and now *Animal Planet *and you know, IMAX theaters, and I think that there's so many other great ways, including some of these Disney feature films that have been out, that have kind of came out of *Planet Earth*, there's just so many better ways to do it now, and um, you know that the legacy of importing wild animals all over the world has been a really tragic and sad one across the globe, you know, and has led in many respects to a lot of a lot of these [animal] populations being on the brink of extinction.
+**JF:** Yeah. Well, and I wouldn't want to try and reframe people's memories, you know, certainly if they have good memories, that's a great first connection, you know, because if they have a great memory of animals in a circus then probably they connected at some point that there was a, a love and admiration for these animals. So, I've been lucky enough- and I'm not all that young myself- but I've been lucky enough to you know, kind of grow up with first *National Geographic* and now *Animal Planet *and you know, IMAX theaters, and I think that there's so many other great ways, including some of these Disney feature films that have been out, that have kind of came out of *Planet Earth*, there's just so many better ways to do it now, and um, you know that the legacy of importing wild animals all over the world has been a really tragic and sad one across the globe, you know, and has led in many respects to a lot of a lot of these [animal] populations being on the brink of extinction.
 
 Now we have a whole other crisis because even if we can care for a lot of these animals, we don't have all that many places to put them where we can really call it a sanctuary, you know, whether it's in Africa or Europe, the United States, space is limited, it's very expensive, and, you know, along with global warming and so many of these other issues that are pressing on us, is how do we keep habitats and environments that's sustainable for these animals and for the next two hundred, three hundred, four hundred years for our kids and their kids? And really, in my opinion, it's sort of a balance of the planet, I mean all of these animals in the wild have very important jobs that they do, and have kept the balance of the Earth in a beautiful- I would say a very beautiful state, and I don't think you have to be a rocket scientist to look around and see things, you know, everything from like, fishing populations disappearing, you know, at the base of it, we're going to have to feed ourselves and hopefully live on the planet and have enough oxygen and enough trees so we can all flourish and with that, you know, without the wild-life population, I don't think really think that's entirely possible.
 
@@ -75,7 +75,7 @@ And why is it over so many years it seems like there's been some sort of battle-
 
 **PITC:** I mean, as Jorja says, you really have to- just the logistics of moving twenty-five lions-
 
-**JF: **Mm-hmm.
+**JF:** Mm-hmm.
 
 **PITC:** -is quite amazing. So we're going to take a brief break, and when we're gonna come back, and yes everyone, I am gonna ask Jorja about CSI so don't hang me, I will be right back. *(Jorja and the host laugh)*
 
@@ -103,15 +103,15 @@ And why is it over so many years it seems like there's been some sort of battle-
 
 **PITC:** Interestingly enough?
 
-**JF: **They did. Sara got to go to Costa Rica, she got on the Sea Shepherd off the Galapagos, she did all kinds of exciting things, and the last thing that I said to our show runner Carol Mendehlson was, you know, "I'll miss you, thank you so much, I'm leaving, but I'd love to visit sometime."
+**JF:** They did. Sara got to go to Costa Rica, she got on the Sea Shepherd off the Galapagos, she did all kinds of exciting things, and the last thing that I said to our show runner Carol Mendehlson was, you know, "I'll miss you, thank you so much, I'm leaving, but I'd love to visit sometime."
 
-**PITC: **Mm-hmm.
+**PITC:** Mm-hmm.
 
 **JF:** So that sort of- that, you know, one thing led to another and I had first came back, um, when William Petersen was ready to take *his* sabbatical, they invited me back for a couple of shows, to sort of help him get off the show, and that's where we were left, you know, sort of suspended, you know, and it was one of these great- in my opinion, it was one of these great Hollywood endings with two characters that were going to live happily ever after, exploring the world together, there was a part of me that thought, you know, we should just let that sit, you know, the book is closed, you know, the chapter at the end says "The End" and it's over, and so, there was that, where I thought maybe the best thing for those characters was to just sort of stay there, and then there was this call from *CSI* saying "Well why don't you just come visit for a little while?" and I was thrilled, I never expected that to happen, you know, TV shows move on, you know, when people leave the show for whatever reason, they tend to move on, and so it was very flattering and ended up being great for me, and um, now we're sort of in a balance where I get to do a lot of episodes and, and if there's something else I want to do, like go to Denver in February and greet these lions for a few days, they are often able to tell me to go do it, so it's a great, great job.
 
 **PITC:** You and Grissom, and as you were saying, that's your wonderful co-star William Petersen, you guys, for a lot of people, have an ideal marriage. *(Jorja cracks up) *You know, it's like, you love each other, you Skype in once in a while, "Hey, how you doing?", and whatever* (laughs)*
 
-**JF: **Yeah!
+**JF:** Yeah!
 
 **PITC:** And I mean, and you, forget it, you teased everybody [in] the last episode [The Two Mrs. Grissoms] that he was on there and you guys were talking... does that mean that Gil might be coming back?
 
@@ -127,15 +127,15 @@ And why is it over so many years it seems like there's been some sort of battle-
 
 **PITC:** She's a nerd! She's a lab nerd!
 
-**JF: ***(laughs)* But yeah, you know, it's a testament to our writers, I think, for sure the moral of the story is that your stuff or your junk or your trauma, you know, doesn't have to define you for your entire life, you know, and I think that's a really awesome message, that you can make apple sauce out of apples, you know, that you can, you can persevere, and um, and you know, her and Grissom are very unique, I mean he was kind of eccentric himself when it came to such personal skills, and-
+**JF:** *(laughs)* But yeah, you know, it's a testament to our writers, I think, for sure the moral of the story is that your stuff or your junk or your trauma, you know, doesn't have to define you for your entire life, you know, and I think that's a really awesome message, that you can make apple sauce out of apples, you know, that you can, you can persevere, and um, and you know, her and Grissom are very unique, I mean he was kind of eccentric himself when it came to such personal skills, and-
 
-**PITC: **Yeah!
+**PITC:** Yeah!
 
 **JF:** And it took them a *really long time*- I think that they - that there was a connection between them and a chemistry but it took them both a really long time to both decide that they could actually spend their lives with another person. I think they both kind of thought of themselves as loners, and that maybe, that kind of a relationship wouldn't necessarily be something they'd experience, and they were able to make it work, you know, that's a great message too, you know, you may feel sometimes like you have trouble connecting with people, but there *is* somebody, somewhere, out there, you know, that might make life more fun, you know, if you share it with them.
 
 **PITC:** Even in a forensics lab!
 
-**JF: **Yeah! *(host laughs) *Even, even in our darkest hours, you know.
+**JF:** Yeah! *(host laughs) *Even, even in our darkest hours, you know.
 
 **PITC:** You know, it also seems like you've been able to weave some aspects of your personality into Sara, I mean, she's a vegetarian, right, she's very-
 
@@ -151,9 +151,9 @@ And we don't use, you know, obviously, all the dead things on *CSI* are either r
 
 **JF:** Yeah! Yeah, and I don't condone using animals for experiments, personally, but.
 
-**PITC: **I have to tell you, I have a friend who works in a forensic lab here in New York, and they say, you know what, wow, I wish that we had some of those things that-
+**PITC:** I have to tell you, I have a friend who works in a forensic lab here in New York, and they say, you know what, wow, I wish that we had some of those things that-
 
-**JF: **Yeah!
+**JF:** Yeah!
 
 **PITC:*** (laughs)* I mean it's- the graphics, and this and that, I mean you guys, although, then again, there were many forensic scientists you've given birth to through this show.
 
@@ -161,19 +161,19 @@ And we don't use, you know, obviously, all the dead things on *CSI* are either r
 
 And thank goodness for it, you know, that's something that's really come out of, again, really, the last thirty years of science, you know, has made amazing strides, there, you know, there's a cold case just solved on the news last night of a woman who had killed her kid, I feel like it was-
 
-**PITC: **That's right, I remember seeing that. And the brother recently just came forward and said- my mother- yeah, yeah. That was sad. No, I-I-I-
+**PITC:** That's right, I remember seeing that. And the brother recently just came forward and said- my mother- yeah, yeah. That was sad. No, I-I-I-
 
-**JF: **-put the pieces together.
+**JF:** -put the pieces together.
 
 **PTIC:** Now on the flip side of that, what I've heard, like once in a while a criticism is sort of like "Yeah, but you're showing criminals exactly what they have to do not to get caught."
 
 **JF:** Yes! Yeah.* (host laughs) *I think that's true, and I also think that there's very, very, very few ways to get away with a crime these days, you know, that window- and criminals will always* try *to think of ways to outsmart, you know, law enforcement- but in the age that we're living in right now, it's pretty amazing at just how little you can actually get away with, you know. And I think the show also shows* that* *(laughs)* Like, oh well, we're probably gonna arrest you. Very few of *(laughs)* our criminals actually get off; it happens! I was outsmarted by a twelve-year-old, twice, the same genius twelve-year-old. Uh, you gotta watch those kids, because I think they're the most ahead of the technology, you know, of anybody.
 
-**PITC: **Oh yeah, let me tell you. You know, my niece, she's seven years old, she has an iPad, I'm like, you gotta be kidding me.
+**PITC:** Oh yeah, let me tell you. You know, my niece, she's seven years old, she has an iPad, I'm like, you gotta be kidding me.
 
 **JF:** *Woooow. *
 
-**PITC: **Yeah, yeah, yup, it's amazing. So listen, I really appreciate you spending time with us, I would be remiss with our pets in this city at Life Radio listeners to not let them know that in addition to all this great stuff about you, you are also a native New Yorker.
+**PITC:** Yeah, yeah, yup, it's amazing. So listen, I really appreciate you spending time with us, I would be remiss with our pets in this city at Life Radio listeners to not let them know that in addition to all this great stuff about you, you are also a native New Yorker.
 
 **JF:** I am indeed, yes, and I miss it dearly! There've been several times I've thought to myself, "Why couldn't I get on that *CSI **New York*?" *(laughs)*
 
@@ -187,43 +187,43 @@ And thank goodness for it, you know, that's something that's really come out of,
 
 **PITC:** Oh, okay.
 
-**JF: **So I was primarily young in Florida, I had moved back to New York at the age of sixteen, I finished high school there, and uh, my family would go back and forth a lot. My mom was- had only lived in Montreal, and New York, sort of bigger cities, all her life, and had a dream of taking the kids and moving them down to a very small beach town, which is what she did- she would do, but she would also get homesick, often, for New York, so we would just pack it up, she'd take me out of school and we'd go up to New York for a week and a half or so and then come back.
+**JF:** So I was primarily young in Florida, I had moved back to New York at the age of sixteen, I finished high school there, and uh, my family would go back and forth a lot. My mom was- had only lived in Montreal, and New York, sort of bigger cities, all her life, and had a dream of taking the kids and moving them down to a very small beach town, which is what she did- she would do, but she would also get homesick, often, for New York, so we would just pack it up, she'd take me out of school and we'd go up to New York for a week and a half or so and then come back.
 
-**PITC: **Okay, great.
+**PITC:** Okay, great.
 
 **JF:** Yeah, no, I'm a native New Yorker, and uh, my dog, unfortunately, just passed away last week at fourteen.
 
 **PITC:** Oh, my goodness.
 
-**JF: **She was also a native New Yorker, and my cats were also native New Yorkers.
+**JF:** She was also a native New Yorker, and my cats were also native New Yorkers.
 
 **PITC:** I'm so sorry.
 
 **JF:** Oh, thank you, yeah, it's been a rough week, but she had a really peaceful goodbye.
 
-**PITC: **Oh my goodness. And what- how do you mean they were native New Yorkers, did you adopt them from here?
+**PITC:** Oh my goodness. And what- how do you mean they were native New Yorkers, did you adopt them from here?
 
 **JF:** Yeah, they were all rescues out of New York, yeah. And then I moved to Los Angeles, I guess about... fourteen years ago now? So they all made the move with me, and adapted, you know, seamlessly, of course, so the weather out here, they loved the idea of having a yard and all that kind of stuff that I didn't have in New York, so. But my dog- you know, I was living in LA when my dog came- it was sort of a weird rescue, a friend of a friend that had a dog that needed a home, and sort of one of those stories, and the original owner was an actor, so he threw out some auditions, he brought the dog, who was ten months old, and for about the first, I'd say, eight or nine months of her living in Los Angeles, all she wanted to do was walk up and down concrete streets [inaudible]. *(host laughs)* I couldn't get her to go hiking, she was- she just didn't get it, and then as she got a little older she was like, "Oh, I guess this hiking thing's OK", you know.
 
-**PITC: **Wow, that's-
+**PITC:** Wow, that's-
 
 **JF:** I have had in these last fifteen years or so, two cats; one came out of a shelter in New York City, one came out of a shelter in Brooklyn, and then a Boxer- I was already living in LA- that came out of New York City out to LA to be with me, and yeah, so all three of my pets are from New York, and were all rescues.
-**
-PITC:** Wow. And I know you said that you had lost, um, two of them recently.
+
+**PITC:** Wow. And I know you said that you had lost, um, two of them recently.
 
 **JF:** I lost my dog Ali last Sunday, uh, January 30th-
 
-**PITC: **Awww, I'm sorry.
+**PITC:** Awww, I'm sorry.
 
 **JF:** She was fourteen years and four months young. Um, for a Boxer, that's a really, really, really long, great life, yeah. She... she was sort of on borrowed time for a few years already, and uh, yeah, I'll miss her horribly. So I'm recovering from that, I'm sure-I'm sure there will be another dog in my future, but I'm going to take a little and just celebrate her first.
 
-**PITC: **Never gets easier, it never gets easier.
+**PITC:** Never gets easier, it never gets easier.
 
 **JF:** No, no, it doesn't, and uh, that's their big joke on us, is that their lifespans are so much shorter than ours, I think* (laughs)* I was thinking, well, maybe I'll get a turtle, you know, or a parrot *(host laughs)* Takes them a long time! And, uh, but again, I actually don't advocate exotic pets as pets for anybody, but you know, I think about it; it'd be nice to have an animal that, you know, would be with me hopefully as long as I have left.
 
-**PITC: **Well, you know, you kinda have by proxy twenty-five lions in Colorado so there you go.
+**PITC:** Well, you know, you kinda have by proxy twenty-five lions in Colorado so there you go.
 
-**JF:** *(both laugh) *It's gonna be exciting! I hope everybody will tune into the ADI website; they do a great job of presenting video diaries, you can sort of check updates almost daily, and sort of join along in this adventure and this journey, and um, Jan Creamer's been in Bolivia for a couple of months already, preparing everything. Tim Phillips, who's based out of London is now there too, the next time I'll see them will be at the Denver airport. We imagine February 16, probably sometime around in the day, and, uh, it is a huge undertaking as you mentioned, getting* four* lions to California was a massive ordeal and the plane had to reload in Panama, so you're really bringing in three countries. You had Bolivia, you had the country of Panama and the country of the United States, that were all able to coordinate this together, they landed at San Francisco International in San Francisco. Couldn't have been more amazing, uh, it was an odd request, and not something they get everyday *(host laughs)* and, uh-
+**JF:** *(both laugh)* It's gonna be exciting! I hope everybody will tune into the ADI website; they do a great job of presenting video diaries, you can sort of check updates almost daily, and sort of join along in this adventure and this journey, and um, Jan Creamer's been in Bolivia for a couple of months already, preparing everything. Tim Phillips, who's based out of London is now there too, the next time I'll see them will be at the Denver airport. We imagine February 16, probably sometime around in the day, and, uh, it is a huge undertaking as you mentioned, getting* four* lions to California was a massive ordeal and the plane had to reload in Panama, so you're really bringing in three countries. You had Bolivia, you had the country of Panama and the country of the United States, that were all able to coordinate this together, they landed at San Francisco International in San Francisco. Couldn't have been more amazing, uh, it was an odd request, and not something they get everyday *(host laughs)* and, uh-
 
 **PITC:** I would imagine!
 
@@ -231,7 +231,7 @@ PITC:** Wow. And I know you said that you had lost, um, two of them recently.
 
 **PITC:** "Excuse me, customs! Uh, what do you have to declare?" "Oh sorry, five lions." *(laughs)*
 
-**JF: **Yeah, and you know, there's pretty strict, you know, wild-life importation laws in the United States and that's a GOOD thing. But, when you're actually trying to do something like this, it can be a very complicated procedure, the paperwork alone, the different languages that people speak, as I said, um, it's quite an ordeal, and one of the coolest things about these twenty five lions is that a couple of them are-had been living in prides already, under these circus conditions, so they'll be together. As soon as the first lion moved, we were moving three brothers and a sister, and they've been together their whole lives, and the transition was actually very smooth, and we believe [it's because] we didn't separate them for the entire journey. And so these guys will all go together and the few that didn't know each other have had a chance to get to know each other, in the last couple of months in the temporary compound, which we're very grateful to Mayor Hernandez in Santa Cruz for providing the space for; a large, temporary compound for twenty-five lions! *(laughs)*
+**JF:** Yeah, and you know, there's pretty strict, you know, wild-life importation laws in the United States and that's a GOOD thing. But, when you're actually trying to do something like this, it can be a very complicated procedure, the paperwork alone, the different languages that people speak, as I said, um, it's quite an ordeal, and one of the coolest things about these twenty five lions is that a couple of them are-had been living in prides already, under these circus conditions, so they'll be together. As soon as the first lion moved, we were moving three brothers and a sister, and they've been together their whole lives, and the transition was actually very smooth, and we believe [it's because] we didn't separate them for the entire journey. And so these guys will all go together and the few that didn't know each other have had a chance to get to know each other, in the last couple of months in the temporary compound, which we're very grateful to Mayor Hernandez in Santa Cruz for providing the space for; a large, temporary compound for twenty-five lions! *(laughs)*
 
 **PITC:** Uh, yeah! *(laughs)*
 
@@ -241,16 +241,16 @@ PITC:** Wow. And I know you said that you had lost, um, two of them recently.
 
 **JF**: Yes, please! If you're inspired or moved, you can go directly to the savethelionsappeal.com or adiusa.org- there will be a link to their site- ADI, also, I believe will be hosting video diaries if you want to find out more or learn more about these lions. They are endangered and they're incredibly majestic animals, and I think that we need them, and they deserve a nice place to live.
 
-**PITC: **And so we'll be in touch with you hopefully, you know, in a week or two, and see what's going on?
+**PITC:** And so we'll be in touch with you hopefully, you know, in a week or two, and see what's going on?
 
 **JF:** Oh, I'd love that!
 
-**PITC: **Okay!
+**PITC:** Okay!
 
 **JF:** Yeah, follow up, that'd be great!
 
-**PITC: **Fantastic! Jorja, we really appreciate you visiting with us today, thank you.
+**PITC:** Fantastic! Jorja, we really appreciate you visiting with us today, thank you.
 
-**JF: **Oh Diane, thank you so much!
+**JF:** Oh Diane, thank you so much!
 
 **PITC:** That was very cool. I really hope that you guys got some good dish from *CSI* Las Vegas from, of course, the wonderful Jorja Fox who plays Sara Sidle, and we're gonna check in with her again and see how the lions are doing. We will put all the information she had spoken about how you can help the lions settle in at their new home, up on our Pets In The City On PetLife Radio website, so check that out after you listen.

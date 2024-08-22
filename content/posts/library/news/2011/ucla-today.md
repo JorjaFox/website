@@ -1,16 +1,16 @@
 ---
 title: UCLA Today
 date: 2011-06-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Japan is well on the road to recovery, ambassador says  "
-newsauthor: Wendy Soderburg
+newsreporter: Wendy Soderburg
 newssource: UCLA Today
-newsurl: http://today.ucla.edu/portal/ut/japan-stays-front-and-center-at-208557.aspx
+newsurl: https://today.ucla.edu/portal/ut/japan-stays-front-and-center-at-208557.aspx
 
 ---
 

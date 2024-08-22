@@ -1,9 +1,9 @@
 ---
 title: "Lions Arrive At San Francisco Airport with 'CSI's' Jorja Fox"
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-05-27
-interviewurl: http://lionark.com
+interviewurl: https://lionark.com
 permalink: /transcript/2010/:title/
 categories: ["Interviews"]
 tags: [ "2010" ]

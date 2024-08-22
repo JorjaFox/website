@@ -1,15 +1,15 @@
 ---
 title: AZ Central
 date: 2004-07-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "2 stars of 'CSI' reportedly fired"
-newsauthor: Staff
+newsreporter: Staff
 newssource: AZ Central
-newsurl: http://www.azcentral.com/
+newsurl: https://www.azcentral.com/
 
 ---
 

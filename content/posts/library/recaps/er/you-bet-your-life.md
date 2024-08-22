@@ -25,5 +25,5 @@ Carol clashes with Doyle, mostly because Doyle's a doctor, and Carol feels she c
 
 ## Quotes
 
-**EMT:** Old guy was playing cards with his pals when he keeled over.
+**EMT:** Old guy was playing cards with his pals when he keeled over.\
 **Maggie:** Must've gotten a bad hand.

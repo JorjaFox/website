@@ -1,16 +1,16 @@
 ---
 title: Woman Magazine UK
 date: 2007-01-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "The Way I See It..."
-newsauthor: Woman Magazine
+newsreporter: Woman Magazine
 newssource: Woman Magazine
-newsurl: http://www.ipcmedia.com/magazines/woman/
+newsurl: https://www.ipcmedia.com/magazines/woman/
 
 ---
 

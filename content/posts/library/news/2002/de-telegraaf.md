@@ -1,15 +1,15 @@
 ---
 title: De Telegraaf
 date: 2002-06-21
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories:
 permalink: /news/2002/:title/
 newstitle: TV Weekeinde
-newsauthor: Staff
+newsreporter: Staff
 newssource: De Telegraaf
-newsurl: http://www.telegraaf.nl
+newsurl: https://www.telegraaf.nl
 
 ---
 

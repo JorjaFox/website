@@ -41,7 +41,7 @@ Sara sees the similarities between herself and one of the sisters. As she questi
 
 - - -
 
-**Grissom:** Agoraphobic maybe? Or she just doesn't like people?
+**Grissom:** Agoraphobic maybe? Or she just doesn't like people?\
 **Sara:** _(smiling)_ Ah, that's you talking.
 
 - - -

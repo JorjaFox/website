@@ -1,16 +1,16 @@
 ---
 title: Parade Magazine
 date: 2013-08-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "CSI's Jorja Fox on Animal Advocacy on TV and in Real Life  "
-newsauthor: Michele C. Hollow
+newsreporter: Michele C. Hollow
 newssource: Parade
-newsurl: http://www.parade.com/55620/michelechollow/csis-jorja-fox-on-animal-advocacy-on-tv-and-in-real-life/
+newsurl: https://www.parade.com/55620/michelechollow/csis-jorja-fox-on-animal-advocacy-on-tv-and-in-real-life/
 
 ---
 

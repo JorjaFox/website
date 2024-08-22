@@ -1,16 +1,16 @@
 ---
 title: CSI Files
 date: 2012-03-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "Interview: Elisabeth Shue  "
-newsauthor: Shane S. Saunders
+newsreporter: Shane S. Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2012/03/interview-elisabeth-shue/
+newsurl: https://www.csifiles.com/content/2012/03/interview-elisabeth-shue/
 
 ---
 

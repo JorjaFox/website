@@ -1,15 +1,15 @@
 ---
 title: The Wire
 date: 2014-09-22
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]
 permalink: /news/2014/:title/
 newstitle: "A Definitive Ranking of Every Character on 'The West Wing'"
-newsauthor: Joe Reid, David Sims, Kevin O'Keeffe
+newsreporter: Joe Reid, David Sims, Kevin O'Keeffe
 newssource: The Wire
-newsurl: http://www.thewire.com/entertainment/2014/09/a-definitive-ranking-of-every-character-on-the-west-wing/380098/
+newsurl: https://www.thewire.com/entertainment/2014/09/a-definitive-ranking-of-every-character-on-the-west-wing/380098/
 
 ---
 

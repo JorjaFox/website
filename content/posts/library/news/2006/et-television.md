@@ -1,16 +1,16 @@
 ---
 title: ET Television
 date: 2006-04-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Murder at a Hollywood Wedding  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: ET Television
-newsurl: http://et.tv.yahoo.com/
+newsurl: https://et.tv.yahoo.com/
 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: About Us
 date: '2015-10-01'
-author: 'Mika E. (Ipstenu)'
-layout: minimal
+layout: library
 ---
 
 **Fans of Lefox** (formerly "A Jorja Fox Fansite", formerly "Jorja Fox: Online") has been serving the internet since 1996 with the goal of being a one stop-shop for information about the actress, musician, playwright and producer, Jorja Fox. Jorja Fox is an actress, producer, humanitarian, activist and environmentalist. She has been seen on such hit TV shows as _CSI: Crime Scene Investigation_, _ER_, _The West Wing_ and _Law &amp; Order_, as well as indie movies like Memento and Food for the Heart.
 
-We are _not_ an official Jorja Fox website and are run by fans for no monetary compensation. Her official site is at http://www.jorjafox.com/
+We are _not_ an official Jorja Fox website and are run by fans for no monetary compensation. Her official site is at [jorjafox.com](https://www.jorjafox.com/)
 
 This website is run by Mika Epstein, who's been maintaining the site since December 1996. It is run entirely by fans for no monetary compensation. No one gets paid or makes a profit off this site (all proceeds go to the cost of webhosting and site running, in the rare occasions there's extra, the surplus goes to charity). Due to the machinations of US law, We are not a registered non-profit, you just have to take our words for it.
 
@@ -19,7 +18,7 @@ In your email, please be explicit in your needs/questions/requests. Every attemp
 
 ## Current Staff
 
-* [Mika Ariela Epstein](http://ipstenu.org/) - Webmaster, site maintainer and coding guru. Has her finger in every pie.
+* [Mika Ariela Epstein](https://ipstenu.org/) - Webmaster, site maintainer and coding guru. Has her finger in every pie.
 
 ## Credits
 
@@ -33,6 +32,6 @@ On October 17th, 2001, I made our formal move to the domain name jorjafox.net an
 
 As of 2020, the server and code stack has been stable, hosted on DreamHost VPS.
 
-Possibly most memorable _server_ moment was October 2007, when Jorja Fox announced she was leaving CSI, and the server nearly crashed under the weight of all the visits! The most memorable moment in general was [being invited to meet Jorja](https://jorjafox.net/blog/2010/02-08-jorja-jfo/).
+Possibly most memorable _server_ moment was October 2007, when Jorja Fox announced she was leaving CSI, and the server nearly crashed under the weight of all the visits! The most memorable moment in general was [being invited to meet Jorja](https://jorjafox.net/blog/2010/02-28-jorja-invited-jfo-to-spotlight-humane-chicago/).
 
 Don't ask about how many redesigns I've had for the look and feel for this site, since I lost track after the tenth revision! The first site was a real ugly one, and I seem to recall a green and a purple one somewhere out there. I revamped the look and feel in 2006 to celebrate 10 years (since I'd forgotten what year I started the site) and then again in 2008 when we got tired of the orange. Since I'm known as the 'Green Site' (thank you, Joe Fab) our dip into red was momentary and passing.

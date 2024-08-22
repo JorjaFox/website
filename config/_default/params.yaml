@@ -7,6 +7,7 @@ head:
 
 style:
   primary: "#107952"
+  secondary: "#34383C"
 
 navigation:
   logo: "logo.svg"
@@ -17,6 +18,7 @@ favicon:
 
 home:
   sections: [ "blog" ]
+  style: "gradient-featured"
   feature:
     width: 6
     color: "primary"
@@ -26,3 +28,31 @@ externalLinks:
 
 includeToc:
   show: true
+
+sections:
+  blog:
+    reference: "More Posts"
+    sort: "date"
+    layout: "card"
+    style: "border-0 shadow card-zoom card-body-margin"
+    reverse: true
+    title: "Blog Posts"
+    cols: 3
+    padding: "3"
+    header: "full"
+    footer: "none"
+
+schema:
+  name: "Fans of Lefox"
+  twitter: "https://twitter.com/fansoflefox"
+  github: "https://github.com/jorjaFox/website/"
+
+modules:
+  bs5-lightbox:
+    integration: "optional"
+    disableTemplate: false
+    state: "async"
+  katex:
+    disableTemplate: true
+  leaflet:
+    disableTemplate: true

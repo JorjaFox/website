@@ -1,16 +1,16 @@
 ---
 title: Dorothy Surrenders
 date: 2009-09-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Tell me, who are hot?"
-newsauthor: Dorothy Snarker
+newsreporter: Dorothy Snarker
 newssource: Dorothy Surrenders
-newsurl: http://dorothysurrenders.blogspot.com/2009/09/tell-me-who-are-hot.html
+newsurl: https://dorothysurrenders.blogspot.com/2009/09/tell-me-who-are-hot.html
 
 ---
 

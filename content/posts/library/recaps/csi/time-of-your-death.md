@@ -35,10 +35,10 @@ Spoilers made much of the scene between Grissom, Sara and Caprice (the man runni
 
 ## Quotes
 
-Sara Please tell me there are something more to this guys and cars thing, besides the obvious penis extension metaphors.
+Sara Please tell me there are something more to this guys and cars thing, besides the obvious penis extension metaphors.\
 **Greg:** So you want me to lie?
 
 - - -
 
-**Grissom:** Some guys are intimidated by beauty. Or fear rejection. _
-**Sara:** _(narrows her eyes in reaction to this__
+**Grissom:** Some guys are intimidated by beauty. Or fear rejection.\
+**Sara:** _(narrows her eyes in reaction to this)_

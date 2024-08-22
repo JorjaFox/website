@@ -16,6 +16,7 @@
         {{ $showdata.Set "notes" .notes }}
         {{ $showdata.Set "jorjan" .jorjan }}
         {{ $showdata.Set "watch" .watch }}
+        {{ $showdata.Set "unverified" .unverified }}
     {{ end }}
 {{ end }}
 
@@ -30,14 +31,16 @@
 {{ $notes := $showdata.Get "notes" }}
 {{ $jorjan := $showdata.Get "jorjan" }}
 {{ $watch := $showdata.Get "watch" }}
+{{ $unverified := $showdata.Get "unverified" }}
 
-{{ $thumbnail := .Params.image | default "/img/placeholder.png" }}
+{{ $thumbnail := .Params.actorimage | default "/img/placeholder.png" }}
 
 {{ $class := "rounded" }}
 
 <!-- Excerpt/Details -->
 
 <div class="toc toc-sidebar mb-5 my-md-0 mb-lg-5 p-3 text-body-secondary sticky-top">
+    {{- if $unverified -}}{{- partial "unconfirmed.html" }}{{ end }}
     <div class="card text-bg-light">
         <div class="card-header">
             <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>
@@ -48,9 +51,9 @@
 
         </div>
             <ul class="list-group list-group-flush actor-list-group">
-                {{ if $year }}<li class="list-group-item">{{ $year }}</li>{{ end }}
-                {{ if $genre }}<li class="list-group-item">{{ $genre }}</li>{{ end }}
-                {{ if $station }}<li class="list-group-item">{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
+                {{ if $year }}<li class="list-group-item">Airdates: {{ $year }}</li>{{ end }}
+                {{ if $genre }}<li class="list-group-item">Genre: {{ $genre }}</li>{{ end }}
+                {{ if $station }}<li class="list-group-item">Network: {{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
                 {{ if .Params.imdb }}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{ end }}
                 {{ if .Params.episodelist }}<li class="list-group-item">
                     <a href="/library/recaps/{{ .File.TranslationBaseName }}/">List of Appearances</a>
@@ -65,7 +68,7 @@
                 </li>{{ end }}
                 {{ if and ($rating) (ne $rating "fake") }}
                     {{ .Page.Scratch.Set "goldstar" $rating }}
-                    <li class="list-group-item text-center">{{ partial "rating.html" . }}</li>
+                    <li class="list-group-item text-center">{{ partial "rating.html" (dict "rating" $rating ) }}</li>
                 {{ end }}
             </ul>
     </div>

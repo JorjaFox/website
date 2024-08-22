@@ -29,5 +29,5 @@ It's Doyle who pages Corday at 6:30 AM (after Corday as been on for 24 hours) to
 
 ## Quotes
 
-**Doyle:** We've all been there!
+**Doyle:** We've all been there!\
 **Corday:** Shut up.

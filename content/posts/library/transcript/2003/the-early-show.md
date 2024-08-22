@@ -1,9 +1,9 @@
 ---
 title: The Early Show
-author: David Masters
+transcriber: David Masters
 layout: transcript
 date: 2003-01-09
-interviewurl: http://www.cbsnews.com/earlyshow/
+interviewurl: https://www.cbsnews.com/earlyshow/
 permalink: /transcript/2003/:title/
 categories: ["Interviews"]
 tags: [ "2003" ]

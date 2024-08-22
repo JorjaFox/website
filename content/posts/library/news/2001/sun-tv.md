@@ -1,15 +1,15 @@
 ---
 title: Sun TV
 date: 2001-02-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
 tags: ["2001"]
 newstitle: "Q&A with CSI's Jorja Fox"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Sun TV
-newsurl: http://www.canoe.ca/
+newsurl: https://www.canoe.ca/
 
 ---
 Jorja Fox probably prefers not to describe her talents as "acting chops." The dedicated vegetarian told The Sun's Claire Bickley she even finds playing one of CSI's forensic investigators a little too realistic.

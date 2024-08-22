@@ -1,16 +1,16 @@
 ---
 title: The Humane Society of the United States
 date: 2010-02-12
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Jorja Fox Joins The HSUS to Help End Dogfighting in Chicago  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: The Humane Society of the United States
-newsurl: http://www.humanesociety.org/news/news/2010/02/spotlight\_humane\_chicago_021210.html
+newsurl: https://www.humanesociety.org/news/news/2010/02/spotlight\_humane\_chicago_021210.html
 
 ---
 

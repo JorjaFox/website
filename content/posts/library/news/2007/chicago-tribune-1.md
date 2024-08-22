@@ -1,16 +1,16 @@
 ---
 title: Chicago Tribune
 date: 2007-04-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Grissom! Sara! Other stuff! It's the 'CSI' finale"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Chicago Tribune
-newsurl: http://featuresblogs.chicagotribune.com
+newsurl: https://featuresblogs.chicagotribune.com
 
 ---
 

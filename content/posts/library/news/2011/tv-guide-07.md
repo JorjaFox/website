@@ -1,16 +1,16 @@
 ---
 title: TVGuide.com
 date: 2011-02-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "How *CSI* Got William Petersen Back  "
-newsauthor: Carita Rizzo
+newsreporter: Carita Rizzo
 newssource: TVGuide.com
-newsurl: http://www.tvguide.com/News/CSI-Got-William-1028901.aspx
+newsurl: https://www.tvguide.com/News/CSI-Got-William-1028901.aspx
 
 ---
 

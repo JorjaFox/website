@@ -5,7 +5,7 @@ layout: advocacy
 categories: ["Advocacy"]
 tags:
   - Environmentalism
-website: http://www.earth.us
+website: https://www.earth.us
 ---
 
 Earth shoes are extremely comfortable shoes, made in a 'negative heel' design that is reported to alleviate stress on the lower back and improve posture.

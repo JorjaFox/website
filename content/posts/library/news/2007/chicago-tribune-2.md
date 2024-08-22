@@ -1,16 +1,16 @@
 ---
 title: Chicago Tribune
 date: 2007-09-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "News on Spike, Sara Sidle and Santos"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Chicago Tribune
-newsurl: http://chicagotribune.com
+newsurl: https://chicagotribune.com
 
 ---
 

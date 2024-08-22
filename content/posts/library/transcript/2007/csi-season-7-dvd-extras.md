@@ -1,9 +1,9 @@
 ---
 title: CSI season 7 DVD extras
 date: 2007-07-01
-author: David Masters
+transcriber: David Masters
 layout: transcript
-interviewurl: http://www.cbs.com
+interviewurl: https://www.cbs.com
 permalink: /transcript/2007/:title/
 categories: ["Interviews"]
 tags: ["2007"]

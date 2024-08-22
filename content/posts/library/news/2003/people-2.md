@@ -1,15 +1,15 @@
 ---
 title: People Magazine
 date: 2003-05-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
 permalink: /news/2003/:title/
 newstitle: Hey There, Jorja Girl
-newsauthor: Staff
+newsreporter: Staff
 newssource: People Magazine
-newsurl: http://people.com
+newsurl: https://people.com
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: ET Online
 date: 2005-02-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Mark Uncovers Secrets from the CSI Set"
-newsauthor: Staff
+newsreporter: Staff
 newssource: ET Online
-newsurl: http://et.tv.yahoo.com
+newsurl: https://et.tv.yahoo.com
 
 ---
 [...]

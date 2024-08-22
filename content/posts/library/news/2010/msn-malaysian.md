@@ -1,16 +1,16 @@
 ---
 title: MSN Malaysian
 date: 2010-02-24
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Jorja Fox: She's back on CSI!  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: MSN Malaysian
-newsurl: http://entertainment.malaysia.msn.com/tv/article.aspx?cp-documentid=3904920
+newsurl: https://entertainment.malaysia.msn.com/tv/article.aspx?cp-documentid=3904920
 
 ---
 

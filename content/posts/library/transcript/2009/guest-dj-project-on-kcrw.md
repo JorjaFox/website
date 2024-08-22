@@ -1,8 +1,8 @@
 ---
 title: Guest DJ Project on KCRW
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://kcrw.com/
+interviewurl: https://kcrw.com/
 date: 2009-09-23
 permalink: /transcript/2009/:title/
 categories: ["Interviews"]
@@ -57,7 +57,7 @@ tags: [ "2009" ]
 
 **JF:** It was great, good luck with this project, it was so fun!
 
-**MB:** For complete track listing and to find these songs online go to [KCRW.com/GuestDJProject](http://KCRW.com/GuestDJProject).
+**MB:** For complete track listing and to find these songs online go to [KCRW.com/GuestDJProject](https://KCRW.com/GuestDJProject).
 
 ## Tracks
 

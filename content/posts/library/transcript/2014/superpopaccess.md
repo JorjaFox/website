@@ -2,7 +2,7 @@
 title: SuperPopACCESS
 date: 2014-01-26
 interviewurl: https://www.youtube.com/user/SuperPopACCESS
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2014/:title/
 categories: ["Interviews"]

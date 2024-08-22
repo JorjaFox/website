@@ -1,16 +1,16 @@
 ---
 title: Buddy TV
 date: 2008-06-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
 tags: ["2008"]
 
 newstitle: "Jorja Fox's Heart Belongs to 'CSI'  "
-newsauthor: Kris De Leon
+newsreporter: Kris De Leon
 newssource: Buddy TV
-newsurl: http://www.buddytv.com/articles/csi/jorja-foxs-heart-belongs-to-cs-20773.aspx
+newsurl: https://www.buddytv.com/articles/csi/jorja-foxs-heart-belongs-to-cs-20773.aspx
 
 ---
 

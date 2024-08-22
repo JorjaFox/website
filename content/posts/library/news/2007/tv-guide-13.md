@@ -1,16 +1,16 @@
 ---
 title: TV Guide
 date: 2007-11-15
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "'CSI''s Sara Sidles Off into the Sunset  "
-newsauthor: Matt Roush
+newsreporter: Matt Roush
 newssource: TV Guide Editors' Blogs - Roush Dispatch
-newsurl: http://community.tvguide.com/blog/TVGuide-Editors-Blog/Roush-Dispatch/700000048
+newsurl: https://community.tvguide.com/blog/TVGuide-Editors-Blog/Roush-Dispatch/700000048
 
 ---
 On last week's episode of "CSI", in the crossover stunt featuring "Without a Trace**s Jack Malone, Sara Sidle was shown as visibly shaken at an especially unsettling crime scene, walking away as if she'd had enough. Her psychological unease and emotional exhaustion had been well established even before last season's cliff-hanger that left her trapped under a car in the desert, as fans wondered all summer if TV's top procedural was going to kill off one of its own. Thankfully, "CSI" (as usual) took the high road, and this story reaches its destination tonight.

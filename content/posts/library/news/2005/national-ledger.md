@@ -1,16 +1,16 @@
 ---
 title: National Ledger
 date: 2005-08-27
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Ask Stacy: Who Makes More, 50 Cent or Nicole Kidman?"
-newsauthor: Staff
+newsreporter: Staff
 newssource: National Ledger
-newsurl: http://www.nationalledger.com
+newsurl: https://www.nationalledger.com
 
 ---
 [...]

@@ -1,16 +1,16 @@
 ---
 title: E Online
 date: 2005-02-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]
 tags: ["2005"]
 
 newstitle: "Gossip - The Awful Truth"
-newsauthor: Staff
+newsreporter: Staff
 newssource: E! Online
-newsurl: http://www.eonline.com/
+newsurl: https://www.eonline.com/
 
 ---
 **OscarBit**

@@ -1,16 +1,16 @@
 ---
 title: JS Online
 date: 2006-07-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Joanne Weintraub: Live from L.A.  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: JS Online
-newsurl: http://www.jsonline.com/
+newsurl: https://www.jsonline.com/
 
 ---
 

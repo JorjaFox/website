@@ -24,8 +24,8 @@ Sara assists Grissom.
 
 ## Quotes
 
-**Grissom:** _(talking about the big box-like container that the woman disappeared from)_ This been processed yet?
-**Warrick:** _(jokingly)_ Yeah. You want me to bag it?
+**Grissom:** _(talking about the big box-like container that the woman disappeared from)_ This been processed yet?\
+**Warrick:** _(jokingly)_ Yeah. You want me to bag it?\
 **Sara:** Let's take it back to the lab. Maybe we can make Greg disappear.
 
 - - -

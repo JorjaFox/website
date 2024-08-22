@@ -1,9 +1,9 @@
 ---
 title: Pulse
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2004-02-13
-interviewurl: http://www.pulse.org/
+interviewurl: https://www.pulse.org/
 permalink: /transcript/2004/:title/
 categories: ["Interviews"]
 tags: [ "2004" ]

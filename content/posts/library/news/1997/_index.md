@@ -1,8 +1,8 @@
 ---
 title: "News Articles (1997)"
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
-topic: news-list
+topic: news-index
 date: 1997-01-01
 permalink: /news/1997/
 categories: ["News"]

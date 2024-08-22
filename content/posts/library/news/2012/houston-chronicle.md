@@ -1,16 +1,16 @@
 ---
 title: Houston Chronicle
 date: 2012-04-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "CSI's Jorja Fox Takes on the Circus Elephant Abusers  "
-newsauthor: PRWeb
+newsreporter: PRWeb
 newssource: Houston Chronicle
-newsurl: http://www.chron.com/business/press-releases/article/CSI-s-Jorja-Fox-Takes-on-the-Circus-Elephant-3495060.php
+newsurl: https://www.chron.com/business/press-releases/article/CSI-s-Jorja-Fox-Takes-on-the-Circus-Elephant-3495060.php
 
 ---
 

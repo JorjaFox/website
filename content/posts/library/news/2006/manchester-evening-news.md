@@ -1,16 +1,16 @@
 ---
 title: Manchester Evening News
 date: 2006-07-29
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Jorja's thrill ride finale  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Manchester Evening News
-newsurl: http://www.manchestereveningnews.co.uk
+newsurl: https://www.manchestereveningnews.co.uk
 
 ---
 

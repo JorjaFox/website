@@ -2,16 +2,16 @@
 title: Philadelphia Inquirer
 
 date: 2007-11-30
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "TV Chat: Who would you boot off TV?  "
-newsauthor: Ellen Gray and Jonathan Storm
+newsreporter: Ellen Gray and Jonathan Storm
 newssource: Philadelphia Inquirer
-newsurl: http://www.philly.com/inquirer/online\_extras/chats/TV\_Chat\_Who\_would\_you\_boot\_off\_TV.html
+newsurl: https://www.philly.com/inquirer/online\_extras/chats/TV\_Chat\_Who\_would\_you\_boot\_off\_TV.html
 
 ---
 

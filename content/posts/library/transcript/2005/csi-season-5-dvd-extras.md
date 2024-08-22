@@ -1,9 +1,9 @@
 ---
 title: CSI Season 5 DVD extras
 date: 2005-07-01
-author: David Masters
+transcriber: David Masters
 layout: transcript
-interviewurl: http://www.cbs.com
+interviewurl: https://www.cbs.com
 permalink: /transcript/2005/:title/
 categories: ["Interviews"]
 tags: [ "2005" ]

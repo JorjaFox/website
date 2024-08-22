@@ -1,9 +1,9 @@
 ---
 title: 'CSI: Season Ten EPK'
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-07-01
-interviewurl: http://cbs.com/
+interviewurl: https://cbs.com/
 permalink: /transcript/2010/:title/
 categories: ["Interviews"]
 tags: [ "2010" ]

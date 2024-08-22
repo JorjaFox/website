@@ -1,16 +1,16 @@
 ---
 title: CSI Files
 date: 2006-01-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "Interview with Jorja Fox  "
-newsauthor: Kristine Huntley
+newsreporter: Kristine Huntley
 newssource: CSI Files
-newsurl: http://www.csifiles.com/interviews/jorja_fox.shtml
+newsurl: https://www.csifiles.com/interviews/jorja_fox.shtml
 
 ---
 

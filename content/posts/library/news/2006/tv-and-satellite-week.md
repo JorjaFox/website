@@ -1,16 +1,16 @@
 ---
 title: TV and Satellite Week
 date: 2006-01-28
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "CSI From A to Z  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV & Satellite Week
-newsurl: http://www.tvandsatelliteweek.com/
+newsurl: https://www.tvandsatelliteweek.com/
 
 ---
 

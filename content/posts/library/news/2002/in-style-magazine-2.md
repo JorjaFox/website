@@ -1,15 +1,15 @@
 ---
 title: In Style Magazine
 date: 2002-09-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Jorja Fox
-newsauthor: Staff
+newsreporter: Staff
 newssource: In Style Magazine
-newsurl: http://www.instyle.com/
+newsurl: https://www.instyle.com/
 
 ---
 *She's a dressed-down, seriously smart cookie in 'CSI: Crime Scene Invesigation', but off-screen, Jorja Fox loves to get glammed-up for big nights out in Hollywood.*

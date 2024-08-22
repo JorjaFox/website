@@ -1,15 +1,15 @@
 ---
 title: ExtraTV
 date: 2015-08-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://extratv.com/videos/0_mjhid6vd
+interviewurl: https://extratv.com/videos/0_mjhid6vd
 permalink: /transcript/2015/:title/
 categories: ["Interviews"]
 tags: [ "2015" ]
 ---
 
-## On the Set of 'CSI'! All the Scoop on the Series Finale
+## On the Set of 'CSI'! All the Scoop on the Series Finale
 
 *'Crime Watch Daily' host Matt Doran was the perfect 'Extra' special correspondent to stop by the 'CSI' set to get the scoop on the series finale. Watch!
 

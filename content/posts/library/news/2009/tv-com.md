@@ -1,16 +1,16 @@
 ---
 title: TV.com
 date: 2009-08-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "'CSI' will reunite with Sara Sidle  "
-newsauthor:
+newsreporter:
 newssource: TV.com
-newsurl: http://www.tv.com/story/16633.html
+newsurl: https://www.tv.com/story/16633.html
 
 ---
 

@@ -27,13 +27,13 @@ Gina sees the shooter, but makes sure to protect Zoey first.
 
 ## Quotes
 
-**Ron:** Straight to the car
-**Gina:** He's not going to work the rope line?
-**Ron:** There's a softball game the President wants to watch.
-**Gina:** They show softball on TV?
-**Ron:** Well, yeah.
-**Gina:** And the president watches it?
-**Ron:** He likes to unwind by watching sports on TV.
-**Gina:** Softball.
-**Ron:** Whatever's on.
+**Ron:** Straight to the car.\
+**Gina:** He's not going to work the rope line?\
+**Ron:** There's a softball game the President wants to watch.\
+**Gina:** They show softball on TV?\
+**Ron:** Well, yeah.\
+**Gina:** And the president watches it?\
+**Ron:** He likes to unwind by watching sports on TV.\
+**Gina:** Softball.\
+**Ron:** Whatever's on.\
 **Gina:** Okay.

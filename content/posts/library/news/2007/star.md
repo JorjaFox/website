@@ -1,16 +1,16 @@
 ---
 title: Star
 date: 2007-05-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "CSI 'JILTS JORJA!'"
-newsauthor: Star
+newsreporter: Star
 newssource: Star
-newsurl: http://www.star.com
+newsurl: https://www.star.com
 
 ---
 

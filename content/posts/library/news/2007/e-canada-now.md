@@ -1,16 +1,16 @@
 ---
 title: E Canada Now
 date: 2007-05-03
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Jorja Fox Aint Ready To Leave"
-newsauthor: E Canada Now
+newsreporter: E Canada Now
 newssource: E Canada Now
-newsurl: http://www.ecanadanow.com
+newsurl: https://www.ecanadanow.com
 
 ---
 

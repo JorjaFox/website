@@ -1,12 +1,12 @@
 ---
 title: AP Celebrity Extra
 date: 2011-11-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
 categories: ["Interviews"]
 tags: [ "2011" ]
-interviewurl: http://apimages.com/
+interviewurl: https://apimages.com/
 ---
 When she's not solving crimes on 'CSI,' you can find actress Jorja Fox on a surfboard. (Nov. 16)
 

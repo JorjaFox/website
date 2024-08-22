@@ -1,16 +1,16 @@
 ---
 title: STLtoday
 date: 2007-05-07
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
 tags: ["2007"]
 
 newstitle: "Here's when your favorite series wraps up its season"
-newsauthor: STLtoday
+newsreporter: STLtoday
 newssource: STLtoday
-newsurl: http://www.stltoday.com/
+newsurl: https://www.stltoday.com/
 
 ---
 

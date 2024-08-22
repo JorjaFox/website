@@ -34,5 +34,5 @@ While Nick is in San Diego, Sara is left in charge of the lab as DB and Finn are
 
 ## Quotes
 
-**Nick:** You know, Sara, after all these years, I've finally learned what's important to me, and it's not a promotion.
+**Nick:** You know, Sara, after all these years, I've finally learned what's important to me, and it's not a promotion.\
 **Sara:** Well. You know what Grissom would say. You gotta go where you can do the most good.

@@ -1,16 +1,16 @@
 ---
 title: The Hollywood Reporter
 date: 2009-08-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Jorja Fox back on the case at 'CSI'  "
-newsauthor: Nellie Andreeva
+newsreporter: Nellie Andreeva
 newssource: The Hollywood Reporter
-newsurl: http://www.hollywoodreporter.com/hr/content_display/news/e3ibdf529f18374f6c927c299508c098b12
+newsurl: https://www.hollywoodreporter.com/hr/content_display/news/e3ibdf529f18374f6c927c299508c098b12
 
 ---
 

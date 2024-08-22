@@ -1,16 +1,16 @@
 ---
 title: TODAYonline
 date: 2010-02-26
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]
 tags: ["2010"]
 
 newstitle: "Forgetting Sara Sidle  "
-newsauthor: Genevieve Loh
+newsreporter: Genevieve Loh
 newssource: TODAYonline
-newsurl: http://www.todayonline.com/Plus/Television/EDC100226-0000056/Forgetting-Sara-Sidle
+newsurl: https://www.todayonline.com/Plus/Television/EDC100226-0000056/Forgetting-Sara-Sidle
 
 ---
 

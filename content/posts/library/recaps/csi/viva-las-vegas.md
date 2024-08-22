@@ -38,6 +38,6 @@ Greg is the only one to inquire about Sara's summer (she took some vacation time
 
 - - -
 
-**Sara:** David, I know where he's from.
-**Nick:** Hmm?
+**Sara:** David, I know where he's from.\
+**Nick:** Hmm?\
 **Sara:** Planet Seiko. _(she holds up the watch to show the inscription on the back)_ E.T.

@@ -1,7 +1,7 @@
 ---
 title: "News Articles (2015)"
-author: "Mika A. Epstein"
-layout: news-list
+transcriber: "Mika A. Epstein"
+layout: news-index
 topic: index
 date: 2015-01-01
 permalink: /news/2015/

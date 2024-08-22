@@ -1,16 +1,16 @@
 ---
 title: CableTV.com
 date: 2013-10-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "Jorja Fox Says This Season of CSI Will be About Darkness and Going Darker"
-newsauthor: Monica Gleberman
+newsreporter: Monica Gleberman
 newssource: CableTV.com
-newsurl: http://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-about-darkness-and-going-darker/
+newsurl: https://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-about-darkness-and-going-darker/
 
 ---
 

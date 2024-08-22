@@ -1,16 +1,16 @@
 ---
 title: FotoPeep
 date: 2011-11-02
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Bob Barker And Jorja Fox Launch Circus Animal Cruelty Bill  "
-newsauthor: Teddy Hilton
+newsreporter: Teddy Hilton
 newssource: FotoPeep
-newsurl: http://fotopeep.com/2011/11/bob-barker-and-jorja-fox-launch-circus-animal-cruelty-bill/
+newsurl: https://fotopeep.com/2011/11/bob-barker-and-jorja-fox-launch-circus-animal-cruelty-bill/
 
 ---
 

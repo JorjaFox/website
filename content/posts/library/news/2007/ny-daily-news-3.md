@@ -1,7 +1,7 @@
 ---
 title: NY Daily News
 date: 2007-10-16
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]
@@ -9,9 +9,9 @@ tags: ["2007"]
 
 
 newstitle: "Jorja Fox is leaving 'CSI'  "
-newsauthor: Cristina Kinon
+newsreporter: Cristina Kinon
 newssource: NY Daily News
-newsurl: http://www.nydailynews.com/entertainment/tv/2007/10/16/2007-10-16\_jorja\_fox\_is\_leaving_csi-1.html
+newsurl: https://www.nydailynews.com/entertainment/tv/2007/10/16/2007-10-16\_jorja\_fox\_is\_leaving_csi-1.html
 
 ---
 Jorja Fox has confirmed the talk: She has quit "CSI: Crime Scene Investigation."

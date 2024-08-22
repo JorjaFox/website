@@ -1,16 +1,16 @@
 ---
 title: Shane S Saunders
 date: 2011-03-14
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2011"]
 categories: ["Articles", "News"]
 permalink: /news/2011/:title/
 
 newstitle: "Scoop: CSI, Desperate Housewives, and Rizzoli & Isles"
-newsauthor: Shane S Saunders
+newsreporter: Shane S Saunders
 newssource: Shane S. Saunders
-newsurl: http://shanessaunders.com/2011/03/14/scoop-csi-desperate-housewives-and-rizzoli-isles/
+newsurl: https://shanessaunders.com/2011/03/14/scoop-csi-desperate-housewives-and-rizzoli-isles/
 
 ---
 

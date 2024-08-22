@@ -1,16 +1,16 @@
 ---
 title: ScreenPicks
 date: 2012-10-13
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "Interview: CSI's Jorja Fox  "
-newsauthor: Amy and Nancy Harrington
+newsreporter: Amy and Nancy Harrington
 newssource: ScreenPicks
-newsurl: http://screenpicks.com/2012/10/interview-csis-jorja-fox/
+newsurl: https://screenpicks.com/2012/10/interview-csis-jorja-fox/
 
 ---
 

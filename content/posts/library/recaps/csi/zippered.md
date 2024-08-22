@@ -30,11 +30,11 @@ She later works with Doc Robbins when the body comes in, and determines a way to
 
 ## Quotes
 
-**Sara:** Catherine, who do you want to be? Victim or killer.
-**Catherine:** I'll be the killer.
+**Sara:** Catherine, who do you want to be? Victim or killer.\
+**Catherine:** I'll be the killer.\
 **Sara:** I'll be the victim. I've got a beer in my hand, standing in my own kitchen. I've got every kind of gun six meters that way. I'm heading that way when I'm shot.
 
 - - -
 
-**Sara:** The thing about tattoos, they're forever. Doc, can I take this part to go?
+**Sara:** The thing about tattoos, they're forever. Doc, can I take this part to go?\
 **Robbins** Not yet, but we deliver.

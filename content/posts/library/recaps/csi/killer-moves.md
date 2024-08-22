@@ -26,7 +26,7 @@ Sara works the case as Greg's second, and while initially she thinks he might be
 
 ## Quotes
 
-**Greg:** Maybe the killer was making a reference to Edgar Allan Poe.
-**Sara:** Well then he needs to brush up on his birds. This isn't a raven it's a rook. See the white skin around it's beak?
-**Greg:** A rook.
+**Greg:** Maybe the killer was making a reference to Edgar Allan Poe.\
+**Sara:** Well then he needs to brush up on his birds. This isn't a raven it's a rook. See the white skin around it's beak?\
+**Greg:** A rook.\
 **Sara:** The weird thing is rooks are indigenous to central Europe and Asia. What's one doing in southern Nevada?

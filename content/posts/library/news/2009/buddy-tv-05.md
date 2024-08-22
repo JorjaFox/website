@@ -1,16 +1,16 @@
 ---
 title: BuddyTV.com
 date: 2009-08-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "The 'CSI' Franchise Case File: Someone's Returning and Someone's Not  "
-newsauthor: Henrik Batallones
+newsreporter: Henrik Batallones
 newssource: BuddyTV.com
-newsurl: http://www.buddytv.com/articles/csi/the-csi-franchise-case-file-so-30212.aspx
+newsurl: https://www.buddytv.com/articles/csi/the-csi-franchise-case-file-so-30212.aspx
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: BlackBook
 date: 2009-08-23
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]
 tags: ["2009"]
 
 newstitle: "Dita Von Teese and Murray Hill Tear Up Avalon  "
-newsauthor: Tricia Romano
+newsreporter: Tricia Romano
 newssource: BlackBook
-newsurl: http://www.blackbookmag.com/article/dita-von-teese-and-murray-hill-tear-up-avalon/9416
+newsurl: https://www.blackbookmag.com/article/dita-von-teese-and-murray-hill-tear-up-avalon/9416
 
 ---
 

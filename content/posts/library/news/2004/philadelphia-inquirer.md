@@ -1,15 +1,15 @@
 ---
 title: Philadelphia Inquirer
 date: 2004-07-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "'CSI' fires 2 in contract dispute"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Philadelphia Inquirer
-newsurl: http://philly.com
+newsurl: https://philly.com
 
 ---
 

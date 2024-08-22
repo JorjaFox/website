@@ -1,16 +1,16 @@
 ---
 title: Newsday
 date: 2006-07-17
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "CBS targets the masses  "
-newsauthor: Staff
+newsreporter: Staff
 newssource: Newsday
-newsurl: http://www.newsday.com/entertainment/tv/ny-ettour164819479jul16,0,2337581.story?coll=ny-television-print
+newsurl: https://www.newsday.com/entertainment/tv/ny-ettour164819479jul16,0,2337581.story?coll=ny-television-print
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: TV Guide
 date: 2004-07-20
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]
 permalink: /news/2004/:title/
 newstitle: "ALARM CLOCKS ARE EXPENSIVE"
-newsauthor: Staff
+newsreporter: Staff
 newssource: TV Guide
-newsurl: http://www.tvguide.com
+newsurl: https://www.tvguide.com
 
 ---
 

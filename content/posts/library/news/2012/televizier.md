@@ -1,16 +1,16 @@
 ---
 title: Televizier
 date: 2012-12-04
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]
 tags: ["2012"]
 
 newstitle: "Sara, the mother hen in CSI - Background  "
-newsauthor: Leks van der Horst
+newsreporter: Leks van der Horst
 newssource: Televizier
-newsurl: http://www.televizier.nl/nieuws/achtergrond/sara-de-moederkloek-in-csi-achtergrond.1049543.lynkx
+newsurl: https://www.televizier.nl/nieuws/achtergrond/sara-de-moederkloek-in-csi-achtergrond.1049543.lynkx
 
 ---
 

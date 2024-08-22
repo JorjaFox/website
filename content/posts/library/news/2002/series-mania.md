@@ -1,15 +1,15 @@
 ---
 title: Series Mania
 date: 2002-01-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
 permalink: /news/2002/:title/
 newstitle: Jorja Fox
-newsauthor: Staff
+newsreporter: Staff
 newssource: Séries Mania
-newsurl: http://seriesmania.com
+newsurl: https://seriesmania.com
 
 ---
 

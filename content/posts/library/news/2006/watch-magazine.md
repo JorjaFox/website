@@ -1,16 +1,16 @@
 ---
 title: Watch Magazine
 date: 2006-06-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: ["2006"]
 
 newstitle: "CSI From A to Z: Favorite Episodes"
-newsauthor: Staff
+newsreporter: Staff
 newssource: Watch Magazine
-newsurl: http://www.cbs.com/watch_magazine/
+newsurl: https://www.cbs.com/watch_magazine/
 
 ---
 

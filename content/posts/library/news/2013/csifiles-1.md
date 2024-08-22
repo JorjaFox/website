@@ -1,16 +1,16 @@
 ---
 title: CSI Files
 date: 2013-02-18
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "'Report: Sara's Story Comes To A Head With 'Future Implications,' Nick's New Arc & More  "
-newsauthor: Shane S. Saunders
+newsreporter: Shane S. Saunders
 newssource: CSI Files
-newsurl: http://www.csifiles.com/content/2013/02/report-saras-story-comes-to-a-head-with-future-implications-nicks-new-arc-more/
+newsurl: https://www.csifiles.com/content/2013/02/report-saras-story-comes-to-a-head-with-future-implications-nicks-new-arc-more/
 
 ---
 

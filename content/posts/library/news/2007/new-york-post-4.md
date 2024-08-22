@@ -2,16 +2,16 @@
 title: New York Post
 
 date: 2007-12-01
-author: "Mika A. Epstein"
+transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]
 tags: ["2013"]
 
 newstitle: "FOXY LADY MOVES ON  "
-newsauthor: Liz Smith
+newsreporter: Liz Smith
 newssource: New York Post
-newsurl: http://www.nypost.com/seven/12022007/gossip/liz/foxy\_lady\_moves\_on\_670812.htm?page=0
+newsurl: https://www.nypost.com/seven/12022007/gossip/liz/foxy\_lady\_moves\_on\_670812.htm?page=0
 
 ---
 

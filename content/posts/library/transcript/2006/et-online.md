@@ -1,7 +1,7 @@
 ---
 title: ET Online
-author: "Mika A. Epstein"
-interviewurl: http://www.etonline.com
+transcriber: "Mika A. Epstein"
+interviewurl: https://www.etonline.com
 date: 2006-04-27
 layout: transcript
 permalink: /transcript/2006/:title/

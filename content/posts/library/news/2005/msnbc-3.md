@@ -4,14 +4,12 @@ date: 2005-10-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "CSI Crime File - Oct. 13"
 newsreporter: Staff
 newssource: MSNBC
 newsurl: https://msnbc.com
-
 ---
 **The ABCs of 'CSI': Who's dead, who dun it and who solved it.**
 

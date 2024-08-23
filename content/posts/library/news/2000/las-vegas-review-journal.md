@@ -3,14 +3,12 @@ title: Las Vegas Review Journal
 date: 2000-10-09
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: "'C.S.I.' returns to Las Vegas"
 newsreporter: Staff
 newssource: Las Vegas Review Journal
 newsurl: https://www.lvrj.com/
-
 ---
 It's a Strip-to-strip week for "C.S.I."
 

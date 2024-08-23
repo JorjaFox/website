@@ -4,14 +4,12 @@ date: 2009-08-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "'CSI' will reunite with Sara Sidle  "
 newsreporter:
 newssource: TV.com
 newsurl: https://www.tv.com/story/16633.html
-
 ---
 
 **Jorja Fox returning to CBS' hit drama for multiple episodes. **

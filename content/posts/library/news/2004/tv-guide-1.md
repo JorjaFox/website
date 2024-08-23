@@ -3,14 +3,12 @@ title: TV Guide
 date: 2004-07-19
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Terminated Two"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **George and Jorja are no longer on CBS exec Leslie Moonves' mind**

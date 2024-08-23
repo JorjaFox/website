@@ -4,14 +4,12 @@ date: 2009-09-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "'CSI' spoils our Jorja peach  "
 newsreporter: the lister
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach
-
 ---
 
 One of the many conflicts about Thursday night TV is this:

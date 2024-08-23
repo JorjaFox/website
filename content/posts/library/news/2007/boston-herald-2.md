@@ -4,14 +4,12 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' sendoff  "
 newsreporter: Mark A. Perigard
 newssource: Boston Herald
 newsurl: https://news.bostonherald.com/entertainment/television/reviews/view.bg?articleid=1044674
-
 ---
 
 **Fans put through ringer on Jorja Fox's farewell episode**

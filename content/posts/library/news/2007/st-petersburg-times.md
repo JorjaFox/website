@@ -4,14 +4,12 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "An uninspired ending for CSI character  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times
 newsurl: https://www.sptimes.com/
-
 ---
 **Jorja Fox's character is written out of CSI in a way that writes her off.**
 

@@ -4,14 +4,12 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "SARA'S LAST DAY  "
 newsreporter: Adam Buckman
 newssource: New York Post
 newsurl: https://www.nypost.com/seven/11152007/tv/saras\_last\_day_271927.htm
-
 ---
 AS if **"CSI"** wasn't de pressing enough, to night's episode is devoted entirely to the disillusionment of Sara Sidle.
 

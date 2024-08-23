@@ -3,8 +3,6 @@ title: "Jackpot"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,4 +18,4 @@ A severed head is shipped to Dr. Robbins from Jackpot, Nevada. Grissom goes to J
 
 ## Review
 
-_Sara Sidle does not appear in this episode._
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

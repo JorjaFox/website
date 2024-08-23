@@ -4,14 +4,12 @@ date: 2011-11-03
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Traveling circuses could lose exotic animals  "
 newsreporter: Bob Strauss / Daily News, Los Angeles
 newssource: Boston Herald
 newsurl: https://news.bostonherald.com/entertainment/lifestyle/view/20111103traveling_circuses_could_lose_exotic_animals/
-
 ---
 
 Animal activists and celebrities launched a new effort Wednesday to protect exotic animals by taking the "traveling" out of traveling circuses.

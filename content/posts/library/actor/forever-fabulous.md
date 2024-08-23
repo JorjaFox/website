@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Forever Fabulous"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "forever-fabulous"
 imdb: https://www.imdb.com/title/tt0176234/
 actorimage: /img/actors/forever-fabulous.jpg

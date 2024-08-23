@@ -4,14 +4,12 @@ date: 2011-07-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "'CSI': Jorja Fox Back as Series Regular  "
 newsreporter: Lesley Goldberg
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517
-
 ---
 
 **The actress rejoins the crime procedural as a full-time cast member for its upcoming 12th season.**

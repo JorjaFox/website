@@ -3,14 +3,12 @@ title: Elites TV
 date: 2004-07-19
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Fox And Eads Fired From The Cast Of CSI"
 newsreporter: Staff
 newssource: Elite TV
 newsurl: https://www.elitestv.com
-
 ---
 
 Walking off the set or halting production of a new season is nothing new to the television industry. It's a right of passage, a game to play, in the struggle of actor contract negotiations. Just this year, the six principal voices of the Simpson's characters halted production demanding an increase in salary from $125,000 per episode to $360,000.

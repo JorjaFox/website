@@ -3,14 +3,12 @@ title: Contents Magazine
 date: 2002-06-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: Contents
 newsreporter: Staff
 newssource: Contents
 newsurl: https://contents.com
-
 ---
 
 Who better than Eric Szmanda of the #1 television drama C.S.I. to investigate his beautiful co-star Jorja Fox? Eric says that when filming wraps for the summer he plans on "travelling to Europe and hitting the film festivals". May we suggest a less violent approach, say a handshake, when arriving in Berlin?

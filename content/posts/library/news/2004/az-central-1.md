@@ -3,14 +3,12 @@ title: AZ Central
 date: 2004-07-15
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "2 stars of 'CSI' reportedly fired"
 newsreporter: Staff
 newssource: AZ Central
 newsurl: https://www.azcentral.com/
-
 ---
 
 A Los Angeles TV station reports two of the stars of "CSI" are off the case.

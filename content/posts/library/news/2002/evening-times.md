@@ -3,14 +3,12 @@ title: Evening Times
 date: 2002-02-02
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: Jorja Can Track Down Top Roles
 newsreporter: Staff
 newssource: Evening Times
 newsurl: https://www.eveningtimes.co.uk/
-
 ---
 
 Jorja Fox appears to have the golden touch, having starred in three of the biggest US TV hits of the last decade!

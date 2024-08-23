@@ -3,15 +3,13 @@ title: Green With Glamour
 date: 2009-05-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
-categories: ["Articles", "News"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "13 Questions - Jorja Fox  "
 newsreporter: Unknown
 newssource: Green With Glamour
 newsurl: https://www.greenwithglamour.com/index.php?main_page=editorial&e=questions&c=13_jorja_fox
-
 ---
 
 1. **spring, summer, autumn, or winter?**

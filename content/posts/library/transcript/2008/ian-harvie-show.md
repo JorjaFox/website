@@ -5,8 +5,7 @@ layout: transcript
 date: 2008-01-21
 interviewurl: https://www.ianharvie.com/jorjafox.html
 permalink: /transcript/2008/:title/
-categories: ["Interviews"]
-tags: [ "2008" ]
+interviewyear: "2008"
 ---
 
 **Jorja Fox:** Ten and a half years of deaths -

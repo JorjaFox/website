@@ -4,14 +4,12 @@ date: 2005-06-09
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Inside with CSI's Jorja Fox!"
 newsreporter: Staff
 newssource: Insider
 newsurl: https://insider.tv.yahoo.com/
-
 ---
 On "CSI: Crime Scene Investigation," forensics expert Sara Sidle's specialty is element and materials analysis. So, who better to gather some behind-the-scenes material of the hit CBS series than the woman who plays the ambitious investigator - actress JORJA FOX.
 

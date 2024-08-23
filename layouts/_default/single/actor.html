@@ -1,0 +1,19 @@
+{{- $breakpoint := $.Scratch.Get "breakpoint" -}}
+
+{{ .Render "global/header" }}
+
+{{- if and .Site.Params.navigation.toc .Params.includeToc | default true -}}
+    <div class="d-{{ $breakpoint.current }}-none pb-5">{{ partial "assets/toc-dropdown.html" (dict "page" .) }}</div>
+{{- end -}}
+
+<div class="container">
+    <div class="row align-items-start">
+      <div class="col-4">
+        {{ .Render "metabox/actor" }}
+      </div>
+      <div class="col">
+        {{ .Render "global/main" }}
+      </div>
+    </div>
+</div>
+

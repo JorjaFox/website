@@ -5,9 +5,8 @@ layout: transcript
 interviewurl: https://animal.discovery.com/fansites/radio/past/past.html
 date: 2001-07-28
 permalink: /transcript/2001/:title/
-categories: ["Transcripts"]
 sourcename: "Discovery"
-tags: ["2001"]
+interviewyear: "2001"
 ---
 
 ## Introduction

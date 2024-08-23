@@ -5,8 +5,7 @@ interviewurl: https://www.wireimage.com
 date: 2006-03-18
 layout: transcript
 permalink: /transcript/2006/:title/
-categories: ["Interviews"]
-tags: [ "2006" ]
+interviewyear: "2006"
 ---
 Jorja was interviewed at the 20th anniversary Genesis Awards. This is a partial transcript.
 

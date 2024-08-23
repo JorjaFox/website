@@ -4,13 +4,11 @@ date: 2001-04-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Pet Project
 newsreporter: Paul Semel
 newssource: UNICRU
 newsurl: https://www.unicru.com/asp/Breakroom/BrkCfj010427.asp
-
 ---
 Before she landed the role of scientist Sara Sidle on *C.S.I.*, actress Jorja Fox's life was literally going to the dogs.
 

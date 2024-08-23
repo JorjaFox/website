@@ -4,14 +4,12 @@ date: 2013-10-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Mega Buzz: Scandal's Big Mystery, Prentiss' Minds Return and Dead's New Threats"
 newsreporter: Adam Bryant and Natalie Abrams
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/Mega-Buzz-Scandal-Spoilers-1071522.aspx
-
 ---
 
 [...]

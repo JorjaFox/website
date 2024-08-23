@@ -4,14 +4,12 @@ date: 2006-12-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "TV Gal Shares a Moment  "
 newsreporter: Staff
 newssource: Zap2It
 newsurl: https://www.zap2it.com
-
 ---
 
 [...]

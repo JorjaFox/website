@@ -5,8 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://cbs.com
 permalink: /transcript/2014/:title/
-categories: ["Interviews"]
-tags: [ "2014" ]
+interviewyear: "2014"
 ---
 
 [Tweet](https://twitter.com/jorjafoxofficia/status/441408995996078081)

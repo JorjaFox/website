@@ -2,7 +2,6 @@
 title: Five Acres
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Human Rights"
 website: https://5acres.org/

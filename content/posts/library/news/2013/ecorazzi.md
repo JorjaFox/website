@@ -4,14 +4,12 @@ date: 2013-11-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Jorja Foxs New Best Friend: Her Rescue Dog  "
 newsreporter: Jennifer Mishler
 newssource: Ecorazzi
 newsurl: https://www.ecorazzi.com/2013/11/14/jorja-foxs-new-best-friend-her-rescue-dog/
-
 ---
 
 "'Jorja Fox"' has a new best friend that she wasnt expecting to find.

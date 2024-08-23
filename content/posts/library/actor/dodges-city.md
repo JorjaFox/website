@@ -2,8 +2,6 @@
 title: "Dodges City"
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: dodges-city
 ---
 

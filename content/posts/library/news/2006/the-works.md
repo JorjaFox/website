@@ -4,14 +4,12 @@ date: 2006-05-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Jorja Fox"
 newsreporter: Jenny Eden
 newssource: The Works
 newsurl: https://www.visimag.com/theworks/index.htm
-
 ---
 
 One of the stars of the US's top-rated drama **CSI** speaks out...

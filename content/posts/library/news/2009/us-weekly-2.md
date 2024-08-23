@@ -4,14 +4,12 @@ date: 2009-08-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Jorja Fox Returning to CSI  "
 newsreporter: Staff
 newssource: Us Weekly
 newsurl: https://www.usmagazine.com/news/jorja-fox-returning-to-csi-2009177
-
 ---
 
 **Jorja Fox** can't seem stay away from "CSI: Crime Scene Investigation".

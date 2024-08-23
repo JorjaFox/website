@@ -4,14 +4,12 @@ date: 2011-06-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Japan is well on the road to recovery, ambassador says  "
 newsreporter: Wendy Soderburg
 newssource: UCLA Today
 newsurl: https://today.ucla.edu/portal/ut/japan-stays-front-and-center-at-208557.aspx
-
 ---
 
 The packet of photos of Japan seemed to take everyone by surprise. On each page of the packet were two photos: The top snapshot showed a scene snapped immediately after the devastating earthquake and tsunami of March 11. The bottom photo of the exact same area taken three months later showed that the debris had been almost completely cleared away, leaving everything looking - for all intents and purposes - normal.

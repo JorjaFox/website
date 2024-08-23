@@ -4,8 +4,7 @@ date: 2021-10-28
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://kellyandryan.com/guide/october-28-2021/
-categories: ["Interviews"]
-tags: ["2021"]
+interviewyear: "2021"
 ---
 
 **Kelly Ripa:** Wait, there's a body farm?

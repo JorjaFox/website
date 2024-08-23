@@ -4,14 +4,12 @@ date: 2006-06-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "ASK MATT  "
 newsreporter: Matt Roush
 newssource: TV Guide
 newsurl: https://www.tvguide.com/
-
 ---
 
 **Question:** Hey, Matt! I love your column and just wanted to say, as a sci-fi fan, I appreciate all the attention you give to those great yet underappreciated shows. Now to my question. What are your thoughts on TV's growing trend of hooking up every character on a show with each other? I'll use *CSI: Crime Scene Investigation* as an example because of the fuss the season finale created. The show was great because it focused on the stories and not the characters. Now Grissom and Sara hook up, and it looks like Catherine and Warwick are on their way next season. What's next? Will Greg and Nick suddenly come out of the closet? Samantha on *Without a Trace* has slept with two guys from her office (one of whom was her boss) and everybody has slept with *everybody* on *Grey's Anatomy*. I know we like a little romance in our shows, but enough is enough. It is possible to have a relationship with someone outside the office?&nbsp;&nbsp;Sarah

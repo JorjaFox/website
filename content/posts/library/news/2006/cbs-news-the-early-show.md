@@ -4,14 +4,12 @@ date: 2006-05-10
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: ["Articles", "News"]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "The Early Show: Inside Minds Of 'CSI' Characters"
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com
-
 ---
 
 **Several Of The Actors Reflect On What Makes Them Tick**

@@ -3,14 +3,12 @@ title: CBS 2 Chicago
 date: 2004-07-22
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Jorja Fox Back On 'CSI'"
 newsreporter: Staff
 newssource: CBS 2 Chicago
 newsurl: https://www.CBS2chicago.com
-
 ---
 
 LOS ANGELES (AP)

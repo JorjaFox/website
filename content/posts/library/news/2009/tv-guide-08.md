@@ -4,14 +4,12 @@ date: 2009-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Ask Matt: 'House' Cleaning  "
 newsreporter: Matt Roush
 newssource: Ask Matt
 newsurl: https://www.tvguidemagazine.com/ask-matt/ask-matt-house-cleaning-2583.html
-
 ---
 
 [...]

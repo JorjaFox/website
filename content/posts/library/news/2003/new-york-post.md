@@ -3,14 +3,12 @@ title: New York Post
 date: 2003-09-03
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: "TV's Weirdest Romance"
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://www.nypost.com/entertainment/4745.htm
-
 ---
 
 ONE question romantically inclined TV audiences never tire of asking is "Will they or won't they?"

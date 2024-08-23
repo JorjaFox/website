@@ -3,14 +3,12 @@ title: About.com
 date: 2002-11-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: Jorja Fox and Archie Kayo Talk About "C.S.I." at the Premiere of "The Emperor's Club"
 newsreporter: Rebecca Murray
 newssource: About.com
 newsurl: https://movies.about.com/library/weekly/aa112102f.htm
-
 ---
 
 **Are you surprised at the popularity of the show and the amount of young people who are going to college now to learn more about forensics?**

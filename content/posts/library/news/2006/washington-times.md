@@ -4,14 +4,12 @@ date: 2006-10-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "TV plots victimize female law enforcers  "
 newsreporter: Staff
 newssource: Washington Times
 newsurl: https://www.washingtontimes.com/entertainment/20061022-110541-3858r.htm
-
 ---
 
 [...]

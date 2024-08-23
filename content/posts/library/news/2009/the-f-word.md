@@ -4,14 +4,12 @@ date: 2009-02-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Grissom & Sara  "
 newsreporter: Bill Savage
 newssource: The F-Word
 newsurl: https://www.thefword.org.uk/blog/2009/02/grissom_sara
-
 ---
 
 Crime Scene Investigation has long been the televisual highlight of the week in my house, so it was with some sadness that I tuned in last week to witness the apparent demise of one of the show's greatest assets: the relationship between team supervisor Gil Grissom (William Peterson) and CSI Sara Sidle (Jorja Fox). What made this portrayal of heterosexuality so notable was not anything intrinsically subversive about its set-up (older, more powerful guy gets it on with younger, more attractive woman) but the refreshingly non-formulaic way it was represented.

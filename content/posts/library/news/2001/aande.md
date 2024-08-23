@@ -4,13 +4,11 @@ date: 2001-04-30
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Tube Tied
 newsreporter: Craig D. Lindsey
 newssource: Tube Tied
 newsurl: https://www.brainsoap.com/ Brainsoap
-
 ---
 *I know you're a huge CSI fan.*
 

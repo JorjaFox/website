@@ -4,14 +4,12 @@ date: 2008-01-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Women We Love"
 newsreporter: Shane Cassidy
 newssource: LesbiaNataion
 newsurl: https://www.lesbianation.com/scene/index.cfm?listID=193
-
 ---
 
 ## Most Loved Women of 2007

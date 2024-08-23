@@ -3,14 +3,12 @@ title: CBS Watch! Magazine
 date: 2014-07-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
-categories: ["Articles", "News"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "GILT-Y Pleasures"
 newsreporter: Staff
 newssource: CBS Watch! Magazine
 newsurl: https://cbswatchmagazine.com
-
 ---
 
 **Jorja Fox** of *CSI: Crime Scene Investigation* makes waves with her stylish selections

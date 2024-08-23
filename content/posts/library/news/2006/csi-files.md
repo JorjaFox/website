@@ -4,14 +4,12 @@ date: 2006-01-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Interview with Jorja Fox  "
 newsreporter: Kristine Huntley
 newssource: CSI Files
 newsurl: https://www.csifiles.com/interviews/jorja_fox.shtml
-
 ---
 
 Jorja Fox has seen her character Sara Sidle go through a lot over the five and a half years "CSI: Crime Scene Investigation" has been on the air, but the 6th season has been less tumultuous for Sara, even allowing her to help Nick Stokes (George Eads) as he grapples with the fallout from his ordeal in Grave Danger. Fox took the time to sit down with CSI Files to discuss the reunited CSI team, her complicated reactions to the team split in the previous season and Sara's relationships with the other characters on the show.

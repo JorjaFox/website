@@ -4,14 +4,12 @@ date: 2007-12-06
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' outshines stars"
 newsreporter: Doug Elfman
 newssource: Chicago Sun-Times
 newsurl: https://www.suntimes.com
-
 ---
 
 **REVIEW | Dazzling visuals set pace for TV procedurals, making departure of Fox or anyone else secondary**

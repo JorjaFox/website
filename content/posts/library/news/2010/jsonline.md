@@ -4,14 +4,12 @@ date: 2010-07-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "It can be difficult to keep track of 'CSI' character  "
 newsreporter: Staff
 newssource: JSOnline
 newsurl: https://www.jsonline.com/entertainment/tvradio/98760869.html
-
 ---
 
 **Q. ****I guess I missed an episode, because I have no idea why Sara (played by Jorja Fox) is back on "CSI: Crime Scene Investigation." The last I saw, she quit and went to live in the jungle, followed shortly by Grissom. Later, she made a statement about her husband being in Paris. Could you please clear up this puzzle?**

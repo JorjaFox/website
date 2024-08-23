@@ -4,14 +4,12 @@ date: 2013-05-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "'We're number one in the world'  "
 newsreporter: Jim Halterman
 newssource: TV Fanatic
 newsurl: https://www.tvfanatic.com/2013/05/csi-exclusive-elisabeth-harnois-on-season-13-finale-morgan-under/
-
 ---
 
 How will CSI shake things up to conclude its 13th season? By putting one of their own in jeopardy, thats how.

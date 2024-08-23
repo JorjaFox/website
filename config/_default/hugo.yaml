@@ -3,7 +3,11 @@ languageCode: "en-us"
 title: "Fans of LeFox"
 subtitle: "A fansite celebrating the actor and activist, Jorja Fox"
 copyright: "Copyright Fans of LeFox © 1996"
-paginate: 9
+
+pagination:
+  disableAliases: false
+  pagerSize: 12
+  path: page
 
 contentDir: "content/posts"
 dataDir: "content/data"

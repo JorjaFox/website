@@ -3,14 +3,12 @@ title: MSNBC
 date: 2004-09-19
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Festive, glamorous Emmys red carpet"
 newsreporter: Staff
 newssource: MSNBC
 newsurl: https://msnbc.msn.com/
-
 ---
 
 [...]

@@ -4,8 +4,7 @@ date: 2011-11-16
 transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2011/:title/
-categories: ["Interviews"]
-tags: [ "2011" ]
+interviewyear: "2011"
 interviewurl: https://apimages.com/
 ---
 When she's not solving crimes on 'CSI,' you can find actress Jorja Fox on a surfboard. (Nov. 16)

@@ -4,14 +4,12 @@ date: 2005-04-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "CBS Press Release"
 newsreporter: Staff
 newssource: The Futon Critic
 newsurl: https://www.thefutoncritic.com
-
 ---
 CSI STARS AND PRODUCERS TALK ABOUT THE EXPLOSIVE TWO-HOUR SEASON FINALE OF "CSI: CRIME SCENE INVESTIGATION," AND ABOUT WORKING WITH DIRECTOR QUENTIN TARANTINO
 

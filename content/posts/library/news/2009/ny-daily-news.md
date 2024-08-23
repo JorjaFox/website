@@ -4,14 +4,12 @@ date: 2009-08-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "CSI star Jorja Fox gets turn in orange jumpsuit on 'Drop Dead Diva'  "
 newsreporter: Christina Kinon
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/entertainment/tv/2009/08/15/2009-08-15_jorja_fox_gets_turn_in_orange_jumpsuit_as_felonious_on_diva.html
-
 ---
 
 It was only a matter of time before Jorja Fox found herself in a pair of handcuffs.

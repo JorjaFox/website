@@ -3,15 +3,13 @@ title: Erin in Denver
 date: 2008-08-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2008"]
-categories: ["Articles", "News"]
+newsyear: "2008"
 permalink: /news/2008/:title/
 
 newstitle: "WOW part three  "
 newsreporter: Erin Moore
 newssource: Erin in Denver
 newsurl: https://lgbtdelegate.blogspot.com/2008/08/wow-part-three.html
-
 ---
 
 [...]

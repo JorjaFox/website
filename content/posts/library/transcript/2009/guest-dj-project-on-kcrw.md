@@ -5,8 +5,7 @@ layout: transcript
 interviewurl: https://kcrw.com/
 date: 2009-09-23
 permalink: /transcript/2009/:title/
-categories: ["Interviews"]
-tags: [ "2009" ]
+interviewyear: "2009"
 ---
 
 **Michael Barnes:** Hi, I'm Michael Barnes and I'm here with actress, Jorja Fox. Jorja has become a familiar face by playing major roles in three of the most successful television dramas in history: "ER", "The West Wing" and, most recently, "CSI: Crime Scene Investigation". Today we'll be playing excerpts of songs she selected that have inspired her over the years, as part of KCRW's Guest DJ Project.

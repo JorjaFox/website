@@ -39,7 +39,7 @@
 
 <!-- Excerpt/Details -->
 
-<div class="toc toc-sidebar mb-5 my-md-0 mb-lg-5 p-3 text-body-secondary sticky-top">
+<div class="text-body-secondary">
     {{- if $unverified -}}{{- partial "unconfirmed.html" }}{{ end }}
     <div class="card text-bg-light">
         <div class="card-header">
@@ -72,6 +72,4 @@
                 {{ end }}
             </ul>
     </div>
-
-    {{ .Render "sidebar/toc" }}
 </div>

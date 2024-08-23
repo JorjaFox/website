@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Lifestories: Families in Crisis"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "dead-drunk"
 imdb: https://www.imdb.com/title/tt0139780/
 actorimage: /img/actors/deaddrunk.jpg

@@ -3,15 +3,13 @@ title: Jorja All Around
 date: 2010-09-29
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2010"]
-categories: ["Articles", "News"]
+newsyear: "2010"
 permalink: /news/2010/:title/
 
 newstitle: "JAA Exclusive: Interview with Caryn Mower  "
 newsreporter: Ann (iconraven)
 newssource: Jorja All Around
 newsurl: https://community.livejournal.com/jorjaallaround/658307.html
-
 ---
 
 

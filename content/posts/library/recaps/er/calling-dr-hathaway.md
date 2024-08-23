@@ -3,7 +3,6 @@ title: Calling Dr. Hathaway
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/er/:title/
-categories: ["Recaps"]
 tags: ["ER"]
 station: NBC
 showname: "E.R."

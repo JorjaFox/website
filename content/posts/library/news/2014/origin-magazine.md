@@ -3,14 +3,12 @@ title: ORIGIN Magazine
 date: 2014-11-11
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
-categories: ["Articles", "News"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "Jorja Fox"
 newsreporter: Robert Piper
 newssource: ORIGIN Magazine
 newsurl: https://www.originmagazine.com/2014/11/11/jorja-fox/
-
 ---
 
 **Robert Piper: What inspires you?**

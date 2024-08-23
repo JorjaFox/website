@@ -3,8 +3,6 @@ title: "Stalker"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,4 +18,4 @@ The hunt for a deadly stalker is the focus of a tense episode that builds to a n
 
 ## Review
 
-_Sara Sidle does not appear in this episode._
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

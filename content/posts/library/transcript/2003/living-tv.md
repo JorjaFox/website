@@ -5,8 +5,7 @@ layout: transcript
 date: 2003-09-21
 interviewurl: https://www.livingtv.co.uk/
 permalink: /transcript/2003/:title/
-categories: ["Interviews"]
-tags: [ "2003" ]
+interviewyear: "2003"
 ---
 
 Living TV is "Women orientated entertainment" and is available on Sky, Telewest and NTL.

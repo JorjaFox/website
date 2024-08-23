@@ -4,14 +4,12 @@ date: 2009-08-03
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Fishburne gets makeover to help 'CSI' ratings  "
 newsreporter: Staff
 newssource: Hollywood Reporter
 newsurl: https://www.thrfeed.com/2009/08/fishburne-gets-makeover-csi-.html
-
 ---
 
 [...]

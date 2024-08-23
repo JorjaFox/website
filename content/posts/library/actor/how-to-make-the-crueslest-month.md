@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "How to Make the Cruelest Month"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "how-to-make-the-cruelest-month"
 imdb: https://www.imdb.com/title/tt0138501/
 actorimage: /img/actors/htmtcm.jpg

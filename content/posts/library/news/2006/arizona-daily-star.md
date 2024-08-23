@@ -4,14 +4,12 @@ date: 2006-07-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "'CSI' going romantic against 'Grey's Anatomy'  "
 newsreporter: Staff
 newssource: Arizona Daily Star
 newsurl: https://www.azstarnet.com
-
 ---
 
 [...]

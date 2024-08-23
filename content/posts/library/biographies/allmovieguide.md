@@ -3,8 +3,6 @@ title: All Movie
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/allmovieguide/
-categories: ["Biographies"]
-tags: ["Internet"]
 date: "2005-08-08"
 sourceurl: "https://www.allmovie.com/artist/jorja-fox-p24567"
 ---

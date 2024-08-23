@@ -4,14 +4,12 @@ date: 2009-11-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "JASON'S TV RECAP UNCENSORED - My CSI Experience  "
 newsreporter: Jason Thomas
 newssource: PBA.com
 newsurl: https://www.pba.com/news/feature.asp?ID=1681
-
 ---
 
 This Thursday night (November 19) on CBS at 9pm, one of the most-watched shows on television, CSI (the original version, set in Las Vegas), will air a bowling-themed episode titled "Lover's Lane" (watch the 30-second promo below) on which yours truly had the pleasure of working as a bowling consultant.

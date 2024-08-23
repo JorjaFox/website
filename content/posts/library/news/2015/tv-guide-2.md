@@ -3,14 +3,12 @@ title: TV Guide Magazine
 date: 2015-08-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: Final Investigation
 newsreporter: Michael Logan
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/sneak-peek-2015-heroes-reborn/
-
 ---
 
 **After 15 years and countless cases, *CSI* closes the lab for good with a two-hour send-off.**

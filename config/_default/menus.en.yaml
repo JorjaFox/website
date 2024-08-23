@@ -55,3 +55,17 @@ footer:
   parent: Links
   pageRef: https://jorjafox.net/feed.xml
   weight: 40
+
+social:
+- name: Official Website
+  url: https://jorjafox.net
+  pre: "fas house-chimney-user"
+  weight: 10
+- name: X/Twitter
+  url: https://twitter.com/jorjafoxofficia
+  pre: "fab x-twitter"
+  weight: 20
+- name: Facebook
+  url: https://www.facebook.com/jorjafoxofficial
+  pre: "fab facebook"
+  weight: 30

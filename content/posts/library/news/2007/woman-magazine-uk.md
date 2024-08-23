@@ -4,14 +4,12 @@ date: 2007-01-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "The Way I See It..."
 newsreporter: Woman Magazine
 newssource: Woman Magazine
 newsurl: https://www.ipcmedia.com/magazines/woman/
-
 ---
 
 Does being too popular do more harm than good? CSI star Jorja Fox says her blessing in disguise was **Not Always Fitting In.**

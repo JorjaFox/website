@@ -3,14 +3,12 @@ title: Florida Today
 date: 2003-06-11
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: "'CSI' star's come a long way since her school days in Brevard"
 newsreporter: Staff
 newssource: Florida Today
 newsurl: https://www.floridatoday.com/
-
 ---
 
 When teenager Jorjan Fox left Melbourne Beach for good, midway through her senior year in December 1985, she had no idea where she was going. Well, to New York City, for sure, but beyond that, it was a shot in the dark.

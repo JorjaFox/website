@@ -3,8 +3,6 @@ title: "Formalities"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,4 +18,4 @@ Grissom is called to a murder of a 17-year-old in a casino penthouse. Sofia Curt
 
 ## Review
 
-_Sara Sidle does not appear in this episode._
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

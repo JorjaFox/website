@@ -5,8 +5,7 @@ layout: transcript
 date: 2010-07-01
 interviewurl: https://cbs.com/
 permalink: /transcript/2010/:title/
-categories: ["Interviews"]
-tags: [ "2010" ]
+interviewyear: "2010"
 ---
 
 ## Returning to CSI in Season 10

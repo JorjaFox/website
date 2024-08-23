@@ -4,13 +4,11 @@ date: 1999-07-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
-categories: ["Articles", "News"]
+newsyear: "1999"
 newstitle: UPN schedule plays to men with WWF wrestling
 newsreporter: Rob Owen
 newssource: Post-Gazette Publishing
 newsurl: https://www.post-gazette.com
-
 ---
 PASADENA, CALIF. - TV critics can be an unforgiving lot, but UPN's fall schedule makes compassion tough to muster.
 

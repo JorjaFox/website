@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Alchemy"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "alchemy"
 imdb: https://www.imdb.com/title/tt0115496/
 actorimage: /img/actors/alchemy.jpg

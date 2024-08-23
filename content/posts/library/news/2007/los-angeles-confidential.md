@@ -4,14 +4,12 @@ Date: 2007-05-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Jorja's a Peach  "
 newsreporter: Deborah Corday and Drew Seltzer
 newssource: Los Angeles Confidential
 newsurl: https://www.la-confidential.com
-
 ---
 
 **Jorja Fox** may have new mysteries to solve every week on *CSI*, but she has a kindhearted philosophy about animals all figured out.

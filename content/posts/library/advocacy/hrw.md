@@ -2,8 +2,6 @@
 title: Human Rights Watch
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
-tags: [Humanity]
 website: https://www.hrw.org
 ---
 

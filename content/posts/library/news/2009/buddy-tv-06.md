@@ -4,14 +4,12 @@ date: 2009-09-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "CSI: Previewing Season 10 Premiere 'Family Affair'"
 newsreporter: Henrik Batallones
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/csi-previewing-season-10-premi-31399.aspx
-
 ---
 
 The way I see it, it's as if Sara Sidle never really left.

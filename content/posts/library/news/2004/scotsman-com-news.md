@@ -3,14 +3,12 @@ title: Scotsman.com News
 date: 2004-07-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "TV drama stars sacked at scene of the crime"
 newsreporter: Staff
 newssource: Scotsman.com News
 newsurl: https://news.scotsman.com/
-
 ---
 
 TWO stars of the American hit television series CSI: Crime Scene Investigation have reportedly been sacked for breach of contract.

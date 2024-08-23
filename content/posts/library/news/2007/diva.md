@@ -4,14 +4,12 @@ date: 2007-08-01
 transcriber: lizbuf
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Everyone's Talking About"
 newsreporter: DIVA
 newssource: DIVA
 newsurl: https://www.divamag.co.uk/diva/
-
 ---
 
 **Jorja Fox**

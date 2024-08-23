@@ -4,14 +4,12 @@ date: 2007-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' Losing Fox, Wins Ratings"
 newsreporter: "E! Online"
 newssource: "E! Online"
 newsurl: https://www.eonline.com
-
 ---
 
 Sara Sidle is a survivor. The actor that plays her, not so much.

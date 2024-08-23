@@ -3,8 +3,7 @@ title: "Looper"
 date: 2021-11-08
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
-categories: ["Articles", "News"]
+newsyear: "2021"
 newstitle: "CSI: Vegas' Jorja Fox Reveals Who Really Cut Sara And Grissom's Kissing Scene"
 newsreporter: "Lexi Heinitz"
 newssource: "Looper"

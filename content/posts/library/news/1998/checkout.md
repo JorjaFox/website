@@ -3,8 +3,7 @@ title: Checkout
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1998/:title/
-tags: ["1998"]
-categories: ["Articles", "News"]
+newsyear: "1998"
 newstitle: Review
 date: 1998-01-01
 newsreporter: Bhob Stewart

@@ -3,14 +3,12 @@ title: Dallas Morning News
 date: 2000-11-25
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: "TV Q&A: Did 'CSI' star ever feel 'Lonesome'?"
 newsreporter: Staff
 newssource: The Dallas Morning News
 newsurl: https://www.desertnews.com
-
 ---
 **Question:** I'm interested in the actress Jorja Fox on the new show "CSI (Crime Scene Investigation)." Haven't I seen her on "ER"? - C.C.L., Dallas
 

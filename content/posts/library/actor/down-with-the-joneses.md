@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Down with the Joneses"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "down-with-the-joneses"
 imdb: https://www.imdb.com/title/tt0292496/
 ---

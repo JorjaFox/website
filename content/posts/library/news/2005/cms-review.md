@@ -4,14 +4,12 @@ date: 2005-04-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Reality TV: Good for Networks, Bad for Network Workers"
 newsreporter: Andrew Murphy
 newssource: CMS Review
 newsurl: https://www.niagara.edu/communication/pdf/CMS%20Review%20Apr%2005%20Vol8-4.pdf
-
 ---
 [...]
 

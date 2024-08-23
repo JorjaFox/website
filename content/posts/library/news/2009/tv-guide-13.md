@@ -4,14 +4,12 @@ date: 2009-09-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "'CSI:' Will Catherine Be a Good Leader?  "
 newsreporter: Adam Bryant
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/CSI-Marg-Helgenberger-1010131.aspx
-
 ---
 
 [...]

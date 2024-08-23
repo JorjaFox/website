@@ -4,14 +4,12 @@ date: 2010-02-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Alex Goes to 'Hawaii'"
 newsreporter: Matt Roush
 newssource: Ask Matt
 newsurl: https://www.tvguidemagazine.com/ask-matt/ask-matt-alex-goes-to-hawaii-4079.html
-
 ---
 
 [...]

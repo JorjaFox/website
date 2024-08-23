@@ -3,8 +3,6 @@ title: "Skin in the Game"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,4 +18,4 @@ As Russell and his team investigate a series of murders, one of their own confro
 
 ## Review
 
-_Sara Sidle does not appear in this episode._
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

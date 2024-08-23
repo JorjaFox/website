@@ -4,14 +4,12 @@ date: 2007-04-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "A day on the back lot of CSI"
 newsreporter: Staff
 newssource: Capilano College
 newsurl: https://www.capcollege.bc.ca/programs/film/news.html
-
 ---
 
 [...]

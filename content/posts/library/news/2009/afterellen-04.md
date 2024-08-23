@@ -4,14 +4,12 @@ date: 2009-01-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Ask AfterEllen.com (Jan. 27, 2009)  "
 newsreporter: Karman Kregloe
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/column/ask-afterellen-01-27-09?page=0%2C2
-
 ---
 
 [...]

@@ -4,14 +4,12 @@ date: 2013-10-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Jorja Fox Says This Season of CSI Will be About Darkness and Going Darker"
 newsreporter: Monica Gleberman
 newssource: CableTV.com
 newsurl: https://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-about-darkness-and-going-darker/
-
 ---
 
 Jorja Fox is best known for her role as Dr. Maggie Doyle in the television medical drama *ER*. Since then, Fox has had many successful appearances in television shows including *The West Wing* and most recently *CSI: Crime Scene Investigation* playing Sara Sidle. Fox talks about her career, how *CSI* changed her life, and what fans could expect this season.

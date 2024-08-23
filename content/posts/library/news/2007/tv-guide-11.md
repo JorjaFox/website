@@ -4,14 +4,12 @@ date: 2007-05-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "The Miniature Killer Is Revealed - But Where's Sara?"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 [...]

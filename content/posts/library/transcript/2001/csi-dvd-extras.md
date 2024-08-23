@@ -6,8 +6,7 @@ layout: transcript
 interviewurl: https://www.cbs.com
 sourcename: "CSI DVD Extras"
 permalink: /transcript/2001/:title/
-categories: ["Transcripts"]
-tags: ["2001"]
+interviewyear: "2001"
 ---
 
 **Jorja Fox** Ah, my character's name is Sara Sidle, and she's come in from San Francisco, ah, the character of Grissom has called her up and said there's, you know, there's a major problem happening down in Vegas, would you come down and help out for a while. So that's what I've done, I've sort of just come off an airplane and like everybody else I haven't slept in like two days, came right in. So that idea is that, ah, I'll just sort of see if I can help out getting to the bottom of this disaster and then go on home to San Francisco.

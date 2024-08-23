@@ -4,14 +4,12 @@ date: 2006-05-09
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "The Secret Talents at CSI"
 newsreporter: Staff
 newssource: TMZ
 newsurl: https://tmz.aol.com/
-
 ---
 
 **Trading forensic evidence in for a kickball craze**

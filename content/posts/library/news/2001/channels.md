@@ -4,13 +4,11 @@ date: 2001-12-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Jorja Peaches
 newsreporter: Staff
 newssource: Channels
 newsurl: https://channels.com
-
 ---
 Fox heads the network war and forces CBS ratings to exploit all grounds. No stranger to television - this brunette meets more than just the average eye.
 

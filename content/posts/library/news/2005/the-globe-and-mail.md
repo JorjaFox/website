@@ -4,14 +4,12 @@ date: 2005-03-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Esprite de Corpse"
 newsreporter: Staff
 newssource: The Globe and Mail
 newsurl: https://www.theglobeandmail.com
-
 ---
 [...]
 

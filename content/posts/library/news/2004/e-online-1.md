@@ -3,14 +3,12 @@ title: E! Online
 date: 2004-07-15
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "'CSI' Axes Two Stars"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com
-
 ---
 
 It could be another gruesome CSI crime scene. Except this one doesn't involve dead bodies. Just axed actors.

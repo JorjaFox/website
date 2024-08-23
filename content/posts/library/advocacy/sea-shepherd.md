@@ -2,7 +2,6 @@
 title: Sea Shepherd Conservation Society
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Environmentalism
   - Oceans

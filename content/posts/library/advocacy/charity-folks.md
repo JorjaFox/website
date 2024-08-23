@@ -2,8 +2,6 @@
 title: Charity Folks
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
-tags: [charity]
 website: https://www.charityfolks.com/
 ---
 

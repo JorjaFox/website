@@ -3,14 +3,12 @@ title: ContraCostaTimes.com
 date: 2004-07-19
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "CBS exec. defends firing of 'CSI' stars"
 newsreporter: Staff
 newssource: ContraCostaTimes
 newsurl: https://ContraCostaTimes.com
-
 ---
 
 Two dismissed "CSI"ers learned the hard way:

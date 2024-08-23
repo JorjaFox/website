@@ -4,14 +4,12 @@ date: 2006-06-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "CSI From A to Z: Favorite Episodes"
 newsreporter: Staff
 newssource: Watch Magazine
 newsurl: https://www.cbs.com/watch_magazine/
-
 ---
 
 Jorja Fox aka Sara Sidle:

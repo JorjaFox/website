@@ -4,14 +4,12 @@ date: 2011-02-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Bolivian lions land in Denver  "
 newsreporter: Jeffrey Leib
 newssource: Denver Post
 newsurl: https://www.denverpost.com/breakingnews/ci_17405414
-
 ---
 
 DENVER - international airport U.S. agriculture and customs officials have completed their inspection and now crates carrying 25 lions rescued from small traveling circuses in Bolivia are being unloaded.

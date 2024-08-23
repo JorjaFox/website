@@ -3,14 +3,12 @@ title: Post-Gazette
 date: 2000-07-26
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: Giving Her All
 newsreporter: Staff
 newssource: Post-Gazette
 newsurl: https://www.post-gazette.com
-
 ---
 Last season on "The West Wing," actress Jorja Fox played a Secret Service agent willing to take a bullet for the president's daughter. Turns out she suffered a different injury while filming the assassination attempt scene in the show's season finale.
 

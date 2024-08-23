@@ -2,7 +2,6 @@
 title: 'Artists & Athletes Alliance'
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Politics
 website: https://artistsandathletes.org

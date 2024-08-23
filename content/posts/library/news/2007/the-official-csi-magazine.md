@@ -4,14 +4,12 @@ date: 2007-11-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Goodbye Sara  "
 newsreporter: Staff
 newssource: The Official CSI Magazine
 newsurl: https://www.titanmagazines.com/app?service=external/Product&sp=l1075&sp=Sen&sp=SUS
-
 ---
 "After eight years playing Sara Sidle, Jorja Fox is bitting farewell to" CSI: Crime Scene Investigation. "In an exclusive interview with" The Official CSI Magazine, "the actress chats about her final episodes..."
 

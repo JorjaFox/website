@@ -4,14 +4,12 @@ date: 2008-05-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Jorja Fox Makes Her 'CSI' Comeback  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/jorja-fox-makes-her-csi-comeba-19848.aspx
-
 ---
 
 "CSI" fans have not seen the last of Sara Sidle. In fact, the time has come for fans to welcome one of the key players of the forensic drama, Jorja Fox, whose character left the series in the season 7 episode "Goodbye and Good Luck" where she had to go face the ghost of her past.

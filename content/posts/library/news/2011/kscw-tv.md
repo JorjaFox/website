@@ -4,14 +4,12 @@ date: 2011-02-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Rescued Bolivian lions moved to Colo. sanctuary  "
 newsreporter: Web Staff KDVR Denver
 newssource: KSCW-TV
 newsurl: https://www.kansascw.com/kscw/news/kdvr-2-dozen-lions-coming-to-colorado-20110214,0,3636759.story
-
 ---
 
 DENVER - More than two dozen Bolivian circus lions were getting accustomed to their new surroundings at The Wild Animal Sanctuary in Keenesburg, Colo., Thursday.

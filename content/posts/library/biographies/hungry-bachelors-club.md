@@ -3,8 +3,6 @@ title: Hungry Bachelors Club
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/hungry-bachelors-club/
-categories: ["Biographies"]
-tags: ["Movies"]
 date: "1996-08-20"
 ---
 *Note: This biography was released before The Hungry Bachelors Club was renamed.*

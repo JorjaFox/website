@@ -4,14 +4,12 @@ date: 2007-04-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "The death of all romance: Could the Sara-Grissom affair be over?"
 newsreporter: Staff
 newssource: CTV
 newsurl: https://www.ctv.ca
-
 ---
 
 Underneath the crime scenes and forensic labs on "CSI" lays one of the show's most compelling mysteries: the relationship between Gil Grissom, head of the crime lab, and investigator Sara Sidle.

@@ -4,14 +4,12 @@ date: 2011-02-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Matt's TV Week in Review  "
 newsreporter: Matt Roush
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/Matts-TV-Week-1028902.aspx
-
 ---
 
 [...]

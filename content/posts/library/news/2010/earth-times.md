@@ -4,14 +4,12 @@ date: 2010-05-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "CSI Star Jorja Fox to Provide Updates on Incredible Bolivian Lion Journey  "
 newsreporter: Animal Defenders International
 newssource: Earth Times
 newsurl: https://www.earthtimes.org/articles/show/csi-star-jorja-fox-to,1308038.shtml
-
 ---
 
 LOS ANGELES - (Business Wire) Actress Jorja Fox, who portrays character Sara Sidle on the hit show CSI, will be taking part in a dramatic three-day rescue mission by Animal Defenders International (ADI) to bring four circus lions from Bolivia to California.

@@ -3,14 +3,12 @@ title: TV Guide
 date: 2002-10-21
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: Ask Matt
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 [...]

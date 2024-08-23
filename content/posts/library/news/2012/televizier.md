@@ -4,14 +4,12 @@ date: 2012-12-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "Sara, the mother hen in CSI - Background  "
 newsreporter: Leks van der Horst
 newssource: Televizier
 newsurl: https://www.televizier.nl/nieuws/achtergrond/sara-de-moederkloek-in-csi-achtergrond.1049543.lynkx
-
 ---
 
 *[Translated from Dutch by Google & Corrected by Volunteers.]*

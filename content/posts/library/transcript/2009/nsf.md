@@ -5,8 +5,7 @@ layout: transcript
 interviewurl: https://www.gettyimages.com
 date: 2009-09-22
 permalink: /transcript/2009/:title/
-categories: ["Interviews"]
-tags: [ "2009" ]
+interviewyear: "2009"
 ---
 
 [...]

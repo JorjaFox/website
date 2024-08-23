@@ -5,8 +5,7 @@ layout: transcript
 date: 2002-03-08
 interviewurl: https://www.eonline.com/
 permalink: /transcript/2002/:title/
-categories: ["Interviews"]
-tags: [ "2002" ]
+interviewyear: "2002"
 ---
 
 ## Intro

@@ -3,13 +3,11 @@ title: Herald Sun TV Guide
 date: 2003-08-24
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 newstitle = CSI: Review
 newsreporter: Staff
 newssource: Hearald Sun TV Guide
 newsurl: https://www.heraldsun.news.com.au/
-
 ---
 
 [...]

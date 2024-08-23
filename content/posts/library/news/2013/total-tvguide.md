@@ -4,14 +4,12 @@ date: 2013-04-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "'We're number one in the world'  "
 newsreporter: David Collins
 newssource: Total TVguide
 newsurl: https://www.tvchoicemagazine.co.uk/
-
 ---
 
 **Jorja Fox**, who plays Sara Sidle, is proud to be part of the planet's favourite show

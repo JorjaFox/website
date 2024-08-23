@@ -4,14 +4,12 @@ date: 2007-07-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "New cast member could replace Jorja Fox on CSI"
 newsreporter: TV Squad
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/
-
 ---
 
 On the heels of news that Rory Cochrane is returning to one of the other CSI shows, CSI: Miami, comes this news: Jorja Fox is probably on her way out.

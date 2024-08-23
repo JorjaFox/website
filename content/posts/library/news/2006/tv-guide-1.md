@@ -4,14 +4,12 @@ date: 2006-01-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Q&A Jorja Fox  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **CSI's *sexiest vegetarian on snatching (fake) bodies, carrying a torch for Grissom and the show's all-star band.***

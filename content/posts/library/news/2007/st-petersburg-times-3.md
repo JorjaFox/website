@@ -4,14 +4,12 @@ date: 2007-10-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' fan says losing Sara would be a crime  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times
 newsurl: https://www.sptimes.com/
-
 ---
 **A Dunedin woman is rallying the troops online to keep Jorja Fox on "CSI: Crime Scene Investigation."**
 

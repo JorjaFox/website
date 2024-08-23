@@ -5,8 +5,7 @@ layout: transcript
 interviewurl: https://kroq.com/
 date: 2009-09-24
 permalink: /transcript/2009/:title/
-categories: ["Interviews"]
-tags: [ "2009" ]
+interviewyear: "2009"
 ---
 
 **Host:** ... It's 9:15.

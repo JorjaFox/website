@@ -2,7 +2,6 @@
 title: In Defense of Animals
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Environmentalism
   - "Animal Rights"

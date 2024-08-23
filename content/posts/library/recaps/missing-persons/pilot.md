@@ -3,7 +3,6 @@ title: Pilot (Missing Persons)
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/missing-persons/pilot/
-categories: ["Recaps"]
 tags: ["Missing Persons"]
 station: ABC
 showname: "Missing Persons"

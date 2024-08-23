@@ -4,14 +4,12 @@ date: 2006-04-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "ASK AUSIELLO  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **Question:** Saw you on that new show *Square Off* and I have to ask: What was with the "Grissom and Sara are going to have sex" comment? *Please* elaborate! - Donna

@@ -1,0 +1,22 @@
+{{ .Render "global/header" }}
+
+<div class="card">
+    <div class="card-header">
+        <h5 class="card-title">
+            {{ if .Params.newsurl }}
+                <a href="{{.Params.newsurl}}" target="_blank">{{.Params.newssource}}</a>
+            {{ else }}
+                {{.Params.newssource}}
+            {{ end }}
+        </h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">By {{.Params.newsreporter}} &mdash; {{ .Date.Format "02 January, 2006" }}</h6>
+    </div>
+    <div class="card-body">
+        <!-- NOTICE! THE FOLLOWING CONTENT IS COPYRIGHT {{.Params.newssource}} -- FANS OF LEFOX MAKES NO CLAIM TO OWNERSHIP. IT IS REPRODUCED HERE FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY. -->
+        {{ .Render "global/main" }}
+        <!-- NOTICE! THE PREVIOUS CONTENT IS COPYRIGHT {{.Params.newssource}} -- FANS OF LEFOX MAKES NO CLAIM TO OWNERSHIP. IT IS REPRODUCED HERE FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY. -->
+    </div>
+    <div class="card-footer">&copy; {{.Params.newssource}}</div>
+</div>
+
+{{- partial "footer/disclaimer.html" . -}}

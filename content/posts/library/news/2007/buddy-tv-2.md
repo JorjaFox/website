@@ -4,14 +4,12 @@ date: 2007-04-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: CSI To Kill Off Sara Sidle?
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/csi-to-kill-off-sara-sidle-6046.aspx
-
 ---
 
 Although many deem the Grissom-Sara love affair to be a significant contributing factor for the intriguing yet forced plot of the show, the couple's fans might need to say goodbye to their on screen romance. Although it hasn't been confirmed or denied by CBS, many speculate that Jorja Fox, actress who plays Sara Sidle on **Crime Scene Investigation**, will be leaving the Emmy Award-winning CBS television series. According to TV Guide, Fox's contract is up to next month and that she may not renew for the next season.

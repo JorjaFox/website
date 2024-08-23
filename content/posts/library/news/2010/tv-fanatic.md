@@ -4,14 +4,12 @@ date: 2010-10-22
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "CSI Review: 'House of Hoarders'"
 newsreporter: Alithea
 newssource: TV Fanatic
 newsurl: https://www.tvfanatic.com/2010/10/csi-review-house-of-hoarders/
-
 ---
 
 Following an early season's worth recent rocky episodes, "House of Hoarders" was a pleasant surprise.

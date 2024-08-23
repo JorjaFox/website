@@ -2,7 +2,6 @@
 title: CBS Cares
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - psa
 website: https://www.cbs.com/cbs_cares/

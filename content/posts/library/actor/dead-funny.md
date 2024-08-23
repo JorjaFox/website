@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Dead Funny"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "dead-funny"
 imdb: https://www.imdb.com/title/tt0109566/
 actorimage: /img/actors/dead-funny.jpg

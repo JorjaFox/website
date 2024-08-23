@@ -4,14 +4,12 @@ date: 2011-01-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Matlin a blast from the past on 'CSI'"
 newsreporter: Zap2It
 newssource: Daily Herald
 newsurl: https://dailyherald.com/article/20110124/entlife/701289988/
-
 ---
 
 As hard-core fans of CBS' "CSI: Crime Scene Investigation" know, former CSI boss Gil Grissom (William Petersen) had deaf parents and therefore is adept at American Sign Language. They also know he married fellow CSI Sara Sidle (Jorja Fox) and is in the jungle doing research, while Sara is back in Las Vegas working crime scenes.

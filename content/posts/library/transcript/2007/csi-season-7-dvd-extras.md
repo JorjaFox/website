@@ -5,8 +5,7 @@ transcriber: David Masters
 layout: transcript
 interviewurl: https://www.cbs.com
 permalink: /transcript/2007/:title/
-categories: ["Interviews"]
-tags: ["2007"]
+interviewyear: "2007"
 ---
 
 **Jorja Fox** "(on Billy Petersen leaving the show for four weeks in November of 2006)" I wasn't disappointed at all, I think, you know, obviously as I met Billy he had come almost directly out of this excitement of theater he was doing in Chicago and he's very famous for that theater that he's done. I think that it's been the heart of his work over the time of his career, he's done some films that are ground-breaking and memorable and everybody, those, that's probably the way that the most people know Billy Petersen, but I think that people who know Billy Petersen "know" that his heart and his soul has always been in the theater, so, and it's almost as if in a sense odd that it took him six years to find his way into one, you know, and I think that it's a testament to the show, how much "CSI:" has all this passion that he hasn't felt like he could go do a play at the same time. Cause he's also fairly multi-faceted, much more so than I am and I think some of us are on the show.

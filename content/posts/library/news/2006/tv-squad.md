@@ -4,14 +4,12 @@ date: 2006-05-22
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "CSI: Way To Go (finale)  "
 newsreporter: Staff
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/2006/05/22/csi-way-to-go-finale/
-
 ---
 
 [...]

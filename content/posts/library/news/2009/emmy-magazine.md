@@ -4,14 +4,12 @@ date: 2009-03-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: 'Paging All Staff! Stat! A Look Back at "ER"'
 newsreporter: Neal Baer
 newssource: Emmy Magazine
 newsurl: https://cdn.emmys.tv/emmymag/eex-09mar-er2-singl.php
-
 ---
 
 [...]

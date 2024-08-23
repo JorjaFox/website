@@ -4,14 +4,12 @@ date: 2013-02-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "'CSI' Preview: Is Sara Cheating On Grissom? (EXCLUSIVE VIDEO)  "
 newsreporter: Laura Prudom
 newssource: Huffington Post
 newsurl: https://www.huffingtonpost.com/2013/02/19/csi-sara-grissom\_n\_2715275.html
-
 ---
 
 The February 20 episode of "CSI: Crime Scene Investigation" sees Sara (Jorja Fox) in hot water after a brief encounter with a man leaves her as the prime suspect in his murder case. Even worse - her interaction with the victim has the team suspecting she's cheating on Grissom (William Petersen).

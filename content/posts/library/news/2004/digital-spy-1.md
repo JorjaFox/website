@@ -3,14 +3,12 @@ title: Digital Spy
 date: 2004-07-18
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Axed 'CSI' actors may return"
 newsreporter: Staff
 newssource: Digital Spy
 newsurl: https://www.digitalspy.co.uk
-
 ---
 
 Axed *CSI* actors George Eads and Jorja Fox look set to be reinstated on the cast of the crime drama, according to reports today.

@@ -4,14 +4,12 @@ date: 2010-08-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Jorja Fox till Fredrik Reinfeldt: StÃ¤ng minkfarmerna!  "
 newsreporter: Administrator
 newssource: Sveket mot minkarna
 newsurl: https://sveketmotminkarna.se/kampanjen/nyheter/jorja-fox-till-fredrik-reinfeldt-stÃ¤ng-minkfarmerna
-
 ---
 
 Den amerikanska skÃ¥despelerskan Jorja Fox, kÃ¤nd frÃ¥n bland annat CSI dÃ¤r hon spelar kriminalteknikern Sara Sidle som löser mystiska brott, ger sig nu in i debatten om svenska minkfarmer. Hon gör vad hon kan för att stoppa de lagbrott som pÃ¥gÃ¥tt sedan 1988 genom att skriva ett öppet brev till stadsminister Fredrik Reinfeldt, dÃ¤r hon vÃ¤djar om att minkfarmerna ska förbjudas.

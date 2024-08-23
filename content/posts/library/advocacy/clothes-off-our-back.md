@@ -2,7 +2,6 @@
 title: Clothes Off Our Back
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Charity
 website: https://www.clothesoffourback.org/

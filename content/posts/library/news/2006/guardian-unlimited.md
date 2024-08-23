@@ -4,14 +4,12 @@ date: 2006-07-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Q&A Jorja Fox  "
 newsreporter: Staff
 newssource: Guardian Unlimited
 newsurl: https://www.guardian.co.uk/
-
 ---
 
 Jorja Fox was born in 1968 in New York. She played Dr Maggie Doyle in TV's ER and went on to have a recurring role in The West Wing. She is most famous for playing Sara Sidle in CSI, now in its sixth season on Channel Five.

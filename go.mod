@@ -5,7 +5,7 @@ go 1.22.5
 require (
 	github.com/JorjaFox/mod-bs5-lightbox v0.0.3 // indirect
 	github.com/airbnb/lottie-web v5.12.2+incompatible // indirect
-	github.com/gethinode/hinode v0.26.3 // indirect
+	github.com/gethinode/hinode v0.26.4 // indirect
 	github.com/gethinode/mod-bootstrap v1.3.1 // indirect
 	github.com/gethinode/mod-flexsearch v1.12.1 // indirect
 	github.com/gethinode/mod-fontawesome v1.10.0 // indirect

@@ -2,7 +2,6 @@
 title: Surfrider Foundation
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Oceans
   - Environmentalism

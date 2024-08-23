@@ -4,14 +4,12 @@ date: 2006-08-08
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Apparently, autopsies and romance do mix  "
 newsreporter: Staff
 newssource: Desert Morning News
 newsurl: https://deseretnews.com
-
 ---
 
 If the revelation that Sara (Jorja Fox) and Gil (William Petersen) are having an affair came as a surprise to "CSI" fans in May's season finale, it was a surprise that was a long time coming. And not just because there have been little hints along the way.

@@ -1,13 +1,11 @@
 ---
 title: About Stars / Grading
-categories: ["FAQ"]
-tags: ["website"]
 layout: library
 ---
 
-Grading is a fairly subjective way of rating a TV show or movie by way of how much is Jorja Fox's character involved, and how much screen time does she get.
+Grading is our subjective way of rating a TV show or movie by way of how much is Jorja Fox's character involved, and how much screen time does she get.
 
-The objective is to give the highest 'score' to anything that someone should watch if looking for a great representation of Jorja Fox's work as an actor. This is not an attempt to grade how good a movie or TV show is. In fact, Memento is a highly acclaimed movie and only has a 'score' of 2, because Jorja Fox's role is quite minor. Rating also may not reflect how much screen time Jorja has. For example, in the _CSI: Crime Scene Investigation_ episode A La Cart, she's in three scenes, however a great deal of characterization is developed in those scenes.
+The goal is to give the highest 'score' to anything that someone should watch if looking for a great representation of Jorja Fox's work as an actor. This is not an attempt to grade how good a movie or TV show is. In fact, _Memento_ is a highly acclaimed movie and only has a 'score' of 2, because Jorja Fox's role is quite minor. Rating also may not reflect how much screen time Jorja has. For example, in the _CSI: Crime Scene Investigation_ episode A La Cart, she's in three scenes, however a great deal of characterization is developed in those scenes.
 
 Grades are given on a loose scale of 0 to 5 stars, with a rough guideline as follows:
 
@@ -21,19 +19,19 @@ Example: Anything that has not yet aired or been seen.
 
 {{< star color="grey-star" count="5" >}} - Credited but does not appear.
 
-Example: The _CSI: Crime Scene Investigation_ episode "Pilot".
+Example: The _[CSI: Crime Scene Investigation](/library/actor/csi/)_ episode "[Pilot](/library/recaps/csi/pilot/)".
 
 ### 1 Gold Stars
 
 {{< star color="gold-star" count="1" >}}{{< star color="grey-star" count="4" >}} - Very brief scene or two, no more than 2 minutes total. Often as a guest actor.
 
-Example: The _CSI: Crime Scene Investigation_ episode "High and Low" or the movie [The Jerky Boys](/library/actor/jerky-boys).
+Example: The _CSI: Crime Scene Investigation_ episode "High and Low" or the movie "[The Jerky Boys](/library/actor/jerky-boys)".
 
 ### 2 Gold Stars
 
 {{< star color="gold-star" count="2" >}}{{< star color="grey-star" count="3" >}} - Some dialogue, acting as a supporting character.
 
-Example: The movie [Memento](/library/actor/memento/) or the _CSI: Crime Scene Investigation_ episode "Burked".
+Example: The movie "[Memento](/library/actor/memento/)" or the _CSI: Crime Scene Investigation_ episode "Burked".
 
 ### 3 Gold Stars
 

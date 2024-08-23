@@ -3,14 +3,12 @@ title: KLAS TV
 date: 2004-07-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "CSI Casting Call for Elvis Impersonators"
 newsreporter: Staff
 newssource: KLAS TV
 newsurl: https://www.klas-tv.com
-
 ---
 
 [...]

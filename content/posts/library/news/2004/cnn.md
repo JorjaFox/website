@@ -3,14 +3,12 @@ title: CNN
 date: 2004-07-15
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "'CSI' actors fired"
 newsreporter: Staff
 newssource: CNN
 newsurl: https://cnn.com
-
 ---
 
 Fox and Eads let go for breach of contract, sources say

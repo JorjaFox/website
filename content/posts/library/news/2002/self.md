@@ -3,8 +3,7 @@ title: Self
 date: 2002-09-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: How I Work Out
 newsreporter: Shelly Levitt

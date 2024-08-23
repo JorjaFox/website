@@ -3,8 +3,6 @@ title: Forever Fabulous
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/forever-fabulous/
-categories: ["Biographies"]
-tags: ["Movies"]
 date: "2000-08-20"
 ---
 

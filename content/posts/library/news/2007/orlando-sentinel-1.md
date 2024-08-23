@@ -4,14 +4,12 @@ date: 2007-07-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: 'At CBS party, previews of "CSI," "Without a Trace," "Cold Case," "The Amazing Race" and more'
 newsreporter: Orlando Sentinel
 newssource: Orlando Sentinel
 newsurl: https://blogs.orlandosentinel.com/
-
 ---
 
 [...]

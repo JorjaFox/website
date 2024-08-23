@@ -3,14 +3,12 @@ title: E! Online (News)
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI Series Finale: 49 Thoughts You Have When the First Episode You Ever Watch Is the Last One"
 newsreporter: Tierney Bricker
 newssource: E! Online
 newsurl: https://www.eonline.com/news/700506/csi-series-finale-49-thoughts-you-have-when-the-first-episode-you-ever-watch-is-the-last-one
-
 ---
 
 Confession: I have never purposefully watched an episode of CSI. Or any of its spinoffs.

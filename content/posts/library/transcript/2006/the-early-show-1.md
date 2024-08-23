@@ -5,8 +5,7 @@ layout: transcript
 interviewurl: https://www.cbsnews.com/earlyshow/
 date: 2006-05-11
 permalink: /transcript/2006/:title/
-categories: ["Interviews"]
-tags: [ "2006" ]
+interviewyear: "2006"
 ---
 
 [...]

@@ -5,8 +5,7 @@ layout: transcript
 date: 2003-01-09
 interviewurl: https://www.cbsnews.com/earlyshow/
 permalink: /transcript/2003/:title/
-categories: ["Interviews"]
-tags: [ "2003" ]
+interviewyear: "2003"
 ---
 
 This particular article was about the music of "CSI:"; in the beginning was an interview with series creator Anthony Zuiker, discussing how music is chosen for various segments.

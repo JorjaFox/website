@@ -4,13 +4,11 @@ date: 2001-04-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
-tags: ["2001"]
+newsyear: "2001"
 newstitle: "For Jorja Fox It's Personal"
 newsreporter: Staff
 newssource: Venice Magazine
 newsurl: https://www.venicemag.com/
-
 ---
 **T**here's a line in *Memento*, written and directed by Christopher Nolan, where Guy Pearce (*L.A. Confidential*), as tormented lead character Leonard Shelby, is asked, "What's the last thing you remember?" He says, "My wife." But the sum of what he can piece together from his injury-induced chronic loss of short-term memory is "the feel of a person." Jorja Fox, who suffers a *Psycho*-like death and haunts the film as Shelby's memory of his murdered wife, does exactly that on the screen: creates the feel of a person. It's this instinctive ability to mine the white space on a page of dialogue that really calls attention to a Jorja Fox performance. While you may not have her name on the tip of your tongue at the moment, the surprise hit show "CSI: Crime Scene Investigation" (CBS) may be the platform that will launch this young actor into the national consciousness.That's because Jorja is doing something with her craft that isn't seen a lot: she's not only *acting*, she's *listening*. And the actor's reference points are "personal." Born in New York, but raised in the small Florida town of Melbourne Beach, Fox's path into the profession reads like a teen fantasy. Local girl enters a modeling contest with friends; wins the contest despite the just-rolled-out-of-bed tomboy look; ends up on photo shoots in Europe; retires by the age of 18; decides to act. Then she gets cast to do guest spots on shows like "Law and Order" and "Ellen"; stars in NBC's huge hit "ER" and moves on to the Emmy award-winning series "The West Wing." And now it's "CSI," where she plays the gung-ho junior member of the investigative team, forensics investigator Sara Sidle.
 

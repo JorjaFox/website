@@ -2,8 +2,6 @@
 title: "The True Story"
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: true-story
 actorimage: /img/actors/true-story.jpg
 ---

@@ -4,14 +4,12 @@ date: 2010-11-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Spoiler Chat: Smallville, Glee, Vampire Diaries and More!  "
 newsreporter: Kristin Dos Santos
 newssource: E! Online
 newsurl: https://www.eonline.com/uberblog/watch\_with\_kristin/b213428\_spoiler\_chat\_smallville\_glee_vampire.html
-
 ---
 
 [...]

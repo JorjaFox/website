@@ -5,8 +5,7 @@ layout: transcript
 date: 2008-09-20
 interviewurl: https://www.gettyimages.com.au/detail/video/jorja-fox-at-the-entertainment-weekly-6th-annual-pre-emmy-news-footage/83051710
 permalink: /transcript/2008/:title/
-categories: ["Interviews"]
-tags: [ "2008" ]
+interviewyear: "2008"
 ---
 
 *Jorja Fox:** I think it's my second or my third year at this party. I'm not the biggest party person. Yeah, no it's super fun, it's been super fun. I've even had a friend come in from out of town and she's so excited.

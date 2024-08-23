@@ -3,14 +3,12 @@ title: The Star Online
 date: 2003-04-06
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Behind the investigation
 newsreporter: Staff
 newssource: The Star Online
 newsurl: https://star-ecentral.com/
-
 ---
 
 Variety puts a call through to California and speaks to Jorja Fox about what's fast becoming everyone's favourite crime series on television, C.S.I.: Crime Scene Investigation. MUMTAJ BEGUM dusts for prints and gets the inside story.

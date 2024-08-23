@@ -4,14 +4,12 @@ date: 2007-09-07
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Not a wealth of good shows, but nuggets, old and new"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: https://www.philly.com
-
 ---
 
 [...]

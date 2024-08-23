@@ -4,14 +4,12 @@ date: 2011-02-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Record Breaking 25 Rescued Bolivian Lions Arriving at Denver International Airport Wednesday, February 16, 2011  "
 newsreporter: Staff
 newssource: "EON: Enhanced Online News "
 newsurl: https://eon.businesswire.com/news/eon/20110214007416/en/Animal-Defenders-International/ADI/Bob-Barker
-
 ---
 
 **Bob Barker and CSI Actress Jorja Fox to Greet Lions**

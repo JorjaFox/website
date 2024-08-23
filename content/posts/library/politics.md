@@ -2,8 +2,6 @@
 title: Politics
 author: "Mika A. Epstein"
 layout: library
-categories: ["Politics"]
-tags: ["Index"]
 permalink: /politics/
 ---
 

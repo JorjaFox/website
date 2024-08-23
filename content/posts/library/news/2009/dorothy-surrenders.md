@@ -4,14 +4,12 @@ date: 2009-09-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Tell me, who are hot?"
 newsreporter: Dorothy Snarker
 newssource: Dorothy Surrenders
 newsurl: https://dorothysurrenders.blogspot.com/2009/09/tell-me-who-are-hot.html
-
 ---
 
 I know it's not particularly cool to say, but I love 'CSI.' The we are the original, accept no substitute, high stakes or go home 'CSI.' The we don't need a stinking city behind our initials because what happens here stays here 'CSI.' The we aren't about making bad puns while taking off our sunglasses or tinting everything in NYPD's blue 'CSI.' You know -- Vegas, baby. It's just solid TV. Is it groundbreaking? Not especially. But week after week it is well done, infrequently gimmicky and beautifully produced. Tell me some of the scenes, especially in the last few Grissom seasons, did not feel cinematic in scope.

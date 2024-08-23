@@ -4,14 +4,12 @@ date: 2007-11-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Don't let the door hit you on the way out, Sara  "
 newsreporter: MSNBC
 newssource: MSNBC
 newsurl: https://www.msnbc.msn.com/id/21776926/
-
 ---
 **Readers dish on why Jorja Fox's departure from 'CSI' should be celebrated**
 

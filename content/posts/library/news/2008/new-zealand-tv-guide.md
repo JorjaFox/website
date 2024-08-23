@@ -4,14 +4,12 @@ date: 2008-02-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Marg's Big Year"
 newsreporter: Jenny Cooney Carillo
 newssource: TV Guide (New Zealand)
 newsurl: https://tv-guide.co.nz
-
 ---
 
 [...]

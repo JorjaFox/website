@@ -4,14 +4,12 @@ date: 2011-07-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Jorja Fox Signs On for Full-Time CSI Gig  "
 newsreporter: Rich Juzwiak
 newssource: TV Guide
 newsurl: https://www.tvguide.com/News/Jorja-Fox-CSI-Regular-1035488.aspx
-
 ---
 
 Jorja Fox will no longer guest-star on her old haunt of CSI: Crime Scene Investigation - come next season, the show's 12th, she'll be considered a full-fledged regular, TVLine reports.

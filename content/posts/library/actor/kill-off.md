@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "The Kill-Off"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "kill-off"
 imdb: https://www.imdb.com/title/tt0097665/
 actorimage: /img/actors/the-kill-off.jpg

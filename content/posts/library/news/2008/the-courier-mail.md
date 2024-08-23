@@ -4,14 +4,12 @@ date: 2008-10-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Inauthentic despite wrinkles  "
 newsreporter: Dianne Butler
 newssource: The Courier-Mail
 newsurl: https://www.news.com.au/couriermail/story/0,23739,24519136-5003422,00.html
-
 ---
 
 **I WAS shocked at the amount of wrinkle-relaxing poison in the face of Jorja Fox when I watched CSI last week. There wasn't any. She just looked like the rest of us, ie: a corrugated iron roof from some angles.**

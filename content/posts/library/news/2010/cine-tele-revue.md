@@ -4,14 +4,12 @@ date: 2010-03-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Sauveront-elles les Experts?  "
 newsreporter: Staff
 newssource: Cine Tele Revue
 newsurl: https://www.cinetelerevue.be
-
 ---
 
 [...]

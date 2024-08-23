@@ -4,14 +4,12 @@ date: 2006-05-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "The Watcher: The Gil and Sara show on 'CSI'  "
 newsreporter: Staff
 newssource: The Watcher - A Chicago Tribune Web log
 newsurl: https://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/the\_gus\_and\_sar.html
-
 ---
 
 Oh snap! **"CSI"** better watch out. It has a lot of enraged fans out there after its Thursday season finale *(warning, don't read this if you haven't seen the "CSI" season-ender yet)*:

@@ -4,14 +4,12 @@ date: 2007-06-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "The Planet sits down with CSI star Jorja Fox"
 newsreporter: Planet Jackson Hole
 newssource: Planet Jackson Hole
 newsurl: https://planetjh.com/news/A_101286.aspx
-
 ---
 
 Jackson Hole Film Festival - The Jackson Hole Film Festival party at Q Roadhouse Saturday night marked the last big hurrah of the soirees organized around the festival. Just before hundreds of revelers arrived to imbibe in food and drink and watch Sierra Leone's Refugee All Stars, Planet Jackson Hole had a chance to walk across Q's grassy lawn and sit down with noted television actress Jorja Fox.

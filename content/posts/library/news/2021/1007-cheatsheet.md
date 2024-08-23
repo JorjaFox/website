@@ -3,8 +3,7 @@ title: "Cheatsheet"
 date: 2021-10-07
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
-categories: ["Articles", "News"]
+newsyear: "2021"
 newstitle: "‘CSI: Vegas’: Jorja Fox Believes It Would Be ‘Almost Impossible’ For Sara To Return Without Grissom"
 newsreporter: "Nicole Weaver"
 newssource: "Cheatsheet"

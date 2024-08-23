@@ -5,8 +5,7 @@ transcriber: David Masters
 layout: transcript
 interviewurl: https://ellen.warnerbros.com/
 permalink: /transcript/2004/:title/
-categories: ["Interviews"]
-tags: [ "2004" ]
+interviewyear: "2004"
 ---
 
 **Ellen DeGeneres** Our next guest is a star of the popular forensic drama, CSI. Watch her at work.

@@ -3,14 +3,12 @@ title: SharpHeels
 date: 2014-02-21
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
-categories: ["Articles", "News"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "Jorja's Lionhearted Activism"
 newsreporter: Sarah Marloff
 newssource: Entertainment Weekly
 newsurl: https://sharpheels.com/2014/02/jorjafoxlions/
-
 ---
 
 *CSI*'s Sara Sidle, aka Jorga Fox, is best known for her life-saving roles on-screen, but off screen, Fox is saving animals. With Seafox Productions, the long-time animal rights activist and burgeoning producer, Fox is quickly mixing her two passions with growing documentary portfolio. Her latest endeavor, *Lion Ark*, has been nominated for Outstanding International Motion Picture at this weekend's 45th NAACP Image Awards.

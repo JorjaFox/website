@@ -4,14 +4,12 @@ date: 2013-11-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Jorja Fox Takes A Walk On The Wild Side  "
 newsreporter: Ulrica Wihlborg
 newssource: Sweden With Love
 newsurl: https://www.swedenwithlove.com/2013/11/jorja-fox-takes-a-walk-on-the-wild-side/
-
 ---
 
 Actress** Jorja Fox** is standing in the middle of an airplane hangar in Boulder, Colorado, watching the doors of a Bolivian cargo jet open up. While the sun sets over the Rocky Mountains, individual crates housing twenty-five African lions are unloaded. Although from different prides, the lions share the same fate: rescued from circus abuse, they're about to embark on a new life. All of a sudden, one lion after the other starts roaring, the sound bouncing off the walls in the giant hangar. A lion's roar can travel up to five miles, and the roars turn into a symphony never before heard on the Colorado plains. "It's a sound that completely penetrates you," says Jorja. "You can feel those roars in your muscles and bones. If something like that had happened in the wild, where I was surrounded by twenty-five lions, I would've been petrified! But I wasn't scared. It was one of the most amazing things I've ever felt."

@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Next Exit"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "next-exit"
 imdb: https://www.imdb.com/title/tt0452657/
 ---

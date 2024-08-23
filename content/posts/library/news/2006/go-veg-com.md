@@ -4,14 +4,12 @@ date: 2006-05-05
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Investigate Vegetarianism With CSIs Jorja Fox  "
 newsreporter: Staff
 newssource: Go Veg
 newsurl: https://www.goveg.com
-
 ---
 
 Jorja Fox, who plays Sara Sidle on the hit TV show CSI, manages to make dusting for fingerprints, collecting DNA, and examining cadavers look like the hottest job around. Now, Fox hopes to generate the same amount of buzz for vegetarianism as she has for forensic science. In her new ad for PETA, Fox encourages people to "investigate vegetarianism"-something she's been doing for 20 years.

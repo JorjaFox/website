@@ -4,13 +4,11 @@ date: 2001-06-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Who's News
 newsreporter: Staff
 newssource: USA Today Weekend Magazine
 newsurl: https://usaweekend.com/01_issues/010617/010617whosnews.html
-
 ---
 I'm one of the many fans of CBS' hit crime drama, "CSI: Crime Scene Investigation". Tell me about Jorja Fox, one of the forensic investigators.
 Roseanne Turner, Denver, Ind.

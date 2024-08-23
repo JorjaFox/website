@@ -4,14 +4,12 @@ date: 2005-09-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Procter prospers"
 newsreporter: Staff
 newssource: The Star
 newsurl: https://www.star-ecentral.com/
-
 ---
 [...]
 

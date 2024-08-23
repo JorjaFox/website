@@ -5,8 +5,7 @@ interviewurl: https://www.greenwithtiffany.com/
 transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2014/:title/
-categories: ["Interviews"]
-tags: [ "2014" ]
+interviewyear: "2014"
 ---
 
 **Tiffany Paige:** We're here with actress Jorja Fox from CSI. What brings you here tonight?

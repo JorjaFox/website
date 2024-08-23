@@ -3,7 +3,6 @@ title: What Kind of Day has it Been
 author: Mika A. Epstein
 permalink: /recaps/west-wing/:title/
 layout: recaps
-categories: ["Recaps"]
 tags: ["The West Wing"]
 station: NBC
 showname: "The West Wing"

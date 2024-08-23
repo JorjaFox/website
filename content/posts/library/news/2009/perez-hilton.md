@@ -4,14 +4,12 @@ date: 2009-08-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Jorja Fox Returns To 'CSI'"
 newsreporter: Staff
 newssource: Perez Hilton
 newsurl: https://perezhilton.com/2009-07-18-jorja-fox-returns-to-csi
-
 ---
 
 **Jorja Fox** will be returning to "CSI" in its upcoming season.

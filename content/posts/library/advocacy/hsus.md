@@ -2,7 +2,6 @@
 title: Humane Society of the United States
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Animal Rights"
 website: https://www.humanesociety.org/

@@ -4,14 +4,12 @@ date: 2006-05-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "CSI STAR FOX FEARS SHE HAS UPSET TV BOSSES WITH VEGGIE AD  "
 newsreporter: Staff
 newssource: PR Inside
 newsurl: https://www.pr-inside.com/csi-star-fox-fears-she-has-upset-tv-bosses-with-veggie-ad-r4161.htm
-
 ---
 
 CSI: CRIME SCENE INVESTIGATION star JORJA FOX fears she'll upset the hit forensics drama's producers after agreeing to pose for a new pro-vegetarian advertisement which borrows heavily from the show.

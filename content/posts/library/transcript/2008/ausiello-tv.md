@@ -5,8 +5,7 @@ layout: transcript
 date: 2008-09-21
 interviewurl: https://www.ew.com/ew/video/ausiello_tv
 permalink: /transcript/2008/:title/
-categories: ["Interviews"]
-tags: [ "2008" ]
+interviewyear: "2008"
 ---
 
 **Michael Ausiello:** You're back this season

@@ -1,8 +1,6 @@
 ---
 title: "Looking for the gallery or videos?"
 layout: library
-categories: ["FAQ"]
-tags: ["gallery"]
 aliases:
   - /gallery/
   - /videos/

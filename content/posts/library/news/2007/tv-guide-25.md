@@ -4,14 +4,12 @@ date: 2007-07-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Is 'CSI' On the Hunt for a New Jorja Fox?"
 newsreporter: TV Guide
 newssource: TV Guide
 newsurl: https://community.tvguide.com/
-
 ---
 
 Although "CSI" hasn't even pronounced Sara dead yet, it sounds suspiciously like the powers-that-be are already planning to breathe new life into the show by introducing a replacement for Jorja Fox's hot cop.

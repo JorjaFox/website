@@ -3,8 +3,7 @@ title: "TV Insider"
 date: 2021-11-10
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
-categories: ["Articles", "News"]
+newsyear: "2021"
 newstitle: "‘CSI: Vegas’ Star Jorja Fox on the Latest Suspect: Sara ‘Thinks Maybe This Is It’"
 newsreporter: "Meredith Jacobs"
 newssource: "TV Insider"

@@ -2,8 +2,6 @@
 title: Musical Interests
 author: "Mika A. Epstein"
 layout: library
-categories: ["Jorja Fox"]
-tags: ["music"]
 permalink: /music/
 ---
 

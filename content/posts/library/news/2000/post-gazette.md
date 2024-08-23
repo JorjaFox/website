@@ -3,14 +3,12 @@ title: Post-Gazette
 date: 2000-10-04
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: "'West Wing' elects to keep its idealistic platform"
 newsreporter: Staff
 newssource: Post-Gazette
 newsurl: https://www.post-gazette.com
-
 ---
 **Who's been shot?**
 

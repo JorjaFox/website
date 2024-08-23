@@ -4,14 +4,12 @@ date: 2009-10-28
 transcriber: nadiarichard
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: 'Jorja Fox: Long live the return of the (just a little bit) "butch" CSI'
 newsreporter: Myrtille Rambion
 newssource: TeTu
 newsurl: https://www.tetu.com/actualites/television/jorja-fox-vive-le-retour-dune-experte-un-peu-butch-15756
-
 ---
 
 **CBS couldn't please their millions of fans more. Jorja Fox is back on *CSI*. Gone from Las Vegas since season 8, Sara Sidle is back ever since the first episode of season 10, currently airing in the US. There are many reasons to rejoice. TÃTUE.COM will tell you why.**

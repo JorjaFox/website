@@ -3,15 +3,13 @@ title: Buddy TV
 date: 2008-02-14
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2008"]
-categories: ["Articles", "News"]
+newsyear: "2008"
 permalink: /news/2008/:title/
 
 newstitle: "CBS Set to Producer More Post-Strike 'CSI'  "
 newsreporter: Rosario Santiago
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/cbs-set-to-producer-more-posts-16600.aspx
-
 ---
 
 [...]

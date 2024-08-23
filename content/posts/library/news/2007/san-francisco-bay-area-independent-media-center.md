@@ -4,14 +4,12 @@ date: 2007-02-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "San Francisco Indie Fest Ends With Controversy"
 newsreporter: IndyBay
 newssource: IndyBay
 newsurl: https://www.indybay.org/newsitems/2007/02/16/18364540.php
-
 ---
 
 San Francisco Indie Fest Closes with controversial film "Your Mommy Kills Animals".

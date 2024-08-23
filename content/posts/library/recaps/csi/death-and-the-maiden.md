@@ -3,8 +3,6 @@ title: "Death and the Maiden"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,6 +18,6 @@ The CSIs discover that two seemingly unrelated crimes are actually part of a rev
 
 ## Review
 
-_Sara Sidle does not appear in this episode_
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
 
 Sara is working a quintuple homicide in Parumph and will be there all night.

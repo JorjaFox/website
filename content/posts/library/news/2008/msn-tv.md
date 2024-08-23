@@ -4,14 +4,12 @@ date: 2008-07-10
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "TV's Top Cops  "
 newsreporter: Staff
 newssource: MSN tv
 newsurl: https://tv.msn.com/tv/galleryfeature/tvs-top-cops/?photoidx=7
-
 ---
 
 [...]

@@ -4,14 +4,12 @@ date: 2007-10-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "TV Q&A"
 newsreporter: The Roanoke Times
 newssource: The Roanoke Times
 newsurl: https://www.roanoke.com
-
 ---
 
 [...]

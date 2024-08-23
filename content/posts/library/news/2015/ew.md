@@ -3,14 +3,12 @@ title: EW
 date: 2015-09-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI finale: William Petersen's lips are sealed on a potential Sara-Grissom reunion"
 newsreporter: Mary Sollosi
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/article/2015/09/17/william-petersen-csi-finale-sara-grissom
-
 ---
 
 Original 'CSI' cast members reflect on the positive impact of the CBS show 15 years later

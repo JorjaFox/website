@@ -3,14 +3,12 @@ title: BBC News
 date: 2004-07-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "CSI star fired in 'pay dispute'"
 newsreporter: Staff
 newssource: BBC
 newsurl: https://news.bbc.co.uk/1/hi/entertainment/film/3899613.stm
-
 ---
 
 One of the stars of the Emmy-nominated drama CSI has been fired in what is thought to be a dispute over salaries.

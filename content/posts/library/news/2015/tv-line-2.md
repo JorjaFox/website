@@ -3,14 +3,12 @@ title: TV Line
 date: 2015-09-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI Finale Preview: Grissom and Sidle's 'Awkward' Reunion, MIA Nick and More"
 newsreporter: Rebecca Iannucci
 newssource: TV Line
 newsurl: https://tvline.com/2015/09/17/csi-series-finale-spoilers-grissom-sidle-relationship/
-
 ---
 
 Brush up on your forensic jargon and crank the volume on The Who, because it's nearly time to say goodbye to CSI.

@@ -4,14 +4,12 @@ date: 2007-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI'S' SARA SIDLE SURVIVES"
 newsreporter: New York Post
 newssource: New York Post
 newsurl: https://www.nypost.com
-
 ---
 
 SARA lives.

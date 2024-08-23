@@ -3,15 +3,13 @@ title: TV Guide Magazine
 date: 2009-10-05
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
-categories: ["Articles", "News"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "In Box  "
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/
-
 ---
 
  [...]

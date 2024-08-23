@@ -3,14 +3,12 @@ title: Northwest Herald
 date: 2004-08-04
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Fox, Eads stick together"
 newsreporter: Staff
 newssource: Northwest Herald
 newsurl: https://www.nwherald.com/
-
 ---
 
 "CSI: Crime Scene Investigation" actress Jorja Fox is looking back on her and cast mate George Eads' temporary firing from the show as "a very bad dream that lingered. You think, 'This can't really be happening,' but it is."

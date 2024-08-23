@@ -4,14 +4,12 @@ date: 2007-10-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Breaking! Jorja Fox Confirms Her CSI Departure"
 newsreporter: Staff
 newssource: Watch With Kristin
 newsurl: https://www.eonline.com
-
 ---
 
 Well, I suppose this puts the nail in the coffin. Sorry, Sara Sidle fans.

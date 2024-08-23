@@ -4,8 +4,7 @@ date: 2021-11-17
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://twitter.com/i/broadcasts/1ZkJzbBjRPqJv
-categories: ["Interviews"]
-tags: ["2021"]
+interviewyear: "2021"
 ---
 
 [...]

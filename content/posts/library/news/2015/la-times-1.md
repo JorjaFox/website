@@ -3,14 +3,12 @@ title: LA Times
 date: 2015-09-26
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "As 'CSI' comes to a close, actress Jorja Fox is open to an uncertain future"
 newsreporter: Jessica Ritz
 newssource: LA Times
 newsurl: https://www.latimes.com/health/la-he-jorja-fox-csi-interview-20150926-story.html
-
 ---
 
 "Jorja Fox of "CSI" is preparing to face welcome uncertainty. "I think you kind of have to embrace the unknown if you're an actor," she says."

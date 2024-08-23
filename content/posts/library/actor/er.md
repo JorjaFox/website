@@ -2,8 +2,6 @@
 layout: actor
 description: Dr. Maggie Doyle is a resident in one of Chicago's busiest hospitals.
 title: "ER"
-categories: ["Filmography", "ER"]
-tags: ["Television"]
 episodelist: true
 slug: er
 imdb: https://www.imdb.com/title/tt0108757/

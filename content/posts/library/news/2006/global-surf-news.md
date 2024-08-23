@@ -4,14 +4,12 @@ date: 2006-11-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "World Premier of Documentary 'Accidental Icon: The Real Gidget Story'  "
 newsreporter: Staff
 newssource: Global Surf News
 newsurl: https://www.globalsurfnews.com
-
 ---
 
 Oscar-winning actress Sally Field admits that Gidget was "my beginning and I loved her!" Former Motion Picture Academy President Frank Pierson calls Gidget as "a proto-feminist figure." And says former U.S. Surf Champion Jericho Poppler Bartlow, "I remember thinking, \`Gidget could do it.I know I can.'"

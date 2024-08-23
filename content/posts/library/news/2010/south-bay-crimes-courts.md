@@ -4,14 +4,12 @@ date: 2010-05-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Surfer loses lawsuit against LAPD officers  "
 newsreporter: Larry Altman
 newssource: South Bay Crimes & Courts
 newsurl: https://www.earthtimes.org/articles/show/csi-star-jorja-fox-to,1308038.shtml
-
 ---
 
 [...]

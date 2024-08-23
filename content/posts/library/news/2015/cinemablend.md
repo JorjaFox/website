@@ -3,14 +3,12 @@ title: CinemaBlend
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI: CBS' Drama Just Gave The Fans The Ending They Deserved"
 newsreporter: Libby Hill
 newssource: CinemaBlend
 newsurl: https://www.cinemablend.com/television/CSI-CBS-Drama-Just-Gave-Fans-Ending-They-Deserved-88607.html
-
 ---
 
 [...]

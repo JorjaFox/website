@@ -4,14 +4,12 @@ date: 2005-02-08
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "SAG Awards: Million-Dollar Night"
 newsreporter: Staff
 newssource: Backstage.com
 newsurl: https://www.backstage.com
-
 ---
 [...]
 

@@ -4,14 +4,12 @@ date: 2006-11-07
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Is eating meat a crime?  "
 newsreporter: Staff
 newssource: Daily Mirror
 newsurl: https://bond.lanesystems.com
-
 ---
 
 As forensic sleuth Sara Sidle on the hit series CSI: Crime Scene Investigation, Jorja Fox has had her share of murders to solve. But it doesn't take a professional to figure out who the perpetrator is behind the deaths of the billions of animals killed for food every year - namely, the meat industry. That's why Jorja - a longtime vegetarian - jumped at the chance to shoot a provocative new pro-vegetarian ad for her friends at People for the Ethical Treatment of Animals (PETA) Asia-Pacific.

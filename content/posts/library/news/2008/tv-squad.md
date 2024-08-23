@@ -4,14 +4,12 @@ date: 2008-05-22
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "'CSI' bringing Jorja Fox back for fall premiere  "
 newsreporter: Allison Waldman
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/2008/05/22/csi-bringing-jorja-fox-back-for-fall-premiere/
-
 ---
 
 When Sara left "CSI", driving out of Las Vegas on her way to who knows what, he left behind a brokenhearted Gil Grissom. The producers of "CSI" were wise to keep the door open for the character to return, and that's just what's happening - at least for one show. According to "TV Guide**s Michael Ausiello, Jorja Fox will be in the season premiere of "CSI". Oh, and she won't be the only former cast mate on the show; so will Gary Dourdan as Warrick.

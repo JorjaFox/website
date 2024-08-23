@@ -4,14 +4,12 @@ date: 2009-11-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Interview: Allen MacDonald  "
 newsreporter: Kristine Huntley
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2009/11/interview-allen-macdonald/
-
 ---
 
 The CSI Producer discusses the big crossover, what's coming up in the remaining sweeps episodes of "CSI" and the return of a memorable nemesis. Lights spoilers inside!

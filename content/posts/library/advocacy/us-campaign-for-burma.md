@@ -2,8 +2,6 @@
 title: U.S. Campaign for Burma
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
-tags: [Politics, 'Human Rights']
 website: https://www.burmaitcantwait.org
 ---
 

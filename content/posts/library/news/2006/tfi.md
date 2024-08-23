@@ -4,14 +4,12 @@ date: 2006-10-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "JORJA FOX 'You're finally going to see me smile.'"
 newsreporter: Staff
 newssource: TFI
 newsurl: https://tfi.com
-
 ---
 _Translated from French_
 

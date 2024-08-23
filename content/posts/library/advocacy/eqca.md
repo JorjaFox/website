@@ -2,8 +2,6 @@
 title: Equality California
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
-tags: [Humanity]
 website: https://eqca.org
 ---
 

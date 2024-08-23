@@ -5,8 +5,7 @@ layout: transcript
 date: 2005-05-15
 interviewurl: https://www.tvland.com/topten/men.jhtml
 permalink: /transcript/2005/:title/
-categories: ["Interviews"]
-tags: [ "2005" ]
+interviewyear: "2005"
 ---
 
 "TV Land's Top Ten" is a show about the top ten [whatever].

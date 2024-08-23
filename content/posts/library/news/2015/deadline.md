@@ -3,14 +3,12 @@ title: Deadline
 date: 2015-09-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI' Series Finale: Creator Anthony Zuiker On That Ending, Deleted Scene And The Future For The Characters & Himself"
 newsreporter: Nellie Andreeva
 newssource: Deadline
 newsurl: https://deadline.com/2015/09/csi-series-finale-reaction-ending-deleted-scene-future-creator-anthony-zuiker-1201553754/
-
 ---
 
 [...]

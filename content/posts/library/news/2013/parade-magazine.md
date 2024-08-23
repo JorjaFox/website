@@ -4,14 +4,12 @@ date: 2013-08-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "CSI's Jorja Fox on Animal Advocacy on TV and in Real Life  "
 newsreporter: Michele C. Hollow
 newssource: Parade
 newsurl: https://www.parade.com/55620/michelechollow/csis-jorja-fox-on-animal-advocacy-on-tv-and-in-real-life/
-
 ---
 
 Dog fighting rings, canned hunting, factory farming, and even the cruelty behind shark fin soup have all been topics on the popular CBS drama "CSI: Crime Scene Investigation", and actress "'Jorja Fox"' takes pride in her shows coverage of these issues. Jorja plays forensic scientist Sara Sidle on the long running series. In real life, she volunteers as an ambassador for Animal Defenders International.

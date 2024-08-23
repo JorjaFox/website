@@ -4,14 +4,12 @@ date: 2012-12-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
-categories: [News, Articles]
-tags: ["2012"]
+newsyear: "2012"
 
 newstitle: "CSI Season 13 Review 'Risky Business Class' -- Owner of a Lonely Heart  "
 newsreporter: Kristen Elizabeth
 newssource: TVEquals
 newsurl: https://www.tvequals.com/2012/12/12/csi-season-13-review-risky-business-class-owner-of-a-lonely-heart/
-
 ---
 
 Now that all of my fellow GSR fans have breathed a collective sigh of relief, although it might be a bit premature, I can honestly say that 'Risky Business Class,' this week"s episode of CSI, will only ever be memorable as the episode that clearly exposed the rift in Grissom and Sara"s marriage.

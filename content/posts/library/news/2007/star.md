@@ -4,14 +4,12 @@ date: 2007-05-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "CSI 'JILTS JORJA!'"
 newsreporter: Star
 newssource: Star
 newsurl: https://www.star.com
-
 ---
 
 **Frustrated by their star's continuing complaints, sources say, "CSI" decides to get rid of Jorja Fox once and for all - but the actress finds a way to foil their plans (for now!)**

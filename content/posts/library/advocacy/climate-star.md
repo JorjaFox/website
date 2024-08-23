@@ -2,7 +2,6 @@
 title: Climate Star
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Environmentalism
 website: https://www.ClimateStar.org

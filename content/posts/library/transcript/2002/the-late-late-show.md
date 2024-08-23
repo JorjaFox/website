@@ -5,8 +5,7 @@ layout: transcript
 date: 2002-06-26
 interviewurl: https://www.cbs.com/
 permalink: /transcript/2002/:title/
-categories: ["Interviews"]
-tags: ["2002"]
+interviewyear: "2002"
 ---
 
 "The Late Late Show with Craig Kilborn" was a TV Talk show/variety show, hosted by Craig Kilborn.

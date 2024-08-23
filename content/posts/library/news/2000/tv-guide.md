@@ -3,14 +3,12 @@ title: TV Guide
 date: 2000-09-30
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: Review
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com/magazine/issues/000925/fri5.asp
-
 ---
 9-10PM, CBS
 

@@ -4,14 +4,12 @@ date: 2007-10-08
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Joanna's Best & Worst of the Week"
 newsreporter: The TV Addict
 newssource: The TV Addict
 newsurl: https://thetvaddict.com
-
 ---
 
 [...]

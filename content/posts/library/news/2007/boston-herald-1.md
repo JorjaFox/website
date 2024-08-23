@@ -4,14 +4,12 @@ date: 2007-02-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Heart to heart: Checking in with prime-time's top valentines"
 newsreporter: Staff
 newssource: Boston Herald
 newsurl: https://theedge.bostonherald.com/tvNews/view.bg?articleid=182813
-
 ---
 
 Love makes the TV story line go round.

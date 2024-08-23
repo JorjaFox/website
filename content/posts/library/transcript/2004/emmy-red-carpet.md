@@ -5,8 +5,7 @@ layout: transcript
 date: 2004-09-19
 interviewurl: https://www.eonline.com
 permalink: /transcript/2004/:title/
-categories: ["Interviews"]
-tags: [ "2004" ]
+interviewyear: "2004"
 ---
 
 **Star Jones:** In the mean time my girl is here.

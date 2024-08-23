@@ -4,14 +4,12 @@ date: 2007-05-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Is Jorja Fox off CSI?"
 newsreporter: MSN Entertainment
 newssource: MSN Entertainment
 newsurl: https://entertainment.msn.com/
-
 ---
 
 **Another contract dispute with CBS may mean Sara Sidle is toast **

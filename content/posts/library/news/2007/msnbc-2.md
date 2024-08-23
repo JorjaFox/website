@@ -4,14 +4,12 @@ date: 2007-11-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Fans fear 'CSI' will suffer without Sara Sidle  "
 newsreporter: MSNBC
 newssource: MSNBC
 newsurl: https://www.msnbc.msn.com/id/21777452/
-
 ---
 **Jorja Fox's character valuable to show, and she's a role model, readers say**
 

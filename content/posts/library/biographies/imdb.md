@@ -3,8 +3,6 @@ title: IMDb
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/imdb/
-categories: ["Biographies"]
-tags: ["Internet"]
 date: "2000-08-20"
 lastmod: "2018-08-20"
 sourceurl: "https://www.imdb.com/name/nm0289080/"

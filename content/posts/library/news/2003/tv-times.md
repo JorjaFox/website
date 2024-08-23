@@ -3,14 +3,12 @@ title: TV Times
 date: 2003-01-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Applied Science
 newsreporter: Staff
 newssource: TV Times
 newsurl: https://tvtimes.com
-
 ---
 
 *Gruesome but gripping - that's CSI, the US crime series that's gained quiet a reputation*

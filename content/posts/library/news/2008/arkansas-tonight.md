@@ -4,14 +4,12 @@ date: 2008-08-31
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "DNC Report"
 newsreporter: Cris Seligman
 newssource: Arkansas Tonight
 newsurl: https://arkansastonight.com/2008/08/dnc-report.html
-
 ---
 
 [...]

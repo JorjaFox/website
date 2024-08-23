@@ -4,14 +4,12 @@ title: TV Guide (Brisbane Australia)
 date: 2004-04-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Now she's crowing"
 newsreporter: Staff
 newssource: TV Guide (Brisbane Australia)
 newsurl: https://www.tvguide.co.au
-
 ---
 
 Jorja Fox once starred as a rooster in the children's classics Chicken Little. She was five years old and liked being on stage so much that she became fixated on an acting career. Three decades down the track and New York City-born Fox,36, now ranks among the most popular TV actors in the US. The rooster role, she says, will never be reprised. "I dropped out of the play, actually," a giggling Fox told TV Guide in Los Angeles. "I did a great rooster."

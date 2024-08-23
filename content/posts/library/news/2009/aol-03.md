@@ -4,14 +4,12 @@ date: 2009-08-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Jorja Fox Interview on Returning to 'CSI'  "
 newsreporter: Sandra Deane
 newssource: AOL TV
 newsurl: https://television.aol.com/insidetv/2009/08/18/jorja-fox-interview-on-returning-to-csi/
-
 ---
 
 It's been two years since Jorja Fox left the grimy Las Vegas crime scenes of 'CSI' for sun, surf and soul searching. But now she's set to return as Sara Sidle for a much anticipated five-episode arc on the series' 10th season (premiering Sept. 24 on CBS). There's wild speculation around the circumstances of her visit - Is another CSI in danger? Are Sara and Grissom still together? - and AOL TV grilled her mercilessly for the juicy details.

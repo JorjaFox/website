@@ -27,7 +27,10 @@ svg#gold-star, .star-gold svg, .star-gold-star svg {
     fill: #ffc107;
 }
 
-/* Accessibility */
+/* Navbars */
+nav#NewsListOfYears ul, nav#TranscriptsListOfYears ul {
+    column-count: 2!important;
+}
 
 /* BreadCrumbs */
 .breadcrumb {

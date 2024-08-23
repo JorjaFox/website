@@ -18,4 +18,4 @@ When a man is found murdered at an elaborate holiday party complete with real sn
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

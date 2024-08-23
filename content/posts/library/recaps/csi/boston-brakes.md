@@ -18,4 +18,4 @@ The CSIs are called to investigate a car crash and are shocked to discover the v
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

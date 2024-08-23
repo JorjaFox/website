@@ -18,7 +18,7 @@ Grissom investigates a suicide that presents little evidence. A tape recording o
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
 
 ## Notes
 

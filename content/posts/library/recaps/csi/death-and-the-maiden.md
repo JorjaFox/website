@@ -18,6 +18,6 @@ The CSIs discover that two seemingly unrelated crimes are actually part of a rev
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
 
 Sara is working a quintuple homicide in Parumph and will be there all night.

@@ -18,4 +18,4 @@ The CSIs need to ace the case involving a rising tennis star. Meanwhile, the CSI
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

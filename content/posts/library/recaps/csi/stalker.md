@@ -18,4 +18,4 @@ The hunt for a deadly stalker is the focus of a tense episode that builds to a n
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

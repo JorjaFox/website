@@ -1,11 +1,9 @@
+{{ .Render "global/header" }}
+{{ .Render "global/main" }}
+
 {{ $pagedate := $.Page.Date.Format "2006" }}
-{{ $order    := "normal" }}
-{{ $count    := 1 }}
 {{ $thisdate := now.Format "2006" }}
 {{ $tags     := slice $pagedate }}
-
-{{ if .Get "order" }}{{ $order = .Get "order" }}{{ end }}
-{{ if .Get "count" }}{{ $count = .Get "count" }}{{ end }}
 
 {{ $inter_pages    := where .Site.Pages.ByDate "Layout" "transcript" }}
 {{ $inter_articles := where $inter_pages "Params.interviewurl" "ne" nil }}
@@ -13,9 +11,7 @@
 
 {{ $len := len $inter_year }}
 
-{{ if eq $order "reverse" }}<br />&nbsp;{{ end }}
-
-{{ if and (ne $len 0) (ne $order "reverse") }}<p>{{ $len }} transcript{{ if gt $len 1 }}s{{ end }} from {{ $pagedate }}.<p>{{ end }}
+{{ if and (ne $len 0) (ne .Params.type "main") }}<p>There {{ if gt $len 1 }}are{{ else }}is{{ end }} {{ $len }} transcript{{ if gt $len 1 }}s{{ end }} from {{ $pagedate }}.<p>{{ end }}
 
 <table class="table table-striped table-borderless table-hover table-transcripts">
 
@@ -31,10 +27,10 @@
             <tr>
                 <td colspan="2">There are no transcripts for {{ $pagedate }} yet.</td>
             </tr>
-        {{ else if eq $order "reverse" }}
-            {{ range first $count $inter_year.Reverse }}
+        {{ else if eq .Params.type "main" }}
+            {{ range first 5 $inter_year.Reverse }}
                 <tr>
-                    <td>{{ .Date.Format "January 02" }}</td>
+                    <td>{{ .Date.Format "02 January" }}, {{ $pagedate }}</td>
                     <td><a href="{{ .Permalink }}">{{ htmlUnescape .Title }}</a></td>
                 </tr>
             {{ end }}
@@ -56,7 +52,6 @@
                                 }
                             </script>
                         {{ end }}
-
                     </td>
                 </tr>
             {{ end }}

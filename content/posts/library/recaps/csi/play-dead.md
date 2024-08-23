@@ -18,4 +18,4 @@ A police officer is killed, and the only living witness is his dog; a predatory 
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

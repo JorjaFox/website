@@ -18,4 +18,4 @@ Sqweegel, a serial killer who is punishing local heroes that harbor hidden secre
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

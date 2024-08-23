@@ -18,4 +18,4 @@ A series of grisly but apparently unrelated murders, which all take place in the
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

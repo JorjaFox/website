@@ -18,4 +18,4 @@ When a Jane Doe is found near the freakish attractions of a 19th-century-inspire
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

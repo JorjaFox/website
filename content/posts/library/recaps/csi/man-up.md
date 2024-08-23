@@ -18,4 +18,4 @@ The CSIs question the validity of an online picture depicting a murdered call gi
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

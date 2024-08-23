@@ -18,4 +18,4 @@ While Catherine, Greg, DB and Ecklie attend new mobster exhibit, an ex mayor is 
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

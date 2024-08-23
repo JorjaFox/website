@@ -18,4 +18,4 @@ Brass travels to Hollywood, California to try to track down his estranged daught
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

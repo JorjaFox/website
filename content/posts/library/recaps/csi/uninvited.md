@@ -18,4 +18,4 @@ The CSIs are called to investigate when an entire family is reported to have bee
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

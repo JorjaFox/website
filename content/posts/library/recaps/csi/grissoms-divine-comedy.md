@@ -18,7 +18,7 @@ Grissom is called while he has walking pneumonia, in order to solve a gang case 
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
 
 In a deleted scene, Catherine comes over to prep Grissom for the court visitation. While there, she snoops through his apartment, greeting Hank the Dog by name. Catherine finds a photograph of the CSI team, all in their vests, but also one of much younger Grissom and Sara on the refrigerator. Perhaps surprised by the age of the photograph, she asks Grissom how long they've been together. He does not answer.
 

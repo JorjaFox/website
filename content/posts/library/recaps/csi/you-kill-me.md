@@ -18,7 +18,7 @@ Hodges stages hypothetical murders in the lab in order to give his fellow lab te
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
 
 ## Notes
 

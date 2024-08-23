@@ -18,4 +18,4 @@ As Russell and his team investigate a series of murders, one of their own confro
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

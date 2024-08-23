@@ -18,4 +18,4 @@ The CSI team investigates the death of a woman full of alcohol and drugs in a po
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

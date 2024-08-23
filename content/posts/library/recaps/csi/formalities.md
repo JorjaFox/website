@@ -18,4 +18,4 @@ Grissom is called to a murder of a 17-year-old in a casino penthouse. Sofia Curt
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

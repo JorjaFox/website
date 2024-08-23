@@ -20,4 +20,4 @@ The surprising truth is that the wife faked her own death and framed her husband
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

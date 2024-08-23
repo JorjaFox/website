@@ -38,6 +38,6 @@ While the staff awaits news regarding the injuries to Jed and Josh, they recall 
 **Leo:** Was there someone on the ground?\
 **Gina:** There was a signal, I couldn't give a description.\
 **Leo:** Did they close the airports?\
-**Gina:** [nodding] And Union Station. We've got troopers on the bridges and 300 field agents working Rossland but &#8230; I can't tell them what they're looking for.\
+**Gina:** [nodding] And Union Station. We've got troopers on the bridges and 300 field agents working Rossland but ... I can't tell them what they're looking for.\
 **Leo:** [comforting] You got the girl in the car, Gina.\
 **Gina:** It's right in front of my face.

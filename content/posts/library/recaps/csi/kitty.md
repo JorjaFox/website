@@ -18,4 +18,4 @@ The CSIs investigate the cyber-related murder of a prominent casino owner's wife
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

@@ -56,18 +56,16 @@ footer:
   pageRef: https://jorjafox.net/feed.xml
   weight: 40
 
-jorja:
-- name: Follow Jorja Fox
-  weight: 10
+social:
 - name: Official Website
-  parent: Follow Jorja Fox
-  pageRef: https://jorjafox.net
+  url: https://jorjafox.net
+  pre: "fas house-chimney-user"
   weight: 10
 - name: X/Twitter
-  parent: Follow Jorja Fox
-  pageRef: https://twitter.com/jorjafoxofficia
+  url: https://twitter.com/jorjafoxofficia
+  pre: "fab x-twitter"
   weight: 20
 - name: Facebook
-  parent: Follow Jorja Fox
-  pageRef: https://www.facebook.com/jorjafoxofficial
+  url: https://www.facebook.com/jorjafoxofficial
+  pre: "fab facebook"
   weight: 30

@@ -18,4 +18,4 @@ The CSIs link a body with severe burn marks to possible execution by electric ch
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

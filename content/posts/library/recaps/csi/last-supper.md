@@ -18,4 +18,4 @@ The name of the hit cooking show, 'Slice and Dice,' takes on a grim new meaning 
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

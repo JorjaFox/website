@@ -18,4 +18,4 @@ Nick and Greg investigate the death of a 16-year-old girl with ties to a brothel
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

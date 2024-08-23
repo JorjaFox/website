@@ -18,4 +18,4 @@ When the CSIs investigate a triple homicide, Russell has to find a way to connec
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

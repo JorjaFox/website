@@ -18,4 +18,4 @@ When Nick learns that a man he helped put in prison is going to have his convict
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

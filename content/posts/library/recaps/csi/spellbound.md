@@ -22,4 +22,4 @@ Grissom, who has steadfastly maintained that science will always crack the case 
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

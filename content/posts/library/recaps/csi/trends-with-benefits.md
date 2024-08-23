@@ -18,4 +18,4 @@ The CSIs are brought in to solve the case of a recently murdered student whose d
 
 ## Review
 
-{{< alert color="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}

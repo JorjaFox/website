@@ -24,8 +24,7 @@
                     {{ $sidebar | safeHTML }}
                 </div>
                 <div class="col-12 col-{{ $breakpoint.current }}-9 col-{{ $breakpoint.next }}-8 mb-5 p-4">
-                    {{ .Render "global/header" }}
-                    {{ .Render "global/main" }}
+                    {{ .Render "single/news-index" }}
                 </div>
                 <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.current }}-block pt-5">
                     {{ .Render "sidebar/news-index" }}
@@ -34,8 +33,7 @@
         {{ else }}
             <div class="row row-cols-1 row-cols-{{ $breakpoint.current }}-2">
                 <div class="col col-{{ $breakpoint.prev }}-12 col-{{ $breakpoint.current }}-9">
-                    {{ .Render "global/header" }}
-                    {{ .Render "global/main" }}
+                    {{ .Render "single/news-index" }}
                 </div>
                 <div class="col col-{{ $breakpoint.current }}-3 d-none d-{{ $breakpoint.current }}-block">
                     {{ .Render "sidebar/news-index" }}

@@ -12,6 +12,7 @@ style:
 navigation:
   logo: "logo.svg"
   size: "lg"
+  sidebar: false
 
 favicon:
   logo: "/img/favicon.png"

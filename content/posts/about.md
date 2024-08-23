@@ -24,14 +24,6 @@ In your email, please be explicit in your needs/questions/requests. Every attemp
 
 This website is powered by [Hugo](https://gohugo.io) and uses the [Hinode](https://gethinode.com) theme. It is deployed via Github actions.
 
-## History (by Ipstenu)
+## History
 
-At some point in 1996, I created a short Jorja Fox Filmography on my college website under the handle Athena Nike (aka Ipstenu, aka Athena, aka Mika Epstein, who owns ipstenu.org), as a part of a homework assignment. The site went live and public in December 1996. On Monday, April 20, 1998, I put up the first page of the 'Jorja Fox/ER Website' on my personal web account, mostly to practice HTML skills for a job. It attracted attention, and I moved the site to a free location on Xoom.com. Of course, free servers are annoying and never work right, and I ended up buying a domain name and hosting us there from October 1999 until October 2001.
-
-On October 17th, 2001, I made our formal move to the domain name jorjafox.net and started the forums on EZBoard. 2002 had three server moves, trying to find the best fit, which ended up being the phenomenal LiquidWeb, where the site lived until 2020. Somewhere in all this, I went from EZBoard to YaBB! to YaBBSE to InvisionBoard for the forums. 2005 brought on the Wiki and WordPress as a blogging tool. Slowly over the years I've added more and more features. Like Gallery (instead of using our own homegrown script), and turning on comments on the blog. In November 2007 I closed the forums due to lack of posting and support. In 2008, I re-opened the forums, this time using bbPress as our code, but that only lasted till 2010, when I switched everything to BuddyPress, until we went back to bbPress from 2011 to the end of 2012, and eventually removed it all together.
-
-As of 2020, the server and code stack has been stable, hosted on DreamHost VPS.
-
-Possibly most memorable _server_ moment was October 2007, when Jorja Fox announced she was leaving CSI, and the server nearly crashed under the weight of all the visits! The most memorable moment in general was [being invited to meet Jorja](https://jorjafox.net/blog/2010/02-28-jorja-invited-jfo-to-spotlight-humane-chicago/).
-
-Don't ask about how many redesigns I've had for the look and feel for this site, since I lost track after the tenth revision! The first site was a real ugly one, and I seem to recall a green and a purple one somewhere out there. I revamped the look and feel in 2006 to celebrate 10 years (since I'd forgotten what year I started the site) and then again in 2008 when we got tired of the orange. Since I'm known as the 'Green Site' (thank you, Joe Fab) our dip into red was momentary and passing.
+{{< timeline data="history" >}}

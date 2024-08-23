@@ -1,0 +1,102 @@
+
+- title: Moving to Hugo
+  icon: fas code
+  color: danger
+  date: 2024-08-08
+  content:
+    Following a short legal battle, the gallery was removed and the site was moved to Hugo,
+    a static site generator, in the interests of simplicity and security.
+
+- title: Back to CSI
+  icon: fas dice
+  color: warning
+  date: 2023-10-15
+  content:
+    Jorja Fox returned to CSI, or rather joined the first season of CSI Vegas. The site was
+    updated to reflect the new show, and the gallery was expanded to include the new series.
+
+- title: DreamHost
+  icon: fas cloud
+  color: info
+  date: 2020-10-15
+  content:
+    The site was moved to DreamHost, and the site was rebranded as "Fans of LeFox", a shout-out
+    to Jorja's online handle on Twitter.
+
+- title: Meeting Jorja Fox
+  icon: fas user-group
+  color: success
+  date: 2019-10-15
+  content:
+    Mika met Jorja Fox in person, at a Humane Society event in Chicago. Jorja was kind enough to
+    invite Mika to the event, and they spent the evening talking about pets, meeting Billy Petersen,
+    and all around having a wonderful evening.
+
+- title: The Forums
+  icon: fas circle-half-stroke
+  color: warning
+  date: 2007-11-15
+  content:
+    The forums were closed due to lack of posting and support. In 2008, the forums returned,
+    this time using bbPress as our code, but that only lasted till 2010, with the BuddyPress
+    experiment, back to bbPress from 2011 to the end of 2012, and eventually removed it all
+    together.
+
+- title: Leaving Las Vegas
+  icon: fas flag
+  color: primary
+  date: 2007-10-15
+  content:
+    Jorja announced she was leaving CSI, and the site nearly crashed under the load.
+
+- title: Open Source
+  icon: fas images
+  color: info
+  date: 2005-10-15
+  content:
+    The site was moved to a new CMS, WordPress, and the initial concept of the library was born,
+    powered by MediaWiki. Over the next year, the gallery was added and moved from a custom
+    solution to Gallery2, to Coppermine, and finally to ZenPhoto.
+
+- title: Growing Pains
+  icon: fas triangle-exclamation
+  color: danger
+  date: 2002-01-01
+  content:
+    The site struggled with the popularity of Jorja Fox, and the limitations of hosting. Finally
+    the decision was made to move to a larger host, LiquidWeb. The forums were moved to a new
+    software, and the site was rebranded as "Jorja Fox Online".
+
+- title: A Domain of Our Own
+  icon: fas flag
+  color: warning
+  date: 2001-10-17
+  content:
+    The site was moved to its own domain, jorjafox.net, and the name was changed to 'Jorja Fox
+    Online'. The site was now a full-fledged fan site, with a focus on Jorja Fox's career. The
+    initial design was a simple table-based layout, with discussion forums and a guestbook.
+
+- title: Self Hosting
+  icon: fas highlighter
+  color: primary
+  date: 1998-10-15
+  content:
+    Feeling the limits of free hosting, the site was moved to a sub-set of Mika's personal
+    domain (ipstenu.org).
+
+- title: Free Hosting
+  icon: fas copy
+  color: info
+  date: 1998-04-20
+  content:
+    Mika put up the first page of the 'Jorja Fox/ER Website' on her personal web account,
+    mostly to practice HTML skills for a job. It attracted attention, and she moved the
+    site to a free location on Xoom.com.
+
+- title: Initial launch
+  icon: fas rocket
+  color: warning
+  date: 1996-12-01
+  content:
+    A simple filmography page was created by Mika Epstein (aka Ipstenu) for a class project.
+    It was hosted on the University of California Santa Cruz's servers. She got an A.

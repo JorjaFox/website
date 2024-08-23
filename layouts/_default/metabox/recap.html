@@ -1,0 +1,22 @@
+{{ $eptitle   := .Title }}
+{{ $episodes  := (index .Site.Data.episodes .Params.showslug).episodes }}
+{{ $showslug := .Params.showslug }}
+{{ $showname := (index .Site.Data.episodes .Params.showslug).showname }}
+
+{{ range $episodes }}
+    {{ if eq .title $eptitle }}
+        {{ .Page.Scratch.Set "goldstar" .rating }}
+    {{ end }}
+{{ end }}
+
+{{ $goldstar := .Page.Scratch.Get "goldstar" }}
+
+<div class="card text-bg-light">
+    <div class="card-body">
+        <h5 class="card-title text-center">"{{ title .Title }}"</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary text-center"><em><a href="/library/actor/{{ $showslug }}/">{{ $showname }}</a></em> Episode</h6>
+        <p class="card-text text-center">{{ partial "recaps/rating.html" . }}</p>
+        {{ partial "recaps/episode.html" . }}
+    </div>
+    <div class="card-footer text-body-secondary">{{ partial "recaps/chronology.html" . }}</div>
+</div>

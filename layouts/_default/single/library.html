@@ -1,0 +1,33 @@
+{{- $breakpoint := $.Scratch.Get "breakpoint" -}}
+
+{{ .Render "global/header" }}
+
+{{- if and .Site.Params.navigation.toc .Params.includeToc | default true -}}
+    <div class="d-{{ $breakpoint.current }}-none pb-5">{{ partial "assets/toc-dropdown.html" (dict "page" .) }}</div>
+{{- end -}}
+
+{{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) }}
+
+{{/* Display generated sections */}}
+<ul class="list-group">
+{{ if ne .Type "index" }}
+    {{ range .Data.Pages.ByTitle }}
+        <li class="list-group-item">
+            {{ partial "assets/icon.html" (dict "icon" "fas person") }}
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ if not .Lastmod.IsZero }}
+            <script>
+                // Current Date
+                var pubdate = new Date( {{ .Lastmod }} );
+                var nowdate = new Date();
+                var diff    = parseInt( ( nowdate.getTime() - pubdate.getTime() ) / ( 1000 * 60  * 60 * 24 ) );
+
+                if ( diff <= 30 )
+                    document.write( "<span class='badge rounded-pill bg-success'>NEW!</span>" );
+                javascript: ;
+            </script>
+            {{ end }}
+        </li>
+    {{ end }}
+{{ end }}
+</ul>

@@ -1,37 +1,45 @@
 {{ define "main" -}}
     {{- $breakpoint := $.Scratch.Get "breakpoint" -}}
+    {{- $hasSidebar := .Site.Params.navigation.sidebar | default true -}}
+    {{ $sidebar := "" }}
+    {{ if $hasSidebar }}{{ $sidebar = .Render "single/sidebar" }}{{ end }}
     {{ $toc := .Render "single/panel-toc" }}
 
-    {{- $metadata := "full" -}}
-    {{ if isset .Params "metadata" }}
-        {{ $metadata = .Params.metadata }}
-    {{ else }}
-        {{- with (index site.Params.pages .Type ) -}}
-            {{ if isset . "metadata" }}{{ $metadata = (index . "metadata") }}{{ end }}
-        {{- end -}}
+    {{ with $sidebar }}
+        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvass-sidebar" aria-inledby="offcanvas-label">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvas-label">{{ strings.FirstUpper $.Section }}</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="{{ T "close" }}"></button>
+            </div>
+            <div class="offcanvas-body">
+                {{ . | safeHTML }}
+            </div>
+        </div>
     {{ end }}
 
     <div class="container-xxl flex-fill p-4 px-xxl-0">
-        <div class="row row-cols-1 row-cols-{{ $breakpoint.current }}-2 row-cols-{{ $breakpoint.next }}-3">
-            <div class="col-12 col-{{ $breakpoint.current }}-11 col-{{ $breakpoint.next }}-8 mb-5 p-4">
-                {{ with .Title }}<p class="display-4 mt-5">{{ . }}</p>{{ end }}
-                <p class="display-6 mt-5">{{.Params.newstitle}}</p>
-                {{- partial "assets/breadcrumb.html" (dict "page" .) -}}
-                {{- partial "assets/sharing.html" (dict "page" .) -}}
-                <div class="card">
-                    <div class="card-body">
-                        <!-- NOTICE! THE FOLLOWING CONTENT IS COPYRIGHT {{.Params.newssource}} -- FANS OF LEFOX MAKES NO CLAIM TO OWNERSHIP. IT IS REPRODUCED HERE FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY. -->
-                        {{ .Content }}
-                        <!-- NOTICE! THE PREVIOUS CONTENT IS COPYRIGHT {{.Params.newssource}} -- FANS OF LEFOX MAKES NO CLAIM TO OWNERSHIP. IT IS REPRODUCED HERE FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY. -->
-                    </div>
+        {{ if $hasSidebar -}}
+            <div class="row row-cols-1 row-cols-{{ $breakpoint.current }}-2 row-cols-{{ $breakpoint.next }}-3">
+                <div class="col col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.next }}-block sidebar-overflow sticky-top pt-5">
+                    {{ $sidebar | safeHTML }}
                 </div>
-                {{- partial "footer/disclaimer.html" . -}}
-                {{- partial "footer/news.html" . -}}
+                <div class="col-12 col-{{ $breakpoint.current }}-9 col-{{ $breakpoint.next }}-8 mb-5 p-4">
+                    {{ .Render "single/news" }}
+                </div>
+                <div class="col col-{{ $breakpoint.current }}-3 col-{{ $breakpoint.next }}-2 d-none d-{{ $breakpoint.current }}-block pt-5">
+                    {{ .Render "sidebar/news-index" }}
+                </div>
             </div>
-            <div class="col col-{{ $breakpoint.current }}-4 col-{{ $breakpoint.next }}-4 d-none d-{{ $breakpoint.current }}-block pt-5">
-                <span name="toc"></span>
-                {{ .Render "sidebar/news" }}
+        {{ else }}
+            <div class="row row-cols-1 row-cols-{{ $breakpoint.current }}-2">
+                <div class="col col-{{ $breakpoint.prev }}-12 col-{{ $breakpoint.current }}-9">
+                    {{ .Render "single/news" }}
+                </div>
+                <div class="col col-{{ $breakpoint.current }}-3 d-none d-{{ $breakpoint.current }}-block">
+                    {{ .Render "sidebar/news-index" }}
+                </div>
             </div>
-        </div>
+        {{ end -}}
     </div>
 {{ end -}}
+

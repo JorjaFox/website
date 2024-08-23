@@ -1,0 +1,21 @@
+{{ $thisyear := .Date.Format "2006" }}
+
+<div class="toc toc-sidebar mb-5 my-md-0 mb-lg-5 p-3 text-body-secondary sticky-top">
+    <strong class="d-block h6 my-2 pb-2">Transcripts by Year:</strong>
+    <nav id="TranscriptsListOfYears">
+        <ul class="card-columns" style="column-count: 2;">
+            {{ range where $.Page.Site.Pages.ByDate "Layout" "transcript-index" }}
+                {{ if eq .Params.topic "index" }}
+                    <li>
+                    {{ $eachyear := .Date.Format "2006" }}
+                        {{ $a_class := "nav-link" }}
+                        {{ if eq $thisyear $eachyear}}
+                            {{ $a_class = "nav-link active" }}
+                        {{ end }}
+                        <a class="{{ $a_class }}" aria-current="page" href="{{ .Permalink }}">{{ .Date.Format "2006" }}</a>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </nav>
+</div>

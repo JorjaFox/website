@@ -35,6 +35,8 @@
                             </div>
                         {{- end -}}
                     {{- end -}}
+
+                    <center><a onclick='goToRandomPost()' class="btn btn-outline-primary" role="button">Feeling lucky?</a></center>
                 </div>
             </div>
             <div class="col-md-4 small">
@@ -53,6 +55,8 @@
         </div>
     </div>
 </footer>
+
+{{ partial "random.html" . }}
 
 <!--
 Fans of LeFox © 1996 by Mika A. Epstein.

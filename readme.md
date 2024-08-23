@@ -23,7 +23,7 @@
     <a href="https://github.com/JorjaFox/website/pulls">
         <img src="https://img.shields.io/github/issues-pr-raw/JorjaFox/website.svg" alt="Pulls">
     </a>
-    <a href="https://github.com/JorjaFox/website/blob/production/apache-2.0-license.txt">
+    <a href="https://github.com/JorjaFox/website/blob/production/LICENSE">
         <img src="https://img.shields.io/github/license/JorjaFox/website" alt="License">
     </a>
 </p>

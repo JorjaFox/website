@@ -9,7 +9,7 @@
 
     <div class="alert alert-light" role="alert">
         {{ partial "assets/icon.html" (dict "icon" $icon "spacing" false) }} 
-        <a href="/library/recaps/{{ $section }}" class="alert-link"><strong>{{ .Get "title" }}</strong> 
+        <a href="/library/recaps/{{ $show }}" class="alert-link"><strong>{{ .Get "title" }}</strong> 
         {{ if eq $postCount 0 }}
         <span class="badge rounded-pill bg-secondary">Coming Soon</span>
     {{ else }}

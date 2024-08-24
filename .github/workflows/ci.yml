@@ -53,5 +53,15 @@ jobs:
       - name: Build site
         run: npm run build
 
+      - name: Delete extra folder
+        run: rm -rf public/404/
+
       - name: Deploy to Server
-        run: rsync -rlgoDzvc -i --delete resources/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+          ARGS: "-rlgoDzvc -i --delete"
+          SOURCE: "public/"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: "/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/"

@@ -8,7 +8,7 @@ jobs:
   deploy-website:
     runs-on: ubuntu-latest
     steps:
-      - name: Do a git checkout including submodules
+      - name: Git Checkout
         uses: actions/checkout@v4
         with:
           submodules: true
@@ -37,20 +37,23 @@ jobs:
       - name: Install Dependencies
         run: npm install && npm run mod:update
 
-      - name: Make Resources Folder locally
+      - name: Make Resources Folder Locally
         run: mkdir resources
 
       - name: Download resources from server
         run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
-      - name: Build site
+      - name: Build Website
         run: npm run build
 
-      - name: Deploy to Server
+      - name: Delete Extra Folder
+        run: rm -rf public/404/
+
+      - name: Deploy Website to Server
         uses: easingthemes/ssh-deploy@main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-          ARGS: "-rlgoDzvc -i"
+          ARGS: "-rlgoDzvc -i --delete"
           SOURCE: "public/"
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}

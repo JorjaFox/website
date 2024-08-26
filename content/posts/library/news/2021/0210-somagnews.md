@@ -8,8 +8,6 @@ newstitle: "The reason Jorja Fox decided to leave the show"
 newsreporter: "Kaitlyn Kubrick"
 newssource: "Somag News"
 newsurl: https://www.somagnews.com/the-reason-jorja-fox-decided-to-leave-the-show/
-aliases:
-    - /news/2021/somagnews-20210210/
 ---
 
 '''CBS was planning a series of special events for CSI and although it has been confirmed that it would be titled CSI: Vegas. The next show saw actress Jorja Fox reprising her role as Sara Sidle, but why did the actress leave the show?'''

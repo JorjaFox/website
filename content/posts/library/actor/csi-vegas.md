@@ -7,8 +7,6 @@ imdb: https://www.imdb.com/title/tt12887536/
 website: https://www.cbs.com/shows/csi-vegas/
 actorimage: /img/actors/csi-vegas.jpg
 episodelist: true
-aliases:
-  - /self/csi-vegas/
 thumbnail:
   url: img/front-page/csi-vegas.jpg
 ---

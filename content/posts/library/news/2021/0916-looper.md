@@ -8,8 +8,6 @@ newstitle: "The Real Reason George Eads And Jorja Fox Were Fired From CSI"
 newsreporter: "Scott Chernoff"
 newssource: "Looper"
 newsurl: https://www.looper.com/607579/the-real-reason-george-eads-and-jorja-fox-were-fired-from-csi/
-aliases:
-    - /news/2021/looper-20210916/
 ---
 
 One of the most successful TV franchises of the 21st century will roar back to CBS after a five-year hiatus when "CSI: Vegas" premieres in October with some of the franchise's biggest stars back in action. The new series, the fifth in the franchise, will be the first "CSI" since the short-lived "CSI: Cyber" was canceled in 2016, and fans are excited for the return of a trio of actors remembered fondly by fans of the original "CSI," which ran from 2000 to 2015 and chronicled the forensic investigators of the Las Vegas police crime lab. Yes, William Petersen is back as team leader Gil Grissom, as is Wallace Langham as CSI technician David Hodges, along with fan-favorite Jorja Fox as scientist Sara Sidle.

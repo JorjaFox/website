@@ -8,8 +8,6 @@ newstitle: "‘CSI: Vegas’: Jorja Fox on Whether Sara & Grissom Have Changed (
 newsreporter: "Jim Halterman"
 newssource: "TV Insider"
 newsurl: https://www.tvinsider.com/1011070/csi-vegas-preview-sara-grissom-jorja-fox-william-petersen/
-aliases:
-    - /news/2021/tvinsider-20210831/
 ---
 
 Fans of the hugely popular original _CSI_ series aren’t the only ones chomping at the bit for new revival _CSI: Vegas_ — the editors of TV Guide Magazine couldn’t wait to put stars Jorja Fox and William Petersen (reprising their popular roles of Sara Sidle and Gil Grissom) on the Fall Preview cover.

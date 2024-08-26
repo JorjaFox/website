@@ -4,8 +4,6 @@ date: '2015-10-01'
 updated: '2024-07-31'
 author: 'Mika E. (Ipstenu)'
 layout: library
-aliases:
-- /tos/copyrights/
 ---
 
 {{< alert color="success" >}}Last Updated: **14 August 2024**{{< /alert >}}

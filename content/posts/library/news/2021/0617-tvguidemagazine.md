@@ -8,8 +8,6 @@ newstitle: "First Look at the Best New Fall Shows"
 newsreporter: "Staff"
 newssource: "TV Guide Magazine"
 newsurl: https://www.tvguidemagazine.com/first-look-at-fall-tv/
-aliases:
-    - /news/2021/tvguidemagazine-20210617/
 ---
 
 [...]

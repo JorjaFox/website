@@ -1,9 +1,6 @@
 ---
 title: "Looking for the gallery or videos?"
 layout: library
-aliases:
-  - /gallery/
-  - /videos/
 ---
 
 {{< alert color="danger" icon="fas fa-face-sad-tear" >}}

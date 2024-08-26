@@ -28,15 +28,6 @@ For good or ill, _ER_ is the reason this site exists.
 Of the show, Jorja says:
 
 {{< blockquote by="Today Show" >}}
-"It was breathtaking, it was magic.  There was so much going on on ''ER'' that I certainly had never seen on television before.  I don't think you've seen a lot of it in feature films.  The use of stedicams ... you could do almost an entire act of the show in one sweeping, sort of solid, motion.  It was a dance."
+"It was breathtaking, it was magic.  There was so much going on on ''ER'' that I certainly had never seen on television before.  I don't think you've seen a lot of it in feature films.  The use of steady-cams ... you could do almost an entire act of the show in one sweeping, sort of solid, motion.  It was a dance."
 {{< /blockquote >}}
 
-**Videos**
-
-{{< youtube 2mnA00h2gL8 >}}
-
-(at 7:19)
-
-{{< youtube 8OT9bo9n8FQ >}}
-
-(at 6:39)

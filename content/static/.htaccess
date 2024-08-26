@@ -34,8 +34,8 @@ Options +FollowSymLinks -Indexes
     Header always set Expect-CT "max-age=7776000, enforce"
     Header set Access-Control-Allow-Origin "*"
     Header set Referrer-Policy "strict-origin-when-cross-origin"
-    Header add Content-Security-Policy "default-src 'self'; script-src 'self' https://*.google-analytics.com https://*.googletagmanager.com; style-src 'self' https://fonts.googleapis.com https://www.youtube.com; object-src 'none'; base-uri 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com; img-src 'self' data: https://*.imgix.net https://*.imagekit.io https://*.cloudinary.com https://i.vimeocdn.com https://i.ytimg.com https://*.google-analytics.com https://*.googletagmanager.com https://tile.openstreetmap.org; manifest-src 'self'; media-src 'self' "
-    Header set Permissions-Policy "geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(), payment=()"
+    Header add Content-Security-Policy "default-src 'self'; script-src 'self' https://*.google-analytics.com https://*.googletagmanager.com; style-src 'self' https://fonts.googleapis.com https://www.youtube.com; object-src 'none'; base-uri 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://player.vimeo.com https://www.youtube-nocookie.com https://www.youtube.com; img-src 'self' data: https://*.imgix.net https://*.imagekit.io https://*.cloudinary.com https://i.vimeocdn.com https://i.ytimg.com https://*.google-analytics.com https://*.googletagmanager.com https://tile.openstreetmap.org; manifest-src 'self'; media-src 'self' "
+    Header set Permissions-Policy "geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), payment=()"
 </IfModule>
 
 ## BEGIN EXPIRES
@@ -71,7 +71,7 @@ Options +FollowSymLinks -Indexes
     Redirect 301 /terms_of_use/ /terms-of-use/
     Redirect 301 /next-csi-episode/ /library/actor/csi/
     Redirect 301 /tos/copyrights/ /tos/copyright/
-    Redirect 301 /tos/terms/ /tos/
+    Redirect 301 /tos/ /tos/terms/
     RedirectMatch 301 ^/library/faqs/(.*)$ /faq/$1
     RedirectMatch 301 ^/library/faq/(.*)$ /faq/$1
 

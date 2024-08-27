@@ -8,8 +8,6 @@ newstitle: "‘CSI: Vegas’: William Petersen & Jorja Fox Explain How They ‘P
 newsreporter: "Lauren Boisvert "
 newssource: "Outsider"
 newsurl: https://outsider.com/news/entertainment/csi-vegas-william-petersen-jorja-fox-explain-how-they-pulled-jimmy-buffett-for-new-show/
-aliases:
-    - /news/2021/outsider-20210825-01/
 ---
 
 In the new series _CSI: Vegas_, CSI alums William Petersen and Jorja Fox are “wasting away again in Margaritaville.”

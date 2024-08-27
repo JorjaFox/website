@@ -8,8 +8,6 @@ newstitle: "‘CSI’: Vegas’ Stars William Peterson & Jorja Fox Reveal How Th
 newsreporter: "Anna Dunn"
 newssource: "Outsider"
 newsurl: https://outsider.com/news/entertainment/csi-vegas-stars-william-peterson-jorja-fox-reveal-how-they-first-reacted-when-first-getting-call-about-show/
-aliases:
-    - /news/2021/outsider-20210825-02/
 ---
 
 _CSI: Vegas_ is in production and ready to premiere this fall. The show features a lot of the same characters from _CSI_. The iconic show ran from 2000 through 2015 with fifteen action-packed seasons. _CSI: Vegas_ serves as a sequel to the series and picks up where CSI left off. Stars William Peterson and Jorja Fox are both returning to the show. Here’s how they reacted when they first got the call:

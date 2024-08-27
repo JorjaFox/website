@@ -2,6 +2,7 @@ name: 'Preflight Checks'
 
 on:
   push:
+    branches-ignore: [ production ]
 
 concurrency:
      group: ${{ github.ref }}-ci
@@ -12,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Do a git checkout including submodules
+      - name: Git Checkout
         uses: actions/checkout@v4
         with:
           submodules: true
@@ -47,11 +48,18 @@ jobs:
       - name: Make Resources Folder locally
         run: mkdir resources
 
-      - name: Download resources from server
+      - name: Download Resources from Server
         run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
-      - name: Build site
+      - name: Generate Resources
         run: npm run build
 
-      - name: Deploy to Server
-        run: rsync -rlgoDzvc -i --delete resources/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/
+      - name: Push Resources to Server
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+          ARGS: "-rlgoDzvc -i --delete"
+          SOURCE: "resources/"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: "/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/"

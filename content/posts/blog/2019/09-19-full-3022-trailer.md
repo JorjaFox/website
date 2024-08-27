@@ -15,7 +15,7 @@ tags:
 
 The full trailer for _[3022](https://jorjafox.net/library/actor/3022/)_ is out and it's a doozy.
 
-{{< youtube kw_XutG4KkM >}}
+{{< youtube id="kw_XutG4KkM" >}}
 
 This reminds me of _Event Horizon_ which was a movie that absolutely gave me nightmares. Creepy and psychological, we get a look into what happens when we realize there will be no happy ending.
 

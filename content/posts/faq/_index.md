@@ -3,8 +3,6 @@ title: "Frequently Asked Questions"
 author: "Mika A. Epstein"
 layout: library
 permalink: /faq/
-aliases:
-  - /library/faq/
 ---
 
 Find the answers for the most frequently asked questions below:

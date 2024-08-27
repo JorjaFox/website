@@ -17,9 +17,7 @@ While Jorja's in DC for the ADI Wine Dinner, she's actually there to support a 
 
 On March 28, 2017, Representative Ryan Costello (R-PA) and Representative Raúl Grijalva (D-AZ) will reintroduce The Traveling Exotic Animal and Public Safety Protection Act (TEAPSPA), to amend the Animal Welfare Act to restrict the use of exotic and wild animals in traveling circuses and traveling performances.
 
-She and Eric and other stars spoke up in the following video. A word of warning: It contains animal abuse.
-
-{{< youtube CnZ14krFTag >}}
+She and Eric and other stars spoke up at the event (the video has been removed).
 
 There's a [transcript available](https://jorjafox.net/library/transcript/2017/reluctant-entertainers/) as well.
 

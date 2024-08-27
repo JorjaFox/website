@@ -5,7 +5,6 @@ layout: library
 categories: ["ER"]
 tags: ["Television"]
 show: er
-aliases: [ library/actor/er-episodes ]
 type: index
 ---
 

@@ -2,7 +2,6 @@
 title: Animal Acres
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
  - "Animal Rights"
  - humanity

@@ -4,14 +4,12 @@ date: 2007-03-30
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "CSI's Jorja Fox Goes Bike Shopping"
 newsreporter: Ecorazzi
 newssource: Ecorazzi
 newsurl: https://www.ecorazzi.com
-
 ---
 
 Actress **Jorja Fox** is a committed environmentalist and animal rights activist. As I've just seen in an amusing video, she's also really into biking. The clip shows Jorja and SpinDaily host, Katherine, Orange20 Bikes in LA and checking out all the new models -- from hybrid to fixed gear. It's a pretty candid take on their time there with Jorja and Katherine performing "ride-bys" while singing songs. As Cyclelicious points out, there are also some great quotes:

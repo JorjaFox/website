@@ -4,13 +4,11 @@ date: 1999-01-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
-categories: ["Articles", "News"]
+newsyear: "1999"
 newstitle: Review
 newsreporter: Luisa F. Ribeiro
 newssource: Box Off
 newsurl: https://www.boxoff.com/scripts/fiw.dll?GetReview?&where=ID&terms=4626
-
 ---
 Starring Jorja Fox, Bill Nunn and Suzanne Mara. Directed by Gregory Ruzzin. Written by Fred Dresch and Ron Ratliff. Produced by Dan Gifford and Amy Sommer. A Mama's Boys release. Romantic comedy. Rated PG-13 for some mature thematic elements. Running time: 91 min.
 

@@ -4,14 +4,12 @@ date: 2006-07-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Joanne Weintraub: Live from L.A.  "
 newsreporter: Staff
 newssource: JS Online
 newsurl: https://www.jsonline.com/
-
 ---
 
 [...]

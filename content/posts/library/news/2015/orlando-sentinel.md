@@ -3,14 +3,12 @@ title: Orlando Sentinel
 date: 2015-09-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI': Gil Grissom departs heroically"
 newsreporter: Hal Boedeker
 newssource: Orlando Sentinel
 newsurl: https://www.orlandosentinel.com/entertainment/tv/tv-guy/os-csi-gil-grissom-departs-heroically-20150927-post.html
-
 ---
 
 Gil Grissom (William Petersen) returned to "CSI" to talk to bees, lecture about whale songs and tell of a flower whose fragrance can make anyone lose control. For a final time, Grissom's offbeat brilliance brightened the forensics work.

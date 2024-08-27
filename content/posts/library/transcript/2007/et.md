@@ -5,8 +5,7 @@ layout: transcript
 date: 2007-10-25
 interviewurl: https://www.etonline.com
 permalink: /transcript/2007/:title/
-categories: ["Interviews"]
-tags: [ "2007" ]
+interviewyear: "2007"
 ---
 
 **Announcer:** And sad news for "CSI" fans as a star says goodbye.

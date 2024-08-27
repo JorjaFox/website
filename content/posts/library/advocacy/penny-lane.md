@@ -2,7 +2,6 @@
 title: Penny Lane
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Human Rights"
 website: https://www.pennylane.org

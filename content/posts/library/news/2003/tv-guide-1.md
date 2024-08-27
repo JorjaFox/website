@@ -3,14 +3,12 @@ title: TV Guide
 date: 2003-02-22
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Celebrity Chef
 newsreporter: Staff
 newssource: TV Guide Canada
 newsurl: https://tvguide.ca
-
 ---
 
 **Pizza to die for**

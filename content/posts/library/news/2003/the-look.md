@@ -3,14 +3,12 @@ title: The Look
 date: 2003-01-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Foxy Lady
 newsreporter: Rebecca Fletcher
 newssource: The Look
 newsurl:
-
 ---
 
 Lead roles in ER and CSI have made Jorja Fox one of the most envied actresses in Hollywood.

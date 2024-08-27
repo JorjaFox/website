@@ -4,14 +4,12 @@ date: 2006-02-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "The lowdown on ...  "
 newsreporter: Staff
 newssource: Daily Mail UK
 newsurl: https://www.dailymail.co.uk
-
 ---
 
 JORJA FOX (CSI, Five, 9pm)

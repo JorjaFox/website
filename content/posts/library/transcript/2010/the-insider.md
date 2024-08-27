@@ -5,8 +5,7 @@ layout: transcript
 date: 2010-10-20
 interviewurl: https://www.theinsider.com
 permalink: /transcript/2010/:title/
-categories: ["Interviews"]
-tags: [ "2010" ]
+interviewyear: "2010"
 ---
 
 **Watch Now: Trouble on the 'CSI' Set**

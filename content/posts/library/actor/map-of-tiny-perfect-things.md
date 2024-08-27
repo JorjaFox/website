@@ -2,8 +2,6 @@
 layout: actor
 title: "The Map of Tiny Perfect Things"
 slug: map-of-tiny-perfect-things
-categories: ["Filmography"]
-tags: ["movies"]
 imdb: https://www.imdb.com/title/tt11080108/
 actorimage: /img/actors/map-tpt.jpg
 ---

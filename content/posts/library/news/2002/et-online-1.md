@@ -3,14 +3,12 @@ title: ET Online
 date: 2002-10-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: "CSI's Invasion of the Little People"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://etonline.com
-
 ---
 
 Not since 'The Wizard of Oz' have so many little people gathered together for a production, but this week's "CSI" earns that distinction when the team investigates the death of one of the members attending the International Organization of Little People's convention in Las Vegas.

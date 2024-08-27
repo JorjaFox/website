@@ -2,7 +2,6 @@
 title: Californians for Humane Farms
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Humanity
   - "Animal Rights"

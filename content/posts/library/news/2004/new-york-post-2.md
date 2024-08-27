@@ -3,14 +3,12 @@ title: New York Post
 date: 2004-07-23
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "AXED 'CSIER' IN TALKS"
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://www.nypost.com/
-
 ---
 
 Fox, who plays Sara Sidle, says a "misunderstanding" caused her not to show up for work last week.

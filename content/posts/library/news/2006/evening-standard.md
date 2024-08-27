@@ -4,14 +4,12 @@ date: 2006-07-08
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Partners in Crime?  "
 newsreporter: Staff
 newssource: Evening Standard
 newsurl: https://www.thisislondon.co.uk
-
 ---
 
 **Romance is on the cards for Sara and Grissom after a night of passion**

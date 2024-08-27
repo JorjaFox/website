@@ -3,14 +3,12 @@ title: Defamer
 date: 2004-12-07
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Hollywood Privacy Watch: Super-Sized, Picture Enhanced Edition"
 newsreporter: Mark
 newssource: Defamer
 newsurl: https://defamer.com/hollywood/gossip/hollywood-privacywatch-super+sized-picture+enhanced-edition-27102.php
-
 ---
 
 [...]

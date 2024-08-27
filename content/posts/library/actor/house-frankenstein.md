@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "House of Frankenstein 1997"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "house-frankenstein"
 imdb: https://www.imdb.com/title/tt0127378/?ref_=nm_flmg_act_18
 actorimage: /img/actors/hof-1997.jpg

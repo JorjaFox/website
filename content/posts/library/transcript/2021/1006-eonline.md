@@ -4,8 +4,7 @@ date: 2021-10-06
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.eonline.com/news/1304917/csi-vegas-is-not-your-parents-csi-see-what-the-stars-have-to-say-about-the-sequel-series
-categories: ["Interviews"]
-tags: ["2021"]
+interviewyear: "2021"
 ---
 
 **Alyssa (E!):** Obviously, Jorja, you're the returning vet. How is this iteration of _CSI_ the same as the original, and how has it changed and grown?

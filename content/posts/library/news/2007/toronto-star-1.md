@@ -4,14 +4,12 @@ date: 2007-05-03
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Hot Box: Television to talk about"
 newsreporter: Toronto Star
 newssource: Toronto Star
 newsurl: https://www.thestar.com/
-
 ---
 
 [...]

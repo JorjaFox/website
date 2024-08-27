@@ -3,14 +3,12 @@ title: The Sierra Club
 date: 2003-07-08
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Celebrities give props to the environment
 newsreporter: Staff
 newssource: The Sierra Club
 newsurl: https://www.sierraclub.org/
-
 ---
 
 The scene: the Utah desert, 35 miles from Salt Lake City. Tons of nuclear waste could soon be rumbling toward the Skull Valley Indian Reservation, whose band of Goshutes is already beset by nearby nerve-gas storage and hazardous-waste incinerators. Enter James Cromwell, who played the U.S. president in the nuclear-weapons thriller The Sum of All Fears. In 2002, the actor addressed senators in Utah and traveled to Washington, D.C., to fight a proposed storage facility for 44,000 tons of high-level nuclear waste on Goshute land. "The hazardous materials will be transported on trains and trucks through highly populated areas," he said at a press conference at the Capitol. "The storage land is on an earthquake fault line and subject to flooding. The whole process must be flawless-or there could be dire consequences."

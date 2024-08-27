@@ -2,8 +2,6 @@
 title: "Partners"
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: partners
 imdb: https://www.imdb.com/title/tt0191718/
 ---

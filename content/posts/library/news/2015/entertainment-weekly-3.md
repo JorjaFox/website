@@ -3,14 +3,12 @@ title: Entertainment Weekly
 date: 2015-09-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "5 things we learned at the 'CSI' farewell salute"
 newsreporter: Mary Sollosi
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute
-
 ---
 
 At the last event of this year's PaleyFest Fall TV Previews at the Paley Center for Media, the cast and producers of CSI gathered Tuesday night in Los Angeles for a panel to say farewell to the groundbreaking series, which is ending its run after 15 seasons.

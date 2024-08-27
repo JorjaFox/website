@@ -4,14 +4,12 @@ date: 2011-11-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Bob Barker touts bill to protect traveling circus animals  "
 newsreporter: Stacey Samuel
 newssource: CNN
 newsurl: https://www.cnn.com/2011/11/02/politics/barker-circus-animals-bill/
-
 ---
 
 Bob Barker, the former host of "The Price Is Right," made an impassioned plea Wednesday for an end to what he described as an ugly side of entertainment: the mistreatment of exotic and wild animals in traveling circuses.

@@ -5,14 +5,12 @@ date: 2007-01-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "CSI uncovered"
 newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: https://www.ipcmedia.com/
-
 ---
 
 **Jorja Fox takes time off from playing CSI's forensics investigator Sara Sidle to show us around the set of the hit TV Show**

@@ -3,14 +3,12 @@ title: TV Guide
 date: 2004-11-18
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Days' Diva Gender-Bends on CSI"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 Hey, *CSI* fans! You die-hards may remember **Sarah Buxton** from the "Eleven Angry Jurors" episode that aired last January. She played Lana, a Las Vegas stripper who served *her* jury duty with a heapin' helping of sass on the side. In fact, Ms. Buxton's resum&e reads like a laundry list of shady-lady roles - go-go girls, hookers, home-wreckers and other miscellaneous temptresses - in films, prime-time TV and daytime soaps like *Sunset Beach* and *Days of our Lives*. Tonight she returns to *CSI* (10 pm/ET on CBS) in a part that's very risqu&eacute;, even for her.

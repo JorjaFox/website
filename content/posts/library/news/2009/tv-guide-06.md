@@ -4,14 +4,12 @@ date: 2009-08-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Exclusive! Jorja Fox Speaks on Her 'CSI' Return  "
 newsreporter: Megan Walsh-Boyle
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/news/exclusive-jorja-fox-speaks-on-her-csi-return-1853.html
-
 ---
 
 It's official: Lauren Lee Smith is out on *CSI*, and Jorja Fox is back in! The prodigal star spoke exclusively to TVGuideMagazine.com about her return for at least five episodes.

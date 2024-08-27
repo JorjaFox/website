@@ -3,14 +3,12 @@ title: Hollywood.com
 date: 2004-01-26
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "61st Annual Golden Globe Awards: On the Red Carpet"
 newsreporter: Staff
 newssource: Hollywood.com
 newsurl: https://www.hollywood.com
-
 ---
 
 It was a red carpet explosion of diamonds, designer frocks, cleavage, tuxes and legions of journalists screaming for Nicole, Jennifer, Charlize, Uma and J-Lo, among others, and Hollywood.com caught a smattering of chatter as the biggest stars of the last year descended on the Golden Globes.

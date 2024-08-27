@@ -4,14 +4,12 @@ date: 2011-07-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Report: Series Regulars Return For Season 12 Of 'CSI'  "
 newsreporter: Shane S Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2011/07/report-series-regulars-return-for-season-12-of-csi/
-
 ---
 
 **Laurence Fishburne** (Dr Ray Langston) will not be returning for season twelve of *CSI: Crime Scene Investigation*, but the rest of the show’s cast is readying to return. Details on who is returning and how after the jump!

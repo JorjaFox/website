@@ -4,14 +4,12 @@ date: 2008-02-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "CSI: Crime Scene Investigation  "
 newsreporter: Staff
 newssource: The Mirror
 newsurl: https://www.mirror.co.uk/showbiz/tv/todaystv/2008/02/19/csi-crime-scene-investigation-89520-20324532/
-
 ---
 
 If ever a TV couple shared some great chemistry it's Sara Sidle and Gil Grissom.

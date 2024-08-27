@@ -3,14 +3,12 @@ title: People
 date: 2002-10-03
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: "Inside TV's Top Drama"
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.aol.com/people/magazine/
-
 
 ---
 

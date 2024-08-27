@@ -4,14 +4,12 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Sara says good-bye to 'CSI'  "
 newsreporter: Jessica Banov
 newssource: The Fayetteville Observer
 newsurl: https://www.fayobserver.com/article?id=277791
-
 ---
 [...]
 

@@ -3,14 +3,12 @@ title: Entertainment Weekly
 date: 2015-09-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI series finale react: Into the sunset"
 newsreporter: Darren Franich
 newssource: E! Online
 newsurl: https://www.ew.com/article/2015/09/25/csi-series-finale-immortality-recap
-
 ---
 
 [...]

@@ -4,14 +4,12 @@ date: 2011-09-21
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Interview: Jorja Fox  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2011/09/interview-jorja-fox/
-
 ---
 
 **Jorja Fox** is excited about the new season of *CSI: Crime Scene Investigation*, premiering tonight on its new night and time. The Sara Sidle actress has nothing but high energy and enthusiasm just hours before the season premiere, and could not be more thrilled about the show's twelfth season. CSI Files' **Shane Saunders** caught up with Fox to talk about her presence on the show this season, working with new cast members, a fellow co-star's pending departure, and much more in this exclusive interview.

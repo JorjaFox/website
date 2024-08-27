@@ -4,14 +4,12 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Jorja Fox bids farewell to 'CSI' in thrilling episode  "
 newsreporter: Hal Boedeker
 newssource: Orlando Sentinel
 newsurl: https://www.orlandosentinel.com/entertainment/orl-csi1507nov15,0,1039405.story
-
 ---
 Beloved characters deserve fitting farewells, and Sara Sidle (Jorja Fox) receives one tonight from CSI.
 

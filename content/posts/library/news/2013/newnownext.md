@@ -4,14 +4,12 @@ date: 2013-06-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Charlie Weber on \"Warehouse 13\", \"Buffy\" and Riding Naked on an Elephant"
 newsreporter: Ed Kennedy
 newssource: Logo - NewNowNext
 newsurl: https://www.newnownext.com/charlie-weber-photos-interview/06/2013/
-
 ---
 
 [...]

@@ -4,13 +4,11 @@ date: 2001-02-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Review
 newsreporter: Staff
 newssource: Plugged In
 newsurl: https://www.family.org/
-
 ---
 The increasing presence of motion picture producers and directors in television is turning prime time into an unwatchable mess of PG-13 and even R-style mini-movies. Prominent names such as Joel Silver (The Matrix, Lethal Weapon) and Kevin Williamson (Scream) have already brought their big-screen values to small-screen series. Now add Jerry Bruckheimer (Coyote Ugly, The Rock) to the list. He serves as executive producer for CBS' grim CSI: Crime Scene Investigation, the highest-rated new drama of the season and the only new show nominated for a Golden Globe "Best Series" Award. He also serves up some of television's rawest images.
 

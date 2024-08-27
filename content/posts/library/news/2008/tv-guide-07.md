@@ -3,15 +3,13 @@ title: TVGuide.com - Ask Matt
 date: 2008-10-24
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2008"]
-categories: ["Articles", "News"]
+newsyear: "2008"
 permalink: /news/2008/:title/
 
 newstitle: "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Faith and More!  "
 newsreporter: Matt Roush
 newssource: TV Guide.com - Ask Matt
 newsurl: https://www.tvguide.com/Roush/Ask-Matt-ER-34627.aspx
-
 ---
 
 [...]

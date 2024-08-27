@@ -3,8 +3,7 @@ title: "ET Online"
 date: 2021-09-09
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
-categories: ["Articles", "News"]
+newsyear: "2021"
 newstitle: "'CSI: Vegas': William Petersen and Jorja Fox on Why They 'Jumped' at Chance to Return"
 newsreporter: "Phillipa Ng"
 newssource: "ET"

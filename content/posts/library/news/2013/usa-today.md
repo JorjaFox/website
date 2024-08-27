@@ -4,14 +4,12 @@ date: 2013-12-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Cause Celeb: Jorja Fox investigates lion rescue  "
 newsreporter: Gayle Jo Carter
 newssource: USA Today
 newsurl: https://www.usatoday.com/story/life/weekend/entertainment/2013/12/13/cause-celeb-jorja-fox-investigates-lion-rescue/4003625/
-
 ---
 
 "CSI" actress Jorja Fox has made rescuing lions one of her life's missions.

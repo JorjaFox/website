@@ -3,7 +3,6 @@ title: I Have a Dream Foundation
 date: 2004-01-18
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Human Rights"
 website: https://www.ihad.org/

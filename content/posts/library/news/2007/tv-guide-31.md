@@ -4,14 +4,12 @@ date: 2007-09-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Ausiello Report"
 newsreporter: Michael Ausiello
 newssource: TVGuide
 newsurl: https://www.tvguide.com/
-
 ---
 
 "CSI" Fans: What Are You Doing After the Premiere!?

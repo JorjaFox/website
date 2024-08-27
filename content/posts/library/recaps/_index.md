@@ -3,7 +3,6 @@ title: Recaps
 author: "Mika A. Epstein"
 layout: library
 permalink: /recaps/
-categories: ["Recaps"]
 tags: [Index]
 type: index
 notoc: true

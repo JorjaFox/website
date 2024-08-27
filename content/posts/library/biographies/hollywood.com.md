@@ -3,8 +3,6 @@ title: Hollywood.com
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/hollywood-com/
-categories: ["Biographies"]
-tags: ["Internet"]
 date: "2000-08-20"
 sourceurl: "https://www.hollywood.com/"
 ---

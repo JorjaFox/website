@@ -4,14 +4,12 @@ date: 2008-05-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Girl Interrupted  "
 newsreporter: Bryan Cairns
 newssource: The Official CSI Magazine
 newsurl: https://www.titanmagazines.com/app?service=external/Product&sp=l1075
-
 ---
 
 In her eight years working the Las Vegas graveyard shift, **Sara Sidle** faced more than her fair share of heartache, which eventually resulted in her leaving Sin City for good. Actress **Jorja Fox** recalls her time on *CSI: Crime Scene Investigation*, and reveals why it was the right moment for her to leave the show.

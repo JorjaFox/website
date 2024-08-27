@@ -4,14 +4,12 @@ date: 2011-11-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Suit against IMDb shedding light on how birth dates can kill careers  "
 newsreporter: Bob Strauss
 newssource: Daily News
 newsurl: https://www.dailynews.com/news/ci_19325714
-
 ---
 
 It's a joke almost as old as show business itself. The aging actor - or, the more common stereotype, actress - who insists they can play characters decades younger than they are.

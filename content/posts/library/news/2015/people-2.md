@@ -3,14 +3,12 @@ title: People
 date: 2015-09-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI Insiders Look Back Before Finale, Remember a 'Lippy' Young Justin Bieber and How Taylor Swift Made Them Realize They'd 'Made It'"
 newsreporter: Scott Huver
 newssource: People
 newsurl: https://www.people.com/article/csi-series-finale-cast-members-talk-justin-bieber-taylor-swift
-
 ---
 
 [...]

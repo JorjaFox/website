@@ -4,14 +4,12 @@ date: 2007-11-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "What's on tonight: Thursday, Nov. 15"
 newsreporter: Mary-Ann McBride
 newssource: Albuquerque Tribune
 newsurl: https://www.abqtrib.com/news/2007/nov/15/whats-tonight-thursday-nov-15/
-
 ---
 
 For months, we've all known it was coming - the departure of a beloved **"CSI: Crime Scene Investigation"** (8 p.m., KRQE News 13) character.

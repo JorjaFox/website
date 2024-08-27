@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "3 Weeks to Daytona"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "3-weeks-to-daytona"
 imdb: https://www.imdb.com/title/tt1857605/
 actorimage: /img/actors/3-weeks-daytona.jpg

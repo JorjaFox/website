@@ -5,8 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.youtube.com/watch?v=hbqPoQIltgs
 permalink: /transcript/2021/:title/
-categories: ["Interviews"]
-tags: ["2021"]
+interviewyear: "2021"
 ---
 
 **Morgan Hoffman:** First of all, what's it been like you two working on set together? Because just listening to you, in the few seconds, you guys seem like you're best friends.

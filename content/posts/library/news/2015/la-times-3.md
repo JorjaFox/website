@@ -3,14 +3,12 @@ title: LA Times (Review)
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI: Crime Scene Investigation' recap: Grissom and the gang say goodbye"
 newsreporter: Libby Hill
 newssource: LA Times
 newsurl: https://www.latimes.com/entertainment/tv/showtracker/la-et-st-csi-finale-recap-20150928-story.html
-
 ---
 
 In the end, 'CSI: Crime Scene Investigation' died as it lived: fun, flabby, and altogether too invested in the undying love of two deeply sexless characters.

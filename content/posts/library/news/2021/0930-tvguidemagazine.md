@@ -3,8 +3,7 @@ title: "TV Guide Magazine"
 date: 2021-08-30
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
-categories: ["Articles", "News"]
+newsyear: "2021"
 newstitle: "Fall Preview 2021"
 newsreporter: "Jim Halterman"
 newssource: "TV Guide Magazine"

@@ -3,14 +3,12 @@ title: TV Guide
 date: 2003-05-03
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: CSI Gets Personal
 newsreporter: Michael Logan
 newssource: TV Guide
 newsurl: https://tvguide.com/
-
 ---
 
 **TV's No. 1 show finally investigates the team's private lives.**

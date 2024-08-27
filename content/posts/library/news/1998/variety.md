@@ -3,8 +3,7 @@ title: Variety
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1998/:title/
-tags: ["1998"]
-categories: ["Articles", "News"]
+newsyear: "1998"
 newstitle: Review
 date: 1998-02-02
 newsreporter: Staff

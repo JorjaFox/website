@@ -4,14 +4,12 @@ date: 2005-01-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Prime-Time's Crime-Fighting Beauties  "
 newsreporter: Staff
 newssource: US Weekly
 newsurl: https://www.usweekly.com
-
 ---
 *CSI*'s Jorja Fox
 

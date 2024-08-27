@@ -4,13 +4,11 @@ date: 2001-06-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
-categories: ["Articles", "News"]
-tags: ["2001"]
+newsyear: "2001"
 newstitle: Who's Q&A
 newsreporter: Staff
 newssource: USA Today
 newsurl: https://www.usatoday.com/
-
 ---
 
 Issue Date: June 17, 2001

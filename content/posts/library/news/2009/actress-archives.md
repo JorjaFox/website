@@ -4,14 +4,12 @@ date: 2009-08-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Jorja Fox Returning To Rescue 'CSI'  "
 newsreporter: Actress Archives
 newssource: Actress Archives
 newsurl: https://www.actressarchives.com/news.php?id=17528
-
 ---
 
 Following an almost year-long hiatus from the show - which has since suffered from declining ratings - Entertainment Weekly reports Jorja Fox will be returning to "CSI" later this year to reprise her role as Sara Sidle. According to the crime-drama's executive producer, Carol Mendelsohn, Jorja will "reappear" in a September 24th episode where viewers will "discover where life has taken Sara Sidle and what brings her back to the CSI team in Las Vegas."

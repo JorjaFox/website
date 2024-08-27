@@ -4,14 +4,12 @@ date: 2009-08-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Ex-'CSI' star drops in on 'Drop Dead Diva' "
 newsreporter: Rick Bently
 newssource: Fresno Bee
 newsurl: https://www.fresnobee.com/entertainment/tv-radio/story/1599029.html
-
 ---
 
 **Jorja Fox also returns to the crime drama for season opener.**

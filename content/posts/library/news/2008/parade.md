@@ -4,14 +4,12 @@ date: 2008-07-06
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Personality Parade  "
 newsreporter: Walter Scott
 newssource: Parade
 newsurl: https://www.parade.com/articles/editions/2008/edition_07-06-2008/Personality_Parade
-
 ---
 
 [...]

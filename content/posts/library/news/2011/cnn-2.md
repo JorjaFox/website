@@ -4,14 +4,12 @@ date: 2011-02-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Lions rescued in Bolivia have new home on plains of Colorado  "
 newsreporter: CNN Wire Staff
 newssource: CNN
 newsurl: https://www.cnn.com/
-
 ---
 
 **(CNN) -** Two dozen lions rescued from harrowing conditions at circuses in Bolivia have a new home in Colorado, where they will live outside of cages and roar at the distant Rocky Mountains.

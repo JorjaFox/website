@@ -2,7 +2,6 @@
 title: PETA
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Animal Rights"
 website: https://www.peta.org/

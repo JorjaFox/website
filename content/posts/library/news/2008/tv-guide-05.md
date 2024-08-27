@@ -4,14 +4,12 @@ date: 2008-06-23
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Jorja's Coming Back to 'CSI'"
 newsreporter: Franck Ragaine
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com/Magazine/
-
 ---
 
 **1 EXCLUSIVE INTERVIEW!**

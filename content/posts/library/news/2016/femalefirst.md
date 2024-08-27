@@ -3,13 +3,11 @@ title: "FemaleFirst"
 date: 2016-07-07
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2016"]
-categories: ["Articles", "News"]
+newsyear: "2016"
 newstitle: "'My empathy and compassion for the human condition came first, and then it expanded'"
 newsreporter: "Lucy Moore"
 newssource: "FemaleFirst"
 newsurl: https://www.femalefirst.co.uk/vegan/jorja-fox-vegan-peta-958255.html
-
 ---
 
 Jorja Fox of CSI fame celebrates her birthday today, so we take a look at how she spends her time off screen promoting plant based living.

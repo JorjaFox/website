@@ -4,14 +4,12 @@ date: 2007-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Jorja Fox leaving 'CSI' by end of '07"
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com
-
 ---
 
 **Jorja Fox Leaving 'CSI""

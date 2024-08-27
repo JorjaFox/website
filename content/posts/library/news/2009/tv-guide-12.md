@@ -4,14 +4,12 @@ date: 2009-09-22
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: 'Mega Buzz: Scoop on "CSI", "SVU", "Grey&apos;s", "90210" and More!'
 newsreporter: "Mickey O'Connor and Adam Bryant"
 newssource: TV Guide
 newsurl: https://www.tvguide.com/News/MegaBuzz-CSI-SVU-Greys-1010090.aspx
-
 ---
 
 [...]

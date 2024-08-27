@@ -5,8 +5,7 @@ layout: transcript
 date: 2008-01-31
 interviewurl: https://ktla.trb.com/
 permalink: /transcript/2008/:title/
-categories: ["Interviews"]
-tags: [ "2008" ]
+interviewyear: "2008"
 ---
 
 **Interviewer:** All right, we're gonna talk all about this play and everything Jorja related, but you, you made sort of a conscious decision - you know, you've been on this very successful show, and then, you left. What, what, what -- was that a real soul search, or was it "gee, it's time"?

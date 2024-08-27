@@ -3,14 +3,12 @@ title: Viva Magazine
 date: 2014-04-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
-categories: ["Articles", "News"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "Lady Luck"
 newsreporter: Bonnie Siegler | Photography Elisabeth Caren
 newssource: Viva Magazine
 newsurl: https://www.vivamagonline.com/
-
 ---
 
 FOR THE LAST 14 YEARS, WE'VE BEEN WATCHING **JORJA FOX** ON OUR TELEVISION SETS. HERE'S A LOOK AT HOW THE ACTOR SPENDS HER TIME OFF SCREEN, AND WHY SHE CONSIDERS HERSELF ONE LUCKY LADY.

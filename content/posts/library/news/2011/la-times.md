@@ -4,14 +4,12 @@ date: 2011-07-22
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Jorja Fox returning to 'CSI: Crime Scene Investigation' as series regular  "
 newsreporter: Nardine Saad
 newssource: LA Times
 newsurl: https://latimesblogs.latimes.com/showtracker/2011/07/jorja-fox-returning-to-csi-crime-scene-investigation-sarah-sidle-.html
-
 ---
 
 Jorja Fox is returning to "CSI: Crime Scene Investigation" as a series regular in the fall.

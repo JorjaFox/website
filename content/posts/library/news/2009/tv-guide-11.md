@@ -3,15 +3,13 @@ title: TVGuide.com
 date: 2009-07-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
-categories: ["Articles", "News"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "Breaking: Jorja Fox Returns to 'CSI'"
 newsreporter: Matt Mitovich
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx
-
 ---
 
  Jorja Fox is returning to "CSI" as Sara Sidle.

@@ -3,14 +3,12 @@ title: TV Gal
 date: 2003-03-07
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: TV Gal Flaunts Her Final Four
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://tv.zap2it.com
-
 ---
 [...]
 

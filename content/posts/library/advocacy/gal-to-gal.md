@@ -2,7 +2,6 @@
 title: Gal to Gal Virtual Walk
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Health
 website: https://galtogalwalk.org

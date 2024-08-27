@@ -4,14 +4,12 @@ date: 2006-01-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "CSI: Crime Scene Investigation - The Complete Fifth Season  "
 newsreporter: Staff
 newssource: DVD Times
 newsurl: https://www.dvdtimes.co.uk
-
 ---
 
 [...]

@@ -4,14 +4,12 @@ date: 2011-06-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Galapagos, a destination of stars  "
 newsreporter: Guayaquil
 newssource: El Comercio
 newsurl: https://www.elcomercio.com/entretenimiento/Galapagos-destino-estrellas_0_502149843.html
-
 ---
 
 From the plane, the first thing that attracts people to the Galapagos is the feeling that you've come to a haunted island. Or you're lost in the sea. It is a description not so far from reality. Those pieces of land have their charm.

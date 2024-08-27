@@ -5,8 +5,7 @@ layout: transcript
 date: 2007-11-01
 interviewurl: https://www.rtl.de/
 permalink: /transcript/2007/:title/
-categories: ["Interviews"]
-tags: [ "2007" ]
+interviewyear: "2007"
 ---
 
 ## "Why Sara decided to leave"

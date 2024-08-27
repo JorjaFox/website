@@ -3,14 +3,12 @@ title: Zap2It
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI' finale says goodbye with morgues, murder and mystery and a happy ending?"
 newsreporter: Larry Carroll
 newssource: Zap2It
 newsurl: https://zap2it.com/2015/09/csi-finale-says-goodbye-with-morgues-murder-and-mystery/
-
 ---
 
 After 15 years, 335 episodes and countless grisly death scenes, 'CSI' said goodbye with a TV movie entitled 'Immortality.' It was a chance to bid adieu to old friends, wrap up some loose ends, and watch a television institution ride off into the sunset.

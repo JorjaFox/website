@@ -4,14 +4,12 @@ date: 2010-05-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Jorja Fox Helps Rescue Circus Lions From Bolivia  "
 newsreporter: Staff
 newssource: Look to the Stars
 newsurl: https://www.looktothestars.org/news/4484-jorja-fox-helps-rescue-circus-lions-from-bolivia
-
 ---
 
 **Four lions, rescued by Animal Defenders International (ADI) from a Bolivian circus when the country banned the use of animals in circuses landed yesterday at San Francisco airport, before heading on to a life of luxury at the ARK 2000 sanctuary in Calaveras County.**

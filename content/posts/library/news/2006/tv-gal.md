@@ -4,14 +4,12 @@ date: 2006-06-07
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "TV Gal Has Hopes for Fall  "
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://www.zap2it.com/
-
 ---
 
 [...]

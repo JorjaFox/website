@@ -4,14 +4,12 @@ date: 2006-08-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Hollywood Privacy Watch: Gene Simmons Drains The Python Before Midnight 'Snakes' Screening  "
 newsreporter: Seth
 newssource: Defamer
 newsurl: https://defamer.com/hollywood/sightings/hollywood-privacywatch-gene-simmons-drains-the-python-before-midnight-snakes-screening-195292.php
-
 ---
 
 [...]

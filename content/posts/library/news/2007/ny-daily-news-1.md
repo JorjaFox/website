@@ -4,14 +4,12 @@ date: 2007-09-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' makes strong case to be 'Scene'"
 newsreporter: NY Daily News
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/
-
 ---
 
 The eighth season of "CSI: Crime Scene Investigation" traverses a tense path that long-time fans of the show will find familiar: a race-against-time CSI team effort to find one of their own, left to die in the desert by a vengeful killer.

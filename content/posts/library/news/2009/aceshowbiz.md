@@ -4,14 +4,12 @@ date: 2009-08-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
 newsreporter: Staff
 newssource: AceShowBiz
 newsurl: https://www.aceshowbiz.com/news/view/00026009.html
-
 ---
 
 "CSI: Crime Scene Investigation' season 10 will see a lot of Sara Sidle but none of Riley Adams."

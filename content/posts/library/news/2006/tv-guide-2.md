@@ -4,14 +4,12 @@ date: 2006-03-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "ASK AUSIELLO  "
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://tvguide.com
-
 ---
 
 **Question:** OK, we've been waiting for six years. Is something going to happen between Grissom and Sara on CSI before the end of this season? - Cindy

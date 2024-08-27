@@ -4,14 +4,12 @@ date: 2013-10-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Freestyle: CSI star jumps in at HIFF  "
 newsreporter: Elizabeth Kieszkowski
 newssource: Honolulu Pulse
 newsurl: https://www.honolulupulse.com/2013/10/freestyle-jorja-fox-hiff/
-
 ---
 
 The 33rd Hawaii International Film Festival started off with a buzz of energy on Thursday, Oct. 10.

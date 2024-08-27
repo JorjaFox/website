@@ -4,14 +4,12 @@ date: 2006-05-11
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "ASK AUSIELLO  "
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 As promised, here's my interview with CSI's veggie-lovin' babe Jorja Fox. Spoilerphobes, read at your own risk!

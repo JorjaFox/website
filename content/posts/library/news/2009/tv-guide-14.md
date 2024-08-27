@@ -4,14 +4,12 @@ date: 2009-08-21
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: 'Mega Buzz on "SVU", "Criminal Minds", "CSI", "Numbers" and More'
 newsreporter: "Matt Mitovich, Mickey O'Connor & Tim Molloy"
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/MegaBuzz-SVU-Criminal-1008330.aspx
-
 ---
 
 

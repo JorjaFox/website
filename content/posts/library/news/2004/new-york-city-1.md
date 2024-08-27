@@ -3,14 +3,12 @@ title: New York City
 date: 2004-07-18
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Las Vegas 'CSI' makes news on Press Tour"
 newsreporter: Staff
 newssource: New York City
 newsurl: https://www.nynewsday.com
-
 ---
 
 A new, New York-focused "CSI" is due on CBS this fall, but the "CSI" making headlines last week is the original, Las Vegas version.

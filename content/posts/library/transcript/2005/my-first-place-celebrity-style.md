@@ -5,8 +5,7 @@ layout: transcript
 date: 2005-01-01
 interviewurl: https://www.hgtv.com
 permalink: /transcript/2005/:title/
-categories: ["Interviews"]
-tags: [ "2005" ]
+interviewyear: "2005"
 ---
 
 HGTV, in a interesting move, released excerpts from it's new show "'My First Place: Celebrity Style"' online.

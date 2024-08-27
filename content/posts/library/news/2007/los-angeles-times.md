@@ -4,14 +4,12 @@ date: 2007-03-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "MY FAVORITE WEEKEND: JORJA FOX"
 newsreporter: Staff
 newssource: Los Angeles Times
 newsurl: https://www.calendarlive.com/
-
 ---
 
 ## This 'CSI' snoop knows how to locate L.A.'s vegetarian options

@@ -4,14 +4,12 @@ date: 2010-04-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Live chat with Anthony Zuiker  "
 newsreporter: Michael Schneider
 newssource: Variety
 newsurl: https://www.variety.com/article/VR1118018864.html
-
 ---
 
 **Chat with the exec producer of the 'CSI' franchise**

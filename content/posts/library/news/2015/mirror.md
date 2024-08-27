@@ -3,14 +3,12 @@ title: Mirror
 date: 2015-09-15
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: Watch CSI Immortality teaser as the team comes back together for one last case
 newsreporter: Alistair McGeorge
 newssource: Mirror
 newsurl: https://www.mirror.co.uk/tv/tv-news/watch-csi-immortality-teaser-team-6447877
-
 ---
 
 After 15 years on the air, it's time to say goodbye - but it's all hands on deck for the final mystery.

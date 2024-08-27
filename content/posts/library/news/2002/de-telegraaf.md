@@ -3,14 +3,12 @@ title: De Telegraaf
 date: 2002-06-21
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories:
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: TV Weekeinde
 newsreporter: Staff
 newssource: De Telegraaf
 newsurl: https://www.telegraaf.nl
-
 ---
 
 [CSI] has an outstanding cast with William Petersen, Jorja Fox and Eric Szmanda.

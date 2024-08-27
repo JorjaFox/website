@@ -4,14 +4,12 @@ date: 2007-11-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Jorja Fox departs from CSI  "
 newsreporter: Jennifer Hong
 newssource: Half-Life Source
 newsurl: https://www.halflifesource.com/news/2007/11/14/article10091.htm
-
 ---
 **The TV hit series CSI will lose Jorja Fox as one of their starring actors.**
 

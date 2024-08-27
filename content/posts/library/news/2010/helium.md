@@ -4,14 +4,12 @@ date: 2010-08-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Top 10 TV couples  "
 newsreporter: Heather Bellingham
 newssource: Helium
 newsurl: https://www.helium.com/items/1920801-top-10-tv-couples
-
 ---
 
 Some TV couples just have a certain spark. It makes them intriguing to watch as an audience, and their will-they-or-won't-they plotlines and ups and downs create fan bases. Here is a list of the top ten TV couples.

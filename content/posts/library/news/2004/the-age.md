@@ -3,14 +3,12 @@ title: The Age
 date: 2004-12-23
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Beauty and crime?"
 newsreporter: Staff
 newssource: The Age
 newsurl: https://www.theage.com.au
-
 ---
 
 **Here are 10 good reasons why the babe factor plays a big part in solving crimes, writes David Campbell.**

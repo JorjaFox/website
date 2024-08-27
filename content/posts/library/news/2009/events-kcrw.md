@@ -3,15 +3,13 @@ title: Music News & Events on KCRW
 date: 2009-09-25
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2009"]
-categories: ["Articles", "News"]
+newsyear: "2009"
 permalink: /news/2009/:title/
 
 newstitle: "Jorja Fox is our Guest DJ  "
 newsreporter: RR
 newssource: Music News & Events on KCRW
 newsurl: https://kcrwmusicnews.vox.com/library/post/jorja-fox-is-our-guest-dj.html
-
 ---
 
 

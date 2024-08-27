@@ -4,14 +4,12 @@ date: 2007-05-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Interview: Jorja Fox"
 newsreporter: Kathleen Germann
 newssource: Journal of The American Academy of Dramatic Arts
 newsurl: https://www.aada.org/pdf/alumni/americada_2007_01.pdf
-
 ---
 
 We recently invited Jorja Fox and Eric Szmanda of the hit television series *CSI: Crime Scene Investigation *to share their professional and Academy experiences with us.

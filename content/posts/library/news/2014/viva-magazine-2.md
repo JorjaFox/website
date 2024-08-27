@@ -3,18 +3,15 @@ title: Viva Magazine
 date: 2014-04-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
-categories: ["Articles", "News"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "HOW DO YOU DEFINE BALANCED LIVING?"
 newsreporter: Viva Magazine
 newssource: Viva Magazine
 newsurl: https://www.vivamagonline.com/
-
 ---
 
 HOW DO YOU DEFINE BALANCED LIVING?
-
 ---
 
 JORJA FOX

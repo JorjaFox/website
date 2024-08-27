@@ -3,14 +3,12 @@ title: TV Gal
 date: 2002-01-21
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: TV Gal Dishes Up the Globes
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://tv.zap2it.com/
-
 ---
 
 Okay people, clearly I'm going to have to fly to LA and apply for a job at the E! channel.

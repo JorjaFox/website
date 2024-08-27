@@ -3,14 +3,12 @@ title: Where Magazine
 date: 2014-11-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2014"]
-categories: ["Articles", "News"]
+newsyear: "2014"
 permalink: /news/2014/:title/
 newstitle: "Celebrity Interview: Jorja Fox"
 newsreporter: Jessica Radloff
 newssource: Where Magazine
 newsurl: https://wherela.com/blog/2014/10/26/celebrity-interview-jorja-fox/
-
 ---
 
 "'Catch up with the *CSI: Crime Scene Investigation* star, find out her favorite places in Los Angeles and more."'

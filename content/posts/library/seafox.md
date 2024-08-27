@@ -3,8 +3,6 @@ title: "Seafox Productions"
 author: "Mika A. Epstein"
 permalink: /seafox/
 layout: library
-categories: ["Filmography"]
-tags: ["producer", "company"]
 notoc: true
 ---
 

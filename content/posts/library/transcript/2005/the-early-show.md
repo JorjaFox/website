@@ -5,8 +5,7 @@ layout: transcript
 date: 2005-11-04
 interviewurl: https://www.cbsnews.com/earlyshow/
 permalink: /transcript/2005/:title/
-categories: ["Interviews"]
-tags: [ "2005" ]
+interviewyear: "2005"
 ---
 
 **Julie Chen:** If you can't get enough of TV's hottest drama, CSI:, then you're in luck. Every Friday, we're going to take you behind the scenes to show you how they make it happen. In last night's episode, called "Secrets and Flies", star Jorja Fox came face to face with an actor's big challenge: working with a baby. Or did she?

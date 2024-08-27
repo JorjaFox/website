@@ -4,14 +4,12 @@ date: 2007-10-09
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "CSI's Fox Goes Bye Bye, Fans Go Crazy"
 newsreporter: Dose.CA
 newssource: Dose.CA
 newsurl: https://www.dose.ca/tv/story.html?id=45e7584f-beae-4c38-aa9d-236b880d4386&k=24610
-
 ---
 
 A ratings juggernaut like "CSI" hardly needs the help of a rabid fan campaign. But after news that "CSI" star Jorja Fox would be quitting the show, Internet crazies started rallying together to keep her fighting TV crime.

@@ -4,14 +4,12 @@ date: 2008-08-27
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Local superdelegate reports from Democratic convention  "
 newsreporter: Jason Rae
 newssource: Leader-Telegram
 newsurl: https://www.leadertelegram.com/story-news_local.asp?id=BHJQ5EUUEQV
-
 ---
 
 [...]

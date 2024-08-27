@@ -4,14 +4,12 @@ date: 2007-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI's Jorja Fox Is Leaving the Show"
 newsreporter: "E! Online"
 newssource: Watch With Kristen
 newsurl: https://www.eonline.com
-
 ---
 
 She's outta there.

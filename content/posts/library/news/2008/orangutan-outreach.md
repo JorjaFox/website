@@ -4,14 +4,12 @@ date: 2008-05-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Spring 2008 Newsletter"
 newsreporter: Staff
 newssource: Orangutan Outreach
 newsurl: https://campaign-archive.com/?u=5623ceeb639273a4885aa9d45&id=1wdtoJcvBM&e=
-
 ---
 
 [...]

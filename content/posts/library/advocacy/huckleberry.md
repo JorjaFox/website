@@ -2,7 +2,6 @@
 title: Huckleberry Foundation
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - "Human Rights"
 website: https://www.huckleberrygroup.org/huckleberry-foundation-home.html

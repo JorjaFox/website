@@ -4,14 +4,12 @@ date: 2006-09-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Las Vegas Confidential  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 
 **You wanted answers about Grissom and Sara's relationship. We got 'em!**

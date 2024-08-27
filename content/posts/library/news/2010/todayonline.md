@@ -4,14 +4,12 @@ date: 2010-02-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Forgetting Sara Sidle  "
 newsreporter: Genevieve Loh
 newssource: TODAYonline
 newsurl: https://www.todayonline.com/Plus/Television/EDC100226-0000056/Forgetting-Sara-Sidle
-
 ---
 
 **The fans didn't, and neither could Jorja Fox, who's reprising the role in CSI**

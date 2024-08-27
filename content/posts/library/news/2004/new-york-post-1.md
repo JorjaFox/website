@@ -3,14 +3,12 @@ title: New York Post
 date: 2004-07-17
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "'BYE GEORGE & JORJA"
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://www.nypost.com/
-
 ---
 
 CBS has axed "CSI" stars George Eads and Jorja Fox for demanding more money to stay on the show.

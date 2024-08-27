@@ -4,14 +4,12 @@ date: 2010-07-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Keck's Exclusives: CBS Press Tour Party Scoops  "
 newsreporter: William Keck
 newssource: TV Guide.com
 newsurl: https://www.tvguide.com/News/Kecks-Exclusives-CBS-1021153.aspx
-
 ---
 
 [...]

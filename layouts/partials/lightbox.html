@@ -38,7 +38,10 @@
     {{ $caption = printf "%s (%s) - %s from the episode '%s'" $station $year $showname $eptitle }}
 {{ end }}
 
-<h2><a name="gallery">Gallery</a></h2>
+<h2 id="gallery" class="heading">
+    Gallery
+    <a href="#gallery" aria-labelledby="gallery">{{- partial "assets/icon.html" (dict "icon" "fas link anchor") }}</a>
+</h2>
 
 {{ if ne $caption false }}
     <!-- NOTICE! THE FOLLOWING IMAGES ARE COPYRIGHT {{ $caption }}. FANS OF LEFOX MAKES NO CLAIM TO ANY OWNERSHIP. THEY ARE REPRODUCED HERE FOR INFORMATIONAL PURPOSES ONLY. -->

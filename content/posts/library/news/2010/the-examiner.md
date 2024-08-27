@@ -4,14 +4,12 @@ date: 2010-07-18
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "Cousteau briefs Hollywood on Gulf oil spill  "
 newsreporter: Nikki Schwab
 newssource: The Examiner
 newsurl: https://www.washingtonexaminer.com/politics/blogs/yeas-and-nays/Exports_-Cousteau-briefs-Hollywood-on-Gulf-oil-spill-1001508-98714499.html
-
 ---
 
 Washington's resident water lover, Philippe Cousteau (yes, he's the grandson of that famous Cousteau) was exported to Hollywood on Thursday to teach actress Alyssa Milano and musician Jason Mraz a thing or two about the Gulf oil spill.

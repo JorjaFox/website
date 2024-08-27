@@ -5,8 +5,7 @@ layout: transcript
 date: 2002-01-20
 interviewurl: https://www.eonline.com/
 permalink: /transcript/2002/:title/
-categories: ["Interviews"]
-tags: ["2002"]
+interviewyear: "2002"
 ---
 
 **Melissa Rivers** Thank you. I am here with the cast of CSI. Your show has taken off, like, y'know. A train, just steaming right out of the station.

@@ -4,14 +4,12 @@ date: 2011-07-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "The actress is committed to the environment."
 newsreporter: Unknown
 newssource: Cosas Madres
 newsurl: https://static.jorjafox.net/wp-content/uploads/2011/10/58-62jorjafox.pdf
-
 ---
 
 Famous for her performance on the show "CSI" and the renowned series "The West Wing", actress Jorja Fox visited Ecuador. She toured Quito and the Galapagos Islands, participating in the filming of an animal rescue program and a special for the promotion of tourism in Ecuador.

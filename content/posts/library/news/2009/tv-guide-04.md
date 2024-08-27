@@ -4,14 +4,12 @@ date: 2009-09-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "'CSI' Stars Share Their Experience  "
 newsreporter: Steve Friess
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/news/csi-stars-share-their-experience-2346.html
-
 ---
 
 [...]

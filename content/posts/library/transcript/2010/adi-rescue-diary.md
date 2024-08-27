@@ -5,8 +5,7 @@ layout: transcript
 date: 2010-05-27
 interviewurl: https://adirescuediary.com/2010/05/27/update-from-jorja-fox/
 permalink: /transcript/2010/:title/
-categories: ["Interviews"]
-tags: [ "2010" ]
+interviewyear: "2010"
 ---
 
 Well! I'm here in San Francisco, working with the Animal Defenders International San Francisco team, and we've been on pins and needles waiting to get the go-ahead from Jan in Bolivia. I've just gotten off the phone with her, and it looks like all systems are a go. Mel, the vet, has checked the crates and has checked the lions - everyone's doing well. I think that we're going to start boarding in a few hours. The San Francisco team has been ready for several days. There's been a tremendous amount of patience, and of course there've been some last minute challenges. But.

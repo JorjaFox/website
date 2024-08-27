@@ -4,14 +4,12 @@ date: 2007-09-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Should 'CSI's' Sara Sidle live or die?"
 newsreporter: MSNBC
 newssource: MSNBC
 newsurl: https://www.msnbc.msn.com/id/20958227/
-
 ---
 
 **The pros and cons on how last season's cliffhanger might end**

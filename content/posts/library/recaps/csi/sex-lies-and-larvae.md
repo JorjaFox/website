@@ -3,8 +3,6 @@ title: "Sex, Lies and Larvae"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -65,4 +63,4 @@ This prompts Grissom to re-investigate the bugs, and Sara keeps Grissom company 
 
 - - -
 
-**Sara:** I checked out Warrick. His story about missing court was, uh &#8230; lame. I got this surveillance tape from the Monaco. He was in the casino. '(hands the tape to Grissom)' I'm sorry.
+**Sara:** I checked out Warrick. His story about missing court was, uh ... lame. I got this surveillance tape from the Monaco. He was in the casino. '(hands the tape to Grissom)' I'm sorry.

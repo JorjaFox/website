@@ -3,14 +3,12 @@ title: E! Online
 date: 2015-09-28
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "CSI Says Goodbye With a Totally Insane But Perfectly Fitting Series Finale & We Are Weirdly Emotional Over It"
 newsreporter: Lauren Piester
 newssource: E! Online
 newsurl: https://www.eonline.com/news/700490/csi-says-goodbye-with-a-totally-insane-but-perfectly-fitting-series-finale-we-are-weirdly-emotional-over-it
-
 ---
 
 Full disclosure: I haven't watched "CSI" in years, but that didn't mean tonight wasn't a total emotional roller coaster for me.

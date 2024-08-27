@@ -3,14 +3,12 @@ title: KESQ News
 date: 2004-07-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "CSI producer expresses sadness after two actors fired"
 newsreporter: Staff
 newssource: KESQ News
 newsurl: https://www.kesq.com
-
 ---
 
 The executive producer of "CSI: Crime Scene Investigation" says he's "very saddened and deeply disappointed" over the firing of two stars on the show.

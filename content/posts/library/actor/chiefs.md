@@ -2,8 +2,6 @@
 title: "Chiefs"
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: chiefs
 imdb: https://www.imdb.com/title/tt7731700/
 actorimage: /img/actors/chiefs.jpg

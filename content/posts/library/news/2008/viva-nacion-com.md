@@ -4,14 +4,12 @@ date: 2008-04-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Jorja Fox Vists"
 newsreporter: Staff
 newssource: VIVA nacion
 newsurl: https://www.nacion.com/viva/2008/abril/17/viva1500216.html
-
 ---
 
 _Translated from Spanish_

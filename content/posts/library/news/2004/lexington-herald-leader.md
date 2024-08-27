@@ -3,14 +3,12 @@ title: Lexington Herald-Leader
 date: 2004-07-24
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Prime Time Crime News"
 newsreporter: Staff
 newssource: Lexington Herald-Leader
 newsurl: https://www.kentucky.com
-
 ---
 
 _The Sopranos_ won't air again until 2006, and George Eads and Jorja Fox, who were fired from the top-rated _CSI: Crime Scene Investigation_ for skipping work, will return to their hit show.

@@ -5,8 +5,7 @@ interviewurl: https://www.etonline.com
 date: 2006-04-27
 layout: transcript
 permalink: /transcript/2006/:title/
-categories: ["Interviews"]
-tags: [ "2006" ]
+interviewyear: "2006"
 ---
 
 Go behind the scenes of the "CSI" wedding murder!

@@ -5,8 +5,7 @@ layout: transcript
 date: 2013-04-02
 interviewurl: https://cbs.com/shows/thetalk
 permalink: /transcript/2013/:title/
-categories: ["Interviews"]
-tags: [ "2013" ]
+interviewyear: "2013"
 ---
 
 [...]

@@ -3,14 +3,12 @@ title: Inquirer.net
 date: 2015-09-27
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "William Petersen dishes on 'CSI' finale and new show"
 newsreporter: Ruben V. Nepales
 newssource: Inquirer.net
 newsurl: https://entertainment.inquirer.net/179642/william-petersen-dishes-on-csi-finale-and-new-show
-
 ---
 
 How will the 'CSI' special two-hour series finale address the romance between William Petersen's Gil Grissom and Jorja Fox's Sara Sidle?

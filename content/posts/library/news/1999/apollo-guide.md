@@ -4,13 +4,11 @@ date: 1999-01-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
-categories: ["Articles", "News"]
+newsyear: "1999"
 newstitle: Velocity Trap Movie Review
 newsreporter: Dave Robinson
 newssource: Apollo Guide
 newsurl: https://apolloguide.com/mov_fullrev.asp?CID=1986
-
 ---
 You are two hours from collision with an asteroid, and pirates have disabled your spaceship, seeking the forty billion dollars in cash that's stuffed in your hold. This is Velocity Trap. It's pretty standard mid-range action science fiction fare that benefits a lot from recent improvements in special effects technology.
 

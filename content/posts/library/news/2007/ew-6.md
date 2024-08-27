@@ -4,14 +4,12 @@ date: 2007-10-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Jorja Fox makes it official: She's leaving 'CSI'"
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com
-
 ---
 
 "CSI"'s Jorja Fox -- the 39-year-old actress whose tenure on TV's No. 1 drama almost ended in 2004 when she was temporarily fired during tense contract negotiations -- has quit the show. She wrapped production on the drama last week. Fox told EW.com exclusively that her decision to give up the role of Sara Sidle had nothing to do with money and everything to with wanting a break from the commitment of a weekly television series.

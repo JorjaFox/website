@@ -4,14 +4,12 @@ date: 2008-03-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Billy Masters  "
 newsreporter: Billy Masters
 newssource: Pride Source
 newsurl: https://www.pridesource.com/article.shtml?article=29643
-
 ---
 
 [...]

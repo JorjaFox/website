@@ -3,14 +3,12 @@ title: Florida Today
 date: 2004-07-16
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "CSI star, who grew up in Brevard, fired from show, report says"
 newsreporter: Staff
 newssource: Florida Today
 newsurl: https://www.floridatoday.com/
-
 ---
 
 Two stars of the CBS hit television series "CSI: Crime Scene Investigation" - one who grew up in Brevard County - were fired for breach of contract, KCBS-TV and Variety reported.

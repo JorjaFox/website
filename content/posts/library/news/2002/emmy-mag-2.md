@@ -3,14 +3,12 @@ title: Emmy Magazine
 date: 2002-06-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: "Hole That Fiber!"
 newsreporter: Staff
 newssource: Emmy Magazine
 newsurl: https://emmy.com
-
 ---
 
 **CSI  the series that makes forensic science look sexy  wraps a very successful second season. Bring on the spinoff and the next victim ...**

@@ -3,14 +3,12 @@ title: Entertainment Weekly
 date: 2015-09-14
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 permalink: /news/2015/:title/
 newstitle: "'CSI' finale: The cast looks back on 15 seasons"
 newsreporter: Lynette Rice
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/article/2015/09/14/csi-finale-william-petersen-original-cast-looks-back
-
 ---
 
 The original cast members reflect on the highs and lows of starring in the CBS drama

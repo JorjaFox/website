@@ -4,13 +4,11 @@ date: 1999-11-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
-categories: ["Articles", "News"]
+newsyear: "1999"
 newstitle: The Hungry Bachelors Club
 newsreporter: Staff
 newssource: Variety
 newsurl: https://www.variety.com
-
 ---
 A Mama's Boys Prods. release of a Taggart Transcontinental and Managed Passion Films presentation of a Mama's Boys production. Produced by Dan Gifford, Amy Sommer Gifford. Executive producer, Kimberly Becker. Co-producer, Robert Lynn New.
 

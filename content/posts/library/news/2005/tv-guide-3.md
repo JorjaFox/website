@@ -4,14 +4,12 @@ date: 2005-09-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "CSI: Back on the Scene"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 What a difference a year (not to mention a coffin, a crazed killer and hundreds of fire ants) has made for *CSI*.
 

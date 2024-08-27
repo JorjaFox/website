@@ -3,14 +3,12 @@ title: IndyStar
 date: 2004-07-24
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "Fired 'CSI' stars will return to show after all"
 newsreporter: Staff
 newssource: IndyStar
 newsurl: https://www.indystar.com/
-
 ---
 
 Actors **George Eads** and **Jorja Fox** will both be back on the job next week at "CSI: Crime Scene Investigation."

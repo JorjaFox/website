@@ -5,8 +5,7 @@ layout: transcript
 date: 2010-06-11
 interviewurl: https://edition.cnn.hu/TRANSCRIPTS/1006/11/ijvm.01.html
 permalink: /transcript/2010/:title/
-categories: ["Interviews"]
-tags: [ "2010" ]
+interviewyear: "2010"
 ---
 
 JANE VELEZ-MITCHELL: In tonight's "Spotlight", a fabulous mercy mission for four rescued circus lions. These magnificent animals were freed from their pitiful, abusive existence in a Bolivian circus last month. Bolivia recently did what every country should do - banned the use of animals in circuses. These majestic animals will live out their lives at the amazing Paws Sanctuary in northern California.

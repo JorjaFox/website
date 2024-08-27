@@ -3,7 +3,6 @@ title: "Legacy"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-categories: ["Recaps"]
 tags: ["CSI Vegas"]
 showslug: csi-vegas
 ---

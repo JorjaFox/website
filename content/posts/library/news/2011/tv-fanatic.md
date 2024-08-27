@@ -4,14 +4,12 @@ date: 2011-01-31
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "William Petersen to Make Cameo on CSI  "
 newsreporter: TV Fanatic Staff
 newssource: TV Fanatic
 newsurl: https://www.tvfanatic.com/2011/01/william-petersen-to-make-cameo-on-csi/
-
 ---
 
 It's been confirmed: William Petersen will make a cameo as Gil Grissom on *CSI* this season. The only question remaining: might this take place as early as Thursday?

@@ -4,14 +4,12 @@ date: 2006-07-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "CSI heads toward a romantic Grey area  "
 newsreporter: Staff
 newssource: Sun Sentinel
 newsurl: https://www.sun-sentinel.com/features/columnists/sfl-tvtjla-csi0jul20,0,3684284.column?coll=sfla-features-col
-
 ---
 
 [...]

@@ -4,14 +4,12 @@ date: 2011-02-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Bob Barker, Jorja Fox and a Pride of Celebrities Pledge Their Support to ADI's Record Breaking Lion Rescue, Urging People to Give to the Appeal  "
 newsreporter: Staff
 newssource: BusinessWire
 newsurl: https://www.businesswire.com/news/home/20110201007057/en/Bob-Barker-Jorja-Fox-Pride-Celebrities-Pledge
-
 ---
 
 **"I am so impressed with ADI that I am going to make another investment in their mind-boggling work, and I invite you, in fact, I urge you to 'man-up' and join me, too."- Bob Barker, former host of the Price Is Right and ADI supporter**

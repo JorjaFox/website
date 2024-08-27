@@ -4,14 +4,12 @@ date: 2006-08-03
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "'CSI' adds love story as competition nears  "
 newsreporter: Staff
 newssource: Journal Gazette
 newsurl: https://www.fortwayne.com/
-
 ---
 
 **Romance blossomed at end of CBS show's sixth season**

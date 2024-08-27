@@ -4,14 +4,12 @@ date: 2007-09-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' star Jorja Fox is off the case"
 newsreporter: NY Daily News
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/
-
 ---
 
 Jorja Fox's "CSI" character, Sara Sidle, survived a harrowing run-in with a killer in Thursday's season premiere, but now it seems Fox is a goner.

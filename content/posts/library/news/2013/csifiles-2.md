@@ -4,14 +4,12 @@ date: 2013-04-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Interview: Michael FX Daley  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2013/04/interview-michael-fx-daley-2/
-
 ---
 
 [...]

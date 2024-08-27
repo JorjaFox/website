@@ -4,14 +4,12 @@ date: 2013-09-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "CSI: Catherine and Sara INTERROGATED  "
 newsreporter: Craig Tomashoff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/
-
 ---
 
  "'Marg Helgenberger and Jorja Fox answer burning questions about Sara's return and the crime show's killer new season"'

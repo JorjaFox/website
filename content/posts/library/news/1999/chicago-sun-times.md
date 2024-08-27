@@ -4,8 +4,7 @@ date: 1999-11-12
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
-tags: ["1999"]
-categories: ["Articles", "News"]
+newsyear: "1999"
 newstitle: Hungry Bachelors" kills appetite
 newsreporter: Jae-Ha Kim
 newssource: Chicago Sun-Times

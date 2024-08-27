@@ -3,14 +3,12 @@ title: E! Online
 date: 2004-07-21
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "'CSI' Kills Back to Life?"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com
-
 ---
 
 Are CSI's casualties about to return from the dead?

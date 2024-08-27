@@ -4,14 +4,12 @@ date: 2011-07-05
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Jorja Fox fans raise $600 for rescued lions"
 newsreporter: Staff
 newssource: ADI International
 newsurl: https://www.ad-international.org/take_action/go.php?id=2187&si=95
-
 ---
 
 Actress Jorja Fox, of the popular TV show CSI, undertook the work of compassion when she joined ADI in support of our landmark "Operation Lion Ark," to airlift 25 ex-circus lions from Bolivia to a new home in the US.

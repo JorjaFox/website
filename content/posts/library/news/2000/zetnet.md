@@ -3,9 +3,8 @@ title: Zetnet
 date: 2000-09-11
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: "Shadows on the Wall: MEMENTO"
 newsreporter: Staff
 newssource: Zetnet

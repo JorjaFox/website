@@ -4,14 +4,12 @@ date: 2007-05-04
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Short takes"
 newsreporter: Staff
 newssource: kansascity.com
 newsurl: https://www.kansascity.com/211/story/93175.html
-
 ---
 
 [...]

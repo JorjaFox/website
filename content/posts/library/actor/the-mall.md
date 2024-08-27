@@ -2,8 +2,6 @@
 title: "ABC Afterschool Specials"
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: the-mall
 imdb: https://www.imdb.com/title/tt0202179/
 actorimage: /img/actors/the-mall.jpg

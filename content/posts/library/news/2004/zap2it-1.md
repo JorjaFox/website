@@ -3,14 +3,12 @@ title: Zap2it
 date: 2004-07-23
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "'CSI' Rehires Fox; Eads Waits to Hear"
 newsreporter: Staff
 newssource: Maxim
 newsurl: https://tv.zap2it.com/
-
 ---
 
 LOS ANGELES (Zap2it.com) "CSI" will resume production next week with, at most, one fewer regular than in past seasons.

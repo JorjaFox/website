@@ -4,14 +4,12 @@ date: 2008-03-30
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "They've Got Q  "
 newsreporter: Glenn Garvin
 newssource: Miami Herald
 newsurl: https://www.miamiherald.com/tropical_life/story/474335.html
-
 ---
 
 The catholic tastes of TV audiences shouldn't have come as a blinding epiphany to anyone, says Robert Thompson, who runs the Center for the Study of Popular Television at Syracuse University.

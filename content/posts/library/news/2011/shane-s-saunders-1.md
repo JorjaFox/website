@@ -3,15 +3,13 @@ title: Shane S Saunders
 date: 2011-03-10
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2011"]
-categories: ["Articles", "News"]
+newsyear: "2011"
 permalink: /news/2011/:title/
 
 newstitle: "Interview: Christopher Barbour"
 newsreporter: Shane S Saunders
 newssource: Shane S. Saunders
 newsurl: https://shanessaunders.com/2011/03/10/interview-csi-writer-christopher-barbour/
-
 ---
 
 

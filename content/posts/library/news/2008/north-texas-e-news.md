@@ -4,14 +4,12 @@ date: 2008-07-14
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "North Texas E-news  "
 newsreporter: Animal Defenders International media release
 newssource: North Texas E-news
 newsurl: https://www.ntxe-news.com/artman/publish/article_47389.shtml
-
 ---
 
 This past week at Austin City Hall, councilor Lee Leffingwell met with CSI actress Jorja Fox at a press conference held by Animal Defenders International (ADI) and confirmed he would certainly look in to the issue of circus animal cruelty in Austin.

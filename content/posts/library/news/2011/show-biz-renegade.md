@@ -4,14 +4,12 @@ date: 2011-07-22
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Jorja Fox: Grissom's Ladylove is Back  "
 newsreporter: Jen Vishta
 newssource: Show Biz Renegade
 newsurl: https://www.showbizrenegade.com/2011/07/22/jorja-fox-grissom%E2%80%99s-ladylove-is-back/7124
-
 ---
 
 When she was abducted and buried alive, Grissom's head spun. If he needed to kill someone to find her, he would have. When she left for good Grissom felt like his whole world fell apart -- no he felt like dying was a better punishment for his inability to set aside his career for his relationship with her.

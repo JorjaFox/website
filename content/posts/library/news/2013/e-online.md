@@ -4,14 +4,12 @@ date: 2013-02-20
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "TV Watercooler: CSI's Shocking Split, Colton Haynes' Arrow Debut and More!  "
 newsreporter: Tierney Bricker
 newssource: E!Online
 newsurl: https://www.eonline.com/news/390253/tv-watercooler-csi-s-shocking-split-colton-haynes-arrow-debut-and-more
-
 ---
 
 [...]

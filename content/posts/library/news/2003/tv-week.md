@@ -3,14 +3,12 @@ title: TV Week
 date: 2003-03-29
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Applied Science
 newsreporter: Staff
 newssource: TV Week
 newsurl: https://tvweek.com
-
 ---
 
 [...]

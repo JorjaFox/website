@@ -4,14 +4,12 @@ date: 2007-04-25
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Is Jorja Fox Leaving CSI?!"
 newsreporter: Staff
 newssource: Associated Content
 newsurl: https://www.associatedcontent.com/
-
 ---
 
 Rumors are swirling that CSI is set to kill off Sara Sidle. "TV Guide" is reporting that the Jorja Fox's contract is up next month and that she may not renew.

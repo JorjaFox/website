@@ -4,14 +4,12 @@ date: 2007-10-16
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Actress Jorja Fox to leave top-rated TV series CSI  "
 newsreporter: CBC News
 newssource: CBC
 newsurl: https://www.cbc.ca
-
 ---
 
 Confirming rumours that have been circulating since last season's cliffhanger finale, original cast member Jorja Fox has announced she is leaving TV's No. 1 show, "CSI: Crime Scene Investigation."

@@ -4,14 +4,12 @@ date: 2011-11-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Bob Barker, Jorja Fox fight for animal rights  "
 newsreporter: Katy Adams And Nikki Schwab
 newssource: Washington Examiner
 newsurl: https://washingtonexaminer.com/blogs/yeas-nays/2011/11/bob-barker-jorja-fox-fight-animal-rights
-
 ---
 
 Former longtime "The Price Is Right" host Bob Barker joined "CSI" actress Jorja Fox and Rep. Jim Moran, D-Va., to introduce the "Traveling Exotic Animal Protection Act," which will prohibit exotic animals from being able to travel with circuses.

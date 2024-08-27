@@ -4,14 +4,12 @@ date: 2005-10-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Ask Ausiello"
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://www.tvguide.com
-
 ---
 [...]
 

@@ -2,7 +2,6 @@
 title: "If You Could Pick Your Own Parents"
 layout: recaps
 permalink: /recaps/missing-persons/:title/
-categories: ["Recaps"]
 tags: ["Missing Persons"]
 station: ABC
 showname: "Missing Persons"

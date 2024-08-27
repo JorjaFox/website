@@ -4,14 +4,12 @@ date: 2013-02-19
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "'CSI': What is sad Sara waiting for? - EXCLUSIVE VIDEO  "
 newsreporter: Lynette Rice
 newssource: EW.com
 newsurl: https://insidetv.ew.com/2013/02/19/csi-jorja-fox-william-petersen/
-
 ---
 
 Why so sad, Sara?

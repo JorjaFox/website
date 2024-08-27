@@ -4,14 +4,12 @@ date: 2005-12-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Fox at Bay"
 newsreporter: Staff
 newssource: TV Zone
 newsurl: https://www.visimag.com
-
 ---
 As CSI's Sara Sidle, she has her hands full of blood, bugs and rotting parts - but Fox's passion for acting gives her the stomach to cope, as she explains to Jenny.
 

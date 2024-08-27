@@ -4,14 +4,12 @@ date: 2013-02-26
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Jorja Fox Exclusive CSI Interview  "
 newsreporter: Cameron Smith
 newssource: Female First
 newsurl: https://www.femalefirst.co.uk/tv/jorja-fox-csi-interview-281784.html
-
 ---
 
 CSI returns to UK TV tonight, with the American goliath that&rsquo;s spawned not only the rise of the pathology TV show, but also thousands of careers in forensics back to defend its crown on Channel 5.

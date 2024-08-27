@@ -4,14 +4,12 @@ date: 2007-05-22
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: What's happening now
 newsreporter: Movie City News
 newssource: Movie City News
 newsurl: https://www.moviecitynews.com
-
 ---
 
 THE 2007 JACKSON HOLE FILM FESTIVAL

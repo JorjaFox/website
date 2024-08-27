@@ -2,7 +2,6 @@
 title: Animal Defenders International
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Environmentalism
   - "Animal Rights"

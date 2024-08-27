@@ -2,7 +2,6 @@
 title: Earth Shoes
 author: "Mika A. Epstein"
 layout: advocacy
-categories: ["Advocacy"]
 tags:
   - Environmentalism
 website: https://www.earth.us

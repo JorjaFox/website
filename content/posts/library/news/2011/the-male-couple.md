@@ -3,15 +3,13 @@ title: The Male Couple
 date: 2011-07-01
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2011"]
-categories: ["Articles", "News"]
+newsyear: "2011"
 permalink: /news/2011/:title/
 
 newstitle: "Never Be Ashamed of Who You Are"
 newsreporter: Antonio C.
 newssource: The Male Couple
 newsurl: https://themalecouple.blogspot.com/2011/07/matthew-jaeger-never-be-ashamed-of-who.html
-
 ---
  [...]
 

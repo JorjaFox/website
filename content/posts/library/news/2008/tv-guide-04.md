@@ -4,14 +4,12 @@ date: 2008-06-01
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
-categories: [News, Articles]
-tags: ["2008"]
+newsyear: "2008"
 
 newstitle: "Oh No They Didn't!"
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com/Magazine/
-
 ---
 
 **Inside sources reveal top secrets about the season's biggest burning questions**

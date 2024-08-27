@@ -5,8 +5,7 @@ layout: transcript
 date: 2010-05-28
 interviewurl: https://adirescuediary.com/2010/05/29/rescue-diary-the-lions-arrive-and-go-free/
 permalink: /transcript/2010/:title/
-categories: ["Interviews"]
-tags: [ "2010" ]
+interviewyear: "2010"
 ---
 
 **Jorja Fox:** Oh my gosh! Look! Look! We've heard from Jan and, I guess, close to landing the cats woke up. They started to brush themselves off, and they already checked them when they arrived at the gate. They're doing great, so we may get a look at them tonight.

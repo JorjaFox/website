@@ -4,14 +4,12 @@ date: 2013-06-02
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
-categories: [News, Articles]
-tags: ["2013"]
+newsyear: "2013"
 
 newstitle: "Series 13 - 15. Forget Me Not"
 newsreporter: David Butcher
 newssource: Radio Times
 newsurl: https://www.radiotimes.com/episode/wxkzw/csi-crime-scene-investigation-series-13-15-forget-me-not
-
 ---
 title: Radio Times Its not unheard of in the annals of crime drama for a member of a tight-knit law-enforcement team suddenly to find the tables turned. One of our heroes is a murder suspect themselves. How will they prove their innocence?
 

@@ -4,14 +4,12 @@ date: 2005-02-03
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
-categories: [News, Articles]
-tags: ["2005"]
+newsyear: "2005"
 
 newstitle: "Mark Uncovers Secrets from the CSI Set"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://et.tv.yahoo.com
-
 ---
 [...]
 

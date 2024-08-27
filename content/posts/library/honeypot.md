@@ -3,8 +3,6 @@ title: "Honeypot Productions"
 author: "Mika A. Epstein"
 permalink: /honeypot/
 layout: library
-categories: ["Filmography"]
-tags: ["producer", "company"]
 notoc: true
 ---
 

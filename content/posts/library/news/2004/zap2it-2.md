@@ -3,14 +3,12 @@ title: Zap2it
 date: 2004-07-24
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2004"]
-categories: ["Articles", "News"]
+newsyear: "2004"
 permalink: /news/2004/:title/
 newstitle: "'CSI': The Gang's All Here"
 newsreporter: Staff
 newssource: Zap2it.com
 newsurl: https://Zap2it.com
-
 ---
 
 LOS ANGELES (Zap2it.com) It looks like we can finally close the book on the past week of "As 'CSI' Turns."

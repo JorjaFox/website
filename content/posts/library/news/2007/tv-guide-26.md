@@ -4,14 +4,12 @@ date: 2007-05-24
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' Stars Spend a Night at the Museum"
 newsreporter: TV Guide
 newssource: TV Guide
 newsurl: https://community.tvguide.com/
-
 ---
 
 [...]

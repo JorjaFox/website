@@ -5,8 +5,7 @@ layout: transcript
 date: 2003-08-18
 interviewurl: https://vh1.com/
 permalink: /transcript/2003/:title/
-categories: ["Interviews"]
-tags: [ "2003" ]
+interviewyear: "2003"
 ---
 
 "I Love the 70s" is a television mini-series shown on VH1, and was created after the success of "I Love the '80s".

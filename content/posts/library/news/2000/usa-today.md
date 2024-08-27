@@ -3,14 +3,12 @@ title: USA Today
 date: 2000-12-22
 transcriber: "Mika A. Epstein"
 layout: news
-categories: ["Articles", "News"]
 permalink: /news/2000/:title/
-tags: ["2000"]
+newsyear: "2000"
 newstitle: "'CSI' succeeds with gritty realism."
 newsreporter: Staff
 newssource: USA Today
 newsurl: https://www.usatoday.com
-
 ---
 12/21/00- Updated 07:16 PM ET
 

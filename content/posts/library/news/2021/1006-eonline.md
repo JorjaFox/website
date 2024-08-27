@@ -3,8 +3,7 @@ title: "E!"
 date: 2021-10-06
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
-categories: ["Articles", "News"]
+newsyear: "2021"
 newstitle: "CSI: Vegas Is Not Your Parents' CSI: See What the Stars Have to Say About the Sequel Series"
 newsreporter: "Alyssa Ray"
 newssource: "E!"

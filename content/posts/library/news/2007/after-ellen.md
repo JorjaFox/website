@@ -4,14 +4,12 @@ date: 2007-08-30
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "'CSI' Stars Talk About Their Characters"
 newsreporter: Staff
 newssource: After Ellen
 newsurl: https://www.afterellen.com/blog/seige/jessica-lucas-added-to-csi
-
 ---
 
 [...]

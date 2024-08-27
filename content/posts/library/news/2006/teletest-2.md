@@ -4,14 +4,12 @@ date: 2006-05-31
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "Interview  "
 newsreporter: Staff
 newssource: Teletext
 newsurl:
-
 ---
 
 In CSI she's the ice cool utterly dedicated slightly grungy Sara Sidle but in real life Jorja Fox, 37, is far warmer with a passion for Blighty and in particular London. Revealing her anglophile leanings, she tells TV plus "I love London, it's great I'm loving the walking thing and the street energy of London the diversity and most of the people are really educated, cool and hip.

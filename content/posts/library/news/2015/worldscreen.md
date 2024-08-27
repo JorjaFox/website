@@ -3,13 +3,11 @@ title: "World SCREEN"
 date: 2015-12-30
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2015"]
-categories: ["Articles", "News"]
+newsyear: "2015"
 newstitle: "CSI Goodbye! 'CSI: Final Press' New Year's Eve together with you for 15 years to finally crack the case!"
 newsreporter: "世界電影雜誌 World SCREEN"
 newssource: "World SCREEN"
 newsurl: https://www.worldscreen.com.tw/goods.php?goods_id=9998
-
 ---
 
 [Translated from Chinese (Traditional) by Google]

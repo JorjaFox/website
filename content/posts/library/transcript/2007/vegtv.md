@@ -5,8 +5,7 @@ layout: transcript
 date: 2007-08-25
 interviewurl: https://www.vegtv.com
 permalink: /transcript/2007/:title/
-categories: ["Interviews"]
-tags: [ "2007" ]
+interviewyear: "2007"
 ---
 
 **Announcer:** VegTV on the road with Marie Oser.

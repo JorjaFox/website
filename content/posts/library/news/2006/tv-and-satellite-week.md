@@ -4,14 +4,12 @@ date: 2006-01-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
-categories: [News, Articles]
-tags: ["2006"]
+newsyear: "2006"
 
 newstitle: "CSI From A to Z  "
 newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: https://www.tvandsatelliteweek.com/
-
 ---
 
 [...]

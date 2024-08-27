@@ -5,8 +5,7 @@ layout: transcript
 date: 2013-02-20
 interviewurl: https://cbs.com/
 permalink: /transcript/2013/:title/
-categories: ["Interviews"]
-tags: [ "2013" ]
+interviewyear: "2013"
 ---
 
 [The following is saved quotes]

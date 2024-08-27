@@ -4,14 +4,12 @@ date: 2007-10-15
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Jorja Fox To Leave 'CSI'  "
 newsreporter: Staff
 newssource: Florida Today
 newsurl: https://www.etonline.com/news/2007/10/54845/index.html
-
 ---
 "The actress will hang up her badge in November."
 

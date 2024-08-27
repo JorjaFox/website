@@ -4,14 +4,12 @@ date: 2010-12-13
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
-categories: [News, Articles]
-tags: ["2010"]
+newsyear: "2010"
 
 newstitle: "The Grissoms Get Centerstage on 'CSI'  "
 newsreporter: Orrymain
 newssource: DTVUSAForum.co
 newsurl: https://www.dtvusaforum.com/content/469-grissoms-get-centerstage-csi.html
-
 ---
 
 The February 3rd episode of "CSI: Crime Scene Investigation" will have a pair of Grissoms facing off, but unfortunately, neither of them will be Gil Grissom, the role vacated a couple of years ago by William Petersen. Rather, it will be Grissom's wife Sara (Jorja Fox) and his mother, who isn't Fox had left the hit crime series the year before Petersen, but she returned for his final scene on the show, the couple closing things out with a big kiss. Last season, Fox returned to the show for a handful of appearances. Her character sported a wedding ring and was occasionally referred to by her married name of Grissom.

@@ -4,14 +4,12 @@ date: 2007-09-17
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Secret's of TV's Fall Favorites"
 newsreporter: Staff
 newssource: Us Weekly
 newsurl: https://www.usmagazine.com
-
 ---
 
 [...]

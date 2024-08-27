@@ -2,8 +2,6 @@
 title: "In Hell With Love"
 author: "Mika A. Epstein"
 layout: library
-categories: ["Filmography"]
-tags: [producer, stage, honeypot, writer]
 genre: Stage Play
 year: 1990s
 excerpt:

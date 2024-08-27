@@ -3,14 +3,12 @@ title: Extra TV
 date: 2002-09-07
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: Review
 newsreporter: Staff
 newssource: Extra TV
 newsurl: https://extratv.warnerbros.com/
-
 ---
 
 Those crafty crime scene investigators of "CSI" are back on the case for another season of murder and mayhem, shifting into high gear for the third season of CBS? runaway hit. And only "Extra" was on location in Las Vegas with the ratings grabbing gumshoes as they shot an upcoming episode with a crime ripped from the headlines.

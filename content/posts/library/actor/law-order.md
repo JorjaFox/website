@@ -2,8 +2,6 @@
 title: "Law & Order"
 author: "Mika A. Epstein"
 layout: actor
-categories: ["Filmography"]
-tags: ["Television"]
 slug: law-order
 imdb: https://www.imdb.com/title/tt0629412/
 actorimage: /img/actors/law-and-order-securitate.jpg

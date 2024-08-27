@@ -1,8 +1,6 @@
 ---
 title: "CSI: Vegas"
 description: Sara Sidle (and her husband Grissom) return to Las Vegas to help old friends.
-categories: ["Filmography", "CSI Vegas"]
-tags: ["Television"]
 layout: actor
 slug: csi-vegas
 imdb: https://www.imdb.com/title/tt12887536/

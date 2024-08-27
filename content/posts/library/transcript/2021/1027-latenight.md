@@ -4,8 +4,7 @@ date: 2021-10-27
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.youtube.com/watch?v=V7_T2xNc_4s
-categories: ["Interviews"]
-tags: ["2021"]
+interviewyear: "2021"
 ---
 
 **Stephen:** Hey, everybody, welcome back! Folks, my next guest is an Actress you know from "ER," "The West Wing," and "CSI: Crime Scene Investigation." She now stars in "CSI: Vegas."

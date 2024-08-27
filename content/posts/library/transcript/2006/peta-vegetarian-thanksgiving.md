@@ -5,9 +5,7 @@ transcriber: David Masters
 layout: transcript
 interviewurl: https://www.peta.com
 permalink: /transcript/2006/:title/
-categories: ["Interviews"]
-tags: [Transcript, "2006", humanity, "Animal Rights"]
-
+interviewyear: "2006"
 ---
 
 **Jorja Fox** One of the most amazing things about today, not only is the food gonna be way better than it ever is at my place "(laughs)", and, and, and, far more beautifully prepared, uh, I don't have to cook or do any dishes I don't think - maybe I do, but nobody's told me yet so that'd be really fun. "(laughs)"

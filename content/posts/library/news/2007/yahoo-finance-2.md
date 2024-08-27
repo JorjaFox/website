@@ -4,14 +4,12 @@ date: 2007-02-08
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "The Animal Power of the 21st Genesis Awards!"
 newsreporter: "Yahoo! Finance"
 newssource: "Yahoo! Finance"
 newsurl: https://biz.yahoo.com/
-
 ---
 
 ""Charlotte's Web,' 'Happy Feet,' 'Fast Food Nation,' and 'Open Season' are Among the Nominees at The Humane Society of The United States' Annual Celebration of Animal-Friendly Media**

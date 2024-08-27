@@ -5,8 +5,7 @@ transcriber: David Masters
 layout: transcript
 interviewurl: https://www.cbs.com
 permalink: /transcript/2005/:title/
-categories: ["Interviews"]
-tags: [ "2005" ]
+interviewyear: "2005"
 ---
 
 **Jorja Fox** All bets are off, and on at the same time. Anything can happen to anybody, there's lines that have been drawn, and uh, it does make it really fascinating.

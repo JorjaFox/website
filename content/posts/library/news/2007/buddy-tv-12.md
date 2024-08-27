@@ -4,14 +4,12 @@ date: 2007-12-03
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
-categories: [News, Articles]
-tags: ["2007"]
+newsyear: "2007"
 
 newstitle: "Fans Continue to Show Support for Former 'CSI' Actress  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com
-
 ---
 
 Though Sara Sidle has already left "CSI", fans of the forensic drama are still determined to convey their support to her portrayer, Jorja Fox.

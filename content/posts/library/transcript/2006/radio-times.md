@@ -5,8 +5,7 @@ layout: transcript
 interviewurl: https://www.radiotimes.com
 date: 2006-06-06
 permalink: /transcript/2006/:title/
-categories: ["Interviews"]
-tags: [ "2006" ]
+interviewyear: "2006"
 ---
 
 **One Final Question - Jorja Fox**

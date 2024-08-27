@@ -3,8 +3,6 @@ title: "CBS (CSI: Vegas)"
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/cbs-csi-vegas/
-categories: ["Biographies"]
-tags: ["Internet"]
 date: "2021-08-20"
 sourceurl: "https://www.cbs.com/shows/csi-vegas/"
 ---

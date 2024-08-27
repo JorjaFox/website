@@ -3,14 +3,12 @@ title: Channel 5
 date: 2002-03-19
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2002"]
-categories: ["Articles", "News"]
+newsyear: "2002"
 permalink: /news/2002/:title/
 newstitle: CSI star Jorja Fox
 newsreporter: Staff
 newssource: Channel 5, UK
 newsurl: https://www.channel5.co.uk/
-
 ---
 
 Jorja Fox appears to have the golden touch, having starred in three of the biggest US TV hits of the last decade! She played Dr Maggie Doyle in ER, guest-starred as Special Agent Maggie Toscano in The West Wing, and now plays ambitious forensic investigator Sara Sidle in CSI: Crime Scene Investigation, which begins its second series on 5 this week. Jorja's taste in film roles is just as inspired, having played Guy Pearce's wife in critically acclaimed psychological thriller Memento. She also runs her own production company. Somehow, she found time to speak to 5 about her seemingly charmed career.

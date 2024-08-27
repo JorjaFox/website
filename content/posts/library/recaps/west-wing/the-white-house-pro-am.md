@@ -3,7 +3,6 @@ title: The White House Pro-Am
 author: Mika A. Epstein
 permalink: /recaps/west-wing/:title/
 layout: recaps
-categories: ["Recaps"]
 tags: ["The West Wing"]
 station: NBC
 showname: "The West Wing"

@@ -5,8 +5,7 @@ layout: transcript
 date: 2001-01-01
 interviewurl: https://mediaorigin.paleycenter.org/
 permalink: /transcript/2001/:title/
-categories: ["Interviews"]
-tags: [ "2001" ]
+interviewyear: "2001"
 ---
 
 Actor/executive producer William Petersen (Gil Grissom) and executive producer Carol Mendelsohn point out the reasons they brought Jorja Fox (Sara Sidle) onto the show.

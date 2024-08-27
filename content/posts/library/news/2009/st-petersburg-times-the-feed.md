@@ -4,14 +4,12 @@ date: 2009-08-21
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Does Jorja Fox rejoining CSI equal a lack of confidence in Laurence Fishburne?  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times - The Feed
 newsurl: https://blogs.tampabay.com/media/2009/07/does-jorja-fox-rejoining-csi-equal-a-lack-of-confidence-in-laurence-fishburne.html
-
 ---
 
 

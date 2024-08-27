@@ -4,14 +4,12 @@ date: 2009-08-29
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
-categories: [News, Articles]
-tags: ["2009"]
+newsyear: "2009"
 
 newstitle: "Billy Masters  "
 newsreporter: Billy Masters
 newssource: Windy City Times
 newsurl: https://www.windycitymediagroup.com/gay/lesbian/news/ARTICLE.php?AID=21948
-
 ---
 
 [...]

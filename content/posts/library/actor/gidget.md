@@ -1,8 +1,6 @@
 ---
 layout: actor
 title: "Accidental Icon: The Real Gidget Story"
-categories: ["Filmography"]
-tags: ["movies"]
 slug: "gidget"
 genre: "Documentary"
 imdb: https://www.imdb.com/title/tt1602011/

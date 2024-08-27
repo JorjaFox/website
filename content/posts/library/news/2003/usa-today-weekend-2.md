@@ -3,14 +3,12 @@ title: USA Today Weekend
 date: 2003-07-04
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Ready, set, action!
 newsreporter: Brian Truitt
 newssource: USA Weekend
 newsurl: https://www.usaweekend.com/03_issues/030706/030706movies.html
-
 ---
 
 **With all the comic book-inspired movies out lately, we asked super celebrities which hero they'd most like to play.**

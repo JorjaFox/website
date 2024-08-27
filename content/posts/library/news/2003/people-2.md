@@ -3,14 +3,12 @@ title: People Magazine
 date: 2003-05-26
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2003"]
-categories: ["Articles", "News"]
+newsyear: "2003"
 permalink: /news/2003/:title/
 newstitle: Hey There, Jorja Girl
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.com
-
 ---
 
 CSI*'s Jorja Fox has a simple plan: Don't worry, be hippie.*

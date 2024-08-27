@@ -4,14 +4,12 @@ date: 2011-02-05
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "CSI 11.13 'The Two Mrs. Grissoms'  "
 newsreporter: Hilary Rothing
 newssource: CraveOnline.com
 newsurl: https://www.craveonline.com/entertainment/tv/article/csi-1113-the-two-mrs-grissoms-123003
-
 ---
 
 [...]

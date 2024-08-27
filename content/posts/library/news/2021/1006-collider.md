@@ -3,8 +3,7 @@ title: "Collider"
 date: 2021-10-06
 transcriber: "Mika A. Epstein"
 layout: news
-tags: ["2021"]
-categories: ["Articles", "News"]
+newsyear: "2021"
 newstitle: "'CSI: Vegas': Jorja Fox on Leaving 'The West Wing' for the OG 'CSI,' and Why Sara Couldn't Come Back Without Grissom"
 newsreporter: "Liz Shannon Miller"
 newssource: "Collider"

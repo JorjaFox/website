@@ -4,14 +4,12 @@ date: 2011-01-28
 transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
-categories: [News, Articles]
-tags: ["2011"]
+newsyear: "2011"
 
 newstitle: "Exclusive *CSI* Video: Is Grissom Returning?!  "
 newsreporter: Michael Ausiello
 newssource: TV Line
 newsurl: https://www.tvline.com/2011/01/exclusive-csi-video-is-grissom-returning/
-
 ---
 
 Something tells me Sara/Grissom fans will not want to miss next week's *CSI*.

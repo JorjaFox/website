@@ -49,17 +49,10 @@ jobs:
         run: mkdir resources
 
       - name: Download Resources from Server
-        run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
+        run: rsync -aCvt --delete ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
       - name: Generate Resources
         run: npm run build
 
       - name: Push Resources to Server
-        uses: easingthemes/ssh-deploy@main
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-          ARGS: "-rlgoDzvc -i --delete"
-          SOURCE: "resources/"
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: "/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/"
+        run: rsync -aCvt --delete resources/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/

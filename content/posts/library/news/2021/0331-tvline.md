@@ -8,8 +8,6 @@ newstitle: "CSI Sequel Series Formally Greenlit at CBS; Wallace Langham Returnin
 newsreporter: "Michael Ausiello"
 newssource: "TV Line"
 newsurl: https://tvline.com/2021/03/31/_CSI_-vegas-reboot-series-order-wallace-langham-hodges/
-aliases:
-    - /news/2021/tvline-2021/
 ---
 
 CBS’ is officially embarking on a new crime spree, handing a formal series order to a new iteration of _CSI_ that is equal parts reboot and revival.

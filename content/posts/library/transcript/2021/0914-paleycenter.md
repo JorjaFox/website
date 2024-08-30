@@ -6,8 +6,6 @@ layout: transcript
 interviewurl: https://www.paleycenter.org
 permalink: /transcript/2021/:title/
 interviewyear: "2021"
-aliases:
-    - /transcript/2021/paleycenter-0914/
 ---
 
 [...]

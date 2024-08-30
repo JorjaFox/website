@@ -1,19 +1,14 @@
-name: 'Preflight Checks'
+name: 'Generate and deploy Staging'
 
 on:
   push:
-    branches-ignore: [ production ]
-
-concurrency:
-     group: ${{ github.ref }}-ci
-     cancel-in-progress: true
+    branches: [ trunk ]
 
 jobs:
-  preflight-checks:
+  deploy-website:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Git Checkout
+      - name: Do a git checkout including submodules
         uses: actions/checkout@v4
         with:
           submodules: true
@@ -42,24 +37,21 @@ jobs:
       - name: Install Dependencies
         run: npm install && npm run mod:update
 
-      - name: Lint
-        run: npm run lint
-
       - name: Make Resources Folder locally
         run: mkdir resources
 
-      - name: Download Resources from Server
+      - name: Download resources from server
         run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
-      - name: Generate Resources
+      - name: Build site
         run: npm run build
 
-      - name: Push Resources to Server
+      - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-          ARGS: "-rlgoDzvc -i --delete"
-          SOURCE: "resources/"
+          ARGS: "-rlgoDzvc -i"
+          SOURCE: "public/"
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: "/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/"
+          TARGET: "/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/"

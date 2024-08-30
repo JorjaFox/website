@@ -8,8 +8,6 @@ newstitle: "‘CSI’ Stars William Petersen & Jorja Fox on What’s Next for Gr
 newsreporter: "Jim Halterman"
 newssource: "TV Insider"
 newsurl: https://www.tvinsider.com/1010028/csi-vegas-william-petersen-jorja-fox-grissom-sara-preview/
-aliases:
-    - /news/2021/tvinsider-20210825/
 ---
 
 “We’re the dinosaurs,” a jovial William Petersen says as he sits alongside longtime partner in crime-solving Jorja Fox in Los Angeles. “Billy’s more like a T. rex,” she counters with a laugh. The pair are talking to TV Guide Magazine about their iconic _CSI: Crime Scene Investigation_ characters—dispassionate forensic entomologist Gil Grissom and his wife, intrepid forensic scientist Sara Sidle—returning to the lab in _CSI: Vegas_, a sequel to their 2000–15 crime drama sensation.

@@ -16,7 +16,7 @@ thumbnail:
 
 CSI star Jorja Fox is featured in ADI's new video and discusses the heartbreaking capture and training of wild elephants for a life in the traveling circus. Watch this 2 minute video to hear Jorja tell the story of an elephant named Chrissie and learn what you can do to help.
 
-{{< youtube xpru7Dj_Who >}}
+{{< youtube id="xpru7Dj_Who" >}}
 
 It's important to note that even when a circus isn't abusing an elephant, and some don't, they're still taking them out of their natural habitat and isolating them from their own kind. What if you were away from every other human, save maybe one or two, and tasked to perform tricks? Sounds pretty horrible doesn't it? You have no idea where you are, where you're going, or when it will all end.
 

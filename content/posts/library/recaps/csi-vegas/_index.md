@@ -6,7 +6,6 @@ categories: ["CSI: Vegas"]
 tags: ["Television"]
 show: csi-vegas
 seasons: [1]
-aliases: [ library/actor/csi-vegas-episodes ]
 type: index
 ---
 

@@ -7,8 +7,6 @@ imdb: https://www.imdb.com/title/tt0247082/
 website: https://www.cbs.com/shows/csi/
 actorimage: /img/actors/csi.jpg
 episodelist: true
-aliases:
-  - /self/csi/
 thumbnail:
   url: img/front-page/csi-orig.jpg
 ---

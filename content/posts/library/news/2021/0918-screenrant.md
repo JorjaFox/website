@@ -8,8 +8,6 @@ newstitle: "CSI: Vegas Image Shows Grissom & Sarah Investigating a Trashed Crime
 newsreporter: "John Deloss"
 newssource: "Screenrant"
 newsurl: https://screenrant.com/csi-vegas-grissom-sarah-crime-scene-image-tease/
-aliases:
-    - /news/2021/screenrant-20210918/
 ---
 
 **A new image for the upcoming CSI: Vegas epilogue series shows Gil Grissom and Sarah Sidle do what they do best, investigating a trashed crime scene.**

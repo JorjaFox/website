@@ -1,19 +1,19 @@
 {{ if .Get "show" }}
     {{ $show := .Get "show" }}
     {{- $icon := .Get "icon" -}}
-    
+
     {{ $recaps     := (where .Site.RegularPages "Layout" "recaps" ) }}
     {{ $showRecaps := (where .Site.Pages "Params.showslug" $show ) }}
     {{ $filtered   := $recaps | intersect $showRecaps }}
     {{ $postCount  := len $filtered }}
 
     <div class="alert alert-light" role="alert">
-        {{ partial "assets/icon.html" (dict "icon" $icon "spacing" false) }} 
-        <a href="/library/recaps/{{ $show }}" class="alert-link"><strong>{{ .Get "title" }}</strong> 
+        {{ partial "assets/icon.html" (dict "icon" $icon "spacing" true) }}
+        <a href="/library/recaps/{{ $show }}/" class="alert-link"><strong>{{ .Get "title" }}</strong></a>&nbsp;
         {{ if eq $postCount 0 }}
         <span class="badge rounded-pill bg-secondary">Coming Soon</span>
     {{ else }}
-        <span class="badge rounded-pill bg-success-subtle"><a href="/library/recaps/{{ $show }}/">{{ $postCount }} recap{{ if ne $postCount 1 }}s{{ end }}</a></span>
+        <span class="badge rounded-pill bg-info"><a href="/library/recaps/{{ $show }}/">{{ $postCount }} recap{{ if ne $postCount 1 }}s{{ end }}</a></span>
     {{ end }}
     </div>
 {{ end }}

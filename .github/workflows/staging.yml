@@ -46,15 +46,5 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Deploy to Server
-        uses: easingthemes/ssh-deploy@main
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-          ARGS: "-rlgoDzvc -i"
-          SOURCE: "public/"
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: "/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/"
-
-      - name: Run Post Deploy on Server
-        run: ssh ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} /home/${{ secrets.REMOTE_USER }}/github-actions/staging.sh
+      - name: Push Website to Staging Server
+        run: rsync -aCvt --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/

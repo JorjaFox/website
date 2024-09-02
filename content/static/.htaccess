@@ -71,7 +71,6 @@ Options +FollowSymLinks -Indexes
     Redirect 301 /terms_of_use/ /terms-of-use/
     Redirect 301 /next-csi-episode/ /library/actor/csi/
     Redirect 301 /tos/copyrights/ /tos/copyright/
-    Redirect 301 /tos/ /tos/terms/
     RedirectMatch 301 ^/library/faqs/(.*)$ /faq/$1
     RedirectMatch 301 ^/library/faq/(.*)$ /faq/$1
 

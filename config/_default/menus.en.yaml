@@ -57,8 +57,6 @@ footer:
 - name: Contribute
   parent: Links
   pre: "fab fa-github"
-  params:
-      rel: external
   url: https://github.com/JorjaFox/website/
   weight: 40
 - name: RSS Feed

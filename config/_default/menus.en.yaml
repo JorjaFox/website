@@ -59,12 +59,12 @@ footer:
   pre: "fab fa-github"
   params:
       rel: external
-  url: https:/github.com/JorjaFox/website/
+  url: https://github.com/JorjaFox/website/
   weight: 40
 - name: RSS Feed
   parent: Links
   pre: "fas fa-rss"
-  pageRef: https://jorjafox.net/feed.xml
+  url: https://jorjafox.net/feed.xml
   weight: 50
 
 social:

@@ -18,7 +18,7 @@ tags:
 
 Wednesday night Jorja was on the Colbert show, and talked to him about _CSI: Vegas_
 
-{{< youtube V7_T2xNc_4s >}}
+{{< youtube id="V7_T2xNc_4s" >}}
 
 Actually she mostly talked about DC and the time Brad Whitford got arrested by the Secret Service. But still it's a great moment.
 

@@ -16,4 +16,4 @@ tags:
 
 "Skin Trade" takes the viewer on a journey form the birth of fur used for trading between Native Americans and Europeans, to the exploitation of animals and fur for fashion. The film delves into the corruption and lies perpetrated by fashion designers that claim their fur designs are eco-friendly" as well as those retailers and fur farmers who claim that the animals are killed humanely.
 
-{{< youtube uQHx8NQ2bKU >}}
+{{< youtube id="uQHx8NQ2bKU" >}}

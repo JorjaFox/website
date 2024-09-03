@@ -3,7 +3,6 @@ title: Recaps
 author: "Mika A. Epstein"
 layout: library
 permalink: /recaps/
-tags: [Index]
 type: index
 notoc: true
 ---
@@ -12,8 +11,8 @@ Television show recaps are available to help you decide what shows and episodes 
 
 The following shows are currently recapped here:
 
-* {{< fas magnifying-glass >}} {{< link "/library/recaps/missing-persons/" >}}Missing Persons{{< /link >}} {{< recapcount show="missing-persons" >}}
-* {{< fas hospital >}} {{< link "/library/recaps/er/" >}}ER{{< /link >}} {{< recapcount show="er" >}}
-* {{< fas democrat >}} {{< link "/library/recaps/west-wing/" >}}The West Wing{{< /link >}} {{< recapcount show="west-wing" >}}
-* {{< fas microscope >}} {{< link "/library/recaps/csi/" >}}CSI: Crime Scene Investigation{{< /link >}} {{< recapcount show="csi" >}}
-* {{< fas dna >}} {{< link "/library/recaps/csi-vegas/" >}}CSI: Vegas{{< /link >}} {{< recapcount show="csi-vegas" >}}
+{{< recapcount show="missing-persons" title="Missing Persons" icon="fas magnifying-glass" >}}
+{{< recapcount show="er" title="ER" icon="fas hospital" >}}
+{{< recapcount show="west-wing" title="The West Wing" icon="fas democrat" >}}
+{{< recapcount show="csi" title="CSI: Crime Scene Investigation" icon="fas microscope" >}}
+{{< recapcount show="csi-vegas" title="CSI: Vegas" icon="fas dna" >}}

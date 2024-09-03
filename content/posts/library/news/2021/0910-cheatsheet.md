@@ -8,8 +8,6 @@ newstitle: "‘CSI: Vegas’: William Peterson Thought It Was ‘Completely Weir
 newsreporter: "Perry Carpenter"
 newssource: "Showbiz Cheetsheet"
 newsurl: https://www.cheatsheet.com/entertainment/csi-vegas-william-peterson-completely-weird-reuniting-with-jorja-fox.html/
-aliases:
-    - /news/2021/cheatsheet-20210910/
 ---
 
 _CSI: Vegas_ will feature the return of William Peterson and Jorja Fox as forensic investigators Grissom and Sara. The characters first appeared in the mothership CSI series that ran for 15 seasons between 2000 and 2015 — _CSI: Crime Scene Investigation_.

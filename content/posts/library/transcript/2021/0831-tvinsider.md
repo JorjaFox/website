@@ -6,8 +6,6 @@ layout: transcript
 interviewurl: https://www.tvinsider.com/?jwsource=cl
 permalink: /transcript/2021/:title/
 interviewyear: "2021"
-aliases:
-    - /transcript/2021/tvinsider-0831/
 ---
 
 **Jim Halterman:** It's time for TV Guide's annual fall preview issue, and _CSI: Vegas_ star, Jorja Fox, is here to talk the hot revival and being on our iconic cover.

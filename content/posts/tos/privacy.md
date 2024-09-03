@@ -1,7 +1,8 @@
 ---
-title: Privacy Policy
+title: "Terms of Use: Privacy Policy"
 date: '2015-10-01'
 layout: library
+slug: privacy
 ---
 
 {{< alert color="success" >}}Last Updated: **08 August 2024**{{< /alert >}}

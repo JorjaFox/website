@@ -1,14 +1,14 @@
-name: 'Generate and deploy'
+name: 'Generate and deploy Staging'
 
 on:
   push:
-    branches: [ production ]
+    branches: [ trunk ]
 
 jobs:
   deploy-website:
     runs-on: ubuntu-latest
     steps:
-      - name: Git Checkout
+      - name: Do a git checkout including submodules
         uses: actions/checkout@v4
         with:
           submodules: true
@@ -37,17 +37,14 @@ jobs:
       - name: Install Dependencies
         run: npm install && npm run mod:update
 
-      - name: Make Resources Folder Locally
+      - name: Make Resources Folder locally
         run: mkdir resources
 
       - name: Download resources from server
         run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
-      - name: Build Website
+      - name: Build site
         run: npm run build
 
-      - name: Delete Extra Folder
-        run: rm -rf public/404/
-
-      - name: Push Website to Server
-        run: rsync -aCvt --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.REMOTE_HOST }}/
+      - name: Push Website to Staging Server
+        run: rsync -aCvt --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/

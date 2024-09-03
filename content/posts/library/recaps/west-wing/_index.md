@@ -6,7 +6,6 @@ categories: ["west wing"]
 tags: ["Television"]
 show: west-wing
 seasons: [1, 2]
-aliases: [ library/actor/west-wing-episodes ]
 type: index
 ---
 

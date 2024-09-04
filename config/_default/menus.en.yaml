@@ -17,23 +17,23 @@ main:
   weight: 30
 - parent: Resources
   name: Library
-  url: /library/
+  pageRef: /library/
   weight: 31
 - parent: Resources
   name: Filmography
-  url: /library/filmography/
+  pageRef: /library/filmography/
   weight: 32
 - parent: Resources
   name: News Articles
-  url: /library/news/
+  pageRef: /library/news/
   weight: 33
 - parent: Resources
   name: Advocacy
-  url: /library/advocacy/
+  pageRef: /library/advocacy/
   weight: 34
 - parent: Resources
   name: Transcripts
-  url: /library/transcript/
+  pageRef: /library/transcript/
   weight: 35
 
 footer:
@@ -41,20 +41,29 @@ footer:
   weight: 10
 - name: Privacy Policy
   parent: Links
+  pre: "fas fa-lock"
   pageRef: /tos/privacy/
   weight: 10
 - name: Terms of Service
   parent: Links
+  pre: "fas fa-file-contract"
   pageRef: /tos/
   weight: 20
 - name: Copyright
   parent: Links
+  pre: "fas fa-copyright"
   pageRef: /tos/copyright/
   weight: 30
+- name: Contribute
+  parent: Links
+  pre: "fab fa-github"
+  url: https://github.com/JorjaFox/website/
+  weight: 40
 - name: RSS Feed
   parent: Links
-  pageRef: https://jorjafox.net/feed.xml
-  weight: 40
+  pre: "fas fa-rss"
+  url: https://jorjafox.net/feed.xml
+  weight: 50
 
 social:
 - name: Official Website

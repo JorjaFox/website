@@ -8,7 +8,7 @@ layout: library
 
 We are _not_ an official Jorja Fox website and are run by fans for no monetary compensation. Her official site is at [jorjafox.com](https://www.jorjafox.com/)
 
-This website is run by Mika Epstein, who's been maintaining the site since December 1996. It is run entirely by fans for no monetary compensation. No one gets paid or makes a profit off this site (all proceeds go to the cost of webhosting and site running, in the rare occasions there's extra, the surplus goes to charity). Due to the machinations of US law, We are not a registered non-profit, you just have to take our words for it.
+This website is run by Mika Epstein, who's been maintaining the site since December 1996. It is run entirely by fans for no monetary compensation. No one gets paid or makes a profit off this site.
 
 ## Contact Information
 

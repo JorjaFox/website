@@ -46,6 +46,9 @@ jobs:
       - name: Build site
         run: npm run build
 
+      - name: Delete Extra Folder
+        run: rm -rf public/404/
+
       - name: Push Website to Staging Server
         run: rsync -rlgoDzvc -i --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/
 

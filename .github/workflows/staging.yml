@@ -46,5 +46,11 @@ jobs:
       - name: Build site
         run: npm run build
 
+      - name: Delete Extra Folder
+        run: rm -rf public/404/
+
       - name: Push Website to Staging Server
-        run: rsync -aCvt --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/
+        run: rsync -rlgoDzvc -i --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/
+
+      - name: Password Protection
+        run: ssh ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} "cd /home/${{ secrets.REMOTE_USER }}/github-actions/ && ./staging.sh"

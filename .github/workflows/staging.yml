@@ -47,4 +47,4 @@ jobs:
         run: npm run build
 
       - name: Push Website to Staging Server
-        run: rsync -aCvt --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/
+        run: rsync -rlgoDzvc -i --delete public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.STAGING_SERVER }}/

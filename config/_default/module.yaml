@@ -1,3 +1,7 @@
 imports:
   - path: 'github.com/gethinode/hinode'
   - path: 'github.com/JorjaFox/mod-bs5-lightbox'
+
+hugoVersion:
+    extended: true
+    min: '0.134.0'

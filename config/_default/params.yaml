@@ -56,3 +56,7 @@ modules:
     disableTemplate: true
   leaflet:
     disableTemplate: true
+  GoogleAnalytics:
+    integration: "core"
+    state: "async"
+    category: "analytics"

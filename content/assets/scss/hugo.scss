@@ -71,3 +71,11 @@ nav#NewsListOfYears ul, nav#TranscriptsListOfYears ul {
 .breadcrumb-custom a:hover {
     color: var(--bs-success)!important;
 }
+
+/* Personas */
+
+#nav-as-seen-on {
+    h2, h3 {
+        font-style: italic;
+    }
+}

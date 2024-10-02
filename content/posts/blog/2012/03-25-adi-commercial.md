@@ -3,7 +3,7 @@ id: 4460
 title: 'Jorja in an ADI Commercial'
 date: '2012-03-25T08:26:54-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: '"I think elephants are like stardust. Something magical."'
+description: '"I think elephants are like stardust. Something magical."'
 categories:
     - 'Jorja Fox'
 tags:

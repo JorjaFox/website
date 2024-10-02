@@ -3,7 +3,7 @@ id: 18220
 title: 'What to Expect from "CSI: Vegas"'
 date: '2021-05-19T16:00:00-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'A first look into what "CSI: Vegas" is bringing us, besides crime, is here.'
+description: 'A first look into what "CSI: Vegas" is bringing us, besides crime, is here.'
 layout: post
 thumbnail:
   url: /img/blog/2021/CSI-First-Look.jpg

@@ -3,7 +3,7 @@ id: 14830
 title: '"Roll with Me" On Netflix'
 date: '2018-11-26T17:36:12-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: '"Roll With Me" to roll into Netflix on December 1st.'
+description: '"Roll With Me" to roll into Netflix on December 1st.'
 thumbnail:
   url: /img/blog/2018/Roll-with-me-promo.jpg
 categories:

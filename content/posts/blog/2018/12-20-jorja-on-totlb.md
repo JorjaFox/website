@@ -3,7 +3,7 @@ id: 15032
 title: 'Jorja on TOTLB'
 date: '2018-12-20T15:48:19-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja was on the hilariously obscene podcast "Thinking Outside the Long Box", being squeaky clean, talking about Memento Roll With Me and .... A NEW MOVIE!'
+description: 'Jorja was on the hilariously obscene podcast "Thinking Outside the Long Box", being squeaky clean, talking about Memento Roll With Me and .... A NEW MOVIE!'
 thumbnail:
   url: /img/blog/2018/10446324_1580209302245547_6148882476603970945_o-1.jpg
 categories:

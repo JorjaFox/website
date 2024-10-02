@@ -3,7 +3,7 @@ id: 3296
 title: 'An Evening with Philippe Cousteau in L.A.'
 date: '2011-04-26T22:15:19-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Artists and Athletes are at it again! Philippe Cousteau talked on April 17 about the damage in the Gulf coast, and what work still needs to be done.'
+description: 'Artists and Athletes are at it again! Philippe Cousteau talked on April 17 about the damage in the Gulf coast, and what work still needs to be done.'
 categories:
     - 'Jorja Fox'
 tags:

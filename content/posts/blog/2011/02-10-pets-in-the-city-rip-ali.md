@@ -3,7 +3,7 @@ id: 3102
 title: 'Pets In The City (RIP Ali)'
 date: '2011-02-10T08:24:44-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja did an interview with "Pets In The City", an online radio show. Among other things, she mentioned Ali passed away on the 30th.'
+description: 'Jorja did an interview with "Pets In The City", an online radio show. Among other things, she mentioned Ali passed away on the 30th.'
 categories:
     - 'Jorja Fox'
 tags:

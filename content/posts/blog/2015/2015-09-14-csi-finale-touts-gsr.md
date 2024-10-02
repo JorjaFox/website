@@ -3,7 +3,7 @@ id: 13512
 title: 'CSI Finale Touts GSR'
 date: '2015-09-14T13:05:28-07:00'
 authorname: 'JF Guest Author'
-excerpt: 'CSI Series Finale Trailer Touts Sidle and Grissom''s Emotional Reunion'
+description: 'CSI Series Finale Trailer Touts Sidle and Grissom''s Emotional Reunion'
 thumbnail:
   url: /img/blog/2015/CO4wePnWoAAd1Ih.jpg
 categories:

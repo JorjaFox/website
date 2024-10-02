@@ -3,7 +3,7 @@ id: 7248
 title: 'Baja Vacation'
 date: '2013-05-21T12:00:36-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'What do a Foxy''s visor, giant cactus, and a hoodie sweatshirt have in common? It''s vacation time!'
+description: 'What do a Foxy''s visor, giant cactus, and a hoodie sweatshirt have in common? It''s vacation time!'
 categories:
     - 'Jorja Fox'
 tags:

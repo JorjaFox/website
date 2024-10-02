@@ -3,6 +3,7 @@ id: 781
 title: "Sea Shepherd Conservation Society"
 date: '2008-11-08T19:12:28-08:00'
 authorname: 'Mika E. (Ipstenu)'
+description: "Wondering what the Sea Shepherd is?"
 layout: post
 categories:
     - 'Jorja Fox'

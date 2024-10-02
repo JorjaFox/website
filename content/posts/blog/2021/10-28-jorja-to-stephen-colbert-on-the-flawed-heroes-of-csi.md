@@ -3,7 +3,7 @@ id: 18952
 title: 'Jorja to Stephen Colbert on the Flawed Heroes of "CSI"'
 date: '2021-10-28T16:45:02-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja''s appearance on the Oct 27th episode of Stephen Colbert.'
+description: 'Jorja''s appearance on the Oct 27th episode of Stephen Colbert.'
 thumbnail:
   url: /img/blog/2021/colbert.jpg
 categories:

@@ -3,7 +3,7 @@ id: 13650
 title: 'The Best Explanation of the GSR Divorce'
 date: '2015-09-30T19:59:48-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'A perfect (to me) explanation of why Grissom and Sara had to divorce.'
+description: 'A perfect (to me) explanation of why Grissom and Sara had to divorce.'
 thumbnail:
   url: /img/blog/2015/immortality_252.jpg
 categories:

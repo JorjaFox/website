@@ -3,7 +3,7 @@ id: 4423
 title: 'Allie the Ally Visits CSI'
 date: '2012-03-12T20:27:18-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Allie the Ally visited CSI and met Jorja.'
+description: 'Allie the Ally visited CSI and met Jorja.'
 categories:
     - 'Jorja Fox'
 tags:

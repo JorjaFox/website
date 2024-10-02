@@ -3,7 +3,7 @@ id: 3116
 title: 'Jorja On Hand for Operation Lion Ark'
 date: '2011-02-14T20:15:57-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'She did it for four lions last summer, now she''s there for twenty-five on February 16th.'
+description: 'She did it for four lions last summer, now she''s there for twenty-five on February 16th.'
 categories:
     - 'Jorja Fox'
 tags:

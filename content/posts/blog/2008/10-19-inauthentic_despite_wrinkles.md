@@ -1,6 +1,7 @@
 ---
 id: 649
 title: "Inauthentic despite wrinkles?"
+description: "Some people focus on the weirdest things..."
 date: '2008-10-19T11:38:53-07:00'
 authorname: 'Mika E. (Ipstenu)'
 layout: post

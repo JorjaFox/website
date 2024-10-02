@@ -3,7 +3,7 @@ id: 17892
 title: '"The Map of Tiny Perfect Things" Trailer Is Out'
 date: '2021-01-27T18:12:28-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Like "Groundhog''s Day", only it''s two teens stuck in a loop. The trailer has dropped, so have a look!'
+description: 'Like "Groundhog''s Day", only it''s two teens stuck in a loop. The trailer has dropped, so have a look!'
 thumbnail:
   url: /img/blog/2021/TinyPerfectThings.jpg
 categories:

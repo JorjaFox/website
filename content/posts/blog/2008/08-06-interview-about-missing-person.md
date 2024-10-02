@@ -3,6 +3,7 @@ id: 431
 title: "Interview about Missing Persons"
 date: '2008-08-06T18:42:52-07:00'
 authorname: 'Mika E. (Ipstenu)'
+description: "An old Missing Persons interview for you!"
 layout: post
 thumbnail:
     url: /img/blog/2008/missingpersons.png

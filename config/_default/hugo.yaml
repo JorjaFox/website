@@ -18,7 +18,6 @@ pluralizelisttitles: "false"
 buildFuture: "true"
 summaryLength: 10
 enableRobotsTXT: true
-mainSections: [ "blog" ]
 
 timeout: "180s"
 

@@ -17,7 +17,7 @@ favicon:
   logo: "/img/favicon.png"
 
 home:
-  sections: [ "blog" ]
+  sections: [ "as-seen-on", "blog" ]
   style: "gradient-featured"
   feature:
     width: 6
@@ -30,6 +30,14 @@ includeToc:
   show: true
 
 sections:
+  as-seen-on:
+    title: "As Seen On"
+    layout: "nav"
+    sort: "weight"
+    reverse: false
+    style: "justify-content-center as-seen-on"
+    pane: "persona"
+    width: 100
   blog:
     reference: "More Posts"
     sort: "date"

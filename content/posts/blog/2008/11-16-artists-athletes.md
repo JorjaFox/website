@@ -3,6 +3,7 @@ id: 788
 title: "Artists & Athletes"
 date: '2008-11-16T23:26:30-08:00'
 authorname: 'Mika E. (Ipstenu)'
+description: "Jorja attends an Artists & Athletes panel."
 layout: post
 thumbnail:
     url: /img/blog/2008/artandath_03.jpg

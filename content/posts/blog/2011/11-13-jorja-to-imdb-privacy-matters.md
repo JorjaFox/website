@@ -3,7 +3,7 @@ id: 4012
 title: 'Jorja To IMDb: Privacy Matters'
 date: '2011-11-13T08:49:35-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Should places like IMDb (and by that extension, JFO) really be disclosing everything about everyone?'
+description: 'Should places like IMDb (and by that extension, JFO) really be disclosing everything about everyone?'
 categories:
     - 'Jorja Fox'
 tags:

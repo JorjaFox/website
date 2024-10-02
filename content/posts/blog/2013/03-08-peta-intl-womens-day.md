@@ -3,7 +3,7 @@ id: 6712
 title: "PETA Celebrates International Women's Day"
 date: '2013-03-08T15:43:21-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Fighting crime, animal cruelty, and sexism? That''s our Jorja!'
+description: 'Fighting crime, animal cruelty, and sexism? That''s our Jorja!'
 categories:
     - 'Jorja Fox'
 tags:

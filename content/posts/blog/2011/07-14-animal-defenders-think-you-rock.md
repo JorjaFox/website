@@ -3,7 +3,7 @@ id: 3529
 title: 'Animal Defenders Think You Rock!'
 date: '2011-07-14T09:58:39-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Just in case you''re having a down day, did you know that Animal Defenders is really thankful for you, the fans?  Yeah, they are!'
+description: 'Just in case you''re having a down day, did you know that Animal Defenders is really thankful for you, the fans?  Yeah, they are!'
 categories:
     - 'Jorja Fox'
 tags:

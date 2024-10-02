@@ -3,7 +3,7 @@ id: 16750
 title: 'Full 3022 Trailer'
 date: '2019-09-19T17:36:30-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'The full trailer for 3022 is out and yikes is it full of questions. What happens when the Earth goes silent?'
+description: 'The full trailer for 3022 is out and yikes is it full of questions. What happens when the Earth goes silent?'
 thumbnail:
   url: /img/blog/2019/3022-trailer-2.jpg
 categories:

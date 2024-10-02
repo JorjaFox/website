@@ -3,7 +3,7 @@ id: 3632
 title: 'Pauley P Loves Jorja'
 date: '2011-08-07T03:50:15-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Oh man, it''s sneaky photo day!  Pauley Perette from NCIS and Jorja used to work together!'
+description: 'Oh man, it''s sneaky photo day!  Pauley Perette from NCIS and Jorja used to work together!'
 categories:
     - 'Jorja Fox'
 tags:

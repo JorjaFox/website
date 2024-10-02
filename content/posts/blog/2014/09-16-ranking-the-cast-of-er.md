@@ -3,7 +3,7 @@ id: 11245
 title: 'Ranking the Cast of ER'
 date: '2014-09-16T12:00:28-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Flashback 20 years ago and we have ER. Yes. Twenty.'
+description: 'Flashback 20 years ago and we have ER. Yes. Twenty.'
 thumbnail:
   url: /img/blog/2014/2606c3c321.jpg
 categories:

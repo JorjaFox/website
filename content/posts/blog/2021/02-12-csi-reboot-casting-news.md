@@ -3,7 +3,7 @@ id: 17928
 title: "'CSI' Reboot Casting News"
 date: '2021-02-12T11:54:06-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'More news from the CSI Reboot is coming around, including casting.'
+description: 'More news from the CSI Reboot is coming around, including casting.'
 layout: post
 thumbnail:
   url: /img/blog/2021/csi-reboot-grissom-sara.jpg

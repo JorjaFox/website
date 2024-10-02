@@ -3,7 +3,7 @@ id: 19099
 title: 'CSI: Vegas Renewed! Will Jorja Return?'
 date: '2021-12-15T14:07:40-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'CSI will return for season two! No news yet on if Jorja will.'
+description: 'CSI will return for season two! No news yet on if Jorja will.'
 thumbnail:
   url: /img/blog/2021/0c46c3c918f6786d6929c9e22c8f7ba0.jpg
 categories:

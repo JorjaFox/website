@@ -3,6 +3,7 @@ id: 17791
 title: 'Jorja Confirmed in "Map of Tiny Perfect Things"'
 date: '2020-11-21T08:56:00-08:00'
 authorname: 'Mika E. (Ipstenu)'
+description: 'Jorja has been confirmed as appearing in the upcoming movie "Map of Tiny Perfect Things."'
 thumbnail:
   url: /img/blog/2020/map-tpt.jpg
 categories:

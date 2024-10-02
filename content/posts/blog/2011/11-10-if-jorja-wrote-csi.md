@@ -3,7 +3,7 @@ id: 4000
 title: 'If Jorja Wrote a CSI Episode...'
 date: '2011-11-10T09:03:24-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja says she''ll miss Marg and tells us her wishes for what she would write in a CSI episode. Hint: GSR fans would like it.'
+description: 'Jorja says she''ll miss Marg and tells us her wishes for what she would write in a CSI episode. Hint: GSR fans would like it.'
 categories:
     - 'Jorja Fox'
 tags:

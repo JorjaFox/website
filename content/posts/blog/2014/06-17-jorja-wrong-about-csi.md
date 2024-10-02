@@ -3,7 +3,7 @@ id: 10935
 title: 'Jorja was wrong about CSI!'
 date: '2014-06-17T13:14:44-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Australia! You get to watch season fourteen now!'
+description: 'Australia! You get to watch season fourteen now!'
 layout: post
 guid: 'https://jorjafox.net/?p=10935'
 permalink: /2014/jorja-wrong-about-csi/

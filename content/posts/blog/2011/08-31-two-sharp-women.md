@@ -3,7 +3,7 @@ id: 3725
 title: 'Two Sharp Women'
 date: '2011-08-31T16:38:06-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Remember when Sara Sidle first showed up, and she and Catherine were enemies?  LobaBlanca has a nice post about all that.'
+description: 'Remember when Sara Sidle first showed up, and she and Catherine were enemies?  LobaBlanca has a nice post about all that.'
 categories:
     - Community
     - 'Jorja Fox'

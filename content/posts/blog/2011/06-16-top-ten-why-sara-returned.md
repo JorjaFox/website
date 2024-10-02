@@ -3,7 +3,7 @@ id: 3415
 title: 'Top Ten Reasons Sara Really Came Back to Vegas'
 date: '2011-06-16T10:05:14-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'None of these reasons are canon or even close to truth.  Just some summer silly.'
+description: 'None of these reasons are canon or even close to truth.  Just some summer silly.'
 categories:
     - 'Jorja Fox'
 tags:

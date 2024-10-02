@@ -3,7 +3,7 @@ id: 14749
 title: 'Radical Hope: An Evening of Courage and Community'
 date: '2018-04-27T17:21:42-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: "Jorja was at The Guibord Center’s Fundraising Dinner with Tim Phillips and other members and associates from Lion Ark"
+description: "Jorja was at The Guibord Center’s Fundraising Dinner with Tim Phillips and other members and associates from Lion Ark"
 thumbnail:
   url: /img/blog/2018/DinnerTripic.jpg
 categories:

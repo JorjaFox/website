@@ -3,7 +3,7 @@ id: 14352
 title: 'The Reluctant Entertainers'
 date: '2017-03-27T18:00:44-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Leave the entertaining to the people who want to perform, they have a choice.'
+description: 'Leave the entertaining to the people who want to perform, they have a choice.'
 thumbnail:
   url: /img/blog/2017/vlcsnap-00001.jpg
 categories:

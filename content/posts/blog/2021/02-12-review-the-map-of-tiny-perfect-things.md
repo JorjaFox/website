@@ -3,7 +3,7 @@ id: 17933
 title: 'Review: The Map of Tiny Perfect Things'
 date: '2021-02-12T14:56:04-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Looking through life for perfection is only found when we look at the smaller things. Check out the movie.'
+description: 'Looking through life for perfection is only found when we look at the smaller things. Check out the movie.'
 layout: post
 thumbnail:
   url: /img/blog/2021/tiny-perfect-08.jpg

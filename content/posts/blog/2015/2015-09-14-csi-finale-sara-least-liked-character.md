@@ -3,7 +3,7 @@ id: 13515
 title: 'CSI finale: “Sara is the least-liked character"'
 date: '2015-09-14T17:00:13-07:00'
 authorname: 'JF Guest Author'
-excerpt: 'The original cast members reflect on the highs and lows of starring in the CBS drama'
+description: 'The original cast members reflect on the highs and lows of starring in the CBS drama'
 layout: post
 thumbnail:
   url: /img/blog/2015/csi.jpg

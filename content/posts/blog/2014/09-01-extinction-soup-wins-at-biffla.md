@@ -3,7 +3,7 @@ id: 11195
 title: 'Extinction Soup Wins at BIFFLA!'
 date: '2014-09-01T10:30:02-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Last night I went to the BIFF LA show to see Extinction Soup. It was worth it.'
+description: 'Last night I went to the BIFF LA show to see Extinction Soup. It was worth it.'
 thumbnail:
   url: /img/blog/2014/soup.jpg
 categories:

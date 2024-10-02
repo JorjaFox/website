@@ -3,7 +3,7 @@ id: 17069
 title: 'A "CSI" Revival: Will Jorja Return?'
 date: '2020-02-10T12:51:32-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'CBS wants to bring CSI back for a limited series. Will Jorja return?'
+description: 'CBS wants to bring CSI back for a limited series. Will Jorja return?'
 thumbnail:
   url: /img/blog/2020/CSI-season-1-03.jpg
 categories:

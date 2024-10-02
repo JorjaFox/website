@@ -3,7 +3,7 @@ id: 6803
 title: 'Low Key Buddah'
 date: '2013-03-21T14:59:23-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'We knew Jorja was low-key and relaxed. She is pretty cool.'
+description: 'We knew Jorja was low-key and relaxed. She is pretty cool.'
 categories:
     - 'Jorja Fox'
 tags:

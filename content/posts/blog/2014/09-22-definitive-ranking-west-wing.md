@@ -2,7 +2,7 @@
 title: "A Definitive Ranking of Every Character on 'The West Wing'"
 date: '2014-09-22T11:18:31-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Remember Gina Toscano? She''s never let Bookbag get kidnapped!'
+description: 'Remember Gina Toscano? She''s never let Bookbag get kidnapped!'
 layout: post
 guid: 'https://jorjafox.net/?p=11267'
 permalink: /2014/definitive-ranking-west-wing/

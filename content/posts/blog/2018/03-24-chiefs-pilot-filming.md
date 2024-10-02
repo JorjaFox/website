@@ -3,7 +3,7 @@ id: 14729
 title: 'Chiefs Pilot Filming'
 date: '2018-03-24T13:50:30-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Send ''em all to Atlanta for the filming of the Chiefs pilot.'
+description: 'Send ''em all to Atlanta for the filming of the Chiefs pilot.'
 thumbnail:
   url: /img/blog/2018/atlanta.jpg
 categories:

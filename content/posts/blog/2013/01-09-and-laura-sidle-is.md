@@ -3,7 +3,7 @@ id: 6169
 title: 'And Laura Sidle Is ...'
 date: '2013-01-09T14:07:16-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Drumroll please (and massive props to CSI Files) for the reveal of Ms. Laura Sidle.'
+description: 'Drumroll please (and massive props to CSI Files) for the reveal of Ms. Laura Sidle.'
 categories:
     - 'Jorja Fox'
 tags:

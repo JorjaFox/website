@@ -3,7 +3,7 @@ id: 14714
 title: "Guess Who's Starring in ‘Chiefs’ by Carol Mendelsohn?"
 date: '2018-03-08T16:08:36-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: "You read that right. Jorja's been cast in a new show!"
+description: "You read that right. Jorja's been cast in a new show!"
 thumbnail:
   url: /img/blog/2018/maxresdefault.jpg
 categories:

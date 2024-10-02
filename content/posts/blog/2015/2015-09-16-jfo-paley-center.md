@@ -3,7 +3,7 @@ id: 13141
 title: 'JFO At the Paley Center'
 date: '2015-09-16T23:41:38-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'The Paley Center was a wonderful night.'
+description: 'The Paley Center was a wonderful night.'
 thumbnail:
   url: /img/blog/2015/paley.jpg
 categories:

@@ -3,7 +3,7 @@ id: 14239
 title: 'Tell World Leaders: Freeze Fossil Fuel Development'
 date: '2016-11-07T10:00:52-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Tell world leaders that it is time to freeze new fossil fuel projects'
+description: 'Tell world leaders that it is time to freeze new fossil fuel projects'
 layout: post
 thumbnail:
   url: /img/blog/2016/act350.jpeg

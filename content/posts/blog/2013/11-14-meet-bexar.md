@@ -3,6 +3,7 @@ id: 9299
 title: 'Meet Bexar'
 date: '2013-11-14T12:00:21-08:00'
 authorname: 'Mika E. (Ipstenu)'
+description: "Meet Jorja's new dog!"
 categories:
     - 'Jorja Fox'
 tags:

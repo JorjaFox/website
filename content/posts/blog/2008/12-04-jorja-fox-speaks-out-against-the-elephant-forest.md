@@ -3,6 +3,7 @@ id: 829
 title: "Jorja Fox speaks out against the Elephant Forest"
 date: '2008-12-04T09:03:01-08:00'
 authorname: 'Mika E. (Ipstenu)'
+description: "The L.A. Zoo's plans for an Elephant Forest are on hold!"
 layout: post
 categories:
     - 'Jorja Fox'

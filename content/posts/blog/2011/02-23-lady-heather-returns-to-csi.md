@@ -3,7 +3,7 @@ id: 3149
 title: 'Lady Heather Returns to CSI'
 date: '2011-02-23T18:22:18-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'No, this is not a joke. Melinda Clarke (aka Lady Heather) will return to "CSI"!'
+description: 'No, this is not a joke. Melinda Clarke (aka Lady Heather) will return to "CSI"!'
 categories:
     - 'Jorja Fox'
 tags:

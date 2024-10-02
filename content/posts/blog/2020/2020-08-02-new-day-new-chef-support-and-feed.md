@@ -3,7 +3,7 @@ id: 17557
 title: 'New Day, New Chef: Support and Feed'
 date: '2020-08-02T14:07:25-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja is (of course) helping out in these unprecedented times, raising money for vegan food to those in need.'
+description: 'Jorja is (of course) helping out in these unprecedented times, raising money for vegan food to those in need.'
 thumbnail:
   url: /img/blog/2020/crop-0-0-1920-1080-0-NDNC-SF-sm.jpg
 categories:

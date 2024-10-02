@@ -3,7 +3,7 @@ id: 18036
 title: 'CSI: Vegas Has Been Greenlit'
 date: '2021-03-31T14:19:41-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'It''s happening! CSI is coming back!'
+description: 'It''s happening! CSI is coming back!'
 layout: post
 thumbnail:
   url: /img/blog/2021/csi-vegas.png

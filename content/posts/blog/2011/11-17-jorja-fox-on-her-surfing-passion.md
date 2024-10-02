@@ -3,7 +3,7 @@ id: 4025
 title: 'Jorja Fox on Her Surfing Passion'
 date: '2011-11-17T19:17:44-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'An AP video: "When she''s not solving crimes on ''CSI,'' you can find actress Jorja Fox on a surfboard."  Here she talks about seeing a whale.'
+description: 'An AP video: "When she''s not solving crimes on ''CSI,'' you can find actress Jorja Fox on a surfboard."  Here she talks about seeing a whale.'
 categories:
     - 'Jorja Fox'
 tags:

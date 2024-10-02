@@ -3,7 +3,7 @@ id: 8399
 title: 'Rip Curl/Malibu Pro Pictures'
 date: '2013-09-29T08:00:07-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'People who surf raising money for good things in the water, back in 2004.'
+description: 'People who surf raising money for good things in the water, back in 2004.'
 categories:
     - 'Jorja Fox'
 tags:

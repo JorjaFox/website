@@ -3,7 +3,7 @@ id: 3031
 title: "Should they or shouldn't they?"
 date: '2011-01-11T14:00:14-08:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'The question''s moot because they did, but it''s a measure of something that people still argue if GSR should have happened.'
+description: 'The question''s moot because they did, but it''s a measure of something that people still argue if GSR should have happened.'
 categories:
     - 'Jorja Fox'
 tags:

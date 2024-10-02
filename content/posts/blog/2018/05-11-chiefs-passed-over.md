@@ -3,7 +3,7 @@ id: 14775
 title: 'Chiefs: Passed Over'
 date: '2018-05-11T19:25:49-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Alas, there will be no Chiefs.'
+description: 'Alas, there will be no Chiefs.'
 thumbnail:
   url: /img/blog/2018/matthew-henry-58760-unsplash.jpg
 categories:

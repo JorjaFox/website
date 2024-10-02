@@ -3,7 +3,7 @@ id: 8582
 title: 'Sara by the Seasons'
 date: '2013-09-30T11:00:57-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Some fun for the afternoon, Sara Sidle as she''s looked through the seasons.'
+description: 'Some fun for the afternoon, Sara Sidle as she''s looked through the seasons.'
 categories:
     - 'Jorja Fox'
 tags:

@@ -3,7 +3,7 @@ id: 18397
 title: '"CSI: Vegas" Arrives on the 21st Anniversary of "CSI"'
 date: '2021-07-12T19:08:48-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: '_CSI_ is back on October 6th. '
+description: 'CSI is back on October 6th. '
 layout: post
 thumbnail:
   url: /img/blog/2021/csi-oct-6.jpg

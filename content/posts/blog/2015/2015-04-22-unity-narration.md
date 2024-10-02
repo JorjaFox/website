@@ -3,7 +3,7 @@ id: 12883
 title: "Documentary 'Unity' Narrated by Jorja"
 date: '2015-04-22T09:22:01-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Jorja will be one of 100 celebrity narrators for the upcoming documentary.'
+description: 'Jorja will be one of 100 celebrity narrators for the upcoming documentary.'
 thumbnail:
   url: /img/blog/2015/image2-21.jpg
 categories:

@@ -3,7 +3,7 @@ id: 7352
 title: 'Artists & Athletes with Philippe Cousteau'
 date: '2013-06-10T19:46:18-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Global Environmental Challenges and the Innovative Solutions Needed to Solve Them'
+description: 'Global Environmental Challenges and the Innovative Solutions Needed to Solve Them'
 categories:
     - 'Jorja Fox'
 tags:

@@ -3,7 +3,7 @@ id: 13051
 title: 'Unity Premiere'
 date: '2015-06-25T08:00:53-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'World Premiere Documentary Screening Of Unity'
+description: 'World Premiere Documentary Screening Of Unity'
 thumbnail:
   url: /img/blog/2015/476071604.jpg
 categories:

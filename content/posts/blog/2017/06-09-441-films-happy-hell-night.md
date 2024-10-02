@@ -3,7 +3,7 @@ id: 14571
 title: '441 Films on Happy Hell Night'
 date: '2017-06-09T15:00:06-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'It looks like Happy Hell Night is coming to Blu-Ray, with some extras!'
+description: 'It looks like Happy Hell Night is coming to Blu-Ray, with some extras!'
 astra_style_timestamp_css:
     - '1634430980'
 thumbnail:

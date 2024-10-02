@@ -3,7 +3,7 @@ id: 4511
 title: Unity
 date: '2012-04-12T14:58:50-07:00'
 authorname: 'Mika E. (Ipstenu)'
-excerpt: 'Body, Mind, Heart and Soul, Unity picks up where Earthlings left off, and Jorja narrates.'
+description: 'Body, Mind, Heart and Soul, Unity picks up where Earthlings left off, and Jorja narrates.'
 categories:
     - 'Jorja Fox'
 tags:

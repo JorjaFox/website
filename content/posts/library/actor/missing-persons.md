@@ -2,9 +2,14 @@
 layout: actor
 title: "Missing Persons"
 slug: "missing-persons"
+description: "Following the cases, and lives, of Chicago's Missing Persons team."
 imdb: https://www.imdb.com/title/tt0106067/
 actorimage: /img/actors/missingpersons.png
 episodelist: true
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/missing-persons-01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/missing-persons-02.png"
 ---
 
 The show aired from August 1993 through February 1994 on ABC at 8 p.m., apart from the feature-length pilot episode, which was broadcast as the Monday Night Movie from 9 p.m.-11 p.m. ET.

@@ -7,11 +7,10 @@ tags: ["The West Wing"]
 station: NBC
 showname: "The West Wing"
 showslug: west-wing
-season : One
-epnum: Twenty-Two
-prodnum: 225921
 date: 2000-05-17
-rating: 4
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/west-wing/1x22-001.jpg"
 ---
 
 ## Summary

@@ -3,8 +3,14 @@ title: "In the Blood"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
+station: CBS
+showname: "CSI: Vegas"
+date: 2021-11-17
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/07-intheblood/117744_0409b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/07-intheblood/117744_0515b.jpg"
 ---
 
 ## Synopsis

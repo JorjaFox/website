@@ -4,6 +4,11 @@ title: "3 Weeks to Daytona"
 slug: "3-weeks-to-daytona"
 imdb: https://www.imdb.com/title/tt1857605/
 actorimage: /img/actors/3-weeks-daytona.jpg
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/movies/3-weeks-to-daytona/poster2.jpg"
+ - "https://assets.jorjafox.net/img/gallery/movies/3-weeks-to-daytona/poster3.jpg"
+ - "https://assets.jorjafox.net/img/gallery/movies/3-weeks-to-daytona/poster4.jpg"
 ---
 
 ## Recap

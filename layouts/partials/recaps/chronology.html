@@ -34,7 +34,7 @@
             {{ end }}
         {{ end }}
 
-        {{ if ge $i $this_ep  }}
+        {{ if ge $i $this_ep }}
             {{ $nextep     := (add $this_ep 1) }}
             {{ $next_name  := index ($ep_array) $nextep }}
             {{ range $episodes }}
@@ -48,5 +48,5 @@
         {{ end }}
         </ul>
     {{ end }}
-    <p class="text-body-secondary text-center"><small><a href="/library/recaps/{{ $showslug }}/#season-{{ $season }}">List of episodes</a></small></p>
+    <p class="text-body-secondary text-center"><small><a href="/library/recaps/{{ $showslug }}/#season-{{ $season }}">{{ partial "assets/icon.html" (dict "icon" "fas list text-success") }} List of episodes</a></small></p>
 {{ end }}

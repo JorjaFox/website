@@ -22,9 +22,8 @@
     {{ $station := $showdata.Get "station" }}
 
     {{ $year := $showdata.Get "year" }}
-    {{ $year = int $year }}
 
-    {{ $caption = printf "%s (%d), '%s'" $station $year $showname }}
+    {{ $caption = printf "%s (%s), '%s'" $station $year $showname }}
 {{ end }}
 
 {{ if .params.showslug }}
@@ -40,7 +39,7 @@
 
 <h2 id="gallery" class="heading">
     Gallery
-    <a href="#gallery" aria-labelledby="gallery">{{- partial "assets/icon.html" (dict "icon" "fas link anchor") }}</a>
+    <a href="#gallery" aria-labelledby="gallery">{{ partial "assets/icon.html" (dict "icon" "fas link anchor") }}</a>
 </h2>
 
 {{ if ne $caption false }}

@@ -3,8 +3,25 @@ title: "Legacy"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
+station: CBS
+showname: "CSI: Vegas"
+date: 2021-10-06
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/01-promo.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_0549b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_3383b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_5221b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_6253bc.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_6354b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_11366b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_11567b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_11857b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_12035b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117596_12209b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117597_0332b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/117597_0720b.jpg"
 ---
 
 ## Synopsis

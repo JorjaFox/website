@@ -4,6 +4,10 @@ title: "Forever Fabulous"
 slug: "forever-fabulous"
 imdb: https://www.imdb.com/title/tt0176234/
 actorimage: /img/actors/forever-fabulous.jpg
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/movies/forever-fabulous/fab01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/movies/forever-fabulous/fab04.jpg"
 ---
 
 Loreli Daly (Jean Smart), beauty pageant organizer and Former Miss Texas Gal 1969, was run out of Paris, Texas ten years ago on the heels of a tabloid sex scandal. Living somewhere in Arizona with her long-term boyfriend and washed-up pageant MC, Lyle (Robert Wagner), and her daughter Corinne (Jennifer Elise Cox), holder of over 200 pageant titles and tiaras, Loreli is invited back, to Paris, to host the Miss Texas Tiara Quest -- but she can't face the shame. Corinne, who dreams of fleeing her stifling mother and the pageant world to pluck starlets' eyebrows in Hollywood, sees the redemptive trip home as her means for escape.

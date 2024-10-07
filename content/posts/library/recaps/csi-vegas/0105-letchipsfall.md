@@ -3,8 +3,18 @@ title: "Let the Chips Fall"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
+station: CBS
+showname: "CSI: Vegas"
+date: 2021-11-03
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/05-chipsfall/117707_0071b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/05-chipsfall/117707_0289b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/05-chipsfall/117707_0368b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/05-chipsfall/117707_0431b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/05-chipsfall/117707_0805b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/05-chipsfall/117707_0813b.jpg"
 ---
 
 ## Synopsis

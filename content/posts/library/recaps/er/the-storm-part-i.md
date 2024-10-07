@@ -3,15 +3,13 @@ title: The Storm, Part I
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/er/:title/
-tags: ["ER"]
 station: NBC
 showname: "E.R."
 showslug: er
-season : Five
-epnum: Fourteen
-prodnum: 467564
 date: 1999-02-11
-rating: 1
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/er/5x14-001.jpg"
 ---
 
 ## Summary

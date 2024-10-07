@@ -3,8 +3,15 @@ title: "Waiting in the Wings"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
+station: CBS
+showname: "CSI: Vegas"
+date: 2021-12-01
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/09-waitinginthewings/117785_0201b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/09-waitinginthewings/117785_0273b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/09-waitinginthewings/117785_0801b.jpg"
 ---
 
 ## Synopsis

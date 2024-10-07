@@ -2,7 +2,6 @@
 {{ $episodes  := (index .Site.Data.episodes .Params.showslug).episodes }}
 {{ $showslug := .Params.showslug }}
 {{ $showname := (index .Site.Data.episodes .Params.showslug).showname }}
-
 {{ range $episodes }}
     {{ if eq .title $eptitle }}
         {{ .Page.Scratch.Set "goldstar" .rating }}

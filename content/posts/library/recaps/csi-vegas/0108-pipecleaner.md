@@ -3,8 +3,17 @@ title: "Pipe Cleaner"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
+station: CBS
+showname: "CSI: Vegas"
+date: 2021-11-24
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/08-pipecleaner/117762_0276b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/08-pipecleaner/117762_0565b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/08-pipecleaner/117762_0799b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/08-pipecleaner/117771_1181b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/08-pipecleaner/117771_1484b.jpg"
 ---
 
 ## Synopsis

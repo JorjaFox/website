@@ -4,6 +4,13 @@ title: "Velocity Trap"
 slug: "velocity-trap"
 imdb: https://www.imdb.com/title/tt0120435/
 actorimage: /img/actors/velocity-trap.jpg
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/movies/velocity-trap/vtrap_p01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/movies/velocity-trap/vtrap_p02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/movies/velocity-trap/vtrap_p03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/movies/velocity-trap/vtrap_p04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/movies/velocity-trap/vtrap_p05.jpg"
 ---
 
 It's high noon in deep space. It's the year 2150, and electronic crime and interstellar piracy rule the galaxy. Facing unlawful murder charges, Police officer Raymond Stokes is reassigned to escort the Federal Banking Ship USF Atlantic and $40,000,000,000 through the Bermuda Triangle of space: The Velocity Run. With only Beth Sheffield, the ship's navigator, to assist him, all his strength is put to the test when everything on board is threatened by an oncoming 600 million ton asteroid, and a well-armed team of thieves that have docked alongside the USF Atlantic. In a terrifying race against time, Stokes must fight to survive before the deadly impact.

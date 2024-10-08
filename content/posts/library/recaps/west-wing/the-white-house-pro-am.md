@@ -7,11 +7,11 @@ tags: ["The West Wing"]
 station: NBC
 showname: "The West Wing"
 showslug: west-wing
-season : One
-epnum: Seventeen
-prodnum: 225916
 date: 2000-03-22
-rating: 2
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/west-wing/1x17-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/west-wing/1x17-002.jpg"
 ---
 
 ## Summary

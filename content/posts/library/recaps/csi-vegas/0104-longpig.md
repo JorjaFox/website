@@ -3,7 +3,6 @@ title: "Long Pig"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
 ---
 

@@ -3,8 +3,18 @@ title: "Honeymoon in Vegas"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
+station: CBS
+showname: "CSI: Vegas"
+date: 2021-10-13
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/02-honeymoon/117644_2864b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/02-honeymoon/117644_3415b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/02-honeymoon/117644_3755b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/02-honeymoon/117644_3970b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/02-honeymoon/117644_4549b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/02-honeymoon/117644_4730b.jpg"
 ---
 
 ## Synopsis

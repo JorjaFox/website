@@ -1,6 +1,6 @@
 {{- $title        := .params.title -}}
 {{- $photogallery := .photogallery -}}
-{{- $filmography  := .filmography -}}
+{{- $filmography  := .context.Site.Data.filmography -}}
 
 {{ $caption := false }}
 
@@ -29,12 +29,22 @@
 {{ if .params.showslug }}
     {{ $showslug := .params.showslug }}
     {{ $eptitle  := .params.title }}
-    {{ $station  := .params.station }}
-    {{ $showname := .params.showname }}
-    {{ $year := .params.date }}
-    {{ $year = $year.Format "2006" }}
 
-    {{ $caption = printf "%s (%s) - %s from the episode '%s'" $station $year $showname $eptitle }}
+    {{ $showname := (index .context.Site.Data.episodes $showslug).showname }}
+    {{ $network  := (index .context.Site.Data.episodes $showslug).network }}
+    {{ $episodes := (index .context.Site.Data.episodes $showslug).episodes }}
+
+    {{- $epdata := newScratch -}}
+
+    {{ range $episodes }}
+        {{ if eq .title $eptitle }}
+            {{ $epdata.Set "year" .airdate }}
+        {{ end }}
+    {{ end }}
+
+    {{ $year := $epdata.Get "year" | dateFormat "2006" }}
+
+    {{ $caption = printf "%s (%s) - %s from the episode '%s'" $network $year $showname $eptitle }}
 {{ end }}
 
 <h2 id="gallery" class="heading">

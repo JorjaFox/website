@@ -4,9 +4,6 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
-station: CBS
-showname: "CSI: Vegas"
-date: 2021-11-10
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/06-funhouse/117717_2095b.jpg"

@@ -1,0 +1,7 @@
+{{ $photogallery := .Page.Params.photogallery }}
+
+{{ if $photogallery }}
+    {{ range $photogallery }}
+        <link rel="preload" href="{{ . }}" as="image" crossorigin>
+    {{ end }}
+{{ end }}

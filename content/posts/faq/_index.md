@@ -60,4 +60,8 @@ Mostly advocacy work, a couple movies, you know, keeping busy.
 
 The story interested her, and she got to work with William Petersen again.
 
+### Why didn't she stay on 'CSI: Vegas'?
+
+The story didn't include William Petersen, and she couldn't see Sara in Vegas without him.
+
 ### What about ... ?

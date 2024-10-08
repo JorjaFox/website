@@ -1,0 +1,19 @@
+{{ $showslug := .Params.showslug }}
+{{ $showname := (index .Site.Data.episodes .Params.showslug).showname }}
+{{ $photogallery := .Params.photogallery }}
+{{ $logo := (index .Site.Data.episodes .Params.showslug).logo }}
+
+{{/* If the logo value is empty, use a placeholder image. */}}
+{{ if not ($logo) }}
+    {{ $logo = "/img/placeholder.png" }}
+{{ end }}
+
+{{ if $photogallery }}
+    {{/* Get a random image from the photogallery array and use it. */}}
+    {{ $photogallery := .Params.photogallery | shuffle | first 1 }}
+    {{ $logo = (index $photogallery 0) }}
+{{ end }}
+
+{{ if $photogallery }}<a href="#gallery" aria-labelledby="gallery">{{ end }}
+{{- partial "assets/image.html" (dict "url" $logo "title" $showname "ratio" "1x1" "class" "rounded-5") -}}
+{{ if $photogallery }}</a>{{ end }}

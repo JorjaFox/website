@@ -10,7 +10,7 @@ For more questions about her personal life and advocacy, please read the **[FAQ 
 
 ### What movies and TV shows has she been in?
 
-Jorja currently stars in the CBS drama _[CSI: Vegas](/library/actor/csi-vegas/)_, a sequel to _[CSI: Crime Scene Investigation](/library/actor/csi/)_.
+Jorja most recently starred in the first season of the CBS drama _[CSI: Vegas](/library/actor/csi-vegas/)_, a sequel to _[CSI: Crime Scene Investigation](/library/actor/csi/)_.
 
 For a complete list of all her roles, please check her [filmography](/library/filmography/).
 

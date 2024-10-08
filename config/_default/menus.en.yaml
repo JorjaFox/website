@@ -75,6 +75,6 @@ social:
   pre: "fab x-twitter"
   weight: 20
 - name: Facebook
-  url: https://www.facebook.com/jorjafoxofficial/
+  url: https://www.facebook.com/JorjaFoxworldwide/
   pre: "fab facebook"
   weight: 30

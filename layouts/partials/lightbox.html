@@ -64,7 +64,7 @@
                 {{- $imagesrc := . | absURL -}}
 
                 {{ with resources.Get $imageurl }}
-                    {{ $image := $imageurl.Fit "250x250" }}
+                    {{ $image := $imageurl.Crop "250x250" }}
                     {{ $imagesrc = $image.RelPermalink }}
                 {{ end }}
 

@@ -34,6 +34,6 @@ thumbnail:
   url: https://assets.jorjafox.net/img/gallery/benefits/20040930-ripcurl/ripcurl2004_001.jpg
 ---
 
-{{< bs5-lightbox >}}
-
 What I love best is that Mark and Jorja were in "The True Story" together, so I kind of like to see it as a reunion. In 2004, it would be all "Hey, Mark, things working out since I was cut from your show?" But of course now in 2014 it's "Hey, Jorja, still on CSI while I'm playing the Hulk?"
+
+{{< bs5-lightbox >}}

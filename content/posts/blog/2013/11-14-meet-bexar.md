@@ -9,18 +9,18 @@ categories:
 tags:
     - advocacy
     - article
+modules: [ "bs5-lightbox" ]
 photogallery:
-  - /img/blog/2013/SwedenWithLove.com_elizabeth-messina_008r.jpg
-  - /img/blog/2013/SwedenWithLove.com_elizabeth-messina_008r.jpg
+  - /img/blog/2013/elizabeth-messina_008r.jpg
+  - /img/blog/2013/elizabeth-messina_013a.jpg
 thumbnail:
   url: /img/blog/2013/SwedenWithLove.com_elizabeth-messina_013a-600x290.jpg
 ---
 
 Jorja's beloved boxer, Ali, passed away. I didn't report on it at the time because ... well I don't report on stuff until Jorja makes it public! Then when Jorja was in Texas, she found a dog.
 
-{{< bs5-lightbox >}}
-
 Bexar, pronounced 'Bear', is a total scruffy mutt. Part poodle, no doubt, but none of that matters.
+
 {{< blockquote >}}
 "When we found each other, I had just lost my dog of 14 years," she reveals in an interview with Sweden with Love. Bexar (pronounced "bear") had been found roaming the streets of San Antonio, Texas, but it wasn't exactly love at first sight.
 

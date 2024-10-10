@@ -59,21 +59,31 @@
 <div class="card">
     <div class="card-body">
         <div class="row row-cols-1 row-cols-md-3 g-4">
-       {{ range $photogallery }}
-            {{- $image := . | absURL -}}
-            <div class="col">
-                <div class="card">
-                    <a href="{{ $image }}" data-toggle="lightbox" data-gallery="gallery">
-                    {{- partial "assets/image.html" (dict
-                            "url" .
-                            "ratio" "1x1"
-                            "wrapper" "mx-auto"
-                            "title" $title)
-                    -}}
-                    </a>
+            {{ range $photogallery }}
+                {{- $imageurl := . | absURL -}}
+                {{- $imagesrc := . | absURL -}}
+
+                {{ with resources.Get $imageurl }}
+                    {{ $image := $imageurl.Fit "250x250" }}
+                    {{ $imagesrc = $image.RelPermalink }}
+                {{ end }}
+
+                {{ $dir  := (urls.Parse $imageurl).Path }}
+
+                {{ with resources.GetRemote $imageurl | resources.Copy $dir }}
+                    {{ $image := . }}
+                    {{ $imageurl = $image.Permalink }}
+                    {{ $image = $image.Crop "250x250" }}
+                    {{ $imagesrc = $image.RelPermalink }}
+                {{ end }}
+                <div class="col">
+                    <div class="card">
+                        <div class="mx-auto">
+                            <img src="{{ $imagesrc }}" class="img-fluid img-lightbox" alt="{{ $title }}" data-toggle="lightbox" data-gallery="gallery" data-src="{{ $imageurl }}">
+                        </div>
+                    </div>
                 </div>
-            </div>
-        {{ end }}
+            {{ end }}
         </div>
     </div> <!-- end card.body -->
     {{ if ne $caption false }}

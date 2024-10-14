@@ -1,0 +1,28 @@
+{{- $photogallery := .photogallery -}}
+{{- $title := .title -}}
+
+{{ range $photogallery }}
+    {{- $imageurl := . | absURL -}}
+    {{- $imagesrc := . | absURL -}}
+
+    {{ with resources.Get $imageurl }}
+        {{ $image := $imageurl.Fill "250x250" }}
+        {{ $imagesrc = $image.RelPermalink }}
+    {{ end }}
+
+    {{ $dir  := (urls.Parse $imageurl).Path }}
+
+    {{ with resources.GetRemote $imageurl | resources.Copy $dir }}
+        {{ $image := . }}
+        {{ $imageurl = $image.Permalink }}
+        {{ $image = $image.Fill "250x250" }}
+        {{ $imagesrc = $image.RelPermalink }}
+    {{ end }}
+    <div class="col">
+        <div class="card">
+            <div class="mx-auto">
+                <img src="{{ $imagesrc }}" class="img-fluid img-lightbox" alt="{{ $title }}" data-toggle="lightbox" data-gallery="gallery" data-src="{{ $imageurl }}">
+            </div>
+        </div>
+    </div>
+{{ end }}

@@ -4,6 +4,6 @@
 {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) }}
 
 {{ if and $modules $photogallery }}
-    {{ partial "partials/lightbox" (dict "page" .Page "params" .Params "context" . "photogallery" $photogallery) }}
+    {{- partial "partials/lightbox" (dict "page" .Page "params" .Params "context" . "photogallery" $photogallery) -}}
     {{- partial "footer/disclaimer.html" . -}}
 {{ end }}

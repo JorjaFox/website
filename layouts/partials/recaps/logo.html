@@ -8,12 +8,27 @@
     {{ $logo = "/img/placeholder.png" }}
 {{ end }}
 
+{{ $logo_photo := "" }}
 {{ if $photogallery }}
     {{/* Get a random image from the photogallery array and use it. */}}
-    {{ $photogallery := .Params.photogallery | shuffle | first 1 }}
-    {{ $logo = (index $photogallery 0) }}
+    {{ $logo_photo = .Params.photogallery | shuffle | first 1 }}
+    {{ $logo = (index $logo_photo 0) }}
+
+    {{ $u := urls.Parse $logo }}
+
+    {{ if $u.IsAbs }}
+        {{ $dir := $u.Path }}
+
+        {{ $dir = replace $dir "/gallery/" "/recaps/" }}
+
+        {{ with resources.GetRemote $logo | resources.Copy $dir }}
+            {{ $image := . }}
+            {{ $image = $image.Fill "250x250" }}
+            {{ $logo = $image.RelPermalink }}
+        {{ end }}
+    {{ end }}
 {{ end }}
 
-{{ if $photogallery }}<a href="#gallery" aria-labelledby="gallery">{{ end }}
-{{- partial "assets/image.html" (dict "url" $logo "title" $showname "ratio" "1x1" "class" "rounded-5") -}}
-{{ if $photogallery }}</a>{{ end }}
+{{ if $logo_photo }}<a href="#gallery" aria-labelledby="gallery">{{ end }}
+    <img src="{{ $logo }}" class="img-fluid img-lightbox" alt="{{ $showname }}">
+{{ if $logo_photo }}</a>{{ end }}

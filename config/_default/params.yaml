@@ -57,7 +57,7 @@ schema:
 
 modules:
   bs5-lightbox:
-    integration: "optional"
+    integration: "core"
     disableTemplate: false
     state: "async"
   katex:

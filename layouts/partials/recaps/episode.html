@@ -4,7 +4,6 @@
 {{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
 {{ $photogallery := .Params.photogallery }}
 
-
 {{ range $episodes }}
     {{ if eq .title $eptitle }}
         <ul class="list-group list-group-flush">

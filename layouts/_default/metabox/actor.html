@@ -43,7 +43,9 @@
             <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>
             <h6 class="text-center">{{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}</h6>
             {{- if $thumbnail -}}
-                {{- partial "assets/image.html" (dict "url" $thumbnail "title" $character "ratio" "1x1" "class" "rounded-5") -}}
+                {{ $image := $thumbnail.Fill "250x250" }}
+                {{ $imagesrc = $image.RelPermalink }}
+                <img src="{{ $imgsrc }}" class="img-thumbnail" alt="{{ $character }}">
             {{ end }}
 
         </div>

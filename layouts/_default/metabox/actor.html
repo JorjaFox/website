@@ -44,7 +44,7 @@
             <h6 class="text-center">{{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}</h6>
             {{- if $thumbnail -}}
                 {{ $image := $thumbnail.Fill "250x250" }}
-                {{ $imagesrc = $image.RelPermalink }}
+                {{ $imgsrc = $image.RelPermalink }}
                 <img src="{{ $imgsrc }}" class="img-thumbnail" alt="{{ $character }}">
             {{ end }}
 

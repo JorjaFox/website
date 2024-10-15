@@ -42,11 +42,14 @@
         <div class="card-header">
             <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>
             <h6 class="text-center">{{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}</h6>
-            {{- if $thumbnail -}}
-                {{ $image := $thumbnail.Fill "250x250" }}
-                {{ $imgsrc = $image.RelPermalink }}
-                <img src="{{ $imgsrc }}" class="img-thumbnail" alt="{{ $character }}">
+            {{- if ne $thumbnail "/img/placeholder.jpg" -}}
+                {{ with resources.Get $thumbnail }}
+                    {{ $image := $thumbnail.Fill "250x250" }}
+                    {{ $thumbnail = $image.RelPermalink }}
+                {{ end }}
             {{ end }}
+            
+            <img src="{{ $thumbnail }}" class="img-thumbnail" alt="{{ $character }}">
 
         </div>
             <ul class="list-group list-group-flush actor-list-group">

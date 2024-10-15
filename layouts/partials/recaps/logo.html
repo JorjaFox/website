@@ -18,13 +18,16 @@
 
     {{ if $u.IsAbs }}
         {{ $dir := $u.Path }}
-
-        {{ $dir = replace $dir "/gallery/" "/recaps/" }}
+        {{ $dir  = replace $dir "/gallery/" "/recaps/" }}
 
         {{ with resources.GetRemote $logo | resources.Copy $dir }}
-            {{ $image := . }}
-            {{ $image = $image.Fill "250x250" }}
-            {{ $logo = $image.RelPermalink }}
+            {{ with .Err }}
+                {{ warnf "%s" . }}
+            {{ else }}
+                {{ $image := . }}
+                {{ $image = $image.Fill "250x250" }}
+                {{ $logo = $image.RelPermalink }}
+            {{ end }}
         {{ end }}
     {{ end }}
 {{ end }}

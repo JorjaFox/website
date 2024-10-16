@@ -4,7 +4,7 @@
     Visit gethinode.com/license for more details.
 -->
 
-{{ $headercount := .Site.Params.tocHeader.min | 1 }}
+{{ $headercount := .Site.Params.tocHeader.min | default 1 }}
 {{ $headings := .headings | default slice }}
 {{- range .Fragments.Headings }}
     {{- range .Headings }}

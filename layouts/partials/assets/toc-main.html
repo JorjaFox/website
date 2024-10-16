@@ -4,7 +4,7 @@
     Visit gethinode.com/license for more details.
 -->
 
-{{ $headercount := .Site.Params.headercount | 1 }}
+{{ $headercount := .Site.Params.tocHeader.min | 1 }}
 {{ $headings := .headings | default slice }}
 {{- range .Fragments.Headings }}
     {{- range .Headings }}
@@ -24,4 +24,6 @@
         </div>
     </div>
 </nav>
-{{- end }}
+{{ else }}
+    <!-- something else... ->
+{{- end -}}

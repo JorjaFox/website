@@ -28,7 +28,7 @@
     </a>
 </p>
 
-This is the repository for the website [Fans of LeFox](https://jorjafox.net). It houses both all of the code and all the content.
+This is the repository for the website [Fans of LeFox](https://jorjafox.net). It houses both all of the code and all the content except large form media.
 
 ## Licensing
 
@@ -48,13 +48,14 @@ All content is located in the `/content/` folder and are separated into subdivis
 
 ### `/assets/`
 
-All javascript, css, and images. this includes 'gallery' images.
+All javascript, css, and images. this includes any local images.
 
 ### `/data/`
 
 Formatted data (like a database).
 
 * `filmography.json` - acting, writing, self, etc.
+* `history.yml` - the history of FLF
 * `/episodes/*` - All the episodes for the TV shows, with scores, excerpts, and production information.
 
 ### `/posts/`
@@ -84,18 +85,32 @@ All the `*.md` files of pure content.
 * Run `npm install`
 * Run `npm run mod:update`
 
+### Build
+
 To build the site, run `npm run build`
 
-To upgrade the backend site code, run `npm run upgrade` - this is currently locked to _minor releases only_, due to a conflict with some libraries.
+Building the site will create a local copy of the site in your `public_html` folder. The first build may take up to fifteen minutes, as it will download and render all the remote media, storing it in the `resources` folder. Subsequent builds will take less time, as it only downloads new media added in the content. The deployment builds keep a remote copy of that folder to expidite deployment.
+
+### Upgrade
+
+To upgrade the backend site code, run `npm run upgrade`
+
+This will update all the libraries and mods.
 
 ## Development
 
 When the `production` branch is updated, it will automatically push the code to the server.
 
-1. Create a new branch to work on based on `production`.
+1. Create a new branch to work on based on `production`
 2. Test locally: `npm run start`
 3. Validate all MD files: `npm run lint`
 4. Push branch to GitHub
 5. Open a PR to `production`
 
 A lead dev will review and merge.
+
+### Staging / Testing
+
+The staging server can be found at `staging.jorjafox.net` and is password protected.
+
+To push code to staging, run `npm run merge-to-trunk`

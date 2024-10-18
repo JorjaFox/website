@@ -29,6 +29,9 @@ externalLinks:
 includeToc:
   show: true
 
+tocHeader:
+  min: 0
+
 sections:
   as-seen-on:
     title: "As Seen On"
@@ -57,7 +60,7 @@ schema:
 
 modules:
   bs5-lightbox:
-    integration: "optional"
+    integration: "core"
     disableTemplate: false
     state: "async"
   katex:

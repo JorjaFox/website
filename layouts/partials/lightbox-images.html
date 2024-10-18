@@ -1,33 +1,33 @@
 {{- $photogallery := .photogallery -}}
 {{- $title := .title -}}
 
-<!-- Set Defaults -->
+{{- /* Set Defaults */ -}}
 {{- $imageurl := "" -}}
 {{- $imagesrc := "" -}}
 {{- $image    := "" -}}
 
-{{ range $photogallery }}
+{{- range $photogallery -}}
     {{- $imageurl = . -}}
     {{- $imagesrc = . -}}
 
-    <!-- This handles all local images -->
-    {{ with resources.Get $imageurl }}
+    {{- /* This handles all local images */ -}}
+    {{- with resources.Get $imageurl -}}
         {{ $image    = .Fill "250x250" }}
         {{ $imagesrc = $image.RelPermalink }}
-    {{ end }}
+    {{- end -}}
 
-    <!-- If there's no image then this is remote -->
+    {{- /* If there's no image then this is remote */ -}}
     {{ if eq $image "" }}
         {{- $imageurl = . | absURL -}}
         {{- $imagesrc = . | absURL -}}
-        <!--
+        {{- /*
         This sets the download path for the remote images.
         If your image is at example.com/path/to/folder/image.jpg then it will be
         downloaded to /img/path/to/folder/image.jpg.
-        -->
+        */ -}}
         {{ $dir := (urls.Parse $imageurl).Path }}
 
-        <!-- This handles all remote images -->
+        {{- /* This handles all remote images */ -}}
         {{ with resources.GetRemote $imageurl | resources.Copy $dir }}
             {{ with .Err }}
                 {{ warnf "%s" . }}
@@ -38,7 +38,7 @@
                 {{ $imagesrc = $image.RelPermalink }}
             {{ end }}
         {{ end }}
-    {{ end }} <!-- End of not $image -->
+    {{ end }} {{- /* End of not $image */ -}}
 
     {{ if $imagesrc }}
         <div class="col">

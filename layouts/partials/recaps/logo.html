@@ -1,37 +1,37 @@
-{{ $showslug := .Params.showslug }}
-{{ $showname := (index .Site.Data.episodes .Params.showslug).showname }}
-{{ $photogallery := .Params.photogallery }}
-{{ $logo := (index .Site.Data.episodes .Params.showslug).logo }}
+{{- $showslug := .Params.showslug -}}
+{{- $showname := (index .Site.Data.episodes .Params.showslug).showname -}}
+{{- $photogallery := .Params.photogallery -}}
+{{- $logo := (index .Site.Data.episodes .Params.showslug).logo -}}
 
 {{/* If the logo value is empty, use a placeholder image. */}}
-{{ if not ($logo) }}
-    {{ $logo = "/img/placeholder.png" }}
-{{ end }}
+{{- if not ($logo) -}}
+    {{- $logo = "/img/placeholder.png" -}}
+{{- end -}}
 
-{{ $logo_photo := "" }}
-{{ if $photogallery }}
+{{- $logo_photo := "" -}}
+{{- if $photogallery -}}
     {{/* Get a random image from the photogallery array and use it. */}}
-    {{ $logo_photo = .Params.photogallery | shuffle | first 1 }}
-    {{ $logo = (index $logo_photo 0) }}
+    {{- $logo_photo = .Params.photogallery | shuffle | first 1 -}}
+    {{- $logo = (index $logo_photo 0) -}}
 
-    {{ $u := urls.Parse $logo }}
+    {{- $u := urls.Parse $logo -}}
 
-    {{ if $u.IsAbs }}
-        {{ $dir := $u.Path }}
-        {{ $dir  = replace $dir "/gallery/" "/recaps/" }}
+    {{- if $u.IsAbs -}}
+        {{- $dir := $u.Path -}}
+        {{- $dir  = replace $dir "/gallery/" "/recaps/" -}}
 
-        {{ with resources.GetRemote $logo | resources.Copy $dir }}
-            {{ with .Err }}
-                {{ warnf "%s" . }}
-            {{ else }}
-                {{ $image := . }}
-                {{ $image = $image.Fill "250x250" }}
-                {{ $logo = $image.RelPermalink }}
-            {{ end }}
-        {{ end }}
-    {{ end }}
-{{ end }}
+        {{- with resources.GetRemote $logo | resources.Copy $dir -}}
+            {{- with .Err -}}
+                {{- warnf "%s" . -}}
+            {{- else -}}
+                {{- $image := . -}}
+                {{- $image = $image.Fill "250x250" -}}
+                {{- $logo = $image.RelPermalink -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
 
-{{ if $logo_photo }}<a href="#gallery" aria-labelledby="gallery">{{ end }}
+{{- if $logo_photo -}}<a href="#gallery" aria-labelledby="gallery">{{- end -}}
     <img src="{{ $logo }}" class="img-fluid img-lightbox" alt="{{ $showname }}">
-{{ if $logo_photo }}</a>{{ end }}
+{{- if $logo_photo -}}</a>{{- end -}}

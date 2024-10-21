@@ -89,7 +89,7 @@ All the `*.md` files of pure content.
 
 To build the site, run `npm run build`
 
-Building the site will create a local copy of the site in your `public_html` folder. The first build may take up to fifteen minutes, as it will download and render all the remote media, storing it in the `resources` folder. Subsequent builds will take less time, as it only downloads new media added in the content. The deployment builds keep a remote copy of that folder to expidite deployment.
+Building the site will create a local copy of the site in your `public_html` folder. The first build may take up to fifteen minutes, as it will download and render all the remote media, storing it in the `resources` folder. Subsequent builds will take less time, as it only downloads new media added in the content. The deployment builds keep a remote copy of that folder to expedite deployment.
 
 ### Upgrade
 

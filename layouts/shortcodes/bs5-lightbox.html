@@ -1,13 +1,9 @@
-<!--
-    Copyright © 2024 Mika Epstein (Ipstenu)
-    Use of this source code is governed by The MIT License (MIT) that can be found in the LICENSE file.
--->
-{{ $photogallery := $.Page.Params.photogallery }}
-{{ $title := "Photo Gallery" }}
+{{- $photogallery := $.Page.Params.photogallery -}}
+{{- $title := "Photo Gallery" -}}
 
-{{ if .Get "Title" }}
-    {{ $title := .Get "Title" }}
-{{ end }}
+{{ if .Get "Title" -}}
+    {{- $title := .Get "Title" -}}
+{{ end -}}
 <div class="card">
     <div class="card-body">
         <div class="row row-cols-1 row-cols-md-4 g-4">

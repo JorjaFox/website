@@ -3,75 +3,77 @@
 
 {{- $showdata := newScratch -}}
 
-{{ range $.Page.Site.Data.filmography }}
-    {{ if and (eq $showslug .slug) (eq $showtitle .title) }}
-        {{ $showdata.Set "character" .character }}
-        {{ $showdata.Set "year" .dates }}
-        {{ $showdata.Set "chartype" .chartype }}
-        {{ $showdata.Set "rating" .rating }}
-        {{ $showdata.Set "genre" .genre }}
-        {{ $showdata.Set "station" .station }}
-        {{ $showdata.Set "seasons" .seasons }}
-        {{ $showdata.Set "episodes" .episodes }}
-        {{ $showdata.Set "notes" .notes }}
-        {{ $showdata.Set "jorjan" .jorjan }}
-        {{ $showdata.Set "watch" .watch }}
-        {{ $showdata.Set "unverified" .unverified }}
-    {{ end }}
-{{ end }}
+{{- range $.Page.Site.Data.filmography -}}
+    {{- if and (eq $showslug .slug) (eq $showtitle .title) -}}
+        {{- $showdata.Set "character" .character -}}
+        {{- $showdata.Set "year" .dates -}}
+        {{- $showdata.Set "chartype" .chartype -}}
+        {{- $showdata.Set "rating" .rating -}}
+        {{- $showdata.Set "genre" .genre -}}
+        {{- $showdata.Set "station" .station -}}
+        {{- $showdata.Set "seasons" .seasons -}}
+        {{- $showdata.Set "episodes" .episodes -}}
+        {{- $showdata.Set "notes" .notes -}}
+        {{- $showdata.Set "jorjan" .jorjan -}}
+        {{- $showdata.Set "watch" .watch -}}
+        {{- $showdata.Set "unverified" .unverified -}}
+    {{- end -}}
+{{- end -}}
 
-{{ $character := $showdata.Get "character" }}
-{{ $chartype := $showdata.Get "chartype" }}
-{{ $rating := $showdata.Get "rating" }}
-{{ $year := $showdata.Get "year" }}
-{{ $genre := $showdata.Get "genre" }}
-{{ $station := $showdata.Get "station" }}
-{{ $seasons := $showdata.Get "seasons" }}
-{{ $episodes := $showdata.Get "episodes" }}
-{{ $notes := $showdata.Get "notes" }}
-{{ $jorjan := $showdata.Get "jorjan" }}
-{{ $watch := $showdata.Get "watch" }}
-{{ $unverified := $showdata.Get "unverified" }}
-{{ $thumbnail := .Params.actorimage | default "/img/placeholder.png" }}
+{{- $character := $showdata.Get "character" -}}
+{{- $chartype := $showdata.Get "chartype" -}}
+{{- $rating := $showdata.Get "rating" -}}
+{{- $year := $showdata.Get "year" -}}
+{{- $genre := $showdata.Get "genre" -}}
+{{- $station := $showdata.Get "station" -}}
+{{- $seasons := $showdata.Get "seasons" -}}
+{{- $episodes := $showdata.Get "episodes" -}}
+{{- $notes := $showdata.Get "notes" -}}
+{{- $jorjan := $showdata.Get "jorjan" -}}
+{{- $watch := $showdata.Get "watch" -}}
+{{- $unverified := $showdata.Get "unverified" -}}
+{{- $thumbnail := .Params.actorimage | default "/img/placeholder.png" -}}
 
 <!-- Excerpt/Details -->
 
 <div class="text-body-secondary">
-    {{- if $unverified -}}{{- partial "unconfirmed.html" }}{{ end }}
+    {{- if $unverified -}}{{- partial "unconfirmed.html" -}}{{- end -}}
     <div class="card text-bg-light">
         <div class="card-header">
-            <h5 class="card-title text-center">{{ if $character }}{{ $character }}</h5>
-            <h6 class="text-center">{{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}</h6>
+            {{- if $character -}}
+                <h5 class="card-title text-center">{{ $character }}</h5>
+                {{- if $chartype -}}<h6 class="text-center"><small> ({{ $chartype }} character)</small></h6>{{- end -}}
+            {{- end -}}
             {{- if ne $thumbnail "/img/placeholder.jpg" -}}
-                {{ with resources.Get $thumbnail }}
-                    {{ $image := .Fill "250x250" }}
-                    {{ $thumbnail = $image.RelPermalink }}
-                {{ end }}
-            {{ end }}
-            
+                {{- with resources.Get $thumbnail -}}
+                    {{- $image := .Fill "250x250" -}}
+                    {{- $thumbnail = $image.RelPermalink -}}
+                {{- end -}}
+            {{- end -}}
+
             <img src="{{ $thumbnail }}" class="img-thumbnail" alt="{{ $character }}">
 
         </div>
             <ul class="list-group list-group-flush actor-list-group">
-                {{ if $year }}<li class="list-group-item">Airdates: {{ $year }}</li>{{ end }}
-                {{ if $genre }}<li class="list-group-item">Genre: {{ $genre }}</li>{{ end }}
-                {{ if $station }}<li class="list-group-item">Network: {{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{ else }}{{ $station }}{{ end }}</li>{{ end }}
-                {{ if .Params.imdb }}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{ end }}
-                {{ if .Params.episodelist }}<li class="list-group-item">
-                    <a href="/library/recaps/{{ .File.TranslationBaseName }}/">List of Appearances</a>
-                    {{ if or $seasons $episodes}}
+                {{- if $year -}}<li class="list-group-item">Airdates: {{- $year -}}</li>{{- end -}}
+                {{- if $genre -}}<li class="list-group-item">Genre: {{- $genre -}}</li>{{- end -}}
+                {{- if $station -}}<li class="list-group-item">Network: {{- if .Params.website -}}<a href="{{ .Params.website }}" target="_blank">{{- $station -}}</a>{{- else -}}{{- $station -}}{{- end -}}</li>{{- end -}}
+                {{- if .Params.imdb -}}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">IMDb</a></li>{{- end -}}
+                {{- if .Params.episodelist -}}<li class="list-group-item">
+                    <a href="/library/recaps/{{- .File.TranslationBaseName -}}/">List of Appearances</a>
+                    {{- if or $seasons $episodes}}
                         <br /><small>(
-                            {{ if $seasons }}{{$seasons}} season{{ if gt $seasons "1" }}s{{end}}{{ end }}
-                            {{ if $episodes }}{{$episodes}} episode{{ if gt $episodes "1" }}s{{end}}{{ end }}
+                            {{- if $seasons -}}{{ $seasons }} season{{- if gt $seasons "1" -}}s{{- end -}}{{- end -}}
+                            {{- if $episodes -}}{{ $episodes }} episode{{- if gt $episodes "1" -}}s{{- end -}}{{- end -}}
                         )</small>
-                    {{ end }}
-                    {{ if $jorjan }}<br /><small>[Credited as Jorjan Fox]</small>{{ end }}
-                    {{ if $notes }}<br /><small>{{ $notes | safeHTML }}</small>{{ end }}
-                </li>{{ end }}
-                {{ if and ($rating) (ne $rating "fake") }}
-                    {{ .Page.Scratch.Set "goldstar" $rating }}
-                    <li class="list-group-item text-center">{{ partial "rating.html" (dict "rating" $rating ) }}</li>
-                {{ end }}
+                    {{- end -}}
+                    {{- if $jorjan -}}<br /><small>[Credited as Jorjan Fox]</small>{{- end -}}
+                    {{- if $notes -}}<br /><small>{{ $notes | safeHTML }}</small>{{- end -}}
+                </li>{{- end -}}
+                {{- if and ($rating) (ne $rating "fake") -}}
+                    {{- .Page.Scratch.Set "goldstar" $rating -}}
+                    <li class="list-group-item text-center">{{- partial "rating.html" (dict "rating" $rating ) -}}</li>
+                {{- end -}}
             </ul>
     </div>
 </div>

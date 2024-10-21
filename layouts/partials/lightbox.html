@@ -1,74 +1,75 @@
 {{- $title        := .params.title -}}
 {{- $photogallery := .photogallery -}}
 {{- $filmography  := .context.Site.Data.filmography -}}
+{{- $layout := .params.layout -}}
 
-{{ $caption := false }}
+{{- $caption := false -}}
 
-{{ if and (.params.imdb) (.params.slug) }}
-    {{ $showname := $title }}
-    {{ $showslug := .params.slug }}
+{{- if and (.params.imdb) (.params.slug) -}}
+    {{- $showname := $title -}}
+    {{- $showslug := .params.slug -}}
 
     {{- $showdata := newScratch -}}
 
-    {{ $year := $showdata.Get "year" }}
+    {{- $year := $showdata.Get "year" -}}
 
-    {{ range $filmography }}
-        {{ if eq $showslug .slug }}
-            {{ $showdata.Set "year" .dates }}
-            {{ $showdata.Set "station" .station }}
-        {{ end }}
-    {{ end }}
+    {{- range $filmography -}}
+        {{- if eq $showslug .slug -}}
+            {{- $showdata.Set "year" .dates -}}
+            {{- $showdata.Set "station" .station -}}
+        {{- end -}}
+    {{- end -}}
 
-    {{ $station := $showdata.Get "station" }}
+    {{- $station := $showdata.Get "station" -}}
 
-    {{ $year := $showdata.Get "year" }}
+    {{- $year := $showdata.Get "year" -}}
 
-    {{ $caption = printf "%s (%s), '%s'" $station $year $showname }}
-{{ end }}
+    {{- $caption = printf "%s (%s), '%s'" $station $year $showname -}}
+{{- end -}}
 
-{{ if .params.showslug }}
-    {{ $showslug := .params.showslug }}
-    {{ $eptitle  := .params.title }}
+{{- if .params.showslug -}}
+    {{- $showslug := .params.showslug -}}
+    {{- $eptitle  := .params.title -}}
 
-    {{ $showname := (index .context.Site.Data.episodes $showslug).showname }}
-    {{ $network  := (index .context.Site.Data.episodes $showslug).network }}
-    {{ $episodes := (index .context.Site.Data.episodes $showslug).episodes }}
+    {{- $showname := (index .context.Site.Data.episodes $showslug).showname -}}
+    {{- $network  := (index .context.Site.Data.episodes $showslug).network -}}
+    {{- $episodes := (index .context.Site.Data.episodes $showslug).episodes -}}
 
     {{- $epdata := newScratch -}}
 
-    {{ range $episodes }}
-        {{ if eq .title $eptitle }}
-            {{ $epdata.Set "year" .airdate }}
-        {{ end }}
-    {{ end }}
+    {{- range $episodes -}}
+        {{- if eq .title $eptitle -}}
+            {{- $epdata.Set "year" .airdate -}}
+        {{- end -}}
+    {{- end -}}
 
-    {{ $year := $epdata.Get "year" | dateFormat "2006" }}
+    {{- $year := $epdata.Get "year" | dateFormat "2006" -}}
 
-    {{ $caption = printf "%s (%s) - %s from the episode '%s'" $network $year $showname $eptitle }}
-{{ end }}
+    {{- $caption = printf "%s (%s) - %s from the episode '%s'" $network $year $showname $eptitle -}}
+{{- end -}}
 
 <h2 id="gallery" class="heading">
     Gallery
-    <a href="#gallery" aria-labelledby="gallery">{{ partial "assets/icon.html" (dict "icon" "fas link anchor") }}</a>
+    <a href="#gallery" aria-labelledby="gallery">{{- partial "assets/icon.html" (dict "icon" "fas link anchor") -}}</a>
 </h2>
 
-{{ if ne $caption false }}
-    <!-- NOTICE! THE FOLLOWING IMAGES ARE COPYRIGHT {{ $caption }}. FANS OF LEFOX MAKES NO CLAIM TO ANY OWNERSHIP. THEY ARE REPRODUCED HERE FOR INFORMATIONAL PURPOSES ONLY. -->
-{{ end }}
+{{- if ne $caption false -}}
+    <!-- NOTICE! THE FOLLOWING IMAGES ARE COPYRIGHT {{- $caption -}}. FANS OF LEFOX MAKES NO CLAIM TO ANY OWNERSHIP. THEY ARE REPRODUCED HERE FOR INFORMATIONAL PURPOSES ONLY. -->
+{{- end -}}
 
 <div class="card">
     <div class="card-body">
         <div class="row row-cols-1 row-cols-md-3 g-4 lightbox-gallery">
-            {{- partial "partials/lightbox-images" (dict "photogallery" $photogallery "title" $title) -}}
+            {{- partial "partials/lightbox-images" (dict "photogallery" $photogallery "title" $title "layout" $layout) -}}
         </div>
     </div> <!-- end card.body -->
-    {{ if ne $caption false }}
+    {{- if ne $caption false -}}
         <div class="card-footer text-body-secondary">
-            Images &copy; {{ $caption }}.
+            Images &copy; {{- $caption -}}.
         </div>
-    {{ end }}
+    {{- end -}}
 </div>
 
-{{ if ne $caption false }}
-    <!-- NOTICE! THE PREVIOUS IMAGES ARE COPYRIGHT {{ $caption }}. FANS OF LEFOX MAKES NO CLAIM TO ANY OWNERSHIP. THEY ARE REPRODUCED HERE FOR INFORMATIONAL PURPOSES ONLY. -->
-{{ end }}
+{{- if ne $caption false -}}
+    <!-- NOTICE! THE PREVIOUS IMAGES ARE COPYRIGHT {{- $caption -}}. FANS OF LEFOX MAKES NO CLAIM TO ANY OWNERSHIP. THEY ARE REPRODUCED HERE FOR INFORMATIONAL PURPOSES ONLY. -->
+{{- end -}}

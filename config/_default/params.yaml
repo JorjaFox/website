@@ -29,6 +29,9 @@ externalLinks:
 includeToc:
   show: true
 
+tocHeader:
+  min: 0
+
 sections:
   as-seen-on:
     title: "As Seen On"

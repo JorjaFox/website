@@ -1,24 +1,24 @@
-{{ $rating := "na" }}
+{{- $rating := "na" -}}
 
-{{ if .Params.rating }}
-    {{ $rating = .Params.rating}}
-{{ else if .rating }}
-    {{ $rating = .rating }}
-{{ end }}
+{{- if .Params.rating -}}
+    {{- $rating = .Params.rating}}
+{{- else if .rating -}}
+    {{- $rating = .rating -}}
+{{- end -}}
 
-{{ $grade := print $rating "-gold" }}
+{{- $grade := print $rating "-gold" -}}
 
-{{ if eq $rating "na" }}
-    {{ $grade = "red" }}
-{{ end }}
+{{- if eq $rating "na" -}}
+    {{- $grade = "red" -}}
+{{- end -}}
 
-<a href="/faq/grading/#{{ $grade }}-stars" alt="Star Rating: {{ $rating }}">
-    {{ if eq $rating "na" }}
-        <span class="star-rating" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - Has not been watched yet">{{ $star := 0 }}{{ range $star, $seqstar := ( seq 5 ) }}<span class="star-rating text-danger" title="Unrated">{{ partial "assets/icon.html" (dict "icon" "fas star" "spacing" false) }}</span>{{ end }}
+<a href="/faq/grading/#{{- $grade -}}-stars" alt="Star Rating: {{- $rating -}}">
+    {{- if eq $rating "na" -}}
+        <span class="star-rating" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - Has not been watched yet">{{- $star := 0 -}}{{- range $star, $seqstar := ( seq 5 ) -}}<span class="star-rating text-danger" title="Unrated">{{- partial "assets/icon.html" (dict "icon" "fas star" "spacing" false) -}}</span>{{- end -}}
     </span>
-    {{ else }}
-        {{ $goldstars := (float $rating) }}
-        {{ $greyrate := sub 5 $goldstars }}
-        <span data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - {{ $rating }} stars out of 5">{{ range ( seq $rating ) }}<span class="star-rating text-warning" title="Gold Star">{{ partial "assets/icon.html" (dict "icon" "fas star" "spacing" false) }}</span>{{ end }}{{ range $stargrey, $seqgrey := ( seq $greyrate ) }}<span class="star-rating text-secondary" title="No Star">{{ partial "assets/icon.html" (dict "icon" "fas star" "spacing" false) }}</span>{{ end }}</span>
-    {{ end }}
+    {{- else -}}
+        {{- $goldstars := (float $rating) -}}
+        {{- $greyrate := sub 5 $goldstars -}}
+        <span data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - {{ $rating }} stars out of 5">{{- range ( seq $rating ) -}}<span class="star-rating text-warning" title="Gold Star">{{- partial "assets/icon.html" (dict "icon" "fas star" "spacing" false) -}}</span>{{- end -}}{{- range $stargrey, $seqgrey := ( seq $greyrate ) -}}<span class="star-rating text-secondary" title="No Star">{{- partial "assets/icon.html" (dict "icon" "fas star" "spacing" false) -}}</span>{{- end -}}</span>
+    {{- end -}}
 </a>

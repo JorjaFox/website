@@ -25,16 +25,16 @@
             <input type="hidden" name="req_address2" value="1" input name="email" />
         </div>
 
-        {{ if eq $display "unsubscribe" }}
+        {{- if eq $display "unsubscribe" -}}
             <!-- Optional Unsubscribe Button -->
             <div class="button">
                 <input type="submit" name="unsub" class="btn btn-primary" value="Remove me from the list">
             </div>
-        {{ else }}
+        {{- else -}}
             <div class="button">
                 <input type="submit" name="submit" class="btn btn-primary" value="Join the list">
             </div>
-        {{ end }}
+        {{- end -}}
         </form>
     </div>
 </div>

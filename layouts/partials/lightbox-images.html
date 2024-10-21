@@ -1,0 +1,52 @@
+{{- $photogallery := .photogallery -}}
+{{- $title := .title -}}
+{{- $layout := .layout -}}
+
+{{- /* Set Defaults */ -}}
+{{- $imageurl := "" -}}
+{{- $imagesrc := "" -}}
+{{- $image    := "" -}}
+
+{{- range $photogallery -}}
+    {{- $imageurl = . | absURL -}}
+    {{- $imagesrc = . | absURL -}}
+
+    {{- /* This handles all local images */ -}}
+    {{- with resources.Get $imageurl -}}
+        {{- $image    = .Fill "250x250" -}}
+        {{- $imagesrc = $image.RelPermalink -}}
+    {{- end -}}
+
+    {{- /*
+    This sets the download path for the remote images.
+    If your image is at example.com/path/to/folder/image.jpg then it will be
+    downloaded to /img/path/to/folder/image.jpg.
+    */ -}}
+    {{- $dir := (urls.Parse $imageurl).Path -}}
+
+    {{- if ne $layout nil -}}
+        {{- $dir = replace $dir "/gallery/" ( printf "/%s/" $layout ) -}}
+    {{- end -}}
+
+    {{- /* This handles all remote images */ -}}
+    {{- with resources.GetRemote $imageurl | resources.Copy $dir -}}
+        {{- with .Err -}}
+            {{- warnf "%s" . -}}
+        {{- else -}}
+            {{- $image    = . -}}
+            {{- $imageurl = $image.Permalink -}}
+            {{- $image    = $image.Fill "250x250" -}}
+            {{- $imagesrc = $image.RelPermalink -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{- if $imagesrc -}}
+        <div class="col">
+            <div class="card">
+                <div class="mx-auto">
+                    <img src="{{ $imagesrc }}" class="img-fluid img-lightbox" alt="{{ $title }}" data-toggle="lightbox" data-gallery="gallery" data-src="{{ $imageurl }}">
+                </div>
+            </div>
+        </div>
+    {{- end -}}
+{{- end -}}

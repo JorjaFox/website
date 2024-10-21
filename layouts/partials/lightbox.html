@@ -1,6 +1,7 @@
 {{- $title        := .params.title -}}
 {{- $photogallery := .photogallery -}}
 {{- $filmography  := .context.Site.Data.filmography -}}
+{{- $layout := .params.layout -}}
 
 {{- $caption := false -}}
 
@@ -59,7 +60,7 @@
 <div class="card">
     <div class="card-body">
         <div class="row row-cols-1 row-cols-md-3 g-4 lightbox-gallery">
-            {{- partial "partials/lightbox-images" (dict "photogallery" $photogallery "title" $title) -}}
+            {{- partial "partials/lightbox-images" (dict "photogallery" $photogallery "title" $title "layout" $layout) -}}
         </div>
     </div> <!-- end card.body -->
     {{- if ne $caption false -}}

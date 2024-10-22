@@ -3,8 +3,12 @@ title: "Funhouse"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/06-funhouse/117717_2095b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/06-funhouse/117717_2455b.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/06-funhouse/117717_2583b.jpg"
 ---
 
 ## Synopsis

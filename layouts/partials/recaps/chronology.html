@@ -1,52 +1,52 @@
-{{ $showslug := .Params.showslug }}
-{{ $showname := .Params.showname }}
-{{ $eptitle  := .Title }}
-{{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
-{{ $ep_array := slice }}
-{{ $i        := 0 }}
-{{ $this_ep  := 0 }}
+{{- $showslug := .Params.showslug -}}
+{{- $showname := .Params.showname -}}
+{{- $eptitle  := .Title -}}
+{{- $episodes := (index .Site.Data.episodes .Params.showslug).episodes -}}
+{{- $ep_array := slice -}}
+{{- $i        := 0 -}}
+{{- $this_ep  := 0 -}}
 
-{{ $season := 1 }}
+{{- $season := 1 -}}
 
-{{ range $episodes }}
-    {{ $ep_array = $ep_array | append .title }}
-    {{ if eq .title $eptitle }}
-        {{ $this_ep = $i }}
-        {{ $season = .season }}
-    {{ end }}
-    {{ $i = (add $i 1) }}
-{{ end }}
+{{- range $episodes -}}
+    {{- $ep_array = $ep_array | append .title -}}
+    {{- if eq .title $eptitle -}}
+        {{- $this_ep = $i -}}
+        {{- $season = .season -}}
+    {{- end -}}
+    {{- $i = (add $i 1) -}}
+{{- end -}}
 
-{{ if or ($this_ep) (eq $this_ep 0) }}
+{{- if or ($this_ep) (eq $this_ep 0) -}}
     <h6>Episode Chronology</h6>
-    {{ if ge $i $this_ep }}
+    {{- if ge $i $this_ep -}}
         <ul class="list-group list-group-flush borderless">
-        {{ if ne $this_ep 0 }}
+        {{- if ne $this_ep 0 -}}
             <!-- Previous Episode (ep 0 has no previous )-->
-            {{ $previousep := (sub $this_ep 1) }}
-            {{ $prev_name := index ($ep_array) $previousep }}
-            {{ range $episodes }}
-                {{ if eq $prev_name .title }}
+            {{- $previousep := (sub $this_ep 1) -}}
+            {{- $prev_name := index ($ep_array) $previousep -}}
+            {{- range $episodes -}}
+                {{- if eq $prev_name .title -}}
                     <li class="list-group-item flex-fill borderless text-start">
-                        {{ partial "assets/icon.html" (dict "icon" "fas arrow-left") }}
+                        {{- partial "assets/icon.html" (dict "icon" "fas arrow-left") -}}
                         <a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $prev_name }}</a></li>
-                {{ end }}
-            {{ end }}
-        {{ end }}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
 
-        {{ if ge $i $this_ep  }}
-            {{ $nextep     := (add $this_ep 1) }}
-            {{ $next_name  := index ($ep_array) $nextep }}
-            {{ range $episodes }}
-                {{ if eq $next_name .title }}
+        {{- if ge $i $this_ep -}}
+            {{- $nextep     := (add $this_ep 1) -}}
+            {{- $next_name  := index ($ep_array) $nextep -}}
+            {{- range $episodes -}}
+                {{- if eq $next_name .title -}}
                     <li class="list-group-item flex-fill borderless text-end">
                         <a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $next_name }}</a>
-                        {{ partial "assets/icon.html" (dict "icon" "fas arrow-right") }}
+                        {{- partial "assets/icon.html" (dict "icon" "fas arrow-right") -}}
                     </li>
-                {{ end }}
-            {{ end }}
-        {{ end }}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
         </ul>
-    {{ end }}
-    <p class="text-body-secondary text-center"><small><a href="/library/recaps/{{ $showslug }}/#season-{{ $season }}">List of episodes</a></small></p>
-{{ end }}
+    {{- end -}}
+    <p class="text-body-secondary text-center"><small><a href="/library/recaps/{{ $showslug }}/#season-{{ $season }}">{{- partial "assets/icon.html" (dict "icon" "fas list text-success") -}} List of episodes</a></small></p>
+{{- end -}}

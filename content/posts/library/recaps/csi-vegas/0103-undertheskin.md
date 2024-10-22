@@ -3,8 +3,11 @@ title: "Under the Skin"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
-tags: ["CSI Vegas"]
 showslug: csi-vegas
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/03-undertheskin/01051604_GilandSarahinlab.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/03-undertheskin/01164510_FolsomRajanandSarahinvideo.jpg"
 ---
 
 ## Synopsis

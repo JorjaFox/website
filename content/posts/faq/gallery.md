@@ -4,7 +4,7 @@ layout: library
 ---
 
 {{< alert color="danger" icon="fas fa-face-sad-tear" >}}
-    **Last Updated: 7 Aug 2024** -- TL;DR? We had to remove the gallery to prevent legal action.
+    **Last Updated: 8 Oct 2024** -- TL;DR? We had to remove the gallery to prevent legal action.
 {{< /alert >}}
 
 Hello! We bet you're here looking for that old, multi-gigabyte, gallery or the random videos we had saved.
@@ -15,4 +15,4 @@ It breaks our hearts to have had to remove it, and Mika fought a valiant battle,
 
 The videos were even more clearly not okay. We tried with smaller clips, but the end was a no-go.
 
-As of 2024, Mika has been tirelessly working on slowly importing publicity galleries to all the recaps she can, and will go from there. But it's going to be a long haul. Don't panic, though! Everything is saved and we have good backups, but it's not going to be as it was.
+Starting in 2024, we have been slowly importing publicity galleries for movies and TV shows. But it's going to be a long haul. Don't panic, though! Everything is saved and we have good backups, but it's not going to be as it was.

@@ -3,15 +3,14 @@ title: Calling Dr. Hathaway
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/er/:title/
-tags: ["ER"]
-station: NBC
 showname: "E.R."
 showslug: er
-season : Three
-epnum: Nineteen
-prodnum: 465419
+station: NBC
 date: 1997-04-24
-rating: 3
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/er/3x19-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/er/3x19-002.jpg"
 ---
 
 ## Summary

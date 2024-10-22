@@ -47,9 +47,13 @@ Studio Fan Mail \
 1048 Irvine Ave #624 \
 Newport Beach, CA 92660
 
+While there are other addresses out there, this is the most reliable.
+
 ### How do I get an autographed picture of her?
 
-Send a letter to the above address. It may take a long time to get a reply, as all her fan mail is checked before it gets to her.
+Send a letter to the above address. We recommend including a self-addressed, stamped, envelope with your address so they can just put the photo in and drop it in the mail. If you're outside the US, that would be a little more complicated, but it's still your best bet.
+
+Be aware, it may take a long time to get a reply, as all her fan mail is checked before it gets to her.
 
 ### Will you forward my email too her?
 
@@ -84,11 +88,15 @@ No. Regardless of what you read online elsewhere and hear in rumors, she is not,
 
 ### Does Jorja have any children?
 
-Jorja has no children, but she has cats and dogs.
+Jorja has no children, but she has had cats and dogs.
+
+### What pets does she have?
+
+She had two cats and a dog (Ali (dog, female, Boxer), Rumplestiltskin (cat), and Sid Poitier (cat, male, formerly named Sid Vicious)), all of whom have passed away of old age. In 2012, she adopted a new dog: Bexar County Rodeo Princess.
 
 ### Is she a smoker?
 
-Yes and no. She has smoked, and has tried to quit many times. As of February 2010, she still smoked.
+Yes and no. She has smoked, and has tried to quit many times.
 
 ### Is she a vegetarian?
 
@@ -111,10 +119,6 @@ A temporary/henna tattoo was spotted on "The Early Show" for April 28, 2006. On 
 ### Does she have any piercings?
 
 Jorja has pierced ears.
-
-### What pets does she have?
-
-She had two cats and a dog (Ali (dog, female, Boxer), Rumplestiltskin (cat), and Sid Poitier (cat, male, formerly named Sid Vicious)), all of whom have passed away of old age. In 2012, she adopted a new dog: Bexar County Rodeo Princess.
 
 ### What kind of music does Jorja like?
 

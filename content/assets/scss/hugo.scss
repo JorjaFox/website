@@ -75,8 +75,20 @@ nav#NewsListOfYears ul, nav#TranscriptsListOfYears ul {
 /* Personas */
 
 #nav-as-seen-on {
-    h2, h3 {
+    h2, h3, button {
         font-style: italic;
+    }
+
+    button:hover {
+        background: beige;
+        color: var(--bs-primary);
+    }
+
+    .active:hover {
+        .bg-primary {
+            background: var(--bs-secondary)!important;
+            color: white;
+        }
     }
 }
 

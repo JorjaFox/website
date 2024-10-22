@@ -44,7 +44,7 @@ jobs:
         run: rsync -rlgoDzvc -i ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/home/${{ secrets.REMOTE_USER }}/${{ secrets.HUGO_RESOURCES_URL }}/ resources/
 
       - name: Build site
-        run: npm run build
+        run: npm run build:staging
 
       - name: Delete Extra Folder
         run: rm -rf public/404/

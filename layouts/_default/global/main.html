@@ -1,9 +1,9 @@
-{{ $photogallery  := .Params.photogallery }}
-{{ $modules  := .Params.modules }}
+{{- $photogallery  := .Params.photogallery -}}
+{{- $modules  := .Params.modules -}}
 
-{{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) }}
+{{- partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) -}}
 
-{{ if and $modules $photogallery }}
+{{- if and $modules $photogallery -}}
     {{- partial "partials/lightbox" (dict "page" .Page "params" .Params "context" . "photogallery" $photogallery) -}}
     {{- partial "footer/disclaimer.html" . -}}
-{{ end }}
+{{- end -}}

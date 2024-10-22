@@ -34,7 +34,7 @@
             {{- warnf "%s" . -}}
         {{- else -}}
             {{- $image    = . -}}
-            {{- $imageurl = $image.Permalink -}}
+            {{- $imageurl = $image.RelPermalink -}}
             {{- $image    = $image.Fill "250x250" -}}
             {{- $imagesrc = $image.RelPermalink -}}
         {{- end -}}
@@ -42,8 +42,8 @@
 
     {{- if $imagesrc -}}
         <div class="col">
-            <div class="card">
-                <div class="mx-auto">
+            <div class="card shadow card-zoom">
+                <div class="mx-auto card-img-wrap">
                     <img src="{{ $imagesrc }}" class="img-fluid img-lightbox" alt="{{ $title }}" data-toggle="lightbox" data-gallery="gallery" data-src="{{ $imageurl }}">
                 </div>
             </div>

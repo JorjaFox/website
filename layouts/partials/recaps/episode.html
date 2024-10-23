@@ -7,11 +7,11 @@
 {{- range $episodes -}}
     {{- if eq .title $eptitle -}}
         <ul class="list-group list-group-flush">
-            <li class="list-group-item"><a href="/library/recaps/{{ $showslug }}/#season-{{ .season }}">{{- partial "assets/icon.html" (dict "icon" "fas tv text-success") -}} Season {{ .season }}</a></li>
-            <li class="list-group-item">{{- partial "assets/icon.html" (dict "icon" "fas hashtag") -}} Episode {{ .epnum }}{{- if .prodnum}} ({{ .prodnum }}){{- end -}}</li>
-            <li class="list-group-item">{{- partial "assets/icon.html" (dict "icon" "fa calendar-days") -}} {{ dateFormat "02 January 2006" .airdate }}</li>
+            <li class="list-group-item list-group-item-light"><a href="/library/recaps/{{ $showslug }}/#season-{{ .season }}">{{- partial "assets/icon.html" (dict "icon" "fas tv text-success") -}} Season {{ .season }}</a></li>
+            <li class="list-group-item list-group-item-light">{{- partial "assets/icon.html" (dict "icon" "fas hashtag") -}} Episode {{ .epnum }}{{- if .prodnum}} ({{ .prodnum }}){{- end -}}</li>
+            <li class="list-group-item list-group-item-light">{{- partial "assets/icon.html" (dict "icon" "fa calendar-days") -}} {{ dateFormat "02 January 2006" .airdate }}</li>
             {{- if $photogallery -}}
-                <li class="list-group-item"><a href="#gallery" aria-labelledby="gallery">{{- partial "assets/icon.html" (dict "icon" "fa images text-success") -}} Gallery</a></li>
+                <li class="list-group-item list-group-item-light"><a href="#gallery" aria-labelledby="gallery">{{- partial "assets/icon.html" (dict "icon" "fa images text-success") -}} Gallery</a></li>
             {{- end -}}
         </ul>
     {{- end -}}

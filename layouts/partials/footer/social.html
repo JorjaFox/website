@@ -1,22 +1,35 @@
-{{- $version := partial "assets/version.html" . -}}
-{{- $license := .Site.Params.footer.license | safeHTML -}}
-{{- $description := .Site.Params.main.description | safeHTML -}}
-{{- $title := site.Title -}}
-{{- $baseurl := urls.Parse $.Site.Params.Baseurl -}}
+{{ if .Site.Params.footer.socialTitle }}
+    {{ warnf "DEPRECATED: parameter `Params.home.socialTitle` has been deprecated in release v0.18"}}
+{{ end }}
+{{ if .Site.Params.footer.socialCaption }}
+    {{ warnf "DEPRECATED: parameter `Params.home.socialCaption` has been deprecated in release v0.18"}}
+{{ end }}
 
 {{- $page := . -}}
 {{- if not $page -}}
     {{- errorf "partial [footer/footer.html] - Missing value for param 'page'" -}}
 {{- end -}}
 
-<footer class="container-fluid footer p-0 border-top bg-primary bg-opacity-{{ .Site.Params.style.themeOpacity | default "25" | safeHTML }}">
+<div class="container-fluid bg-primary bg-opacity-{{ .Site.Params.style.themeOpacity | default "25" | safeHTML }}">
     <div class="container-xxl px-3 px-xxl-0 py-5">
         <div class="row">
             <div class="col-md-4 small">
                 <div class="text-sm-start">
                     <p><em>Fans of LeFox</em> is a fan run website with the goal of sharing information about actress, advocate, and humanitarian, Jorja Fox.</p>
-                    <div class="fs-md-5 fs-6 fw-bold footer-muted">Follow Jorja Fox</div>
-                    {{ range .Site.Menus.social -}}
+                    {{- range .Site.Menus.footer -}}
+                        <div class="fs-md-5 fs-6 fw-bold footer-muted">{{ .Name }}</div>
+                        {{- range .Children -}}
+                            <div class="py-1">
+                                {{- partial "assets/navbar-item.html" (dict "menu" . "page" $page "class" "link-bg-footer") -}}
+                            </div>
+                        {{- end -}}
+                    {{- end -}}
+                </div>
+            </div>
+            <div class="col-md-4 small">
+                <div class="fs-md-5 fs-6 fw-bold footer-muted">Follow Jorja Fox</div>
+                <div class="d-none-dark">
+                    {{- range .Site.Menus.social -}}
                         <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .Name | safeHTML }}" class="text-decoration-none link-secondary d-inline p-2">
                             {{ if hasPrefix .Pre "<i" }}
                                 {{ .Pre | safeHTML }}
@@ -24,25 +37,26 @@
                                 {{ partial "assets/icon.html" (dict "icon" (printf "%s fa-2x" .Pre) )}}
                             {{ end }}
                         </a>
-                    {{ end -}}
+                    {{- end -}}
+                </div>
+                <div class="d-none-light">
+                    {{- range .Site.Menus.social -}}
+                        <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .Name | safeHTML }}" class="text-decoration-none link-light d-inline p-2">
+                            {{ if hasPrefix .Pre "<i" }}
+                                {{ .Pre | safeHTML }}
+                            {{ else }}
+                                {{ partial "assets/icon.html" (dict "icon" (printf "%s fa-2x" .Pre) )}}
+                            {{ end }}
+                        </a>
+                    {{- end -}}
                 </div>
             </div>
             <div class="col-md-4 small">
-                {{ range .Site.Menus.footer -}}
-                    <div class="fs-md-5 fs-6 fw-bold footer-muted">{{ .Name }}</div>
-                    {{- range .Children -}}
-                        <div class="py-1">
-                            {{- partial "assets/navbar-item.html" (dict "menu" . "page" $page "class" "link-bg-footer") -}}
-                        </div>
-                    {{- end -}}
-                {{- end -}}
-            </div>
-            <div class="col-md-4 small">
-                {{ partial "mailinglist.html" (dict "headermsg" "Join the Fans of LeFox Announcement List" "listname" "announcements" "display" "main") }}
+                {{- partial "mailinglist.html" (dict "headermsg" "Join the Fans of LeFox Announcement List" "listname" "announcements" "display" "main") -}}
             </div>
         </div>
     </div>
-</footer>
+</div>
 
 <!--
 Fans of LeFox © 1996 by Mika A. Epstein.

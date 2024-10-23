@@ -1,5 +1,4 @@
 /* Stars */
-
 .rating {
     display: inline-flex;
 }
@@ -73,7 +72,6 @@ nav#NewsListOfYears ul, nav#TranscriptsListOfYears ul {
 }
 
 /* Personas */
-
 #nav-as-seen-on {
     h2, h3, button {
         font-style: italic;
@@ -95,4 +93,9 @@ nav#NewsListOfYears ul, nav#TranscriptsListOfYears ul {
 /* Blockquote */
 figcaption.blockquote-footer {
     margin-top: 10px;
+}
+
+/* Cards */
+h5.card-header {
+    margin-top: 0!important;
 }

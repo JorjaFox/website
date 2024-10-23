@@ -27,7 +27,7 @@
             {{- $prev_name := index ($ep_array) $previousep -}}
             {{- range $episodes -}}
                 {{- if eq $prev_name .title -}}
-                    <li class="list-group-item flex-fill borderless text-start">
+                    <li class="list-group-item flex-fill borderless text-start list-group-item-light">
                         {{- partial "assets/icon.html" (dict "icon" "fas arrow-left") -}}
                         <a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $prev_name }}</a></li>
                 {{- end -}}
@@ -39,7 +39,7 @@
             {{- $next_name  := index ($ep_array) $nextep -}}
             {{- range $episodes -}}
                 {{- if eq $next_name .title -}}
-                    <li class="list-group-item flex-fill borderless text-end">
+                    <li class="list-group-item flex-fill borderless text-end list-group-item-light">
                         <a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $next_name }}</a>
                         {{- partial "assets/icon.html" (dict "icon" "fas arrow-right") -}}
                     </li>

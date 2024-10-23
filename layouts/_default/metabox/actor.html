@@ -37,10 +37,10 @@
 <!-- Excerpt/Details -->
 <div class="text-body-secondary">
     {{- if $unverified -}}{{- partial "unconfirmed.html" -}}{{- end -}}
-    <div class="card text-bg-light">
+    <div class="card bg-light-subtle">
         <div class="card-header">
             {{- if $character -}}
-                <h5 class="card-title text-center">{{ $character }}</h5>
+                <h4 class="card-title text-center">{{ $character }}</h4>
                 {{- if $chartype -}}<h6 class="text-center"><small> ({{ $chartype }} character)</small></h6>{{- end -}}
             {{- end -}}
             {{- if ne $thumbnail "/img/placeholder.jpg" -}}
@@ -52,11 +52,11 @@
             <center><img src="{{ $thumbnail }}" class="img-thumbnail" alt="{{ $character }}"></center>
         </div>
             <ul class="list-group list-group-flush actor-list-group">
-                {{- if $year -}}<li class="list-group-item">{{- partial "assets/icon.html" (dict "icon" "fas calendar-day") -}} <strong>Airdates:</strong> {{ $year }}</li>{{- end -}}
-                {{- if $genre -}}<li class="list-group-item">{{- partial "assets/icon.html" (dict "icon" "fas masks-theater") -}} <strong>Genre:</strong> {{ $genre }}</li>{{- end -}}
-                {{- if $station -}}<li class="list-group-item">{{- partial "assets/icon.html" (dict "icon" "fas tv") -}} <strong>Network:</strong> {{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{- else -}}{{ $station }}{{ end }}</li>{{- end -}}
-                {{- if .Params.imdb -}}<li class="list-group-item"><a href="{{ .Params.imdb }}" target="_blank">{{- partial "assets/icon.html" (dict "icon" "fab imdb") -}} IMDb</a></li>{{- end -}}
-                {{- if .Params.episodelist -}}<li class="list-group-item">
+                {{- if $year -}}<li class="list-group-item list-group-item-light">{{- partial "assets/icon.html" (dict "icon" "fas calendar-day") -}} <strong>Airdates:</strong> {{ $year }}</li>{{- end -}}
+                {{- if $genre -}}<li class="list-group-item list-group-item-light">{{- partial "assets/icon.html" (dict "icon" "fas masks-theater") -}} <strong>Genre:</strong> {{ $genre }}</li>{{- end -}}
+                {{- if $station -}}<li class="list-group-item list-group-item-light">{{- partial "assets/icon.html" (dict "icon" "fas tv") -}} <strong>Network:</strong> {{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">{{ $station }}</a>{{- else -}}{{ $station }}{{ end }}</li>{{- end -}}
+                {{- if .Params.imdb -}}<li class="list-group-item list-group-item-light"><a href="{{ .Params.imdb }}" target="_blank">{{- partial "assets/icon.html" (dict "icon" "fab imdb") -}} IMDb</a></li>{{- end -}}
+                {{- if .Params.episodelist -}}<li class="list-group-item list-group-item-light">
                     <a href="/library/recaps/{{- .File.TranslationBaseName -}}/">{{- partial "assets/icon.html" (dict "icon" "fas table-list") -}} List of Appearances</a>
                     {{- if or $seasons $episodes}}
                         <br /><small>(
@@ -69,7 +69,7 @@
                 </li>{{- end -}}
                 {{- if and ($rating) (ne $rating "fake") -}}
                     {{- .Page.Scratch.Set "goldstar" $rating -}}
-                    <li class="list-group-item text-center">{{- partial "rating.html" (dict "rating" $rating ) -}}</li>
+                    <li class="list-group-item text-center list-group-item-light">{{- partial "rating.html" (dict "rating" $rating ) -}}</li>
                 {{- end -}}
             </ul>
     </div>

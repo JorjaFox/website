@@ -2,30 +2,14 @@
 
 <!-- Badges -->
 <p align="center">
-    <a href="https://gohugo.io">
-        <img src="https://img.shields.io/badge/generator-hugo-brightgreen" alt="Hugo website">
-    </a>
-    <a href="https://gethinode.com">
-        <img src="https://img.shields.io/badge/theme-hinode-blue" alt="Hinode theme">
-    </a>
-    <a href="https://www.npmjs.com/package/%40gethinode/hinode">
-        <img src="https://img.shields.io/npm/v/%40gethinode/hinode" alt="npm package">
-    </a>
-    <a href="https://jorjafox.net/">
-        <img src="https://img.shields.io/uptimerobot/status/m789264262-eff8de1bc574272c71ccbdb9" alt="UptimeRobot Status">
-    </a>
-    <a href="https://github.com/JorjaFox/website/commits/main">
-        <img src="https://img.shields.io/github/last-commit/JorjaFox/website.svg" alt="Last commit">
-    </a>
-    <a href="https://github.com/JorjaFox/website/issues">
-        <img src="https://img.shields.io/github/issues/JorjaFox/website.svg" alt="Issues">
-    </a>
-    <a href="https://github.com/JorjaFox/website/pulls">
-        <img src="https://img.shields.io/github/issues-pr-raw/JorjaFox/website.svg" alt="Pulls">
-    </a>
-    <a href="https://github.com/JorjaFox/website/blob/production/LICENSE">
-        <img src="https://img.shields.io/github/license/JorjaFox/website" alt="License">
-    </a>
+    <a href="https://gohugo.io"><img src="https://img.shields.io/badge/generator-hugo-brightgreen" alt="Hugo website"></a>
+    <a href="https://gethinode.com"><img src="https://img.shields.io/badge/theme-hinode-blue" alt="Hinode theme"></a>
+    <a href="https://www.npmjs.com/package/%40gethinode/hinode"><img src="https://img.shields.io/npm/v/%40gethinode/hinode" alt="npm package"></a>
+    <a href="https://jorjafox.net/"><img src="https://img.shields.io/uptimerobot/status/m789264262-eff8de1bc574272c71ccbdb9" alt="UptimeRobot Status"></a>
+    <a href="https://github.com/JorjaFox/website/commits/main"><img src="https://img.shields.io/github/last-commit/JorjaFox/website.svg" alt="Last commit"></a>
+    <a href="https://github.com/JorjaFox/website/issues"><img src="https://img.shields.io/github/issues/JorjaFox/website.svg" alt="Issues"></a>
+    <a href="https://github.com/JorjaFox/website/pulls"><img src="https://img.shields.io/github/issues-pr-raw/JorjaFox/website.svg" alt="Pulls"></a>
+    <a href="https://github.com/JorjaFox/website/blob/production/LICENSE"><img src="https://img.shields.io/github/license/JorjaFox/website" alt="License"></a>
 </p>
 
 This is the repository for the website [Fans of LeFox](https://jorjafox.net). It houses both all of the code and all the content except large form media.

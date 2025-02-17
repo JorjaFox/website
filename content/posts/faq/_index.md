@@ -30,7 +30,7 @@ Newport Beach, CA 92660
 ### What's Jorja's Social Media?
 
 * [Facebook](https://www.facebook.com/JorjaFoxworldwide)
-* [Twitter](https://twitter.com/jorjafoxofficia)
+* [X/Twitter](https://x.com/jorjafoxofficia)
 
 ### Can you get me in touch with Jorja?
 

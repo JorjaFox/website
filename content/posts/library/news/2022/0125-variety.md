@@ -26,4 +26,4 @@ See Fox’s thread below.
 
 CBS did not immediately respond to Variety’s request for comment on Fox’s exit.
 
-{{< tweet user="JorjaFoxofficia" id="1486014897947385857" >}}
+{{< x user="JorjaFoxofficia" id="1486014897947385857" >}}

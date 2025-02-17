@@ -55,11 +55,15 @@ social:
   url: https://jorjafox.com/
   pre: "fas house-chimney-user"
   weight: 10
-- name: X/Twitter
-  url: https://twitter.com/jorjafoxofficia/
-  pre: "fab x-twitter"
+- name: BlueSky
+  url: https://bsky.app/profile/jorjafox.bsky.social
+  pre: "fab bluesky"
   weight: 20
 - name: Facebook
   url: https://www.facebook.com/JorjaFoxworldwide/
   pre: "fab facebook"
   weight: 30
+- name: X/Twitter
+  url: https://x.com/jorjafoxofficia/
+  pre: "fab x-twitter"
+  weight: 40

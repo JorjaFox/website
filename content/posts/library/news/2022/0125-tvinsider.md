@@ -14,7 +14,7 @@ Gil Grissom (William Petersen) and Sara Sidle (Jorja Fox) got their happy ending
 
 “Hey all you #CSI fans! After much deliberating, I have decided not to ‘Sidle up’ for _CSI Vegas_. For me _CSI_ has always been a love story. The story that people can find love in the darkest of places and times. And the story that love, even in the darkest of places and times, can expand and grow roots and endure. I personally just can’t split Sara and Grissom up again. So goes Grissom…..So goes Sara. Wherever they go, they belong together,” Fox wrote in a series of tweets on January 25. “Thanks for watching everyone!!!!! Keep tuning in! I know I will. _CSI VEGAS_ has an incredible team and it should be an amazing show!”
 
-{{< tweet user="JorjaFoxofficia" id="1486014897947385857" >}}
+{{< x user="JorjaFoxofficia" id="1486014897947385857" >}}
 
 The sequel to the 2000-2015 drama premiered as part of CBS’ fall lineup, bringing back Gil and Sara and having them work alongside a team of new investigators, led by Paula Newsome’s Maxine Roby. During the first season, consisting of 10 episodes, they cleared their former coworker David Hodges’ (Wallace Langham) name, wrapping the case in the finale. Grissom and Sara were last seen, happy and together, on a roller coaster in Las Vegas.
 

@@ -10,6 +10,9 @@ season: 1
 epnum: 23
 date: 2001-05-17
 prodnum: 122
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x23-strip-strangler-001.jpg"
 ---
 
 ## Synopsis

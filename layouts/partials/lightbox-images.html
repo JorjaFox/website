@@ -8,41 +8,53 @@
 {{- $image    := "" -}}
 
 {{- range $photogallery -}}
-	{{- $imageurl = . | absURL -}}
-	{{- $imagesrc = . | absURL -}}
+    {{- $imageurl = . | absURL -}}
+    {{- $imagesrc = . | absURL -}}
 
-	{{- /* This handles all local images */ -}}
-	{{- with resources.Get $imageurl -}}
-		{{- $image    = .Fill "250x250" -}}
-		{{- $imagesrc = $image.RelPermalink -}}
-	{{- end -}}
+    {{- /* This handles all local images */ -}}
+    {{- with resources.Get $imageurl -}}
+        {{- $image    = .Fill "250x250" -}}
+        {{- $imagesrc = $image.RelPermalink -}}
+    {{- end -}}
 
-	{{- /*
-	This sets the download path for the remote images.
-	If your image is at example.com/path/to/folder/image.jpg then it will be
-	downloaded to /img/path/to/folder/image.jpg.
-	*/ -}}
-	{{- $dir := (urls.Parse $imageurl).Path -}}
+    {{- /*
+    This sets the download path for the remote images.
+    If your image is at example.com/path/to/folder/image.jpg then it will be
+    downloaded to /img/path/to/folder/image.jpg.
+    */ -}}
+    {{- $dir := (urls.Parse $imageurl).Path -}}
 
-	{{- if ne $layout nil -}}
-		{{- $dir = replace $dir "/gallery/" ( printf "/%s/" $layout ) -}}
-	{{- end -}}
+    {{- if ne $layout nil -}}
+        {{- $dir = replace $dir "/gallery/" ( printf "/%s/" $layout ) -}}
+    {{- end -}}
 
-	{{- /* This handles all remote images */ -}}
-	{{- with resources.GetRemote $imageurl | resources.Copy $dir -}}
-		{{- $image    = . -}}
-		{{- $imageurl = $image.RelPermalink -}}
-		{{- $image    = $image.Fill "250x250" -}}
-		{{- $imagesrc = $image.RelPermalink -}}
-	{{- end -}}
+    {{- /* This handles all remote images */ -}}
+    {{- with try (resources.GetRemote $imageurl) -}}
+        {{- with .Err -}}
+            {{- warnf "Error: %s" . -}}
+            {{- $imagesrc = "" -}}
+        {{- else with .Value -}}
+            {{- with resources.GetRemote $imageurl | resources.Copy $dir -}}
+                {{- $image    = . -}}
+                {{- $imageurl = $image.RelPermalink -}}
+                {{- $image    = $image.Fill "250x250" -}}
+                {{- $imagesrc = $image.RelPermalink -}}
+            {{- end -}}
+        {{ else }}
+            {{ $imagesrc = "" }}
+            {{ warnf "LIGHTBOX: Unable to get remote resource %q" $imageurl }}
+        {{ end }}
+    {{ end }}
 
-	{{- if $imagesrc -}}
-		<div class="col">
-			<div class="card shadow card-zoom">
-				<div class="mx-auto card-img-wrap">
-					<img src="{{ $imagesrc }}" class="img-fluid img-lightbox" alt="{{ $title }}" data-toggle="lightbox" data-gallery="gallery" data-src="{{ $imageurl }}">
-				</div>
-			</div>
-		</div>
-	{{- end -}}
+    {{- if $imagesrc -}}
+        <div class="col">
+            <div class="card shadow card-zoom">
+                <div class="mx-auto card-img-wrap">
+                    <img src="{{ $imagesrc }}" class="img-fluid img-lightbox" alt="{{ $title }}" data-toggle="lightbox" data-gallery="gallery" data-src="{{ $imageurl }}">
+                </div>
+            </div>
+        </div>
+    {{- else -}}
+        <p>Images coming soon</p>
+    {{- end -}}
 {{- end -}}

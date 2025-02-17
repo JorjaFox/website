@@ -38,8 +38,8 @@ Here's what we have so far:
 * [Burked](/library/recaps/csi/burked)
 * [Identity Crisis](/library/recaps/csi/identity-crisis/)
 * [Burden of Proof](/library/recaps/csi/burden-of-proof/)
-* [Felonius Monk](/library/recaps/csi/felonius-monk/)
-* [Chasing the Bus](/library/recaps/chasing-the-bus/)
+* [Felonious Monk](/library/recaps/csi/felonious-monk/)
+* [Chasing the Bus](/library/recaps/csi/chasing-the-bus/)
 
 * [Family Affair](/library/recaps/csi/family-affair)
 

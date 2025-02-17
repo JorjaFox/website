@@ -25,7 +25,7 @@
         "build": "hugo --gc --minify",
         "build:staging": "hugo --gc --minify --environment staging",
         "build:cache": "npm run -s prebuild && hugo config | grep cachedir && hugo --gc --minify -e ci",
-        "build:debug": "hugo -v -e debug --logLevel debug",
+        "build:debug": "hugo -e debug --logLevel debug",
         "build:preview": "npm run build -D -F",
         "clean:public": "rimraf public",
         "clean:install": "rimraf package-lock.json node_modules",

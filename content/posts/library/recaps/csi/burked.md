@@ -10,6 +10,14 @@ season: 2
 epnum: 1
 date: 2001-09-27
 prodnum: 201
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x02-burked-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x02-burked-002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x02-burked-003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x02-burked-004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x02-burked-005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x02-burked-006.jpg"
 ---
 
 ## Synopsis

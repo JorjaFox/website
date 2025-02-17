@@ -1,7 +1,7 @@
 {
     "show" : "west-wing",
     "showname": "The West Wing",
-    "logo": "img/recaps/west-wing.jpg",
+    "logo": "/img/recaps/west-wing.jpg",
     "network": "NBC",
     "episodes": [
         {

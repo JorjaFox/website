@@ -68,7 +68,7 @@ Sadly we can't help you there. Also it's incredibly uncomfortable to read all th
 Yes.
 
 * [Facebook](https://www.facebook.com/JorjaFoxworldwide)
-* [Twitter](https://twitter.com/JorjaFoxofficia)
+* [X/Twitter](https://x.com/JorjaFoxofficia)
 
 ### What movies and TV shows has she been in?
 

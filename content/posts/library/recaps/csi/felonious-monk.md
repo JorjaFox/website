@@ -10,6 +10,14 @@ season: 2
 epnum: 17
 date: 2002-03-07
 prodnum: 217
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x17-felonius-monk-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x17-felonius-monk-002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x17-felonius-monk-003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x17-felonius-monk-004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x17-felonius-monk-005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x17-felonius-monk-006.jpg"
 ---
 
 ## Synopsis

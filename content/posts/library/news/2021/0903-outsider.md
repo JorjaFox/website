@@ -18,7 +18,7 @@ But “CSI: Vegas” has a little different spin to it. It might even have an �
 
 Take a look at what “CSI: Vegas” shared with the world on Twitter on Friday.
 
-{{< tweet user="CSICBS" id="1433835979811348486" >}}
+{{< x user="CSICBS" id="1433835979811348486" >}}
 
 In case you aren’t familiar with Peterson and Fox, then let’s give you some “CSI” cast notes. He played Gil Grissom, who oversaw the graveyard shift at CSI’s office in Las Vegas. Fox played Sara Sidle, a CSI level III analyst. Both characters worked together and also fell in love with one another.
 

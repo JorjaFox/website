@@ -3,16 +3,14 @@ title: 'In the Shadow of Two Gunmen: Part I'
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/west-wing/:title/
-tags: ["The West Wing"]
 station: NBC
 showname: "The West Wing"
 showslug: west-wing
-season : Two
-epnum: One
-prodnum: 226201
 date: 2000-10-04
-rating: 3
-gallerylink: https://jorjafox.net/gallery/tv/westwing/season02/shadow1/
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/west-wing/1x17-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/west-wing/1x17-002.jpg"
 ---
 
 ## Summary

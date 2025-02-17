@@ -1,7 +1,7 @@
 {
     "show" : "er",
     "showname": "ER",
-    "logo": "img/recaps/er.jpg",
+    "logo": "/img/recaps/er.jpg",
     "network": "NBC",
     "episodes": [
         {

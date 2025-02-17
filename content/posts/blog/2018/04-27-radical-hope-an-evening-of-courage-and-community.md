@@ -21,4 +21,4 @@ Some of my favourite people at The Guibord Center event tonight. Patty Shenker, 
 
 {{< image src="img/blog/2018/30420330_1036801546472860_2100489467555782268_o.jpg" caption="Patty Shenker, Jorja Fox and Jan Creamer" >}}
 
-{{< tweet user="animaldefenders" id="990035238398001152" >}}
+{{< x user="animaldefenders" id="990035238398001152" >}}

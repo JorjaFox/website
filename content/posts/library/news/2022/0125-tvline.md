@@ -18,7 +18,7 @@ At the time that _CSI: Vegas_ was renewed for Season 2, the word was that Fox co
 
 “There’s no expectation on [Fox and Petersen]” to return for Season 2, showrunner Jason Tracey told TVLine at the time of the Season 1 finale. “The door will always be open to a couple of legends, but we only asked them to come back to help us tell this finite number of episodes.”
 
-{{< tweet user="JorjaFoxofficia" id="1486014897947385857" >}}
+{{< x user="JorjaFoxofficia" id="1486014897947385857" >}}
 
 _CSI: Vegas_ stars Paula Newsome, Matt Lauria, Mandeep Dhillon and Mel Rodriguez as the team now working the Las Vegas crime lab. But even without Sara and Gil sticking around, other blasts from _CSI_ series of the past could resurface.
 

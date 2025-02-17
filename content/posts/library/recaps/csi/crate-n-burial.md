@@ -10,6 +10,9 @@ season: 1
 epnum: 3
 date: 2000-10-20
 prodnum: 103
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x03-crate-n-burial-001.jpg"
 ---
 
 ## Synopsis

@@ -20,7 +20,7 @@ Fox's decision to leave ahead of the new season comes one month after CBS picked
 
 "Thanks for watching everyone!!!!! Keep tuning in! I know I will. _CSI: Vegas_ has an incredible team and it should be an amazing show!" she wrote in the last tweet.
 
-{{< tweet user="JorjaFoxofficia" id="1486014897947385857" >}}
+{{< x user="JorjaFoxofficia" id="1486014897947385857" >}}
 
 Showrunner Jason Tracey spoke with ET following the finale, which ended on an intriguing tease for a potential new case for the Crime Lab team in season 2.
 

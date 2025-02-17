@@ -1,7 +1,7 @@
 {
     "show" : "csi",
     "showname": "CSI: Crime Scene Investigation",
-    "logo": "img/recaps/csi.jpg",
+    "logo": "/img/recaps/csi.jpg",
     "network": "CBS",
     "episodes": [
         {

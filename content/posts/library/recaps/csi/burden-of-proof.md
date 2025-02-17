@@ -10,6 +10,13 @@ season: 2
 epnum: 15
 date: 2002-02-07
 prodnum: 215
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x15-burden-of-proof-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x15-burden-of-proof-002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x15-burden-of-proof-003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x15-burden-of-proof-004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x15-burden-of-proof-005.jpg"
 ---
 
 ## Synopsis

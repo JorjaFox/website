@@ -10,6 +10,10 @@ season: 1
 epnum: 10
 date: 2000-12-22
 prodnum: 110
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x10-sex-lies-larvae-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x10-sex-lies-larvae-002.jpg"
 ---
 
 ## Synopsis

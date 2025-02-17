@@ -1,12 +1,14 @@
 {{- $showslug := .Params.showslug -}}
 {{- $showname := (index .Site.Data.episodes .Params.showslug).showname -}}
 {{- $photogallery := .Params.photogallery -}}
-{{- $logo := (index .Site.Data.episodes .Params.showslug).logo -}}
+{{- $originallogo := (index .Site.Data.episodes .Params.showslug).logo -}}
 
 {{/* If the logo value is empty, use a placeholder image. */}}
-{{- if not ($logo) -}}
-    {{- $logo = "/img/placeholder.png" -}}
+{{- if not ($originallogo) -}}
+    {{- $originallogo = "/img/placeholder.png" -}}
 {{- end -}}
+
+{{ $logo := $originallogo }}
 
 {{- $logo_photo := "" -}}
 {{- if $photogallery -}}
@@ -20,15 +22,24 @@
         {{- $dir := $u.Path -}}
         {{- $dir  = replace $dir "/gallery/" "/recaps/" -}}
 
-        {{- with resources.GetRemote $logo | resources.Copy $dir -}}
+        {{- with try (resources.GetRemote $logo) -}}
             {{- with .Err -}}
-                {{- warnf "%s" . -}}
-            {{- else -}}
-                {{- $image := . -}}
-                {{- $image = $image.Fill "250x250" -}}
-                {{- $logo = $image.RelPermalink -}}
-            {{- end -}}
-        {{- end -}}
+                {{- warnf "Error: %s" . -}}
+                {{- $logo_photo = "" -}}
+                {{ $logo = $originallogo }}
+            {{- else with .Value -}}
+                {{- with resources.GetRemote $logo | resources.Copy $dir -}}
+                    {{- $image    := . -}}
+                    {{- $image    = $image.Fill "250x250" -}}
+                    {{- $logo = $image.RelPermalink -}}
+                {{- end -}}
+            {{ else }}
+                {{ warnf "LOGO: Unable to get remote resource %q" $logo }}
+                {{ $logo_photo = "" }}
+                {{ $logo = $originallogo }}
+            {{ end }}
+        {{ end }}
+
     {{- end -}}
 {{- end -}}
 

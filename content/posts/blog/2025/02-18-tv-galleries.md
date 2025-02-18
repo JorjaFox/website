@@ -30,12 +30,14 @@ Here's what we have so far:
 ## CSI: Crime Scene Investigation
 
 Season 1:
+
 * [Crate 'n Burial](/library/recaps/csi/crate-n-burial)
 * [Who Are You?](/library/recaps/csi/who-are-you)
 * [Sex, Lies and Larvae](/library/recaps/csi/sex-lies-and-larvae)
 * [The Strip Strangler](/library/recaps/csi/the-strip-strangler)
 
 Season 2:
+
 * [Burked](/library/recaps/csi/burked/)
 * [Identity Crisis](/library/recaps/csi/identity-crisis/)
 * [Burden of Proof](/library/recaps/csi/burden-of-proof/)
@@ -43,11 +45,13 @@ Season 2:
 * [Chasing the Bus](/library/recaps/csi/chasing-the-bus/)
 
 Season 3:
+
 * [Abra-Cadaver](/library/recaps/csi/abra-cadaver/)
 * [Crash and Burn](/library/recaps/csi/crash-burn/)
 * [Fight Night](/library/recaps/csi/fight-night/)
 
 Season 4:
+
 * [Assume Nothing](/library/recaps/csi/assume-nothing/)
 * [All for our Country](/library/recaps/csi/all-for-our-country/)
 * [Fur and Loathing](/library/recaps/csi/fur-and-loathing/)
@@ -58,6 +62,7 @@ Season 4:
 * [Bloodlines](/library/recaps/csi/bloodlines/)
 
 Season 5:
+
 * [Viva Las Vegas](/library/recaps/csi/bloodlines/)
 * [Mea Culpa](/library/recaps/csi/mea-culpa/)
 * [No Humans Involved](/library/recaps/csi/no-humans-involved/)
@@ -70,9 +75,23 @@ Season 5:
 * [Grave Danger](/library/recaps/csi/grave-danger/)
 
 Season 6:
+
+* TBD
+
+Season 7:
+
+* TBD
+
+Season 8:
+
+* TBD
+
+Season 9:
+
 * TBD
 
 Season 10:
+
 * [Family Affair](/library/recaps/csi/family-affair)
 
 ## CSI: Vegas

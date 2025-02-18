@@ -10,6 +10,9 @@ season: 4
 epnum: 5
 date: 2003-10-30
 prodnum: 406
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/404-furandloathing_001.jpg"
 ---
 
 ## Synopsis

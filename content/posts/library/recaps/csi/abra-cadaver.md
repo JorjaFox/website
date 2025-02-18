@@ -9,7 +9,14 @@ showslug: csi
 season: 3
 epnum: 5
 date: 2002-10-31
-prodnum: 306
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/305-abra-cadaver_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/305-abra-cadaver_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/305-abra-cadaver_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/305-abra-cadaver_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/305-abra-cadaver_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/305-abra-cadaver_007.jpg"
 ---
 
 ## Synopsis

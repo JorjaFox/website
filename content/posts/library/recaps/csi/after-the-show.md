@@ -10,6 +10,10 @@ season: 4
 epnum: 8
 date: 2003-11-20
 prodnum: 408
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/408-aftertheshow-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/408-aftertheshow-002.jpg"
 ---
 
 ## Synopsis

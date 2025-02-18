@@ -10,6 +10,17 @@ season: 5
 epnum: 1
 date: 2004-09-23
 prodnum: 501
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_009.jpg"
 ---
 
 ## Synopsis

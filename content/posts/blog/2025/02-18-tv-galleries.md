@@ -57,6 +57,21 @@ Season 4:
 * [Turn of the Screws](/library/recaps/csi/turn-of-the-screws/)
 * [Bloodlines](/library/recaps/csi/bloodlines/)
 
+Season 5:
+* [Viva Las Vegas](/library/recaps/csi/bloodlines/)
+* [Mea Culpa](/library/recaps/csi/mea-culpa/)
+* [No Humans Involved](/library/recaps/csi/no-humans-involved/)
+* [Who Shot Sherlock](/library/recaps/csi/who-shot-sherlock/)
+* [Nesting Dolls](/library/recaps/csi/nesting-dolls/)
+* [Compulsion](/library/recaps/csi/compulsion/)
+* [Spark of Life](/library/recaps/csi/spark-of-life/)
+* [Committed](/library/recaps/csi/committed/)
+* [Iced](/library/recaps/csi/iced/)
+* [Grave Danger](/library/recaps/csi/grave-danger/)
+
+Season 6:
+* TBD
+
 Season 10:
 * [Family Affair](/library/recaps/csi/family-affair)
 

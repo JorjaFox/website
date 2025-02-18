@@ -10,6 +10,13 @@ season: 5
 epnum: 9
 date: 2004-11-25
 prodnum: 509
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_005.jpg"
 ---
 
 ## Synopsis

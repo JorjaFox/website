@@ -10,6 +10,15 @@ season: 5
 epnum: 20
 date: 2005-04-28
 prodnum: 520
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/521-committed_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/521-committed_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/521-committed_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/521-committed_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/521-committed_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/521-committed_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/521-committed_007.jpg"
 ---
 
 ## Synopsis

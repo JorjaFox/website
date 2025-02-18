@@ -10,6 +10,18 @@ season: 5
 epnum: 18
 date: 2005-03-31
 prodnum: 518
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_009.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_010.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_011.jpg"
 ---
 
 ## Synopsis

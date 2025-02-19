@@ -10,6 +10,13 @@ season: 7
 epnum: 18
 date: 2007-03-29
 prodnum: 718
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/718-emptyeyes_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/718-emptyeyes_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/718-emptyeyes_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/718-emptyeyes_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/718-emptyeyes_005.jpg"
 ---
 
 ## Synopsis

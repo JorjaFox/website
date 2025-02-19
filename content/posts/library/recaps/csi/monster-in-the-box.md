@@ -10,6 +10,12 @@ season: 7
 epnum: 16
 date: 2007-02-15
 prodnum: 716
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/716-monster_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/716-monster_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/716-monster_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/716-monster_004.jpg"
 ---
 
 ## Synopsis

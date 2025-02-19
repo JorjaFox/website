@@ -93,7 +93,20 @@ Season 6:
 
 Season 7:
 
-* TBD
+* [Toe Tags](/library/recaps/csi/toe-tags/)
+* [Fannysmackin'](/library/recaps/csi/fannysmackin/)
+* [Double-Cross](/library/recaps/csi/double-cross/)
+* [Post-Mortem](/library/recaps/csi/post-mortem/)
+* [Loco Motives](/library/recaps/csi/loco-motives/)
+* [Leaving Las Vegas](/library/recaps/csi/leaving-las-vegas/)
+* [Law of Gravity](/library/recaps/csi/law-of-gravity/)
+* [Monster in the Box](/library/recaps/csi/monster-in-the-box/)
+* [Fallen Idols](/library/recaps/csi/fallen-idols/)
+* [Empty Eyes](/library/recaps/csi/empty-eyes/)
+* [Big Shots](/library/recaps/csi/big-shots/)
+* [Ending Happy](/library/recaps/csi/ending-happy/)
+* [Leapin' Lizards](/library/recaps/csi/leapin-lizards/)
+* [The Good, The Bad, and the Dominatrix](/library/recaps/csi/the-good-the-bad-and-the-dominatrix/)
 
 Season 8:
 

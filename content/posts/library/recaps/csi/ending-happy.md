@@ -10,6 +10,12 @@ season: 7
 epnum: 21
 prodnum: 721
 date: 2007-04-26
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/721-endinghappy_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/721-endinghappy_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/721-endinghappy_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/721-endinghappy_004.jpg"
 ---
 
 ## Synopsis

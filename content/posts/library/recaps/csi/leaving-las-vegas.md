@@ -10,6 +10,11 @@ season: 7
 epnum: Eleven
 date: 2007-01-04
 prodnum: 711
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/711-leavinglasvegas_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/711-leavinglasvegas_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/711-leavinglasvegas_003.jpg"
 ---
 
 ## Synopsis

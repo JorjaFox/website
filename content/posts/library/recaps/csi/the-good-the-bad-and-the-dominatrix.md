@@ -10,6 +10,10 @@ season: 7
 epnum: 23
 date: 2007-05-10
 prodnum: 723
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/723-tgtbatd_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/723-tgtbatd_002.jpg"
 ---
 
 ## Synopsis

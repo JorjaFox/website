@@ -10,6 +10,11 @@ season: 6
 epnum: 10
 date: 2005-12-08
 prodnum: 610
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/610-stilllife_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/610-stilllife_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/610-stilllife_03.jpg"
 ---
 
 ## Synopsis

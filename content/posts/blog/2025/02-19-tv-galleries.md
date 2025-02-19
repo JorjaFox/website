@@ -76,7 +76,20 @@ Season 5:
 
 Season 6:
 
-* TBD
+* [Bodies in Motion](/library/recaps/csi/bodies-in-motion/)
+* [Bite Me](/library/recaps/csi/bite-me/)
+* [Gum Drops](/library/recaps/csi/gum-drops/)
+* [A Bullet Runs Through It Part 1](/library/recaps/csi/a-bullet-runs-through-it-part-1/)
+* [Still Life](/library/recaps/csi/still-life/)
+* [Werewolves](/library/recaps/csi/werewolves/)
+* [Killer](/library/recaps/csi/killer/)
+* [Up in Smoke](/library/recaps/csi/up-in-smoke/)
+* [I Like to Watch](/library/recaps/csi/i-like-to-watch/)
+* [The Unusual Suspect](/library/recaps/csi/the-unusual-suspect/)
+* [Rashomama](/library/recaps/csi/rashomama/)
+* [Time of Your Death](/library/recaps/csi/time-of-your-death/)
+* [Bang Bang](/library/recaps/csi/bang-bang/)
+* [Way to Go](/library/recaps/csi/way-to-go/)
 
 Season 7:
 

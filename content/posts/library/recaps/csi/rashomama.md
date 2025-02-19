@@ -10,6 +10,14 @@ season: 6
 epnum: 21
 date: 2006-04-27
 prodnum: 621
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_05.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_06.jpg"
 ---
 
 ## Synopsis

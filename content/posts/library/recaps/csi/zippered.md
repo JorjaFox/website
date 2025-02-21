@@ -10,6 +10,12 @@ season: 12
 epnum: 9
 date: 2011-12-07
 prodnum: 260
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1209-zippered-01.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1209-zippered-02.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1209-zippered-03.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1209-zippered-04.jpg
 ---
 
 ## Synopsis

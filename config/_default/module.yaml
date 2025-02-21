@@ -4,4 +4,4 @@ imports:
 
 hugoVersion:
     extended: true
-    min: '0.144.1'
+    min: '0.144.2'

@@ -10,6 +10,10 @@ season: 12
 epnum: 13
 date: 2012-02-08
 prodnum: 264
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1213-tressed-001.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1213-tressed-002.jpg
 ---
 
 ## Synopsis

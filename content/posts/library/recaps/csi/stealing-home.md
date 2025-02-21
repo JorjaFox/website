@@ -10,6 +10,13 @@ season: 12
 epnum: 15
 date: 2012-02-22
 prodnum: 266
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1215-stealinghome001.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1215-stealinghome002.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1215-stealinghome003.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1215-stealinghome004.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1215-stealinghome005.jpg
 ---
 
 ## Synopsis

@@ -148,7 +148,12 @@ Season 11:
 
 Season 12:
 
-* [TBD](/library/recaps/csi/rashomama/)
+* [Zippered](/library/recaps/csi/zippered/)
+* [Willows in the Wind](/library/recaps/csi/willows-in-the-wind/)
+* [Tressed to Kill](/library/recaps/csi/tressed-to-kill/)
+* [Stealing Home](/library/recaps/csi/stealing-home/)
+* [Split Decisions](/library/recaps/csi/split-decisions/)
+* [Dune and Gloom](/library/recaps/csi/dune-and-gloom/)
 
 Season 13:
 

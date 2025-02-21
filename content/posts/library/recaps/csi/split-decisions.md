@@ -10,6 +10,10 @@ season: 12
 epnum: 19
 date: 2012-04-04
 prodnum: 270
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1219-split001.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1219-split002.jpg
 ---
 
 ## Synopsis

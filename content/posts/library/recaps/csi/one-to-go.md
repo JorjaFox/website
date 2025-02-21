@@ -10,6 +10,12 @@ season: 9
 epnum: 10
 date: 2009-01-15
 prodnum: 910
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_04.jpg"
 ---
 
 ## Synopsis

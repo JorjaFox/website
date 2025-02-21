@@ -10,6 +10,11 @@ season: 9
 epnum: 1
 prodnum: 901
 date: 2008-10-09
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/901-forwarrick_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/901-forwarrick_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/901-forwarrick_003.jpg"
 ---
 
 ## Synopsis

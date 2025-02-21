@@ -10,6 +10,19 @@ season: 11
 epnum: 19
 date: 2011-04-07
 prodnum: 248
+modules: [ "bs5-lightbox" ]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed04.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed05.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed06.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed07.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed08.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed09.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed10.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed11.jpg
 ---
 
 ## Synopsis

@@ -1,6 +1,6 @@
 ---
 title: Image Galleries for TV
-date: 2025-02-17
+date: 2025-02-20
 authorname: "Mika E. (Ipstenu)"
 description: "Image galleries for TV episodes are making their return!"
 layout: post
@@ -13,6 +13,8 @@ thumbnail:
 It's been a rough time since October. The good news is I got a new job. The bad news... Well. You can see what's going on in the US.
 
 But I am happy to say that after some elbow grease, meetings, and luck, there are image galleries for TV shows again! They are only the approved publicity images I have legal access to, no fan submissions, nothing from eBay or Google. Fingers crossed things don't change again, but if they do, it's easy enough to disable. I did end up writing a lot of custom code to process the images and make the lightbox in a way that didn't slow the site down, and that was fun for me.
+
+It took forever to properly upload everything again, since I had to resize and reformat some images, but also I had not saved them with good names (serves me right).
 
 Here's what we have so far:
 
@@ -110,15 +112,60 @@ Season 7:
 
 Season 8:
 
-* TBD
+* [Dead Doll](/library/recaps/csi/dead-doll/)
+* [A La Cart](/library/recaps/csi/a-la-cart/)
+* [Go to Hell](/library/recaps/csi/go-to-hell/)
+* [The Case of the Cross-Dressing Carp](/library/recaps/csi/the-case-of-the-cross-dressing-carp/)
+* [Goodbye and Good Luck](/library/recaps/csi/goodbye-and-good-luck/)
 
 Season 9:
 
-* TBD
+* [For Warrick](/library/recaps/csi/for-warrick/)
+* [The Happy Place](/library/recaps/csi/the-happy-place/)
+* [One to Go](/library/recaps/csi/one-to-go/)
 
 Season 10:
 
 * [Family Affair](/library/recaps/csi/family-affair)
+* [Ghost Town](/library/recaps/csi/ghost-town/)
+* [Coup de Grace](/library/recaps/csi/coup-de-grace/)
+* [Lovers Lanes](/library/recaps/csi/lovers-lanes/)
+* [Long Ball](/library/recaps/csi/long-ball/)
+* [Worlds End](/library/recaps/csi/worlds-end/)
+
+Season 11:
+
+* [Shock Waves](/library/recaps/csi/shock-waves/)
+* [Pool Shark](/library/recaps/csi/pool-shark/)
+* [House of Hoarders](/library/recaps/csi/rashomama/)
+* [Wild Life](/library/recaps/csi/rashomama/)
+* [418/427](/library/recaps/csi/rashomama/)
+* [The Two Mrs. Grissoms](/library/recaps/csi/rashomama/)
+* [Turn On, Tune In, Drop Dead](/library/recaps/csi/rashomama/)
+* [Unleashed](/library/recaps/csi/rashomama/)
+* [Cello and Goodbye](/library/recaps/csi/rashomama/)
+* [In A Dark, Dark House](/library/recaps/csi/rashomama/)
+
+Season 12:
+
+* [TBD](/library/recaps/csi/rashomama/)
+
+Season 13:
+
+* [TBD](/library/recaps/csi/rashomama/)
+
+Season 14:
+
+* [TBD](/library/recaps/csi/rashomama/)
+
+Season 15:
+
+* [TBD](/library/recaps/csi/rashomama/)
+
+Season 16 / Immortality:
+
+* [Part 1](/library/recaps/csi/immortality-part-1/)
+* [Part 2](/library/recaps/csi/immortality-part-1/)
 
 ## CSI: Vegas
 

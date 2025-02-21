@@ -10,6 +10,13 @@ season: 8
 epnum: 2
 date: 2007-10-04
 prodnum: 802
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/802-alacart_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/802-alacart_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/802-alacart_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/802-alacart_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/802-alacart_005.jpg"
 ---
 
 ## Synopsis

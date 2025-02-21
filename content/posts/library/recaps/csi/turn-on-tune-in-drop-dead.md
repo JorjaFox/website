@@ -10,6 +10,13 @@ season: 11
 epnum: 16
 date: 2011-02-24
 prodnum: 245
+modules: [ "bs5-lightbox" ]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune04.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune05.jpg
 ---
 
 ## Synopsis

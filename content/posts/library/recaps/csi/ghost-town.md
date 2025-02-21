@@ -10,6 +10,12 @@ season: 10
 epnum: 2
 date: 2009-10-01
 prodnum: 208
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown04.jpg
 ---
 
 ## Synopsis

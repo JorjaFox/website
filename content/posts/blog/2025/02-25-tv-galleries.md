@@ -190,7 +190,7 @@ Season 15:
 * [The Greater Good](/library/recaps/csi/the-greater-good/)
 * [Merchants of Menace](/library/recaps/csi/merchants-of-menace/)
 * [Hero to Zero](/library/recaps/csi/hero-to-zero/)
-* [The Last Ride](/library/recaps/csi/the-last-right/)
+* [The Last Ride](/library/recaps/csi/the-last-ride/)
 * [The Twin Paradox](/library/recaps/csi/the-twin-paradox/)
 * [Under My Skin](/library/recaps/csi/under-my-skin/)
 * [The End Game](/library/recaps/csi/the-end-game/)

@@ -5,6 +5,7 @@ layout: advocacy
 tags:
   - Charity
 website: https://www.clothesoffourback.org/
+description: "Hosts charity auctions and private events showcasing today's hottest celebrity attire"
 
 ---
 

@@ -5,6 +5,7 @@ layout: advocacy
 tags:
   - "Animal Rights"
 website: https://www.peta.org/
+description: "People for the Ethical Treatment of Animals (PETA) is the largest animal rights organization in the world, and PETA entities have more than 9 million members and supporters globally."
 ---
 
 PETA (People for the Ethical Treatment of Animals) is the largest animal rights organization in the world.

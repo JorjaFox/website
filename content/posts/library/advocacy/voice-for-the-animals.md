@@ -7,6 +7,7 @@ categories:
 tags:
   - "Animal Rights"
 website: https://www.vftafoundation.org/
+description: "Devoted to creating respect and empathy for animals through education, rescue, legislation and advocacy."
 ---
 
 "The Voice For The Animals Foundation" is devoted to creating respect and empathy for animals through education, rescue, legislation and advocacy.

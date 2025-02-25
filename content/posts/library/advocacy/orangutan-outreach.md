@@ -6,6 +6,7 @@ tags:
   - "Animal Rights"
   - PSA
 website: https://redapes.org
+description: "Orangutan Outreach's mission is to protect orangutans in their native forests of Borneo and Sumatra while providing care for orphaned and displaced orangutans until they can be returned to their natural environment."
 ---
 
 Orangutan Outreach is part of BOS International. The purpose of Orangutan Outreach is:

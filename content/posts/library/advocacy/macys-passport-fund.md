@@ -4,7 +4,8 @@ author: "Mika A. Epstein"
 layout: advocacy
 tags:
   - Health
-website: https://passportfund.macysinc.com/
+website: https://macys.com/
+description: "Macy’s annual fundraising event to benefit various HIV/AIDS Organizations"
 ---
 
 Macy’s Passport Fund supports agencies providing HIV/AIDS programming in certain counties with an operating Macy’s store location.

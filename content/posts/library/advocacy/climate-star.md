@@ -4,7 +4,7 @@ author: "Mika A. Epstein"
 layout: advocacy
 tags:
   - Environmentalism
-website: https://www.ClimateStar.org
+description: "An environmental group."
 ---
 
 The following is a text only reprint of an ad done by Jorja Fox for Climate Star.

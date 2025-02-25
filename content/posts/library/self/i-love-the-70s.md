@@ -6,7 +6,7 @@ categories: ["Filmography"]
 tags: ["Mini Series"]
 website: https://www.vh1.com/shows/i_love_the_70s/series.jhtml
 imdb: https://www.imdb.com/title/tt0377192/
-
+description: "A review on the 1970s by MTV"
 ---
 
 _I Love the 70s_ takes viewers on another fun-filled ride through the music, movies, TV shows, products, fashions, fads, trends and major events that defined pop culture each year of the decade. From Star Wars to Charlie's Angels, leisure suits to underoos, mutton-chop sideburns to the Mod Squad... we once again tap our collective memories to cover the sublime, the ridiculous, and everything in between.

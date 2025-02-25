@@ -3,6 +3,7 @@ title: "News Articles (2020)"
 transcriber: "Mika A. Epstein"
 layout: news-index
 topic: index
+searchExclude: true
 date: 2020-01-01
 permalink: /news/2020/
 newsyear: "2020"

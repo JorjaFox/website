@@ -3,6 +3,7 @@ title: Transcripts (2003)
 transcriber: "Mika A. Epstein"
 layout: transcript-index
 topic: index
+searchExclude: true
 date: 2003-01-01
 permalink: /transcript/2003/
 interviewyear: "2003"

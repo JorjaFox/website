@@ -3,6 +3,7 @@ title: "ER"
 date: 2023-04-16
 weight: 40
 href: /library/actor/er/
+searchExclude: true
 thumbnail:
     url: img/front-page/er-doyle.jpg
 ---

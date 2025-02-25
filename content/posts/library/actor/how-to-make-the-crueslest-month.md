@@ -4,6 +4,7 @@ title: "How to Make the Cruelest Month"
 slug: "how-to-make-the-cruelest-month"
 imdb: https://www.imdb.com/title/tt0138501/
 actorimage: /img/actors/htmtcm.jpg
+description: "In a small college town, the neurotic Bell Bryant explains her problems directly to the camera."
 ---
 
 Kip Koenig wrote and directed this comedy, set in a small college town, about neurotic Bell Bryant (Clea DuVall) who explains her problems directly to the camera: her older sister Sarah (Jorja Fox) has a happy marriage plus a baby on the way. Her other sister, beautiful Dot (Amy Smart), is involved in an affair with Bell's ex, Leonard (Gabriel Mann). In a remote location, Bell makes love to Leonard and then departs, abandoning the nude Leonard who makes his way to the house of a married couple (Dennis Haysbert, Marianne Jean-Baptiste). Wondering if she's a lesbian, the confused Bell dates a woman and then dashes around from one place to another, dropping in on her mom (Mary Kay Place), her uncle (John David Souther), and various eccentrics.

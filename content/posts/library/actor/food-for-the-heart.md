@@ -4,6 +4,7 @@ title: "Food for the Heart"
 slug: "food-for-the-heart"
 imdb: https://www.imdb.com/title/tt0197570/
 actorimage: /img/actors/food-for-the-heart.jpg
+description: "(originally 'The Hungry Bachelors Club') The spicy story of best friends Delmar Youngblood and Hortense, two single women who share their love of food and friendship with an eccentric circle of half-baked family and friends at the Hungry Bachelors Club."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/movies/food-for-the-heart/ffth-01.jpg"

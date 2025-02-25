@@ -4,6 +4,7 @@ title: "The Map of Tiny Perfect Things"
 slug: map-of-tiny-perfect-things
 imdb: https://www.imdb.com/title/tt11080108/
 actorimage: /img/actors/map-tpt.jpg
+description: "Two teens live the same day repeatedly, enabling them to create the titular map."
 ---
 
 Jorja Fox plays "Greta", the dying mother of Margaret.

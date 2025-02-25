@@ -4,6 +4,7 @@ title: "Velocity Trap"
 slug: "velocity-trap"
 imdb: https://www.imdb.com/title/tt0120435/
 actorimage: /img/actors/velocity-trap.jpg
+description: "A police officer is trying to protect a federal banking ship from being robbed."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/movies/velocity-trap/vtrap_p01.jpg"

@@ -6,6 +6,7 @@ description: "Following the cases, and lives, of Chicago's Missing Persons team.
 imdb: https://www.imdb.com/title/tt0106067/
 actorimage: /img/actors/missingpersons.png
 episodelist: true
+description: "A television show about missing people, and the detectives who tried to track them down while putting their own lives back together."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/missing-persons-01.jpg"

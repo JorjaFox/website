@@ -5,6 +5,7 @@ layout: actor
 slug: chiefs
 imdb: https://www.imdb.com/title/tt7731700/
 actorimage: /img/actors/chiefs.jpg
+description: "In Los Angeles County, three female police chiefs work together to catch a serial killer."
 ---
 
 _Chiefs_ explores the professional and personal lives of three driven, successful, but very different women who are each Chiefs of Police of their own precincts in L.A. County.

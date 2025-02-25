@@ -10,6 +10,13 @@ season: 4
 epnum: 21
 date: 2004-05-06
 prodnum: 421
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_006.jpg"
 ---
 
 ## Synopsis

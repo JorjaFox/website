@@ -10,6 +10,13 @@ season: 11
 epnum: 5
 date: 2010-10-07
 prodnum: 234
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders005.jpg
 ---
 
 ## Synopsis

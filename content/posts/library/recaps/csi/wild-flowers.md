@@ -10,6 +10,11 @@ season: 13
 epnum: 3
 date: 2012-10-17
 prodnum: 276
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/03-wild-01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/03-wild-02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/03-wild-03.jpg
 ---
 
 ## Synopsis

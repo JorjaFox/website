@@ -10,6 +10,14 @@ season: 4
 epnum: Sixteen
 date: 2004-02-26
 prodnum: 416
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/416-gettingoff_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/416-gettingoff_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/416-gettingoff_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/416-gettingoff_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/416-gettingoff_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/416-gettingoff_007.jpg"
 ---
 
 ## Synopsis

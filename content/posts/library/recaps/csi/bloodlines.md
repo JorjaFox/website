@@ -10,6 +10,11 @@ season: 4
 epnum: 23
 date: 2004-05-20
 prodnum: 423
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/423-bloodlines-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/423-bloodlines-002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/423-bloodlines-003.jpg"
 ---
 
 ## Synopsis

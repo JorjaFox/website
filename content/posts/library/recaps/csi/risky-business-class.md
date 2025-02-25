@@ -10,6 +10,10 @@ season: 13
 epnum: 10
 date: 2012-12-12
 prodnum: 283
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/10-risky-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/10-risky-002.jpg
 ---
 
 ## Synopsis

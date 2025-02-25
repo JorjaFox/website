@@ -11,6 +11,24 @@ season: 3
 epnum: 17
 date: 2003-03-13
 prodnum: 317
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_009.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_010.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_011.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_012.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_013.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_014.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_015.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_016.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_017.jpg"
 ---
 
 ## Synopsis

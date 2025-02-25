@@ -10,6 +10,17 @@ season: 14
 epnum: 16
 date: 2014-03-05
 prodnum: 311
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-005.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-006.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-007.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-008.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-009.jpg
 ---
 
 ## Synopsis

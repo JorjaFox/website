@@ -10,6 +10,10 @@ season: 14
 epnum: 12
 date: 2014-01-15
 prodnum: 307
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1412-keepcalmcarryon-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1412-keepcalmcarryon-002.jpg
 ---
 
 ## Synopsis

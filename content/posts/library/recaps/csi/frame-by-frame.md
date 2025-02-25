@@ -10,6 +10,12 @@ season: 14
 epnum: 5
 date: 2013-10-23
 prodnum: 300
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1405-framebyframe-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1405-framebyframe-002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1405-framebyframe-003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1405-framebyframe-004.jpg
 ---
 
 ## Synopsis

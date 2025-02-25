@@ -10,6 +10,9 @@ season: 6
 epnum: 11
 date: 2006-01-15
 prodnum: 611
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/611-werewolves-001.jpg"
 ---
 
 ## Synopsis

@@ -10,6 +10,10 @@ season: 10
 epnum: 4
 date: 2009-10-15
 prodnum: 210
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1004-coup01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1004-coup02.jpg
 ---
 
 ## Synopsis

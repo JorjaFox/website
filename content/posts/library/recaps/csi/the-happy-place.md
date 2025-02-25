@@ -10,6 +10,10 @@ season: 9
 epnum: 2
 date: 2008-10-16
 prodnum: 902
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/902-happyplace_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/902-happyplace_002.jpg"
 ---
 
 ## Synopsis

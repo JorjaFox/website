@@ -10,6 +10,9 @@ season: 5
 epnum: 11
 date: 2005-01-05
 prodnum: 511
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/511-whoshotsherlock_001.jpg"
 ---
 
 ## Synopsis

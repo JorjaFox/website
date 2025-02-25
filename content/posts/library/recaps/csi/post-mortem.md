@@ -10,6 +10,12 @@ season: 7
 epnum: 7
 date: 2006-11-09
 prodnum: 707
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_03b.jpg"
 ---
 
 ## Synopsis

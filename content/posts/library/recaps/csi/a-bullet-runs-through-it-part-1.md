@@ -10,6 +10,14 @@ season: 6
 epnum: 7
 date: 2005-11-10
 prodnum: 607
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_05.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_06.jpg"
 ---
 
 ## Synopsis

@@ -10,6 +10,11 @@ season: 5
 epnum: 24 and 525
 date: 2005-05-19
 prodnum: 524 and 525
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/524-gravedanger_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/524-gravedanger_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/524-gravedanger_003.jpg"
 ---
 
 ## Synopsis

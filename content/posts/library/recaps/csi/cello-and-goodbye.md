@@ -10,6 +10,10 @@ season: 11
 epnum: 21
 date: 2011-05-05
 prodnum: 250
+modules: [ "bs5-lightbox" ]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1121-cello_001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1121-cello_002.jpg
 ---
 
 ## Synopsis

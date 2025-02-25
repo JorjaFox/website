@@ -79,4 +79,4 @@ For the sequel [_CSI: Vegas_](/library/actor/csi-vegas/), please see [the list o
 
 ## CSI: Vegas
 
-Please see [CSI: Vegas Episodes](/library/recaps/csi-vegas/)
+[CSI: Vegas Episodes](/library/recaps/csi-vegas/)

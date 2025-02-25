@@ -10,7 +10,9 @@ season: 10
 epnum: 19
 prodnum: 225
 date: 2010-04-22
-
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1019-worldsend.jpg
 ---
 
 ## Synopsis

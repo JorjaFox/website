@@ -10,6 +10,12 @@ season: 6
 epnum: 18
 date: 2006-03-30
 prodnum: 618
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/618-unusual_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/618-unusual_05.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/618-unusual_06.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/618-unusual_07.jpg"
 ---
 
 ## Synopsis

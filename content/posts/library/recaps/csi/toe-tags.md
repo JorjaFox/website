@@ -10,6 +10,19 @@ season: 7
 epnum: 3
 date: 2006-10-05
 prodnum: 701
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_009.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_010.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_011.jpg"
 ---
 
 ## Synopsis

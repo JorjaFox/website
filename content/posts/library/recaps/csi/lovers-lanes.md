@@ -10,6 +10,9 @@ season: 10
 epnum: 8
 date: 2009-11-19
 prodnum: 215
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1008-loverslane01.jpg
 ---
 
 ## Synopsis

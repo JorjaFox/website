@@ -10,6 +10,16 @@ season: 5
 epnum: 13
 date: 2005-02-03
 prodnum: 513
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_008.jpg"
 ---
 
 ## Synopsis

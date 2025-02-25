@@ -10,6 +10,9 @@ season: 11
 epnum: 22
 date: 2011-05-12
 prodnum: 251
+modules: [ "bs5-lightbox" ]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1122-darkdark_001.jpg
 ---
 
 ## Synopsis

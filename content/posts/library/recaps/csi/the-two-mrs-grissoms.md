@@ -10,6 +10,13 @@ season: 11
 epnum: 13
 date: 2011-02-03
 prodnum: 242
+modules: [ "bs5-lightbox" ]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs04.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs05.jpg
 ---
 
 ## Synopsis

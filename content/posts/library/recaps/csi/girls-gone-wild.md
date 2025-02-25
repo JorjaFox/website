@@ -10,6 +10,20 @@ season: 14
 epnum: 10
 date: 2013-11-27
 prodnum: 305
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-005.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-006.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-007.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-008.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-009.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-010.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-011.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-012.jpg
 ---
 
 ## Synopsis

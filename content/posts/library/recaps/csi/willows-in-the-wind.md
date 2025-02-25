@@ -10,6 +10,15 @@ season: 12
 epnum: 12
 date: 2012-01-25
 prodnum: 263
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1212-willows-001.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1212-willows-002.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1212-willows-003.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1212-willows-004.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1212-willows-005.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1212-willows-006.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1212-willows-007.jpg
 ---
 
 ## Synopsis

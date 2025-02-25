@@ -10,6 +10,10 @@ season: 15
 epnum: 2
 date: 2014-10-05
 prodnum: 318
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1502-buzzkill-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1502-buzzkill-002.jpg
 ---
 
 ## Synopsis

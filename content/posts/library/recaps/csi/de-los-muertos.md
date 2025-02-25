@@ -10,6 +10,16 @@ season: 14
 epnum: 14
 date: 2014-02-05
 prodnum: 309
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-005.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-006.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-007.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-008.jpg
 ---
 
 ## Synopsis

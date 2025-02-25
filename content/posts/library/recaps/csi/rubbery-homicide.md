@@ -10,6 +10,10 @@ season: 15
 epnum: 8
 date: 2014-11-30
 prodnum: 325
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1508-rubbery-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1508-rubbery-002.jpg
 ---
 
 ## Synopsis

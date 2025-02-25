@@ -10,6 +10,12 @@ season: 7
 epnum: 17
 date: 2007-02-22
 prodnum: 717
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/717-fallenidols_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/717-fallenidols_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/717-fallenidols_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/717-fallenidols_004.jpg"
 ---
 
 ## Synopsis

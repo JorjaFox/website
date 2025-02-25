@@ -10,6 +10,11 @@ season: 6
 epnum: 1
 date: 2005-09-22
 prodnum: 601
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/601-bodiesinmotion_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/601-bodiesinmotion_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/601-bodiesinmotion_03.jpg"
 ---
 
 ## Synopsis

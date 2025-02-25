@@ -10,6 +10,11 @@ season: 4
 epnum: 1
 date: 2003-09-25
 prodnum: 402
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/402-assumenothing_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/402-assumenothing_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/402-assumenothing_003.jpg"
 ---
 
 ## Synopsis

@@ -10,6 +10,18 @@ season: 8
 epnum: 7
 date: 2007-11-15
 prodnum: 807
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_05.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_06.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_07.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_08.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_09.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_10.jpg"
 ---
 
 ## Synopsis

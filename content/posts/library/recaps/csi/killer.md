@@ -10,6 +10,12 @@ season: 6
 epnum: 14
 date: 2006-02-02
 prodnum: 614
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/614-killer_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/614-killer_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/614-killer_04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/614-killer_05.jpg"
 ---
 
 ## Synopsis

@@ -10,6 +10,18 @@ season: 11
 epnum: 9
 prodnum: 238
 date: 2010-11-18
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife04.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife05.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife06.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife07.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife08.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife09.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife10.jpg
 ---
 
 ## Synopsis

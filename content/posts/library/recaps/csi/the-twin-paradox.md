@@ -10,6 +10,9 @@ season: 15
 epnum: 6
 date: 2014-11-16
 prodnum: 323
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1516-twinparadox-001.jpg
 ---
 
 ## Synopsis

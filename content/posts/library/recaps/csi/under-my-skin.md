@@ -10,6 +10,11 @@ season: 15
 epnum: 17
 date: 2015-02-15
 prodnum: 334
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1517-underskin-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1517-underskin-002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1517-underskin-003.jpg
 ---
 
 ## Synopsis

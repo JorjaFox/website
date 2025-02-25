@@ -10,6 +10,15 @@ season: 5
 epnum: 10
 date: 2004-12-09
 prodnum: 510
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_007.jpg"
 ---
 
 ## Synopsis

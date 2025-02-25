@@ -10,6 +10,14 @@ season: 8
 epnum: 1
 date: 2007-09-27
 prodnum: 801
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_006.jpg"
 ---
 
 ## Synopsis

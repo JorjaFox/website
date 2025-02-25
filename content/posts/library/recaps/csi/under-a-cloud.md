@@ -10,6 +10,10 @@ season: 14
 epnum: 7
 date: 2013-11-06
 prodnum: 302
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1407-underacloud-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1407-underacloud-002.jpg
 ---
 
 ## Synopsis

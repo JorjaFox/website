@@ -10,6 +10,13 @@ season: 5
 epnum: 23
 date: 2005-05-12
 prodnum: 523
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/523-iced_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/523-iced_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/523-iced_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/523-iced_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/523-iced_005.jpg"
 ---
 
 ## Synopsis

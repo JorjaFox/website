@@ -10,6 +10,14 @@ season: 15
 epnum: 5
 date: 2014-11-09
 prodnum: 322
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1505-girls-gone-wilder_001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1505-girls-gone-wilder_002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1505-girls-gone-wilder_003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1505-girls-gone-wilder_004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1505-girls-gone-wilder_005.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1505-girls-gone-wilder_006.jpg
 ---
 
 _This episode was delayed **two weeks** due to football_

@@ -10,6 +10,11 @@ season: 4
 epnum: 17
 date: 2004-03-11
 prodnum: 417
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/417-xx_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/417-xx_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/417-xx_003.jpg"
 ---
 
 ## Synopsis

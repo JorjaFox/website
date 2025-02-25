@@ -10,6 +10,9 @@ season: 15
 epnum: 16
 date: 2015-01-27
 prodnum: 333
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1516-lastride-001.jpg
 ---
 
 ## Synopsis

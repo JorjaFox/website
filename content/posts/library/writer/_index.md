@@ -3,6 +3,7 @@ layout: library
 title: "Writer"
 author: "Mika A. Epstein"
 permalink: /writer/
+searchExclude: true
 ---
 
 {{< filmography type="writer" >}}

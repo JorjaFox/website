@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-11-04
 season: 1
 episode: 7
+description: "Missing dental hygienist's car is found with Black Magic books and items in the trunk, and her parents can't seem to decide whether or not they want to find her. A wife goes out for groceries and never comes back. Constance gets flowers."
 ---
 
 ## Synopsis

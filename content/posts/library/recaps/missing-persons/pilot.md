@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-08-30
 season: 1
 episode: 1
+description: "As we meet the characters, Johnny investigates a case of a little Polish girl snatched on a subway train, Carlos tries to find a 14 year old victim of sexual abuse, Bobby searches for a missing law student, and Connie gets frustrated because she isn't given any cases."
 ---
 
 ## Synopsis

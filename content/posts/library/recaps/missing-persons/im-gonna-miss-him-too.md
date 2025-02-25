@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-11-04
 season: 1
 episode: 8
+description: "A young boy runs away from home, returning to take his little brother with him, after his potential stepfather steals from their home and blames it on him, and then threatens his life. Connie has to trace the family of an heroic John Doe who saved a little girl's life, in order to find out what his medical problems are, and along the way feels some chemistry with the surgeon."
 ---
 
 ## Synopsis

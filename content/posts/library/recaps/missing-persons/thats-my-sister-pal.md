@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-10-14
 season: 1
 episode: 5
+description: "Carlos and Connie search for a missing teen who has upset a drug lord."
 ---
 
 ## Synopsis

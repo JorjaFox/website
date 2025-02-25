@@ -12,6 +12,7 @@ epnum: Two
 prodnum: 466351
 date: 1997-10-02
 rating: 1
+description: "Still suffering emotionally from his beating, Greene misdiagnoses his cases. Benton and Carla finally name their son, who is recovering from his premature birth. Hathaway and Ross continue their secret affair. Carter deals with the loss of his seniority due to his move from surgery to the ER."
 ---
 
 ## Summary

@@ -12,6 +12,7 @@ epnum: Six
 prodnum: 465406
 date: 1996-11-07
 rating: 2
+description: "Lewis and Greene rush to a car accident in a helicopter. Benton makes a mistake during surgery that puts a baby's life in jeopardy. Carol is displeased when a floor nurse gets floated into the ER and doesn't do a great job because she is inept. [ As Jorjan Fox ]"
 ---
 
 _Note: Jorja Fox credited as Jorjan Fox_

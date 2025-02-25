@@ -12,6 +12,7 @@ epnum: Twenty-One
 prodnum: 465421
 date: 1997-05-08
 rating: 3
+description: "It is Hathaway's birthday, but she does not want to hear about it. And it is the birth of Carla and Peter's son when she goes into early labor. Carter's patient-centric approach clashes with Anspaugh's fixation on surgery to treat patients. Greene returns to the ER, but settling in proves difficult."
 ---
 
 ## Summary

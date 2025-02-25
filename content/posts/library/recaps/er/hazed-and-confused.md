@@ -12,6 +12,7 @@ epnum: Seven
 prodnum: 467557
 date: 1998-11-12
 rating: 1
+description: "Carter finds out that Lucy doesn't know how to start an IV. Weaver interviews for a job as the ER Chief. Benton keeps his son's disease a secret. Jeanie intervenes when she finds out a liver transplant candidate is drinking again, and later asks Ross if she can be assigned to work for his Peds project in the ER. Corday gets stuck as the intern of the smarmy Dr. Dale Edson."
 ---
 
 ## Summary

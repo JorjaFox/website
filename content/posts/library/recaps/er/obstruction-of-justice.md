@@ -12,6 +12,7 @@ epnum: Two
 prodnum: 466359
 date: 1997-12-11
 rating: 1
+description: "Synergix starts setting up shop at County General. Defending a patient he suspects is abused, Carter is arrested for refusing to cooperate with a cop. While Weaver agrees to give Jeanie her job back, Al, her ex-husband whom she's living with, leaves for Atlanta to start over without Jeanie. Cynthia rubs Greene's ex-wife the wrong way concerning Rachel. Greene's lawyer tours the ER and ends up saving a life himself. Corday operates to save the leg of a young woman named Alison Beaumont, and the patient goes into a coma, causing Corday to question her own ambitions."
 ---
 
 ## Summary

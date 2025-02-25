@@ -12,6 +12,7 @@ epnum: Twenty
 prodnum: 20
 date: 2009-03-19
 rating: 0
+description: "Neela clashes with Dubenko on two surgical cases and looks to prove her worth as attending material before she leaves County for good. Brenner looks to gain some insight into his abusive childhood."
 ---
 
 Note: Jorja Fox does not appear in this episode.

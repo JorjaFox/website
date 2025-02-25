@@ -12,6 +12,7 @@ epnum: Thirteen
 prodnum: 465413
 date: 1997-01-30
 rating: 2
+description: "A good day for Greene: he and Marquez end their romance amicably, and his mentoring of prospective interns earns praise. A lousy day for Hathaway: she is suspended from the staff."
 ---
 
 ## Summary

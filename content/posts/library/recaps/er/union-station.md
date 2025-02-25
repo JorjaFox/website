@@ -12,6 +12,7 @@ epnum: Eight
 prodnum: 465408
 date: 1996-11-21
 rating: 4
+description: "Time and Cupid wait for no man. A wedding in the waiting room contrasts with Greene's inability to express his feelings to Lewis, even though it is her last day in the ER. Elsewhere, nurse Lydia finally gets her cop boyfriend to marry her, while Doug and runaway Charlie try to help a baby whose mother has vanished. [ As Jorjan Fox ]"
 ---
 
 _Note: Jorja Fox credited as Jorjan Fox_

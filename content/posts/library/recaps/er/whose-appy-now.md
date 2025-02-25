@@ -12,6 +12,7 @@ epnum: Fourteen
 prodnum: 465414
 date: 1997-02-06
 rating: 5
+description: "Carter is the delighted surgeon when Benton needs an appendectomy. Ross grapples with a teen's DNR request. Greene proves that the only thing worse than a two-timing cad is a three-timer."
 ---
 
 ## Summary

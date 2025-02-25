@@ -12,6 +12,7 @@ epnum: Eighteen
 prodnum: 465418
 date: 1997-04-17
 rating: 2
+description: "Carter puts his career in jeopardy when he circumvents channels to arrange surgery for a racetrack gambler. Jeanie reconsiders her plight when she cares for an AIDS victim loathed by her unforgiving husband. Carol's inferiority about being a nurse instead of a doctor causes her to clash with the younger Maggie. Greene learns that Rachel is having problems at school, and must balance his time between Rachel and improving his chance to attain tenure by publishing interesting ER cases."
 ---
 
 ## Summary

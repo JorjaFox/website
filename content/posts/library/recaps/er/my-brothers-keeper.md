@@ -12,6 +12,7 @@ epnum: Sixteen
 prodnum: 466366
 date: 1998-03-05
 rating: 1
+description: "Weaver accuses Ross of presenting a flawed research study. Greene searches for Cynthia. Carter's drug addict cousin Chase overdoses. Corday receives her first performance review from Romano and becomes closer to Benton. Scott and Jeanie continue their friendship."
 ---
 
 ## Summary

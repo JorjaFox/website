@@ -12,6 +12,7 @@ epnum: Fifteen
 prodnum: 467565
 date: 1999-02-18
 rating: 1
+description: "The ER is flooded with the victims of the school bus accident. Jeanie is not critically injured from the previous episode's crash but gets other bad medical news. Mobalage's wife is having doubts about her husband's surgery and shares a horrifying secret with Hathaway. Carter and Lucy decide not to pursue a relationship despite the kiss shared in a previous episode. Mobalage's wife is brutally stabbed. Ross makes a decision regarding his status at County."
 ---
 
 ## Summary

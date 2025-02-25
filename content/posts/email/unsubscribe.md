@@ -2,6 +2,7 @@
 title: Unsubscribe
 date: '2024-08-14'
 layout: library
+searchExclude: true
 ---
 
 {{< alert color="success" icon="fas fa-face-sad-cry" >}}

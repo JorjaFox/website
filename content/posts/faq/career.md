@@ -2,9 +2,8 @@
 title: About Jorja Fox's Career
 categories: ["FAQ"]
 layout: library
+description: "Questions about Jorja's career on TV and in movies."
 ---
-
-The following questions pertain to Jorja's career on TV and in movies.
 
 For more questions about her personal life and advocacy, please read the **[FAQ about Jorja](/faq/jorja/)**.
 

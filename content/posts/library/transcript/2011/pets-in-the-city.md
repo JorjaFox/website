@@ -1,5 +1,7 @@
 ---
 title: Pets In The City
+description: 'Pets In The City - 2011-02-09'
+title: Pets In The City
 date: 2011-02-09
 transcriber: "Mika A. Epstein"
 layout: transcript

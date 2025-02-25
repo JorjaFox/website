@@ -1,5 +1,7 @@
 ---
 title: Extra at the EMA Awards Green Carpet
+description: 'Extra at the EMA Awards Green Carpet - 2015-10-24'
+title: Extra at the EMA Awards Green Carpet
 date: 2015-10-24
 transcriber: "Mika A. Epstein"
 layout: transcript

@@ -1,5 +1,7 @@
 ---
 title: "Lions Arrive At San Francisco Airport with 'CSI's' Jorja Fox"
+description: '"Lions Arrive At San Francisco Airport with 'CSI's' Jorja Fox" - 2010-05-27'
+title: "Lions Arrive At San Francisco Airport with 'CSI's' Jorja Fox"
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-05-27

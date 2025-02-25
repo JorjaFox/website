@@ -1,5 +1,7 @@
 ---
 title: The Talk (23 October 2013)
+description: 'The Talk (23 October 2013) - 2013-10-23'
+title: The Talk (23 October 2013)
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-10-23

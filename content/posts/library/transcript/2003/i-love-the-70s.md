@@ -1,5 +1,7 @@
 ---
 title: "I Love the '70s"
+description: '"I Love the '70s" - 2003-08-18'
+title: "I Love the '70s"
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2003-08-18

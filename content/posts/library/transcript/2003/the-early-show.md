@@ -1,5 +1,7 @@
 ---
 title: The Early Show
+description: 'The Early Show - 2003-01-09'
+title: The Early Show
 transcriber: David Masters
 layout: transcript
 date: 2003-01-09

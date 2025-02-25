@@ -1,5 +1,7 @@
 ---
 title: 'My First Place: Celebrity Style'
+description: ''My First Place: Celebrity Style' - 2005-01-01'
+title: 'My First Place: Celebrity Style'
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2005-01-01

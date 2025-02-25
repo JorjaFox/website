@@ -1,5 +1,7 @@
 ---
 title: ADI Jorja Fox Addresses Congress
+description: 'ADI Jorja Fox Addresses Congress - 2011-11-02'
+title: ADI Jorja Fox Addresses Congress
 date: 2011-11-02
 transcriber: "Mika A. Epstein"
 layout: transcript

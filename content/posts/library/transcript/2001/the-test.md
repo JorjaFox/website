@@ -1,5 +1,7 @@
 ---
 title: The Test
+description: 'The Test - 2001-04-24'
+title: The Test
 date: 2001-04-24
 transcriber: "Mika A. Epstein"
 layout: transcript

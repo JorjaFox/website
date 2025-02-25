@@ -1,5 +1,7 @@
 ---
 title: Ausiello TV
+description: 'Ausiello TV - 2008-09-21'
+title: Ausiello TV
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-09-21

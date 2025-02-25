@@ -1,5 +1,7 @@
 ---
 title: TV Guide Channel Insider
+description: 'TV Guide Channel Insider - 2003-04-22'
+title: TV Guide Channel Insider
 date: 2003-04-22
 transcriber: "Mika A. Epstein"
 layout: transcript

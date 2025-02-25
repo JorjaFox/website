@@ -1,5 +1,7 @@
 ---
 title: Mill Valley Film Festival Screening (05 October 2013)
+description: 'Mill Valley Film Festival Screening (05 October 2013) - 2013-10-05'
+title: Mill Valley Film Festival Screening (05 October 2013)
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-10-05

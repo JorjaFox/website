@@ -1,5 +1,7 @@
 ---
 title: Transcripts (2016)
+description: 'Transcripts (2016) - 2016-01-01'
+title: Transcripts (2016)
 transcriber: "Mika A. Epstein"
 layout: transcript-index
 topic: index

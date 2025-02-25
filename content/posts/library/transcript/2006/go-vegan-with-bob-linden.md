@@ -1,5 +1,7 @@
 ---
 title: Go Vegan with Bob Linden
+description: 'Go Vegan with Bob Linden - 2006-09-03'
+title: Go Vegan with Bob Linden
 transcriber: David Masters
 layout: transcript
 interviewurl: https://www.GoVeganRadio.com

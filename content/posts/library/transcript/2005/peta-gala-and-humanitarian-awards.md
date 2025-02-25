@@ -1,5 +1,7 @@
 ---
 title: PETA Gala and Humanitarian Awards
+description: 'PETA Gala and Humanitarian Awards - 2005-09-10'
+title: PETA Gala and Humanitarian Awards
 date: 2005-09-10
 transcriber: David Masters
 layout: transcript

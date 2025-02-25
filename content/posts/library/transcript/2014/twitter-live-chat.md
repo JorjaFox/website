@@ -1,5 +1,7 @@
 ---
 title: Twitter Live Chat
+description: 'Twitter Live Chat - 2014-03-05'
+title: Twitter Live Chat
 date: 2014-03-05
 transcriber: "Mika A. Epstein"
 layout: transcript

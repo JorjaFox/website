@@ -1,5 +1,7 @@
 ---
 title: PETA Vegetarian Thanksgiving
+description: 'PETA Vegetarian Thanksgiving - 2006-11-01'
+title: PETA Vegetarian Thanksgiving
 date: 2006-11-01
 transcriber: David Masters
 layout: transcript

@@ -1,5 +1,7 @@
 ---
 title: Entertainment Weekly 6th Annual Pre-Emmy Party
+description: 'Entertainment Weekly 6th Annual Pre-Emmy Party - 2008-09-20'
+title: Entertainment Weekly 6th Annual Pre-Emmy Party
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-09-20

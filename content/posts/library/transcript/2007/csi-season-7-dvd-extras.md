@@ -1,5 +1,7 @@
 ---
 title: CSI season 7 DVD extras
+description: 'CSI season 7 DVD extras - 2007-07-01'
+title: CSI season 7 DVD extras
 date: 2007-07-01
 transcriber: David Masters
 layout: transcript

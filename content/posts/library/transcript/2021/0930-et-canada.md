@@ -1,5 +1,7 @@
 ---
 title: "ET Canada - Jorja Fox, Paula Newsome Think Fans Will 'Fall In Love' With 'CSI: Vegas' Reboot | EXTENDED"
+description: '"ET Canada - Jorja Fox, Paula Newsome Think Fans Will 'Fall In Love' With 'CSI: Vegas' Reboot | EXTENDED" - 2021-09-30'
+title: "ET Canada - Jorja Fox, Paula Newsome Think Fans Will 'Fall In Love' With 'CSI: Vegas' Reboot | EXTENDED"
 date: 2021-09-30
 transcriber: "Mika A. Epstein"
 layout: transcript

@@ -1,5 +1,7 @@
 ---
 title: Shark Allies
+description: 'Shark Allies - 2015-09-29'
+title: Shark Allies
 date: 2015-09-29
 transcriber: "Mika A. Epstein"
 layout: transcript

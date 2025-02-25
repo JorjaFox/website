@@ -1,5 +1,7 @@
 ---
 title: SpinDaily
+description: 'SpinDaily - 2007-03-16'
+title: SpinDaily
 transcriber: David Masters
 layout: transcript
 date: 2007-03-16

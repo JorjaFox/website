@@ -1,5 +1,7 @@
 ---
 title: 'CSI Star Jorja Fox Spills Show Secrets - OMG Insider'
+description: ''CSI Star Jorja Fox Spills Show Secrets - OMG Insider' - 2013-02-20'
+title: 'CSI Star Jorja Fox Spills Show Secrets - OMG Insider'
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-02-20

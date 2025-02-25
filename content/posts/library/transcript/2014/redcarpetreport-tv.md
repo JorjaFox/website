@@ -1,5 +1,7 @@
 ---
 title: RedCarpetReport TV
+description: 'RedCarpetReport TV - 2014-12-05'
+title: RedCarpetReport TV
 date: 2014-12-05
 interviewurl: https://www.redcarpetreporttv.com
 transcriber: "Mika A. Epstein"

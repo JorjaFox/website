@@ -1,5 +1,7 @@
 ---
 title: ET Online
+description: 'ET Online - 2006-04-27'
+title: ET Online
 transcriber: "Mika A. Epstein"
 interviewurl: https://www.etonline.com
 date: 2006-04-27

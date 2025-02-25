@@ -1,5 +1,7 @@
 ---
 title: Living TV
+description: 'Living TV - 2003-09-21'
+title: Living TV
 transcriber: Karen P.
 layout: transcript
 date: 2003-09-21

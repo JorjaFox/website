@@ -1,5 +1,7 @@
 ---
 title: CableTV.com
+description: 'CableTV.com - 2013-09-24'
+title: CableTV.com
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.cabletv.com/blog/jorja-fox-says-this-season-of-csi-will-be-about-darkness-and-going-darker/

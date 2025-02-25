@@ -1,5 +1,7 @@
 ---
 title: The Daily Buzz
+description: 'The Daily Buzz - 2018-01-26'
+title: The Daily Buzz
 date: 2018-01-26
 transcriber: "Mika A. Epstein"
 layout: transcript

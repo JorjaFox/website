@@ -1,5 +1,7 @@
 ---
 title: Thinking Outside the Long Box
+description: 'Thinking Outside the Long Box - 2018-12-10'
+title: Thinking Outside the Long Box
 date: 2018-12-10
 transcriber: "Mika A. Epstein"
 layout: transcript

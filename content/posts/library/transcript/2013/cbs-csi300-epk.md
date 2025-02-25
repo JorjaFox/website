@@ -1,5 +1,7 @@
 ---
 title: CBS CSI300 EPK
+description: 'CBS CSI300 EPK - 2013-10-22'
+title: CBS CSI300 EPK
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-10-22

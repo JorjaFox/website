@@ -1,5 +1,7 @@
 ---
 title: "TV Insider"
+description: '"TV Insider" - 2021-08-31'
+title: "TV Insider"
 date: 2021-08-31
 transcriber: "Mika A. Epstein"
 layout: transcript

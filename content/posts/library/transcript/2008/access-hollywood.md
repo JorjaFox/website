@@ -1,5 +1,7 @@
 ---
 title: Access Hollywood
+description: 'Access Hollywood - 2008-05-04'
+title: Access Hollywood
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-05-04

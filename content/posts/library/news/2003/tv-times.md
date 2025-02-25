@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Applied Science
+description: Applied Science
 newsreporter: Staff
 newssource: TV Times
 newsurl: https://tvtimes.com

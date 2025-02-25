@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Fox And Eads Fired From The Cast Of CSI"
+description: "Fox And Eads Fired From The Cast Of CSI"
 newsreporter: Staff
 newssource: Elite TV
 newsurl: https://www.elitestv.com

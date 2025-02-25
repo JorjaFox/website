@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
-newstitle: "CSI: Sara and Grissom 'Absolutely Ended Up Together'"
+description: "CSI: Sara and Grissom 'Absolutely Ended Up Together'"
 newsreporter: Henrik Batallones
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx

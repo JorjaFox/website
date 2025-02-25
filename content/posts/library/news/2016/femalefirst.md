@@ -4,7 +4,7 @@ date: 2016-07-07
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2016"
-newstitle: "'My empathy and compassion for the human condition came first, and then it expanded'"
+description: "'My empathy and compassion for the human condition came first, and then it expanded'"
 newsreporter: "Lucy Moore"
 newssource: "FemaleFirst"
 newsurl: https://www.femalefirst.co.uk/vegan/jorja-fox-vegan-peta-958255.html

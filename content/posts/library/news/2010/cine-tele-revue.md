@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Sauveront-elles les Experts?  "
+description: "Sauveront-elles les Experts?  "
 newsreporter: Staff
 newssource: Cine Tele Revue
 newsurl: https://www.cinetelerevue.be

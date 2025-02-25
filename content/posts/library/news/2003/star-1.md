@@ -6,7 +6,7 @@ layout: news
 newsyear: "2003"
 newsreporter: Staff
 permalink: /news/2003/:title/
-newstitle: CSI Beauty Going From Lab Drab to Jorja Foxy
+description: CSI Beauty Going From Lab Drab to Jorja Foxy
 newssource: Star Magazine
 newsurl: https://www.starmagazine.com
 ---

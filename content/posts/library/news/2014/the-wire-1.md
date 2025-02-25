@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "Fifteen Years at County General: Definitively Ranking the Cast of 'ER'"
+description: "Fifteen Years at County General: Definitively Ranking the Cast of 'ER'"
 newsreporter: David Sims
 newssource: The Wire
 newsurl: https://www.thewire.com/entertainment/2014/09/fifteen-years-at-county-general-definitively-ranking-all-of-ers-doctors-and-nurses/380164/

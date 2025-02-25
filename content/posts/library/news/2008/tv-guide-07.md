@@ -6,7 +6,7 @@ layout: news
 newsyear: "2008"
 permalink: /news/2008/:title/
 
-newstitle: "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Faith and More!  "
+description: "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Faith and More!  "
 newsreporter: Matt Roush
 newssource: TV Guide.com - Ask Matt
 newsurl: https://www.tvguide.com/Roush/Ask-Matt-ER-34627.aspx

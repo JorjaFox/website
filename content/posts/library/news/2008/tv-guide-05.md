@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Jorja's Coming Back to 'CSI'"
+description: "Jorja's Coming Back to 'CSI'"
 newsreporter: Franck Ragaine
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com/Magazine/

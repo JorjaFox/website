@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "TCA BLOG: Diggs gets defensive; V. Williams gets 'Ugly'; Where are the black folks on CBS?; Rachel Ray rides Oprah into daytime; 'CSI' vs. 'Grey's Anatomy.'  "
+description: "TCA BLOG: Diggs gets defensive; V. Williams gets 'Ugly'; Where are the black folks on CBS?; Rachel Ray rides Oprah into daytime; 'CSI' vs. 'Grey's Anatomy.'  "
 newsreporter: Staff
 newssource: EURweb.com
 newsurl: https://EURweb.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Sara Returns For Tenth Season Of CSI On CBS  "
+description: "Sara Returns For Tenth Season Of CSI On CBS  "
 newsreporter: Staff
 newssource: CBS4
 newsurl: https://cbs4.com/entertainment/CBS.Season.premiere.2.1205834.html

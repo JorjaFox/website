@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Las Vegas 'CSI' makes news on Press Tour"
+description: "Las Vegas 'CSI' makes news on Press Tour"
 newsreporter: Staff
 newssource: New York City
 newsurl: https://www.nynewsday.com

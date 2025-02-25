@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "'CSI' spoils our Jorja peach  "
+description: "'CSI' spoils our Jorja peach  "
 newsreporter: the lister
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Fired 'CSI' stars will return to show after all"
+description: "Fired 'CSI' stars will return to show after all"
 newsreporter: Staff
 newssource: IndyStar
 newsurl: https://www.indystar.com/

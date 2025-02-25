@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: Billy Masters
+description: Billy Masters
 newsreporter: Staff
 newssource: Bay Windows
 newsurl: https://baywindows.com

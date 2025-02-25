@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' Spoiler Alert! What's next for Gil and Sara?"
+description: "'CSI' Spoiler Alert! What's next for Gil and Sara?"
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "THIS JUST IN... From the CBS Television Network... JORJA FOX RETURNS TO CSI!  "
+description: "THIS JUST IN... From the CBS Television Network... JORJA FOX RETURNS TO CSI!  "
 newsreporter: CBS Entertainment
 newssource: CBS Entertainment Releases
 newsurl: https://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=22289

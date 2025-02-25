@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Guess Who's Serving You Dinner?
+description: Guess Who's Serving You Dinner?
 newsreporter: Staff
 newssource: In Style Magazine
 newsurl: https://instyle.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Ask Stacy  "
+description: "Ask Stacy  "
 newsreporter: Marilyn Beck and Stacy Jenel Smith
 newssource: Creators Syndicate
 newsurl: https://www.creators.com/lifestylefeatures/hollywood-exclusive/ask-stacy-2008-03-08.html

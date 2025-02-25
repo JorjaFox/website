@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Ask Matt: *Damages*' Rescue, Summer Crime Drama, *The Choir* and More!  "
+description: "Ask Matt: *Damages*' Rescue, Summer Crime Drama, *The Choir* and More!  "
 newsreporter: Matt Roush
 newssource: TV Guide.com
 newsurl: https://www.tvguide.com/News/Ask-Matt-Damages-1020939.aspx

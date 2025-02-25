@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Behind The Scenes Of 'CSI'  "
+description: "Behind The Scenes Of 'CSI'  "
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com/

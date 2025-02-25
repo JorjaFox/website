@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Nelly rocks, Theron and Lauper spotted at SAG bash  "
+description: "Nelly rocks, Theron and Lauper spotted at SAG bash  "
 newsreporter: Lori Midson
 newssource: Rocky Mountain News
 newsurl: https://www.rockymountainnews.com/news/2008/aug/27/nelly-rocks-house-sag-bash/

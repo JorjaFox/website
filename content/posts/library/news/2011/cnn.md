@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Bob Barker touts bill to protect traveling circus animals  "
+description: "Bob Barker touts bill to protect traveling circus animals  "
 newsreporter: Stacey Samuel
 newssource: CNN
 newsurl: https://www.cnn.com/2011/11/02/politics/barker-circus-animals-bill/

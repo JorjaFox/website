@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "The lowdown on ...  "
+description: "The lowdown on ...  "
 newsreporter: Staff
 newssource: Daily Mail UK
 newsurl: https://www.dailymail.co.uk

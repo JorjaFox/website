@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "Returning Favorites: CSI"
+description: "Returning Favorites: CSI"
 newsreporter: Michael Logan
 newssource: TV Guide Magazine
 newsurl: https://tvguidemagazine.com

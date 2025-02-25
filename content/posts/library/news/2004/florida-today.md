@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CSI star, who grew up in Brevard, fired from show, report says"
+description: "CSI star, who grew up in Brevard, fired from show, report says"
 newsreporter: Staff
 newssource: Florida Today
 newsurl: https://www.floridatoday.com/

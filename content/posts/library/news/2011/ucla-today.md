@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Japan is well on the road to recovery, ambassador says  "
+description: "Japan is well on the road to recovery, ambassador says  "
 newsreporter: Wendy Soderburg
 newssource: UCLA Today
 newsurl: https://today.ucla.edu/portal/ut/japan-stays-front-and-center-at-208557.aspx

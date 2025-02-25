@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: "CSI STAR Jorja Fox's answered prayer"
+description: "CSI STAR Jorja Fox's answered prayer"
 newsreporter: Staff
 newssource: INQ 7
 newsurl: https://www.inq7.net/ent/2003/apr/04/ent_3-1.htm

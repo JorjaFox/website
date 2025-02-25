@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "'CSI's' Jorja Fox Inks New Deal to Return to CBS Drama (Exclusive)  "
+description: "'CSI's' Jorja Fox Inks New Deal to Return to CBS Drama (Exclusive)  "
 newsreporter: Lesley Goldberg
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/live-feed/csi-jorja-fox-new-deal-cbs-television-studios-323338

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "The CSI Cast Reflects On the Show's Finest Hours  "
+description: "The CSI Cast Reflects On the Show's Finest Hours  "
 newsreporter: William Keck
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/CSI-300-Episodes-Best-1072388.aspx

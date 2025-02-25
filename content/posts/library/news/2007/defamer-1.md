@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "What Gay Celebrities And John Mayer Think About Isaiah Washington: A Round-Up"
+description: "What Gay Celebrities And John Mayer Think About Isaiah Washington: A Round-Up"
 newsreporter: Seth
 newssource: Defamer Hollywood
 newsurl: https://defamer.com/

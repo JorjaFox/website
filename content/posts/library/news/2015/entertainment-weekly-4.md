@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "CSI series finale react: Into the sunset"
+description: "CSI series finale react: Into the sunset"
 newsreporter: Darren Franich
 newssource: E! Online
 newsurl: https://www.ew.com/article/2015/09/25/csi-series-finale-immortality-recap

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' outshines stars"
+description: "'CSI' outshines stars"
 newsreporter: Doug Elfman
 newssource: Chicago Sun-Times
 newsurl: https://www.suntimes.com

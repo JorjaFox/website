@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "ALARM CLOCKS ARE EXPENSIVE"
+description: "ALARM CLOCKS ARE EXPENSIVE"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

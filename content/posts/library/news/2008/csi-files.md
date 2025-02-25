@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Allen MacDonald  "
+description: "Allen MacDonald  "
 newsreporter: Kristine Huntley
 newssource: CSI Files
 newsurl: https://www.csifiles.com/interviews/allen_macdonald.shtml

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Actresses ready for 'Dear Bernard' opening"
+description: "Actresses ready for 'Dear Bernard' opening"
 newsreporter: Staff
 newssource: Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com

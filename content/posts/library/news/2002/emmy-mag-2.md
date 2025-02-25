@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: "Hole That Fiber!"
+description: "Hole That Fiber!"
 newsreporter: Staff
 newssource: Emmy Magazine
 newsurl: https://emmy.com

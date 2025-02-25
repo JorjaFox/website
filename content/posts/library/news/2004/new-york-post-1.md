@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'BYE GEORGE & JORJA"
+description: "'BYE GEORGE & JORJA"
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://www.nypost.com/

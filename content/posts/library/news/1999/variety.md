@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: The Hungry Bachelors Club
+description: The Hungry Bachelors Club
 newsreporter: Staff
 newssource: Variety
 newsurl: https://www.variety.com

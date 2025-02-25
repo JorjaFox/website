@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "'CSI': Jorja Fox Back as Series Regular  "
+description: "'CSI': Jorja Fox Back as Series Regular  "
 newsreporter: Lesley Goldberg
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517

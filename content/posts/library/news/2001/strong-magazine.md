@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Quotes
+description: Quotes
 newsreporter: Staff
 newssource: Strong Magazine
 newsurl: https://strongmagazine.com/

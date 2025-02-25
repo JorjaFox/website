@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox's 'CSI' Return Extended Indefinitely  "
+description: "Jorja Fox's 'CSI' Return Extended Indefinitely  "
 newsreporter: Henrik Batallones
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/jorja-foxs-csi-return-extended-31893.aspx

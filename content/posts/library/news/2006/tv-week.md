@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Marg Helgenberger Got Slipped a Roofie, But It's Not a Bad Thing  "
+description: "Marg Helgenberger Got Slipped a Roofie, But It's Not a Bad Thing  "
 newsreporter: Staff
 newssource: TV Week
 newsurl: https://www.tvweek.com/

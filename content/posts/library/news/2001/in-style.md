@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Star Talk
+description: Star Talk
 newsreporter: Staff
 newssource: In Style
 newsurl: https://www.instyle.com/instyle/read/ci/startalk/0,10285,167332,00.html

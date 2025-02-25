@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "'CSI' justifies intense Ebola fears with rural outbreaks"
+description: "'CSI' justifies intense Ebola fears with rural outbreaks"
 newsreporter: Whitney McIntosh
 newssource: Zap2It
 newsurl: https://www.zap2it.com/blogs/csi_season_15_episode_3_ebola-2014-10

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "CSI finale: William Petersen's lips are sealed on a potential Sara-Grissom reunion"
+description: "CSI finale: William Petersen's lips are sealed on a potential Sara-Grissom reunion"
 newsreporter: Mary Sollosi
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/article/2015/09/17/william-petersen-csi-finale-sara-grissom

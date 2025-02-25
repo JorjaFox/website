@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Matt's TV Week in Review"
+description: "Matt's TV Week in Review"
 newsreporter: Kate Stanhope
 newssource: "Today's News: Our Take"
 newsurl: https://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx

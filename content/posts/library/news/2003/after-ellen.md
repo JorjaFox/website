@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Maggie Doyle and the Lesbian-Feminist Connection
+description: Maggie Doyle and the Lesbian-Feminist Connection
 newsreporter: Sarah Warn
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/

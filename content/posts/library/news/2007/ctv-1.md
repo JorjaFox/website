@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "The death of all romance: Could the Sara-Grissom affair be over?"
+description: "The death of all romance: Could the Sara-Grissom affair be over?"
 newsreporter: Staff
 newssource: CTV
 newsurl: https://www.ctv.ca

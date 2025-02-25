@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox Returns To 'CSI'"
+description: "Jorja Fox Returns To 'CSI'"
 newsreporter: Staff
 newssource: Perez Hilton
 newsurl: https://perezhilton.com/2009-07-18-jorja-fox-returns-to-csi

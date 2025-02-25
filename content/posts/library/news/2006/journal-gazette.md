@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "'CSI' adds love story as competition nears  "
+description: "'CSI' adds love story as competition nears  "
 newsreporter: Staff
 newssource: Journal Gazette
 newsurl: https://www.fortwayne.com/

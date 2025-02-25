@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Esprite de Corpse"
+description: "Esprite de Corpse"
 newsreporter: Staff
 newssource: The Globe and Mail
 newsurl: https://www.theglobeandmail.com

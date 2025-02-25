@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' Rehires Fox; Eads Waits to Hear"
+description: "'CSI' Rehires Fox; Eads Waits to Hear"
 newsreporter: Staff
 newssource: Maxim
 newsurl: https://tv.zap2it.com/

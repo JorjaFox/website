@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle:  The Meaning of 'Memento'
+description:  The Meaning of 'Memento'
 newsreporter: Staff
 newssource: Zap2it
 newsurl: https://zap2it.com

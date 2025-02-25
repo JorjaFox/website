@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Jorja Fox - More from the set of CSI"
+description: "Jorja Fox - More from the set of CSI"
 newsreporter: Staff
 newssource: Empire
 newsurl: https://www.empireonline.com

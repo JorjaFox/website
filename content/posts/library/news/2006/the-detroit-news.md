@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "'CSI' faces competition with love  "
+description: "'CSI' faces competition with love  "
 newsreporter: Staff
 newssource: The Detroit News
 newsurl: https://www.detroitnews.com/

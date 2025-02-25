@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Former Mel-Hi student Fox leaving CSI  "
+description: "Former Mel-Hi student Fox leaving CSI  "
 newsreporter: Staff
 newssource: Florida Today
 newsurl: https://www.floridatoday.com/apps/pbcs.dll/article?AID=/20071016/BREAKINGNEWS/71016003/1086

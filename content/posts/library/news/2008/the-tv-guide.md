@@ -6,7 +6,7 @@ layout: news
 newsyear: "2008"
 permalink: /news/2008/:title/
 
-newstitle: "Life after Jorja"
+description: "Life after Jorja"
 newsreporter: Jenny Cooney Carrillo
 newssource: The TV Guide
 newsurl: https://tv-guide.co.nz

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Girl Interrupted  "
+description: "Girl Interrupted  "
 newsreporter: Bryan Cairns
 newssource: The Official CSI Magazine
 newsurl: https://www.titanmagazines.com/app?service=external/Product&sp=l1075

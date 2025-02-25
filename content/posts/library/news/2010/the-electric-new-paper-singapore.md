@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Back on CSI, but she'd rather get Lost  "
+description: "Back on CSI, but she'd rather get Lost  "
 newsreporter: Charlene Chua
 newssource: The Electric New Paper, Singapore
 newsurl: https://tnp.sg/show/story/0,4136,230452,00.html

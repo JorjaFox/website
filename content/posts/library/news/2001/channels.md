@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Jorja Peaches
+description: Jorja Peaches
 newsreporter: Staff
 newssource: Channels
 newsurl: https://channels.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "The Grissoms Get Centerstage on 'CSI'  "
+description: "The Grissoms Get Centerstage on 'CSI'  "
 newsreporter: Orrymain
 newssource: DTVUSAForum.co
 newsurl: https://www.dtvusaforum.com/content/469-grissoms-get-centerstage-csi.html

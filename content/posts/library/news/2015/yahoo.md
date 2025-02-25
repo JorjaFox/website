@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "'CSI' ends its 15-season run with 2-hour reunion finale"
+description: "'CSI' ends its 15-season run with 2-hour reunion finale"
 newsreporter: Fraizer Moore
 newssource: Yahoo! News
 newsurl: https://news.yahoo.com/csi-ends-15-season-run-2-hour-reunion-132146292.html

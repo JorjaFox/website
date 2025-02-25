@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Gossip - The Awful Truth"
+description: "Gossip - The Awful Truth"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://www.eonline.com/

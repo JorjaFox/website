@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "ER Finale  "
+description: "ER Finale  "
 newsreporter: Staff
 newssource: Us Magazine
 newsurl: https://usmagazine.com

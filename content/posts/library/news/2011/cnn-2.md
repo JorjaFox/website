@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Lions rescued in Bolivia have new home on plains of Colorado  "
+description: "Lions rescued in Bolivia have new home on plains of Colorado  "
 newsreporter: CNN Wire Staff
 newssource: CNN
 newsurl: https://www.cnn.com/

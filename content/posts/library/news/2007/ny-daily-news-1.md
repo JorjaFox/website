@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' makes strong case to be 'Scene'"
+description: "'CSI' makes strong case to be 'Scene'"
 newsreporter: NY Daily News
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/

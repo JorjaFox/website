@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Interview: CSI's Jorja Fox  "
+description: "Interview: CSI's Jorja Fox  "
 newsreporter: Amy and Nancy Harrington
 newssource: ScreenPicks
 newsurl: https://screenpicks.com/2012/10/interview-csis-jorja-fox/

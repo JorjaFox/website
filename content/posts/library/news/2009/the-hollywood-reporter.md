@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox back on the case at 'CSI'  "
+description: "Jorja Fox back on the case at 'CSI'  "
 newsreporter: Nellie Andreeva
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/hr/content_display/news/e3ibdf529f18374f6c927c299508c098b12

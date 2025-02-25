@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: "TV's Weirdest Romance"
+description: "TV's Weirdest Romance"
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://www.nypost.com/entertainment/4745.htm

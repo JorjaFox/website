@@ -6,7 +6,7 @@ layout: news
 newsyear: "2011"
 permalink: /news/2011/:title/
 
-newstitle: "Are you ready for the Internation day of action for elephants in zoos?"
+description: "Are you ready for the Internation day of action for elephants in zoos?"
 newsreporter: Catherine Doyle
 newssource: IDA Blog
 newsurl: https://www.idablog.org/elephants/are-you-ready-for-the-international-day-of-action-for-elephants-in-zoos/

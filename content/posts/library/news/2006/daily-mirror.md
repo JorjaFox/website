@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Is eating meat a crime?  "
+description: "Is eating meat a crime?  "
 newsreporter: Staff
 newssource: Daily Mirror
 newsurl: https://bond.lanesystems.com

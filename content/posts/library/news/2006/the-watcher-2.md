@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Solving the mystery of the CSI finale shocker  "
+description: "Solving the mystery of the CSI finale shocker  "
 newsreporter: Staff
 newssource: The Watcher - A Chicago Tribune Web log
 newsurl: https://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/solving\_the_mys.html

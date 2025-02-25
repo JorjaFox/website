@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: Saying Goodbye to CSI
+description: Saying Goodbye to CSI
 newsreporter: Lynette Rice
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/

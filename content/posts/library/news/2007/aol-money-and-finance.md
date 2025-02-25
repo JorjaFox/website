@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox Quitting Role on CBS Hit 'CSI'  "
+description: "Jorja Fox Quitting Role on CBS Hit 'CSI'  "
 newsreporter: AP
 newssource: AOL Money and Finance
 newsurl: https://money.aol.com/news/articles/_a/jorja-fox-quitting-role-on-cbs-hit-csi/n20071016144209990009

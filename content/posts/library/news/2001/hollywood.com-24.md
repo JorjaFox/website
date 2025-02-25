@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: "TV Q&A: 'C.S.I.''s Jorja Fox"
+description: "TV Q&A: 'C.S.I.''s Jorja Fox"
 newsreporter: Staff
 newssource: Hollywood.com
 newsurl: https://hollywood.com

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: Watch CSI Immortality teaser as the team comes back together for one last case
+description: Watch CSI Immortality teaser as the team comes back together for one last case
 newsreporter: Alistair McGeorge
 newssource: Mirror
 newsurl: https://www.mirror.co.uk/tv/tv-news/watch-csi-immortality-teaser-team-6447877

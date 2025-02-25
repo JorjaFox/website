@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Exclusive: 'CSI's Jorja Fox"
+description: "Exclusive: 'CSI's Jorja Fox"
 newsreporter: Curve Magazine
 newssource: Curve Magazine
 newsurl: https://www.curvemag.com

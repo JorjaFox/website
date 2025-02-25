@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "[Q&A] Jorja On Our Mind "
+description: "[Q&A] Jorja On Our Mind "
 newsreporter: Rachel Dowd
 newssource: Vegetarian Times
 newsurl: https://www.vegetariantimes.com/

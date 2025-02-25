@@ -4,7 +4,7 @@ date: 2021-11-03
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "‘CSI: Vegas’: Jorja Fox Says Sara & Grissom Are ‘Pushed to the Limits’ After the Latest Twist"
+description: "‘CSI: Vegas’: Jorja Fox Says Sara & Grissom Are ‘Pushed to the Limits’ After the Latest Twist"
 newsreporter: "Meredith Jacobs"
 newssource: "TVInsider"
 newsurl: https://www.tvinsider.com/1020603/csi-vegas-episode-5-sara-grissom-martin-kline-dead-jorja-fox/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox sidles back to 'CSI' for several episodes  "
+description: "Jorja Fox sidles back to 'CSI' for several episodes  "
 newsreporter: Dorothy Snarker
 newssource: After Ellen
 newsurl: https://www.afterellen.com/blog/dorothysnarker/jorja-fox-sidles-back-to-csi-for-several-episodes

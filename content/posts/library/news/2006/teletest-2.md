@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Interview  "
+description: "Interview  "
 newsreporter: Staff
 newssource: Teletext
 newsurl:

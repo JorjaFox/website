@@ -4,7 +4,7 @@ date: 2016-03-07
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2016"
-newstitle: "Jorja Fox Lists 1930s Mediterranean in Los Angeles’s Silver Lake Community"
+description: "Jorja Fox Lists 1930s Mediterranean in Los Angeles’s Silver Lake Community"
 newsreporter: "Mark David"
 newssource: "Variety"
 newsurl: https://variety.com/2016/dirt/real-estalker/jorja-fox-lists-silver-lake-house-1201724559/

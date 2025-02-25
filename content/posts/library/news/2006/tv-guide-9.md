@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "TV Guide Blogs: Sara and Grissom Sittin' in a Tree... K-I-S-S-I-N-G  "
+description: "TV Guide Blogs: Sara and Grissom Sittin' in a Tree... K-I-S-S-I-N-G  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com

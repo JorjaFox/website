@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "CSI Bosses on 300 Episodes of Murder and the Legacy of Gil Grissom  "
+description: "CSI Bosses on 300 Episodes of Murder and the Legacy of Gil Grissom  "
 newsreporter: Adam Bryant
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/CSI-300th-Episode-Carol-Mendelsohn-1072418.aspx

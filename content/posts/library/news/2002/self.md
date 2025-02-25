@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: How I Work Out
+description: How I Work Out
 newsreporter: Shelly Levitt
 newssource: Self
 newsurl: https://self.com

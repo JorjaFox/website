@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: CSI Series Finale Drives Little Social Buzz
+description: CSI Series Finale Drives Little Social Buzz
 newsreporter: Karen Fratti
 newssource: LostRemote
 newsurl: https://www.adweek.com/lostremote/csi-series-finale-drives-little-social-buzz/54032

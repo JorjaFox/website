@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "What's on tonight: Thursday, Nov. 15"
+description: "What's on tonight: Thursday, Nov. 15"
 newsreporter: Mary-Ann McBride
 newssource: Albuquerque Tribune
 newsurl: https://www.abqtrib.com/news/2007/nov/15/whats-tonight-thursday-nov-15/

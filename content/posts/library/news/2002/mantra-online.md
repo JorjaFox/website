@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: Briefly
+description: Briefly
 newsreporter: Staff
 newssource: Mantra Online
 newsurl: https://news.mantraonline.com

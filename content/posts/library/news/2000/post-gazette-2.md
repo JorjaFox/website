@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: Even celebrities are carried away with castaways
+description: Even celebrities are carried away with castaways
 newsreporter: Staff
 newssource: Post-Gazette Publishing
 newsurl: https://www.post-gazette.com

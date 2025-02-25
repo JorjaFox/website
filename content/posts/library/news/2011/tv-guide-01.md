@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Jorja Fox Signs On for Full-Time CSI Gig  "
+description: "Jorja Fox Signs On for Full-Time CSI Gig  "
 newsreporter: Rich Juzwiak
 newssource: TV Guide
 newsurl: https://www.tvguide.com/News/Jorja-Fox-CSI-Regular-1035488.aspx

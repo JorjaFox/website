@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Can Grissom save Sara?"
+description: "Can Grissom save Sara?"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

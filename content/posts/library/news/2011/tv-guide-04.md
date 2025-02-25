@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "How CSI Landed Ted Danson "
+description: "How CSI Landed Ted Danson "
 newsreporter: Michael Schneider
 newssource: TV Guide
 newsurl: https://tvguidemagazine.com

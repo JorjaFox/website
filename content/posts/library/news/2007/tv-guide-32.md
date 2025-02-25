@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Finale burning questions answered!"
+description: "Finale burning questions answered!"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com/

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: CSI Gets Personal
+description: CSI Gets Personal
 newsreporter: Michael Logan
 newssource: TV Guide
 newsurl: https://tvguide.com/

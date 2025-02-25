@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Exclusive *CSI* Video: Is Grissom Returning?!  "
+description: "Exclusive *CSI* Video: Is Grissom Returning?!  "
 newsreporter: Michael Ausiello
 newssource: TV Line
 newsurl: https://www.tvline.com/2011/01/exclusive-csi-video-is-grissom-returning/

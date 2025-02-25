@@ -4,7 +4,7 @@ date: 2021-10-27
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "'CSI' Creator on the Magic of Reuniting With William Petersen and Jorja Fox on 'Vegas' Revival (Exclusive)"
+description: "'CSI' Creator on the Magic of Reuniting With William Petersen and Jorja Fox on 'Vegas' Revival (Exclusive)"
 newsreporter: "Phillipa Ng"
 newssource: "ET"
 newsurl: https://www.etonline.com/csi-creator-on-the-magic-of-reuniting-with-william-petersen-and-jorja-fox-on-vegas-revival

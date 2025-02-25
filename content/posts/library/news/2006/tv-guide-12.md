@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Las Vegas Confidential  "
+description: "Las Vegas Confidential  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

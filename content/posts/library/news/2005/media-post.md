@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Scripps To Debut TV Program Online"
+description: "Scripps To Debut TV Program Online"
 newsreporter: Staff
 newssource: Media Post
 newsurl: https://publications.mediapost.com/

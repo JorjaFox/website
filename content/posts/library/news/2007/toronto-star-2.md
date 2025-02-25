@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Hot Box: Television to talk about"
+description: "Hot Box: Television to talk about"
 newsreporter: Toronto Star
 newssource: Toronto Star
 newsurl: https://www.thestar.com/

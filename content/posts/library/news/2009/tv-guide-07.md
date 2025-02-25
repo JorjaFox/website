@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "*CSI*'s Riley Leaves the Lab  "
+description: "*CSI*'s Riley Leaves the Lab  "
 newsreporter: Carita Rizzo
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/news/csis-riley-leaves-the-lab-1852.html

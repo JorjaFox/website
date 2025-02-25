@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI STAR FOX FEARS SHE HAS UPSET TV BOSSES WITH VEGGIE AD  "
+description: "CSI STAR FOX FEARS SHE HAS UPSET TV BOSSES WITH VEGGIE AD  "
 newsreporter: Staff
 newssource: PR Inside
 newsurl: https://www.pr-inside.com/csi-star-fox-fears-she-has-upset-tv-bosses-with-veggie-ad-r4161.htm

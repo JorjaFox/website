@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "'CSI': Gil Grissom departs heroically"
+description: "'CSI': Gil Grissom departs heroically"
 newsreporter: Hal Boedeker
 newssource: Orlando Sentinel
 newsurl: https://www.orlandosentinel.com/entertainment/tv/tv-guy/os-csi-gil-grissom-departs-heroically-20150927-post.html

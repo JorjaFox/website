@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "The fate of CSI's Jorja Fox"
+description: "The fate of CSI's Jorja Fox"
 newsreporter: TV Squad
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/2007/09/28/the-fate-of-csis-jorja-fox/

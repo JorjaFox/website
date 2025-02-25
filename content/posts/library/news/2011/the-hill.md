@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "CSI's Jorja Fox opens Capitol Scene investigation into animal entertainment  "
+description: "CSI's Jorja Fox opens Capitol Scene investigation into animal entertainment  "
 newsreporter: Staff
 newssource: The Hill
 newsurl: https://washingtonscene.thehill.com/calendar/events/12687-csis-jorja-fox-opens-capitol-scene-investigation-into-animal-entertainment

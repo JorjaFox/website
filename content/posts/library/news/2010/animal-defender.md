@@ -6,7 +6,7 @@ layout: news
 newsyear: "2010"
 permalink: /news/2010/:title/
 
-newstitle: "Summer 2010"
+description: "Summer 2010"
 newsreporter: 2010
 newssource: Animal Defender
 newsurl: https://www.ad-international.org/publications/go.php?id=1965&si=98

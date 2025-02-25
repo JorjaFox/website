@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "*CSI*'s Jorja skips Work"
+description: "*CSI*'s Jorja skips Work"
 newsreporter: Staff
 newssource: In Touch
 newsurl: https://intouchweekly.hollywood.com/

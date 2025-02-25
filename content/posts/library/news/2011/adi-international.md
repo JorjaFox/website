@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Congress: Bill to end use of wild animals in circuses unveiled  "
+description: "Congress: Bill to end use of wild animals in circuses unveiled  "
 newsreporter: Staff
 newssource: ADI International
 newsurl: https://www.ad-international.org/animals_in_entertainment/go.php?id=2263&ssi=10

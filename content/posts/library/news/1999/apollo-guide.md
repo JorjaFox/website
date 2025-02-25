@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: Velocity Trap Movie Review
+description: Velocity Trap Movie Review
 newsreporter: Dave Robinson
 newssource: Apollo Guide
 newsurl: https://apolloguide.com/mov_fullrev.asp?CID=1986

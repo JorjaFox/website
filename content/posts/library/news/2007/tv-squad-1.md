@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "New cast member could replace Jorja Fox on CSI"
+description: "New cast member could replace Jorja Fox on CSI"
 newsreporter: TV Squad
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/

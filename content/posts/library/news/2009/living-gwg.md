@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "A smouldering photoshoot with Jorja Fox ... where do we begin?  "
+description: "A smouldering photoshoot with Jorja Fox ... where do we begin?  "
 newsreporter: Deana
 newssource: Living GWG
 newsurl: https://www.greenwithglamour.com/blog/archives/472/

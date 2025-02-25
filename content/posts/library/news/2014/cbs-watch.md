@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "GILT-Y Pleasures"
+description: "GILT-Y Pleasures"
 newsreporter: Staff
 newssource: CBS Watch! Magazine
 newsurl: https://cbswatchmagazine.com

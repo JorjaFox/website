@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "As 'CSI' comes to a close, actress Jorja Fox is open to an uncertain future"
+description: "As 'CSI' comes to a close, actress Jorja Fox is open to an uncertain future"
 newsreporter: Jessica Ritz
 newssource: LA Times
 newsurl: https://www.latimes.com/health/la-he-jorja-fox-csi-interview-20150926-story.html

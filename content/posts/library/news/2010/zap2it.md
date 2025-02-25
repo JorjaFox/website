@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Marlee Matlin lobbies for 'CSI: Chicago'  "
+description: "Marlee Matlin lobbies for 'CSI: Chicago'  "
 newsreporter: Kate O'Hare
 newssource: Zap2it
 newsurl: https://blog.zap2it.com/frominsidethebox/2010/12/marlee-matlin-lobbies-for-csi-chicago.html

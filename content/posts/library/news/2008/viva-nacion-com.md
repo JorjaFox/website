@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Jorja Fox Vists"
+description: "Jorja Fox Vists"
 newsreporter: Staff
 newssource: VIVA nacion
 newsurl: https://www.nacion.com/viva/2008/abril/17/viva1500216.html

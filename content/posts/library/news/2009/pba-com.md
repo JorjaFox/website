@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "JASON'S TV RECAP UNCENSORED - My CSI Experience  "
+description: "JASON'S TV RECAP UNCENSORED - My CSI Experience  "
 newsreporter: Jason Thomas
 newssource: PBA.com
 newsurl: https://www.pba.com/news/feature.asp?ID=1681

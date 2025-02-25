@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Save 'CSI's' Sara, Or Spend The Money On Crack?"
+description: "Save 'CSI's' Sara, Or Spend The Money On Crack?"
 newsreporter: MeeVee
 newssource: MeeVee
 newsurl: https://blog.meevee.com/my_weblog/2007/10/save-csis-sara-.html

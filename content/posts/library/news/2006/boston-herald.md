@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "The Insider: Jorja Fox  "
+description: "The Insider: Jorja Fox  "
 newsreporter: Staff
 newssource: Boston Herald
 newsurl: https://theedge.bostonherald.com

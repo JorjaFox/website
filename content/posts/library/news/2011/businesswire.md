@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Bob Barker, Jorja Fox and a Pride of Celebrities Pledge Their Support to ADI's Record Breaking Lion Rescue, Urging People to Give to the Appeal  "
+description: "Bob Barker, Jorja Fox and a Pride of Celebrities Pledge Their Support to ADI's Record Breaking Lion Rescue, Urging People to Give to the Appeal  "
 newsreporter: Staff
 newssource: BusinessWire
 newsurl: https://www.businesswire.com/news/home/20110201007057/en/Bob-Barker-Jorja-Fox-Pride-Celebrities-Pledge

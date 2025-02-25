@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Short takes"
+description: "Short takes"
 newsreporter: Staff
 newssource: kansascity.com
 newsurl: https://www.kansascity.com/211/story/93175.html

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Madonna makes hall of fame list"
+description: "Madonna makes hall of fame list"
 newsreporter: Detroit Free Press
 newssource: Detroit Free Press
 newsurl: https://www.freep.com/

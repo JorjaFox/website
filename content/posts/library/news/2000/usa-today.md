@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: "'CSI' succeeds with gritty realism."
+description: "'CSI' succeeds with gritty realism."
 newsreporter: Staff
 newssource: USA Today
 newsurl: https://www.usatoday.com

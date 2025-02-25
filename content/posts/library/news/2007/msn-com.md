@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Last Week's Style Winners & Losers  "
+description: "Last Week's Style Winners & Losers  "
 newsreporter: Stephanie Mackenzie-Smith
 newssource: MSN.com
 newsurl: https://lifestyle.sympatico.msn.ca/FashionandBeauty/WinnersandLosers/articles/StyleWinnersLosersOct29.htm?feedname=PHOTO\_GALLERY\_STYLEWINNERSLOSERS_OCT29&pos=5&nolookup=true

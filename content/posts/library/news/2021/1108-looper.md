@@ -4,7 +4,7 @@ date: 2021-11-08
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "CSI: Vegas' Jorja Fox Reveals Who Really Cut Sara And Grissom's Kissing Scene"
+description: "CSI: Vegas' Jorja Fox Reveals Who Really Cut Sara And Grissom's Kissing Scene"
 newsreporter: "Lexi Heinitz"
 newssource: "Looper"
 newsurl: https://www.looper.com/654674/csi-vegas-jorja-fox-reveals-who-really-cut-sara-and-grissoms-kissing-scene/

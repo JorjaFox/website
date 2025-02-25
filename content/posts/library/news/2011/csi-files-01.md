@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Report: Series Regulars Return For Season 12 Of 'CSI'  "
+description: "Report: Series Regulars Return For Season 12 Of 'CSI'  "
 newsreporter: Shane S Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2011/07/report-series-regulars-return-for-season-12-of-csi/

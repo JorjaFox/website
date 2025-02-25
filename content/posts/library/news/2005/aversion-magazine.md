@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: Coachella 2005
+description: Coachella 2005
 newsreporter: Staff
 newssource: Aversion
 newsurl: https://www.aversion.com/

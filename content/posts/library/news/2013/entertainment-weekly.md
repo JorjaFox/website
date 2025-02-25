@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "'CSI's' Long-Suffering Power Couple Face The Music  "
+description: "'CSI's' Long-Suffering Power Couple Face The Music  "
 newsreporter: Lynette Rice
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com

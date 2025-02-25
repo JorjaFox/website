@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "CSI: Partners in Love"
+description: "CSI: Partners in Love"
 newsreporter: Staff
 newssource: Galaxie Magazine
 newsurl: https://www.galaxie.com.my/

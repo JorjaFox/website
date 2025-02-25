@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Is 'CSI' On the Hunt for a New Jorja Fox?"
+description: "Is 'CSI' On the Hunt for a New Jorja Fox?"
 newsreporter: TV Guide
 newssource: TV Guide
 newsurl: https://community.tvguide.com/

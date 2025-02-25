@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Matt's TV Week in Review  "
+description: "Matt's TV Week in Review  "
 newsreporter: Matt Roush
 newssource: Daily Review
 newsurl: https://tvguidemagazine.com/matt-roush-daily-review/matts-tv-week-in-review-2557.html

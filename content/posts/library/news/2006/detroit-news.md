@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "A chat with Jorja Fox  "
+description: "A chat with Jorja Fox  "
 newsreporter: Staff
 newssource: Detroit News
 newsurl: https://www.detnews.com/

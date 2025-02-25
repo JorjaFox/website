@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Watch with Kristin
+description: Watch with Kristin
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://www.eonline.com/

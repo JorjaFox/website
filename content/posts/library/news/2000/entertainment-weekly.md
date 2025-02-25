@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: Hopping Mad
+description: Hopping Mad
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com

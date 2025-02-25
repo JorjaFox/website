@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Eric Szmanda : 'J'adore flirter avec Jorja Fox'"
+description: "Eric Szmanda : 'J'adore flirter avec Jorja Fox'"
 newsreporter: Staff
 newssource: Cine Tele Revue
 newsurl: https://www.cinetelerevue.be

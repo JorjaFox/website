@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI 'JILTS JORJA!'"
+description: "CSI 'JILTS JORJA!'"
 newsreporter: Star
 newssource: Star
 newsurl: https://www.star.com

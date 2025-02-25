@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "My not so private thoughts about 'Private Practice'  "
+description: "My not so private thoughts about 'Private Practice'  "
 newsreporter: Amy Amatangelo
 newssource: Zap2It
 newsurl: https://blog.zap2it.com/tvgal/2009/09/-private-practice-had-probably.html

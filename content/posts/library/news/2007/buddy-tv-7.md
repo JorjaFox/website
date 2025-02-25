@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox Speaks about Leaving CSI"
+description: "Jorja Fox Speaks about Leaving CSI"
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/

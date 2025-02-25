@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox goes bike shopping"
+description: "Jorja Fox goes bike shopping"
 newsreporter: Cyclelicious
 newssource: Cyclelicious
 newsurl: https://www.cyclelicio.us

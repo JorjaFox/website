@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Forgetting Sara Sidle  "
+description: "Forgetting Sara Sidle  "
 newsreporter: Genevieve Loh
 newssource: TODAYonline
 newsurl: https://www.todayonline.com/Plus/Television/EDC100226-0000056/Forgetting-Sara-Sidle

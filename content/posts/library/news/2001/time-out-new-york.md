@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Line Of Duty
+description: Line Of Duty
 newsreporter: Staff
 newssource: Time Out New York
 newsurl: https://www.timeoutny.com/timein/313/313U.tv.jorja.box.html

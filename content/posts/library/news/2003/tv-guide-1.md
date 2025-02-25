@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Celebrity Chef
+description: Celebrity Chef
 newsreporter: Staff
 newssource: TV Guide Canada
 newsurl: https://tvguide.ca

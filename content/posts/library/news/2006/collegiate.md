@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI's Jorja Fox Wants to Start a Revolution  "
+description: "CSI's Jorja Fox Wants to Start a Revolution  "
 newsreporter: Staff
 newssource: Collegiate
 newsurl: https://www.lacitycollege.edu/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Jorja Fox: Grissom's Ladylove is Back  "
+description: "Jorja Fox: Grissom's Ladylove is Back  "
 newsreporter: Jen Vishta
 newssource: Show Biz Renegade
 newsurl: https://www.showbizrenegade.com/2011/07/22/jorja-fox-grissom%E2%80%99s-ladylove-is-back/7124

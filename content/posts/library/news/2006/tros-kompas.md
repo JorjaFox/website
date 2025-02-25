@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Ambitious, Smart Woman looks for... "
+description: "Ambitious, Smart Woman looks for... "
 newsreporter: Staff
 newssource: Tros Kompas
 newsurl: https://www.troskompas.nl/

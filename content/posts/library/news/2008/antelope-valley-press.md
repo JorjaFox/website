@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: " Celebrities, animal lovers turn out for Acton sanctuary's gala"
+description: " Celebrities, animal lovers turn out for Acton sanctuary's gala"
 newsreporter: Julie Drake
 newssource: Antelope Valley Press
 newsurl: https://www.avpress.com/n/08/0908_s4.hts

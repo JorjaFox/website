@@ -6,7 +6,7 @@ layout: news
 newsyear: "2008"
 permalink: /news/2008/:title/
 
-newstitle: "'Smallville''s Chloe to Wed? Plus: Sara Back on 'CSI'?  "
+description: "'Smallville''s Chloe to Wed? Plus: Sara Back on 'CSI'?  "
 newsreporter: Michael Ausiello
 newssource: Ausiello Report
 newsurl: https://community.tvguide.com/blog-entry/TVGuide-Editors-Blog/Ausiello-Report/Ar-Vodcast-Spoilers/800037042

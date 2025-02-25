@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: "Q&A with CSI's Jorja Fox"
+description: "Q&A with CSI's Jorja Fox"
 newsreporter: Staff
 newssource: Sun TV
 newsurl: https://www.canoe.ca/

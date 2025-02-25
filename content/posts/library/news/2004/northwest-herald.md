@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Fox, Eads stick together"
+description: "Fox, Eads stick together"
 newsreporter: Staff
 newssource: Northwest Herald
 newsurl: https://www.nwherald.com/

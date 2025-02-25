@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Pay Dispute Sacks 'C.S.I.'s' Fox, Eads"
+description: "Pay Dispute Sacks 'C.S.I.'s' Fox, Eads"
 newsreporter: Staff
 newssource: The Futon Critic
 newsurl: https://www.thefutoncritic.com

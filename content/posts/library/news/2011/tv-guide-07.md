@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "How *CSI* Got William Petersen Back  "
+description: "How *CSI* Got William Petersen Back  "
 newsreporter: Carita Rizzo
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/CSI-Got-William-1028901.aspx

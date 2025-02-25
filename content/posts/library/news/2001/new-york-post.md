@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: 4 Questions
+description: 4 Questions
 newsreporter: Staff
 newssource: New York Post
 newsurl: https://nypost.com

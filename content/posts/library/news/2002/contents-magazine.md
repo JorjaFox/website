@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: Contents
+description: Contents
 newsreporter: Staff
 newssource: Contents
 newsurl: https://contents.com

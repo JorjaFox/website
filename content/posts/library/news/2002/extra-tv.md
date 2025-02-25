@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: Review
+description: Review
 newsreporter: Staff
 newssource: Extra TV
 newsurl: https://extratv.warnerbros.com/

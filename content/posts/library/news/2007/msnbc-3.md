@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Don't let the door hit you on the way out, Sara  "
+description: "Don't let the door hit you on the way out, Sara  "
 newsreporter: MSNBC
 newssource: MSNBC
 newsurl: https://www.msnbc.msn.com/id/21776926/

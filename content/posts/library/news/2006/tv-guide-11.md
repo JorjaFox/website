@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "'CSI' Stars Answer Your Burning Questions!  "
+description: "'CSI' Stars Answer Your Burning Questions!  "
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

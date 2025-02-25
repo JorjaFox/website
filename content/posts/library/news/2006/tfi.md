@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "JORJA FOX 'You're finally going to see me smile.'"
+description: "JORJA FOX 'You're finally going to see me smile.'"
 newsreporter: Staff
 newssource: TFI
 newsurl: https://tfi.com

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' actors fired"
+description: "'CSI' actors fired"
 newsreporter: Staff
 newssource: CNN
 newsurl: https://cnn.com

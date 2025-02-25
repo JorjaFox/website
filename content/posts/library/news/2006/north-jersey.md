@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "The Scoop  "
+description: "The Scoop  "
 newsreporter: Staff
 newssource: North Jersey
 newsurl: https://www.bergen.com/

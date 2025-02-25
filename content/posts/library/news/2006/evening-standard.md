@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Partners in Crime?  "
+description: "Partners in Crime?  "
 newsreporter: Staff
 newssource: Evening Standard
 newsurl: https://www.thisislondon.co.uk

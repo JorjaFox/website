@@ -7,7 +7,7 @@ permalink: /news/2007/:title/
 newsyear: "2007"
 
 
-newstitle: "Jorja Fox is leaving 'CSI'  "
+description: "Jorja Fox is leaving 'CSI'  "
 newsreporter: Cristina Kinon
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/entertainment/tv/2007/10/16/2007-10-16\_jorja\_fox\_is\_leaving_csi-1.html

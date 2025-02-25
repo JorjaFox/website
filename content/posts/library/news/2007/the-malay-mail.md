@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CoverStory: Grissom and gang back to bust crime! - the bright lights of vegas return with season 7"
+description: "CoverStory: Grissom and gang back to bust crime! - the bright lights of vegas return with season 7"
 newsreporter: The Malay Mail
 newssource: The Malay Mail
 newsurl: https://www.mmail.com.my

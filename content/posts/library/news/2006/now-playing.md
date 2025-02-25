@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI Gets Personal  "
+description: "CSI Gets Personal  "
 newsreporter: Staff
 newssource: Now Playing
 newsurl: https://www.nowplaying.com

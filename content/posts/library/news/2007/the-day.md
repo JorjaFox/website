@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja on my Mind  "
+description: "Jorja on my Mind  "
 newsreporter: Elissa Bass
 newssource: The Day
 newsurl: https://www.theday.com/re.aspx?re=a096bb22-8455-4798-9510-c6773984ccd4

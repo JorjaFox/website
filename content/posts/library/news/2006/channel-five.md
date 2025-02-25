@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI: Crime Scene Investigation - Cast Interviews  "
+description: "CSI: Crime Scene Investigation - Cast Interviews  "
 newsreporter: Staff
 newssource: Channel Five
 newsurl: https://www.five.tv

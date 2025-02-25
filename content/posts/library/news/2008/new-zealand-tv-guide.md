@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Marg's Big Year"
+description: "Marg's Big Year"
 newsreporter: Jenny Cooney Carillo
 newssource: TV Guide (New Zealand)
 newsurl: https://tv-guide.co.nz

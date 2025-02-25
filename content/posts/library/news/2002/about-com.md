@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: Jorja Fox and Archie Kayo Talk About "C.S.I." at the Premiere of "The Emperor's Club"
+description: Jorja Fox and Archie Kayo Talk About "C.S.I." at the Premiere of "The Emperor's Club"
 newsreporter: Rebecca Murray
 newssource: About.com
 newsurl: https://movies.about.com/library/weekly/aa112102f.htm

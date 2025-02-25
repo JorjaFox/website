@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Chatter"
+description: "Chatter"
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Celeb's - Who's News?  "
+description: "Celeb's - Who's News?  "
 newsreporter: Staff
 newssource: USA Weekend Magazine
 newsurl: https://www.usaweekend.com

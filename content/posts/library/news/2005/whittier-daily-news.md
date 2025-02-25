@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "'Shrek 2' tops People's Choice Awards  "
+description: "'Shrek 2' tops People's Choice Awards  "
 newsreporter: Staff
 newssource: Whittier Daily News
 newsurl: https://www.whittierdailynews.com

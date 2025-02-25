@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Roush on CSI: Crime Scene Investigation"
+description: "Roush on CSI: Crime Scene Investigation"
 newsreporter: Matt Roush
 newssource: Ask Matt
 newsurl: https://www.tvguide.com

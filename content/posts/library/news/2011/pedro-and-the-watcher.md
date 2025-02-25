@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Jorja Fox returns to 'CSI' as a regular  "
+description: "Jorja Fox returns to 'CSI' as a regular  "
 newsreporter: The Watcher
 newssource: Pedro and the Watcher
 newsurl: https://pedrowatcher.ocregister.com/2011/07/20/jorja-fox-returns-to-csi-as-a-regular/39777/

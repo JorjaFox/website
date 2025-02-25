@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "FASCINATING FACT 1499  "
+description: "FASCINATING FACT 1499  "
 newsreporter: Staff
 newssource: Contact Music
 newsurl: https://www.contactmusic.com

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Jorja Fox likes to Rock and Roll
+description: Jorja Fox likes to Rock and Roll
 newsreporter: Staff
 newssource: Star Magazine
 newsurl: https://www.starmagazine.com

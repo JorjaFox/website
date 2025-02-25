@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "*CSI* Finale: Will This Be the Final Langston-Haskell Showdown?  "
+description: "*CSI* Finale: Will This Be the Final Langston-Haskell Showdown?  "
 newsreporter: Adam Bryant
 newssource: TV Guide.com
 newsurl: https://www.tvguide.com/News/CSI-Finale-Laurence-Fishburne-1032989.aspx

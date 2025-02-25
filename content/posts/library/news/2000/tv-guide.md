@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: Review
+description: Review
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com/magazine/issues/000925/fri5.asp

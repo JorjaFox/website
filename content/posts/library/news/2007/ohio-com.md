@@ -7,7 +7,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "Pop Quiz - Jorja Fox leaving CSI  "
+description: "Pop Quiz - Jorja Fox leaving CSI  "
 newsreporter: By Rich Heldenfels
 newssource: Ohio.com
 newsurl: https://www.ohio.com/

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: Review
+description: Review
 newsreporter: Luisa F. Ribeiro
 newssource: Box Off
 newsurl: https://www.boxoff.com/scripts/fiw.dll?GetReview?&where=ID&terms=4626

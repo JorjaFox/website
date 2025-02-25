@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Hollywood Privacy Watch: Super-Sized, Picture Enhanced Edition"
+description: "Hollywood Privacy Watch: Super-Sized, Picture Enhanced Edition"
 newsreporter: Mark
 newssource: Defamer
 newsurl: https://defamer.com/hollywood/gossip/hollywood-privacywatch-super+sized-picture+enhanced-edition-27102.php

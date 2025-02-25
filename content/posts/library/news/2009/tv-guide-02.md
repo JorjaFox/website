@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "In Box  "
+description: "In Box  "
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/

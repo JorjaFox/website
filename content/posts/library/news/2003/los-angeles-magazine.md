@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: "Los Angeles' Race for the Cure"
+description: "Los Angeles' Race for the Cure"
 newsreporter: Bekah Wright
 newssource: Los Angeles Magazine
 newsurl: https://www.lamag.com

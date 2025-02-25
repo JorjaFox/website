@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Robert David Hall"
+description: "Robert David Hall"
 newsreporter: Kristine Huntley
 newssource: CSI Files
 newsurl: https://www.csifiles.com/interviews/robert_david_hall.shtml

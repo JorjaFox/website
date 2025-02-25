@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "TV star Jorja Fox to visit Morocco in a good will trip"
+description: "TV star Jorja Fox to visit Morocco in a good will trip"
 newsreporter: Staff
 newssource: Morocco Times
 newsurl: https://www.moroccotimes.com

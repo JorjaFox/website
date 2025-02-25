@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Live CSI Chat (on Twitter)  "
+description: "Live CSI Chat (on Twitter)  "
 newsreporter: Carol Mendelsohn
 newssource: Twitter
 newsurl: https://jorjafox.net/2011/tweetcap-of-the-live-csi-chat/

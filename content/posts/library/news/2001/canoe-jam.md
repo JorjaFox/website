@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Jorja Fox goes three for three with CSI
+description: Jorja Fox goes three for three with CSI
 newsreporter: Staff
 newssource: Canoe Jam! Showbiz
 newsurl: https://www.canoe.ca/

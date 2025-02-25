@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Prime-Time's Crime-Fighting Beauties  "
+description: "Prime-Time's Crime-Fighting Beauties  "
 newsreporter: Staff
 newssource: US Weekly
 newsurl: https://www.usweekly.com

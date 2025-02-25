@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox Returning to CSI  "
+description: "Jorja Fox Returning to CSI  "
 newsreporter: Staff
 newssource: Us Weekly
 newsurl: https://www.usmagazine.com/news/jorja-fox-returning-to-csi-2009177

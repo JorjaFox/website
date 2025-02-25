@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Fans Still Believe Cute Food Deliveries Can Sway TV Decision"
+description: "Fans Still Believe Cute Food Deliveries Can Sway TV Decision"
 newsreporter: Mark
 newssource: Defamer Hollywood
 newsurl: https://defamer.com

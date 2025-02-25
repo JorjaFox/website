@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "At the end of the day, CSI makes a nice, mind-numbing formula  "
+description: "At the end of the day, CSI makes a nice, mind-numbing formula  "
 newsreporter: Alex Strachan
 newssource: Ottawa Citizen
 newsurl: https://www.canada.com/ottawacitizen/news/story.html?id=25dfb6a3-be7e-41f4-aa93-f7a77848176b

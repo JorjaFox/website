@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Tube Tied
+description: Tube Tied
 newsreporter: Craig D. Lindsey
 newssource: Tube Tied
 newsurl: https://www.brainsoap.com/ Brainsoap

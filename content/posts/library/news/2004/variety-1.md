@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Actor threats Eye-popping"
+description: "Actor threats Eye-popping"
 newsreporter: Staff
 newssource: Variety
 newsurl: https://www.variety.com

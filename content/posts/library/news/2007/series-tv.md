@@ -7,7 +7,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Renaissance - Discussion about Season Seven!"
+description: "Renaissance - Discussion about Season Seven!"
 newsreporter: Series TV
 newssource: Series TV
 newsurl: https://seriestv.co.fr

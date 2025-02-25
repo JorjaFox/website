@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "Guest Profile - Jorja Fox  "
+description: "Guest Profile - Jorja Fox  "
 newsreporter: Unknown
 newssource: Green With Glamour
 newsurl: https://www.greenwithglamour.com/index.php?main_page=editorial&e=profile&c=jorja_fox

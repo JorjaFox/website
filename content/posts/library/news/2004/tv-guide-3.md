@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "BACK ON THE SCENE"
+description: "BACK ON THE SCENE"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com

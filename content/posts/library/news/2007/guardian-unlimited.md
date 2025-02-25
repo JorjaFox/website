@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Deadline day live - 9am-2pm"
+description: "Deadline day live - 9am-2pm"
 newsreporter: Guardian Unlimited
 newssource: Guardian Unlimited
 newsurl: https://football.guardian.co.uk/News_Story/0,,2002893,00.html

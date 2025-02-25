@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: "Foxy Lady!"
+description: "Foxy Lady!"
 newsurl: https://www.starmagazine.com
 newsreporter: Staff
 newssource: Star Magazine

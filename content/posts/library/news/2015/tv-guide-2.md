@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: Final Investigation
+description: Final Investigation
 newsreporter: Michael Logan
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/sneak-peek-2015-heroes-reborn/

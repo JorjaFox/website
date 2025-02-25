@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "Interview: Michael FX Daley  "
+description: "Interview: Michael FX Daley  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2013/04/interview-michael-fx-daley-2/

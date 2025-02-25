@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "The Animal Power of the 21st Genesis Awards!"
+description: "The Animal Power of the 21st Genesis Awards!"
 newsreporter: "Yahoo! Finance"
 newssource: "Yahoo! Finance"
 newsurl: https://biz.yahoo.com/

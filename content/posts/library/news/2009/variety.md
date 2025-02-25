@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Broadcasters stack Thursday lineups  "
+description: "Broadcasters stack Thursday lineups  "
 newsreporter: Rick Kissell
 newssource: Variety
 newsurl: https://www.variety.com/article/VR1118007290.html?categoryid=14&cs=1

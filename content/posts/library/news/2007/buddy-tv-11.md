@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI: Sara Sidle Says Goodbye "
+description: "CSI: Sara Sidle Says Goodbye "
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com

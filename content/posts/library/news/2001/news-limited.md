@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Creating a Scene
+description: Creating a Scene
 newsreporter: Staff
 newssource: News Limited
 newsurl: https://newslimited.com

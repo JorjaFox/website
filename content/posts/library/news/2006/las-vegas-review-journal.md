@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "SHOOTING STARS: CSI returns to Vegas  "
+description: "SHOOTING STARS: CSI returns to Vegas  "
 newsreporter: Staff
 newssource: Las Vegas Review-Journal
 newsurl: https://www.reviewjournal.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "They've Got Q  "
+description: "They've Got Q  "
 newsreporter: Glenn Garvin
 newssource: Miami Herald
 newsurl: https://www.miamiherald.com/tropical_life/story/474335.html

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Returning Favorites - Thursday - CSI"
+description: "Returning Favorites - Thursday - CSI"
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com

@@ -10,6 +10,11 @@ season: 13
 epnum: 1
 date: 2012-09-26
 prodnum: 274
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/01-karma-01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/01-karma-02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/01-karma-003.jpg
 ---
 
 ## Synopsis

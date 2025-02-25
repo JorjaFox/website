@@ -157,7 +157,13 @@ Season 12:
 
 Season 13:
 
-* [TBD](/library/recaps/csi/rashomama/)
+* [Karma to Burn](/library/recaps/csi/karma-to-burn/)
+* [Code Blue Plate Special](/library/recaps/csi/code-blue-plate-special/)
+* [Wild Flowers](/library/recaps/csi/wild-flowers/)
+* [Fallen Angels](/library/recaps/csi/fallen-angels/)
+* [Risky Business Class](/library/recaps/csi/risky-business-class/)
+* [Dead Air](/library/recaps/csi/dead-air/)
+* [Forget Me Not](/library/recaps/csi/forget-me-not/)
 
 Season 14:
 

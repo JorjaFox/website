@@ -10,6 +10,17 @@ season: 13
 epnum: 15
 date: 2013-02-20
 prodnum: 288
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-005.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-006.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-007.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-008.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-009.jpg
 ---
 
 ## Synopsis

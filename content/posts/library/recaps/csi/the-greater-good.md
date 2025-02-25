@@ -10,6 +10,9 @@ season: 15
 epnum: 13
 date: 2015-01-04
 prodnum: 330
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1513-greatergood-001.jpg
 ---
 
 ## Synopsis

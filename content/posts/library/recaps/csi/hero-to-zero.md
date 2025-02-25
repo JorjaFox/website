@@ -10,6 +10,9 @@ season: 15
 epnum: 15
 date: 2015-01-25
 prodnum: 332
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1515-herozero-001.jpg
 ---
 
 ## Synopsis

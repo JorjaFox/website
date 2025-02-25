@@ -10,6 +10,13 @@ season: 15
 epnum: 18
 date: 2015-02-15
 prodnum: 335
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1518-endgame-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1518-endgame-002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1518-endgame-003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1518-endgame-005.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1518-endgame-006.jpg
 ---
 
 ## Synopsis

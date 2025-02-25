@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "An abandoned horse covered in blood leads the CSI team to a halfway house for convicted murderers. Also, Grissom and Sara begin to circle their prime suspect in the David Hodges case."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/07-intheblood/117744_0409b.jpg"

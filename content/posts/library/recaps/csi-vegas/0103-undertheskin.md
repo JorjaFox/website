@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "Grissom and Sara’s investigation into charges against David Hodges heats up as Internal Affairs joins the hunt. Also, pressure rises for the CSIs when a video game developer’s body is found floating in a fountain before a huge gaming tournament."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/03-undertheskin/01051604_GilandSarahinlab.jpg"

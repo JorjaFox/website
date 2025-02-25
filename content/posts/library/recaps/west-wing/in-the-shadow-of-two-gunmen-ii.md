@@ -12,7 +12,7 @@ epnum: Two
 prodnum: 226202
 date: 2000-10-04
 rating: 0
-gallerylink: https://jorjafox.net/gallery/tv/westwing/season02/shadow2/
+description: "Conclusion. As the Bartlet administration deals with the shooting (and with Josh still not out of the woods), flashbacks recall how the staff made it to the West Wing."
 ---
 
 ## Summary

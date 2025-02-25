@@ -6,7 +6,7 @@ categories: ["Filmography"]
 tags: ["producer", "movies"]
 genre: Documentary
 year: 2013
-excerpt: "A team in Bolivia tracks down illegal circuses and rescues every animal."
+description: "A team in Bolivia tracks down illegal circuses and rescues every animal."
 redirect_from:
   - /self/lion-ark/
 ---

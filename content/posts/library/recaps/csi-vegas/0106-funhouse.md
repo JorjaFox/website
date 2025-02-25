@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "Max puts CSI on lockdown when evidence in a new murder tips Grissom and Sara to a new suspect in the crime lab. Also, Folsom and Allie investigate a series of chilling killings at a dilapidated clown-themed hotel."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/06-funhouse/117717_2095b.jpg"

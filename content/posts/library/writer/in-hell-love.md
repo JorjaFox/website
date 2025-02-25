@@ -4,7 +4,7 @@ author: "Mika A. Epstein"
 layout: library
 genre: Stage Play
 year: 1990s
-excerpt:
+description:
 ---
 
 Written by Jorja Fox, **In Hell With Love** is about nurses in Vietnam.

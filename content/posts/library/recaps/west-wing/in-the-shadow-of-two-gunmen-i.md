@@ -7,6 +7,7 @@ station: NBC
 showname: "The West Wing"
 showslug: west-wing
 date: 2000-10-04
+description: "Part 1 of 2. The Bartlet administration is in chaos---an assassination attempt has left the White House (not to mention the country) reeling. Who was hit? Was anyone killed? Who did it? And why? The episode includes flashbacks detailing how the administration came to be. Oh, and one more thing: there's a downed fighter pilot in Iraq."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/west-wing/1x17-001.jpg"

@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "When David Hodges goes missing, the entire CSI team searches for any piece of evidence that can help locate him, clear his name and save the reputation of the entire crime lab."
 ---
 
 ## Synopsis

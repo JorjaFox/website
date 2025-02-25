@@ -10,7 +10,6 @@ season: 1
 epnum: 2
 date: 2000-10-13
 prodnum: 101
-gallerylink: https://jorjafox.net/gallery/tv/csi/season01/coolchange/
 ---
 
 ## Synopsis

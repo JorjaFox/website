@@ -8,6 +8,7 @@ station: NBC
 showname: "The West Wing"
 showslug: west-wing
 date: 2000-05-17
+description: "While Bartlet gets ready for a town-hall meeting with college students, several staff members are concerned about a downed U.S. plane in the Iraqi desert."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/west-wing/1x22-001.jpg"

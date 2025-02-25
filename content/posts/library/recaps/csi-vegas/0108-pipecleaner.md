@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "When the CSIs are called to investigate human remains found in a convention center owner’s bathtub, Sara and Grissom use the case to get close to attorney Anson Wix’s star forensic expert witness, just days before David Hodges’ trial begins."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/08-pipecleaner/117762_0276b.jpg"

@@ -4,6 +4,7 @@ author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/tvguide/
 date: "2002-05-01"
+description: "Biography from TV Guide"
 ---
 
 * **Birth Name:** Jorja-An Fox

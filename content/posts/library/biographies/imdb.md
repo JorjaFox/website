@@ -6,6 +6,7 @@ permalink: /biographies/imdb/
 date: "2000-08-20"
 lastmod: "2018-08-20"
 sourceurl: "https://www.imdb.com/name/nm0289080/"
+description: "Biography from IMDb"
 ---
 
 Jorja Fox has become a familiar face by playing major roles in three of the most successful television dramas in history: ER (1994), The West Wing (1999) and CSI: Crime Scene Investigation (2000).

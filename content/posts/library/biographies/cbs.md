@@ -5,6 +5,7 @@ layout: library
 permalink: /biographies/cbs/
 date: "2000-08-20"
 sourceurl: "https://www.cbs.com/shows/csi/"
+description: "Biography from CBS for CSI: Crime Scene Investigation"
 ---
 
 Fox's television credits include "ER," "West Wing," "Law and Order," "Ellen" and, most recently, "Drop Dead Diva." In addition to television, her film work includes "Memento," "How to Make the Cruelest Month," "The Kill-Off," "Forever Fabulous" and Down with the Joneses."

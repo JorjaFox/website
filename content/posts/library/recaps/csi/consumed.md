@@ -10,6 +10,10 @@ season: 14
 epnum: 20
 date: 2014-04-09
 prodnum: 315
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1420-consumed-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1420-consumed-002.jpg
 ---
 
 ## Synopsis

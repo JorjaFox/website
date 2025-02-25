@@ -10,6 +10,12 @@ season: 14
 epnum: 8
 date: 2013-11-13
 prodnum: 303
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1408-helpless-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1408-helpless-002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1408-helpless-003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1408-helpless-004.jpg
 ---
 
 ## Synopsis

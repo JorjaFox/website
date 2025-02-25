@@ -10,6 +10,9 @@ season: 14
 epnum: 19
 date: 2014-04-02
 prodnum: 314
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1419-fallen-001.jpg
 ---
 
 ## Synopsis

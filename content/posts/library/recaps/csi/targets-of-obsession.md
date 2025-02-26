@@ -3,13 +3,9 @@ title: "Targets of Obsession"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 15
 date: 2011-02-17
-prodnum: 244
+description: "Langston testifies against the notorious 'Dick & Jane' killer, Nate Haskell. Meanwhile, Nick receives a call from troubled teen Jason McCann to warn him of impending danger."
 ---
 
 ## Synopsis

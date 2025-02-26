@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "CSI: 'Family Affair' Review  "
+description: "CSI: 'Family Affair' Review  "
 newsreporter: James Chamberlin
 newssource: IGN
 newsurl: https://tv.ign.com/articles/102/1028487p1.html

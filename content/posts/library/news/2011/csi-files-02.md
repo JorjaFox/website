@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Interview: Jorja Fox  "
+description: "Interview: Jorja Fox  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2011/10/chat-transcript-elisabeth-harnois/

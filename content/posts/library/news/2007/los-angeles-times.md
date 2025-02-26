@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "MY FAVORITE WEEKEND: JORJA FOX"
+description: "MY FAVORITE WEEKEND: JORJA FOX"
 newsreporter: Staff
 newssource: Los Angeles Times
 newsurl: https://www.calendarlive.com/

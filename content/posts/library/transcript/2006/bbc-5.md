@@ -1,5 +1,7 @@
 ---
 title: BBC 5
+description: 'BBC 5 - 2006-05-18'
+title: BBC 5
 transcriber: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2006/:title/

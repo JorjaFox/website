@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "L.A. Zoo's elephant forest temporarily shelved  "
+description: "L.A. Zoo's elephant forest temporarily shelved  "
 newsreporter: Brandon Lowrey
 newssource: Contra Costa Times
 newsurl: https://www.contracostatimes.com/california/ci_11133453?nclick_check=1

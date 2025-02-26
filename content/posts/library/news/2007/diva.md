@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Everyone's Talking About"
+description: "Everyone's Talking About"
 newsreporter: DIVA
 newssource: DIVA
 newsurl: https://www.divamag.co.uk/diva/

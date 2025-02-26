@@ -3,13 +3,12 @@ title: "Identity Crisis"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 13
 date: 2002-01-17
-prodnum: 213
+description: "Grissom's nemesis, serial killer Paul Millander, reappears and claims a third victim in this gripping episode."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x13-identity-crisis-001.jpg"
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ slug: drop-dead-diva
 description: "Jorja guest starred on an episode of 'Drop Dead Diva' as a nurse who was an accessory to a crime 20 years ago."
 imdb: https://www.imdb.com/title/tt1471519/
 actorimage: /img/actors/drop-dead-diva.jpg
+description: "Jane is a plus-size lawyer whose body is inhabited by the soul of a dead fashion model."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/dropdeaddiva_01.jpg"

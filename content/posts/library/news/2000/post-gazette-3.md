@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: Giving Her All
+description: Giving Her All
 newsreporter: Staff
 newssource: Post-Gazette
 newsurl: https://www.post-gazette.com

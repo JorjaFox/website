@@ -3,13 +3,9 @@ title: "Seeing Red"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 14
 date: 2012-02-15
-prodnum: 265
+description: "Russell asks for advice from a former colleague on a case involving the death of a man’s ex-girlfriend. Nick helps a car crash victim and amnesiac piece together a brutal crime scene."
 ---
 
 _This is Elisabeth Shue's first episode as Julie 'Finn' Finlay_

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Joanna's Best & Worst of the Week"
+description: "Joanna's Best & Worst of the Week"
 newsreporter: The TV Addict
 newssource: The TV Addict
 newsurl: https://thetvaddict.com

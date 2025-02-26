@@ -3,13 +3,15 @@ title: "The Unusual Suspect"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 18
 date: 2006-03-30
-prodnum: 618
+description: "When a student is arrested and tried for the murder of a popular high-school girl, the suspect's 12-year-old sister confesses to the crime. This results in the judge giving the prosecution 72 hours to re-examine the evidence before the jury delivers its verdict."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/618-unusual_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/618-unusual_05.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/618-unusual_06.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/618-unusual_07.jpg"
 ---
 
 ## Synopsis

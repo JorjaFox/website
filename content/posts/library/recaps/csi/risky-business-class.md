@@ -3,13 +3,13 @@ title: "Risky Business Class"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 10
 date: 2012-12-12
-prodnum: 283
+description: "When a small executive jet crash lands a mile off the Strip, the CSIs wonder if it was intended as an act of terror, and to solve the case, Sara teams up with a former colleague from San Francisco with whom she still has sparks."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/10-risky-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/10-risky-002.jpg
 ---
 
 ## Synopsis

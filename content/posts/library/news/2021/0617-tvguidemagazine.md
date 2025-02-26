@@ -4,7 +4,7 @@ date: 2021-06-17
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "First Look at the Best New Fall Shows"
+description: "First Look at the Best New Fall Shows"
 newsreporter: "Staff"
 newssource: "TV Guide Magazine"
 newsurl: https://www.tvguidemagazine.com/first-look-at-fall-tv/

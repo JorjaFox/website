@@ -3,13 +3,9 @@ title: "Malice In Wonderland"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 18
 date: 2012-03-21
-prodnum: 269
+description: "A pair of thieves plan to hit three high-profile Vegas weddings in three days."
 ---
 
 ## Synopsis

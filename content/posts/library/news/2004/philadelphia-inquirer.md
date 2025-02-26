@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' fires 2 in contract dispute"
+description: "'CSI' fires 2 in contract dispute"
 newsreporter: Staff
 newssource: Philadelphia Inquirer
 newsurl: https://philly.com

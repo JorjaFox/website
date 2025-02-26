@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "It's about time 'CSI' got personal  "
+description: "It's about time 'CSI' got personal  "
 newsreporter: Staff
 newssource: Chicago Tribune
 newsurl: https://www.chicagotribune.com

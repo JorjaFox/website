@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI From A to Z  "
+description: "CSI From A to Z  "
 newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: https://www.tvandsatelliteweek.com/

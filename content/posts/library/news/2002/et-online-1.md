@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: "CSI's Invasion of the Little People"
+description: "CSI's Invasion of the Little People"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://etonline.com

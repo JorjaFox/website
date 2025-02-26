@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Marg Helgenberger Will Leave After 12 Seasons  "
+description: "Marg Helgenberger Will Leave After 12 Seasons  "
 newsreporter: Associated Press
 newssource: WFMY News 2
 newsurl: https://www.digtriad.com/news/article/198438/204/Jorga-Fox-Wants-An-Episode-To-Reunite-Sara-With-Gil-On-CSI

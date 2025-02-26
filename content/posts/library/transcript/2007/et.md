@@ -1,5 +1,7 @@
 ---
 title: ET
+description: 'ET - 2007-10-25'
+title: ET
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-10-25

@@ -3,13 +3,12 @@ title: "Long Road Home"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 17
 date: 2014-03-12
-prodnum: 312
+description: "The CSIs investigate the murder of a rock and roll groupie and the disappearance of a prostitute that both have ties to a mysterious band."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1417-longroadhome-001.jpg
 ---
 
 ## Synopsis
@@ -20,7 +19,7 @@ Tangerine (real name Angela Glenn) turns out to be Lex's daughter. The killer wa
 
 ## Review
 
-Sara is first on the scene, taking photos of the dead woman when D.B. Russell arrives. She and Nick investigate the owner of the fantasy camp (Marty Kirch, played by "Food for the Heart" alum Michael DesBarres).
+Sara is first on the scene, taking photos of the dead woman when D.B. Russell arrives. She and Nick investigate the owner of the fantasy camp (Marty Kirch, played by ["Food for the Heart"](/library/actor/food-for-the-heart/) alum Michael DesBarres).
 
 ## Notes
 

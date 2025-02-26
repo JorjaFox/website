@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "Gil Grissom and Sara Sidle come to the aid of a former colleague who is implicated in tampering with evidence. Maxine and the rest of the CSI team work the murder of a couple slain on their wedding day, following the evidence to the salacious underbelly of the Las Vegas elite."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/02-honeymoon/117644_2864b.jpg"

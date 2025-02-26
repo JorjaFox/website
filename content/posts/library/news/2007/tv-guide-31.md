@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Ausiello Report"
+description: "Ausiello Report"
 newsreporter: Michael Ausiello
 newssource: TVGuide
 newsurl: https://www.tvguide.com/

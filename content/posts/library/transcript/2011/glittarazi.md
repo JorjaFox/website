@@ -1,5 +1,7 @@
 ---
 title: Glittarazi
+description: 'Glittarazi - 2011-11-02'
+title: Glittarazi
 date: 2011-11-02
 transcriber: "Mika A. Epstein"
 layout: transcript

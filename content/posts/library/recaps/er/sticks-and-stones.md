@@ -12,6 +12,7 @@ epnum: Seventeen
 prodnum: 467567
 date: 1999-03-25
 rating: 3
+description: "Carter deals with drama at an apartment tower during a ride-along that later has deadly consequences. Lucy has to hide a cancer diagnosis from an ill woman at the behest of the patient's family. Hathaway finds out she is pregnant. Weaver reflects on her own family issues when an injured wrestler comes to the ER. Greene continues to help Mobalage, who may be deported if he cannot tell the INS about the abuse he suffered in Nigeria."
 ---
 
 _Note: This is Maggie Doyle's last appearance on ER._

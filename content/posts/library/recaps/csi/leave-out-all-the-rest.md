@@ -3,13 +3,9 @@ title: "Leave Out All The Rest"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 9
-epnum: 5
 date: 2008-11-06
-prodnum: 905
+description: "When the CSI team investigates a case involving the world of domination, Grissom pays a visit to Lady Heather to help find some answers."
 ---
 
 ## Synopsis

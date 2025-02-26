@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "The Watcher: The Gil and Sara show on 'CSI'  "
+description: "The Watcher: The Gil and Sara show on 'CSI'  "
 newsreporter: Staff
 newssource: The Watcher - A Chicago Tribune Web log
 newsurl: https://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/the\_gus\_and\_sar.html

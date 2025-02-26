@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: Ask Matt
+description: Ask Matt
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com

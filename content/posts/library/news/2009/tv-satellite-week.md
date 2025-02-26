@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "TV SPY SAYS  "
+description: "TV SPY SAYS  "
 newsreporter: Staff
 newssource: TV & Satellite week
 newsurl: https://whatsontv.co.uk/blogs/tvspy/various/in-the-latest-issue-of-tv-satellite-week-3/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "ASK MATT  "
+description: "ASK MATT  "
 newsreporter: Matt Roush
 newssource: TV Guide
 newsurl: https://www.tvguide.com/

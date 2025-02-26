@@ -3,13 +3,9 @@ title: "Built to Kill (Part 1)"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 1
 date: 2006-09-21
-prodnum: 702
+description: "The CSIs investigate first-hand the behind-the-scenes action of Cirque du Soleil in order to determine what may have contributed to the young dancer's untimely death."
 ---
 
 ## Synopsis

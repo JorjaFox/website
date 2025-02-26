@@ -3,13 +3,9 @@ title: "Invisible Evidence"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 4
 date: 2003-11-13
-prodnum: 404
+description: "Warrick is blindsided in court when a bloody knife he recovered from a suspected killer's car is determined to be inadmissible, leaving the CSIs only 24 hours to find new evidence before the accused murderer is set free."
 ---
 
 _Note: This episode was pre-empted on October 16th because of a US Presidential Address in some cities, and re-aired November 13th._

@@ -3,13 +3,9 @@ title: "In Vino Veritas"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 13
 date: 2013-02-06
-prodnum: 286
+description: "When CSI Mac Taylor decides to surprise his girlfriend in Vegas, he discovers she’s missing and asks his friend D.B. Russell for help. Meanwhile, the CSIs investigate the loss of a local wine collector on part one of a two-part crossover with CSI:NY"
 ---
 
 ## Synopsis

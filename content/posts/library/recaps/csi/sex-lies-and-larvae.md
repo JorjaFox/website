@@ -3,18 +3,18 @@ title: "Sex, Lies and Larvae"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 10
 date: 2000-12-22
-prodnum: 110
+description:  "The investigators work a trio of diverse cases that involve a murder, a theft and a disappearance in this intriguing episode."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x10-sex-lies-larvae-001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x10-sex-lies-larvae-002.jpg"
 ---
 
 ## Synopsis
 
-The investigators work a trio of diverse cases that involve a murder, a theft and a disappearance in this intriguing episode. Grissom investigates the shooting death of a young woman when her bloodied and bug-infested body is found on a nearby mountain. Most of the circumstantial evidence points to the woman's abusive husband as the likely killer. But Grissom's not so sure, since his analysis of the bugs indicates that the victim was killed three days prior--when the hubby was out of town. Elsewhere, a man claims that a thief stole a valuable painting from his house, and a missing woman is feared dead when blood is found in her abandoned car.
+Grissom investigates the shooting death of a young woman when her bloodied and bug-infested body is found on a nearby mountain. Most of the circumstantial evidence points to the woman's abusive husband as the likely killer. But Grissom's not so sure, since his analysis of the bugs indicates that the victim was killed three days prior--when the hubby was out of town. Elsewhere, a man claims that a thief stole a valuable painting from his house, and a missing woman is feared dead when blood is found in her abandoned car.
 
 ## Review
 

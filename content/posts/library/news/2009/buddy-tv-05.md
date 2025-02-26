@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "The 'CSI' Franchise Case File: Someone's Returning and Someone's Not  "
+description: "The 'CSI' Franchise Case File: Someone's Returning and Someone's Not  "
 newsreporter: Henrik Batallones
 newssource: BuddyTV.com
 newsurl: https://www.buddytv.com/articles/csi/the-csi-franchise-case-file-so-30212.aspx

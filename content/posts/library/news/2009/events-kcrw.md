@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "Jorja Fox is our Guest DJ  "
+description: "Jorja Fox is our Guest DJ  "
 newsreporter: RR
 newssource: Music News & Events on KCRW
 newsurl: https://kcrwmusicnews.vox.com/library/post/jorja-fox-is-our-guest-dj.html

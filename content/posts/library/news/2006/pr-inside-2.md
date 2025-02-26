@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI STARS SING FOR CHARITY  "
+description: "CSI STARS SING FOR CHARITY  "
 newsreporter: Staff
 newssource: PR Inside
 newsurl: https://www.pr-inside.com/csi-stars-sing-for-charity-r7664.htm

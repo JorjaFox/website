@@ -3,13 +3,9 @@ title: "Let It Bleed"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 9
-epnum: 4
 date: 2008-10-30
-prodnum: 904
+description: "A man in a police costume robs a convenience store.  Catherine's daughter Lindsey sneaks into a club with a fake ID, and a woman is found dead at the club."
 ---
 
 ## Synopsis
@@ -18,7 +14,7 @@ Nick and Riley witness a man in a police costume rob a convenience store. They t
 
 ## Review
 
-_Sara does not appear in the episode._
+{{< alert type="info" >}}Sara Sidle does not appear in this episode.{{< /alert >}}
 
 ## Notes
 

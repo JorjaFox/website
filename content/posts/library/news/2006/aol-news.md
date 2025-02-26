@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Which Season Ended With a Bang?  "
+description: "Which Season Ended With a Bang?  "
 newsreporter: Staff
 newssource: AOL News
 newsurl: https://news.aol.com

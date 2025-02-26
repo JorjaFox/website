@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' Fans Launch Save Jorja Fox Campaign"
+description: "'CSI' Fans Launch Save Jorja Fox Campaign"
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com

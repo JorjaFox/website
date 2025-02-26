@@ -5,6 +5,7 @@ layout: actor
 slug: ellen
 imdb: https://www.imdb.com/title/tt0570077/
 actorimage: /img/actors/ellen.jpg
+description: "A comedy TV series about Ellen and her friends, staring Ellen DeGeneres."
 ---
 
 ## "The Puppy Episode (2)"

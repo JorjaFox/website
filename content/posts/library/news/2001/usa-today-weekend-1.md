@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Who's Q&A
+description: Who's Q&A
 newsreporter: Staff
 newssource: USA Today
 newsurl: https://www.usatoday.com/

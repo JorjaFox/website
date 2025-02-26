@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "As Grissom and Sara close in on who framed Hodges, the CSI team investigates a lock room murder mystery at 30,000 feet, when a cargo plane lands autonomously at McCarran Airport and everyone on board has been killed."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/05-chipsfall/117707_0071b.jpg"

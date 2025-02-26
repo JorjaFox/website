@@ -4,6 +4,7 @@ title: "3 Weeks to Daytona"
 slug: "3-weeks-to-daytona"
 imdb: https://www.imdb.com/title/tt1857605/
 actorimage: /img/actors/3-weeks-daytona.jpg
+description: "A down on his luck stock car racer with one dream left to hold onto, drive with best. Unfortunately, with a busted car, no money, and bad job, Chuck's limelight could be fading fast. When a final chance falls his way, can he patch things up with his son, crew chief, and turn himself around before its too late?"
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/movies/3-weeks-to-daytona/poster2.jpg"

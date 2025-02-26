@@ -3,13 +3,24 @@ title: "Way to Go"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 24
-prodnum: 624
 date: 2006-05-18
+description: "In the season finale, the CSIs wait by the bedside of one of their own when he's shot in the line of duty. One CSI faces a hard choice by having the power of attorney over their injured friend and colleague. Meanwhile, the team also investigates the strange way of life of one man when he is found decapitated by a train."
+modules: [ "bs5-lightbox" ]
+photogallery:
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_01.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_02.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_03.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_04.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_05.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_06.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_07.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_08.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_09.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_10.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_11.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_12.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_13.jpg"
 ---
 
 ## Synopsis

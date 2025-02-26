@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: CSI's Foxy Lady
+description: CSI's Foxy Lady
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com/newsgossip/insider/001208a.asp

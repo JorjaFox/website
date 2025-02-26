@@ -3,13 +3,9 @@ title: "Bloodsport"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 5
+description: "After a beloved college football coach is found dead and his house drenched and spattered with his blood, the CSI team hunts for the killer who didn't find Coach Jimmy lovable at all."
 date: 2009-10-29
-prodnum: 211
 ---
 
 ## Synopsis

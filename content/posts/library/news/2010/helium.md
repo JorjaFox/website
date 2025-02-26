@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Top 10 TV couples  "
+description: "Top 10 TV couples  "
 newsreporter: Heather Bellingham
 newssource: Helium
 newsurl: https://www.helium.com/items/1920801-top-10-tv-couples

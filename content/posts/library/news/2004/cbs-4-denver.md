@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Two 'CSI' Stars Fired"
+description: "Two 'CSI' Stars Fired"
 newsreporter: Staff
 newssource: CBS 4 Denver
 newsurl: https://news4colorado.com/

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: Headed for One True Thing
+description: Headed for One True Thing
 newsreporter: Staff
 newssource: The Den
 newsurl: https://www.theden.com

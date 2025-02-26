@@ -3,18 +3,14 @@ title: "Sounds of Silence"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 20
 date: 2001-04-19
-prodnum: 119
+description: "An apparent vehicular-manslaughter case turns into a murder investigation when Grissom discovers that the victim, who was deaf, was actually killed before a car hit him. Also, a shoot-out at a coffee shop, which may have been a professional hit, leaves five people dead, including a local high roller."
 ---
 
 ## Synopsis
 
-An apparent vehicular-manslaughter case turns into a murder investigation when Grissom discovers that the victim, who was deaf, was actually killed before a car hit him. Also, a shoot-out at a coffee shop, which may have been a professional hit, leaves five people dead, including a local high roller.
+Grissom, Sara and Warrick investigate the death of a deaf man who was run over by a car. However, more investigation shows that he died before the car even struck him. The team's encounters with the dean of the deaf man's school reveals a secret about Grissom. Meanwhile, Catherine and Nick investigate an apparent mob hit that leaves five dead in a coffee shop and discover that the victim they thought was the target may only have been collateral damage.
 
 ## Review
 

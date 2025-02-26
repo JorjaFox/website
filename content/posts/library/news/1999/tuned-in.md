@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: UPN schedule plays to men with WWF wrestling
+description: UPN schedule plays to men with WWF wrestling
 newsreporter: Rob Owen
 newssource: Post-Gazette Publishing
 newsurl: https://www.post-gazette.com

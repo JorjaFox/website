@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: "CSI: Jorja Fox"
+description: "CSI: Jorja Fox"
 newsreporter: Staff
 newssource: KTLA Local News
 newsurl: https://sns.ktla.com/news/local/ktla-051701seg-info.htmlstory#csi

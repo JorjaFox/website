@@ -4,7 +4,7 @@ date: 2021-10-01
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "What Happens in Vegas"
+description: "What Happens in Vegas"
 newsreporter: "Mara Reinstein"
 newssource: "CBS Watch"
 newsurl: https://digital.cbswatchmagazine.com/view/962262132/

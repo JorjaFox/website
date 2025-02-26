@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' Kills Back to Life?"
+description: "'CSI' Kills Back to Life?"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com

@@ -3,13 +3,15 @@ title: "One To Go"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 9
-epnum: 10
 date: 2009-01-15
-prodnum: 910
+description: "The CSI team is shocked and saddened when, after working with Dr. Raymond Langston on the 'Dick & Jane' murders, Grissom announces that his time as a CSI has come to an end and offers Langston a permanent position on the CSI team."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_04.jpg"
 ---
 
 ## Synopsis

@@ -3,13 +3,9 @@ title: "Unbearable"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 14
 date: 2005-02-10
-prodnum: 514
+description:  "When a hunter and a bear are found dead on the outskirts of Las Vegas, detectives suspect a third party was involved in the killings."
 ---
 
 ## Synopsis

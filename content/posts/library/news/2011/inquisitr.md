@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Bob Barker, Jorja Fox Fight to Stop Circus Animal Cruelty  "
+description: "Bob Barker, Jorja Fox Fight to Stop Circus Animal Cruelty  "
 newsreporter: Michael Söze
 newssource: Inquisitr
 newsurl: https://www.inquisitr.com/156384/bob-barker-traveling-exotic-animal-protection-act/

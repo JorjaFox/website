@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "CSI Season 13 Review 'Risky Business Class' -- Owner of a Lonely Heart  "
+description: "CSI Season 13 Review 'Risky Business Class' -- Owner of a Lonely Heart  "
 newsreporter: Kristen Elizabeth
 newssource: TVEquals
 newsurl: https://www.tvequals.com/2012/12/12/csi-season-13-review-risky-business-class-owner-of-a-lonely-heart/

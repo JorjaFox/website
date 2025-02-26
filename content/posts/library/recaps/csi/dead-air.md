@@ -3,20 +3,19 @@ title: "Dead Air"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 11
 date: 2013-01-16
-prodnum: 284
+description: "When the power goes out on set, a notoriously difficult anchorwoman is murdered at her desk during a live news broadcast, leaving the CSIs to solve a classic 'locked room' mystery."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/11-deadair-001.jpg
 ---
 
 ## Synopsis
 
 It was a dark and stormy night in Las Vegas, when Theresa Shea, a news anchor for KVKC died on set, on a closed set. While presenting the news on the storm, the power went out. When it came back up, Theresa was dead of a single puncture wound to the back of the neck. No one else was in the room.
 
-Sara and D.B. Russell are the leads on the case, but it's an all-hands-on-deck case, especially since almost everyone has a motive. The autopsy reveals the knife went in at the perfect spot to sever the brainstem, meaning the killer was either really lucky, or really good.
+Sara and D.B. Russell are the leads on the case, but it's an all-hands-on-deck case, especially since almost everyone has a motive. The autopsy reveals the knife went in at the perfect spot to sever the brain stem, meaning the killer was either really lucky, or really good.
 
 The power outage was caused by a transform that exploded, which isn't unheard of, though the traces of explosives imply it was done on purpose, as part of a plan to kill Theresa. The temporary co-anchor, Ella St. James, was reporting from the field at the time, only her video was proven to haven been taken at a different time in a different location. Ella admits she was in a different location, but it's because she was having an affair with her camera man (who confesses as well). Ella knew that Theresa was working on a big, secret, case, which the CSIs find ... stuck to the walls in Theresa's bedroom.
 

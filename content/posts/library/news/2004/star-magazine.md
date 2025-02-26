@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "(Untitled)"
+description: "(Untitled)"
 newsreporter: Staff
 newssource: Star Magazine
 newsurl: https://www.starmagazine.com

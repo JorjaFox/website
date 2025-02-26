@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox: 'CSI' Is a Keeper, So I'm a Goner  "
+description: "Jorja Fox: 'CSI' Is a Keeper, So I'm a Goner  "
 newsreporter: Matt Webb Mitovich
 newssource: TV Guide News
 newsurl: https://community.tvguide.com/blog-entry/TVGuide-News-Blog/Todays-News/Jorja-Fox-Csi/800024734

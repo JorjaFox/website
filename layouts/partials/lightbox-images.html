@@ -29,16 +29,22 @@
     {{- end -}}
 
     {{- /* This handles all remote images */ -}}
-    {{- with resources.GetRemote $imageurl | resources.Copy $dir -}}
+    {{- with try (resources.GetRemote $imageurl) -}}
         {{- with .Err -}}
-            {{- warnf "%s" . -}}
-        {{- else -}}
-            {{- $image    = . -}}
-            {{- $imageurl = $image.RelPermalink -}}
-            {{- $image    = $image.Fill "250x250" -}}
-            {{- $imagesrc = $image.RelPermalink -}}
-        {{- end -}}
-    {{- end -}}
+            {{- warnf "Error: %s" . -}}
+            {{- $imagesrc = "" -}}
+        {{- else with .Value -}}
+            {{- with resources.GetRemote $imageurl | resources.Copy $dir -}}
+                {{- $image    = . -}}
+                {{- $imageurl = $image.RelPermalink -}}
+                {{- $image    = $image.Fill "250x250" -}}
+                {{- $imagesrc = $image.RelPermalink -}}
+            {{- end -}}
+        {{ else }}
+            {{ $imagesrc = "" }}
+            {{ warnf "LIGHTBOX: Unable to get remote resource %q" $imageurl }}
+        {{ end }}
+    {{ end }}
 
     {{- if $imagesrc -}}
         <div class="col">
@@ -48,5 +54,7 @@
                 </div>
             </div>
         </div>
+    {{- else -}}
+        <p>Images coming soon</p>
     {{- end -}}
 {{- end -}}

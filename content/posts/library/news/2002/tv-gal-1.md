@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: TV Gal Dishes Up the Globes
+description: TV Gal Dishes Up the Globes
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://tv.zap2it.com/

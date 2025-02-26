@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Ask Ausiello"
+description: "Ask Ausiello"
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://www.tvguide.com

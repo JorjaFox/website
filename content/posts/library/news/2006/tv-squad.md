@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI: Way To Go (finale)  "
+description: "CSI: Way To Go (finale)  "
 newsreporter: Staff
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/2006/05/22/csi-way-to-go-finale/

@@ -1,5 +1,7 @@
 ---
 title: ExtraTV
+description: 'ExtraTV - 2015-08-18'
+title: ExtraTV
 date: 2015-08-18
 transcriber: "Mika A. Epstein"
 layout: transcript

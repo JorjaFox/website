@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CBS exec. defends firing of 'CSI' stars"
+description: "CBS exec. defends firing of 'CSI' stars"
 newsreporter: Staff
 newssource: ContraCostaTimes
 newsurl: https://ContraCostaTimes.com

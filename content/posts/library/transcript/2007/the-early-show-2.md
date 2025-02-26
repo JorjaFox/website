@@ -1,5 +1,7 @@
 ---
 title: The Early Show
+description: 'The Early Show - 2007-05-18'
+title: The Early Show
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-05-18

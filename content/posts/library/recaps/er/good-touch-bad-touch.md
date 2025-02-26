@@ -12,6 +12,7 @@ epnum: Five
 prodnum: 466354
 date: 1997-10-30
 rating: 4
+description: "Hathaway comes up with the idea of a pediatric clinic for the ER, and starts looking for funding. A difficult case involving a young athlete brings a new understanding between Ross and Del Amico. Greene's anger issues flare up when he is deposed in a malpractice suit. Carter succeeds with a difficult diagnosis, affirming his decision to move from surgery to the ER. Benton is having trouble juggling work and parenthood. Jeanie watches Al and his former best friend get in a violent brawl. Benton meets Dr. Corday's sponsor, Dr. Robert 'Rocket' Romano."
 ---
 
 ## Summary

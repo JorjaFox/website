@@ -3,13 +3,13 @@ title: "Go To Hell"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 8
-epnum: 3
 date: 2007-10-11
-prodnum: 803
+description: "The CSI team investigates the murder of an entire family, except for one daughter who supposedly is possessed by the devil. Also, intern Ronnie Lake joins Sara on the swing shift."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/803-gotohell_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/803-gotohell_02.jpg"
 ---
 
 ## Synopsis

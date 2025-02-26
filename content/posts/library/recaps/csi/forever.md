@@ -3,13 +3,9 @@ title: "Forever"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 21
 date: 2003-05-01
-prodnum: 321
+description: "The trampling death of a trainer by her horse aboard a private jet is investigated by Grissom, Catherine, and Nick. Sara and Warrick look into a Romeo and Juliet scenario in the desert."
 ---
 
 ## Synopsis

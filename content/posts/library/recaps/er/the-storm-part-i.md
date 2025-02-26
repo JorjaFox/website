@@ -7,6 +7,7 @@ station: NBC
 showname: "E.R."
 showslug: er
 date: 1999-02-11
+description: "Joi's son dies, and Ross' role in his death is exposed after the boy's father shows up and starts demanding information. Hathaway's clinic is temporarily closed. Greene and Weaver's cover-up of Ross' earlier actions to help Joi is revealed. Weaver suspends Ross from work and Hathaway chastises him for his selfish actions. The ER responds to a school bus accident. While en route to the scene, Jeanie and Ross crash on an icy road."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/er/5x14-001.jpg"

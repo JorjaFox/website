@@ -1,5 +1,7 @@
 ---
 title: Hollywood At Large
+description: 'Hollywood At Large - 2001-02-23'
+title: Hollywood At Large
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2001-02-23

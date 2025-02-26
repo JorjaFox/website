@@ -1,6 +1,7 @@
 ---
 title: About Stars / Grading
 layout: library
+description: "Grading is our subjective way of rating a TV show or movie by way of how much is Jorja Fox's character involved, and how much screen time does she get.."
 ---
 
 Grading is our subjective way of rating a TV show or movie by way of how much is Jorja Fox's character involved, and how much screen time does she get.

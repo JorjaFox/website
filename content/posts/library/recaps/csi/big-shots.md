@@ -3,13 +3,13 @@ title: "Big Shots"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 19
 date: 2007-04-05
-prodnum: 719
+description: "Greg learns that the brother of the man he killed in self-defense months earlier is connected to the shooting death of a thug in a limousine."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/719-bigshots_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/719-bigshots_02.jpg"
 ---
 
 ## Synopsis

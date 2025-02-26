@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CSI actors fired for breach of contract"
+description: "CSI actors fired for breach of contract"
 newsreporter: Staff
 newssource: The Mercury News
 newsurl: https://www.mercurynews.com/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "'CSI Cast & Crew Say Goodbye To Helgenberger  "
+description: "'CSI Cast & Crew Say Goodbye To Helgenberger  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/01/csi-cast-crew-say-goodbye-to-helgenberger/

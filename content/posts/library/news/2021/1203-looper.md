@@ -4,7 +4,7 @@ date: 2021-12-03
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "How Jorja Fox Really Feels About The New CSI: Vegas Cast"
+description: "How Jorja Fox Really Feels About The New CSI: Vegas Cast"
 newsreporter: "Scott Chernoff"
 newssource: "Looper"
 newsurl: https://www.looper.com/677090/how-jorja-fox-really-feels-about-the-new-csi-vegas-cast/

@@ -1,5 +1,7 @@
 ---
 title: Larry King Weekend
+description: 'Larry King Weekend - 2002-05-18'
+title: Larry King Weekend
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-05-18

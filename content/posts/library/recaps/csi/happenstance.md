@@ -3,13 +3,9 @@ title: "Happenstance"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 8
 date: 2006-11-17
-prodnum: 708
+description: "Identical twin sisters who apparently didn't know of each other's existence are murdered on the same night."
 ---
 
 ## Synopsis

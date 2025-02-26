@@ -3,13 +3,16 @@ title: "Turn On, Tune In, Drop Dead"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 16
 date: 2011-02-24
-prodnum: 245
+description: "The CSIs are on zombie alert when two men initially pronounced dead mysteriously come back to life."
+modules: [ "bs5-lightbox" ]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune04.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1116-tune05.jpg
 ---
 
 ## Synopsis

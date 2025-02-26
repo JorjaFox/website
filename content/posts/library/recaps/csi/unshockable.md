@@ -3,13 +3,9 @@ title: "Unshockable"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 14
 date: 2010-03-04
-prodnum: 220
+description: "When a band member of Rascal Flatts is electrocuted by his own guitar during a concert, the CSI team investigates if it was a case of foul play."
 ---
 
 ## Synopsis

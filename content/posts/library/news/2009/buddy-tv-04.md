@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox Returns for 'CSI' Season 10 Premiere  "
+description: "Jorja Fox Returns for 'CSI' Season 10 Premiere  "
 newsreporter: Henrik Batallones
 newssource: BuddyTV.com
 newsurl: https://www.buddytv.com/articles/csi/csi-jorja-fox-returns-for-tent-30105.aspx

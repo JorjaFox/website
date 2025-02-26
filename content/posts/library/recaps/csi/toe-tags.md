@@ -3,13 +3,22 @@ title: "Toe Tags"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 3
 date: 2006-10-05
-prodnum: 701
+description: "While Grissom leads a group of college students on a tour of CSI, the dead 'speak' while the CSIs investigate, each narrating their own case: a dead casino security guard whose luck ran out, a wife who 'fell' off a cliff while hiking with her husband, a war veteran murdered on his first day back from Iraq, and two neighbors whose encounter with a chainsaw ends badly."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_009.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_010.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/703-toetags_011.jpg"
 ---
 
 ## Synopsis

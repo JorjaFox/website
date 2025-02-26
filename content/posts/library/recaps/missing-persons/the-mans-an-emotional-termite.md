@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-10-28
 season: 1
 episode: 6
+description: "A young woman's parents arrive for a visit and find her missing; a young girl is an apparent runaway; and an older man's entire family disappears."
 ---
 
 ## Synopsis

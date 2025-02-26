@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "Cover Story - How I Became an Elephant: The Movie  "
+description: "Cover Story - How I Became an Elephant: The Movie  "
 newsreporter: Brenda Carey
 newssource: Vegetarian Health and Fitness Magazine
 newsurl: https://www.vhfmag.com

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CSI star sacked"
+description: "CSI star sacked"
 newsreporter: Staff
 newssource: Herald Sun
 newsurl: https://www.heraldsun.news.com.au/

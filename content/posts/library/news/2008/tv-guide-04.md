@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Oh No They Didn't!"
+description: "Oh No They Didn't!"
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com/Magazine/

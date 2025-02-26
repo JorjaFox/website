@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "The 50 Hottest Women on Television  "
+description: "The 50 Hottest Women on Television  "
 newsreporter: UGO Team
 newssource: UGO.com
 newsurl: https://www.ugo.com/tv/50-hottest-women-on-tv-14

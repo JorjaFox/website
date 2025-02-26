@@ -4,6 +4,7 @@ title: Library
 description: Welcome to the Fans of LeFox Library
 noToc: true
 type: index
+searchExclude: true
 ---
 
 The goal of the *Fans of LeFox Library* is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox.

@@ -1,6 +1,7 @@
 ---
 title: "Looking for the gallery or videos?"
 layout: library
+description: "Why the old gallery was removed (short version? Legal stuff)."
 ---
 
 {{< alert color="danger" icon="fas fa-face-sad-tear" >}}

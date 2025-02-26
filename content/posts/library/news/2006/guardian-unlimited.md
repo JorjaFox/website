@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Q&A Jorja Fox  "
+description: "Q&A Jorja Fox  "
 newsreporter: Staff
 newssource: Guardian Unlimited
 newsurl: https://www.guardian.co.uk/

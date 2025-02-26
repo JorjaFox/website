@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Billy Masters in Hollywood  "
+description: "Billy Masters in Hollywood  "
 newsreporter: Billy Masters
 newssource: Pride Source
 newsurl: https://www.pridesource.com/article.shtml?article=27785

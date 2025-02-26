@@ -3,13 +3,9 @@ title: "Chaos Theory"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 2
 date: 2001-10-04
-prodnum: 202
+description: "Sometimes murder just happens, and there's no way to explain or solve it."
 ---
 
 ## Synopsis

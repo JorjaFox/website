@@ -5,6 +5,7 @@ weight: 10
 thumbnail:
     url: img/front-page/csi-vegas.jpg
 href: /library/actor/csi-vegas/
+searchExclude: true
 ---
 
 Sara Sidle (and her husband Grissom) return to Las Vegas to help old friends.

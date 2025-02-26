@@ -3,13 +3,9 @@ title: "Suckers"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 13
 date: 2004-02-05
-prodnum: 414
+description: "The CSI deal with vampires and a stolen relic."
 ---
 
 ## Synopsis

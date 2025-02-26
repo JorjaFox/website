@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "'CSI' Jorja Fox Q&A: 'I'm hoping for a Sara, Grissom reunion'  "
+description: "'CSI' Jorja Fox Q&A: 'I'm hoping for a Sara, Grissom reunion'  "
 newsreporter: Morgan Jeffery
 newssource: Digital Spy
 newsurl: https://www.digitalspy.com/tv/interviews/a459941/csi-jorja-fox-qa-im-hoping-for-a-sara-grissom-reunion.html

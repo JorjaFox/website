@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "The Way I See It..."
+description: "The Way I See It..."
 newsreporter: Woman Magazine
 newssource: Woman Magazine
 newsurl: https://www.ipcmedia.com/magazines/woman/

@@ -5,6 +5,7 @@ layout: advocacy
 tags:
   - psa
 website: https://www.cbs.com/cbs_cares/
+description: "A promotional advocacy group sponsored by CBS."
 ---
 
 While on CSI: Crime Scene Investigation, Jorja Fox and many of her cast members filmed Public Service Announcements for CBS.

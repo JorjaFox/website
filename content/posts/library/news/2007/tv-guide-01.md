@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Staying Alive: Jorja Fox in Talks with CSI"
+description: "Staying Alive: Jorja Fox in Talks with CSI"
 newsreporter: Staff
 newssource: TV Guide (online)
 newsurl: https://community.tvguide.com

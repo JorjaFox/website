@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "A terrific 'CSI': Sara Sidle leaves in classic style  "
+description: "A terrific 'CSI': Sara Sidle leaves in classic style  "
 newsreporter: Hal Boedecker
 newssource: Orlando Sentinel
 newsurl: https://blogs.orlandosentinel.com/entertainment\_tv\_tvblog/2007/11/a-terrific-csi-.html

@@ -3,13 +3,18 @@ title: "No Humans Involved"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 10
 date: 2004-12-09
-prodnum: 510
+description: "Grissom and his team investigate the starving death of a five year old boy. They discover the boy has siblings who are in danger too. Catherine and her team determine who killed a prisoner in a holding cell brawl."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_007.jpg"
 ---
 
 ## Synopsis

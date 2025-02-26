@@ -1,5 +1,7 @@
 ---
 title: The View
+description: 'The View - 2007-11-17'
+title: The View
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-11-17

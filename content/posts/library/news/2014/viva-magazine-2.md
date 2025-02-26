@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "HOW DO YOU DEFINE BALANCED LIVING?"
+description: "HOW DO YOU DEFINE BALANCED LIVING?"
 newsreporter: Viva Magazine
 newssource: Viva Magazine
 newsurl: https://www.vivamagonline.com/

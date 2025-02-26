@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Candid shorts"
+description: "Candid shorts"
 newsreporter: Staff
 newssource: Star eCentral
 newsurl: https://www.star-ecentral.com

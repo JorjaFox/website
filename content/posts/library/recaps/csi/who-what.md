@@ -3,13 +3,9 @@ title: "Who & What"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 8
-epnum: 6
 date: 2007-11-08
-prodnum: 806
+description: "In Part One of a Two-Part crossover episode to conclude on 'Without A Trace,' a kidnap victim from New York who went missing six years ago may be the same boy whose death Grissom and the CSI team are investigating in Las Vegas."
 ---
 
 ## Synopsis

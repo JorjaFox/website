@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja on My Mind: CBS Bungles Sara Sidle's CSI Exit  "
+description: "Jorja on My Mind: CBS Bungles Sara Sidle's CSI Exit  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times - The Feed
 newsurl: https://blogs.tampabay.com/media/2007/11/cbs-shows-sara-.html

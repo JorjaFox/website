@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CSI star fired in 'pay dispute'"
+description: "CSI star fired in 'pay dispute'"
 newsreporter: Staff
 newssource: BBC
 newsurl: https://news.bbc.co.uk/1/hi/entertainment/film/3899613.stm

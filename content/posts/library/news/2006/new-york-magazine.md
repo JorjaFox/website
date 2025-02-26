@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "The Year in TV  "
+description: "The Year in TV  "
 newsreporter: Staff
 newssource: New York Magazine
 newsurl: https://nymag.com/arts/cultureawards/2006/25307/index1.html

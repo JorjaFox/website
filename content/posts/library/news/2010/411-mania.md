@@ -6,7 +6,7 @@ layout: news
 newsyear: "2010"
 permalink: /news/2010/:title/
 
-newstitle: "20 October  "
+description: "20 October  "
 newsreporter: Bryan Kristopowitz
 newssource: 411Mania.com
 newsurl: https://www.411mania.com/movies/columns/158335/

@@ -3,13 +3,9 @@ title: "A Little Murder"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 4
 date: 2002-10-17
-prodnum: 304
+description: "Grissom suspects murder, not suicide, when the body of a dwarf is found hanging from a rope high above a stage in a casino hotel where a convention of little people is being held."
 ---
 
 ## Synopsis

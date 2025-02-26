@@ -4,7 +4,7 @@ date: 2021-11-30
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "Jorja Fox Reveals Her Thoughts On A CSI: Vegas Season 2"
+description: "Jorja Fox Reveals Her Thoughts On A CSI: Vegas Season 2"
 newsreporter: "Lexi Heinitz"
 newssource: "Looper"
 newsurl: https://www.looper.com/673394/jorja-fox-reveals-her-thoughts-on-a-csi-vegas-season-2/

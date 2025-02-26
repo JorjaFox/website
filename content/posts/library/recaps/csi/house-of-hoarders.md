@@ -3,22 +3,25 @@ title: "House of Hoarders"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 5
 date: 2010-10-07
-prodnum: 234
+description: "A woman who suffers from a condition called 'hoarding' becomes a murder suspect when a dead body is found buried under piles of trash and debris inside her home."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1105-hoarders005.jpg
 ---
 
 ## Synopsis
 
-A woman, Mrs. Santiago, who suffers from a condition called 'hording' becomes a murder suspect when a dead body is found buried under piles of trash and debris inside her home. Initially the cops are called in due to complaints of too many cats (and the resultant smell), but when they can't get in the front door, the case takes a turn for the worse and a liquified body is found. Initially they think the body is Mrs. Santiago, but it's her daughter, Diana.
+A woman, Mrs. Santiago, who suffers from a condition called 'hording' becomes a murder suspect when a dead body is found buried under piles of trash and debris inside her home. Initially the cops are called in due to complaints of too many cats (and the resultant smell), but when they can't get in the front door, the case takes a turn for the worse and a liquefied body is found. Initially they think the body is Mrs. Santiago, but it's her daughter, Diana.
 
 Diana had been dead a week, from a single blow to the head caused by an object in the house. Inspecting the house the CSIs find a blood trail to a room where things had been tidied up considerably. Diana had come over to help her mother clean the house, when a stack of magazine hit her in the head, falling from a tall tower, and a second body, the skeleton of a 17 year old male, is found, his hands bound with red ribbon.
 
-In the backyard, the skeletonized remains of three more boys of a similar age are found in a pit, covered by a tarp. Their hands tied in front with red ribbon. All four died of acute arsenic poisoning. They were runaways who were sent to a halfway house run by Julian Santiago, the eldest child.
+In the backyard, the skeleton remains of three more boys of a similar age are found in a pit, covered by a tarp. Their hands tied in front with red ribbon. All four died of acute arsenic poisoning. They were runaways who were sent to a halfway house run by Julian Santiago, the eldest child.
 
 Alisia, the middle child, is found still in the house, walled up behind boxes of her own belongings, handcuffed to her own crib by her mother. The handcuffs were bought by Julian, but only Mrs. Santiago and Alisia's prints are found in the room.
 

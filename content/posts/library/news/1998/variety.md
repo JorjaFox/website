@@ -4,7 +4,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1998/:title/
 newsyear: "1998"
-newstitle: Review
+description: Review
 date: 1998-02-02
 newsreporter: Staff
 newssource: Variety

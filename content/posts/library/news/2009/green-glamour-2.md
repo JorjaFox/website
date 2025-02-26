@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "13 Questions - Jorja Fox  "
+description: "13 Questions - Jorja Fox  "
 newsreporter: Unknown
 newssource: Green With Glamour
 newsurl: https://www.greenwithglamour.com/index.php?main_page=editorial&e=questions&c=13_jorja_fox

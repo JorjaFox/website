@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Beauty and crime?"
+description: "Beauty and crime?"
 newsreporter: Staff
 newssource: The Age
 newsurl: https://www.theage.com.au

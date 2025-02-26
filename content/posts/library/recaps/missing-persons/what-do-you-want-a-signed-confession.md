@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1994-02-17
 season: 1
 episode: 17
+description: "Bobby is still under investigation for a suspected bribe and perverting the course of justice. Also a little girl is snatched in a department store."
 ---
 
 ## Synopsis

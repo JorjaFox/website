@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "'CSI' Finally Becomes a Chalk Outline With Series Finale (SPOILERS)"
+description: "'CSI' Finally Becomes a Chalk Outline With Series Finale (SPOILERS)"
 newsreporter: Brian Lowry
 newssource: Variety
 newsurl: https://variety.com/2015/tv/columns/csi-series-finale-review-william-petersen-cbs-spoilers-1201603466/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Sara says good-bye to 'CSI'  "
+description: "Sara says good-bye to 'CSI'  "
 newsreporter: Jessica Banov
 newssource: The Fayetteville Observer
 newsurl: https://www.fayobserver.com/article?id=277791

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: "What a Crime! No Sex Scenes"
+description: "What a Crime! No Sex Scenes"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

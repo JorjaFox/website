@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Walking for good cause without ever leaving home"
+description: "Walking for good cause without ever leaving home"
 newsreporter: Yahoo News
 newssource: Yahoo News
 newsurl: https://news.yahoo.com

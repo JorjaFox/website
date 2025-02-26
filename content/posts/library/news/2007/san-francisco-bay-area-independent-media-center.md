@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "San Francisco Indie Fest Ends With Controversy"
+description: "San Francisco Indie Fest Ends With Controversy"
 newsreporter: IndyBay
 newssource: IndyBay
 newsurl: https://www.indybay.org/newsitems/2007/02/16/18364540.php

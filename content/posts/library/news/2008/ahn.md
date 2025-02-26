@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "'CSI' Star Jorja Fox Campaigns Against Circus Animal Abuse  "
+description: "'CSI' Star Jorja Fox Campaigns Against Circus Animal Abuse  "
 newsreporter: Jennifer Tormo
 newssource: AHN
 newsurl: https://www.allheadlinenews.com/articles/7011574660

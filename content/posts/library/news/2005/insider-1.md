@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "'CSI's Criminal Hospital Creeper"
+description: "'CSI's Criminal Hospital Creeper"
 newsreporter: Staff
 newssource: Insider
 newsurl: https://insider.tv.yahoo.com/

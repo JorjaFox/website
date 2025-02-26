@@ -3,13 +3,12 @@ title: "The Twin Paradox"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 6
 date: 2014-11-16
-prodnum: 323
+description: "Frustration mounts for the CSI team as another victim surfaces and all evidence points to the Gig Harbor Killer."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1516-twinparadox-001.jpg
 ---
 
 ## Synopsis

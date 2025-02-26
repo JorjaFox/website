@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: "Do you know who Jorja Fox is?"
+description: "Do you know who Jorja Fox is?"
 newsreporter: BartCop
 newssource: BartCop's Political Page
 newsurl: https://www.bartcop.com/0401.htm

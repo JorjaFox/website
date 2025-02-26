@@ -3,13 +3,9 @@ title: "You've Got Male"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 12
 date: 2001-12-20
-prodnum: 212
+description: "Grissom and Sara are called to the crime scene when two murder victims are found hidden in pipes at a construction site in the middle of an alfalfa field."
 ---
 
 ## Synopsis

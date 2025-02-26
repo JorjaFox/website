@@ -3,13 +3,12 @@ title: "Who Shot Sherlock?"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 11
 date: 2005-01-05
-prodnum: 511
+description: "A Sherlock Holmes enthusiast is murdered in his perfectly re-created, Victorian-era, Baker Street study, and the CSI team needs to find the killer."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/511-whoshotsherlock_001.jpg"
 ---
 
 ## Synopsis

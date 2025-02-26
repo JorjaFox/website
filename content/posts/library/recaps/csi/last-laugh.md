@@ -3,13 +3,9 @@ title: "Last Laugh"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 20
 date: 2003-04-24
-prodnum: 320
+description: "Grissom and Catherine investigate the murder of a despised comic who died onstage, apparently after drinking from a tainted bottle of water. Brass reopens a woman's accidental-death case after spotting the deceased's husband in a flashy new car with a trophy date on his arm."
 ---
 
 ## Synopsis

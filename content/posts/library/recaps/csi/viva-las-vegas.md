@@ -3,13 +3,20 @@ title: "Viva Las Vegas"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 1
 date: 2004-09-23
-prodnum: 501
+description: "The CSI unit investigates four fatalities on one wild night in Las Vegas: a nightclub shooting, a stripper found dead in a hotel suite, a man found electrocuted in his bathtub, and a body clad in an alien costume found near Area 51."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/501-vivalasvegas_009.jpg"
 ---
 
 ## Synopsis

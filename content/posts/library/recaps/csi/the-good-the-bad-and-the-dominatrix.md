@@ -3,18 +3,18 @@ title: "The Good, the Bad, and the Dominatrix"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 23
 date: 2007-05-10
-prodnum: 723
+description: "Sara's uneasy about Grissom being reunited with Lady Heather during the CSI's investigation of her attempted murder by a client she refuses to name."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/723-tgtbatd_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/723-tgtbatd_002.jpg"
 ---
 
 ## Synopsis
 
-Lady Heather  is nearly strangled to death, while acting out a Wild West fantasy. Heather claimed to have been at the theme park to arrange for a private party, when the man arrived and strangled her. Later the night guard is found dead as well. When Brass comes to serve Heather with a warrant, Grissom serves as her alibi. Heather had sold her business to raise money to set up a trust fund to put her infant granddaughter, of whom she did not have custody, through college. In the end, it's revealed that Heather was trying to kill herself out of depression.
+Lady Heather is nearly strangled to death, while acting out a Wild West fantasy. Heather claimed to have been at the theme park to arrange for a private party, when the man arrived and strangled her. Later the night guard is found dead as well. When Brass comes to serve Heather with a warrant, Grissom serves as her alibi. Heather had sold her business to raise money to set up a trust fund to put her infant granddaughter, of whom she did not have custody, through college. In the end, it's revealed that Heather was trying to kill herself out of depression.
 
 A fifteen year-old pickpocket and petty thief is found dead of blunt force trauma with paint chips in her hair, from a taxi. Two taxi drivers had been feuding, and the girl was killed accidentally.
 

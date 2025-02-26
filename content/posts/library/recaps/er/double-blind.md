@@ -12,6 +12,7 @@ epnum: Twelve
 prodnum: 467562
 date: 1999-01-21
 rating: 5
+description: "Lucy begins her surgical rotation under Benton and Corday. After complaints by Doyle, Weaver interrogates Corday, asking if Romano ever sexually harassed her. Romano offers to get Corday's fellowship reinstated and asks her to assist him in surgery. Ross jeopardizes a new pain medication study by surreptitiously giving some of the drug to Joi's son Ricky. Greene and Weaver decide not to tell Anspaugh because of the violation of protocol on a federally funded trial."
 ---
 
 ## Summary

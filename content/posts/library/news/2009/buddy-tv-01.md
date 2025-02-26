@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "CSI: The 200th Birthday Spectacular Review  "
+description: "CSI: The 200th Birthday Spectacular Review  "
 newsreporter: Abi Kirk
 newssource: BuddyTV.com
 newsurl: https://www.buddytv.com/articles/csi/csi-the-200th-birthday-spectac-27603.aspx

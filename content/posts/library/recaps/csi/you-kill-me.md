@@ -3,13 +3,9 @@ title: "You Kill Me"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 8
-epnum: 8
 date: 2007-11-22
-prodnum: 808
+description: "Hodges stages hypothetical murders in the lab in order to give his fellow lab techs a chance to play CSI, but unbenownst to them he has other motives behind his actions. Meanwhile, after Sara's farewell, everyone tries to comfort Grissom."
 ---
 
 ## Synopsis

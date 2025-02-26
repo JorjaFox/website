@@ -6,7 +6,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Now she's crowing"
+description: "Now she's crowing"
 newsreporter: Staff
 newssource: TV Guide (Brisbane Australia)
 newsurl: https://www.tvguide.co.au

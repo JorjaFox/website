@@ -4,7 +4,7 @@ date: 2022-01-25
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2022"
-newstitle: "Jorja Fox Exits ‘CSI: Vegas’ Ahead of Season 2"
+description: "Jorja Fox Exits ‘CSI: Vegas’ Ahead of Season 2"
 newsreporter: "Jennifer Mass"
 newssource: "Variety"
 newsurl: https://variety.com/2022/tv/news/jorja-fox-csi-vegas-exit-season-2-1235162949/
@@ -26,4 +26,4 @@ See Fox’s thread below.
 
 CBS did not immediately respond to Variety’s request for comment on Fox’s exit.
 
-{{< tweet user="JorjaFoxofficia" id="1486014897947385857" >}}
+{{< x user="JorjaFoxofficia" id="1486014897947385857" >}}

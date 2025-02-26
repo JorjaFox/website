@@ -3,13 +3,14 @@ title: "Leaving Las Vegas"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: Eleven
 date: 2007-01-04
-prodnum: 711
+description: "Catherine's testimony in court is not enough to convict a killer suspected of murdering his own mother. Meanwhile, Grissom says goodbye to his colleagues and heads east for a teaching sabbatical."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/711-leavinglasvegas_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/711-leavinglasvegas_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/711-leavinglasvegas_003.jpg"
 ---
 
 ## Synopsis

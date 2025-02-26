@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1994-01-20
 season: 1
 episode: 14
+description: "Johnny and Connie look for two little boys who went missing on their way home from school, while Bobby has the mysterious disappearance of a woman he met on a recent case on his hands. Carlos, Anita, Ray and Barbara spend the whole episode worrying about baby Carlito Ray who is sick."
 ---
 
 ## Synopsis

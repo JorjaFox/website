@@ -4,7 +4,7 @@ date: 2021-09-18
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "CSI: Vegas Image Shows Grissom & Sarah Investigating a Trashed Crime Scene"
+description: "CSI: Vegas Image Shows Grissom & Sarah Investigating a Trashed Crime Scene"
 newsreporter: "John Deloss"
 newssource: "Screenrant"
 newsurl: https://screenrant.com/csi-vegas-grissom-sarah-crime-scene-image-tease/

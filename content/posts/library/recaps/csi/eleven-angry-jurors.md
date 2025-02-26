@@ -3,13 +3,9 @@ title: "Eleven Angry Jurors"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: Eleven
 date: 2004-01-08
-prodnum: 411
+description: "A hung jury ends up in worse states when a juror ends up dead. A jealous woman turns up to report a murder--that happened three years previously. "
 ---
 
 ## Synopsis

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: Tiara Tango
+description: Tiara Tango
 newsreporter: Marjorie Baumgarten
 newssource: Austin Chronicle
 newsurl: https://www.auschron.com

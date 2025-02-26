@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox returns to 'CSI'  "
+description: "Jorja Fox returns to 'CSI'  "
 newsreporter: Chuck Barney
 newssource: A+E Interactive
 newsurl: https://blogs.mercurynews.com/aei/2009/07/20/jorja-fox-returns-to-csi/

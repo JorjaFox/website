@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Bolivian Lions Transported To DIA  "
+description: "Bolivian Lions Transported To DIA  "
 newsreporter: AP
 newssource: Huffington Post
 newsurl: https://www.huffingtonpost.com/2011/02/16/bolivian-lions-arrive-at-_n_824132.html

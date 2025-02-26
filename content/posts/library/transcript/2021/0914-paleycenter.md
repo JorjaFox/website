@@ -1,5 +1,7 @@
 ---
 title: "PaleyFest Fall TV Previews 2021 "
+description: 'PaleyFest Fall TV Previews 2021  - 2021-09-14'
+title: "PaleyFest Fall TV Previews 2021 "
 date: 2021-09-14
 transcriber: "Mika A. Epstein"
 layout: transcript

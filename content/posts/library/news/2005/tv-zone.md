@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Fox at Bay"
+description: "Fox at Bay"
 newsreporter: Staff
 newssource: TV Zone
 newsurl: https://www.visimag.com

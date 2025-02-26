@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Jorja Fox Makes Her 'CSI' Comeback  "
+description: "Jorja Fox Makes Her 'CSI' Comeback  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/jorja-fox-makes-her-csi-comeba-19848.aspx

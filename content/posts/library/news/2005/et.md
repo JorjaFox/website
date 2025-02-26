@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Mark Uncovers Secrets from the CSI Set"
+description: "Mark Uncovers Secrets from the CSI Set"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://et.tv.yahoo.com

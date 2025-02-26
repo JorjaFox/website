@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: CSI's Sly Fox
+description: CSI's Sly Fox
 newsreporter: Staff
 newssource: Gist TV
 newsurl: https://www.gist.com

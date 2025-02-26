@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: "ER's Fox Set to Lead New UPN Drama"
+description: "ER's Fox Set to Lead New UPN Drama"
 newsreporter: Staff
 newssource: Ultimate TV (now Zap2It.com)
 newsurl: https://www.zap2it.com

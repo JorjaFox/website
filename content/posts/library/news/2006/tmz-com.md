@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "The Secret Talents at CSI"
+description: "The Secret Talents at CSI"
 newsreporter: Staff
 newssource: TMZ
 newsurl: https://tmz.aol.com/

@@ -3,13 +3,16 @@ title: "Bite Me"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 3
 date: 2005-10-06
-prodnum: 603
+description: "The CSI team investigates a wife's suspicious death on a flight of stairs.  The overwhelming amount of blood evidence in the case leads Grissom and his team to discover several revealing secrets within this 'typical' American marriage -- secrets of adultery, blackmail and a biting fetish that may have ultimately contributed to the housewife's death."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/603-biteme_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/603-biteme_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/603-biteme_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/603-biteme_04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/603-biteme_05.jpg"
 ---
 
 ## Synopsis

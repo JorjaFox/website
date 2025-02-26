@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' star Jorja Fox is off the case"
+description: "'CSI' star Jorja Fox is off the case"
 newsreporter: NY Daily News
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/

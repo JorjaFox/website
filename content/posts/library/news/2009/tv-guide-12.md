@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: 'Mega Buzz: Scoop on "CSI", "SVU", "Grey&apos;s", "90210" and More!'
+description: 'Mega Buzz: Scoop on "CSI", "SVU", "Grey&apos;s", "90210" and More!'
 newsreporter: "Mickey O'Connor and Adam Bryant"
 newssource: TV Guide
 newsurl: https://www.tvguide.com/News/MegaBuzz-CSI-SVU-Greys-1010090.aspx

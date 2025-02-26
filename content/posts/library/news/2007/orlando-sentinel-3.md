@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox bids farewell to 'CSI' in thrilling episode  "
+description: "Jorja Fox bids farewell to 'CSI' in thrilling episode  "
 newsreporter: Hal Boedeker
 newssource: Orlando Sentinel
 newsurl: https://www.orlandosentinel.com/entertainment/orl-csi1507nov15,0,1039405.story

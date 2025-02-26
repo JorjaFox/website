@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Les Experts : Jorja Fox dit avoir a resigner.  "
+description: "Les Experts : Jorja Fox dit avoir a resigner.  "
 newsreporter: Staff
 newssource: TeLe Star
 newsurl: https://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html

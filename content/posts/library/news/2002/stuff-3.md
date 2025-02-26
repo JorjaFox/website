@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: CSI Candy
+description: CSI Candy
 newsreporter: Staff
 newssource: Stuff Magazine
 newsurl: https://stuffmagazine.com/

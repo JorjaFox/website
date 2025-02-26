@@ -3,13 +3,9 @@ title: "Cats in the Cradle"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 20
 date: 2002-04-25
-prodnum: 220
+description: "Catherine, Grissom and Warrick investigate the murder of an elderly woman who lived alone with a lot of cats. Meanwhile, Nick and Sara look into an attempted murder with a pipe bomb placed in a car."
 ---
 
 ## Synopsis

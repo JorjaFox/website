@@ -4,7 +4,7 @@ date: 2021-11-03
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "Jorja Fox Shares Details on Sara & Grissom Romance and David Hodges Case on CSI: Vegas"
+description: "Jorja Fox Shares Details on Sara & Grissom Romance and David Hodges Case on CSI: Vegas"
 newsreporter: "Laura Nowak"
 newssource: "TV Fanatic"
 newsurl: https://www.tvfanatic.com/2021/11/jorja-fox-shares-details-on-sara-and-grissom-romance-and-david-h/

@@ -3,13 +3,14 @@ title: "XX"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 17
 date: 2004-03-11
-prodnum: 417
+description: "A mutilated female body is discovered tied to the undercarriage of a bus carrying prisoners from a women's correctional facility after a severed arm flies out from beneath the vehicle and strikes a car."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/417-xx_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/417-xx_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/417-xx_003.jpg"
 ---
 
 ## Synopsis

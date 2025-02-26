@@ -3,13 +3,12 @@ title: "Werewolves"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 11
 date: 2006-01-15
-prodnum: 611
+description: "When a woman gives birth to two children who have a bizarre disease, which causes them to grow excessive body hair, she abandons them, only to resurface years later, when one of them turns up dead: shot through the heart with a silver bullet."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/611-werewolves-001.jpg"
 ---
 
 ## Synopsis

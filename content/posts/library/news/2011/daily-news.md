@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Suit against IMDb shedding light on how birth dates can kill careers  "
+description: "Suit against IMDb shedding light on how birth dates can kill careers  "
 newsreporter: Bob Strauss
 newssource: Daily News
 newsurl: https://www.dailynews.com/news/ci_19325714

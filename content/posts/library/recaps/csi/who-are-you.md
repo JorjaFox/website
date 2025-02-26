@@ -3,13 +3,12 @@ title: "Who Are You?"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 6
 date: 2000-11-10
-prodnum: 106
+description: "Catherine violates department protocol when she takes the case of a rape accusation against her ex-husband."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x06-who-are-you-001.jpg"
 ---
 
 ## Synopsis

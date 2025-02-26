@@ -3,13 +3,9 @@ title: "And Then There Were None"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 9
 date: 2001-11-22
-prodnum: 209
+description: "Three armed 'women' (sic) kill five guards while stealing $250,000 from a local casino, witnesses all have conflicting stories about what happened, and that doesn't make things easy for Grissom, Nick and Warrick. Meanwhile, Catherine and Sara investigate a murder at a faraway mini-mart where a man was killed with an unusual weapon. Are the cases related?"
 ---
 
 ## Synopsis

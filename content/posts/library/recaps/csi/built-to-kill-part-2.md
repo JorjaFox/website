@@ -3,13 +3,9 @@ title: "Built to Kill (Part 2)"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 2
 date: 2006-09-28
-prodnum: 703
+description: "Grissom is fascinated when every detail of the miniature is identical to that of the real crime scene, and he goes about trying to solve the case using the clues provided. Meanwhile, Catherine again finds herself -- and someone close to her -- in danger, and begins to suspect who may be responsible."
 ---
 
 ## Synopsis

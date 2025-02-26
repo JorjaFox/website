@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Foxy Lady
+description: Foxy Lady
 newsreporter: Rebecca Fletcher
 newssource: The Look
 newsurl:

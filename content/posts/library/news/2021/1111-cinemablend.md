@@ -4,7 +4,7 @@ date: 2021-11-11
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "Why CSI: Vegas' Jorja Fox Felt 'Really Rusty' In Returning To CBS As Sara Sidle"
+description: "Why CSI: Vegas' Jorja Fox Felt 'Really Rusty' In Returning To CBS As Sara Sidle"
 newsreporter: "Megan Behnke"
 newssource: "Cinemablend"
 newsurl: https://www.cinemablend.com/television/why-csi-vegas-jorja-fox-felt-really-rusty-in-returning-to-cbs-as-sara-sidle

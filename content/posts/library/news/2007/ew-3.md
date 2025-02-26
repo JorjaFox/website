@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox leaving 'CSI' by end of '07"
+description: "Jorja Fox leaving 'CSI' by end of '07"
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com

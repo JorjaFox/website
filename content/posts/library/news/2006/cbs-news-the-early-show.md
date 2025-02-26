@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "The Early Show: Inside Minds Of 'CSI' Characters"
+description: "The Early Show: Inside Minds Of 'CSI' Characters"
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com

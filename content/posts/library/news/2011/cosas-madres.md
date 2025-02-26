@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "The actress is committed to the environment."
+description: "The actress is committed to the environment."
 newsreporter: Unknown
 newssource: Cosas Madres
 newsurl: https://static.jorjafox.net/wp-content/uploads/2011/10/58-62jorjafox.pdf

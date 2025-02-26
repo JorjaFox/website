@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Save Billy from LA Zoo  "
+description: "Save Billy from LA Zoo  "
 newsreporter: Terrence Lau
 newssource: LA Wave
 newsurl: https://www.wavenewspapers.com/community/calendar/38493429.html

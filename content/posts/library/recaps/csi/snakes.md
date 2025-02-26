@@ -3,13 +3,9 @@ title: "Snakes"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 12
 date: 2005-01-13
-prodnum: 512
+description: "CSI finds a dead baby rattlesnake in the throat of a decapitated human head, sending investigators into a dangerous underground world that glamorizes violence and brutality."
 ---
 
 ## Synopsis
@@ -18,7 +14,7 @@ The swing shift has a busy time. Warrick looks into the murder of man by someone
 
 ## Notes
 
-* Even though Sara told Ecklie it was already done in "Mea Culpa", she only now has her post PEAP talk with Grissom.
+* Even though Sara told Ecklie it was already done in ["Mea Culpa"](/library/recaps/csi/mea-culpa/), she only now has her post PEAP talk with Grissom.
 * Sara moved to Vegas because of Grissom.
 * Sara blames herself for the complications in her relationship with Grissom.
 * Sara thinks of Grissom as more than just her boss.

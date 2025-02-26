@@ -4,7 +4,7 @@ date: 2015-12-30
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
-newstitle: "CSI Goodbye! 'CSI: Final Press' New Year's Eve together with you for 15 years to finally crack the case!"
+description: "CSI Goodbye! 'CSI: Final Press' New Year's Eve together with you for 15 years to finally crack the case!"
 newsreporter: "世界電影雜誌 World SCREEN"
 newssource: "World SCREEN"
 newsurl: https://www.worldscreen.com.tw/goods.php?goods_id=9998

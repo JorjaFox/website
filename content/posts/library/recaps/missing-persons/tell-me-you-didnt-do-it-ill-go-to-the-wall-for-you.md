@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1994-02-10
 season: 1
 episode: 16
+description: "Ellen is making her mark on the department, buying doughnuts, making coffee, and being paired with Bobby on a seemingly straightforward parolee disappearance. Until Bobby is framed."
 ---
 
 ## Synopsis

@@ -3,13 +3,17 @@ title: "A Bullet Runs Through It (Part 1)"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 7
+description: "A routine traffic stop turns into a wild police chase through the streets of Las Vegas, resulting in the death of a police officer."
 date: 2005-11-10
-prodnum: 607
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_05.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/607-abrti_06.jpg"
 ---
 
 ## Synopsis

@@ -3,13 +3,21 @@ title: "Spark of Life"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 18
 date: 2005-03-31
-prodnum: 518
+description: "Grissom, Sara, and Greg investigate a wildfire that killed one man and badly burned a woman. Catherine, Nick, and Warrick get the case of a family of three murdered in their home."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_009.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_010.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/518-sparkoflife_011.jpg"
 ---
 
 ## Synopsis

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "JORJA FOX 'CSI'  "
+description: "JORJA FOX 'CSI'  "
 newsreporter: N/A
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com/

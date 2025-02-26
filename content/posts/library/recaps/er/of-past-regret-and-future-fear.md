@@ -12,6 +12,7 @@ epnum: Twenty
 prodnum: 466370
 date: 1998-04-30
 rating: 3
+description: "Romano makes an offer that Corday refuses. Reese Benton is baptised. Ross deals with a baby addicted to methadone. Carter and Del Amico treat a man who cannot speak clearly. Hathaway treats a man who is going to die from chemical burns and comes to a decision about herself and Ross."
 ---
 
 ## Summary

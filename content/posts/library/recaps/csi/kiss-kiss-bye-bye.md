@@ -3,13 +3,9 @@ title: "Kiss-Kiss, Bye-Bye"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 13
 date: 2006-01-26
-prodnum: 613
+description: "A forensic case links to Las Vegas' history when a beautiful former showgirl with ties to the mob has a party that results in the murder of a guest.  The CSIs crash an elegant party for the city's creme of the creme to discover who killed a young man. The case gets a bit more personal for Catherine when her father, Sam Braun, is one of the suspects."
 ---
 
 ## Synopsis

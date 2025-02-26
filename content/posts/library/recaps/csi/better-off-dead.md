@@ -3,18 +3,14 @@ title: "Better Off Dead"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 10
 date: 2009-12-17
-prodnum: 216
+description: "The CSIs investigate the circumstances surrounding a twisted tale of attempted suicide."
 ---
 
 ## Synopsis
 
-A shoot out during a robbery at a mom and son gun shop leads to a dead mother killed by a mysterious guy in a red shirt, while a body is dumped down a ravine and cozily wrapped in a blanket. The gun shop sells illegal gun parts on the side and the killer of the dummped body was one of the attempted robbers of the gun shop.
+A shoot out during a robbery at a mom and son gun shop leads to a dead mother killed by a mysterious guy in a red shirt, while a body is dumped down a ravine and cozily wrapped in a blanket. The gun shop sells illegal gun parts on the side and the killer of the dumped body was one of the attempted robbers of the gun shop.
 
 Carrie Warren is thrown from her own car by Sam Trent, her on again/off again boyfriend, after he attempted to kill himself at her house (but threw up) and accidentally poisoned her dog Roscoe. When Carrie found him and Roscoe, apparently dead, she shoot herself with the gun Carrie's neighbor, John Rakow, had given her to protect herself from Sam, accidentally killing her dog and grazing herself badly.
 

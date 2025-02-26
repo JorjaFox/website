@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: 'Jorja Fox: Long live the return of the (just a little bit) "butch" CSI'
+description: 'Jorja Fox: Long live the return of the (just a little bit) "butch" CSI'
 newsreporter: Myrtille Rambion
 newssource: TeTu
 newsurl: https://www.tetu.com/actualites/television/jorja-fox-vive-le-retour-dune-experte-un-peu-butch-15756

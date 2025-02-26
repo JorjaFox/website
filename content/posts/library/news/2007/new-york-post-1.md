@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "JORJA'S RULES"
+description: "JORJA'S RULES"
 newsreporter: New York Post
 newssource: New York Post
 newsurl: https://www.nypost.com

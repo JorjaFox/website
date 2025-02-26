@@ -1,5 +1,7 @@
 ---
 title: Golden Globes Red Carpet
+description: 'Golden Globes Red Carpet - 2002-01-20'
+title: Golden Globes Red Carpet
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-01-20

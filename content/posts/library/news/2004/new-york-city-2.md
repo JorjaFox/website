@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'Crime,' punishment, resolution"
+description: "'Crime,' punishment, resolution"
 newsreporter: Staff
 newssource: New York City
 newsurl: https://www.nynewsday.com

@@ -3,13 +3,15 @@ title: "Ghost Town"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 2
 date: 2009-10-01
-prodnum: 208
+description: "When a porn producer and drug dealer are found dead in a relatively upscale Vegas area, the CSIs focus their investigation on members of the neighborhood."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown04.jpg
 ---
 
 ## Synopsis

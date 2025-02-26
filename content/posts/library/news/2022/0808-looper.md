@@ -4,7 +4,7 @@ date: 2022-08-08
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2022"
-newstitle: "CSI Fans Noticed A Major Change In Sara's Character In CSI: Vegas"
+description: "CSI Fans Noticed A Major Change In Sara's Character In CSI: Vegas"
 newsreporter: "Chris Perez"
 newssource: "Looper"
 newsurl: https://www.looper.com/956046/csi-fans-noticed-a-major-change-in-saras-character-in-csi-vegas/

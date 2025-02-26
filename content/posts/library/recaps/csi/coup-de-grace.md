@@ -3,13 +3,13 @@ title: "Coup de Grace"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 4
 date: 2009-10-15
-prodnum: 210
+description: "An off-duty cop accidentally shoots another cop, but the victim's racist tendencies suggest the incident was deliberate."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1004-coup01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/10/1004-coup02.jpg
 ---
 
 ## Synopsis

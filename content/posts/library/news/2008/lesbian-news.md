@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "THE WILD, THE BEAUTIFUL AND THE REBELLIOUS"
+description: "THE WILD, THE BEAUTIFUL AND THE REBELLIOUS"
 newsreporter: John Esther
 newssource: The Lesbian News
 newsurl: https://www.lesbiannews.com

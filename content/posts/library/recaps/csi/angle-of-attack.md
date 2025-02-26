@@ -3,13 +3,9 @@ title: "Angle of Attack"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 11
 date: 2014-12-21
-prodnum: 328
+description: "The CSI’s investigation of the victim of an apparent hit and run leads them into the world of aeronautics."
 ---
 
 ## Synopsis

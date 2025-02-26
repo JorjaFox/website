@@ -81,6 +81,11 @@ To upgrade the backend site code, run `npm run upgrade`
 
 This will update all the libraries and mods.
 
+If you receive warnings like this:
+`WARN  Module "project" is not compatible with this Hugo version: Min 0.144.1 extended; run "hugo mod graph" for more information.`
+
+Make sure that the Hugo version in `/config/_default/module.yaml` is up to date.
+
 ## Development
 
 When the `production` branch is updated, it will automatically push the code to the server.

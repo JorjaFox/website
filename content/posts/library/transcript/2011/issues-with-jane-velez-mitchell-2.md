@@ -1,5 +1,7 @@
 ---
 title: Issues with Jane Velez-Mitchell
+description: 'Issues with Jane Velez-Mitchell - 2011-10-06'
+title: Issues with Jane Velez-Mitchell
 date: 2011-10-06
 transcriber: "Mika A. Epstein"
 layout: transcript

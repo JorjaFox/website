@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Crime Lab Day in Bakersfield Jan. 13"
+description: "Crime Lab Day in Bakersfield Jan. 13"
 newsreporter: Staff
 newssource: Kern Valley Sun
 newsurl: https://www.kvsun.com

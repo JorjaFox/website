@@ -4,6 +4,7 @@ author: "Mika A. Epstein"
 layout: library
 permalink: /recaps/
 type: index
+searchExclude: true
 notoc: true
 ---
 

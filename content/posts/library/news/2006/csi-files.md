@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Interview with Jorja Fox  "
+description: "Interview with Jorja Fox  "
 newsreporter: Kristine Huntley
 newssource: CSI Files
 newsurl: https://www.csifiles.com/interviews/jorja_fox.shtml

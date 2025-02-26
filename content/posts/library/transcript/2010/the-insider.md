@@ -1,5 +1,7 @@
 ---
 title: The Insider
+description: 'The Insider - 2010-10-20'
+title: The Insider
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-10-20

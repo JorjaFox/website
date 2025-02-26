@@ -12,6 +12,7 @@ epnum: Twenty-Two
 prodnum: 465422
 date: 1997-05-15
 rating: 2
+description: "Ross is increasingly drawn to Hathaway, Charlie reappears at the ER, Greene refuses to admit that he needs help, and Carter and Anspaugh are still at loggerheads. Meanwhile, the Boulets find strength in their renewed relationship, and Benton draws strength from his tiny newborn son."
 ---
 
 ## Summary

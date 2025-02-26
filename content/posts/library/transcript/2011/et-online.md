@@ -1,5 +1,7 @@
 ---
 title: ET Online
+description: 'ET Online - 2011-12-07'
+title: ET Online
 date: 2011-12-07
 transcriber: "Mika A. Epstein"
 layout: transcript

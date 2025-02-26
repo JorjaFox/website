@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: A Fox with Moxie!
+description: A Fox with Moxie!
 newsreporter: Daniel R. Coleridge
 newssource: TVGuide
 newsurl: https://tvguide.com

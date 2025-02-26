@@ -3,13 +3,9 @@ title: "Immortality (Part 1)"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 16
-epnum: 1
 date: 2015-09-27
-prodnum: 336
+description: "Grissom and Willows return to help the CSI team solve a catastrophic case that paralyzes all of Las Vegas."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-01.jpg

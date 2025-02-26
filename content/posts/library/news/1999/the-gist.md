@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: ER Actress Jumps to UPN
+description: ER Actress Jumps to UPN
 newsreporter: Andrew Wallenstein
 newssource: Gist TV
 newsurl: https://www.gist.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "Jorja Fox Introduces Her New Rescue Dog  "
+description: "Jorja Fox Introduces Her New Rescue Dog  "
 newsreporter: K.C. BLUMM
 newssource: People Pets
 newsurl: https://www.peoplepets.com/people/pets/article/0,,20754984,00.html

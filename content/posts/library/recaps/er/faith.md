@@ -12,6 +12,7 @@ epnum: Sixteen
 prodnum: 465416
 date: 1997-02-20
 rating: 3
+description: "Benton is recovering from his surgery, but not from the death of Gant. Greene places a Down's syndrome patient on a heart transplant list and Ross has to pull the plug on an 18-year-old male who no longer wants to live. Carter treats a woman with a serious condition but he seems to be the only one who sees it. Carol takes the medical school admissions test with encouragement from Ross."
 ---
 
 ## Summary

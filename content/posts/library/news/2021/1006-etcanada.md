@@ -4,7 +4,7 @@ date: 2021-10-06
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "‘CSI: Vegas’: Jorja Fox Believes It Would Be ‘Almost Impossible’ For Sara To Return Without Grissom"
+description: "‘CSI: Vegas’: Jorja Fox Believes It Would Be ‘Almost Impossible’ For Sara To Return Without Grissom"
 newsreporter: "Brent Furdyk"
 newssource: "ET Canada"
 newsurl: https://etcanada.com/news/825797/csi-vegas-jorja-fox-believes-it-would-be-almost-impossible-for-sara-to-return-without-grissom/

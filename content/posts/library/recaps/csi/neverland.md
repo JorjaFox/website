@@ -3,13 +3,9 @@ title: "Neverland"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 15
 date: 2010-03-11
-prodnum: 221
+description: "When a young boy is found murdered, the CSI team uncovers evidence that may link his death to an old case that recently resurfaced."
 ---
 
 ## Synopsis

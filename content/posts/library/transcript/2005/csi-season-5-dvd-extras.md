@@ -1,5 +1,7 @@
 ---
 title: CSI Season 5 DVD extras
+description: 'CSI Season 5 DVD extras - 2005-07-01'
+title: CSI Season 5 DVD extras
 date: 2005-07-01
 transcriber: David Masters
 layout: transcript

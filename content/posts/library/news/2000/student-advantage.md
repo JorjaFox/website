@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: The West Wing NBC
+description: The West Wing NBC
 newsreporter: Staff
 newssource: Student Advantage
 newsurl: https://www.studentadvantage.com/

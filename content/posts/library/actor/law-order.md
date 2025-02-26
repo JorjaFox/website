@@ -5,6 +5,7 @@ layout: actor
 slug: law-order
 imdb: https://www.imdb.com/title/tt0629412/
 actorimage: /img/actors/law-and-order-securitate.jpg
+description: "In the Criminal Justice System, the people are represented by two separate, yet equally important groups. The police who investigate crime and the District Attorneys who prosecute the offenders. These are their stories."
 ---
 
 ## "Securitate"

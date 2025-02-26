@@ -2,6 +2,7 @@
 title: Welcome Back!
 date: '2024-08-14'
 layout: library
+searchExclude: true
 ---
 
 {{< alert color="info" icon="fas fa-hand-sparkles" >}}

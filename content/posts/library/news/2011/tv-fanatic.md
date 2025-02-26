@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "William Petersen to Make Cameo on CSI  "
+description: "William Petersen to Make Cameo on CSI  "
 newsreporter: TV Fanatic Staff
 newssource: TV Fanatic
 newsurl: https://www.tvfanatic.com/2011/01/william-petersen-to-make-cameo-on-csi/

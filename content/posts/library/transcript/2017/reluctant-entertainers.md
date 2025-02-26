@@ -1,5 +1,7 @@
 ---
 title: The Reluctant Entertainers
+description: 'The Reluctant Entertainers - 2017-03-27'
+title: The Reluctant Entertainers
 date: 2017-03-27
 transcriber: "Mika A. Epstein"
 layout: transcript

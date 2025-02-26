@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Dead Heat
+description: Dead Heat
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/

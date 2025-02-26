@@ -3,13 +3,9 @@ title: "The Accused is Entitled"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 2
 date: 2002-10-03
-prodnum: 301
+description: "Grissom and his team investigate the death of a woman found in the hotel room of an actor. The case goes to trial and the defense brings in Grissom's mentor who exploits his knowledge of Grissom and the other CSIs."
 ---
 
 ## Synopsis
@@ -18,7 +14,7 @@ The tables are turned on the CSIs, who are the ones put under the microscope whe
 
 ## Review
 
-During the trial, the defense references Sara's actions in an earlier case (brushing chalk from Grissom's cheek in "Scuba_Doobie-Doo") and accuses her of having an affair with her boss.
+During the trial, the defense references Sara's actions in an earlier case (brushing chalk from Grissom's cheek in ["Scuba Doobie-Doo"](/library/recaps/csi/scuba-doobie-doo)) and accuses her of having an affair with her boss.
 
 ## Notes
 

@@ -3,13 +3,9 @@ title: "Grissom vs. Volcano"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 9
 date: 2003-12-11
-prodnum: 409
+description: "When a bomb explodes on the Strip, the frightening possibility of terrorism becomes a little too real... and involves a school science fair. A musician's girlfriend dies, and it might be murder."
 ---
 
 ## Synopsis

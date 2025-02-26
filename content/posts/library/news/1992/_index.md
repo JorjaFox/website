@@ -3,6 +3,7 @@ title: "News Articles (1992)"
 transcriber: "Mika A. Epstein"
 layout: news-index
 topic: index
+searchExclude: true
 date: 1992-01-01
 permalink: /news/1992/
 ---

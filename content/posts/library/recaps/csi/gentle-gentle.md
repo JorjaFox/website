@@ -3,18 +3,14 @@ title: "Gentle, Gentle"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 19
 date: 2001-04-12
-prodnum: 118
+description: "Grissom finds it difficult to control his emotions when he investigates the alleged kidnapping of the infant son of a Dot-Com Las Vegas millionaire family, especially when the evidence begins pointing to various family members who may be involved in the disappearance."
 ---
 
 ## Synopsis
 
-Grissom finds it difficult to control his emotions when he investigates the alleged kidnapping of the infant son of a Dot-Com Las Vegas millionaire family, especially when the evidence begins pointing to various family members who may be involved in the disappearance.
+The CSI team investigates the kidnapping of the infant child of a rich family. However, when the evidence shows that the family is hiding something, the case takes a darker turn.
 
 ## Review
 

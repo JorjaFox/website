@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: The Success of CSI is No Mystery
+description: The Success of CSI is No Mystery
 newsreporter: Staff
 newssource: Minneapolis Star Tribune
 newsurl: https://www.startribune.com/

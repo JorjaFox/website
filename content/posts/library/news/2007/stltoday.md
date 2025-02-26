@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Here's when your favorite series wraps up its season"
+description: "Here's when your favorite series wraps up its season"
 newsreporter: STLtoday
 newssource: STLtoday
 newsurl: https://www.stltoday.com/

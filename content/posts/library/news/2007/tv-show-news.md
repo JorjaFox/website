@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI CAST ATTEND CSI EXHIBIT GALA OPENING"
+description: "CSI CAST ATTEND CSI EXHIBIT GALA OPENING"
 newsreporter: TV Show News
 newssource: TV Show News
 newsurl: https://www.accesstvshows.com/

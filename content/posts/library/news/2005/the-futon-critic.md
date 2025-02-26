@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "CBS Press Release"
+description: "CBS Press Release"
 newsreporter: Staff
 newssource: The Futon Critic
 newsurl: https://www.thefutoncritic.com

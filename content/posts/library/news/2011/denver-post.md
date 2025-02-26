@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Bolivian lions land in Denver  "
+description: "Bolivian lions land in Denver  "
 newsreporter: Jeffrey Leib
 newssource: Denver Post
 newsurl: https://www.denverpost.com/breakingnews/ci_17405414

@@ -3,13 +3,17 @@ title: "Rashomama"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 21
 date: 2006-04-27
-prodnum: 621
+description: "A wealthy defense attorney is killed at her son's wedding but Nick's car, containing all the collected evidence is stolen and the case is compromised. After discovering new evidence, the team suspects that someone from the wedding party may be responsible for the murder."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_04.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_05.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_06.jpg"
 ---
 
 ## Synopsis

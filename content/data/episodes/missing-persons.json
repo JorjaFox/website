@@ -1,7 +1,7 @@
     {
     "show" : "missing-persons",
     "showname": "Missing Persons",
-    "logo": "img/recaps/missing-persons.jpg",
+    "logo": "/img/recaps/missing-persons.jpg",
     "network": "ABC",
     "episodes": [
         {

@@ -7,6 +7,7 @@ tags: ["Television"]
 show: csi-vegas
 seasons: [1]
 type: index
+searchExclude: true
 ---
 
 The following is a list of episodes from the CBS television series, _[CSI: Vegas](/library/actor/csi-vegas/)_ in which Jorja Fox appeared or was credited. Episodes are rated based on quality and volume of Jorja's scenes. Episodes in which she is listed in the credits but does not appear are rated with zero stars.

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: "Jorja Fox Shines On TV's Hottest Show"
+description: "Jorja Fox Shines On TV's Hottest Show"
 newsreporter: Staff
 newssource: Stepping Out Magazine
 newsurl: https://www.steppinoutmagazine.com/

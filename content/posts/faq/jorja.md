@@ -1,9 +1,8 @@
 ---
 title: About Jorja Fox
 layout: library
+description: "Questions about Jorja Fox's personal life and, in broad terms, her career, including how to get in touch with her."
 ---
-
-Questions here are about Jorja Fox's personal life and, in broad terms, her career, including how to get in touch with her.
 
 For more questions about her career, please read the **[FAQ about Jorja's career](/faq/career/)**.
 
@@ -68,7 +67,7 @@ Sadly we can't help you there. Also it's incredibly uncomfortable to read all th
 Yes.
 
 * [Facebook](https://www.facebook.com/JorjaFoxworldwide)
-* [Twitter](https://twitter.com/JorjaFoxofficia)
+* [X/Twitter](https://x.com/JorjaFoxofficia)
 
 ### What movies and TV shows has she been in?
 

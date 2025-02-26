@@ -4,7 +4,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1995/:title/
 newsyear: "1995"
-newstitle: Review
+description: Review
 date: 1995-01-01
 newsreporter: Sandra Brennan
 newssource: Entertainment Weekly

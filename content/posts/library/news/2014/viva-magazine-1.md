@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "Lady Luck"
+description: "Lady Luck"
 newsreporter: Bonnie Siegler | Photography Elisabeth Caren
 newssource: Viva Magazine
 newsurl: https://www.vivamagonline.com/

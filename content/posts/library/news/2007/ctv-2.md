@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Leaving 'CSI' the 'hardest decision' says Fox  "
+description: "Leaving 'CSI' the 'hardest decision' says Fox  "
 newsreporter: Staff
 newssource: CTV
 newsurl: https://www.ctv.ca

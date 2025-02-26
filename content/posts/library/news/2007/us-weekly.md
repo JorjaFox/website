@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Secret's of TV's Fall Favorites"
+description: "Secret's of TV's Fall Favorites"
 newsreporter: Staff
 newssource: Us Weekly
 newsurl: https://www.usmagazine.com

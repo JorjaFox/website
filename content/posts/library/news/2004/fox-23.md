@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' Stars Fired After Pay Requests"
+description: "'CSI' Stars Fired After Pay Requests"
 newsreporter: Staff
 newssource: FOX 23
 newsurl: https://www.fox23news.com

@@ -3,18 +3,24 @@ title: "Nesting Dolls"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 13
 date: 2005-02-03
-prodnum: 513
+description: "Catherine, Warrick and Nick find the body of two women at a construction site buried under tar. The swing swift are brought into the world of foreign 'mail-order' brides. Sara and Catherine have a dispute in which Sara gets suspended by Ecklie for acting insubordinate toward Catherine and himself. Sara opens up to Grissom about her childhood past."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_008.jpg"
 ---
 
 ## Synopsis
 
-Two female bodies, buried together and covered in tar, are discovered by construction workers out in the desert. The investigation reveals that both victims' fingertips have been cut off and that they were apparently buried years apart. Later, Sara treats one suspect with such distain that it jeopardizes her job and she reveals to Grissom a dark family secret that is at the root of her recurring personal problems.
+Two female bodies, buried together and covered in tar, are discovered by construction workers out in the desert. The investigation reveals that both victims' fingertips have been cut off and that they were apparently buried years apart. Later, Sara treats one suspect with such disdain that it jeopardizes her job and she reveals to Grissom a dark family secret that is at the root of her recurring personal problems.
 
 ## Review
 

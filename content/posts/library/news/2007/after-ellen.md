@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' Stars Talk About Their Characters"
+description: "'CSI' Stars Talk About Their Characters"
 newsreporter: Staff
 newssource: After Ellen
 newsurl: https://www.afterellen.com/blog/seige/jessica-lucas-added-to-csi

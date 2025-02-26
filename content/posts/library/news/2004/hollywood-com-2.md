@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CSI Stars Canned"
+description: "CSI Stars Canned"
 newsreporter: Staff
 newssource: Hollywood.com
 newsurl: https://www.hollywood.com

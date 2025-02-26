@@ -3,13 +3,12 @@ title: "Fight Night"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 7
 date: 2002-11-14
-prodnum: 307
+description: "Grissom, Sara and Warrick investigate the brutal world of boxing when a middleweight boxing champ dies in the ring after taking a brutal beating from his nemesis. Grissom finds evidence that points to murder. Outside, in a nearby parking lot, Catherine works a crime scene where a Los Angeles gang member was gunned down, apparently by a rival gang. Also, Nick investigates a 'smash and grab' at a jewelry store, which soon turns into more than a simple robbery than may involve an insurance scam."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/03/307-fightnight_001.jpg"
 ---
 
 ## Synopsis

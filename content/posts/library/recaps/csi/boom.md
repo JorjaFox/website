@@ -3,18 +3,14 @@ title: "Boom"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 13
 date: 2001-02-08
-prodnum: 112
+description: "Grissom, Warrick and Sara investigate a bombing that occurred in the lobby of a Las Vegas business building; Nick spends the night with a prostitute who is later found murdered in her house and he becomes the chief suspect, and only Catherine can exonerate him."
 ---
 
 ## Synopsis
 
-Grissom, Warrick and Sara investigate a bombing that occurred in the lobby of a Las Vegas business building; Nick spends the night with a prostitute who is later found murdered in her house and he becomes the chief suspect, and only Catherine can exonerate him.
+Grissom, Sara and Warrick investigate when a bomb goes off in a Vegas office building, killing a security guard. The prime suspect is another security guard, who is over-helpful and also has the knowledge to make a bomb. Elsewhere, Kristy Hopkins is killed after Nick spends the night with her. With his DNA and fingerprints on the scene and Ecklie on the case, Nick's career is on the line.
 
 ## Review
 

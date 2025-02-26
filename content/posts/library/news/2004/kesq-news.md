@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CSI producer expresses sadness after two actors fired"
+description: "CSI producer expresses sadness after two actors fired"
 newsreporter: Staff
 newssource: KESQ News
 newsurl: https://www.kesq.com

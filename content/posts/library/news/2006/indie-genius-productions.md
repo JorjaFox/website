@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Convicted Domestic Terrorists to Be Sentenced Today in Landmark Freedom of Speech Case"
+description: "Convicted Domestic Terrorists to Be Sentenced Today in Landmark Freedom of Speech Case"
 newsreporter: Staff
 newssource: Indie Genius Productions
 newsurl: https://www.instyle.com/

@@ -3,13 +3,9 @@ title: "Crow's Feet"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 4
 date: 2004-10-21
-prodnum: 504
+description: "Catherine and Nick investigate the mysterious death of a woman who recently underwent cosmetic surgery after her body is discovered in a hotel suite; Grissom, Sara, and Greg probe the suspicious death of a man who died in his house, apparently while it was being fumigated."
 ---
 
 ## Synopsis

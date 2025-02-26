@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Petersen lays it on the table  "
+description: "Petersen lays it on the table  "
 newsreporter: Staff
 newssource: US Today
 newsurl: https://www.usatoday.com/

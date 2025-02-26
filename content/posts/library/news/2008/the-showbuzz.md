@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Favorite TV Shows Return With Fanfare  "
+description: "Favorite TV Shows Return With Fanfare  "
 newsreporter: Staff
 newssource: The Showbuzz
 newsurl: https://www.showbuzz.cbsnews.com/stories/2008/03/24/tv/main3963566.shtml

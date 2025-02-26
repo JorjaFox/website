@@ -12,6 +12,7 @@ epnum: Five
 prodnum: 465405
 date: 1996-10-31
 rating: 4
+description: "Lewis comes back from vacation. Hathaway and Ross take their turn in the mobile health van. Gant learns that Benton is harder on him than he is with Carter. A devoted husband to a dying woman leads Jeanie to finally tell Al what a rotten man he is. [ As Jorjan Fox ]"
 ---
 
 Note: Jorja Fox credited as Jorjan Fox

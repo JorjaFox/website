@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "HOLLYWOOD IS HUNG UP ON MADONNA  "
+description: "HOLLYWOOD IS HUNG UP ON MADONNA  "
 newsreporter: Staff
 newssource: In Style
 newsurl: https://www.instyle.com/

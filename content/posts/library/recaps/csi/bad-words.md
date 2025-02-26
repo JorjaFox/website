@@ -3,13 +3,9 @@ title: "Bad Words"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 19
 date: 2004-04-15
-prodnum: 419
+description: "Catherine, Warrick and Nick look into an arson case. Sara and Grissom investigate a death at a Scrabble game."
 ---
 
 ## Synopsis

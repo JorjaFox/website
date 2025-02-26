@@ -1,5 +1,7 @@
 ---
 title: CSI Season 3 DVD extras
+description: 'CSI Season 3 DVD extras - 2003-07-01'
+title: CSI Season 3 DVD extras
 date: 2003-07-01
 transcriber: David Masters
 layout: transcript

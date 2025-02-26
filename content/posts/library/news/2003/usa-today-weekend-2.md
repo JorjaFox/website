@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Ready, set, action!
+description: Ready, set, action!
 newsreporter: Brian Truitt
 newssource: USA Weekend
 newsurl: https://www.usaweekend.com/03_issues/030706/030706movies.html

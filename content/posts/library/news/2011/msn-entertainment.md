@@ -6,7 +6,7 @@ layout: news
 newsyear: "2011"
 permalink: /news/2011/:title/
 
-newstitle: "Entertainment News"
+description: "Entertainment News"
 newsreporter: Sean Plummer
 newssource: MSN Entertainment
 newsurl: https://entertainment.ca.msn.com/tv/gallery.aspx?cp-documentid=27142465

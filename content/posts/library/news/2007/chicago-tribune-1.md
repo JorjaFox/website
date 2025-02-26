@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Grissom! Sara! Other stuff! It's the 'CSI' finale"
+description: "Grissom! Sara! Other stuff! It's the 'CSI' finale"
 newsreporter: Staff
 newssource: Chicago Tribune
 newsurl: https://featuresblogs.chicagotribune.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Helgenberger focuses on family  "
+description: "Helgenberger focuses on family  "
 newsreporter: Will Keck
 newssource: Pittsburgh Tribune-Review
 newsurl: https://www.pittsburghlive.com/x/pittsburghtrib/living/s_558968.html

@@ -4,7 +4,7 @@ date: 2021-10-07
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "‘CSI: Vegas’: Jorja Fox Believes It Would Be ‘Almost Impossible’ For Sara To Return Without Grissom"
+description: "‘CSI: Vegas’: Jorja Fox Believes It Would Be ‘Almost Impossible’ For Sara To Return Without Grissom"
 newsreporter: "Nicole Weaver"
 newssource: "Cheatsheet"
 newsurl: https://www.cheatsheet.com/entertainment/csi-vegas-jorja-fox-says-playing-gil-sara-married-couple-fun.html/

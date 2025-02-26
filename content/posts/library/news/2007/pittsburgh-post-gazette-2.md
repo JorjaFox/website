@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Tuned In Journal: Sara sidles away from 'CSI'  "
+description: "Tuned In Journal: Sara sidles away from 'CSI'  "
 newsreporter: Rob Owen
 newssource: Pittsburgh Post-Gazette
 newsurl: https://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm

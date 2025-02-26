@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Famous Friends of Farm Animals Daryl Hannah and Jorja Fox Celebrate Thanksgiving by Feeding a Turkey Rather Than Eating One!  "
+description: "Famous Friends of Farm Animals Daryl Hannah and Jorja Fox Celebrate Thanksgiving by Feeding a Turkey Rather Than Eating One!  "
 newsreporter: Staff
 newssource: U.S. Newswire
 newsurl: https://www.usnewswire.com/

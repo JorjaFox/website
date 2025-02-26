@@ -1,5 +1,7 @@
 ---
 title: Lylapalooza
+description: 'Lylapalooza - 2015-09-29'
+title: Lylapalooza
 date: 2015-09-29
 transcriber: "Mika A. Epstein"
 layout: transcript

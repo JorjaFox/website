@@ -12,6 +12,7 @@ epnum: Nine
 prodnum: 467559
 date: 1998-12-10
 rating: 1
+description: "Corday faces M&M following her crucial mistake in administering an incorrect dosage of drugs to a patient. She believes the mistake was in hospital policy; making the interns work for 36 hours straight. She is cleared and later decides to amicably end her relationship with Benton. Carter chaperones Ruth Johnson around the ER; a woman born 100 years ago in the same hospital. Hathaway is horrified by the true story behind a young boy's fatal shooting."
 ---
 
 _Note: This was ER's 100th episode_

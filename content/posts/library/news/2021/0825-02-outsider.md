@@ -4,7 +4,7 @@ date: 2021-08-25
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "‘CSI’: Vegas’ Stars William Peterson & Jorja Fox Reveal How They First Reacted When First Getting Call About Show"
+description: "‘CSI’: Vegas’ Stars William Peterson & Jorja Fox Reveal How They First Reacted When First Getting Call About Show"
 newsreporter: "Anna Dunn"
 newssource: "Outsider"
 newsurl: https://outsider.com/news/entertainment/csi-vegas-stars-william-peterson-jorja-fox-reveal-how-they-first-reacted-when-first-getting-call-about-show/

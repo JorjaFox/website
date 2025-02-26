@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Jorja Fox's Heart Belongs to 'CSI'  "
+description: "Jorja Fox's Heart Belongs to 'CSI'  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/jorja-foxs-heart-belongs-to-cs-20773.aspx

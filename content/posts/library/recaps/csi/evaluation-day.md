@@ -3,18 +3,14 @@ title: "Evaluation Day"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 22
 date: 2001-05-10
-prodnum: 121
+description: "Las Vegas Police discover a disembodied head in a truck driven by two scantily clad girls after a high-speed chase, and a seemingly related decapitated corpse turns up in the desert. But Grissom and Catherine are puzzled when the head doesn't match the body--- a body that may not even be human. Warrick tries to help a young inmate who is falsely accused of murdering a gang member."
 ---
 
 ## Synopsis
 
-Las Vegas Police discover a disembodied head in a truck driven by two scantily clad girls after a high-speed chase, and a seemingly related decapitated corpse turns up in the desert. But Grissom and Catehrine are puzzled when the head doesn't match the body -- a body that may not even be human. Warrick tries to help a young inmate who witnessed the murder of a gang member.
+It is evaluation day for the CSIs as Catherine and Grissom find a severed head in the back of a car that had been stolen by two party girls. Meanwhile, Nick and Sara deal with a headless body that appears to have fallen from the sky and landed in the desert. Warrick has problems of his own when James (the boy from Crate 'n Burial), is the only witness to a murder in his juvenile detention center and his decision about testifying may cost him his life.
 
 ## Review
 

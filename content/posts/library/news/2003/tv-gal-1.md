@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: TV Gal Flaunts Her Final Four
+description: TV Gal Flaunts Her Final Four
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://tv.zap2it.com

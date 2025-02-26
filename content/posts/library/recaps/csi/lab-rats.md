@@ -3,13 +3,9 @@ title: "Lab Rats"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 20
 date: 2007-04-12
-prodnum: 720
+description: "While Grissom and the rest of the CSIs are out investigating new cases, Hodges leads Archie, Henry, Mandy and Wendy to believe that Grissom wants them to secretly band together that evening in an attempt to solve the four miniature killer cases."
 ---
 
 ## Synopsis

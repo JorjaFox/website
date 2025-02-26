@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Interview: Executive Producer Naren Shankar on 'CSI's' Post-Petersen World  "
+description: "Interview: Executive Producer Naren Shankar on 'CSI's' Post-Petersen World  "
 newsreporter: Jim Halterman
 newssource: The Futon Critic
 newsurl: https://www.thefutoncritic.com/rant.aspx?id=20090924_csi

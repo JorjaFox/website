@@ -3,13 +3,13 @@ title: "The Happy Place"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 9
-epnum: 2
 date: 2008-10-16
-prodnum: 902
+description: "A hypnotist who uses her powers of persuasion to rob banks becomes the prime suspect in a murder investigation."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/902-happyplace_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/09/902-happyplace_002.jpg"
 ---
 
 ## Synopsis

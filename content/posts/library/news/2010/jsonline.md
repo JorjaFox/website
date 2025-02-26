@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "It can be difficult to keep track of 'CSI' character  "
+description: "It can be difficult to keep track of 'CSI' character  "
 newsreporter: Staff
 newssource: JSOnline
 newsurl: https://www.jsonline.com/entertainment/tvradio/98760869.html

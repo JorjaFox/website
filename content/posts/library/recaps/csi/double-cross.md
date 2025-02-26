@@ -3,13 +3,21 @@ title: "Double-Cross"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 5
+description: "Grissom and his team investigate the case of a woman found dead in a parish church.  Following the evidence, the team uncovers a bizarre love triangle dating all the way back to high school that could reveal who is responsible for the woman's murder."
 date: 2006-10-19
-prodnum: 705
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_009.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/705-doublecross_010.jpg"
 ---
 
 ## Synopsis

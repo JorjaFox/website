@@ -3,13 +3,9 @@ title: "Weeping Willows"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 22
 date: 2005-04-28
-prodnum: 522
+description: "A man whom Catherine flirted with at a bar reappears in her life as a suspect in a murder investigation."
 ---
 
 ## Synopsis

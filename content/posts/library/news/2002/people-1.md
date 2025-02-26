@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: CS-Why?
+description: CS-Why?
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.aol.com/

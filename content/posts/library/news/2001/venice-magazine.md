@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: "For Jorja Fox It's Personal"
+description: "For Jorja Fox It's Personal"
 newsreporter: Staff
 newssource: Venice Magazine
 newsurl: https://www.venicemag.com/

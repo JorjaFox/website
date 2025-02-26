@@ -3,13 +3,9 @@ title: "The Hunger Artist"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 23
 date: 2002-05-16
-prodnum: 223
+description: "The season concludes with a baffling case that requires the resources of Grissom's entire crew. The CSIs investigate when the body of an unidentified young woman is discovered stuffed in an overturned shopping cart near a freeway underpass."
 ---
 
 ## Synopsis

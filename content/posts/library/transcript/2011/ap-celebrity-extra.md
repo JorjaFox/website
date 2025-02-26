@@ -1,5 +1,7 @@
 ---
 title: AP Celebrity Extra
+description: 'AP Celebrity Extra - 2011-11-16'
+title: AP Celebrity Extra
 date: 2011-11-16
 transcriber: "Mika A. Epstein"
 layout: transcript

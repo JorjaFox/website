@@ -12,6 +12,7 @@ epnum: Four
 prodnum: 465404
 date: 1996-10-17
 rating: 1
+description: "Benton does not have the compassion needed for being a pediatric surgeon, while Carter does. Jeanie gets attention from a handsome patient who makes her cold reality of being HIV+ feel worse. Doug's one-night stand has a seizure that ends up killing her, and while Doug was not responsible for her death, he views himself the same way his co-workers do: as a worthless and broken man. [ As Jorjan Fox ]"
 ---
 
 Note: Jorja Fox credited as Jorjan Fox

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Ex-'CSI' star drops in on 'Drop Dead Diva' "
+description: "Ex-'CSI' star drops in on 'Drop Dead Diva' "
 newsreporter: Rick Bently
 newssource: Fresno Bee
 newsurl: https://www.fresnobee.com/entertainment/tv-radio/story/1599029.html

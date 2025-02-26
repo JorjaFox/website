@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "CSI Exclusive: Jorja Fox Rejoins Series Regular Ranks For Season 12  "
+description: "CSI Exclusive: Jorja Fox Rejoins Series Regular Ranks For Season 12  "
 newsreporter: Michael Ausiello
 newssource: TVLine
 newsurl: https://www.tvline.com/2011/07/csi-jorja-fox-series-regular-season-12/

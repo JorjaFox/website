@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "'CSI' Stars Share Their Experience  "
+description: "'CSI' Stars Share Their Experience  "
 newsreporter: Steve Friess
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/news/csi-stars-share-their-experience-2346.html

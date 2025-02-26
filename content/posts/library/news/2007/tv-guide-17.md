@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Exclusive: 'CSI' Boss Vows Jorja Fox is 'Coming Back'"
+description: "Exclusive: 'CSI' Boss Vows Jorja Fox is 'Coming Back'"
 newsreporter: Michael Ausiello
 newssource: TV Guide
 newsurl: https://community.tvguide.com/blog-entry/TVGuide-Editors-Blog/Ausiello-Report/Exclusive-Csi-Boss/800024964?rssDate=12345678

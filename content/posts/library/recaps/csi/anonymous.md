@@ -3,13 +3,9 @@ title: "Anonymous"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 8
 date: 2000-11-24
-prodnum: 108
+description: "When another staged suicide takes place, Grissom realizes he is dealing with a serial killer who has a thorough knowledge of forensic science. Meanwhile, Nick and Warrick investigate a tourist's car that fell off a cliff."
 ---
 
 ## Synopsis

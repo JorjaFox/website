@@ -3,13 +3,9 @@ title: "The List"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 17
 date: 2011-03-10
-prodnum: 246
+description: "The team investigates the prison murder of a cop, Vance, who was incarcerated for murdering his wife, but believes he was framed."
 ---
 
 ## Synopsis

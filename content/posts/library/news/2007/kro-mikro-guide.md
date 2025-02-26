@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: Jorja Fox
+description: Jorja Fox
 newsreporter: Staff
 newssource: KRO Mikro Guide
 newsurl: https://kro-mikro.com

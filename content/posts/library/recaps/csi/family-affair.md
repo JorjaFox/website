@@ -3,13 +3,9 @@ title: "Family Affair"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 1
 date: 2009-09-24
-prodnum: 207
+description: "The CSI team, with the unexpected but welcome return of Sara, comes together to investigate the death of a famous young actress killed in a dubious traffic collision"
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/10/1001-family_001.jpg

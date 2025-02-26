@@ -3,13 +3,16 @@ title: "Turn of the Screws"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 21
 date: 2004-05-06
-prodnum: 421
+description: "A rollercoaster derails at an amusement park, claiming the lives of several people. Was it shoddy maintenance. or something more sinister? Catherine and Warrick look into a missing November year-old found murdered."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/04/421-turnofthescrews_006.jpg"
 ---
 
 ## Synopsis

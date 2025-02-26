@@ -3,13 +3,23 @@ title: "Bad Blood"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 3
 date: 2014-10-12
-prodnum: 319
+description: "Sara and Greg are quarantined after responding to a crime scene that’s contaminated with a deadly pathogen."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_005.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_006.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_008.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_009.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_010.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_011.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_012.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_015.jpg
 ---
 
 ## Synopsis

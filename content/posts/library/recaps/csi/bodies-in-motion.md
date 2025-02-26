@@ -3,13 +3,14 @@ title: "Bodies in Motion"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 1
 date: 2005-09-22
-prodnum: 601
+description: "Three investigations involve a couple killed in a trailer explosion, a stripper found dead in the worst part of town, and two decomposing corpses in the trunk of a car."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/601-bodiesinmotion_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/601-bodiesinmotion_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/601-bodiesinmotion_03.jpg"
 ---
 
 ## Synopsis

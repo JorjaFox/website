@@ -6,7 +6,7 @@ layout: news
 newsyear: "2008"
 permalink: /news/2008/:title/
 
-newstitle: "CBS Set to Producer More Post-Strike 'CSI'  "
+description: "CBS Set to Producer More Post-Strike 'CSI'  "
 newsreporter: Rosario Santiago
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/cbs-set-to-producer-more-posts-16600.aspx

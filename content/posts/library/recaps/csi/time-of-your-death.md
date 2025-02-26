@@ -3,13 +3,24 @@ title: "Time of Your Death"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 21
 date: 2006-05-04
-prodnum: 622
+description: "A high roller who spent the night with a woman he had just met is found dead on the loading dock of the casino where he was staying. The investigation reveals that the victim won $10,000 in a pool game and was an assistant to a respected movie producer."
+modules: [ "bs5-lightbox" ]
+photogallery:
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_01.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_02.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_03.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_04.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_05.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_06.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_07.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_08.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_09.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_10.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_11.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_12.jpg"
+- "https://assets.jorjafox.net/img/gallery/tv/csi/06/622-timeofyourdeath_13.jpg"
 ---
 
 ## Synopsis

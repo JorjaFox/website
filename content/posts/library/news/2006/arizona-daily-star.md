@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "'CSI' going romantic against 'Grey's Anatomy'  "
+description: "'CSI' going romantic against 'Grey's Anatomy'  "
 newsreporter: Staff
 newssource: Arizona Daily Star
 newsurl: https://www.azstarnet.com

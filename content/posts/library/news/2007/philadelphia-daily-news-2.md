@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Tattle | Paris is facing a big day in court"
+description: "Tattle | Paris is facing a big day in court"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: https://www.philly.com

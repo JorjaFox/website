@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: Babe Between Bodybags
+description: Babe Between Bodybags
 newsreporter: Dutch text by Belinda Janssen, translated by Isis de Jong.
 newssource: Veronica Magazine
 newsurl: https://service.veronica.nl/veronicamagazine/

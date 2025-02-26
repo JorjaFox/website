@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-09-30
 season: 1
 episode: 4
+description: "A young woman returning from a European trip does not get off the plane; two teens do not make it home from a party; and a suicide note is found but no body."
 ---
 
 

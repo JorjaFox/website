@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: 'Major "CSI" Casting News'
+description: 'Major "CSI" Casting News'
 newsreporter: E. Van Dril
 newssource: The Celebrity Cafe
 newsurl: https://www.thecelebritycafe.com/features/16082.html

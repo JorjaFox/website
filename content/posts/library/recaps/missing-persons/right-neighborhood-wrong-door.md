@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-12-02
 season: 1
 episode: 10
+description: "A boy disappears in a grocery store. A rich accountant goes missing, and appears to have left the house in a hurry."
 ---
 
 ## Synopsis

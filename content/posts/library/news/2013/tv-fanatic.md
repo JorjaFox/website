@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "'We're number one in the world'  "
+description: "'We're number one in the world'  "
 newsreporter: Jim Halterman
 newssource: TV Fanatic
 newsurl: https://www.tvfanatic.com/2013/05/csi-exclusive-elisabeth-harnois-on-season-13-finale-morgan-under/

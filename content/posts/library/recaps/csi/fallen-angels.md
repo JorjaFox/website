@@ -3,13 +3,13 @@ title: "Fallen Angels"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 7
 date: 2012-11-14
-prodnum: 280
+description: "When a dead CSI officer's prints are found at the scene of  murder, the team begins to suspect that a 'guardian angel' has been acting to project his loved ones from beyond the grave."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/07-fallen-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/13/07-fallen-002.jpg
 ---
 
 ## Synopsis

@@ -3,13 +3,16 @@ title: "Mea Culpa"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 9
 date: 2004-11-25
-prodnum: 509
+description: "After Grissom discovers a previously undetected forensic clue on a piece of evidence during a murder trial, new assistant lab director Conrad Ecklie seizes the opportunity to put Grissom and his late shift team under the microscope."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_005.jpg"
 ---
 
 ## Synopsis

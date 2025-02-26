@@ -3,18 +3,17 @@ title: "The Strip Strangler"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 23
 date: 2001-05-17
-prodnum: 122
+description: "Grissom and his crew investigate when a young woman is strangled in her home, apparently the third victim of a serial killer. The crime scenes all have a common, mystifying element: this murderer really cleans them up, removing all traces of hair or fibers, and even plants misleading evidence."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x23-strip-strangler-001.jpg"
 ---
 
 ## Synopsis
 
-Grissom and his crew investigate when a young woman is strangled in her home, apparently the third victim of a serial killer. The crime scenes all have a common, mystifying element: this murderer really cleans them up, removing all traces of hair or fibers, and even plants misleading evidence. Just when things couldn't get any worse, Grissom learns that the sheriff has called in the FBI to take over the investigation. Grissom thinks the feds have the wrong guy, but his convictions get him thrown off the case. Working on their own time, however, Grissom and his colleagues pore over the forensic evidence in their quest to bring the real killer to justice. The FBI rile Grissom even more when he hears that they plan to use Sara as a decoy.
+The team is investigating the ongoing murders by a signature killer who apparently has a pretty extensive knowledge of forensics and is able to not leave any evidence at the crime scenes. Grissom becomes angry when the sheriff invites the FBI to help out with the case. Sara offers to bait the killer, which upsets Grissom even more.
 
 ## Review
 

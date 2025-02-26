@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 newsyear: "1999"
-newstitle: Review
+description: Review
 newsreporter: Jonathan Crow
 newssource: Checkout
 newsurl: https://checkout.com/

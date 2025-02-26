@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "Jorja Fox Takes A Walk On The Wild Side  "
+description: "Jorja Fox Takes A Walk On The Wild Side  "
 newsreporter: Ulrica Wihlborg
 newssource: Sweden With Love
 newsurl: https://www.swedenwithlove.com/2013/11/jorja-fox-takes-a-walk-on-the-wild-side/

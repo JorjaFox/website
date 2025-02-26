@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: Them On Us June 13, 2007
+description: Them On Us June 13, 2007
 newsreporter: Planet Jackson Hole
 newssource: Planet Jackson Hole
 newsurl: https://www.planetjh.com/news/A_101301.aspx

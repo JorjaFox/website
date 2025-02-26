@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Not a wealth of good shows, but nuggets, old and new"
+description: "Not a wealth of good shows, but nuggets, old and new"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: https://www.philly.com

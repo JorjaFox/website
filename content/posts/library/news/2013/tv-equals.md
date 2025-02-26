@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "CSI Season 13 Review 'Forget Me Not' -- Read Before Jumping Ship"
+description: "CSI Season 13 Review 'Forget Me Not' -- Read Before Jumping Ship"
 newsreporter: Kristen Elizabeth
 newssource: TV Equals
 newsurl: https://www.tvequals.com/2013/02/21/csi-season-13-review-forget-me-not-resist-the-urge-to-jump-the-ship/

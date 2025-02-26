@@ -1,5 +1,7 @@
 ---
 title: Pulse
+description: 'Pulse - 2004-02-13'
+title: Pulse
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2004-02-13

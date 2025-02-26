@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI's Jorja Fox Goes Bike Shopping"
+description: "CSI's Jorja Fox Goes Bike Shopping"
 newsreporter: Ecorazzi
 newssource: Ecorazzi
 newsurl: https://www.ecorazzi.com

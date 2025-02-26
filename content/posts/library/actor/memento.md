@@ -4,6 +4,7 @@ title: "Memento"
 slug: "memento"
 imdb: https://www.imdb.com/title/tt0209144/
 actorimage: /img/actors/memento.jpg
+description: "A man has a short-term memory disorder caused by an assault that killed his wife. While he cannot remember his recent past, he struggles to avenge his wife's death."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/movies/memento/mem01.jpg"

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Women We Love"
+description: "Women We Love"
 newsreporter: Shane Cassidy
 newssource: LesbiaNataion
 newsurl: https://www.lesbianation.com/scene/index.cfm?listID=193

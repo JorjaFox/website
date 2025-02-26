@@ -3,6 +3,7 @@ title: "News"
 author: "Mika A. Epstein"
 layout: news-index
 topic: index
+searchExclude: true
 type: main
 outputs:
 - html

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI heads toward a romantic Grey area  "
+description: "CSI heads toward a romantic Grey area  "
 newsreporter: Staff
 newssource: Sun Sentinel
 newsurl: https://www.sun-sentinel.com/features/columnists/sfl-tvtjla-csi0jul20,0,3684284.column?coll=sfla-features-col

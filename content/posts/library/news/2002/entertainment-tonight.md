@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: CSI Secrets
+description: CSI Secrets
 newsreporter: Staff
 newssource: Entertainment Tonight
 newsurl: https://www.et.com/

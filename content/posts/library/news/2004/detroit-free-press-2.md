@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "BRIEFLY"
+description: "BRIEFLY"
 newsreporter: Staff
 newssource: Detroit Free Press
 newsurl: https://www.freep.com

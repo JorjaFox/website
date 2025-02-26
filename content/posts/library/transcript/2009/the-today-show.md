@@ -1,5 +1,7 @@
 ---
 title: The Today Show
+description: 'The Today Show - 2009-04-02'
+title: The Today Show
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://today.msnbc.msn.com/

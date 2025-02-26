@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "WATCH: CSI's Jorja Fox in PSA Against Circus Elephant Abuse  "
+description: "WATCH: CSI's Jorja Fox in PSA Against Circus Elephant Abuse  "
 newsreporter: Linda St.Cyr
 newssource: Ecorazzi
 newsurl: https://www.ecorazzi.com/2012/04/20/watch-csis-jorja-fox-in-psa-against-circus-elephant-abuse/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Makers of 'CSI' film episode on campus"
+description: "Makers of 'CSI' film episode on campus"
 newsreporter: Daily Sundial
 newssource: Daily Sundial
 newsurl: https://media.sundial.csun.edu

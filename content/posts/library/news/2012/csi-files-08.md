@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Interview: Elisabeth Shue  "
+description: "Interview: Elisabeth Shue  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/03/interview-elisabeth-shue/

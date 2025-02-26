@@ -3,13 +3,9 @@ title: "Redrum"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 13
 date: 2007-01-25
-prodnum: 712
+description: "Catherine must deceive her teammates when she agrees to Keppler's covert and controversial plan to catch the killer of a popular politician."
 ---
 
 ## Synopsis

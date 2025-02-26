@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Cousteau briefs Hollywood on Gulf oil spill  "
+description: "Cousteau briefs Hollywood on Gulf oil spill  "
 newsreporter: Nikki Schwab
 newssource: The Examiner
 newsurl: https://www.washingtonexaminer.com/politics/blogs/yeas-and-nays/Exports_-Cousteau-briefs-Hollywood-on-Gulf-oil-spill-1001508-98714499.html

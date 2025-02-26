@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Inside with CSI's Jorja Fox!"
+description: "Inside with CSI's Jorja Fox!"
 newsreporter: Staff
 newssource: Insider
 newsurl: https://insider.tv.yahoo.com/

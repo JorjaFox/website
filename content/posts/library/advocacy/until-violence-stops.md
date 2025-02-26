@@ -3,6 +3,7 @@ title: 'Until the Violence Stops: Los Angeles'
 author: "Mika A. Epstein"
 layout: advocacy
 website: https://www.utvsla.org
+description: "An LA organization who wants to stop violence against women."
 ---
 
 ''Until the Violence Stops: Los Angeles'' (aka UTVS:LA) is the LA organization who organizes and promotes V-Day. A coalition of activists, artists, entertainers, educators, civic leaders and concerned citizens who reside in Los Angeles County, UTVS:LA wants to see Los Angeles become the safest city on earth for women and girls.

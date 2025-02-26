@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox To Leave 'CSI'  "
+description: "Jorja Fox To Leave 'CSI'  "
 newsreporter: Staff
 newssource: Florida Today
 newsurl: https://www.etonline.com/news/2007/10/54845/index.html

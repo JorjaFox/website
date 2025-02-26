@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: 'At CBS party, previews of "CSI," "Without a Trace," "Cold Case," "The Amazing Race" and more'
+description: 'At CBS party, previews of "CSI," "Without a Trace," "Cold Case," "The Amazing Race" and more'
 newsreporter: Orlando Sentinel
 newssource: Orlando Sentinel
 newsurl: https://blogs.orlandosentinel.com/

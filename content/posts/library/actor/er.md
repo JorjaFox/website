@@ -8,6 +8,7 @@ imdb: https://www.imdb.com/title/tt0108757/
 actorimage: /img/actors/er.jpg
 thumbnail:
   url: img/front-page/er-doyle.jpg
+description: "An Emmy Award-winning drama series centering on the medical personnel in the emergency room of a Chicago hospital."
 ---
 
 ## Character

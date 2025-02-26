@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: "'West Wing' elects to keep its idealistic platform"
+description: "'West Wing' elects to keep its idealistic platform"
 newsreporter: Staff
 newssource: Post-Gazette
 newsurl: https://www.post-gazette.com

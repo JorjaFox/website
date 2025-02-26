@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Is Jorja Fox Leaving CSI?!"
+description: "Is Jorja Fox Leaving CSI?!"
 newsreporter: Staff
 newssource: Associated Content
 newsurl: https://www.associatedcontent.com/

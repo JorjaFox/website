@@ -3,13 +3,9 @@ title: "Down the Drain"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 2
 date: 2004-10-07
-prodnum: 502
+description: "After a heavy rain, the CSI team is called to investigate the deaths of two people found in sewage drains to determine whether either was murder."
 ---
 
 ## Synopsis

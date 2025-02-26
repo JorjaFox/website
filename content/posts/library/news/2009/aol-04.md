@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "The Show Girl's Guide to Fall TV: 21 Things To Know"
+description: "The Show Girl's Guide to Fall TV: 21 Things To Know"
 newsreporter: Maggie Furlong
 newssource: AOL TV
 newsurl: https://television.aol.com/feature/fall_tv/what-you-should-know-about-fall-tv-2

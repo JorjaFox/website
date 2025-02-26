@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "People in the News"
+description: "People in the News"
 newsreporter: Staff
 newssource: Seattle Post Inteligencer
 newsurl: https://seattlepi.nwsource.com/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Jorja Fox: She's back on CSI!  "
+description: "Jorja Fox: She's back on CSI!  "
 newsreporter: Staff
 newssource: MSN Malaysian
 newsurl: https://entertainment.malaysia.msn.com/tv/article.aspx?cp-documentid=3904920

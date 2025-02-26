@@ -3,13 +3,21 @@ title: "The Case of the Cross-Dressing Carp"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 8
-epnum: 4
 date: 2007-10-18
-prodnum: 804
+description: "Grissom and his team discover a young man strangled to death by hanging ...  whose body looks like that of a woman."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_006.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_007.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_008.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_009.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/804-cotcdc_010.jpg"
 ---
 
 ## Synopsis

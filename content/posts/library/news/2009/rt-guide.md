@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "CSI Special  "
+description: "CSI Special  "
 newsreporter: Janice Butler
 newssource: RT Guide
 newsurl: https://www.rteguide.ie

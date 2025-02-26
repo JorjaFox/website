@@ -1,5 +1,7 @@
 ---
 title: CSI season 2 DVD extras
+description: 'CSI season 2 DVD extras - 2002-07-01'
+title: CSI season 2 DVD extras
 date: 2002-07-01
 transcriber: David Masters
 layout: transcript

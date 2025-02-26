@@ -3,6 +3,7 @@ title: "News Articles (1995)"
 transcriber: "Mika A. Epstein"
 layout: news-index
 topic: index
+searchExclude: true
 date: 1995-01-01
 permalink: /news/1995/
 newsyear: "1995"

@@ -3,13 +3,9 @@ title: "Primum Non Nocere"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 16
 date: 2002-02-28
-prodnum: 216
+description: "When Terry Rivers barrels into the opposing team's goalie, a fight breaks out and Terry ends up at the bottom of a huge pile of bodies. After the players are separated, he is found dead...with a deep, bloody gash across his neck.."
 ---
 
 ## Synopsis

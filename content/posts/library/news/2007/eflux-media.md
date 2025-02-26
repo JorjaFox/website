@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox Leaves CSI  "
+description: "Jorja Fox Leaves CSI  "
 newsreporter: Jane Ivory
 newssource: eFlux Media
 newsurl: https://www.efluxmedia.com/news\_Jorja\_Fox\_Leaves\_CSI_10711.html

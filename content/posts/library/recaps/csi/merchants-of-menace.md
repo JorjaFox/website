@@ -3,13 +3,16 @@ title: "Merchants of Menace"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 14
 date: 2015-01-25
-prodnum: 331
+description: "The CSI team investigates a homicide at a convention for people who collect macabre murder memorabilia."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1514-merchants-menace_001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1514-merchants-menace_002.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1514-merchants-menace_003.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1514-merchants-menace_004.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1514-merchants-menace_005.jpg
 ---
 
 ## Synopsis

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Tattle | Walter Reed gig snub puzzles Baez"
+description: "Tattle | Walter Reed gig snub puzzles Baez"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: https://www.philly.com

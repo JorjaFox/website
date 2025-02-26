@@ -15,7 +15,7 @@ tags:
 
 As reported by "All About Jorja," Jorja is [confirmed](https://www.ioncinema.com/news/festival-predictions/2021-sundance-film-festival-ian-samuels-the-map-of-tiny-perfect-things) in the cast of _[The Map of Tiny Perfect Things](https://jorjafox.net/library/actor/map-of-tiny-perfect-things/)_
 
-{{< tweet user="AllJorja" id="1329973858418495488" >}}
+{{< x user="AllJorja" id="1329973858418495488" >}}
 
 The fantasy/drama is directed by Ian Samuels, from a screenplay by Lev Grossman, based upon Grossman's short story of the same name.
 

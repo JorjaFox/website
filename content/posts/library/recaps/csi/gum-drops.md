@@ -3,13 +3,12 @@ title: "Gum Drops"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 5
 date: 2005-10-20
-prodnum: 605
+description: "The CSI team suspects an entire family has been murdered, but cannot prove it until they find the victims' bodies.  When the blood evidence suggests only three people were killed, Nick is the only one on the CSI team that believes the fourth family member, the young daughter, is still alive. Now, it's a race against time to find the perpetrators who may lead the CSIs to a possible survivor."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/605_GumDrops_01.jpg"
 ---
 
 ## Synopsis

@@ -3,13 +3,9 @@ title: "Feeling the Heat"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 4
 date: 2003-10-23
-prodnum: 405
+description: "Catherine investigates the death of a baby who was left inside a locked car on a steamy day; Nick and Sara examine a lakeside scene where a young woman's body was found washed ashore; Warrick tries to determine whether a man found dead in a sweltering house was the victim of an accident or foul play."
 ---
 
 ## Synopsis

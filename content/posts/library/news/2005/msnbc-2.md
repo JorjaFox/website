@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "06 October"
+description: "06 October"
 newsreporter: Staff
 newssource: MSNBC
 newsurl: https://msnbc.com

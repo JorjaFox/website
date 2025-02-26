@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Killer cast  "
+description: "Killer cast  "
 newsreporter: Staff
 newssource: The Star
 newsurl: https://www.star-ecentral.com/news/story.asp?file=/2006/5/28/tvnradio/14230809&sec=tvnradio

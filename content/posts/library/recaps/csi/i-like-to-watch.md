@@ -3,13 +3,15 @@ title: "I Like to Watch"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 17
 date: 2006-03-09
-prodnum: 617
+description: "A camera crew from a reality series follows the CSI team during the first 48 hours of an investigation involving an upscale real estate agent found dead in her glamorous high-rise apartment."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/617-iliketowatch_00.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/617-iliketowatch_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/617-iliketowatch_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/06/617-iliketowatch_04.jpg"
 ---
 
 ## Synopsis

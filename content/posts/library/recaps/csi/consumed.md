@@ -3,13 +3,13 @@ title: "Consumed"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 20
 date: 2014-04-09
-prodnum: 315
+description: "A killer with a taste for human flesh appears to be preying on people who fantasize about being devoured. A group of vorarephiliacs -- someone who is fixated on eating, or being eaten by, other living beings. Meanwhile, an experienced retired sheriff has coffee with Ecklie and gives him some career advice."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1420-consumed-001.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/14/1420-consumed-002.jpg
 ---
 
 ## Synopsis

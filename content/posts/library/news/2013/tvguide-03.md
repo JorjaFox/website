@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "CSI: Catherine and Sara INTERROGATED  "
+description: "CSI: Catherine and Sara INTERROGATED  "
 newsreporter: Craig Tomashoff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/

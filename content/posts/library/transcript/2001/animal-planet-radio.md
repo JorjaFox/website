@@ -1,5 +1,7 @@
 ---
 title: Animal Planet Radio
+description: 'Animal Planet Radio - 2001-07-28'
+title: Animal Planet Radio
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://animal.discovery.com/fansites/radio/past/past.html

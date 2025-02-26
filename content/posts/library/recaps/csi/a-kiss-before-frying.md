@@ -3,13 +3,9 @@ title: "A Kiss Before Frying"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 12
 date: 2011-01-20
-prodnum: 241
+description: "While the team searches for a serial killer who is killing their victims with an electric chair, Greg falls for a classic film noir 'femme fatale' who may be connected to the case."
 ---
 
 ## Synopsis

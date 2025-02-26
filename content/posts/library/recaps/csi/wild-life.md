@@ -3,13 +3,21 @@ title: "Wild Life"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 9
-prodnum: 238
 date: 2010-11-18
+description: "A man's fatal fall from a hotel balcony launches the CSIs into an investigation to determine if his death was suicide or the result of foul play."
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife04.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife05.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife06.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife07.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife08.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife09.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1109-wildlife10.jpg
 ---
 
 ## Synopsis

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "CSI Star Jorja Fox Wants You to Investigate Vegetarianism  "
+description: "CSI Star Jorja Fox Wants You to Investigate Vegetarianism  "
 newsreporter: Ali Berman
 newssource: Ecorazzi
 newsurl: https://www.ecorazzi.com/2011/11/09/csi-star-jorja-fox-wants-you-to-investigate-vegetarianism/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "The big 'CSI' question -- is Jorja Fox gone?"
+description: "The big 'CSI' question -- is Jorja Fox gone?"
 newsreporter: TV Guide CA
 newssource: TV Guide CA
 newsurl: https://entertainment1.sympatico.msn.ca

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' star, producer respond to firing of actors"
+description: "'CSI' star, producer respond to firing of actors"
 newsreporter: Staff
 newssource: Sacbee.com
 newsurl: https://www.sacbee.com/

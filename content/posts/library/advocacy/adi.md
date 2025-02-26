@@ -6,6 +6,7 @@ tags:
   - Environmentalism
   - "Animal Rights"
 website: https://www.ad-international.org
+description: "An animal welfare organization"
 ---
 
 **Animal Defenders International** (ADI) is an animal welfare organization, dedicated to international campaigning group that lobbies on issues such as animals in circuses; worldwide traffic in endangered species; vegetarian/vegan diet; factory farming; and pollution. ADI involves itself in international animal rescues as well as educational work on animal welfare, conservation and the environment.

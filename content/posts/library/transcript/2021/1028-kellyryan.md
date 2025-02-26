@@ -1,5 +1,7 @@
 ---
 title: "Live With Kelly and Ryan"
+description: 'Live With Kelly and Ryan - 2021-10-28'
+title: "Live With Kelly and Ryan"
 date: 2021-10-28
 transcriber: "Mika A. Epstein"
 layout: transcript

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Beauty Pageant Of The Week, CSI Chicks  "
+description: "Beauty Pageant Of The Week, CSI Chicks  "
 newsreporter: Staff
 newssource: Ask Men
 newsurl: https://www.askmen.com

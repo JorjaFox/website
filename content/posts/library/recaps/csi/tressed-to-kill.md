@@ -3,13 +3,13 @@ title: "Tressed To Kill"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 13
 date: 2012-02-08
-prodnum: 264
+description: "The CSI crew investigates a series of murders by a serial killer who seems to be re-creating a specific woman with the corpses of the women he kills."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1213-tressed-001.jpg
+ - https://assets.jorjafox.net/img/gallery/tv/csi/12/1213-tressed-002.jpg
 ---
 
 ## Synopsis

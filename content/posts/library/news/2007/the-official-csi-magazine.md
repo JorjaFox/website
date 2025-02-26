@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Goodbye Sara  "
+description: "Goodbye Sara  "
 newsreporter: Staff
 newssource: The Official CSI Magazine
 newsurl: https://www.titanmagazines.com/app?service=external/Product&sp=l1075&sp=Sen&sp=SUS

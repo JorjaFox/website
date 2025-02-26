@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Ted Danson alienating 'CSI' costars?  "
+description: "Ted Danson alienating 'CSI' costars?  "
 newsreporter: Coco George
 newssource: Gather News - Celebs
 newsurl: https://celebs.gather.com/viewArticle.action?articleId=281474980349493

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "CSI's Jorja Fox Takes on the Circus Elephant Abusers  "
+description: "CSI's Jorja Fox Takes on the Circus Elephant Abusers  "
 newsreporter: PRWeb
 newssource: Houston Chronicle
 newsurl: https://www.chron.com/business/press-releases/article/CSI-s-Jorja-Fox-Takes-on-the-Circus-Elephant-3495060.php

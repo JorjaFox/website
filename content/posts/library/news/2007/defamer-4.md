@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Hollywood PrivacyWatch: Elvish Warrior Takes In Some Postmodern Feminist Art"
+description: "Hollywood PrivacyWatch: Elvish Warrior Takes In Some Postmodern Feminist Art"
 newsreporter: Mark
 newssource: Defamer Hollywood
 newsurl: https://defamer.com

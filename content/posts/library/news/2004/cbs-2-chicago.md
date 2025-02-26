@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Jorja Fox Back On 'CSI'"
+description: "Jorja Fox Back On 'CSI'"
 newsreporter: Staff
 newssource: CBS 2 Chicago
 newsurl: https://www.CBS2chicago.com

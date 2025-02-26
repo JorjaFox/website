@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Emmy's Worst Dressed"
+description: "Emmy's Worst Dressed"
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://www.people.com

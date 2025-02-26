@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Jorja Fox Returns to CSI Permanently  "
+description: "Jorja Fox Returns to CSI Permanently  "
 newsreporter: Rachel Thomas
 newssource: About.com
 newsurl: https://tvdramas.about.com/b/2011/07/22/jorja-fox-returns-to-csi-permanently.htm

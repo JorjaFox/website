@@ -8,6 +8,7 @@ station: NBC
 showname: "The West Wing"
 showslug: west-wing
 date: 2000-03-22
+description: "Diplomacy figures into how best to advise the First Lady on some actions; hate mail prompts the President to ask his daughter to cancel a date."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/west-wing/1x17-001.jpg"

@@ -12,6 +12,7 @@ epnum: Sixteen
 prodnum: 225915
 date: 2000-02-23
 rating: 3
+description: "During a quick trip to L.A., Bartlet meets his daughter's new Secret Service agent and attends a fund-raiser at the home of a movie executive."
 ---
 
 ## Summary

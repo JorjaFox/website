@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Earth Offers Hot Boots for Cool Fall Style"
+description: "Earth Offers Hot Boots for Cool Fall Style"
 newsreporter: Staff
 newssource: Market Wire
 newsurl: https://www.marketwire.com

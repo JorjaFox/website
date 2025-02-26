@@ -3,13 +3,9 @@ title: "Blood Drops"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 7
 date: 2000-11-17
-prodnum: 107
+description: "An 18-year-old girl bolts from her suburban Las Vegas house screaming for help. Shortly thereafter, Grissom arrives at the home and discovers an especially gruesome scene: four family members - the father, mother and two teenage boys - are dead, butchered with a kitchen knife."
 ---
 
 ## Synopsis

@@ -1,5 +1,7 @@
 ---
 title: Radio Times
+description: 'Radio Times - 2006-06-06'
+title: Radio Times
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.radiotimes.com

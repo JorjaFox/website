@@ -3,13 +3,12 @@ title: "The Greater Good"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 13
+description: "The CSI team learns the main suspect in the gig harbor killings is being released from jail due to lack of evidence."
 date: 2015-01-04
-prodnum: 330
+modules: ["bs5-lightbox"]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/15/1513-greatergood-001.jpg
 ---
 
 ## Synopsis

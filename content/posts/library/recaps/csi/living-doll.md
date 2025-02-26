@@ -3,13 +3,9 @@ title: "Living Doll"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 24
 date: 2007-05-17
-prodnum: 724
+description: "The miniature killer's identity is revealed. As the CSI team tries to track down this diabolical murderer, Sara mysteriously goes missing -- and Grissom and Sara's relationship is suddenly forced out into the open."
 ---
 
 ## Synopsis

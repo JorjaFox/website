@@ -1,5 +1,6 @@
 ---
 title: "ET Canada - Jorja Fox, Paula Newsome Think Fans Will 'Fall In Love' With 'CSI: Vegas' Reboot | EXTENDED"
+description: 'ET Canada - Jorja Fox, Paula Newsome Think Fans Will Fall In Love With CSI: Vegaså Reboot | EXTENDED - 2021-09-30'
 date: 2021-09-30
 transcriber: "Mika A. Epstein"
 layout: transcript
@@ -8,7 +9,7 @@ permalink: /transcript/2021/:title/
 interviewyear: "2021"
 ---
 
-**Morgan Hoffman:** First of all, what's it been like you two working on set together? Because just listening to you, in the few seconds, you guys seem like you're best friends.
+**Morgan Hoffman:** First of all, what's it been likåœe you two working on set together? Because just listening to you, in the few seconds, you guys seem like you're best friends.
 
 **Paula Newsome:** I love her! I love her.
 

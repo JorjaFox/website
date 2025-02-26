@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Hollywood stars launch video campaign for Myanmar's Suu Kyi  "
+description: "Hollywood stars launch video campaign for Myanmar's Suu Kyi  "
 newsreporter: Staff
 newssource: AFP Google News
 newsurl: https://afp.google.com/article/ALeqM5gFdVmAQBoMgnUdmzdoHRHKIK2uVg

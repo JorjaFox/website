@@ -3,13 +3,9 @@ title: "Harvest"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 3
 date: 2004-10-14
-prodnum: 503
+description: "An Amber alert is issued when a young girl vanishes. Catherine is surprised to learn the police have picked up her daughter for hitchhiking."
 ---
 
 ## Synopsis

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Apparently, autopsies and romance do mix  "
+description: "Apparently, autopsies and romance do mix  "
 newsreporter: Staff
 newssource: Desert Morning News
 newsurl: https://deseretnews.com

@@ -3,13 +3,17 @@ title: "Dead Doll"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 8
-epnum: 1
 date: 2007-09-27
-prodnum: 801
+description: "In the conclusion to Living Doll, Sara's fate remains in question as the CSI team rushes to find out if she survived an attack by the miniature killer."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_001.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_002.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_003.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_004.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_005.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_006.jpg"
 ---
 
 ## Synopsis

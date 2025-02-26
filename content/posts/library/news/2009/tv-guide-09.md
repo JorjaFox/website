@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Sara is Back!  "
+description: "Sara is Back!  "
 newsreporter: Neil Turiz
 newssource: CSI
 newsurl: https://www.tvguidemagazine.com/csi/sara-is-back-2548.html

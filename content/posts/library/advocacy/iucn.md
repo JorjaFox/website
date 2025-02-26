@@ -5,6 +5,7 @@ layout: advocacy
 tags:
   - Environmentalism
 website: https://www.iucn.org/
+description: "IUCN (International Union for Conservation of Nature) is a membership Union of government and civil society organisations. Together, we work to advance sustainable development and create a just world that values and conserves nature."
 ---
 
 IUCN, the International Union for Conservation of Nature, helps the world find pragmatic solutions to our most pressing environment and development challenges. It supports scientific research, manages field projects all over the world and brings governments, non-government organizations, United Nations agencies, companies and local communities together to develop and implement policy, laws and best practice.

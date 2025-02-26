@@ -3,18 +3,14 @@ title: "Genetic Disorders"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 10
 date: 2011-12-14
-prodnum: 261
+description: "A dead man is found in the bed of Dr. Al Robbins, by his wife Judy. The implication is that she was cheating on Dr. Robbins."
 ---
 
 ## Synopsis
 
-A dead man is found in the bed of Dr. Al Robbins, by his wife Judy. The implication is that she was cheating on Dr. Robbins.
+When a genealogist is found dead in Doc Robbins' bed, the team works on the theory that his wife may have been cheating even though she maintains her innocence.
 
 ## Review
 

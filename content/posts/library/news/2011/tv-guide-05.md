@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "PETERSEN: BACK ON 'CSI'"
+description: "PETERSEN: BACK ON 'CSI'"
 newsreporter: Carita Rizzo
 newssource: TV Guide
 newsurl: https://tvguidemagazine.com

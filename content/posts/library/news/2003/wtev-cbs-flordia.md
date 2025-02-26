@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: CSI Producers Forced to Increase Security
+description: CSI Producers Forced to Increase Security
 newsreporter: Staff
 newssource: WTEV CBS Jacksonville
 newsurl: https://www.wtev.com/

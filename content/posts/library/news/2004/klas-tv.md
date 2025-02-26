@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CSI Casting Call for Elvis Impersonators"
+description: "CSI Casting Call for Elvis Impersonators"
 newsreporter: Staff
 newssource: KLAS TV
 newsurl: https://www.klas-tv.com

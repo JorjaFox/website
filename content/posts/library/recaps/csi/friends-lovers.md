@@ -3,18 +3,14 @@ title: "Friends & Lovers"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 5
 date: 2000-11-03
-prodnum: 105
+description: "Grissom and Warrick investigate a case of an apparently terrorized teen found dead in the desert; Sara examines the circumstances surrounding the body of a woman who was buried the week before and is found in a garbage dumpster; Nick and Catherine look into the claim by a teacher that she killed the dean of the school in self-defense."
 ---
 
 ## Synopsis
 
-Grissom and Warrick investigate a case of an apparently terrorized teen found dead in the desert; Sara examines the circumstances surrounding the body of a woman who was buried the week before and is found in a garbage dumpster; Nick and Catherine look into the claim by a teacher that she killed the dean of the school in self-defense.
+Grissom and Warrick investigate when a victim dies of fear in the desert, apparently from being chased. Meanwhile, Catherine and Nick investigate the gruesome murder of a Catholic school dean, and Sara investigates how the body of a woman who was buried the previous week ended up in a dumpster.
 
 ## Review
 

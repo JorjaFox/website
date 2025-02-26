@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Galapagos, a destination of stars  "
+description: "Galapagos, a destination of stars  "
 newsreporter: Guayaquil
 newssource: El Comercio
 newsurl: https://www.elcomercio.com/entretenimiento/Galapagos-destino-estrellas_0_502149843.html

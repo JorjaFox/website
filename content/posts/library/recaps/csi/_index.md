@@ -7,6 +7,7 @@ tags: ["Television"]
 show: csi
 seasons: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 type: index
+searchExclude: true
 ---
 
 The following is a list of episodes from the CBS television series, _[CSI: Crime Scene Investigation](/library/actor/csi/)_ (AKA _CSI_) in which Jorja Fox appeared or was credited. Episodes are rated based on quality and volume of Jorja's scenes. Episodes in which she is listed in the credits but does not appear are rated with zero stars.
@@ -79,4 +80,4 @@ For the sequel [_CSI: Vegas_](/library/actor/csi-vegas/), please see [the list o
 
 ## CSI: Vegas
 
-Please see [CSI: Vegas Episodes](/library/recaps/csi-vegas/)
+[CSI: Vegas Episodes](/library/recaps/csi-vegas/)

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "From award arrivals to finale, it was a wild and crazy night"
+description: "From award arrivals to finale, it was a wild and crazy night"
 newsreporter: Staff
 newssource: Sign On San Diego
 newsurl: https://www.signonsandiego.com

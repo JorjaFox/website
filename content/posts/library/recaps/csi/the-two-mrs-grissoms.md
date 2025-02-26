@@ -3,20 +3,21 @@ title: "The Two Mrs. Grissoms"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 13
 date: 2011-02-03
-prodnum: 242
+description: "A night full of celebration ends with a bang when the director of a scholarship foundation for the deaf is killed by a deadly car bomb, prompting Sara to interrogate the students and faculty of the college where her mother-in-law, Betty Grissom, works."
+modules: [ "bs5-lightbox" ]
+photogallery:
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs01.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs02.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs03.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs04.jpg
+  - https://assets.jorjafox.net/img/gallery/tv/csi/11/1113-2mrs05.jpg
 ---
 
 ## Synopsis
 
-A night full of celebration ends with a bang when the director of a scholarship foundation for the deaf is killed by a deadly car bomb, prompting Sara to interrogate the students and faculty of the college where her mother-in-law, Betty Grissom, works.
-
-Grissom's ex girlfriend, Julia Holden, is on the selection committed for the grant to be given out by Dr. Eric Lambert (the head of the Gilbert Foundation). She's also first on the scene when his car is exploded and then shoved down a hill, on fire. Sara has to drag her away before the car burns up entirely. The CSIs find that there was a bomb in the car, and he was dead before the fire started. When they determine Julia is lying to them about feeling the explosion, Sara and Nick investigate her office and find enough evidence to bring Julia in for questioning. In interrogation, Julia professes her innocence, but offers no explanations. She derails the questioning by revealing that she and Grissom were once intimate, and accuses Sara of allowing that relationship to color the case.
+Grissom's ex girlfriend, Julia Holden, is on the selection committed for a grant to be given out by Dr. Eric Lambert (the head of the Gilbert Foundation). She's also first on the scene when his car is exploded and then shoved down a hill, on fire. Sara has to drag her away before the car burns up entirely. The CSIs find that there was a bomb in the car, and he was dead before the fire started. When they determine Julia is lying to them about feeling the explosion, Sara and Nick investigate her office and find enough evidence to bring Julia in for questioning. In interrogation, Julia professes her innocence, but offers no explanations. She derails the questioning by revealing that she and Grissom were once intimate, and accuses Sara of allowing that relationship to color the case.
 
 The bomb used to blow of Dr. Lambert was made with a Shake Alert device found on Gilbert College. The CSIs search all the dorm rooms and finds that Michael, Julia's TA, has a Shake Alert device that is totally different. They talk to him, but he wasn't at the party. He tips the CSIs off to Sean Wyatt, who had a fight with Dr. Lambert, and a favorite of Julia, *and* they find trace in his room. He is innocent, but he was sleeping with Julia. In fact, his alibi is that he and Julia were together after they left the party.
 
@@ -26,9 +27,9 @@ Sean and his cousin, Dennis the interpreter, set up a scam to get Sean into the 
 
 ## Review
 
-Sara attends a gala celebration for a foundation for the deaf, of which her husband, Gil Grissom, is a member. Gil was supposed to come, but got stuck in Peru when 'another' mass grave was found. The phone call cuts out and Sara catches Julia (then unknown to her) coming out of a room where a man remains, looking like she was having sex with him moments before. Sara then finds her mother-in-law, Betty Grissom, who introduces her to Julia Holden, who is 'like a daughter' to Betty. Sara is comfortable with Betty's apparent preference to Julia, and later tells Catherine that she and Betty don't get along well.
+Sara attends a gala celebration for a foundation for the deaf, of which her husband, Gil Grissom, is a member. Gil was supposed to come, but got stuck in Peru when 'another' mass grave was found. The phone call cuts out and Sara catches Julia (Grissom's ex, then unknown to Sara) coming out of a room where a man remains, looking like she was having sex with him moments before. Sara then finds her mother-in-law, Betty Grissom, who introduces her to Julia Holden, who is 'like a daughter' to Betty. Sara is comfortable with Betty's apparent preference to Julia, and later tells Catherine that she and Betty don't get along well.
 
-After the murder, the CSIs are surprised to see Sara there, and more so to see her in a dress. They had never seen her in a dress before (skirts yes , but not a dress). Ray and Nick tease her, but bring her coveralls and boots so she can help.
+After the murder, the CSIs are surprised to see Sara there, and more so to see her in a dress. They had never seen her in a dress before (skirts yes, but not a dress). Ray and Nick tease her, but bring her coveralls and boots so she can help.
 
 Once Julia reveals that she and Grissom were once intimate, Brass wants Sara off the case. The news doesn't seem to bother Sara all that much. Betty comes to talk to Sara about the case, upset that Julia was interrogated. Sara is annoyed at Betty for not telling her about Julia and Grissom's relationship before she interrogated Julia, and Betty lays the blame on the fact that Grissom and Sara don't live in the same city. She doesn't understand how Grissom and Sara can live so far apart.
 

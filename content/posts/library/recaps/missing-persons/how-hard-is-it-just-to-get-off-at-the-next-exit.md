@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-12-16
 season: 1
 episode: 11
+description: "Boy missing for a year has been spotted. An express driver disappears. Johnny's dad, also a cop, gets shot. Robert gets an A on his mid-term."
 ---
 
 ## Synopsis

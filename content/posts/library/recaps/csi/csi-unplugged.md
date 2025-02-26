@@ -3,13 +3,9 @@ title: "CSI Unplugged"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 16
 date: 2012-02-29
-prodnum: 267
+description: "When a blackout cripples the city, the CSIs must revert to old-school methods to solve the case of a missing child."
 ---
 
 ## Synopsis

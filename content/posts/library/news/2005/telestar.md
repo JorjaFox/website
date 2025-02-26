@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "CSIs Sara Sidle"
+description: "CSIs Sara Sidle"
 newsreporter: Staff
 newssource: TeleStar
 newsurl: https://www.telestar.fr/

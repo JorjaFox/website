@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Happy World Vegetarian Day to Our Favorite TV Herbivores  "
+description: "Happy World Vegetarian Day to Our Favorite TV Herbivores  "
 newsreporter: Chris Harnick
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/2010/10/01/happy-world-vegetarian-day-to-our-favorite-tv-herbivores/

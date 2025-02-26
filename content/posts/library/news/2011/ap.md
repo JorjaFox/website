@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "'CSI' - JORJA FOX  "
+description: "'CSI' - JORJA FOX  "
 newsreporter: unknown
 newssource: ap
 newsurl: https://www.ap.com/

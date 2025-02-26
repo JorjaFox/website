@@ -3,13 +3,15 @@ title: "Post-Mortem"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 7
 date: 2006-11-09
-prodnum: 707
+description: "When an elderly woman is murdered, the CSIs look to the neighbor and nephew as possible suspects. Mid-investigation, Grissom receives an exact miniature replica of the current crime scene, changing his thinking on the crime. Meanwhile, Greg faces an angry courtroom when he attends the hearing to ascertain his culpability in the death of the teenager he accidentally killed while defending himself against a mob."
+modules: [ "bs5-lightbox" ]
+photogallery:
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_01.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_02.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_03.jpg"
+ - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_03b.jpg"
 ---
 
 ## Synopsis

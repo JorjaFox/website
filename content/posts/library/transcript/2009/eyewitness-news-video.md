@@ -1,5 +1,7 @@
 ---
 title: Eyewitness News Video
+description: 'Eyewitness News Video - 2009-09-12'
+title: Eyewitness News Video
 transcriber: "Mika A. Epstein"
 layout: transcript
 interviewurl: https://www.lasvegasnow.com

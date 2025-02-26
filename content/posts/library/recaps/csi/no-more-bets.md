@@ -3,13 +3,9 @@ title: "No More Bets"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 22
 date: 2004-05-13
-prodnum: 422
+description: "Two men are found murdered after scamming Sam Braun's casinos. Grissom and Warrick investigate after Catherine is thrown off the case. One of the suspects is the son of a man Braun caught cheating. Nick gets the promotion that Sara coveted."
 ---
 
 ## Synopsis

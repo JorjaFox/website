@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Critic's Corner Thursday  "
+description: "Critic's Corner Thursday  "
 newsreporter: Robert Bianco
 newssource: USA Today
 newsurl: https://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm

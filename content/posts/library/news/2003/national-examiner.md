@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: CSI Sex Plot Furor
+description: CSI Sex Plot Furor
 newsurl: https://national-examiner.com
 newsreporter: Laurie Campbell
 newssource: National Examiner

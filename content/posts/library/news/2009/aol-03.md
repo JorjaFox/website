@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox Interview on Returning to 'CSI'  "
+description: "Jorja Fox Interview on Returning to 'CSI'  "
 newsreporter: Sandra Deane
 newssource: AOL TV
 newsurl: https://television.aol.com/insidetv/2009/08/18/jorja-fox-interview-on-returning-to-csi/

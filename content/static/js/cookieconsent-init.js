@@ -143,7 +143,7 @@ CookieConsent.run({
       en: {
         consentModal: {
           title: 'Hello Fan of LeFox, it\'s cookie time!',
-          description: 'Like most websites, Fans of LeFox uses essential cookies to ensure everything works and to see what you\'re interested in reading. The tracking stuff will be set only after consent. That means if you click "Accept" right now, you won\'t get any Google Analytics cookies.',
+          description: 'Like most websites, Fans of LeFox uses essential cookies to ensure everything works and to see what you\'re interested in reading. The tracking stuff will be set only after consent. That means if you click "Reject" right now, you won\'t get any Google Analytics cookies.',
           acceptAllBtn: 'Accept',
           acceptNecessaryBtn: 'Reject',
           showPreferencesBtn: 'Manage preferences',
@@ -164,7 +164,8 @@ CookieConsent.run({
               description: 'We try to limit our use of any cookies to the bare minimum. Mostly because we hate tracking too. For more details, refer to our <a href="/tos/privacy/" class="cc__link">privacy policy</a>.'
             }, {
               title: 'Strictly necessary cookies (enabled)',
-              description: 'These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.',
+              description: 'At this time we have NO necessary cookies. This option is here as a placeholder in case we have to add any later. We will notify all users if this changes.',
+              // description: 'These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.',
               linkedCategory: CAT_NECESSARY,
             }, {
               title: 'Analytics (disabled by default)',

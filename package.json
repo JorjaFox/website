@@ -1,6 +1,6 @@
 {
     "name": "@JorjaFox/website",
-    "version": "3.2.0",
+    "version": "3.2.1",
     "description": "Fans of LeFox hugo-extended installation, using Hinode",
     "keywords": [
         "hugo",
@@ -18,12 +18,12 @@
     },
     "scripts": {
         "which": "which hugo",
-        "prestart": "npm run -s mod:vendor && npm run build:copy",
+        "prestart": "npm run -s mod:vendor",
         "start": "hugo-extended server --bind=0.0.0.0 --disableFastRender --printI18nWarnings",
         "start:prod": "npm run -s prestart  && hugo-extended server --bind=0.0.0.0 --disableFastRender --printI18nWarnings --minify -e production",
-        "prebuild": "npm run clean:public && npm run -s mod:vendor && npm run build:copy ",
+        "prebuild": "npm run clean:public && npm run -s mod:vendor",
         "build": "hugo-extended --gc --minify",
-        "build:copy": "cp node_modules/vanilla-cookieconsent/dist/cookieconsent.css content/static/css/cookieconsent.css && cp node_modules/vanilla-cookieconsent/dist/cookieconsent.umd.js content/static/js/cookieconsent.umd.js",
+        "build:cookie": "cp node_modules/vanilla-cookieconsent/dist/cookieconsent.css content/static/css/cookieconsent.css && cp node_modules/vanilla-cookieconsent/dist/cookieconsent.umd.js content/static/js/cookieconsent.umd.js",
         "build:staging": "hugo-extended --gc --minify --environment staging",
         "build:cache": "npm run -s prebuild && hugo-extended config | grep cachedir && hugo-extended --gc --minify -e ci",
         "build:debug": "hugo-extended -e debug --logLevel debug",

@@ -8,14 +8,14 @@
 
 - title: Back to CSI
   icon: fas dice
-  color: warning
+  color: success
   date: 2021-02-12
   content:
     "Jorja Fox returned to CSI, or rather joined the first season of CSI:  Vegas. The site was updated to reflect the new show, and the gallery was expanded to include the new series."
 
 - title: The End of CSI
   icon: fas sailboat
-  color: secondary
+  color: warning
   date: 2015-09-27
   content:
     "CSI: Crime Scene Investigation ends, and the site transitioned to more of a library of all of Jorja's advocacy and humanitarian work."
@@ -43,7 +43,7 @@
 
 - title: Leaving Las Vegas
   icon: fas magnifying-glass
-  color: secondary
+  color: danger
   date: 2007-10-15
   content:
     Jorja announced she was leaving CSI, and the site nearly crashed under the load.
@@ -88,4 +88,4 @@
   color: warning
   date: 1996-12-01
   content:
-    A simple filmography page was created by Mika Epstein (aka Ipstenu) for a class project. It was hosted on the University of California Santa Cruz's servers. She got an A.
+    A simple filmography page was created by Mika Epstein (aka Ipstenu) for a class project. It was hosted on the University of California Santa Cruz's servers. She got a Pass (UCSC was pass/fail at the time).

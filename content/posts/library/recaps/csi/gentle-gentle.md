@@ -12,7 +12,6 @@ description: "Grissom finds it difficult to control his emotions when he investi
 
 The CSI team investigates the kidnapping of the infant child of a rich family. However, when the evidence shows that the family is hiding something, the case takes a darker turn.
 
-
 ## Review
 
 Sara arrives at the scene, and Grissom has her run the ransom note over to QD (Questionable Documents). Sara goes to QD and they determine the printers from the house don't match the note. Sara calls Grissom with the news, and he has her check the printers from the husband's office.

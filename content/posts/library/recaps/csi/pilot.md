@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2000-10-06
+description: "Grissom investigates a suicide that presents little evidence."
 ---
 
 ## Summary

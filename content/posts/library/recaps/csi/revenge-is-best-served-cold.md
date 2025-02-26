@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-09-26
+description: "Catherine and Nick investigate street racing after one of the drivers is found dead out in the desert at an abandoned airstrip. Grissom and his crew look into the death of a poker player who suffered a violent convulsion in the middle of a high-stakes game with three others. As always, things aren't what they seem."
 ---
 
 ## Synopsis

@@ -5,11 +5,12 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2000-10-27
+description: "When Grissom and Catherine investigate when a leg is found severed from a body in a lake, they suspect the husband and boyfriend. Meanwhile Sara and Nick investigate a fraternity pledging that ended in the death of a pledge."
 ---
 
 ## Synopsis
 
-When Grissom and Catherine investigate when a leg is found severed from a body in a lake, they suspect the husband and boyfriend. Meanwhile Sara and Nick investigate a fraternity pledging that ended in the death of a pledge.
+A woman's severed leg found in Lake Mead leads Catherine and Grissom to uncover a case of adultery. Meanwhile, Nick and Sara investigate a fraternity student's apparent suicide, but find out that it may have been caused by the student's pledging going terribly wrong.
 
 ## Review
 

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2010-03-11
+description: "When a young boy is found murdered, the CSI team uncovers evidence that may link his death to an old case that recently resurfaced."
 ---
 
 ## Synopsis

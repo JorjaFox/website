@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2009-01-15
+description: "The CSI team is shocked and saddened when, after working with Dr. Raymond Langston on the 'Dick & Jane' murders, Grissom announces that his time as a CSI has come to an end and offers Langston a permanent position on the CSI team."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_01.jpg"

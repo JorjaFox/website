@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-11-30
+description: "The CSI team delves into the kinky world of “rubber dolls” when they investigate the murder of a man stabbed in an alley."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1508-rubbery-001.jpg

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-02-28
+description: "When Terry Rivers barrels into the opposing team's goalie, a fight breaks out and Terry ends up at the bottom of a huge pile of bodies. After the players are separated, he is found dead...with a deep, bloody gash across his neck.."
 ---
 
 ## Synopsis

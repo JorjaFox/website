@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-04-03
+description: "A badly decomposed body is discovered in a beat-up chemical-waste drum in the desert. The investigation soon leads Catherine into the world of robotic demolition derbies in which custom-designed robots bash each other in combat-like competitions. Meanwhile, Grissom and Warrick probe the death of a newly married man whose body is found in an alley."
 ---
 
 ## Synopsis

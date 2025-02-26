@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2010-09-30
+description: "Hysteria ensues when a shark attacks a woman in the pool at a Las Vegas casino 'day club,' and the CSIs must determine if the killer is human or shark."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/11/1102-poolshark001.jpg

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-02-06
+description: "Catherine takes the point in the investigation of an escalating series of peeping tom incidents. Meanwhile, Sara reopens the dormant case of her friend, a district attorney."
 ---
 
 ## Synopsis

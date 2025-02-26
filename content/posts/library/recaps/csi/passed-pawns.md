@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-10-30
+description: "The CSI team investigates the death of a homeless man who had a huge winning streak at a small casino."
 ---
 
 ## Synopsis

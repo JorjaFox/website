@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-12-09
+description: "Grissom and his team investigate the starving death of a five year old boy. They discover the boy has siblings who are in danger too. Catherine and her team determine who killed a prisoner in a holding cell brawl."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_001.jpg"

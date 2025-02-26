@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2005-09-29
+description: "An up and coming young movie star is found dead after a night of partying in his hotel suite with his entourage of groupies. Meanwhile, downstairs at the same hotel, the immigrant kitchen workers may have turned against each other and committed murder."
 ---
 
 ## Synopsis

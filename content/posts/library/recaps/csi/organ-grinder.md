@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-12-13
+description: "An amorous couple's desires are deflated when the hotel elevator opens up to reveal a nearly dead politician an/or real estate developer on the floor, who later dies of apparently natural causes. The CSI team must check organ donors and delve into an old shooting case to solve the mystery."
 ---
 
 ## Synopsis

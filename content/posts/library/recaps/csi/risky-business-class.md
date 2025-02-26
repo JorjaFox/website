@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2012-12-12
+description: "When a small executive jet crash lands a mile off the Strip, the CSIs wonder if it was intended as an act of terror, and to solve the case, Sara teams up with a former colleague from San Francisco with whom she still has sparks."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/13/10-risky-001.jpg

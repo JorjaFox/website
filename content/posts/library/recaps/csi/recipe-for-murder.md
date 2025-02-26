@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-01-09
+description: "A human arm is discovered stuck in a grinder at a meat-processing plant and the evidence leads Grissom and Catherine to an upscale restaurant where the victim worked as a chef. Across town, Warrick and Sara probe the apparent suicide of a girl with bipolar disorder in her apartment, but as the case unfolds it becomes clear that she was murdered."
 ---
 
 ## Synopsis
@@ -13,7 +14,7 @@ Grissom and Catherine investigate the grisly meat grinder murder at a slaughterh
 
 ## Review
 
-Sara and Warrick investigate an apparent suicide at an apartment complex. At the scene, Sara inadvertantly calls Hank 'baby' (she apologizes later) -- embarrassed, she ducks into the closet, where she finds still-wet stains on the victim's clothing. At the autopsy, she finds tinted glass in the victim's hair; later in Trace, she trades comments with the new tech, Hodges. Sara and Warrick match the glass to a recently-broken windshield at the apartment garage, and discover that the victim was always breaking things, depending on her mood. They discover that the victim was bipolar, and off her meds -- and that her boyfriend was bipolar as well. Discovering Valium in the victim's system, they confront the parents and find that the father slit his daughter's wrist, hoping to get her admitted to a psychiatric facility.
+Sara and Warrick investigate an apparent suicide at an apartment complex. At the scene, Sara inadvertently calls Hank 'baby' (she apologizes later) -- embarrassed, she ducks into the closet, where she finds still-wet stains on the victim's clothing. At the autopsy, she finds tinted glass in the victim's hair; later in Trace, she trades comments with the new tech, Hodges. Sara and Warrick match the glass to a recently-broken windshield at the apartment garage, and discover that the victim was always breaking things, depending on her mood. They discover that the victim was bipolar, and off her meds -- and that her boyfriend was bipolar as well. Discovering Valium in the victim's system, they confront the parents and find that the father slit his daughter's wrist, hoping to get her admitted to a psychiatric facility.
 
 ## Notes
 

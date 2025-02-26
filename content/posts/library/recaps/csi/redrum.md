@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-01-25
+description: "Catherine must deceive her teammates when she agrees to Keppler's covert and controversial plan to catch the killer of a popular politician."
 ---
 
 ## Synopsis

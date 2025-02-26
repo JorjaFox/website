@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-01-30
+description: "Warrick investigates the drive by murder of a young girl in his old neighborhood. The girl's father is a friend and mentor of Warrick's as well. Warrick struggles to control his emotions to the point where Grissom pulls him off of the case. Nick tackles the murder of a computer company employee. The only supects are the three other employees in the building."
 ---
 
 ## Synopsis

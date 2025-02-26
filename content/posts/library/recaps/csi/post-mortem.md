@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-11-09
+description: "When an elderly woman is murdered, the CSIs look to the neighbor and nephew as possible suspects. Mid-investigation, Grissom receives an exact miniature replica of the current crime scene, changing his thinking on the crime. Meanwhile, Greg faces an angry courtroom when he attends the hearing to ascertain his culpability in the death of the teenager he accidentally killed while defending himself against a mob."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/707-postmortem_01.jpg"

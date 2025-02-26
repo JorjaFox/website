@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-10-25
+description: "Two bizarre cases baffle investigators in this intriguingly complex episode. Grissom, Sara and Warrick are called on to investigate apartment that has blood-spattered walls. Meanwhile, Catherine and Nick are called to the site of a large fire and attempt to determine how a dead scuba diver in full gear became lodged in a tree."
 ---
 
 ## Synopsis

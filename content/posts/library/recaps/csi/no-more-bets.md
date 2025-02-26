@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-05-13
+description: "Two men are found murdered after scamming Sam Braun's casinos. Grissom and Warrick investigate after Catherine is thrown off the case. One of the suspects is the son of a man Braun caught cheating. Nick gets the promotion that Sara coveted."
 ---
 
 ## Synopsis

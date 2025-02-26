@@ -5,11 +5,12 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2005-10-13
+description: "A middle of the night break-in at a suburban home on the edge of the Vegas desert leads the CSIs to discover an abandoned military compound being used to house a small cult. Once inside, they discover a mass suicide has taken place. However, with 11 bodies and 12 beds, Grissom surmises that the killer may be the one body missing."
 ---
 
 ## Synopsis
 
-A fairly straightforward case, in so far as they go. After dumping they body of Ty Bently in someone's yard, a dozen of unwashed cult members retreat to their compound and eleven of the twelve die by ritual suicide (spiked vodka) to ascend via the mother ship during the [comets.amsmeteors.org/meteors/showers/orionidhistory.html Orionid meteor shower].
+A fairly straightforward case, in so far as they go. After dumping they body of Ty Bently in someone's yard, a dozen of unwashed cult members retreat to their compound and eleven of the twelve die by ritual suicide (spiked vodka) to ascend via the mother ship during the [Orionid meteor shower](https://comets.amsmeteors.org/meteors/showers/orionidhistory.html).
 
 The cult members broke into the house by slashing the screen door, and proceeded to raid the fridge for junk food. They dumped Ty in the hard, who had numerous broken bones, and killed the dog with the same Ketamine they took later during the peak of the meteor shower. The cult was run by Joseph Diamond, who made a habit of luring impressionable young college students to his side, using sex with the woman (and possibly the men). The FBI had been keeping mild tabs on him for years, but generally he'd drug the kids and steal their money (which they'd written home for) and they'd wake up broke with a hangover.
 

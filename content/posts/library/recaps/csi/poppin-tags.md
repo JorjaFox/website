@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-04-13
+description: "The CSI team is lead into the rap music world as they investigate the murders of three rival teen rappers."
 ---
 
 ## Synopsis

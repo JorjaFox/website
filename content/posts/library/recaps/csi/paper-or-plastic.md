@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-02-12
+description: "Police officers go into a grocery store that is being robbed, and the end results have the CSI trying to figure out just what transpired."
 ---
 
 ## Synopsis

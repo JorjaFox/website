@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-10-11
+description: "A construction worker who fell 12 stories to his death at a high-profile construction site is thought to have committed suicide by everyone but Grissom. Meanwhile, a teenaged epileptic boy dies while in session with his female psychologist, and signs suggest the psychologist may be practicing very unconventional methods of 'therapy.'"
 ---
 
 ## Synopsis

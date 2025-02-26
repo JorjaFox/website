@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Jorja Fox"
+description: "Jorja Fox"
 newsreporter: Jenny Eden
 newssource: The Works
 newsurl: https://www.visimag.com/theworks/index.htm

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox to leave 'CSI'"
+description: "Jorja Fox to leave 'CSI'"
 newsreporter: Earth Times
 newssource: Earth Times
 newsurl: https://www.earthtimes.org

@@ -4,6 +4,7 @@ title: "Forever Fabulous"
 slug: "forever-fabulous"
 imdb: https://www.imdb.com/title/tt0176234/
 actorimage: /img/actors/forever-fabulous.jpg
+description: "(originally 'Tiara Tango') The story of pageant organizer and Former Miss Texas Gal 1969, trying to recapture her glory."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/movies/forever-fabulous/fab01.jpg"

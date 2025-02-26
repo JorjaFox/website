@@ -3,13 +3,9 @@ title: "Butterflied"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 12
 date: 2004-01-15
-prodnum: 412
+description: "Grissom tries to pin a murder on an unshakable doctor. A couple is killed and the girl's other boyfriend, the doc, is the prime suspect as the murder weapon was a scalpel. The victim also looks shockingly like Sara."
 ---
 
 ## Synopsis

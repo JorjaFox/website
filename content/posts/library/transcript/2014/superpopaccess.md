@@ -1,5 +1,7 @@
 ---
 title: SuperPopACCESS
+description: 'SuperPopACCESS - 2014-01-26'
+title: SuperPopACCESS
 date: 2014-01-26
 interviewurl: https://www.youtube.com/user/SuperPopACCESS
 transcriber: "Mika A. Epstein"

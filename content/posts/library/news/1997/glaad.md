@@ -4,7 +4,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1997/:title/
 newsyear: "1997"
-newstitle: ER Doctor comes out of the OR and the closet
+description: ER Doctor comes out of the OR and the closet
 date: 1997-02-07
 newsreporter: Staff
 newssource: GLADD

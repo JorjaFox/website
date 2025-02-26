@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Dissecting CSIs Success Story"
+description: "Dissecting CSIs Success Story"
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com

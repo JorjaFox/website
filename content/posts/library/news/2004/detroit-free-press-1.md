@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CBS detects reasons to look forward to fall"
+description: "CBS detects reasons to look forward to fall"
 newsreporter: Staff
 newssource: Detroit Free Press
 newsurl: https://www.freep.com/

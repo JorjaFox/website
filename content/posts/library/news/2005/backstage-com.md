@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "SAG Awards: Million-Dollar Night"
+description: "SAG Awards: Million-Dollar Night"
 newsreporter: Staff
 newssource: Backstage.com
 newsurl: https://www.backstage.com

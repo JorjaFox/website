@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' thesp back on set"
+description: "'CSI' thesp back on set"
 newsreporter: Staff
 newssource: Variety
 newsurl: https://variety.com

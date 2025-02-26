@@ -12,6 +12,7 @@ epnum: Three
 prodnum: 465403
 date: 1996-10-10
 rating: 3
+description: "Benton starts to work as a pediatric surgeon. Mark is sad when Susan goes on vacation without him, and also when he's stuck with a unkillable patient and his very simple son, while Carter befriends fellow intern Dennis Gant but finds himself on Peter's bad side. [ As Jorjan Fox ]"
 ---
 
 _Note: Jorja Fox credited as Jorjan Fox_

@@ -3,13 +3,9 @@ title: "Dead Rails"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 10
 date: 2014-12-14
-prodnum: 327
+description: "The CSI team investigates the bizarre death of a man who was killed not once, but twice."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1510-deadrails-001.jpg

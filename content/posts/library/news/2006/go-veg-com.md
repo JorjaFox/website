@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Investigate Vegetarianism With CSIs Jorja Fox  "
+description: "Investigate Vegetarianism With CSIs Jorja Fox  "
 newsreporter: Staff
 newssource: Go Veg
 newsurl: https://www.goveg.com

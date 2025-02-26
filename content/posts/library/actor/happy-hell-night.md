@@ -4,6 +4,7 @@ title: "Happy Hell Night"
 slug: "happy-hell-night"
 imdb: https://www.imdb.com/title/tt0236283/
 actorimage: /img/actors/happy-hell-night.jpg
+description: "The devil's henchman escapes from an asylum and stops at a fraternity house he visited 25 years before."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/movies/happy-hell-night/hhn01.jpg"

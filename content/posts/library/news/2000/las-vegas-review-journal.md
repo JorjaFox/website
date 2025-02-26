@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: "'C.S.I.' returns to Las Vegas"
+description: "'C.S.I.' returns to Las Vegas"
 newsreporter: Staff
 newssource: Las Vegas Review Journal
 newsurl: https://www.lvrj.com/

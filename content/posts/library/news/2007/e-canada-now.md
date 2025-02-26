@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox Aint Ready To Leave"
+description: "Jorja Fox Aint Ready To Leave"
 newsreporter: E Canada Now
 newssource: E Canada Now
 newsurl: https://www.ecanadanow.com

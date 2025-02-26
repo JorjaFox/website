@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Fake Gay News: Lesbian closed captioner sues employer after termination for adding subtext  "
+description: "Fake Gay News: Lesbian closed captioner sues employer after termination for adding subtext  "
 newsreporter: bad machine
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/blog/badmachine/fake-gay-news-lesbian-closed-captioner-sued

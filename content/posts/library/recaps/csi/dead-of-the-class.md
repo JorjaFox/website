@@ -3,13 +3,9 @@ title: "Dead of the Class"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 17
 date: 2013-03-20
-prodnum: 290
+description: "At his wife's urging, David reluctantly attends his high school reunion -- which becomes a crime scene when the bitchy former high school queen is found dead in a back room."
 ---
 
 ## Synopsis

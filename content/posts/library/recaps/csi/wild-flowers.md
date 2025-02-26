@@ -3,13 +3,9 @@ title: "Wild Flowers"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 3
 date: 2012-10-17
-prodnum: 276
+description: "When a runaway sex slave is murdered during a rave in the desert, the detectives have to find the man responsible."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/13/03-wild-01.jpg

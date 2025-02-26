@@ -3,13 +3,9 @@ title: "Unleashed"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 19
 date: 2011-04-07
-prodnum: 248
+description: "While investigating a woman's death, Sara and Langston turn to a friend of Grissom's for help; after a teenager appears to have committed suicide, Nick and Dr. Robbins save her unborn baby."
 modules: [ "bs5-lightbox" ]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/11/1119-unleashed01.jpg

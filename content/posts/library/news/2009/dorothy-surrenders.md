@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Tell me, who are hot?"
+description: "Tell me, who are hot?"
 newsreporter: Dorothy Snarker
 newssource: Dorothy Surrenders
 newsurl: https://dorothysurrenders.blogspot.com/2009/09/tell-me-who-are-hot.html

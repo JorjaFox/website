@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI: Crime Scene Investigation - The Complete Fifth Season  "
+description: "CSI: Crime Scene Investigation - The Complete Fifth Season  "
 newsreporter: Staff
 newssource: DVD Times
 newsurl: https://www.dvdtimes.co.uk

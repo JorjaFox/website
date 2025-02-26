@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: What's happening now
+description: What's happening now
 newsreporter: Movie City News
 newssource: Movie City News
 newsurl: https://www.moviecitynews.com

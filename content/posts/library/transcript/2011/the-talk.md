@@ -1,5 +1,7 @@
 ---
 title: The Talk
+description: 'The Talk - 2011-04-21'
+title: The Talk
 date: 2011-04-21
 transcriber: "Mika A. Epstein"
 layout: transcript

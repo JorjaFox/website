@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' Axes Two Stars"
+description: "'CSI' Axes Two Stars"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "Jorja Fox"
+description: "Jorja Fox"
 newsreporter: Robert Piper
 newssource: ORIGIN Magazine
 newsurl: https://www.originmagazine.com/2014/11/11/jorja-fox/

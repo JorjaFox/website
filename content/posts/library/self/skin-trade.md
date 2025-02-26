@@ -5,9 +5,12 @@ categories: ["Filmography"]
 tags: ["Documentary", "Animal Rights"]
 website: https://www.skintradethemovie.com/
 imdb: https://www.imdb.com/title/tt1576702/
+description: "What would you do if you found out the 'faux' fur trim on your neck was really made of dog fur? How far will the fur industry go to get you to buy real fur?"
 ---
 
 Originally titled Pets on Your Plate, Skin Trade is a documentary.
+
+What would you do if you found out the "faux" fur trim on your neck was really made of dog fur? How far will the fur industry go to get you to buy real fur? "Skin Trade" takes you on a journey from the birth of the fur industry as fashion through the current trends, misconceptions, and lies perpetrated upon unknowing consumers. Voices from the underground, celebrities, historians, native americans, activists, designers, fashion icons and experts weigh in on the current use of of fur as fashion, which inevitably begs the question, "Why are animals still being killed for fashion?"
 
 ## Synopsis
 

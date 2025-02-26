@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Cold Cases?"
+description: "Cold Cases?"
 newsreporter: Staff
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com

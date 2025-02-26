@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox: Why I Quit 'CSI'  "
+description: "Jorja Fox: Why I Quit 'CSI'  "
 newsreporter: Lynette Rice
 newssource: EW
 newsurl: https://www.ew.com/ew/article/0,,20152746,00.html

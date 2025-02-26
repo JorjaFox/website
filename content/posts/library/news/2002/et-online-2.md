@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: This Week
+description: This Week
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://etonline.com

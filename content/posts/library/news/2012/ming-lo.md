@@ -7,7 +7,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "12-10-11: CSI LAS VEGAS SHOOT, DAY 1"
+description: "12-10-11: CSI LAS VEGAS SHOOT, DAY 1"
 newsreporter: Ming Lo
 newssource: Ming Lo
 newsurl: https://www.minglo.com/2012/10/12-10-11-csi-las-vegas-shoot-day-1/

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Backward Runs Mystery
+description: Backward Runs Mystery
 newsreporter: Staff
 newssource: MetroActive
 newsurl: https://www.metroactive.com/papers/metro/04.05.01/memento-0114.html

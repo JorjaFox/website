@@ -3,13 +3,9 @@ title: "Burden of Proof"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 15
+description: "Grissom investigates the murder of a Las Vegas photographer whose remains were dumped at a nearby body farm where CSIs routinely study corpses, and his findings reveal that the man was apparently shot to death even though there are no bullet fragments in the body. Also, Grissom's leadership is questioned by some members of his staff."
 date: 2002-02-07
-prodnum: 215
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x15-burden-of-proof-001.jpg"

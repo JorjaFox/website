@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: CSI Castmates Are Best Friends
+description: CSI Castmates Are Best Friends
 newsreporter: Staff
 newssource: Teen Television
 newsurl: https://teentelevision.com/d.asp?r=28373

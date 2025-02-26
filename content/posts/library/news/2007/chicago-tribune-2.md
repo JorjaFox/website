@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "News on Spike, Sara Sidle and Santos"
+description: "News on Spike, Sara Sidle and Santos"
 newsreporter: Staff
 newssource: Chicago Tribune
 newsurl: https://chicagotribune.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Shedding some light on season's best trivia  "
+description: "Shedding some light on season's best trivia  "
 newsreporter: Staff
 newssource: Buffalo News
 newsurl: https://www.buffalonews.com

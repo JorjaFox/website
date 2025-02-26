@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Pet Project
+description: Pet Project
 newsreporter: Paul Semel
 newssource: UNICRU
 newsurl: https://www.unicru.com/asp/Breakroom/BrkCfj010427.asp

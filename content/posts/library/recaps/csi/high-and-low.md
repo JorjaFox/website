@@ -3,13 +3,9 @@ title: "High and Low"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 10
 date: 2002-12-12
-prodnum: 310
+description: "Nick and Warrick investigate the death of a man who was apparently thrown from the roof of a six-story building. Evidence reveals that he was dead before he hit the ground. Also, Catherine probes the shooting death of a man who was killed with his own gun, and Grissom's hearing problems cause him to drop out of a case."
 ---
 
 ## Synopsis

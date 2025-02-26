@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI: Changing Times on the Program of the Decade  "
+description: "CSI: Changing Times on the Program of the Decade  "
 newsreporter: I.A.
 newssource: Film.com
 newsurl: https://www.film.com/tv/story/csichangingtimesontheprogramofthedecade/13982602/17338644

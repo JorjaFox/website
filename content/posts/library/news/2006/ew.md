@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Me, Myself, and Eye  "
+description: "Me, Myself, and Eye  "
 newsreporter: Staff
 newssource: EW.com
 newsurl: https://www.ew.com

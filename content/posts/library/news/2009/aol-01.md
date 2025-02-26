@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox Staying on 'CSI.' Will This Help the Ratings? "
+description: "Jorja Fox Staying on 'CSI.' Will This Help the Ratings? "
 newsreporter: Gary Susman
 newssource: AOL Inside TV
 newsurl: https://insidetv.aol.com/2009/10/15/jorja-fox-staying-on-csi-will-this-help-the-ratings/

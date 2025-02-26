@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: "TV Q&A: Did 'CSI' star ever feel 'Lonesome'?"
+description: "TV Q&A: Did 'CSI' star ever feel 'Lonesome'?"
 newsreporter: Staff
 newssource: The Dallas Morning News
 newsurl: https://www.desertnews.com

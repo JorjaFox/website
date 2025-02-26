@@ -3,13 +3,9 @@ title: "Dead Woods"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 12
 date: 2014-12-28
-prodnum: 329
+description: "The CSI team reopens a 10-year-old murder/suicide case when the sole survivor claims her accused father was innocent."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1512-deadwoods-001.jpg

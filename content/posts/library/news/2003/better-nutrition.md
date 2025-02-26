@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: sweet jorja fox
+description: sweet jorja fox
 newsreporter: Barbara Hey
 newssource: Better Nutrition
 newsurl: https://www.betternutrition.com

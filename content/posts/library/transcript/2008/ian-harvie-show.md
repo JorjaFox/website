@@ -1,5 +1,7 @@
 ---
 title: Ian Harvie Show
+description: 'Ian Harvie Show - 2008-01-21'
+title: Ian Harvie Show
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-01-21

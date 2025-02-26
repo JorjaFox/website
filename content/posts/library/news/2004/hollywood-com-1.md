@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "61st Annual Golden Globe Awards: On the Red Carpet"
+description: "61st Annual Golden Globe Awards: On the Red Carpet"
 newsreporter: Staff
 newssource: Hollywood.com
 newsurl: https://www.hollywood.com

@@ -1,5 +1,7 @@
 ---
 title: SpinDaily
+description: 'SpinDaily - 2008-02-04'
+title: SpinDaily
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-02-04

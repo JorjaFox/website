@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Murder at a Hollywood Wedding  "
+description: "Murder at a Hollywood Wedding  "
 newsreporter: Staff
 newssource: ET Television
 newsurl: https://et.tv.yahoo.com/

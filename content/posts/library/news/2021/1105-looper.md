@@ -4,7 +4,7 @@ date: 2021-11-05
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "CSI: Vegas’ Jorja Fox Breaks Down Sara’s Reaction To The ‘Extremely Creepy’ Confrontation"
+description: "CSI: Vegas’ Jorja Fox Breaks Down Sara’s Reaction To The ‘Extremely Creepy’ Confrontation"
 newsreporter: "Scott Chernoff"
 newssource: "Looper"
 newsurl: https://www.looper.com/653804/csi-vegass-jorja-fox-reveals-how-sara-really-feels-about-maxine/

@@ -12,6 +12,7 @@ epnum: Eleven
 prodnum: 465411
 date: 1997-01-16
 rating: 2
+description: "A night that begins slowly soon ignites: Greene risks his career to save a life. Benton discovers Carter's secret. Charlie suffers a beating, and the ER suffers the shocking loss of one of its own."
 ---
 
 ## Summary

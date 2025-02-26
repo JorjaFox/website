@@ -3,13 +3,9 @@ title: "Precious Metal"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 17
 date: 2003-04-03
-prodnum: 318
+description: "A badly decomposed body is discovered in a beat-up chemical-waste drum in the desert. The investigation soon leads Catherine into the world of robotic demolition derbies in which custom-designed robots bash each other in combat-like competitions. Meanwhile, Grissom and Warrick probe the death of a newly married man whose body is found in an alley."
 ---
 
 ## Synopsis

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Terminated Two"
+description: "Terminated Two"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com

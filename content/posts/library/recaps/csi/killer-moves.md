@@ -3,13 +3,9 @@ title: "Killer Moves"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 16
 date: 2014-03-05
-prodnum: 311
+description: "The CSIs investigate the murders of an Elvis impersonator and a bird that are strangely connected."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-001.jpg

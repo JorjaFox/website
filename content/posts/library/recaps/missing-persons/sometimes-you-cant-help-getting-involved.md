@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-11-25
 season: 1
 episode: 9
+description: "Connie and Carlos both have to find missing children. Connie's case is a 4-year old who disappeared at nursery school, and Carlos's is an 8-year old, who is later found badly beaten."
 ---
 
 ## Synopsis

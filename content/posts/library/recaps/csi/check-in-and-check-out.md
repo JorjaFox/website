@@ -3,18 +3,14 @@ title: "Check In and Check Out"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 9
 date: 2013-11-20
-prodnum: 304
+description: "A series of grisly but apparently unrelated murders, which all take place in the same seedy motel room, have the team wondering if the room really is a demonic an deadly site that 'possesses' its inhabitants."
 ---
 
 ## Synopsis
 
-A series of grisly but apparently unrelated murders, which all take place in the same seedy motel room, have the team wondering if the room really is a demonic an deadly site that 'possesses' its inhabitants.
+The CSI team is called in to investigate the stabbing of a couple found at a local motel that is reminiscent of two incidents that occurred in the same room.
 
 ## Review
 

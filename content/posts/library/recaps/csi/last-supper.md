@@ -3,13 +3,9 @@ title: "Last Supper"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 4
 date: 2013-10-16
-prodnum: 299
+description: "When contestants on a reality cooking show accidentally eat human flesh during a competition, the CSI team is brought in to investigate."
 ---
 
 ## Synopsis

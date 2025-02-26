@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Fired 'CSI' Star Hopes to Get Another Chance"
+description: "Fired 'CSI' Star Hopes to Get Another Chance"
 newsreporter: Staff
 newssource: Reuters
 newsurl: https://www.reuters.com

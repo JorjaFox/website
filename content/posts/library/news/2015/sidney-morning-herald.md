@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "'You don't win friends with salad': TV's best (and worst) vegetarians"
+description: "'You don't win friends with salad': TV's best (and worst) vegetarians"
 newsreporter: Ellen Laughton
 newssource: Sidney Morning Herald
 newsurl: https://www.smh.com.au/entertainment/tv-and-radio/you-dont-win-friends-with-saladtvs-best-and-worst-vegetarians-20150921-gjpo0b.html

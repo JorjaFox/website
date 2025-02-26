@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "Jorja's Lionhearted Activism"
+description: "Jorja's Lionhearted Activism"
 newsreporter: Sarah Marloff
 newssource: Entertainment Weekly
 newsurl: https://sharpheels.com/2014/02/jorjafoxlions/

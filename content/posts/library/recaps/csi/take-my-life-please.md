@@ -3,13 +3,9 @@ title: "Take My Life, Please!"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 20
 date: 2010-04-29
-prodnum: 226
+description: "A legendary comic from the good old days of Las Vegas is set to reunite with his partner on stage for one night only, until one half of the famous duo is found dead. "
 ---
 
 ## Synopsis

@@ -12,6 +12,7 @@ epnum: 15
 date: 1994-02-03
 season: 1
 episode: 15
+description: "Ray is shocked when he is told his ex-partner is being transferred into his department. Problem is she is female and rumours were rife that they were having an affair. Meanwhile a boy goes missing from party of schoolchildren on a museum tour."
 ---
 
 ## Synopsis

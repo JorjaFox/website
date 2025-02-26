@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: NYSE
+description: NYSE
 newsreporter: Staff
 newssource: New York Stock Exchange
 newsurl: https://www.nyse.com/

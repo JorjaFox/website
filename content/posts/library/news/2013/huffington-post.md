@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "'CSI' Preview: Is Sara Cheating On Grissom? (EXCLUSIVE VIDEO)  "
+description: "'CSI' Preview: Is Sara Cheating On Grissom? (EXCLUSIVE VIDEO)  "
 newsreporter: Laura Prudom
 newssource: Huffington Post
 newsurl: https://www.huffingtonpost.com/2013/02/19/csi-sara-grissom\_n\_2715275.html

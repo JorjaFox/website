@@ -3,6 +3,7 @@ title: "News Articles (2011)"
 transcriber: "Mika A. Epstein"
 layout: news-index
 topic: index
+searchExclude: true
 date: 2011-01-01
 permalink: /news/2011/
 newsyear: "2011"

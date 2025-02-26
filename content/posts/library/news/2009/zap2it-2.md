@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "'CSI's' Jorja Fox returns  "
+description: "'CSI's' Jorja Fox returns  "
 newsreporter: Amy Amatangelo
 newssource: TV Gal
 newsurl: https://blog.zap2it.com/tvgal/2009/08/its-a-mad-mad-world-and-i-love-watching-it.html

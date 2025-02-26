@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Joanne Weintraub: Live from L.A.  "
+description: "Joanne Weintraub: Live from L.A.  "
 newsreporter: Staff
 newssource: JS Online
 newsurl: https://www.jsonline.com/

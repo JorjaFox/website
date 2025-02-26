@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Celebrities give props to the environment
+description: Celebrities give props to the environment
 newsreporter: Staff
 newssource: The Sierra Club
 newsurl: https://www.sierraclub.org/

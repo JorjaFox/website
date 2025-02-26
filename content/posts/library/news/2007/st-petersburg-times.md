@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "An uninspired ending for CSI character  "
+description: "An uninspired ending for CSI character  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times
 newsurl: https://www.sptimes.com/

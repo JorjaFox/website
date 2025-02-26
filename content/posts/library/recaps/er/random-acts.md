@@ -12,6 +12,7 @@ epnum: Twenty
 prodnum: 465420
 date: 1997-05-01
 rating: 2
+description: "A brother donates a kidney to his sister, a stroke victim receives life-saving treatment, and Jeanie's ex is accepted into a new AIDS-drug study. But violence involving Greene casts a pall over the acts of healing and compassion."
 ---
 
 ## Summary

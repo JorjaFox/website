@@ -3,13 +3,9 @@ title: "Pirates of the Third Reich"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 15
 date: 2006-02-09
-prodnum: 615
+description: "When the body of a young woman is found half-buried in the desert outside of Vegas, Grissom teams up with Lady Heather to discover the cause of the victim's unusual death. The mystery deepens when the CSIs discover that the woman was participating in a clinical study where doctors performed experiments for sleep deprivation."
 ---
 
 ## Synopsis
@@ -24,7 +20,7 @@ Lady Heather confirms the body is Zoe's, and even though she is torn up, Gil que
 
 Results show that Zoe had _eaten_ her own hand off, and the CSIs sweep the desert for her hand. Instead they found the house of Jacob Wolfwitz (from the Clinic), who happens to have a variety of genetically modified plants, including ones that smell like decomposing bodies. When they go to the door, however, it's Lady Heather who enters, having broken in. She explains to Grissom that she was hoping Wolfwitz would invite the cops in and they would find something probative. Instead, he dismisses the charges (never knowing it's Lady Heather or Zoe's mother), and Lady Heather whips out a manuscript she stole from his house, saying it was too expensive and must have been stolen.
 
-As it turns out, the manuscript was stolen from the UNLV library, which is enough to get a warrent. Before they can act on it, Wolfwitz is found dead in his car, having been frozen solid at least two days before.
+As it turns out, the manuscript was stolen from the UNLV library, which is enough to get a warrant. Before they can act on it, Wolfwitz is found dead in his car, having been frozen solid at least two days before.
 
 This sets everyone on edge, as the day before Catherine had interviewed Wolfwitz, and the evening before, Lady heather had slept with him. As she explains to Grissom, she needed a sample of his DNA for the CSIs. She also explains that Zoe had left Harvard because she'd gotten pregnant with her therapist's child. As he was married and a doctor, Lady Heather had his license revoked, which was when Lady Heather and Zoe stopped speaking.
 

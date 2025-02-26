@@ -3,13 +3,9 @@ title: "Random Acts of Violence"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 13
 date: 2003-01-30
-prodnum: 313
+description: "Warrick investigates the drive by murder of a young girl in his old neighborhood. The girl's father is a friend and mentor of Warrick's as well. Warrick struggles to control his emotions to the point where Grissom pulls him off of the case. Nick tackles the murder of a computer company employee. The only supects are the three other employees in the building."
 ---
 
 ## Synopsis

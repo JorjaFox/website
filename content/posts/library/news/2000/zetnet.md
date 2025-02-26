@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: "Shadows on the Wall: MEMENTO"
+description: "Shadows on the Wall: MEMENTO"
 newsreporter: Staff
 newssource: Zetnet
 newsurl: https://www.zetnet.com/

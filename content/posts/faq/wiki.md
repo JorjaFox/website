@@ -1,6 +1,7 @@
 ---
 title: "Looking for the Wiki?"
 layout: library
+description: "Looking for the old Wiki? You're already there!"
 ---
 
 {{< alert type="info" >}}

@@ -4,7 +4,7 @@ date: 2022-09-24
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2022"
-newstitle: "Here's How CSI: Vegas Will Write Out Sara and Gil in Season 2"
+description: "Here's How CSI: Vegas Will Write Out Sara and Gil in Season 2"
 newsreporter: "Matt Webb Mitovitch"
 newssource: "TVLine"
 newsurl: https://tvline.com/2022/09/24/csi-vegas-video-season-2-premiere-sara-gil-not-returning/

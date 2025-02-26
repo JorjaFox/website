@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Local superdelegate reports from Democratic convention  "
+description: "Local superdelegate reports from Democratic convention  "
 newsreporter: Jason Rae
 newssource: Leader-Telegram
 newsurl: https://www.leadertelegram.com/story-news_local.asp?id=BHJQ5EUUEQV

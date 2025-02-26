@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "5 things we learned at the 'CSI' farewell salute"
+description: "5 things we learned at the 'CSI' farewell salute"
 newsreporter: Mary Sollosi
 newssource: Entertainment Weekly
 newsurl: https://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute

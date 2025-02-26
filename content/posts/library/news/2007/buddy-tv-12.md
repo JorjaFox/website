@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Fans Continue to Show Support for Former 'CSI' Actress  "
+description: "Fans Continue to Show Support for Former 'CSI' Actress  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com

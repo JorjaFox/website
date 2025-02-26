@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: "The Hot 20: CSI's Foxy Lady"
+description: "The Hot 20: CSI's Foxy Lady"
 newsreporter: Staff
 newssource: Shape Magazine
 newsurl: https://www.shapemag.com

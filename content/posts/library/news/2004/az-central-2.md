@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'Crime Scene' solution"
+description: "'Crime Scene' solution"
 newsreporter: Staff
 newssource: AZ Central
 newsurl: https://www.azcentral.com/

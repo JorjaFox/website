@@ -3,13 +3,9 @@ title: "Caged"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 7
 date: 2001-11-08
-prodnum: 207
+description: "A book restorer at a historical society is discovered dead, apparently from natural causes, in a metal cage (a temperature and humidity controlled room) that is used to protect rare books---but Grissom and Nick suspect she was murdered and their only possible witness: an autistic co-worker."
 ---
 
 ## Synopsis

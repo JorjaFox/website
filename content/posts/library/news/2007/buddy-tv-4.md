@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "BuddyTV SpoilerFix TVj session by Isabelle"
+description: "BuddyTV SpoilerFix TVj session by Isabelle"
 newsreporter: Isabelle
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/buddytv-spoilerfix/7312007-buddytv-spoilerfix-tvj-8915.aspx

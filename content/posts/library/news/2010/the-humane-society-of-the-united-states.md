@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Jorja Fox Joins The HSUS to Help End Dogfighting in Chicago  "
+description: "Jorja Fox Joins The HSUS to Help End Dogfighting in Chicago  "
 newsreporter: Staff
 newssource: The Humane Society of the United States
 newsurl: https://www.humanesociety.org/news/news/2010/02/spotlight\_humane\_chicago_021210.html

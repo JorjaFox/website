@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Exclusive! Jorja Fox Speaks on Her 'CSI' Return  "
+description: "Exclusive! Jorja Fox Speaks on Her 'CSI' Return  "
 newsreporter: Megan Walsh-Boyle
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/news/exclusive-jorja-fox-speaks-on-her-csi-return-1853.html

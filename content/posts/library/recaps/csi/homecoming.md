@@ -3,13 +3,9 @@ title: "Homecoming"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 21
 date: 2012-05-09
-prodnum: 272
+description: "When a friend of the Sheriff becomes a prime suspect in his wife's brutal murder, the investigation's political fallout reveals the truth behind Russell's troubled history with Finlay. Also, an old foe of the CSIs resurfaces and threatens the team."
 ---
 
 ## Synopsis

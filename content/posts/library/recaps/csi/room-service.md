@@ -3,13 +3,9 @@ title: "Room Service"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 2
 date: 2005-09-29
-prodnum: 602
+description: "An up and coming young movie star is found dead after a night of partying in his hotel suite with his entourage of groupies. Meanwhile, downstairs at the same hotel, the immigrant kitchen workers may have turned against each other and committed murder."
 ---
 
 ## Synopsis

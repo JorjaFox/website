@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Jorja Fox till Fredrik Reinfeldt: StÃ¤ng minkfarmerna!  "
+description: "Jorja Fox till Fredrik Reinfeldt: StÃ¤ng minkfarmerna!  "
 newsreporter: Administrator
 newssource: Sveket mot minkarna
 newsurl: https://sveketmotminkarna.se/kampanjen/nyheter/jorja-fox-till-fredrik-reinfeldt-stÃ¤ng-minkfarmerna

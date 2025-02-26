@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "What is Up With Gil And Sara?  "
+description: "What is Up With Gil And Sara?  "
 newsreporter: Staff
 newssource: CBS News
 newsurl: https://www.cbsnews.com

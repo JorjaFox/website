@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Breaking! Jorja Fox Confirms Her CSI Departure"
+description: "Breaking! Jorja Fox Confirms Her CSI Departure"
 newsreporter: Staff
 newssource: Watch With Kristin
 newsurl: https://www.eonline.com

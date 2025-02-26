@@ -6,7 +6,7 @@ layout: news
 newsyear: "2011"
 permalink: /news/2011/:title/
 
-newstitle: "Interview: Christopher Barbour"
+description: "Interview: Christopher Barbour"
 newsreporter: Shane S Saunders
 newssource: Shane S. Saunders
 newsurl: https://shanessaunders.com/2011/03/10/interview-csi-writer-christopher-barbour/

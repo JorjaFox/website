@@ -1,5 +1,7 @@
 ---
 title: Matters of the Heart
+description: 'Matters of the Heart - 2005-10-10'
+title: Matters of the Heart
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2005-10-10

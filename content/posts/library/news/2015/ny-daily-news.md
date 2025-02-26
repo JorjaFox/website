@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "'CSI' wraps up epic 15-year run with a two-hour movie"
+description: "'CSI' wraps up epic 15-year run with a two-hour movie"
 newsreporter: David Hinckley
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/entertainment/tv/csi-two-hour-goodbye-article-1.2370519

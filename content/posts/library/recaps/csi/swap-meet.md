@@ -3,13 +3,9 @@ title: "Swap Meet"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 5
 date: 2004-10-28
-prodnum: 505
+description: "The team investigates a group of swingers in a gated community when one of them is found murdered after attending one of the group's parties."
 ---
 
 ## Synopsis

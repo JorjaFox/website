@@ -1,5 +1,7 @@
 ---
 title: The Early Show
+description: 'The Early Show - 2002-05-15'
+title: The Early Show
 date: 2002-05-15
 transcriber: David Masters
 layout: transcript

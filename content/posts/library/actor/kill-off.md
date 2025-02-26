@@ -4,6 +4,7 @@ title: "The Kill-Off"
 slug: "kill-off"
 imdb: https://www.imdb.com/title/tt0097665/
 actorimage: /img/actors/the-kill-off.jpg
+description: "A man decides to kill his gossipy wife, whom everyone hates..."
 ---
 
 ## Synopsis

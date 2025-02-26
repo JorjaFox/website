@@ -3,13 +3,9 @@ title: "Keep Calm and Carry-on"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 12
 date: 2014-01-15
-prodnum: 307
+description: "An inbound plane's passengers become the victims of an onboard thief, but when one of the passengers is found dead, the petty crime turns into a murder investigation."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1412-keepcalmcarryon-001.jpg
@@ -17,8 +13,6 @@ photogallery:
 ---
 
 ## Synopsis
-
-An inbound plane's passengers become the victims of an onboard thief, but when one of the passengers is found dead, the petty crime turns into a murder investigation.
 
 On a flight to from Newark to Las Vegas, Janet Riggins (a local) is hit on by a young man (Kenny Green) who is later robbed on the flight. While she does not appear to be missing anything, she is found dead on the side of the road by the airport, seemingly having been thrown from a fast moving vehicle. The man who hit on her is seen sporting a new black-eye around the same time. Kenny saw Janet at baggage claim and confronted her about his stolen watch. When he takes her phone, she decks him and runs off.
 

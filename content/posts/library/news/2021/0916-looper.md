@@ -4,7 +4,7 @@ date: 2021-09-16
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "The Real Reason George Eads And Jorja Fox Were Fired From CSI"
+description: "The Real Reason George Eads And Jorja Fox Were Fired From CSI"
 newsreporter: "Scott Chernoff"
 newssource: "Looper"
 newsurl: https://www.looper.com/607579/the-real-reason-george-eads-and-jorja-fox-were-fired-from-csi/

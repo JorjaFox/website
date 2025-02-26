@@ -3,13 +3,9 @@ title: "Willows In The Wind"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 12
 date: 2012-01-25
-prodnum: 263
+description: "A grisly string of killings being investigated by both the LVPD and the FBI has the authorities on a wild goose chase - until Russell comes up with a theory that ultimately leads to the capture of the real bad guys."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - https://assets.jorjafox.net/img/gallery/tv/csi/12/1212-willows-001.jpg

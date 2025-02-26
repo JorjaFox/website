@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "CSI Review: 'House of Hoarders'"
+description: "CSI Review: 'House of Hoarders'"
 newsreporter: Alithea
 newssource: TV Fanatic
 newsurl: https://www.tvfanatic.com/2010/10/csi-review-house-of-hoarders/

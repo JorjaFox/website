@@ -8,7 +8,7 @@ newsyear: "2000"
 newssource: Alliance Atlantis
 newsreporter: Staff
 newsurl: https://www.allianceatlantis.com/
-newstitle: Premiering on CBS Television Network this Fall
+description: Premiering on CBS Television Network this Fall
 ---
 
 Starring William Petersen (To Live and Die in L.A.) and Marg Helgenberger (China Beach)

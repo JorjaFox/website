@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "About that sentimental 'CSI' sendoff for Grissom ...  "
+description: "About that sentimental 'CSI' sendoff for Grissom ...  "
 newsreporter: Aaron Barnhart
 newssource: TV Barn
 newsurl: https://blogs.kansascity.com/tvbarn/2009/01/about-that-sent.html

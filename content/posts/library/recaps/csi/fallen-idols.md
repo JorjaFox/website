@@ -3,13 +3,9 @@ title: "Fallen Idols"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 17
 date: 2007-02-22
-prodnum: 717
+description: "Grissom's quip that the young lovers may have run off to Mexico is soon quashed by the discovery of drops of blood by Ryan's vacant parking spot at the school. After finding a letterman jacket and cheerleading sweater in the field house and a pool of Ryan's blood nearby, the team tries to determine what went awry."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/717-fallenidols_001.jpg"

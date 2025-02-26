@@ -12,6 +12,7 @@ epnum: Eighteen
 prodnum: 225917
 date: 2000-04-05
 rating: 4
+description: "The President's daughter is questioned by a writer about a party she attended; Josh discusses monetary reparations for descendants of slaves."
 ---
 
 ## Summary

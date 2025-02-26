@@ -3,13 +3,9 @@ title: "Lady Heather's Box"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 15
 date: 2003-02-13
-prodnum: 315
+description: "Grissom investigates the murder of two men that leads him to a new encounter with Lady Heather. Catherine is desperate to find out what lead to the near death of her daughter and why her ex, Eddie, disappeared."
 ---
 
 ## Synopsis

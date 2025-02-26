@@ -3,18 +3,14 @@ title: "To Halve and to Hold"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 14
 date: 2001-02-15
-prodnum: 113
+description: "Grissom and Catherine piece together clues while assembling parts of a skeleton that was apparently cut up with a saw and then scattered on a mountain; Warrick and Sara investigate the death of a male stripper who died shortly after performing at a bachelorette party."
 ---
 
 ## Synopsis
 
-Grissom and Catherine piece together clues while assembling parts of a skeleton that was apparently cut up with a saw and then scattered on a mountain; Warrick and Sara investigate the death of a male stripper who died shortly after performing at a bachelorette party.
+When a single human bone is discovered in the desert, it's up to Catherine, Grissom and Nick to piece the skeleton together. Meanwhile, Sara and Warrick investigate the death of a male stripper who died shortly after performing at a bachelorette party.
 
 ## Review
 

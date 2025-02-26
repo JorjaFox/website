@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI: The Departure of Sara Sidle "
+description: "CSI: The Departure of Sara Sidle "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/

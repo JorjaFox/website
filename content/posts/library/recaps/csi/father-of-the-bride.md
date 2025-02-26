@@ -3,13 +3,9 @@ title: "Father of the Bride"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 20
 date: 2011-04-28
-prodnum: 249
+description: "After serial killer Nate Haskell escapes from prison, he resurfaces after he emails a disturbing video to the father of one of his brides, whom he is threatening to kill."
 ---
 
 ## Synopsis

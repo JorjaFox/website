@@ -3,13 +3,9 @@ title: "Assume Nothing"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 1
 date: 2003-09-25
-prodnum: 402
+description: "Two couples meet in a bar and one of the couples is murdered. When a second couple is murdered in a similar fashion the team suspects a pair of serial killers are on the loose."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/402-assumenothing_001.jpg"

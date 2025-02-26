@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: TV Gal Critiques Techniques
+description: TV Gal Critiques Techniques
 newsreporter: Staff
 newssource: TV Gal
 newsurl: https://tv.zap2it.com

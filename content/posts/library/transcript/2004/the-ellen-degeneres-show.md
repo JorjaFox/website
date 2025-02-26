@@ -1,5 +1,7 @@
 ---
 title: The Ellen Degeneres Show
+description: 'The Ellen Degeneres Show - 2004-05-18'
+title: The Ellen Degeneres Show
 date: 2004-05-18
 transcriber: David Masters
 layout: transcript

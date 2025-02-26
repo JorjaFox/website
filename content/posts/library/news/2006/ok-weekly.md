@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Foxy Lady"
+description: "Foxy Lady"
 newsreporter: Staff
 newssource: OK Weekly
 newsurl: https://okmagazine.com/

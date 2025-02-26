@@ -6,7 +6,7 @@
 {{ $tags     := slice $pagedate }}
 
 {{ $news_pages    := where .Site.Pages.ByDate "Layout" "news" }}
-{{ $news_articles := where $news_pages "Params.newstitle" "ne" nil }}
+{{ $news_articles := where $news_pages "Params.newsreporter" "ne" nil }}
 {{ $news_year     := where $news_articles ".Params.newsyear" "eq" $pagedate }}
 
 {{ $len := len $news_year }}
@@ -33,7 +33,7 @@
                 <tr>
                     <td>{{ .Date.Format "January 02" }}, {{ $pagedate }}</td>
                     <td><a href="{{ .Permalink }}">{{ .Params.newssource }}</a></td>
-                    <td>{{ htmlUnescape .Params.newstitle }}</td>
+                    <td>{{ htmlUnescape .Description }}</td>
                 </tr>
             {{ end }}
         {{ else }}
@@ -42,7 +42,7 @@
                     <td>{{ .Date.Format "January 02" }}</td>
                     <td><a href="{{ .Permalink }}">{{ .Params.newssource }}</a></td>
                     <td>
-                        {{ htmlUnescape .Params.newstitle }}
+                        {{ htmlUnescape .Description }}
                         {{ if not .Lastmod.IsZero }}
                             <script>
                                 // Current Date

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "The menu? Food for thought  "
+description: "The menu? Food for thought  "
 newsreporter: Staff
 newssource: Calendarlive.com
 newsurl: https://Calendarlive.com

@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-09-30
 season: 1
 episode: 3
+description: "A child is kidnapped from his back yard; an optometrist vanishes on his way home from work; and a young woman doesn't return from the grocery store."
 ---
 
 ## Synopsis

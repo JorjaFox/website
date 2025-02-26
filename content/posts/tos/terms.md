@@ -4,6 +4,7 @@ date: '2015-10-01'
 updated: '2024-07-31'
 author: 'Mika E. (Ipstenu)'
 layout: library
+description: "Terms of Use"
 ---
 
 {{< alert color="success" >}}Last Updated: **20 July 2024**{{< /alert >}}

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Romance Secrets from 'CSI'"
+description: "Romance Secrets from 'CSI'"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://www.etonline.com

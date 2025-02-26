@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: 'Jorja Fox Says Sayonara to "CSI"'
+description: 'Jorja Fox Says Sayonara to "CSI"'
 newsreporter: TV Fodder
 newssource: TV Fodder
 newsurl: https://www.tvfodder.com

@@ -3,13 +3,9 @@ title: "Sweet Jane"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 12
 date: 2007-01-18
-prodnum: 713
+description: "Catherine investigates the murder of a runaway teen whose naked body is found in a desert lot behind a hotel. The investigation reveals the dead girl may be the victim of a serial killer whose slayings may go back decades."
 ---
 
 ## Synopsis

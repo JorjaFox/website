@@ -7,6 +7,7 @@ showname: "E.R."
 showslug: er
 station: NBC
 date: 1997-04-24
+description: "A mouse in the house - and perhaps a new doctor-in-training, too. A genetically engineered lab mouse escapes into the ER. Hathaway weighs her career options after she scores high on the MCAT."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/er/3x19-001.jpg"

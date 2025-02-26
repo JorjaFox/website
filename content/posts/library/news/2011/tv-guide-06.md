@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Exclusive First Look: Ted Danson on CSI  "
+description: "Exclusive First Look: Ted Danson on CSI  "
 newsreporter: TV Guide Magazine News
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com/News/Ted-Danson-CSI-1035847.aspx

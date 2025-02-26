@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "DNC Report"
+description: "DNC Report"
 newsreporter: Cris Seligman
 newssource: Arkansas Tonight
 newsurl: https://arkansastonight.com/2008/08/dnc-report.html

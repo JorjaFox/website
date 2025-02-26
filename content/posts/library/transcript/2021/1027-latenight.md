@@ -1,5 +1,7 @@
 ---
 title: "'We Don't Carry Guns, We Have Magnifying Glasses' - Jorja Fox On The Flawed Heroes Of 'CSI: Vegas'"
+description: "'We Don't Carry Guns, We Have Magnifying Glasses' - Jorja Fox On The Flawed Heroes Of 'CSI: Vegas' - 2021-10-27"
+title: "'We Don't Carry Guns, We Have Magnifying Glasses' - Jorja Fox On The Flawed Heroes Of 'CSI: Vegas'"
 date: 2021-10-27
 transcriber: "Mika A. Epstein"
 layout: transcript

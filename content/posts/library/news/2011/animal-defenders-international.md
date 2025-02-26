@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Jorja Fox fans raise $600 for rescued lions"
+description: "Jorja Fox fans raise $600 for rescued lions"
 newsreporter: Staff
 newssource: ADI International
 newsurl: https://www.ad-international.org/take_action/go.php?id=2187&si=95

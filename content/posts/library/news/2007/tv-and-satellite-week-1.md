@@ -7,7 +7,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI uncovered"
+description: "CSI uncovered"
 newsreporter: Staff
 newssource: TV & Satellite Week
 newsurl: https://www.ipcmedia.com/

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Showbiz people briefs
+description: Showbiz people briefs
 newsreporter: Staff
 newssource: Find Law
 newsurl: https://news.findlaw.com/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Rock On - This Year's Emmy Winner Returns"
+description: "Rock On - This Year's Emmy Winner Returns"
 newsreporter: TVGal
 newssource: TVGal
 newsurl: https://blog.zap2it.com

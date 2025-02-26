@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Ask Stacy: Who Makes More, 50 Cent or Nicole Kidman?"
+description: "Ask Stacy: Who Makes More, 50 Cent or Nicole Kidman?"
 newsreporter: Staff
 newssource: National Ledger
 newsurl: https://www.nationalledger.com

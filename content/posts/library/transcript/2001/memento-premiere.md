@@ -1,5 +1,7 @@
 ---
 title: Memento Premiere
+description: 'Memento Premiere - 2001-01-01'
+title: Memento Premiere
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2001-01-01

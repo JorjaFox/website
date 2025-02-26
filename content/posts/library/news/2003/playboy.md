@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: "Playboy's 20 Q"
+description: "Playboy's 20 Q"
 newsreporter: Staff
 newssource: Playboy Magazine
 newsurl: https://www.playboy.com/

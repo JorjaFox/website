@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "The Miniature Killer Is Revealed - But Where's Sara?"
+description: "The Miniature Killer Is Revealed - But Where's Sara?"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

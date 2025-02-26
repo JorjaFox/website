@@ -3,13 +3,9 @@ title: "Paper or Plastic"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 14
 date: 2004-02-12
-prodnum: 413
+description: "Police officers go into a grocery store that is being robbed, and the end results have the CSI trying to figure out just what transpired."
 ---
 
 ## Synopsis

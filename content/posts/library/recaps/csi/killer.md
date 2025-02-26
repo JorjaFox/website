@@ -3,13 +3,9 @@ title: "Killer"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 14
 date: 2006-02-02
-prodnum: 614
+description: "In a CSI first, a crime will be shown from the killer's perspective.."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/06/614-killer_01.jpg"

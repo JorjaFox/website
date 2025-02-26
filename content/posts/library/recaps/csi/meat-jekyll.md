@@ -3,13 +3,9 @@ title: "Meat Jekyll"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 23
 date: 2010-05-13
-prodnum: 229
+description: "The CSI's lives are on the line as they close in on the elusive Dr. Jekyll, and more than one member of the team may not live to see his capture."
 ---
 
 ## Synopsis

@@ -6,6 +6,7 @@ tags:
   - Environmentalism
   - "Animal Rights"
 website: https://www.idausa.org
+description: "In Defense of Animals makes a difference for animals all over the world through our hard-hitting campaigns, direct rescue, and sanctuary care."
 ---
 
 "In Defense of Animals" (IDA)'s mission is to end animal exploitation, cruelty, and abuse by protecting and advocating for the rights, welfare, and habitats of animals, as well as to raise their status beyond mere property, commodities, or things.

@@ -4,6 +4,7 @@ author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/gist/
 date: "2000-08-20"
+description: "Biography from Gist.tv"
 ---
 
 * Birthplace: Melbourne Beach, Florida

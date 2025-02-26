@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
+description: "CSI: Sara Gets Five Episodes As Riley Leaves The Lab  "
 newsreporter: Staff
 newssource: AceShowBiz
 newsurl: https://www.aceshowbiz.com/news/view/00026009.html

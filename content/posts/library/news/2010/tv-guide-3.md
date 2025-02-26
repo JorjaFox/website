@@ -6,7 +6,7 @@ layout: news
 newsyear: "2010"
 permalink: /news/2010/:title/
 
-newstitle: "Best Bets  "
+description: "Best Bets  "
 newsreporter: Staff
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com/

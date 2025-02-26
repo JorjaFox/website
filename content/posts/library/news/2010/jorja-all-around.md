@@ -6,7 +6,7 @@ layout: news
 newsyear: "2010"
 permalink: /news/2010/:title/
 
-newstitle: "JAA Exclusive: Interview with Caryn Mower  "
+description: "JAA Exclusive: Interview with Caryn Mower  "
 newsreporter: Ann (iconraven)
 newssource: Jorja All Around
 newsurl: https://community.livejournal.com/jorjaallaround/658307.html

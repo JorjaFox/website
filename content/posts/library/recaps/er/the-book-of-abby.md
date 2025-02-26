@@ -12,6 +12,7 @@ epnum: 3
 prodnum: 3
 date: 2008-10-16
 rating: 0
+description: "Abby gets a job in Boston and tries to leave County General quietly, but the staff makes it known how much they will miss her. Abby says goodbye and leaves for Boston with Kovač and her son."
 ---
 
 _Note: Jorja Fox does not appear in this episode._

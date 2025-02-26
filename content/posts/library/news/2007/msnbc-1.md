@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Should 'CSI's' Sara Sidle live or die?"
+description: "Should 'CSI's' Sara Sidle live or die?"
 newsreporter: MSNBC
 newssource: MSNBC
 newsurl: https://www.msnbc.msn.com/id/20958227/

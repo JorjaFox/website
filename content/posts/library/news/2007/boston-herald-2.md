@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' sendoff  "
+description: "'CSI' sendoff  "
 newsreporter: Mark A. Perigard
 newssource: Boston Herald
 newsurl: https://news.bostonherald.com/entertainment/television/reviews/view.bg?articleid=1044674

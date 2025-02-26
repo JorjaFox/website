@@ -5,6 +5,7 @@ layout: advocacy
 tags:
   - Health
 website: https://www.komen.org/
+description: "The global leader of the breast cancer movement."
 ---
 
 Susan G. Komen fought breast cancer with her heart, body and soul. Throughout her diagnosis, treatments, and endless days in the hospital, she spent her time thinking of ways to make life better for other women battling breast cancer instead of worrying about her own situation. That concern for others continued even as Susan neared the end of her fight. Moved by Susan's compassion for others and committed to making a difference, Nancy G. Brinker promised her sister that she would do everything in her power to end breast cancer forever.

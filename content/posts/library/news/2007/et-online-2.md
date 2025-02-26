@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Fresh Face Joins the Cast of 'CSI'"
+description: "Fresh Face Joins the Cast of 'CSI'"
 newsreporter: Staff
 newssource: ET Online
 newsurl: https://www.etonline.com

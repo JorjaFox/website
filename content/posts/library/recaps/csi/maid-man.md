@@ -3,13 +3,9 @@ title: "Maid Man"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 4
 date: 2011-10-12
-prodnum: 255
+description: "The CSIs attend the gala grand opening of a mob museum, only to witness an attempted hit on mob lawyer and former mayor Oscar Goodman."
 ---
 
 ## Synopsis

@@ -3,13 +3,9 @@ title: "De Los Muertos"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 14
 date: 2014-02-05
-prodnum: 309
+description: "When the CSI team works two separate investigations, one involving a woman found murdered in Mexico and another of a local couple found dead in their driveway, they find the evidence in one case may help the other."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-001.jpg

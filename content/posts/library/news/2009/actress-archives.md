@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox Returning To Rescue 'CSI'  "
+description: "Jorja Fox Returning To Rescue 'CSI'  "
 newsreporter: Actress Archives
 newssource: Actress Archives
 newsurl: https://www.actressarchives.com/news.php?id=17528

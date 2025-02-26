@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "CSI Crime File - Sept. 22"
+description: "CSI Crime File - Sept. 22"
 newsreporter: Staff
 newssource: MSNBC
 newsurl: https://msnbc.com

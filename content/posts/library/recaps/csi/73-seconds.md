@@ -3,13 +3,9 @@ title: "73 Seconds"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 1
 date: 2011-09-12
-prodnum: 252
+description: "A crazy, chaotic shoot-out on a hotel tram leaves two dead, almost no witnesses, and a lot of contradictory evidence; another dead man in Panaca County has a young man’s face and an old man’s body."
 ---
 
 ## Synopsis

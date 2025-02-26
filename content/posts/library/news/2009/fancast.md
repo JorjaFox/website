@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Fall TV Preview: Returning Favorites  "
+description: "Fall TV Preview: Returning Favorites  "
 newsreporter: Tracy Phillips
 newssource: Fancast
 newsurl: https://www.fancast.com/blogs/tv-news/fall-tv-preview-returning-favorites/

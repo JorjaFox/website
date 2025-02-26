@@ -2,6 +2,7 @@
 title: Something Went Wrong
 date: '2024-08-14'
 layout: library
+searchExclude: true
 ---
 
 {{< alert color="warning" icon="fas fa-triangle-exclamation" >}}

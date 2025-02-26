@@ -1,5 +1,7 @@
 ---
 title: CSI Season 1 DVD extras
+description: 'CSI Season 1 DVD extras - 2001-07-01'
+title: CSI Season 1 DVD extras
 date: 2001-07-01
 transcriber: David Masters
 layout: transcript

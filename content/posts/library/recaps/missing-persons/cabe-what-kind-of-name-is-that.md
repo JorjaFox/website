@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1993-09-23
 season: 1
 episode: 2
+description: "Carlos brings in photos of his newborn son. Bobby searches for the missing son of a Filipino lady, meanwhile a little boy is found who hasn't been reported missing."
 ---
 
 ## Synopsis

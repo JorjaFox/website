@@ -4,13 +4,9 @@ slug: crash-burn
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 17
+description: "An elderly woman crashes her car into a crowded restaurant. One of the patrons is Sara's paramedic boyfriend. Grissom and Nick investigate the possible carbon monoxide murder of a woman in her home."
 date: 2003-03-13
-prodnum: 317
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_002.jpg"

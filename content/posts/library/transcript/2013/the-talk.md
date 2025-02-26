@@ -1,5 +1,7 @@
 ---
 title: The Talk (2 April 2013)
+description: 'The Talk (2 April 2013) - 2013-04-02'
+title: The Talk (2 April 2013)
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-04-02

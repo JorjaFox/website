@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "TV Review: C.S.I. - CRIME SCENE INVESTIGATION - Season 6 - 'Way To Go'"
+description: "TV Review: C.S.I. - CRIME SCENE INVESTIGATION - Season 6 - 'Way To Go'"
 newsreporter: Staff
 newssource: If Magazine
 newsurl: https://www.ifmagazine.com

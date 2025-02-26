@@ -3,13 +3,9 @@ title: "Let the Seller Beware"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 3
 date: 2002-10-10
-prodnum: 303
+description: "Grissom and Catherine investigate the murder of a wealthy couple who are found outside of their home, which was up for sale. Meanwhile, Sara probes the death of a cheerleader who is found eviscerated on a soccer field, her organs having been ingested by her killer."
 ---
 
 ## Synopsis

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "TV Gal Shares a Moment  "
+description: "TV Gal Shares a Moment  "
 newsreporter: Staff
 newssource: Zap2It
 newsurl: https://www.zap2it.com

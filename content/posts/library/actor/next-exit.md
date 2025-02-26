@@ -3,6 +3,7 @@ layout: actor
 title: "Next Exit"
 slug: "next-exit"
 imdb: https://www.imdb.com/title/tt0452657/
+description: "A film about Charles, a teenager who is running away with his best friend, Jason Robinson, to Los Angeles."
 ---
 
 ## Synopsis

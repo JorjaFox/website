@@ -3,18 +3,14 @@ title: "The Devil and D.B. Russell"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 1
 date: 2013-09-25
-prodnum: 296
+description: "With Morgan and Ellie's lives on the line, the CSIs race to stop a serial killer from completing his twisted homage to 'Dante's Inferno.'"
 ---
 
 ## Synopsis
 
-The episode cuts between past and present, flashing back to the events immediatly following 'Skin in the Game' while showing us a funeral where the CSIs are noticably distraught.
+The episode cuts between past and present, flashing back to the events immediately following 'Skin in the Game' while showing us a funeral where the CSIs are noticeably distraught.
 
 In the past, both Jim Brass and Conrad Ecklie have trouble keeping their emotions in check, as their daughters, Morgan and Ellie, are held hostage by serial killer intent on completing his twisted homage to 'Dante's Inferno'. The entire lab takes the case personally, with even David Hodges complaining that Morgan was undercover (not a role for a CSI). The SUV that kidnapped Morgan is found, sans Morgan, who is actually being held with Ellie in the outskirts of Vegas near an airport.
 
@@ -32,7 +28,7 @@ Initially Sara is still in San Francisco when Morgan initial goes missing, howev
 
 In the lab, Sara works on processing and decrypting the dowels found in a boat in a storage room, with a dead girl. When Greg determines the dowels are in ternary, he likens it to the synthetic DNA found in the same scene, as well as in Tate's condo, which can be used to store data. Sara gets a court order for computers from Tate's old biotech company to decrypt the data, where she finds porn.
 
-After the girls are rescued, Sara processes the gun and finds inconstancies between Ellie's story and the GSR evidence. It's Sara who makes the connection between Ellie and Matthew, finding photographs proving the two had prior knowledge.
+After the girls are rescued, Sara processes the gun and finds incessancies between Ellie's story and the GSR evidence. It's Sara who makes the connection between Ellie and Matthew, finding photographs proving the two had prior knowledge.
 
 ## Notes
 

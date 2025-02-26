@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Blood and Yuks
+description: Blood and Yuks
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.com

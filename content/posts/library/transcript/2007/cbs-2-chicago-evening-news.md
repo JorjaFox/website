@@ -1,5 +1,7 @@
 ---
 title: CBS 2 Chicago Evening News (23 May 2007)
+description: 'CBS 2 Chicago Evening News (23 May 2007) - 2007-05-23'
+title: CBS 2 Chicago Evening News (23 May 2007)
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-05-23

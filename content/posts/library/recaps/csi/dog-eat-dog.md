@@ -3,13 +3,9 @@ title: "Dog Eat Dog"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 9
 date: 2005-11-24
-prodnum: 609
+description: "An obese man is found dead in a dumpster outside of a restaurant on Thanksgiving and his hands are filled with mashed potatoes. The investigation leads Grissom and Catherine into the world of competitive eating. Across town, Nick and Sara probe the deaths of a husband and wife on the verge of divorce who were apparently attacked by a vicious dog. A golden retriever is found at the scene, but he hardly seems like a killer."
 ---
 
 ## Synopsis

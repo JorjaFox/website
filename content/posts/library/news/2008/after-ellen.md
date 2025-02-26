@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "TCA Diary, July 21: The lesbianish weekend update  "
+description: "TCA Diary, July 21: The lesbianish weekend update  "
 newsreporter: Malinda Lo
 newssource: After Ellen
 newsurl: https://www.afterellen.com/blog/malinda/tca-diary-july-21

@@ -9,6 +9,7 @@ showslug: missing-persons
 date: 1994-01-06
 season: 1
 episode: 12
+description: "Elderly man missing, wife attempts suicide. Group plans a holiday party for the lieutenant. Jumper's body hasn't been found and no one's reported him missing. Boy reports his mom is missing."
 ---
 
 ## Synopsis

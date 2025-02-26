@@ -1,5 +1,7 @@
 ---
 title: KTLA Morning Show
+description: 'KTLA Morning Show - 2008-01-31'
+title: KTLA Morning Show
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2008-01-31

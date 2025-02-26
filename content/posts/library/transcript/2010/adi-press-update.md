@@ -1,5 +1,7 @@
 ---
 title: ADI Press Update
+description: 'ADI Press Update - 2010-05-28'
+title: ADI Press Update
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-05-28

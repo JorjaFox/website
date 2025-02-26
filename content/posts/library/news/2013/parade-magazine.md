@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "CSI's Jorja Fox on Animal Advocacy on TV and in Real Life  "
+description: "CSI's Jorja Fox on Animal Advocacy on TV and in Real Life  "
 newsreporter: Michele C. Hollow
 newssource: Parade
 newsurl: https://www.parade.com/55620/michelechollow/csis-jorja-fox-on-animal-advocacy-on-tv-and-in-real-life/

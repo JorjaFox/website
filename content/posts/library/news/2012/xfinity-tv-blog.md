@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "'CSI' Boss: Season 13 Will Pull the Team Apart  "
+description: "'CSI' Boss: Season 13 Will Pull the Team Apart  "
 newsreporter: Paulette Cohn
 newssource: xfinity TV Blog
 newsurl: https://xfinity.comcast.net/blogs/tv/2012/09/11/csi-boss-season-13-will-pull-the-team-apart/

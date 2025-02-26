@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Celebrity Resolutions for 2011  "
+description: "Celebrity Resolutions for 2011  "
 newsreporter: Staff
 newssource: Humane Society
 newsurl: https://www.humanesociety.org/news/news/2010/12/2011\_celebrity\_resolutions.html

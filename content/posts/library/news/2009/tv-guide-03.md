@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "Jorja On Our Mind  "
+description: "Jorja On Our Mind  "
 newsreporter: Megan Walsh-Boyle
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com

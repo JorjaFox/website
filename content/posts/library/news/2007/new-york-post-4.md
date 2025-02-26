@@ -7,7 +7,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "FOXY LADY MOVES ON  "
+description: "FOXY LADY MOVES ON  "
 newsreporter: Liz Smith
 newssource: New York Post
 newsurl: https://www.nypost.com/seven/12022007/gossip/liz/foxy\_lady\_moves\_on\_670812.htm?page=0

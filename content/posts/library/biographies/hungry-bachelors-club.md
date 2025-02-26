@@ -1,9 +1,10 @@
 ---
-title: Hungry Bachelors Club
+title: The Hungry Bachelors Club
 author: "Mika A. Epstein"
 layout: library
 permalink: /biographies/hungry-bachelors-club/
 date: "1996-08-20"
+description: "Biography from The Hungry Bachelors Club"
 ---
 *Note: This biography was released before The Hungry Bachelors Club was renamed.*
 

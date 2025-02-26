@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Dave on Demand | Actresses seek raises, but they get mayhem"
+description: "Dave on Demand | Actresses seek raises, but they get mayhem"
 newsreporter: Philadelphia Daily News
 newssource: Philadelphia Daily News
 newsurl: https://www.philly.com

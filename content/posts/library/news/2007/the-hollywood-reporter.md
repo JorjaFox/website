@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Lucas on scene as 'CSI' newbie"
+description: "Lucas on scene as 'CSI' newbie"
 newsreporter: The Hollywood Reporter
 newssource: The Hollywood Reporter
 newsurl: https://www.hollywoodreporter.com/

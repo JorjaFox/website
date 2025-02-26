@@ -3,13 +3,9 @@ title: "Pick and Roll"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 6
 date: 2012-11-07
-prodnum: 279
+description: "The Coach of the West Las Vegas University basketball team is a difficult, imperious, petty tyrant with a complicated personal life -- and when he's found bludgeoned to death in his locker room, Detective Russell's son Charlie is the prime suspect."
 ---
 
 ## Synopsis

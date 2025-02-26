@@ -8,6 +8,7 @@ station: NBC
 showname: "E.R."
 showslug: er
 date: 2009-04-02
+description: "A one-hour retrospective special."
 ---
 
 _Note: This episode is a clip show/retrospective and introduces no new material. All appearances include the actors as themselves._

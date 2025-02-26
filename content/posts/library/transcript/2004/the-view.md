@@ -1,5 +1,7 @@
 ---
 title: The View
+description: 'The View - 2004-02-19'
+title: The View
 transcriber: David Masters
 layout: transcript
 date: 2004-02-19

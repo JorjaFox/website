@@ -1,5 +1,7 @@
 ---
 title: Extra TV
+description: 'Extra TV - 2004-11-11'
+title: Extra TV
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2004-11-11

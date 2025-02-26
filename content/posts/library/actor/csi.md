@@ -9,6 +9,7 @@ actorimage: /img/actors/csi.jpg
 episodelist: true
 thumbnail:
   url: img/front-page/csi-orig.jpg
+description: "A popular, Emmy Award-winning CBS television series that trails the investigations of a team of Las Vegas forensic scientists as they unveil the circumstances behind mysterious and unusual deaths and crimes committed."
 ---
 
 The show follows the cases of the Crime Scene Investigation division of the Clark County (Nevada) Sheriff's Department, usually referred to by officers as the "Las Vegas Crime Lab." The division solves crimes almost entirely through the means of forensics evidence, which may or may not come to the conclusion of a murder or accidental death. Keeping in theme with the setting, investigations often lead to taboo subjects, such as sexual deviations. The bizarre conclusions of these cases often force one to question morals and beliefs and possibly human nature in general.

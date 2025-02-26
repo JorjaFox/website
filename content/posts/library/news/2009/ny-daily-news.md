@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "CSI star Jorja Fox gets turn in orange jumpsuit on 'Drop Dead Diva'  "
+description: "CSI star Jorja Fox gets turn in orange jumpsuit on 'Drop Dead Diva'  "
 newsreporter: Christina Kinon
 newssource: NY Daily News
 newsurl: https://www.nydailynews.com/entertainment/tv/2009/08/15/2009-08-15_jorja_fox_gets_turn_in_orange_jumpsuit_as_felonious_on_diva.html

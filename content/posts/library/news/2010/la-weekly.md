@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Vote for Love: Manifest Equality Art Show  "
+description: "Vote for Love: Manifest Equality Art Show  "
 newsreporter: Staff
 newssource: LA Weekly
 newsurl: https://www.laweekly.com/slideshow/vote-for-love-manifest-equality-art-show-29371560/11

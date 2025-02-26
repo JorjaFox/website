@@ -4,7 +4,7 @@ date: 2021-10-20
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "‘CSI: Vegas’ EP & Star on That Metaphor for Gil & Sara’s Relationship, the Hodges Case & More"
+description: "‘CSI: Vegas’ EP & Star on That Metaphor for Gil & Sara’s Relationship, the Hodges Case & More"
 newsreporter: "Maggie Helpern"
 newssource: "TV Insider"
 newsurl: https://www.tvinsider.com/1018912/csi-vegas-gil-landsick-sara-relationship-maxine-son/

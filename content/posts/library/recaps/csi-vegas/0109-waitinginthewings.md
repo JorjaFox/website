@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "The CSI team looks closely at the eccentric world of sideshows when a couple of performers are discovered burned in a pit. Also, Hodges mulls a plea deal as his criminal trial kicks off, while Max, Grissom and Sara search for evidence to exonerate him."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/09-waitinginthewings/117785_0201b.jpg"

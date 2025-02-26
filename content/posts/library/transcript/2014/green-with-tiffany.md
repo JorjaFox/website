@@ -1,5 +1,7 @@
 ---
 title: Green with Tiffany
+description: 'Green with Tiffany - 2014-10-18'
+title: Green with Tiffany
 date: 2014-10-18
 interviewurl: https://www.greenwithtiffany.com/
 transcriber: "Mika A. Epstein"

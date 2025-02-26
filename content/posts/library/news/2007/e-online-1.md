@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' Losing Fox, Wins Ratings"
+description: "'CSI' Losing Fox, Wins Ratings"
 newsreporter: "E! Online"
 newssource: "E! Online"
 newsurl: https://www.eonline.com

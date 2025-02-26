@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Alex Goes to 'Hawaii'"
+description: "Alex Goes to 'Hawaii'"
 newsreporter: Matt Roush
 newssource: Ask Matt
 newsurl: https://www.tvguidemagazine.com/ask-matt/ask-matt-alex-goes-to-hawaii-4079.html

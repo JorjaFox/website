@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "The Animal Acres 2007 Gala, August 25th, Acton, CA"
+description: "The Animal Acres 2007 Gala, August 25th, Acton, CA"
 newsreporter: Staff
 newssource: Animal Acres
 newsurl: https://animalacres.org/events/gala_2007.html

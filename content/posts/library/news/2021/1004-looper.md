@@ -4,7 +4,7 @@ date: 2021-10-04
 transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2021"
-newstitle: "Jorja Fox Opens Up About Returning To CSI: Vegas"
+description: "Jorja Fox Opens Up About Returning To CSI: Vegas"
 newsreporter: "Eric Betts"
 newssource: "Looper"
 newsurl: https://www.looper.com/623642/jorja-fox-opens-up-about-returning-to-csi-vegas/

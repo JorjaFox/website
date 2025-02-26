@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: "Inside TV's Top Drama"
+description: "Inside TV's Top Drama"
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.aol.com/people/magazine/

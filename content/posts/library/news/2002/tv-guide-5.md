@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: Hollywood Grapevine
+description: Hollywood Grapevine
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

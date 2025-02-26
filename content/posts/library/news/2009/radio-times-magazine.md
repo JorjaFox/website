@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Where There's A Gil  "
+description: "Where There's A Gil  "
 newsreporter: Unknown
 newssource: Radio Times
 newsurl: https://www.radiotimes.com/content/magazine/

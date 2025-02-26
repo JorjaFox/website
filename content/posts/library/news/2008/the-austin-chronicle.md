@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Animal Defenders Seek Ban on Circus Wildlife  "
+description: "Animal Defenders Seek Ban on Circus Wildlife  "
 newsreporter: Richard Whittaker
 newssource: The Austin Chronicle
 newsurl: https://www.austinchronicle.com/gyrobase/Issue/story?oid=oid:645923

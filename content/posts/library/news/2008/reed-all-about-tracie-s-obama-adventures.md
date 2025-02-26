@@ -6,7 +6,7 @@ layout: news
 newsyear: "2008"
 permalink: /news/2008/:title/
 
-newstitle: "Thursday Night Under the Lights  "
+description: "Thursday Night Under the Lights  "
 newsreporter: Tracie Reed
 newssource: Reed all about Tracie's Obama adventures
 newsurl: https://tracie4obama.blogspot.com/2008/08/thursday-night-under-lights.html

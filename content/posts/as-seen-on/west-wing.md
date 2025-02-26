@@ -2,6 +2,7 @@
 title: "The West Wing"
 date: 2023-04-16
 weight: 30
+searchExclude: true
 href: /library/actor/west-wing/
 thumbnail:
     url: img/front-page/west-wing.jpg

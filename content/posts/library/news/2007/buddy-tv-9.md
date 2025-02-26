@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI: Get Ready to Say Goodbye to Sara  "
+description: "CSI: Get Ready to Say Goodbye to Sara  "
 newsreporter: Kris De Leon
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/csi-get-ready-to-say-goodbye-t-13679.aspx

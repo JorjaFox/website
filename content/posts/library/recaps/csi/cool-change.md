@@ -3,14 +3,9 @@ title: "Cool Change"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 2
 date: 2000-10-13
-prodnum: 101
-gallerylink: https://jorjafox.net/gallery/tv/csi/season01/coolchange/
+description: "A man is killed after winning a fortune and then dumping his girlfriend. So, Grissom and Nick investigate this one. Newcomer to the CSI team, Sara Sidle, investigates Warrick's actions."
 ---
 
 ## Synopsis
@@ -24,9 +19,9 @@ This episode introduces Sara Sidle, a CSI III from San Francisco whom Grissom ca
 ## Notes
 
 * Sara and Grissom have worked together previously.
-* Sara and Grissom apparently had some kind of relationship in San Francisco, which he abandoned to come to Las Vegas. (this is partially confirmed in Toe Tags.
-* First sign of Sara's sarcastic sense of humor (her initial meeting with Grissom, then her conversation with Catherine about the pager.
-* Sara is trying to quit smoking (she offers a piece of nicorette to Catherine, who says she has her own.
+* Sara and Grissom apparently had some kind of relationship in San Francisco, which he abandoned to come to Las Vegas. This is partially confirmed in Toe Tags.
+* First sign of Sara's sarcastic sense of humor in her initial meeting with Grissom, then her conversation with Catherine about the pager.
+* Sara is trying to quit smoking -- she offers a piece of nicorette to Catherine, who says she has her own.
 * While Sara doesn't officially aid Catherine in her investigation, she does tag along.
 * This is the beginning of the period where Sara doesn't trust Warrick because of his gambling problem.
 

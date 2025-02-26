@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Prime Time Crime News"
+description: "Prime Time Crime News"
 newsreporter: Staff
 newssource: Lexington Herald-Leader
 newsurl: https://www.kentucky.com

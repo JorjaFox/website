@@ -3,13 +3,9 @@ title: "Doctor Who"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 22
 date: 2010-05-13
-prodnum: 228
+description: "The CSI team must investigate one of their own when Langston is accused by a former colleague of being part of the Dr. Jekyll murders. Also Nate Haskell, the infamous 'Dick and Jane' killer, may have valuable information about the case."
 ---
 
 ## Synopsis

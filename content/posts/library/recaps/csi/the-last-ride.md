@@ -3,13 +3,9 @@ title: "The Last Ride"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 16
 date: 2015-01-27
-prodnum: 333
+description: "The CSI team investigates a death involving a vintage car and a chrome-covered victim."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1516-lastride-001.jpg

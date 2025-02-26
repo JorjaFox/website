@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "The Planet sits down with CSI star Jorja Fox"
+description: "The Planet sits down with CSI star Jorja Fox"
 newsreporter: Planet Jackson Hole
 newssource: Planet Jackson Hole
 newsurl: https://planetjh.com/news/A_101286.aspx

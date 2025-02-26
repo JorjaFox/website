@@ -1,5 +1,7 @@
 ---
 title: Inside Media at The Paley Center
+description: 'Inside Media at The Paley Center - 2001-01-01'
+title: Inside Media at The Paley Center
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2001-01-01

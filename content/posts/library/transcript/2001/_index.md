@@ -1,8 +1,11 @@
 ---
 title: Transcripts (2001)
+description: 'Transcripts (2001) - 2001-01-01'
+title: Transcripts (2001)
 transcriber: "Mika A. Epstein"
 layout: transcript-index
 topic: index
+searchExclude: true
 date: 2001-01-01
 permalink: /transcript/2001/
 ---

@@ -1,5 +1,7 @@
 ---
 title: CBS Live Chat
+description: 'CBS Live Chat - 2013-02-20'
+title: CBS Live Chat
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2013-02-20

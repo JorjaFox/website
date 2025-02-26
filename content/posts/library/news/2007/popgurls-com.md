@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "PopGurls Interview: CSI's Jorja Fox"
+description: "PopGurls Interview: CSI's Jorja Fox"
 newsreporter: Popgurls.com
 newssource: Popgurls.com
 newsurl: https://www.popgurls.com/article_show.php3?id=661

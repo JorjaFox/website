@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Reality TV: Good for Networks, Bad for Network Workers"
+description: "Reality TV: Good for Networks, Bad for Network Workers"
 newsreporter: Andrew Murphy
 newssource: CMS Review
 newsurl: https://www.niagara.edu/communication/pdf/CMS%20Review%20Apr%2005%20Vol8-4.pdf

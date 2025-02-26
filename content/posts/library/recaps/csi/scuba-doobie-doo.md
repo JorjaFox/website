@@ -3,13 +3,9 @@ title: "Scuba Doobie-Doo"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 4
 date: 2001-10-25
-prodnum: 205
+description: "Two bizarre cases baffle investigators in this intriguingly complex episode. Grissom, Sara and Warrick are called on to investigate apartment that has blood-spattered walls. Meanwhile, Catherine and Nick are called to the site of a large fire and attempt to determine how a dead scuba diver in full gear became lodged in a tree."
 ---
 
 ## Synopsis

@@ -1,5 +1,7 @@
 ---
 title: KPIX - Rescued Lions from Bolivia Arrive at SFO (27 May 2010)
+description: 'KPIX - Rescued Lions from Bolivia Arrive at SFO (27 May 2010) - 2010-05-27'
+title: KPIX - Rescued Lions from Bolivia Arrive at SFO (27 May 2010)
 date: 2010-05-27
 transcriber: "Mika A. Epstein"
 layout: transcript

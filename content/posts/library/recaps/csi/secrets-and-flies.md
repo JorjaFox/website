@@ -3,13 +3,9 @@ title: "Secrets and Flies"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 6
 date: 2005-11-03
-prodnum: 606
+description: "The CSI team uncovers evidence in the investigation of a young mother's suicide that proves that the woman's newborn baby was not her biological child -- in fact, she was still technically a virgin at the time of her death. If the team discovers how the child was conceived, the answer may lead them to a killer. Meanwhile, Grissom is called into court to refute expert witness testimony from a suspected manipulator of evidence."
 ---
 
 ## Synopsis

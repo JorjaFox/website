@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "Moment of the Week"
+description: "Moment of the Week"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com/

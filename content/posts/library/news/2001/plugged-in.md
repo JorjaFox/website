@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Review
+description: Review
 newsreporter: Staff
 newssource: Plugged In
 newsurl: https://www.family.org/

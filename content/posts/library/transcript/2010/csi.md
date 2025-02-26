@@ -1,5 +1,7 @@
 ---
 title: 'CSI: Season Ten EPK'
+description: 'CSI: Season Ten EPK - 2010-07-01'
+title: 'CSI: Season Ten EPK'
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-07-01

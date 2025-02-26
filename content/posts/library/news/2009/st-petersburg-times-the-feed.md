@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Does Jorja Fox rejoining CSI equal a lack of confidence in Laurence Fishburne?  "
+description: "Does Jorja Fox rejoining CSI equal a lack of confidence in Laurence Fishburne?  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times - The Feed
 newsurl: https://blogs.tampabay.com/media/2009/07/does-jorja-fox-rejoining-csi-equal-a-lack-of-confidence-in-laurence-fishburne.html

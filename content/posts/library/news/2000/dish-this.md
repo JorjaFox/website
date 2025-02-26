@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: "Can I getta 'Earshot'"
+description: "Can I getta 'Earshot'"
 newsreporter: Staff
 newssource: Dish This!
 newsurl: https://dishthis.com

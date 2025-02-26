@@ -7,7 +7,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "TV Q&A with Rob Owen  "
+description: "TV Q&A with Rob Owen  "
 newsreporter: Rob Owen
 newssource: Pittsburgh Post-Gazette
 newsurl: https://www.post-gazette.com/pg/07334/837855-238.stm?cmpid=entertainment.xml

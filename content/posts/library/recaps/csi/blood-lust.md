@@ -3,13 +3,9 @@ title: "Blood Lust"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 9
+description: "A cab driver seems to run over a boy and is then beaten to death by a mob for racial reasons. When Grissom arrives on the scene, he discovers that the teen has been eviscerated and has stab wounds, but shows no signs of having been struck by the cab."
 date: 2002-12-05
-prodnum: 309
 ---
 
 ## Synopsis

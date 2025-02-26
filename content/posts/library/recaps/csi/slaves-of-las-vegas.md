@@ -3,13 +3,9 @@ title: "Slaves of Las Vegas"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 8
 date: 2001-11-15
-prodnum: 208
+description: "A young woman's naked corpse is found dead in a park in a playground sandbox, but she was definitely murdered elsewhere. Whipmarks and liquid latex on the body lead Grissom, Catherine and Nick to a fetish club and the underworld of sadomasochistic sex."
 ---
 
 ## Synopsis

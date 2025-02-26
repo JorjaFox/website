@@ -3,13 +3,9 @@ title: "Play With Fire"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 22
 date: 2003-05-08
-prodnum: 322
+description: "Grissom, Sara, and Nick investigate the murder of a woman in the press box of a high school stadium. They arrive less than an hour after the woman's death. Catherine and Warrick try to determine the cause of an explosion in the DNA lab of CSI that seriously injures a lab tech. The personal lives of our characters come into play in this episode."
 ---
 
 ## Synopsis

@@ -3,13 +3,9 @@ title: "All For Our Country"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 2
 date: 2003-10-02
-prodnum: 403
+description: "Conclusion. The investigation into the double homicide turns up two more murders and the evidence leads Grissom, Warrick and Nick to believe a police officer may be involved. Across town, Catherine and Sara probe the death of a college student found after several days in his still-running bathtub."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/403-allforourcountry_001.jpg"

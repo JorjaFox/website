@@ -3,13 +3,9 @@ title: "Hitting for the Cycle"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 18
 date: 2011-03-31
-prodnum: 247
+description: "The CSIs start a frenzy of betting pools when it looks like they're about to hit The Cycle: a homicide, suicide, accidental death and natural death all in one shift."
 ---
 
 ## Synopsis

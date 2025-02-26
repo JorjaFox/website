@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Grissom & Sara  "
+description: "Grissom & Sara  "
 newsreporter: Bill Savage
 newssource: The F-Word
 newsurl: https://www.thefword.org.uk/blog/2009/02/grissom_sara

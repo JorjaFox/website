@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox back on duty at CSI...for a little while  "
+description: "Jorja Fox back on duty at CSI...for a little while  "
 newsreporter: Allison Waldman
 newssource: TV Squad
 newsurl: https://www.tvsquad.com/2009/07/19/jorja-fox-back-on-duty-at-csi-for-a-little-while/

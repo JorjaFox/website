@@ -3,13 +3,9 @@ title: "Coming of Rage"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 10
 date: 2003-12-18
-prodnum: 410
+description: "The team finds another evil killer, only this time it's a 15 year old girl. A mother is killed at her child's birthday party by a stray bullet."
 ---
 
 ## Synopsis

@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI': The Gang's All Here"
+description: "'CSI': The Gang's All Here"
 newsreporter: Staff
 newssource: Zap2it.com
 newsurl: https://Zap2it.com

@@ -5,6 +5,7 @@ layout: advocacy
 tags:
   - "Human Rights"
 website: https://www.huckleberrygroup.org/huckleberry-foundation-home.html
+description: "The Huckleberry Foundation seeks to provide inspirational and life-changing opportunities, experiences and training to young people in the UK whose circumstances would ordinarily make such possibilities forever out of reach."
 ---
 
 The Huckleberry Foundation is named after Huckleberry Finn, an 11-year-old who ran away from home to escape the abuse of his alcoholic father.

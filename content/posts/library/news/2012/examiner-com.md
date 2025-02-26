@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "'CSI' spoilers: Sara has sparks with someone from her past  "
+description: "'CSI' spoilers: Sara has sparks with someone from her past  "
 newsreporter: Meredith Jacobs
 newssource: Examiner.com
 newsurl: https://www.examiner.com/article/csi-spoilers-sara-has-sparks-with-someone-from-her-past

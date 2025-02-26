@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Jorja's thrill ride finale  "
+description: "Jorja's thrill ride finale  "
 newsreporter: Staff
 newssource: Manchester Evening News
 newsurl: https://www.manchestereveningnews.co.uk

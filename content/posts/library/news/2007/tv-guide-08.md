@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "So Long, Sara  "
+description: "So Long, Sara  "
 newsreporter: Staff / Mike Flaherty
 newssource: TV Guide
 newsurl: https://www.tvguide.com

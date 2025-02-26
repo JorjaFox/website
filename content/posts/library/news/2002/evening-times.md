@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: Jorja Can Track Down Top Roles
+description: Jorja Can Track Down Top Roles
 newsreporter: Staff
 newssource: Evening Times
 newsurl: https://www.eveningtimes.co.uk/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "Georgia Bulldogs Basketball Fans, Is Mark Fox Your Favorite Fox?  "
+description: "Georgia Bulldogs Basketball Fans, Is Mark Fox Your Favorite Fox?  "
 newsreporter: T Kyle King
 newssource: Dawg Sports
 newsurl: https://www.dawgsports.com/2011/1/18/1942206/georgia-bulldogs-basketball-fans-is-mark-fox-your-favorite-fox

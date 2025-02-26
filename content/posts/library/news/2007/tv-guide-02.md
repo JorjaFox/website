@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Preview: How Grissom's Exit Will Shake Up 'CSI'!"
+description: "Preview: How Grissom's Exit Will Shake Up 'CSI'!"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

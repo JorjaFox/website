@@ -3,13 +3,9 @@ title: "King Baby"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 15
 date: 2005-02-17
-prodnum: 515
+description: "When a major Las Vegas player is found dead, Ecklie orders both teams to investigate the case. The man who had secrets on everyone in Vegas had a very big one of his own."
 ---
 
 ## Synopsis

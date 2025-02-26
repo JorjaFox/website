@@ -1,5 +1,7 @@
 ---
 title: ADI Rescue Diary
+description: 'ADI Rescue Diary - 2010-05-27'
+title: ADI Rescue Diary
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2010-05-27

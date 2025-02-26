@@ -3,13 +3,9 @@ title: "CSI Down"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 5
 date: 2011-10-19
-prodnum: 256
+description: "The CSI unit investigates when Frank, an apparent murder victim, sits up and needs help. But in fact, he's not just a victim, he's also a double murderer, and he coolly hijacks the Medevac helicopter taking him to a hospital."
 ---
 
 ## Synopsis

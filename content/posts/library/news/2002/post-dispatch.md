@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: What are they doing to my show?
+description: What are they doing to my show?
 newsreporter: Staff
 newssource: Post-Dispatch
 newsurl: https://home.post-dispatch.com/

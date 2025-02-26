@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Jorja Fox: 'Grissom's return to 'CSI: Las Vegas' was very exciting'"
+description: "Jorja Fox: 'Grissom's return to 'CSI: Las Vegas' was very exciting'"
 newsreporter: Staff
 newssource: Forumla TV
 newsurl: https://www.formulatv.com/noticias/26889/jorja-fox-regreso-grissom-csi-las-vegas-muy-excitante/

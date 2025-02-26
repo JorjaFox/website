@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox spills the beans on what she thinks of William Petersen's replacement"
+description: "Jorja Fox spills the beans on what she thinks of William Petersen's replacement"
 newsreporter: Staff
 newssource: "MSN/Sympatico"
 newsurl: https://msn.com

@@ -1,5 +1,7 @@
 ---
 title: Genesis Awards
+description: 'Genesis Awards - 2006-03-18'
+title: Genesis Awards
 transcriber: David Masters
 interviewurl: https://www.wireimage.com
 date: 2006-03-18

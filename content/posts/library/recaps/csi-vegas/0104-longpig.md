@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "The CSI team investigates when a body is dug up in the luau pit of a Hawaiian-themed hotel. Also, Internal Affairs begins to question Grissom and Sara’s return to the crime lab."
 ---
 
 ## Synopsis

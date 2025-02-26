@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Fans Show Support for 'CSI' Actress"
+description: "Fans Show Support for 'CSI' Actress"
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/

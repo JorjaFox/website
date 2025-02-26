@@ -6,7 +6,7 @@ layout: news
 newsyear: "2008"
 permalink: /news/2008/:title/
 
-newstitle: "Sara Sidle: From 'CSI' to Terra-ist  "
+description: "Sara Sidle: From 'CSI' to Terra-ist  "
 newsreporter: Kelly
 newssource: easyVegan.info
 newsurl: https://www.easyvegan.info/2008/11/07/sara-sidle-from-csi-to-terra-ist/

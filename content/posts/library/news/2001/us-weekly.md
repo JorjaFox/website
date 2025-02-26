@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: We're Like Family
+description: We're Like Family
 newsreporter: Staff
 newssource: Us Weekly
 newsurl: https://usweekly.abc.com/

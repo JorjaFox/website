@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
-newstitle: "Sara leaves 'CSI' and other notes on tonight's TV"
+description: "Sara leaves 'CSI' and other notes on tonight's TV"
 newsreporter: Charlie McCollum
 newssource: The Mercury News
 newsurl: https://blogs.mercurynews.com/aei/2007/11/sara\_leaves\_csi\_and\_other\_notes\_on\_tonights\_tv.html

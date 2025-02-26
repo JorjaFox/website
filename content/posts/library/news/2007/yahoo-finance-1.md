@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Hollywood: Pet a Dog or Kill It?"
+description: "Hollywood: Pet a Dog or Kill It?"
 newsreporter: "Yahoo! Finance"
 newssource: "Yahoo! Finance"
 newsurl: https://biz.yahoo.com/

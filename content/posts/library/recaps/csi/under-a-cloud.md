@@ -3,13 +3,9 @@ title: "Under a Cloud"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 7
+description: "A man pulled from a flood channel with a bomb in his backpack wakes up speaking a foreign language, and Greg struggles to recall a case from 2006 that may threaten his future as a CSI."
 date: 2013-11-06
-prodnum: 302
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1407-underacloud-001.jpg

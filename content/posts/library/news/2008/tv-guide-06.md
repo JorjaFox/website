@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "Convention Notebook: Eat, Drink and Watch CNN  "
+description: "Convention Notebook: Eat, Drink and Watch CNN  "
 newsreporter: Stephen Battaglio
 newssource: TV Guide Editors' Blogs - The Biz Blog
 newsurl: https://community.tvguide.com/blog/TVGuide-Editors-Blog/Biz/800054319

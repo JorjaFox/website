@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "World Premier of Documentary 'Accidental Icon: The Real Gidget Story'  "
+description: "World Premier of Documentary 'Accidental Icon: The Real Gidget Story'  "
 newsreporter: Staff
 newssource: Global Surf News
 newsurl: https://www.globalsurfnews.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "TV's Top Cops  "
+description: "TV's Top Cops  "
 newsreporter: Staff
 newssource: MSN tv
 newsurl: https://tv.msn.com/tv/galleryfeature/tvs-top-cops/?photoidx=7

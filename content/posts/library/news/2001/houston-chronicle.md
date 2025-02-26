@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: "'CSI' star Jorja Fox focuses on another dream role"
+description: "'CSI' star Jorja Fox focuses on another dream role"
 newsreporter: Staff
 newssource: Houston Chronicle
 newsurl: https://www.chron.com/cs/CDA/story.hts/headline/entertainment/1063653

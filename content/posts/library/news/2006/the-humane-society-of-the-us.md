@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "Red Carpet Quotes: Stars Share Their Thoughts on Animals, Animal Protection, and the Genesis Awards"
+description: "Red Carpet Quotes: Stars Share Their Thoughts on Animals, Animal Protection, and the Genesis Awards"
 newsreporter: Staff
 newssource: The Humane Society of the US
 newsurl: https://www.hsus.org

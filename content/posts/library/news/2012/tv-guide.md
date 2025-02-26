@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Marg Helgenberger Says Goodbye to CSI  "
+description: "Marg Helgenberger Says Goodbye to CSI  "
 newsreporter: Craig Tomashoff
 newssource: TV Guide
 newsurl: https://www.tvguide.com/News/Marg-Helgenberger-CSI-1042180.aspx

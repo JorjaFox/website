@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Report: Sara To Take An ‘Interesting Turn,’ Residual Fallout For Nick On ‘CSI’  "
+description: "Report: Sara To Take An ‘Interesting Turn,’ Residual Fallout For Nick On ‘CSI’  "
 newsreporter: Shane Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/11/report-sara-to-take-an-interesting-turn-residual-fallout-for-nick-on-csi/

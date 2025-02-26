@@ -1,5 +1,7 @@
 ---
 title: E! - Emmy Red Carpet
+description: 'E! - Emmy Red Carpet - 2004-09-19'
+title: E! - Emmy Red Carpet
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2004-09-19

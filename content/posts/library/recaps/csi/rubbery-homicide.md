@@ -3,13 +3,9 @@ title: "Rubbery Homicide"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 8
 date: 2014-11-30
-prodnum: 325
+description: "The CSI team delves into the kinky world of “rubber dolls” when they investigate the murder of a man stabbed in an alley."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1508-rubbery-001.jpg

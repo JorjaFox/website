@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI''s Sara Sidles Off into the Sunset  "
+description: "'CSI''s Sara Sidles Off into the Sunset  "
 newsreporter: Matt Roush
 newssource: TV Guide Editors' Blogs - Roush Dispatch
 newsurl: https://community.tvguide.com/blog/TVGuide-Editors-Blog/Roush-Dispatch/700000048

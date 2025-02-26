@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Scurrilous: Chicago's No. 1 couch potato"
+description: "Scurrilous: Chicago's No. 1 couch potato"
 newsreporter: Scurry
 newssource: Chicago Sun-Times
 newsurl: https://www.suntimes.com

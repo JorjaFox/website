@@ -3,13 +3,9 @@ title: "Goodbye and Good Luck"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 8
-epnum: 7
 date: 2007-11-15
-prodnum: 807
+description: "In Jorja Fox's last episode, a suspect from Sara's past returns, causing her to question her future as a CSI"
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/08/807-gbagl_01.jpg"
@@ -38,7 +34,7 @@ Sara comes in from a scene and runs into Warrick, who is having trouble sleeping
 
 What looks like a home invasion turns out to be a domestic dispute. The husband and wife fought, leaving the wife with a knife stuck in her back. When the husband returns to the house, he assaults his wife, yelling at her. Sara appears completely numb as she watches the attack; she leaves the scene, saying there's nothing to be done. She says that they'll be back for the wife's corpse next month, or the husband's, or both.
 
-A college girl falls from a building, having been apparently thrown out a window from her room. One of the suspects in the case is Marlon West, brother of Hannah West. When Sara finds out, she insists on working the case, admitting to having kept some track of Hannah since the previous case. Unknown to Sara, Hannah transfered from Harvard to go to graduate school with her brother. During her interrogation, the girl causes Sara to lose her temper, by bringing up Sara's recent kidnapping.
+A college girl falls from a building, having been apparently thrown out a window from her room. One of the suspects in the case is Marlon West, brother of Hannah West. When Sara finds out, she insists on working the case, admitting to having kept some track of Hannah since the previous case. Unknown to Sara, Hannah transferred from Harvard to go to graduate school with her brother. During her interrogation, the girl causes Sara to lose her temper, by bringing up Sara's recent kidnapping.
 
 Sara lets the case get to her, and when it turns out that Hannah killed the girl, Marlon's girlfriend, and framed him because she was in love with him, Marlon kills himself. Sara shows a photo of Marlon's suicide to Hannah, who breaks down.
 

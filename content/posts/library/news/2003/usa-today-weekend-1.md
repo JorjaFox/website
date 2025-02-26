@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Who's News
+description: Who's News
 newsreporter: Staff
 newssource: USA Weekend
 newsurl: https://www.usaweekend.com

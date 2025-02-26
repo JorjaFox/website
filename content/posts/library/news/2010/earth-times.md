@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "CSI Star Jorja Fox to Provide Updates on Incredible Bolivian Lion Journey  "
+description: "CSI Star Jorja Fox to Provide Updates on Incredible Bolivian Lion Journey  "
 newsreporter: Animal Defenders International
 newssource: Earth Times
 newsurl: https://www.earthtimes.org/articles/show/csi-star-jorja-fox-to,1308038.shtml

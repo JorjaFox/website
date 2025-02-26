@@ -5,6 +5,7 @@ slug: "gidget"
 genre: "Documentary"
 imdb: https://www.imdb.com/title/tt1602011/
 actorimage: /img/actors/gidget.jpg
+description: "A documentary about the life the real 'Gidget,' Kathy Kohner Zuckerman."
 ---
 
 Narrated by Jorja Fox and produced by Brian L. Gillogly and Robert Masters, ACCIDENTAL ICON explores the largely untold story of the real “Gidget,” Kathy Kohner Zuckerman. Kathy’s account of surfing Malibu in the mid-50’s became the basis for a best-selling novel by her father Frederick Kohner and the hit 1959 “Gidget” movie, which introduced the modern sport of surfing to a world-wide audience. Surf legends and present-day “surfer girls” set the stage and take the Gidget story full circle. Prominent actors and directors, many of whom brought Gidget to the big and small screen, provide an often enlightening behind-the-scenes perspective.

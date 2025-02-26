@@ -3,18 +3,14 @@ title: "Too Tough To Die"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 16
 date: 2001-03-01
-prodnum: 115
+description: "Sara gets a little too personally involved when she investigates the rape and shooting of a young woman who was left for dead, but who still fights for her life in a nearby hospital; Catherine and Warrick try to determine whether a fatal shooting involving two neighbors was committed in self-defense."
 ---
 
 ## Synopsis
 
-Sara gets a little too personally involved when she investigates the rape and shooting of a young woman who was left for dead, but who still fights for her life in a nearby hospital; Catherine and Warrick try to determine whether a fatal shooting involving two neighbors was committed in self-defense.
+Sara gets emotionally involved when she, Grissom and Nick investigate the case of a woman who is abducted from a parking garage, raped, and left for dead. Meanwhile, Catherine and Warrick take over a case from one of the day shift CSIs who has quit. The case involves a neighbor's dispute that led to murder. Not only has an important piece of evidence been lost, but the case goes to trial in four days.
 
 ## Review
 

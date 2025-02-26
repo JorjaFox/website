@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Fans fear 'CSI' will suffer without Sara Sidle  "
+description: "Fans fear 'CSI' will suffer without Sara Sidle  "
 newsreporter: MSNBC
 newssource: MSNBC
 newsurl: https://www.msnbc.msn.com/id/21777452/

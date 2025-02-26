@@ -3,13 +3,9 @@ title: "Living Legend"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 9
 date: 2006-11-23
-prodnum: 709
+description: "After the mob boss's Cadillac mysteriously resurfaces in a Las Vegas lake and a photo turns up of the murder victims posing with him in the 1970s, the CSIs begin to investigate whether or not the notorious gangster, whose disappearance remains a mystery, might somehow be connected to the current killing spree in Las Vegas."
 ---
 
 ## Synopsis

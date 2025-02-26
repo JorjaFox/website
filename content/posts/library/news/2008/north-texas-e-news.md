@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "North Texas E-news  "
+description: "North Texas E-news  "
 newsreporter: Animal Defenders International media release
 newssource: North Texas E-news
 newsurl: https://www.ntxe-news.com/artman/publish/article_47389.shtml

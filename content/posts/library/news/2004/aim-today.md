@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "'CSI' Actors Fox, Eads Fired"
+description: "'CSI' Actors Fox, Eads Fired"
 newsreporter: Staff
 newssource: AIM Today
 newsurl: https://channels.aimtoday.com

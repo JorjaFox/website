@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "CSI Says Goodbye With a Totally Insane But Perfectly Fitting Series Finale & We Are Weirdly Emotional Over It"
+description: "CSI Says Goodbye With a Totally Insane But Perfectly Fitting Series Finale & We Are Weirdly Emotional Over It"
 newsreporter: Lauren Piester
 newssource: E! Online
 newsurl: https://www.eonline.com/news/700490/csi-says-goodbye-with-a-totally-insane-but-perfectly-fitting-series-finale-we-are-weirdly-emotional-over-it

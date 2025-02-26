@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
 
-newstitle: "There's a new group in town, and Hollywood is excited to learn about it  "
+description: "There's a new group in town, and Hollywood is excited to learn about it  "
 newsreporter: Anne Schroeder Mullins
 newssource: Politico
 newsurl: https://www.politico.com/blogs/anneschroeder/1108/Theres_a_new_group_in_town_and_Hollywood_is_excited_to_learn_about_it.html

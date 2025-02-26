@@ -6,7 +6,7 @@ layout: news
 newsyear: "2008"
 permalink: /news/2008/:title/
 
-newstitle: 'Ausiello on "CSI", "Office", "Heroes", "Bones", "Lost" and More!'
+description: 'Ausiello on "CSI", "Office", "Heroes", "Bones", "Lost" and More!'
 newsreporter: Michael Ausiello
 newssource: Ask Ausiello
 newsurl: https://www.tvguide.com/Ask-Ausiello/080408

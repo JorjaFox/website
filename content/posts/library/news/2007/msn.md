@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Is Jorja Fox off CSI?"
+description: "Is Jorja Fox off CSI?"
 newsreporter: MSN Entertainment
 newssource: MSN Entertainment
 newsurl: https://entertainment.msn.com/

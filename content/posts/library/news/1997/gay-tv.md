@@ -4,7 +4,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1997/:title/
 newsyear: "1997"
-newstitle: Gaynet
+description: Gaynet
 date: 1997-09-26
 newsreporter: Staff
 newssource: Gay TV

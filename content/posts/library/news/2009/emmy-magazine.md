@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: 'Paging All Staff! Stat! A Look Back at "ER"'
+description: 'Paging All Staff! Stat! A Look Back at "ER"'
 newsreporter: Neal Baer
 newssource: Emmy Magazine
 newsurl: https://cdn.emmys.tv/emmymag/eex-09mar-er2-singl.php

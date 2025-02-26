@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2006/:title/
 newsyear: "2006"
 
-newstitle: "CSI From A to Z: Favorite Episodes"
+description: "CSI From A to Z: Favorite Episodes"
 newsreporter: Staff
 newssource: Watch Magazine
 newsurl: https://www.cbs.com/watch_magazine/

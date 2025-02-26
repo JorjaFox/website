@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Two top 'CSI' actors fired"
+description: "Two top 'CSI' actors fired"
 newsreporter: Staff
 newssource: Digital Spy
 newsurl: https://www.digitalspy.co.uk

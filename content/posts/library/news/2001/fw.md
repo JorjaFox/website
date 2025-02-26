@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 newsyear: "2001"
-newstitle: Prime Time's New Line Up
+description: Prime Time's New Line Up
 newsreporter: Staff
 newssource: FW magazine
 newsurl: https://www.myfw.com

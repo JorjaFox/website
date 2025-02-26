@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' Stars Spend a Night at the Museum"
+description: "'CSI' Stars Spend a Night at the Museum"
 newsreporter: TV Guide
 newssource: TV Guide
 newsurl: https://community.tvguide.com/

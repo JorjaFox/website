@@ -2,10 +2,11 @@
 title: U.S. Campaign for Burma
 author: "Mika A. Epstein"
 layout: advocacy
-website: https://www.burmaitcantwait.org
+website: https://www.uscampaignforburma.org
+description: "A campaign to end the military rule in Burma"
 ---
 
-30 Hollywood celebrities ran a campaign from May 1 through May 30 to seek the release of Myanmar's democracy icon Aung San Suu Kyi and push for freedom in the military-ruled nation.
+30 Hollywood celebrities ran a campaign from May 1 through May 30 2004 to seek the release of Myanmar's democracy icon Aung San Suu Kyi and push for freedom in the military-ruled nation.
 
 The 30-day campaign will see stars such as Will Ferrell, Ellen Page, Judd Apatow, Anjelica Huston, Jennifer Aniston and Rosanna Arquette appearing in video clips on the Internet highlighting human rights issues in Myanmar.
 

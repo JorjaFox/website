@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2002"
 permalink: /news/2002/:title/
-newstitle: CSI star Jorja Fox
+description: CSI star Jorja Fox
 newsreporter: Staff
 newssource: Channel 5, UK
 newsurl: https://www.channel5.co.uk/

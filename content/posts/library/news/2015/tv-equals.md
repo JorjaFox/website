@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2015"
 permalink: /news/2015/:title/
-newstitle: "CSI 'Immortality, Parts 1 & 2' Review (Season 16 Premiere/Series Finale)"
+description: "CSI 'Immortality, Parts 1 & 2' Review (Season 16 Premiere/Series Finale)"
 newsreporter: Mark Trammell
 newssource: TV Equals
 newsurl: https://www.tvequals.com/2015/09/28/csi-immortality-part-1-2-review-season-16-premiereseries-finale/

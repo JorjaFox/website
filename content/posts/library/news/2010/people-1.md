@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "Jorja Fox's Dog Is Almost 100 -- In Dog Years  "
+description: "Jorja Fox's Dog Is Almost 100 -- In Dog Years  "
 newsreporter: Nina Tyler
 newssource: People Pets
 newsurl: https://www.peoplepets.com/news/dogs/jorja-fox-s-dog-is-almost-100-in-dog-years/1

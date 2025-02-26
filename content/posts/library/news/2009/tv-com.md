@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "'CSI' will reunite with Sara Sidle  "
+description: "'CSI' will reunite with Sara Sidle  "
 newsreporter:
 newssource: TV.com
 newsurl: https://www.tv.com/story/16633.html

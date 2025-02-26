@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja's a Peach  "
+description: "Jorja's a Peach  "
 newsreporter: Deborah Corday and Drew Seltzer
 newssource: Los Angeles Confidential
 newsurl: https://www.la-confidential.com

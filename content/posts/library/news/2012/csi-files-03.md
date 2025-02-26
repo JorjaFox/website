@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Interview: Tom Mularz  "
+description: "Interview: Tom Mularz  "
 newsreporter: Shane Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/11/interview-tom-mularz-3/

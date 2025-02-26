@@ -3,13 +3,9 @@ title: "The End Game"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 18
 date: 2015-02-15
-prodnum: 335
+description: "The CSI unit faces the final showdown with the Gig Harbor killer whose motives are finally revealed. Also, Nick Stokes makes a decision that will affect the entire team moving forward."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1518-endgame-001.jpg
@@ -20,8 +16,6 @@ photogallery:
 ---
 
 ## Synopsis
-
-The CSI unit faces the final showdown with the Gig Harbor killer whose motives are finally revealed. Also, Nick makes a decision that will affect the entire team moving forward.
 
 With Nick being courted by San Diego to lead up their lab, Finn gets a package from her mother that is actually from Paul Winthrop, the Gig Harbor Killer, last seen limping away from the fatal shooting of his brother, Jared Briscoe  can help. Larson, who did provide women for the boys, had nothing to do with the killings, and suspects Collin Winthrop, Paul's father, as the third partner to the killings.
 

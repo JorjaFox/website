@@ -1,5 +1,7 @@
 ---
 title: "TEAPSPA Live Broadcast"
+description: 'TEAPSPA Live Broadcast - 2021-11-17'
+title: "TEAPSPA Live Broadcast"
 date: 2021-11-17
 transcriber: "Mika A. Epstein"
 layout: transcript

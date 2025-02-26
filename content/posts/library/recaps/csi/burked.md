@@ -3,13 +3,9 @@ title: "Burked"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 1
 date: 2001-09-27
-prodnum: 201
+description: "Grissom and crew are called in after high roller Tony Braun, a known drug addict and the son of a Las Vegas Mogul, is found dead in his house by a gardener."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x02-burked-001.jpg"

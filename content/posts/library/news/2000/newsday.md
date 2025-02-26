@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2000/:title/
 newsyear: "2000"
-newstitle: Weird, wild and witty
+description: Weird, wild and witty
 newsreporter: Staff
 newssource: Newsday
 newsurl: https://www.newsday.com/

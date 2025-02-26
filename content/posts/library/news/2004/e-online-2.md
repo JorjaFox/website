@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "CSI Pink Slips Two Players, O.C.ers Tee Up on Trump's Greens"
+description: "CSI Pink Slips Two Players, O.C.ers Tee Up on Trump's Greens"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com

@@ -7,7 +7,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "Hollywood's Healthiest Snacks  "
+description: "Hollywood's Healthiest Snacks  "
 newsreporter: Gerri Miller
 newssource: Everyday Health
 newsurl: https://www.everydayhealth.com/photogallery/starsecrets/favoritehealthysnack.aspx#/slide-7

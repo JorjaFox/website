@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2003"
 permalink: /news/2003/:title/
-newstitle: Behind the investigation
+description: Behind the investigation
 newsreporter: Staff
 newssource: The Star Online
 newsurl: https://star-ecentral.com/

@@ -3,13 +3,9 @@ title: "Alter Boys"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 6
 date: 2001-11-01
-prodnum: 206
+description: "A young man is discovered burying a body that has been shot three times, but Grissom isn't convinced the guy is the killer---despite a wealth of evidence to the contrary; a woman is found dead in a health spa locker room without obvious evidence of foul play, but Catherine and Nick suspect murder."
 ---
 
 ## Synopsis

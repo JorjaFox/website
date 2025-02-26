@@ -3,13 +3,9 @@ title: "After the Show"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 8
 date: 2003-11-20
-prodnum: 408
+description: "A model who wants to be a showgirl disappears and is found dead, leaving lots of questions to be answered and no small amount of outside attention."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/408-aftertheshow-001.jpg"

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Jorja Fox Interview  "
+description: "Jorja Fox Interview  "
 newsreporter: CStaff
 newssource: Tele Star
 newsurl: https://blog.telestar.fr/

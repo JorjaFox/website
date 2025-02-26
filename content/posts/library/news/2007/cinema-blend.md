@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Jorja Fox Is Definitely Leaving CSI  "
+description: "Jorja Fox Is Definitely Leaving CSI  "
 newsreporter: Kelly West
 newssource: Cinema Blend
 newsurl: https://www.cinemablend.com/

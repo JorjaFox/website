@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "The night's buzz includes series' futures and style insights"
+description: "The night's buzz includes series' futures and style insights"
 newsreporter: Staff
 newssource: Star Online
 newsurl: https://www.staronline.com/

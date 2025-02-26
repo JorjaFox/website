@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "TV drama stars sacked at scene of the crime"
+description: "TV drama stars sacked at scene of the crime"
 newsreporter: Staff
 newssource: Scotsman.com News
 newsurl: https://news.scotsman.com/

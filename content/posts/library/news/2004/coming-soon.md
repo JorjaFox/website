@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Eads & Fox Returning to CSI?"
+description: "Eads & Fox Returning to CSI?"
 newsreporter: Staff
 newssource: Coming Soon
 newsurl: https://comingsoon.net/

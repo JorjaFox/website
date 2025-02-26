@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Quickie Review: Jorja Fox Says Goodbye (and Good Luck) to 'CSI'"
+description: "Quickie Review: Jorja Fox Says Goodbye (and Good Luck) to 'CSI'"
 newsreporter: Verne Gay
 newssource: The TV Zone
 newsurl: https://weblogs.newsday.com/entertainment/tv/blog/2007/11/quicke\_review\_jorja\_fox\_says_g.html

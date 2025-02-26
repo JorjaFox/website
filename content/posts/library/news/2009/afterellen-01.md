@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Ask AfterEllen.com (Jan. 6, 2009)  "
+description: "Ask AfterEllen.com (Jan. 6, 2009)  "
 newsreporter: Sarah Warn
 newssource: AfterEllen
 newsurl: https://www.afterellen.com/column/ask-afterellen-01-06-09?page=0%2C3

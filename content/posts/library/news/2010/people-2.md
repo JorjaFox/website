@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "'CSI' Star Jorja Fox, HSUS Team Up Against Dogfighting  "
+description: "'CSI' Star Jorja Fox, HSUS Team Up Against Dogfighting  "
 newsreporter: Kate Hogan
 newssource: People Pets
 newsurl: https://www.peoplepets.com/news/celebrities/csi-star-jorja-fox-hsus-team-up-against-dogfighting/1

@@ -3,13 +3,9 @@ title: "Ch-Ch-Changes"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 8
 date: 2004-11-18
-prodnum: 508
+description: "The 100th episode explores the world of transgenders in what turns out to be the ultimate case of mistaken identity."
 ---
 
 ## Synopsis

@@ -3,13 +3,9 @@ title: "Face Lift"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 17
 date: 2001-03-08
-prodnum: 116
+description: "Grissom investigates the murder of a man who was apparently killed while robbing a store; Catherine searches for a girl who was kidnapped 16 years earlier; Warrick and Sara probe the strange death of a woman who was reduced to ashes while sitting in her house."
 ---
 
 ## Synopsis

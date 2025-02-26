@@ -1,5 +1,7 @@
 ---
 title: The Late Late Show
+description: 'The Late Late Show - 2002-06-26'
+title: The Late Late Show
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2002-06-26

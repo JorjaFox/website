@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Jorja Fox Selects Vintage Gown from P.B.P. for Primetime Emmys"
+description: "Jorja Fox Selects Vintage Gown from P.B.P. for Primetime Emmys"
 newsreporter: Staff
 newssource: The Paper Bag Princess
 newsurl: https://www.thepaperbagprincess.com

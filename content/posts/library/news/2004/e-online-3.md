@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "First Look"
+description: "First Look"
 newsreporter: Staff
 newssource: E! Online
 newsurl: https://eonline.com

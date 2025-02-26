@@ -12,6 +12,7 @@ epnum: Eight
 prodnum: 466358
 date: 1997-11-20
 rating: 1
+description: "Maggie Doyle helps Jeanie get assistance to get her job back. Romano, Benton, and Corday operate on a unique case involving a boy with reversed organs. Hathaway's clinic is forced to open early when Cynthia sends the advertisement for it too soon. One of Carter's incompetent former students returns to redo his clerkship, and ends up being a patient. Greene meets a lawyer who can end his legal troubles in exchange for spending a day observing the ER."
 ---
 
 ## Summary

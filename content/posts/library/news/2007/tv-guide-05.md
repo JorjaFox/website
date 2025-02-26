@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "Fresh Face Joins the Cast of 'CSI'"
+description: "Fresh Face Joins the Cast of 'CSI'"
 newsreporter: N/A
 newssource: TV Guide Magazine
 newsurl: https://www.tvguide.com/

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2010/:title/
 newsyear: "2010"
 
-newstitle: "The Twitchhiker: The amazing story of how Paul Smith travelled the world for free using only Twitter  "
+description: "The Twitchhiker: The amazing story of how Paul Smith travelled the world for free using only Twitter  "
 newsreporter: Paul Smith
 newssource: Daily Mail
 newsurl: https://www.dailymail.co.uk/news/article-1293636/The-Twitchhiker-The-amazing-story-Paul-Smith-travelled-world-free-using-Twitter.html

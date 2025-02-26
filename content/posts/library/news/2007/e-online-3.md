@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Spoiler Chat: Stop By for Some Scoop on Friday, Housewives, Grey's and More!"
+description: "Spoiler Chat: Stop By for Some Scoop on Friday, Housewives, Grey's and More!"
 newsreporter: Staff
 newssource: Watch With Kristin
 newsurl: https://www.eonline.com

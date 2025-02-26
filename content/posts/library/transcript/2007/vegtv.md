@@ -1,5 +1,7 @@
 ---
 title: VegTV (25 August 2007)
+description: 'VegTV (25 August 2007) - 2007-08-25'
+title: VegTV (25 August 2007)
 transcriber: "Mika A. Epstein"
 layout: transcript
 date: 2007-08-25

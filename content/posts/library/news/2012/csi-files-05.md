@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Interview: Don McGill  "
+description: "Interview: Don McGill  "
 newsreporter: Shane S. Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/07/interview-don-mcgill/

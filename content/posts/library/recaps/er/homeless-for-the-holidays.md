@@ -12,6 +12,7 @@ epnum: Ten
 prodnum: 465410
 date: 1996-12-19
 rating: 5
+description: "What child is this? Street kid Charlie brings a drug-addled women's baby to Ross for treatment. Jeanie comes clean about her HIV while Mark and Kerry put aside their differences to forge a rational ER policy on HIV positive caregivers. Carol observes Ukrainian Christmas with family and two unexpected guests."
 ---
 
 ## Summary

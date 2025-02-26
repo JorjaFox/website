@@ -3,13 +3,9 @@ title: "Inside the Box"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 23
 date: 2003-05-15
-prodnum: 323
+description: "A professional bank robbery leads to the death of a detective. While investigating the case, Grissom deals with his hearing loss and another CSI gets a personal revelation."
 ---
 
 ## Synopsis

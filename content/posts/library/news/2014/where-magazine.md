@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2014"
 permalink: /news/2014/:title/
-newstitle: "Celebrity Interview: Jorja Fox"
+description: "Celebrity Interview: Jorja Fox"
 newsreporter: Jessica Radloff
 newssource: Where Magazine
 newsurl: https://wherela.com/blog/2014/10/26/celebrity-interview-jorja-fox/

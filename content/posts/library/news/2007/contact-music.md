@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI FANS ATTEMPT TO BLOCK FOX'S DEPARTURE"
+description: "CSI FANS ATTEMPT TO BLOCK FOX'S DEPARTURE"
 newsreporter: Staff
 newssource: Contact Music
 newsurl: https://www.contactmusic.com/

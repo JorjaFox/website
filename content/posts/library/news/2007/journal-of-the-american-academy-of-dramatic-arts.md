@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Interview: Jorja Fox"
+description: "Interview: Jorja Fox"
 newsreporter: Kathleen Germann
 newssource: Journal of The American Academy of Dramatic Arts
 newsurl: https://www.aada.org/pdf/alumni/americada_2007_01.pdf

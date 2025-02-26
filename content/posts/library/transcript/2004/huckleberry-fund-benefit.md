@@ -1,5 +1,7 @@
 ---
 title: Huckleberry Fund Benefit
+description: 'Huckleberry Fund Benefit - 2004-12-05'
+title: Huckleberry Fund Benefit
 transcriber: David Masters
 layout: transcript
 date: 2004-12-05

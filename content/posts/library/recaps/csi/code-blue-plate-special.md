@@ -3,13 +3,9 @@ title: "Code Blue Plate Special"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 2
 date: 2012-10-10
-prodnum: 275
+description: "A massacre at a beloved local diner has the CSIs shaken. "
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/13/02-blue-001.jpg

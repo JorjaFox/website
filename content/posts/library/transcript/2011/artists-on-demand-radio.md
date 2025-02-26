@@ -1,5 +1,7 @@
 ---
 title: Artists on Demand Radio
+description: 'Artists on Demand Radio - 2011-09-21'
+title: Artists on Demand Radio
 date: 2011-09-21
 transcriber: "Mika A. Epstein"
 layout: transcript

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Actress Jorja Fox to leave top-rated TV series CSI  "
+description: "Actress Jorja Fox to leave top-rated TV series CSI  "
 newsreporter: CBC News
 newssource: CBC
 newsurl: https://www.cbc.ca

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "AOL Inside TV  "
+description: "AOL Inside TV  "
 newsreporter: Liane Bonin
 newssource: AOL Inside TV
 newsurl: https://television.aol.com/insidetv/2009/02/05/memorable-tv-love-triangles/

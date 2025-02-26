@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Watercooler - What we're all talking about this week  "
+description: "Watercooler - What we're all talking about this week  "
 newsreporter: Lauren Incognito
 newssource: TV Guide Magazine
 newsurl: https://www.tvguidemagazine.com

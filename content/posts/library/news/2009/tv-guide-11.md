@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "Breaking: Jorja Fox Returns to 'CSI'"
+description: "Breaking: Jorja Fox Returns to 'CSI'"
 newsreporter: Matt Mitovich
 newssource: TVGuide.com
 newsurl: https://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx

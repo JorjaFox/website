@@ -3,13 +3,9 @@ title: "Still Life"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 10
 date: 2005-12-08
-prodnum: 610
+description: "The CSI's are called out to investigate the disappearance of a boy whose father died four years ago. Soon a couple is arrested at a convenience store with a boy matching the description of the missing kid. The only problem is they both claim it is their son."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/06/610-stilllife_01.jpg"

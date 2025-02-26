@@ -3,13 +3,9 @@ title: "Split Decisions"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 19
 date: 2012-04-04
-prodnum: 270
+description: "The CSI team shuts down an entire casino in an effort to find the person who shot a man at point-blank range ... and is still in the casino."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - https://assets.jorjafox.net/img/gallery/tv/csi/12/1219-split001.jpg

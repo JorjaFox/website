@@ -3,13 +3,9 @@ title: "Early Rollout"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 15
 date: 2004-02-19
-prodnum: 415
+description: "A couple are murdered at a gated community, and it comes out that porn is involved."
 ---
 
 ## Synopsis

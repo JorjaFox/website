@@ -8,6 +8,7 @@ episodelist: true
 slug: west-wing
 thumbnail:
   url: img/front-page/west-wing.jpg
+description: "A popular and widely acclaimed American television serial drama set in the White House during the fictional Democratic administration of Josiah 'Jed' Bartlet."
 ---
 
 ## Character

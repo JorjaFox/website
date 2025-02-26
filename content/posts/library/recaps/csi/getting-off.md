@@ -3,13 +3,9 @@ title: "Getting Off"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: Sixteen
 date: 2004-02-26
-prodnum: 416
+description: "A well-dressed man driving an expensive car is murdered in a drug-infested neighborhood, but robbery apparently was not a motive; a dead clown is discovered stuffed inside of a huge truck tire at an auto junkyard; Grissom learns some surprising news about Dr. Robbins."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/416-gettingoff_001.jpg"
@@ -22,7 +18,7 @@ photogallery:
 
 ## Synopsis
 
-Catherine and Sara deal with the death of what at first seems to be a transvestite. Later during autopsy they find out that the make-up he seemed to be wearing was actually facepaint, he was a clown. Grissom, Nick, and Warrick deal with the death of a man in a homeless area. They found out he worked in a recovery center for drug users.
+Catherine and Sara deal with the death of what at first seems to be a transvestite. Later during autopsy they find out that the make-up he seemed to be wearing was actually face paint, he was a clown. Grissom, Nick, and Warrick deal with the death of a man in a homeless area. They found out he worked in a recovery center for drug users.
 
 ## Review
 

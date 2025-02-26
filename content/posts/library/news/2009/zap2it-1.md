@@ -6,7 +6,7 @@ layout: news
 newsyear: "2009"
 permalink: /news/2009/:title/
 
-newstitle: "'CSI's' Jorja Fox returns  "
+description: "'CSI's' Jorja Fox returns  "
 newsreporter: Hanh Nguyen
 newssource: Zap 2 It News
 newsurl: https://blog.zap2it.com/frominsidethebox/2009/07/csis-jorja-fox-returns.html

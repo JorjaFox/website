@@ -12,6 +12,7 @@ epnum: Three
 prodnum: 466352
 date: 1997-10-09
 rating: 3
+description: "Jeanie's ex-husband, Al, is forced to reveal his HIV-positive status after a workplace accident. Weaver must begin making budget cuts after being named the temporary replacement for Morgenstern. Carter is jealous over Maggie Doyle's rapport with Del Amico. Benton's son is circumcised against Benton's wishes. Greene resumes dating, but the effects of his trauma linger. An attractive female desk clerk with no previous experience is hired by Greene. Jerry is advised to take a long sabbatical after accidentally firing a weapon in the ER."
 ---
 
 ## Summary

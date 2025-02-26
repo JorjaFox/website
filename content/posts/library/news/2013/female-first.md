@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
 
-newstitle: "Jorja Fox Exclusive CSI Interview  "
+description: "Jorja Fox Exclusive CSI Interview  "
 newsreporter: Cameron Smith
 newssource: Female First
 newsurl: https://www.femalefirst.co.uk/tv/jorja-fox-csi-interview-281784.html

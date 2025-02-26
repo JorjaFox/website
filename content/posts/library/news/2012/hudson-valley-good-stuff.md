@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Interview with Jorja Fox of CSI Las Vegas & producer of documentary 'How I Became an Elephant'"
+description: "Interview with Jorja Fox of CSI Las Vegas & producer of documentary 'How I Became an Elephant'"
 newsreporter: Staff
 newssource: Hudson Valley Good Stuff
 newsurl: https://www.hudsonvalleygoodstuff.com/2012/09/jorja-fox-from-csi-las-vegas-in-kingston-to-promote-how-i-became-an-elephant.html

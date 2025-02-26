@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Blue Crush"
+description: "Blue Crush"
 newsreporter: Staff
 newssource: People Magazine
 newsurl: https://people.com

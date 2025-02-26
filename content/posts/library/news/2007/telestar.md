@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Bye-bye CSI  "
+description: "Bye-bye CSI  "
 newsreporter: Cristina Kinon
 newssource: Telestar
 newsurl: https://blog.telestar.fr/

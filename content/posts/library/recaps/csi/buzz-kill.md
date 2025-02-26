@@ -3,13 +3,9 @@ title: "Buzz Kill"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 2
 date: 2014-10-05
-prodnum: 318
+description: "When a marijuana dispensary owner's wife and children are abducted, the team launches an investigation to track the victims -- not knowing whether they are still alive or not."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1502-buzzkill-001.jpg

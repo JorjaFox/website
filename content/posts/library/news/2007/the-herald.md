@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "Poll position"
+description: "Poll position"
 newsreporter: The Herald
 newssource: The Herald
 newsurl: https://www.theherald.co.uk/

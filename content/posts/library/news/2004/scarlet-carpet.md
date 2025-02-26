@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "News and Rumors"
+description: "News and Rumors"
 newsreporter: Staff
 newssource: Scarlet Carpet
 newsurl: https://www.scarletcarpet.com/

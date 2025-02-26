@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI's Jorja Fox Is Leaving the Show"
+description: "'CSI's Jorja Fox Is Leaving the Show"
 newsreporter: "E! Online"
 newssource: Watch With Kristen
 newsurl: https://www.eonline.com

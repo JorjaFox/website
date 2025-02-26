@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "CSI's Fox Goes Bye Bye, Fans Go Crazy"
+description: "CSI's Fox Goes Bye Bye, Fans Go Crazy"
 newsreporter: Dose.CA
 newssource: Dose.CA
 newsurl: https://www.dose.ca/tv/story.html?id=45e7584f-beae-4c38-aa9d-236b880d4386&k=24610

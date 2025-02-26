@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 newsyear: "2013"
-newstitle: "Interview Extra: Jorja Fox  "
+description: "Interview Extra: Jorja Fox  "
 newsreporter: David Collins
 newssource: TV Choice
 newsurl: https://www.tvchoicemagazine.co.uk/interviewextra/jorja-fox-csi-crime-scene-investigation

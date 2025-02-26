@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "More on Jorja Fox's Possible Exit from CSI"
+description: "More on Jorja Fox's Possible Exit from CSI"
 newsreporter: Staff
 newssource: Buddy TV
 newsurl: https://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214.aspx

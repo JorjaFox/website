@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 newsyear: "2004"
 permalink: /news/2004/:title/
-newstitle: "Tale of Two Actors in 'CSI' Case"
+description: "Tale of Two Actors in 'CSI' Case"
 newsreporter: Staff
 newssource: Backstage
 newsurl: https://www.backstage.com/

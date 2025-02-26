@@ -3,13 +3,9 @@ title: "Grave Danger"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 24 and 525
 date: 2005-05-19
-prodnum: 524 and 525
+description: "The CSI teams come together to save one of their own when they learn one team member has been kidnapped and buried alive, and now they must find him before he suffocates under 5 feet of dirt."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/524-gravedanger_001.jpg"
@@ -19,7 +15,7 @@ photogallery:
 
 ## Synopsis
 
-The CSI teams come together to save one of their own when they learn one team member has been kidnapped and buried alive, and now they must find him before he suffocates under 5 feet of dirt.
+The separated graveyard-shift team join together after one of their own  is kidnapped from a crime scene and held for a million dollar ransom by a mysterious, vengeful assailant. However, it soon appears that the kidnapping may be about more than the million dollar ransom.
 
 ## Review
 

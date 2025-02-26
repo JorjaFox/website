@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2012/:title/
 newsyear: "2012"
 
-newstitle: "Interview: Elizabeth Devine  "
+description: "Interview: Elizabeth Devine  "
 newsreporter: Shane Saunders
 newssource: CSI Files
 newsurl: https://www.csifiles.com/content/2012/12/interview-elizabeth-devine-3/

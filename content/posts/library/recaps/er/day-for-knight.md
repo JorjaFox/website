@@ -12,6 +12,7 @@ epnum: One
 prodnum: 467551
 date: 1998-09-24
 rating: 2
+description: "New medical student Lucy Knight arrives in the ER and has a trying first shift. Ross and Weaver clash over the terms of Ross' probation after his unauthorized detox work."
 ---
 
 ## Summary

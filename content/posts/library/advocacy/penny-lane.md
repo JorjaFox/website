@@ -5,6 +5,7 @@ layout: advocacy
 tags:
   - "Human Rights"
 website: https://www.pennylane.org
+description: "Penny Lane empowers hopes and dreams. Their values are commitment, community and collaboration. They welcome all clients regardless of gender, race, age, religion, disability, marital status, ethnic background, sexual orientation, gender identity and gender expression."
 ---
 
 Penny Lane Org cares for over 1,500 abused, neglect and abandoned children each year in the Los Angeles area and Antelope Valley, and Jorja For is one of the number one supporters.

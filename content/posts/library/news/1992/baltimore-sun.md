@@ -4,7 +4,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1992/:title/
 newsyear: "1992"
-newstitle: "'Summer Stories' offers characters worth watching"
+description: "'Summer Stories' offers characters worth watching"
 date: 1992-03-19
 newsreporter: Steve McKerrow
 newssource: The Baltimore Sun

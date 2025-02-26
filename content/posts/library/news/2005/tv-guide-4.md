@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "CSI A to Z"
+description: "CSI A to Z"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://tvguide.com

@@ -3,18 +3,14 @@ title: "Table Stakes"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 15
 date: 2001-02-22
-prodnum: 114
+description:  "An elite fund-raising party at a legendary showgirl's elegant Las Vegas mansion turns deadly in a twist-filled episode."
 ---
 
 ## Synopsis
 
-An elite fund-raising party at a legendary showgirl's elegant Las Vegas mansion turns deadly in a twist-filled episode. Grissom, Catherine, Sara and Nick investigate when the body of a leggy brunette is discovered floating in the mansion's pool. Their suspicions soon focus on the brash couple, Patrick and Amanda Haynes, who hosted the party and are house-sitting for the absent owner. They claim the former entertainer, now a wealthy older woman, is vacationing in Europe and can't be reached, but the CSI team isn't so sure. Also, Warrick combs for clues when a man is gunned down, possibly by a hit man, in a glass hotel elevator.
+Grissom, Catherine, Sara and Nick investigate when the body of a leggy brunette is discovered floating in the mansion's pool. Their suspicions soon focus on the brash couple, Patrick and Amanda Haynes, who hosted the party and are house-sitting for the absent owner. They claim the former entertainer, now a wealthy older woman, is vacationing in Europe and can't be reached, but the CSI team isn't so sure. Also, Warrick combs for clues when a man is gunned down, possibly by a hit man, in a glass hotel elevator.
 
 ## Review
 

@@ -3,13 +3,9 @@ title: "The Execution of Catherine Willows"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 6
 date: 2002-11-07
-prodnum: 305
+description:  "Fifteen years ago, Catherine helped put a man on death row for the rape and murder of a coed at a nearby college. The man is about to be executed when he's granted a stay based on new DNA evidence. When bodies turn up at the school, killed in identical manners, it's thought the killer might actual be on the loose."
 ---
 
 ## Synopsis

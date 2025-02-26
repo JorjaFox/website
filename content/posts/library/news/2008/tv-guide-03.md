@@ -5,7 +5,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 newsyear: "2008"
-newstitle: "Exclusive: Jorja Fox Returning to 'CSI'!  "
+description: "Exclusive: Jorja Fox Returning to 'CSI'!  "
 newsreporter: Michael Ausiello & Carita Rizzo
 newssource: TV Guide - Ausiello Report
 newsurl: https://community.tvguide.com/blog-entry/TVGuide-Editors-Blog/Ausiello-Report/Ausiello-Scoop-Jorja/800040233

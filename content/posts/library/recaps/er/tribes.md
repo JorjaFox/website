@@ -12,6 +12,7 @@ epnum: Seventeen
 prodnum: 465417
 date: 1997-04-10
 rating: 1
+description: "Race relations become an issue in the ER when Greene treats two injured teenagers, one black and the other white, and assumes the black kid is a drug dealer. It turns out the white kid is a drug dealer and the black kid is innocent. When the black student's older brother confronts Greene, he begins to question his own impartiality. Carol helps a young woman who was drugged with Rohipnol and raped. Benton gets an interesting offer from Hicks. He also learns that Carla Reece has been admitted to the hospital. Greene's daughter ends up spending the day in the ER when her mom has to rush to Florida to deal with a family emergency."
 ---
 
 ## Summary

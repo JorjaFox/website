@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "SARA'S LAST DAY  "
+description: "SARA'S LAST DAY  "
 newsreporter: Adam Buckman
 newssource: New York Post
 newsurl: https://www.nypost.com/seven/11152007/tv/saras\_last\_day_271927.htm

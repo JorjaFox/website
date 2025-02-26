@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "TV Q&A"
+description: "TV Q&A"
 newsreporter: The Roanoke Times
 newssource: The Roanoke Times
 newsurl: https://www.roanoke.com

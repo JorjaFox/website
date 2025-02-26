@@ -10,6 +10,7 @@ showslug: missing-persons
 date: 1994-01-13
 season: 1
 episode: 13
+description: "Connie helps a girl who is having a baby and is missing her boyfriend, while Bobby meets an actress who models herself on Lauren Bacall and has driven her husband away with her constant role-playing games."
 ---
 
 ## Synopsis

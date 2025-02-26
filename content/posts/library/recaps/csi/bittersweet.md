@@ -3,13 +3,9 @@ title: "Bittersweet"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 3
 date: 2011-10-05
-prodnum: 254
+description: "A sexual sadist walks free after getting a slap on the wrist by the system, and Sara makes it her personal crusade to put the woman back behind bars."
 ---
 
 ## Synopsis

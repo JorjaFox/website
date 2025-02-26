@@ -3,13 +3,9 @@ title: "Fearless"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 20
 date: 2013-05-01
-prodnum: 293
+description: "When a body is found in the 'sacred mud bath' at a Force of Mind seminar, the team must sift through some byzantine motives to catch a killer."
 ---
 
 ## Synopsis

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2009/:title/
 newsyear: "2009"
 
-newstitle: "Taylor Swift Opens Up About Her Lack of Friends and Reveals How She Punishes Heart-Breaking Boys  "
+description: "Taylor Swift Opens Up About Her Lack of Friends and Reveals How She Punishes Heart-Breaking Boys  "
 newsreporter: Hollie McKay
 newssource: Fox News
 newsurl: https://www.foxnews.com/story/0,2933,521872,00.html

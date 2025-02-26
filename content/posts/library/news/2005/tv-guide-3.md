@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2005/:title/
 newsyear: "2005"
 
-newstitle: "CSI: Back on the Scene"
+description: "CSI: Back on the Scene"
 newsreporter: Staff
 newssource: TV Guide
 newsurl: https://www.tvguide.com

@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-newstitle: "'CSI' fan says losing Sara would be a crime  "
+description: "'CSI' fan says losing Sara would be a crime  "
 newsreporter: Eric Deggans
 newssource: St. Petersburg Times
 newsurl: https://www.sptimes.com/

@@ -6,9 +6,8 @@ permalink: /filmography/
 tags:
   - Movies
   - Television
+description: "A filmography is, in essence, the resume of a performer, listing all their cinematic achievements. This filmography has been broken down by section, to aid in sorting her work."
 ---
-A filmography is, in essence, the resume of a performer, listing all their cinematic achievements. This filmography has been broken down by section, to aid in sorting her work.
-
 Jorja is credited as Jorja Fox unless otherwise noted.
 
 ## Actor

@@ -6,7 +6,7 @@ categories: ["Filmography"]
 tags: [producer, stage, honeypot]
 genre: Musical
 year: 2014
-excerpt: "**Dear Bernard** is a musical by Honeypot Productions."
+description: "**Dear Bernard** is a musical by Honeypot Productions."
 ---
 
 ## Overview

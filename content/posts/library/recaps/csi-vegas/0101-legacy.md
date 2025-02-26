@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi-vegas/:title/
 showslug: csi-vegas
+description: "An attack on Jim Brass kicks off a twisted conspiracy targeting the Las Vegas crime lab. Sara Sidle returns to investigate with a new team of CSIs on the series premiere."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi-vegas/01-legacy/01-promo.jpg"

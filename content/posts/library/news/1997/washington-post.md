@@ -4,7 +4,7 @@ transcriber: "Mika A. Epstein"
 layout: news
 permalink: /news/1997/:title/
 newsyear: "1997"
-newstitle: ER Live!
+description: ER Live!
 date: 1997-09-26
 newsreporter: Staff
 newssource: Washington Post

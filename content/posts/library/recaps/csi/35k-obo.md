@@ -3,15 +3,14 @@ title: "$35K O.B.O."
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
 date: 2001-03-29
+description: "A sudden rainstorm washes away the evidence Grissom, Warrick, Sara and Nick are collecting after an apparent car jacking that ended in a triple homicide. Meanwhile, Catherine investigates a collapse of a building that killed three senior citizens."
 ---
 
 ## Synopsis
 
-A sudden rainstorm washes away the evidence Grissom, Warrick, Sara and Nick are collecting after an apparent car jacking that ended in a triple homicide. Meanwhile, Catherine investigates a collapse of a building that killed three senior citizens.
+A couple leaving a restaurant on their anniversary are killed in the street and their car is stolen. The crime scene is compromised when it rains shortly after the CSIs arrive. It gets more mysterious when the car is found and it becomes a new crime scene. Meanwhile, Catherine looks into the collapse of a city-owned residence that kills three elderly women. She runs into problems with the city engineer responsible for the building.
 
 ## Review
 

@@ -3,13 +3,9 @@ title: "Under My Skin"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 17
 date: 2015-02-15
-prodnum: 334
+description: "The CSI team investigates a murder with ties to two teenaged kidnapped girls."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1517-underskin-001.jpg
@@ -18,8 +14,6 @@ photogallery:
 ---
 
 ## Synopsis
-
-The CSI team investigates a murder with ties to two teenaged kidnapped girls.
 
 Cara and Lexi Nolan are in Vegas with their dad's credit card. When Pete Corday (aged 23), a young man who went off with the younger sister, Cara (aged 13), turns up dead, the hunt is on for the girls, who happen to the the daughters of John Nolan, director for the crime lab in San Diego. Lexi (aged 17) had ditched her sister to hook up with a sex trafficker named Axel Vargas (aged 25).
 

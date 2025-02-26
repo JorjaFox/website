@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2011/:title/
 newsyear: "2011"
 
-newstitle: "'CSI' Season 12, Episode3: Like abductor, like daughter  "
+description: "'CSI' Season 12, Episode3: Like abductor, like daughter  "
 newsreporter: Willie Clark
 newssource: City Newspaper
 newsurl: https://www.rochestercitynewspaper.com/entertainment/blog/2011/10/CSI-Season-12-Episode3-Like-abductor-like-daughter/

@@ -3,13 +3,8 @@ title: "Fannysmackin'"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 4
 date: 2006-10-12
-prodnum: 704
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/704-fannysmackin_001.jpg"

@@ -3,12 +3,7 @@ title: "Ending Happy"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 21
-prodnum: 721
 date: 2007-04-26
 modules: [ "bs5-lightbox" ]
 photogallery:

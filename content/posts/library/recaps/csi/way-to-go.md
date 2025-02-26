@@ -3,13 +3,9 @@ title: "Way to Go"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 24
-prodnum: 624
 date: 2006-05-18
+description: "In the season finale, the CSIs wait by the bedside of one of their own when he's shot in the line of duty. One CSI faces a hard choice by having the power of attorney over their injured friend and colleague. Meanwhile, the team also investigates the strange way of life of one man when he is found decapitated by a train."
 modules: [ "bs5-lightbox" ]
 photogallery:
 - "https://assets.jorjafox.net/img/gallery/tv/csi/06/624-waytogo_01.jpg"

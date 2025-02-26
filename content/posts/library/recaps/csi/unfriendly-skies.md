@@ -3,18 +3,14 @@ title: "Unfriendly Skies"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 9
 date: 2000-12-08
-prodnum: 109
+description: "The whole team works to solve the case of a man who was murdered in an airplane while in flight."
 ---
 
 ## Synopsis
 
-The whole team works to solve the case of a man who was murdered in an airplane while in flight.
+The CSI team investigates the death of a first-class passenger on a flight to Las Vegas. Their investigation is a race against time because after twelve hours, the FAA will take over. To make matters worse, the other first-class passengers are very reluctant to cooperate, leading the team to suspect that they had some involvement in their fellow passenger's death.
 
 ## Review
 

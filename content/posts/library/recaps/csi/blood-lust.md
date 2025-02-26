@@ -3,13 +3,8 @@ title: "Blood Lust"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 9
 date: 2002-12-05
-prodnum: 309
 ---
 
 ## Synopsis

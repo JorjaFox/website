@@ -3,13 +3,8 @@ title: "Altered Stakes"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 20
 date: 2012-04-11
-prodnum: 271
 ---
 
 ## Synopsis

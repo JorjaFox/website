@@ -3,13 +3,8 @@ title: "Coming of Rage"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 10
 date: 2003-12-18
-prodnum: 410
 ---
 
 ## Synopsis

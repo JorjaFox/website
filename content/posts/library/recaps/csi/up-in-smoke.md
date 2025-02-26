@@ -3,13 +3,9 @@ title: "Up in Smoke"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: Sixteen
 date: 2006-03-02
-prodnum: 616
+description: "The CSI team explores the case of a man found stuffed down the chimney of a previous suspect's home."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/06/616-upinsmoke_01.jpg"

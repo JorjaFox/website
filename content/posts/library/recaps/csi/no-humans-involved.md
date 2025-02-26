@@ -3,13 +3,8 @@ title: "No Humans Involved"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 10
 date: 2004-12-09
-prodnum: 510
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/510-nohumansinvolved_001.jpg"

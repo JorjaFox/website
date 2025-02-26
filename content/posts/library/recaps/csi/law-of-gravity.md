@@ -3,13 +3,8 @@ title: "Law of Gravity"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 15
 date: 2007-02-08
-prodnum: 715
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/715-lawofgravity.jpg"

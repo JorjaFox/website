@@ -3,13 +3,8 @@ title: "Better Off Dead"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 10
 date: 2009-12-17
-prodnum: 216
 ---
 
 ## Synopsis

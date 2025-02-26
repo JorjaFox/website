@@ -3,13 +3,8 @@ title: "Chasing the Bus"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 18
 date: 2002-03-28
-prodnum: 218
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x18-chasing-the-bus-001.jpg"

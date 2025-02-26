@@ -3,13 +3,8 @@ title: "Shock Waves"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 1
 date: 2010-09-23
-prodnum: 230
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/11/1101-shockwaves_001.jpg

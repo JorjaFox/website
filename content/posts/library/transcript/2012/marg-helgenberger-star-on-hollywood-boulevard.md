@@ -1,6 +1,6 @@
 ---
 title: "Marg Helgenberger's Star on Hollywood Boulevard"
-description: '"Marg Helgenberger's Star on Hollywood Boulevard" - 2012-01-23'
+description: "Marg Helgenberger's Star on Hollywood Boulevard - 2012-01-23"
 title: "Marg Helgenberger's Star on Hollywood Boulevard"
 date: 2012-01-23
 transcriber: "Mika A. Epstein"

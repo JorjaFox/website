@@ -3,13 +3,8 @@ title: "CSI on Fire"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 8
 date: 2012-11-21
-prodnum: 281
 ---
 
 ## Synopsis

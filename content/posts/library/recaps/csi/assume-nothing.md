@@ -3,13 +3,8 @@ title: "Assume Nothing"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 1
 date: 2003-09-25
-prodnum: 402
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/402-assumenothing_001.jpg"

@@ -3,13 +3,8 @@ title: "Cross Jurisdictions"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 22
 date: 2002-05-09
-prodnum: 222
 ---
 
 ## Synopsis

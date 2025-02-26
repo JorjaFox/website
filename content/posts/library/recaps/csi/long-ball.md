@@ -3,13 +3,8 @@ title: "Long Ball"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 12
 date: 2010-01-21
-prodnum: 218
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/10/1012-longball-001.jpg

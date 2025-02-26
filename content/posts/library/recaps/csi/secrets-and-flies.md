@@ -3,13 +3,8 @@ title: "Secrets and Flies"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 6
 date: 2005-11-03
-prodnum: 606
 ---
 
 ## Synopsis

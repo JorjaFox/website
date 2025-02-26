@@ -3,13 +3,9 @@ title: "Strip Maul"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 9
 date: 2012-11-28
-prodnum: 282
+description: "When the CSIs agree to help out the Las Vegas Police Department's Mobile Crime Unit, they're quickly stuck with a rogues' gallery of bizarre street criminals -- and one dead body, with more to follow."
 ---
 
 ## Synopsis

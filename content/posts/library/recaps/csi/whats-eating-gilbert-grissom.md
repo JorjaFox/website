@@ -3,18 +3,14 @@ title: "What's Eating Gilbert Grissom?"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 6
 date: 2004-11-04
-prodnum: 506
+description: "The 'blue paint' killer returns. Grissom believes that a serial killer responsible for several deaths at a Las Vegas college over the past 17 years is at it again when body parts are found on campus. But the latest victim is a departure from the killer's previous targets."
 ---
 
 ## Synopsis
 
-The killer from "The Execution of Catherine Willows" returns with deadly results. The entire team is engaged in a race against time to stop this sadistic killer from succeeding again. Grissom is additionally distraugh by the idea that this killer is smarter than he is.
+The killer from ["The Execution of Catherine Willows"](/library/recaps/csi/the-execution-of-catherine-willows/) returns with deadly results. The entire team is engaged in a race against time to stop this sadistic killer from succeeding again. Grissom is additionally distraugh by the idea that this killer is smarter than he is.
 
 ## Review
 

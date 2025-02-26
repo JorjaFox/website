@@ -3,13 +3,8 @@ title: "Cold Blooded"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 6
 date: 2010-10-28
-prodnum: 235
 ---
 
 ## Synopsis

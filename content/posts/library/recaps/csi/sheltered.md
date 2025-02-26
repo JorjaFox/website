@@ -3,13 +3,8 @@ title: "Sheltered"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 18
 date: 2013-04-03
-prodnum: 291
 ---
 
 ## Synopsis

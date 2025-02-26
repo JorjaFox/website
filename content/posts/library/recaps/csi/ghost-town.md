@@ -3,13 +3,8 @@ title: "Ghost Town"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 2
 date: 2009-10-01
-prodnum: 208
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown01.jpg

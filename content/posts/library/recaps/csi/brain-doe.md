@@ -3,13 +3,8 @@ title: "Brain Doe"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 7
 date: 2011-11-09
-prodnum: 258
 ---
 
 ## Synopsis

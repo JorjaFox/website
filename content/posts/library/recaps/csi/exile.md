@@ -3,13 +3,8 @@ title: "Exile"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 14
 date: 2013-02-13
-prodnum: 287
 ---
 
 ## Synopsis

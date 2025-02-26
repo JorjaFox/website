@@ -3,13 +3,8 @@ title: "Shooting Stars"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 4
 date: 2005-10-13
-prodnum: 604
 ---
 
 ## Synopsis

@@ -3,13 +3,8 @@ title: "Ghost of the Past"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 21
 date: 2013-05-08
-prodnum: 294
 ---
 
 ## Synopsis

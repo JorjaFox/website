@@ -3,13 +3,8 @@ title: "Boom"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 13
 date: 2001-02-08
-prodnum: 112
 ---
 
 ## Synopsis

@@ -3,11 +3,7 @@ title: "Abra-Cadaver"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 5
 date: 2002-10-31
 modules: [ "bs5-lightbox" ]
 photogallery:

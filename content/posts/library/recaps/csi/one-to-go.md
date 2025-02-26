@@ -3,13 +3,8 @@ title: "One To Go"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 9
-epnum: 10
 date: 2009-01-15
-prodnum: 910
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/09/909-onetogo_01.jpg"

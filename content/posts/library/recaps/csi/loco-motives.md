@@ -3,13 +3,8 @@ title: "Loco Motives"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 10
 date: 2006-12-07
-prodnum: 710
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/710-locomotives_01.jpg"

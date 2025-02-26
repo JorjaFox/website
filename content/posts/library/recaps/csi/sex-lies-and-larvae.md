@@ -3,13 +3,8 @@ title: "Sex, Lies and Larvae"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 10
 date: 2000-12-22
-prodnum: 110
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x10-sex-lies-larvae-001.jpg"

@@ -3,13 +3,8 @@ title: "Organ Grinder"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: Eleven
 date: 2001-12-13
-prodnum: 211
 ---
 
 ## Synopsis

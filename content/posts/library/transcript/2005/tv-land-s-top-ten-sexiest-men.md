@@ -1,6 +1,6 @@
 ---
 title: "TV Land's Top Ten Sexiest Men"
-description: '"TV Land's Top Ten Sexiest Men" - 2005-05-15'
+description: "TV Land's Top Ten Sexiest Men - 2005-05-15"
 title: "TV Land's Top Ten Sexiest Men"
 transcriber: "Mika A. Epstein"
 layout: transcript

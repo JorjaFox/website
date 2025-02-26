@@ -3,13 +3,8 @@ title: "Girls Gone Wild"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 10
 date: 2013-11-27
-prodnum: 305
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-001.jpg

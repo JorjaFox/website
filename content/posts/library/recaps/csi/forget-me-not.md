@@ -3,13 +3,8 @@ title: "Forget Me Not"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 15
 date: 2013-02-20
-prodnum: 288
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-001.jpg

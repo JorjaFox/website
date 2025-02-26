@@ -3,13 +3,8 @@ title: "Dog Eat Dog"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 9
 date: 2005-11-24
-prodnum: 609
 ---
 
 ## Synopsis

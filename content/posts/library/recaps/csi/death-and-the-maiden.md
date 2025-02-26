@@ -3,13 +3,8 @@ title: "Death and the Maiden"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 6
 date: 2009-11-05
-prodnum: 212
 ---
 
 ## Synopsis

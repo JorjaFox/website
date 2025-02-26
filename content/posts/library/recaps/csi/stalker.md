@@ -3,13 +3,9 @@ title: "Stalker"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 19
 date: 2002-04-04
-prodnum: 219
+description: "Jane Galloway is a nervous breakdown waiting to happen. She has completely shielded herself from the outside world, but that doesn't stop a stalker in her attic from killing her."
 ---
 
 ## Synopsis

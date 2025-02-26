@@ -3,13 +3,8 @@ title: "Feeling the Heat"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 4
 date: 2003-10-23
-prodnum: 405
 ---
 
 ## Synopsis

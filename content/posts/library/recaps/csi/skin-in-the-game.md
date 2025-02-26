@@ -3,13 +3,8 @@ title: "Skin in the Game"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 22
 date: 2013-05-15
-prodnum: 295
 ---
 
 ## Synopsis

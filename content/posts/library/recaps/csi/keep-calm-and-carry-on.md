@@ -3,13 +3,8 @@ title: "Keep Calm and Carry-on"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 12
 date: 2014-01-15
-prodnum: 307
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1412-keepcalmcarryon-001.jpg

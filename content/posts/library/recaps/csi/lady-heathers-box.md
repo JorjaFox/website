@@ -3,13 +3,8 @@ title: "Lady Heather's Box"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 15
 date: 2003-02-13
-prodnum: 315
 ---
 
 ## Synopsis

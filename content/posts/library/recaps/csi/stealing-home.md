@@ -3,13 +3,9 @@ title: "Stealing Home"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 15
 date: 2012-02-22
-prodnum: 266
+description: "Seeing is believing but how did a whole house get stolen off its foundation? "
 modules: [ "bs5-lightbox" ]
 photogallery:
  - https://assets.jorjafox.net/img/gallery/tv/csi/12/1215-stealinghome001.jpg

@@ -3,13 +3,8 @@ title: "Risky Business Class"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 10
 date: 2012-12-12
-prodnum: 283
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/13/10-risky-001.jpg

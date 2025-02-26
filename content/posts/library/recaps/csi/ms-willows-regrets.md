@@ -3,13 +3,8 @@ title: "Ms. Willows Regrets"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 11
 date: 2012-01-18
-prodnum: 262
 ---
 
 ## Synopsis

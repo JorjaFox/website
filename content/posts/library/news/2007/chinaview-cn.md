@@ -6,7 +6,7 @@ layout: news
 permalink: /news/2007/:title/
 newsyear: "2007"
 
-description: '"Sara Sidle" bids farewell to "CSI"  '
+description: 'Sara Sidle" bids farewell to "CSI"  '
 newsreporter: Wang Yan
 newssource: Chinaview.cn
 newsurl: https://news.xinhuanet.com/english/2007-11/16/content_7088017.htm

@@ -3,13 +3,8 @@ title: "Friends & Lovers"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 5
 date: 2000-11-03
-prodnum: 105
 ---
 
 ## Synopsis

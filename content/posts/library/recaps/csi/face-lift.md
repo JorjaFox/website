@@ -3,13 +3,8 @@ title: "Face Lift"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 17
 date: 2001-03-08
-prodnum: 116
 ---
 
 ## Synopsis

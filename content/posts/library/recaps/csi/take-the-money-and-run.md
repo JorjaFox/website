@@ -3,13 +3,9 @@ title: "Take the Money and Run"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 2
 date: 2013-10-02
-prodnum: 297
+description: "A complex casino heist has the CSIs scratching their heads."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1402-takemoney_001.jpg

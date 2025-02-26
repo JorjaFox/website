@@ -4,13 +4,8 @@ slug: crash-burn
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 17
 date: 2003-03-13
-prodnum: 317
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/03/317-crashandburn_002.jpg"

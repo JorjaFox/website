@@ -1,6 +1,6 @@
 ---
 title: 'Wowow TV - Japan'
-description: ''Wowow TV - Japan' - 2007-06-29'
+description: 'Wowow TV - Japan - 2007-06-29'
 title: 'Wowow TV - Japan'
 transcriber: "Mika A. Epstein"
 layout: transcript

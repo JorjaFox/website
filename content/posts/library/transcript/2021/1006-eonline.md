@@ -1,6 +1,6 @@
 ---
 title: "Jorja Fox Talks 'Creepy' Storyline on 'CSI: Vegas' Sequel"
-description: '"Jorja Fox Talks 'Creepy' Storyline on 'CSI: Vegas' Sequel" - 2021-10-06'
+description: "Jorja Fox Talks 'Creepy' Storyline on 'CSI: Vegas' Sequel - 2021-10-06"
 title: "Jorja Fox Talks 'Creepy' Storyline on 'CSI: Vegas' Sequel"
 date: 2021-10-06
 transcriber: "Mika A. Epstein"

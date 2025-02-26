@@ -3,13 +3,8 @@ title: "Blood Moon"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 3
 date: 2010-10-07
-prodnum: 232
 ---
 
 ## Synopsis

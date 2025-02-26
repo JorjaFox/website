@@ -3,13 +3,8 @@ title: "Fallen Idols"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 17
 date: 2007-02-22
-prodnum: 717
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/717-fallenidols_001.jpg"

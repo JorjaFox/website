@@ -3,13 +3,8 @@ title: "Let's Make A Deal"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 9
 date: 2014-12-07
-prodnum: 326
 ---
 
 ## Synopsis

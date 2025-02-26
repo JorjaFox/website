@@ -3,13 +3,8 @@ title: "Rashomama"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 21
 date: 2006-04-27
-prodnum: 621
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/06/621-rashomama_01.jpg"

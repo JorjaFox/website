@@ -3,13 +3,8 @@ title: "Evaluation Day"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 22
 date: 2001-05-10
-prodnum: 121
 ---
 
 ## Synopsis

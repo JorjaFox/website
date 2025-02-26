@@ -3,13 +3,8 @@ title: "Dune and Gloom"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 21
 date: 2012-05-02
-prodnum: 272
 modules: [ "bs5-lightbox" ]
 photogallery:
  - https://assets.jorjafox.net/img/gallery/tv/csi/12/1220-duneandgloom001.jpg

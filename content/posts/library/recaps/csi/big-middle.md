@@ -3,13 +3,8 @@ title: "Big Middle"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 16
 date: 2005-02-24
-prodnum: 516
 ---
 
 ## Synopsis

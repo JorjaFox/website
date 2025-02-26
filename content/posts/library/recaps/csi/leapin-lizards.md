@@ -3,13 +3,8 @@ title: "Leapin' Lizards"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 22
 date: 2007-05-03
-prodnum: 722
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/722-leapinlizards_01.jpg"

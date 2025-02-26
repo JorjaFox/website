@@ -3,13 +3,8 @@ title: "A Night at the Movies"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 19
 date: 2003-04-10
-prodnum: 319
 ---
 
 ## Synopsis

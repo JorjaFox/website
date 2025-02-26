@@ -3,13 +3,8 @@ title: "Built to Kill (Part 2)"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 2
 date: 2006-09-28
-prodnum: 703
 ---
 
 ## Synopsis

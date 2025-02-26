@@ -3,13 +3,8 @@ title: "Fahrenheit 932"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 12
 date: 2001-02-01
-prodnum: 111
 ---
 
 ## Synopsis

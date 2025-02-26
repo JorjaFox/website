@@ -3,18 +3,56 @@ title: "The Book Of Shadows"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 4
 date: 2014-10-19
-prodnum: 321
+description: "The CSI team suspects foul play when a chemistry teacher's science experiment goes horribly wrong."
 ---
 
 ## Synopsis
 
-The CSI team suspects foul play when a chemistry teacher's science experiment goes horribly wrong.
+Mason Brewer walks through the halls of his high school shooting a selfie video that includes his fellow classmates and faculty. Suddenly, an explosion is heard. Chemistry teacher Chet Messner runs out of his classroom on fire and eventually succumbs to the burns. Something appears to have gone wrong while Chet was doing some prep work for an experiment; signs point to this being an unfortunate accident. However, Chet's cell phone contains a threatening text message that someone sent him that morning, urging him to "do the right thing or suffer the consequences."
+
+In the classroom, Greg and Morgan find an overturned Bunsen burner, indicating that Chet was working on one of his lesson plans. Burn marks radiating outward show that this may also be the point of origin. Greg follows the scorch marks and finds an empty container on the ground that could've contained the accelerant.
+
+Meanwhile, Morgan spots gummy bears on the teacher's shelf. When combined with the formulas on the whiteboard, she concludes that the lesson plan was going to be about sugar providing energy. The formulas mention potassium chlorate, which is an accelerant used in fireworks; however, the experiment is supposed to result in lots of flames with no explosion. The X factor in the experiment is the killer, and a flashback shows Chet getting attacked, which ended up knocking the Bunsen burner over and setting the room (and him) ablaze.
+
+The threatening text to Chet's phone came from Mason, who gets interrogated while his mother, who is also a teacher at the school, is present. Mason explains that he was mad because he got a B+ for the semester, something that wasn't his fault because he missed time due to an illness. Unfortunately, Chet was unwilling to make an exception and bump up the grade. The kid explains that the threatening text was a bluff, as he copied the lines from a movie.
+
+In autopsy, Doc Robbins determines that Chet would've died regardless of whether there was a fire. Pink lividity on the underside of his legs is indicative of cyanide poisoning, which occurred before the explosion. A sufficient quantity of cyanide would cause Chet to have a seizure, and the thought is that he started seizing at the exact wrong time, right by an open flame. This means that the killer didn't have to be in the classroom. Chet's stomach lining and nasal passages are clear, so it's still undetermined how the cyanide was administered. Among Chet's personal effects is a life rune, which is a gang symbol; the lovable teacher may have had a dark secret.
+
+A check on Chet's credit cards show that he was buying large quantities of red phosphorus powder online and having it shipped to his house, not the school. The powder is commonly used when making meth, and it's possible the teacher started dealing on the wrong turf. When Nick and Det. Crawford check Chet's shed at his house, they find evidence that the teacher was dealing in witchcraft. Among the items is a bloody knife and The Book of Shadows, which is similar to a book of spells. Red phosphorous powder is also found, which means Chet was making magic, not meth. Nick finds a singed hair in the cauldron along with a drop of blood, while Russell lifts fingerprints from a candle.
+
+Back at the lab, Hodges informs Greg that the coven was performing a banishment spell on Chet, as his blood was the sample found inside the cauldron. The DNA on the hair comes back to an unknown female, but the fingerprints lifted from the candle come back to two contributors tied to the school: Rebecca Brewer, Mason's mother, and Ed Lusk, the school janitor.
+
+Under interrogation, Ed insists that Chet's death had nothing to do with their religion. He tells Det. Crawford that Chet was banished because he had been speaking publicly about the coven's activities, a failed marketing attempt per se. This was enough to get him banished, but not murdered, as Ed says that Wiccans don't kill. In another interrogation room, Rebecca refuses to give Morgan the names of her fellow coven members, saying that she took a sacred oath to uphold the secrecy of the coven.
+
+During a dumpster dive behind the school, Greg finds a vial with Chet's fingerprints all over it. The vial contains traces of steroids, and the teacher was also in possession of a dosing schedule. Chet was supplying steroids to a lot of the school's student-athletes, including quarterback Rob Turkla. Greg and Russell view Mason's selfie video, and a still shows that a traveling medical kit was in Rob's locker. Since Rob isn't a world traveler, it's likely the kit contains steroid needles. Chet's phone records show that he was calling Rob every Friday, so the two were definitely in on some kind of scheme, and it would've been bad for either of them if it came to light. Despite other clients in the book, Rob is the main suspect, as Chet recently sent him an email threatening to expose him. Because Chet was broke, the assumption is that Rob was stiffing him, which led to the email. When Det. Crawford goes to pick Rob up for questioning, he finds the quarterback dead in the school's swimming pool.
+
+At the scene, David Phillips observes blunt force trauma to the back of Rob's skull, consistent with a 15-pound weight nearby. The weight has blood and hair on it, making it the obvious murder weapon. Foaming around Rob's mouth indicates that he drowned; he was knocked unconscious with the weight and fell into the pool. It's possible Rob was killed because he knew something about Chet's murder.
+
+Morgan processes 92 different sheets of paper that were exposed to the fire in the classroom. finding that one of them was actually the murder weapon. The answer key was coated in a massive dose of cyanide, and it was absorbed into Chet's skin when he touched it. However, Morgan believes that the teacher wasn't the intended victim. She came across an image buried in Rob's deleted phone data that told him about the answer key. The person who sent the original short video left the answer key for Rob to find; unfortunately, Chet found it first and was the one accidentally poisoned.
+
+The video's sender is identified as Hannah Hunt, who happens to be the swim team captain, among other things. Her name is mentioned in Chet's dosing schedule, but she tells Morgan that she only took steroids once. When accused of stealing the Chemistry final and luring Rob to take the answer key, Hannah denies any involvement. As for the fact that the message sent to Rob came from her phone, she claims that someone hacked into her account. She then tells Morgan that she's the best suspect for Rob's murder because the quarterback raped her in the past. Her alibi for the time of the murder is that she was at a women's shelter for counseling, something that's eventually confirmed to be true.
+
+Drowning is confirmed as Rob's cause of death, and Doc Robbins also finds evidence of the steroid use. However, an injection site on Rob's forearm is out of place with the other injections. The needle hit the median cubital vein and withdrew all of the blood from it. Since the vein was devoid of blood, the heart wasn't pumping when the blood was withdrawn; otherwise, the vein would've refilled. Someone withdrew the blood from Rob's arm after he was already dead.
+
+When Rob's car is processed, a used condom is found in the backseat. DNA from the vaginal fluid is a match to the hair in the cauldron in Chet's shed. Furthermore, the same mystery woman left her fingerprints all over the inside of the windows in Rob's car. Rob was definitely sleeping with one of the coven members.
+
+Surprisingly, the mystery female coven member is Principal Dawn Meadows. When confronted with the evidence, she admits to sleeping with Rob. The quarterback was of a legal age, and she claims that she was sleeping with him to cover up her shortcomings in life, including her failing marriage. However, she denies killing Rob. When told about Rob's blood being removed from his body postmortem, which suggests a Wiccan ritual or spell, the principal claims that the high priest knew about her relationship with Rob. The relationship was a threat to the coven, and the potential scandal could destroy it.
+
+Principal Meadows identifies janitor Ed Lusk as the high priest, telling Russell that he would do anything to protect the coven; however, taking Rob's blood goes way beyond that. She explains that an ancient power spell called the "Kratos" uses the blood of a sacrificed youth. To perform the spell, Ed would have to take Rob's blood to an altar, but he would have to do it quickly—the quicker the offering, the more powerful the spell. Since both attempts on Rob's life took place at the school, Ed must have an altar on site.
+
+Greg and Morgan search Ed's supply closet, eventually finding a blood trail that leads to a cabinet. When the cabinet is opened, a Wiccan altar is found inside. Ed suddenly arrives and threatens the CSIs with a knife. However, with two guns pointed at him, he eventually submits and drops his weapon. Ed eventually lawyers up, but the DNA from the blood drops in his closet is a match to Rob.
+
+Hodges runs the ingredients found in Ed's cauldron and discovers traces of cherry opal gemstone. He tells Finn and Russell that Wiccans use the gemstone in healing spells. Someone in the coven is sick, and that person borrowed Rob's blood and availed themselves to Ed's altar. Rob's blood was found in the cauldron along with a second blood contributor whose blood contains traces of methotrexate, a drug used to treat blood cancers. The blood is a male familial match to touch DNA recovered from a candle recovered from Chet's altar.
+
+Rebecca Brewer is brought into interrogation, where it's revealed that Mason is sick. The boy has Langerhans cell histiocytosis, a blood cancer that affects children. Mason had missed a lot of school due to the illness, and when the treatments weren't working, his mother sought out the help of a higher power. Evidence shows that she was the one who prepared the ritual with Mason and Rob's blood, and she used Ed's cauldron to do it. She needed Rob's blood to save her son and ended up murdering two people to get her hands on it.
+
+After hearing the rumors that Rob was going to cheat on the Chemistry final, she started her plan of setting him up. A surveillance photo shows Rebecca entering the school library the same day Chet was killed. Three minutes later, she used Hannah's password to access her video account and send the message to Rob about the location of the answer key. However, Chet found the key first, leading Rebecca to try killing Rob again. Because she knew Rob's workout schedule, she was successful the second time. She knocked him unconscious with the weight and withdrew his blood after he had drowned.
+
+Rebecca explains that Mason's cancer is getting worse, as it's spread to his bones. The boy has been given six months to live, and she would do anything to save him. A Book of Shadows is found in the trunk of her car with a spell dedicated to Mason, and the spell's materials were all the same items found in Ed's cauldron. She tells Morgan and Det. Crawford that her son doesn't deserve to die, adding that The Book of Shadows states that someone has to be sacrificed in order for another to live.
+
+In the police station lobby, Russell comforts Mason, who says that he starts a new round of chemotherapy next month with tweaked protocols. However, he's more concerned about where he's going to live, as his father is deceased and his mother is now going to jail. Hannah, his next-door neighbor, arrives and offers him a place to stay. She apologizes for her years of treating him poorly, and the two leave to make up for lost time. As the teens walk out of the station, Morgan and Russell are saddened that a woman's love for her son could become so twisted that she would join a secret religion and kill two people.
 
 ## Review
 

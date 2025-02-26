@@ -3,13 +3,9 @@ title: "Tell-Tale Hearts"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 2
 date: 2011-09-28
-prodnum: 253
+description: "Three suspects come forward with three different reasons why they killed an entire family and the CSI team has to determine who is telling the truth."
 ---
 
 ## Synopsis

@@ -3,13 +3,9 @@ title: "World's End"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 19
-prodnum: 225
 date: 2010-04-22
+description: "When a student is discovered murdered at Lindsey's school, the investigation takes a sharp turn when the CSIs uncover an unlikely connection between the boy's death and atrocities of the past."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/10/1019-worldsend.jpg
@@ -17,7 +13,7 @@ photogallery:
 
 ## Synopsis
 
-Sean Becker, a racist, is found dead by a high school, practicing Cabaret as their musical (with Catherine's daughter, Lindsey as the star Sally Bowles, dead in the storm drain. Sean was not, however drowned, having been stabbed by a Phillip's head screwdriver beforehand. In searching Sean's home, turns out to be a rather well read intellectual.
+Sean Becker, a racist, is found dead by a high school, practicing Cabaret as their musical (with Catherine's daughter, Lindsey as the star Sally Bowles), dead in the storm drain. Sean was not, however drowned, having been stabbed by a Phillip's head screwdriver beforehand. In searching Sean's home, turns out to be a rather well read intellectual.
 
 Nick and Greg find the murder weapon, while Sara and Ray go over the history of injuries found on Sean. Meanwhile, the team talks to everyone Sean had fought with recently, including Laurent Senyabou. Laurent is also the only person sad Sean is dead. Laurent claimed that Sean protected him from some skinheads, Sean's old friends. Over the last few months, Sean had talked to Laurent about the genocide in Rwanda, which Laurent had survived, and became compassionate and understanding. Sean had begun to learn that hatred only begets more hatred. Unfortunately, his girlfriend, also a racist, found out and told his friends. They got into a fight with Sean, and she thinks that they killed Sean, though she didn't see the murder.
 

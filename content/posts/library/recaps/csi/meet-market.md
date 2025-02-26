@@ -3,13 +3,8 @@ title: "Meet Market"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 14
 date: 2007-02-01
-prodnum: 714
 ---
 
 ## Synopsis

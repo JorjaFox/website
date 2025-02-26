@@ -3,13 +3,9 @@ title: "The Chick Chop Flick Shop"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 8
-epnum: 5
 date: 2007-11-01
-prodnum: 805
+description: "Grissom and his team go behind the scenes at a horror adult film studio when one of their lead actresses is murdered on the set of her latest movies"
 ---
 
 ## Synopsis

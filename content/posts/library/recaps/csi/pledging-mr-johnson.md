@@ -3,13 +3,8 @@ title: "Pledging Mr. Johnson"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 4
 date: 2000-10-27
-prodnum: 104
 ---
 
 ## Synopsis

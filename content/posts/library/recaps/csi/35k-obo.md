@@ -3,8 +3,6 @@ title: "$35K O.B.O."
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
 date: 2001-03-29
 ---

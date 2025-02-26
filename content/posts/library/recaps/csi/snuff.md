@@ -3,13 +3,9 @@ title: "Snuff"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 8
+description: "Catherine is called in by a pornographic-film developer to view graphic footage from a snuff movie in which a woman is brutally slain. Grissom investigates an ant covered body that's been dead over a year."
 date: 2002-11-21
-prodnum: 308
 ---
 
 ## Synopsis

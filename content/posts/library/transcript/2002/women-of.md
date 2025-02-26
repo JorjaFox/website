@@ -1,6 +1,6 @@
 ---
 title: 'Women Of ... Primetime Crime'
-description: ''Women Of ... Primetime Crime' - 2002-03-08'
+description: 'Women Of ... Primetime Crime - 2002-03-08'
 title: 'Women Of ... Primetime Crime'
 transcriber: "Mika A. Epstein"
 layout: transcript

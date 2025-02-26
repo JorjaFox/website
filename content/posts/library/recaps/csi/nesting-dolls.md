@@ -3,13 +3,8 @@ title: "Nesting Dolls"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 13
 date: 2005-02-03
-prodnum: 513
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/513-nestingdolls_001.jpg"

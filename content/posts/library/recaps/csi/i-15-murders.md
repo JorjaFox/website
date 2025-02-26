@@ -3,13 +3,8 @@ title: "I-15 Murders"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: Eleven
 date: 2001-01-12
-prodnum: 102
 ---
 
 ## Synopsis

@@ -3,13 +3,8 @@ title: "Bad Words"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 19
 date: 2004-04-15
-prodnum: 419
 ---
 
 ## Synopsis

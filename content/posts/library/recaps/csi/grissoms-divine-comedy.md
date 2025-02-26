@@ -3,13 +3,8 @@ title: "Grissom's Divine Comedy"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 8
-epnum: 12
 date: 2008-04-03
-prodnum: 812
 ---
 
 ## Synopsis

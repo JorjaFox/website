@@ -3,13 +3,8 @@ title: "Homebodies"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 3
 date: 2003-10-09
-prodnum: 401
 ---
 
 ## Synopsis

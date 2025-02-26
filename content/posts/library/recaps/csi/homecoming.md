@@ -3,13 +3,8 @@ title: "Homecoming"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 21
 date: 2012-05-09
-prodnum: 272
 ---
 
 ## Synopsis

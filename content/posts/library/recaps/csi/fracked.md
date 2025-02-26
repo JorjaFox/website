@@ -3,13 +3,8 @@ title: "Fracked"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 8
 date: 2010-11-11
-prodnum: 237
 ---
 
 ## Synopsis

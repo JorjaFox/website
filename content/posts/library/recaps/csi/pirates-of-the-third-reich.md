@@ -3,13 +3,8 @@ title: "Pirates of the Third Reich"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 15
 date: 2006-02-09
-prodnum: 615
 ---
 
 ## Synopsis

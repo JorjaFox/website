@@ -3,13 +3,8 @@ title: "Girls Gone Wilder"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 15
-epnum: 5
 date: 2014-11-09
-prodnum: 322
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1505-girls-gone-wilder_001.jpg

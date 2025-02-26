@@ -3,13 +3,8 @@ title: "Bang-Bang"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 23
 date: 2006-05-11
-prodnum: 623
 modules: [ "bs5-lightbox" ]
 photogallery:
 - "https://assets.jorjafox.net/img/gallery/tv/csi/06/623-bangbang_02.jpg"

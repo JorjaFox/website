@@ -3,13 +3,8 @@ title: "Daddy's Little Girl"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 12
 date: 2006-01-19
-prodnum: 612
 ---
 
 ## Synopsis

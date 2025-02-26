@@ -3,13 +3,8 @@ title: "Living Legend"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 9
 date: 2006-11-23
-prodnum: 709
 ---
 
 ## Synopsis

@@ -3,13 +3,8 @@ title: "Anatomy of a Lye"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 21
 date: 2002-05-02
-prodnum: 221
 ---
 
 ## Synopsis

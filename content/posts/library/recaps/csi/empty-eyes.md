@@ -3,13 +3,8 @@ title: "Empty Eyes"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: 18
 date: 2007-03-29
-prodnum: 718
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/718-emptyeyes_001.jpg"

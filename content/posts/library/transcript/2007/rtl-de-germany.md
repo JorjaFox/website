@@ -1,6 +1,6 @@
 ---
 title: 'RTL.de - Germany'
-description: ''RTL.de - Germany' - 2007-11-01'
+description: 'RTL.de - Germany - 2007-11-01'
 title: 'RTL.de - Germany'
 transcriber: David Masters
 layout: transcript

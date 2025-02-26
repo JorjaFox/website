@@ -3,13 +3,8 @@ title: "King Baby"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 15
 date: 2005-02-17
-prodnum: 515
 ---
 
 ## Synopsis

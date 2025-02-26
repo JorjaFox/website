@@ -3,13 +3,8 @@ title: "All For Our Country"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 2
 date: 2003-10-02
-prodnum: 403
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/403-allforourcountry_001.jpg"

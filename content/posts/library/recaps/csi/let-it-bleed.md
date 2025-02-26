@@ -3,13 +3,8 @@ title: "Let It Bleed"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 9
-epnum: 4
 date: 2008-10-30
-prodnum: 904
 ---
 
 ## Synopsis

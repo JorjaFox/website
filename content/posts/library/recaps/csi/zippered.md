@@ -3,13 +3,9 @@ title: "Zippered"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 9
 date: 2011-12-07
-prodnum: 260
+description: "The murder of a retired Army Ranger brings the FBI in on the case, to Russell and Catherine's initial chagrin."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - https://assets.jorjafox.net/img/gallery/tv/csi/12/1209-zippered-01.jpg

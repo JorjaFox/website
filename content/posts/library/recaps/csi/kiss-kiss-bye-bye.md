@@ -3,13 +3,8 @@ title: "Kiss-Kiss, Bye-Bye"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 13
 date: 2006-01-26
-prodnum: 613
 ---
 
 ## Synopsis

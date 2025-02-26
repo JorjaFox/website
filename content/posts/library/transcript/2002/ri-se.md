@@ -1,6 +1,6 @@
 ---
 title: "Ri:se"
-description: '"Ri:se" - 2002-05-29'
+description: 'Ri:se - 2002-05-29'
 title: "Ri:se"
 transcriber: "Mika A. Epstein"
 layout: transcript

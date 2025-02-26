@@ -3,13 +3,8 @@ title: "In Vino Veritas"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 13
 date: 2013-02-06
-prodnum: 286
 ---
 
 ## Synopsis

@@ -3,13 +3,8 @@ title: "Mea Culpa"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 5
-epnum: 9
 date: 2004-11-25
-prodnum: 509
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_001.jpg"

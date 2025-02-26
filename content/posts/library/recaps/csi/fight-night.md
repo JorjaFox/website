@@ -3,13 +3,8 @@ title: "Fight Night"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 7
 date: 2002-11-14
-prodnum: 307
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/03/307-fightnight_001.jpg"

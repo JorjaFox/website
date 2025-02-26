@@ -3,13 +3,8 @@ title: "One-hit Wonder"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 14
 date: 2003-02-06
-prodnum: 314
 ---
 
 ## Synopsis

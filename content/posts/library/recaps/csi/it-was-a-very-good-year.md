@@ -3,13 +3,8 @@ title: "It Was a Very Good Year"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 4
 date: 2012-10-24
-prodnum: 277
 ---
 
 ## Synopsis

@@ -3,13 +3,8 @@ title: "Poppin' Tags"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 6
-epnum: 20
 date: 2006-04-13
-prodnum: 620
 ---
 
 ## Synopsis

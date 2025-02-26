@@ -3,13 +3,8 @@ title: "Invisible Evidence"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 4
 date: 2003-11-13
-prodnum: 404
 ---
 
 _Note: This episode was pre-empted on October 16th because of a US Presidential Address in some cities, and re-aired November 13th._

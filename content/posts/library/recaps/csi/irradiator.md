@@ -3,13 +3,8 @@ title: "Irradiator"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 17
 date: 2010-04-08
-prodnum: 223
 ---
 
 ## Synopsis

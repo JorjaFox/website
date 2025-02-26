@@ -3,13 +3,8 @@ title: "Leaving Las Vegas"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 7
-epnum: Eleven
 date: 2007-01-04
-prodnum: 711
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/711-leavinglasvegas_001.jpg"

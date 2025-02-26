@@ -3,13 +3,8 @@ title: "Justice is Served"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 21
 date: 2001-04-26
-prodnum: 120
 ---
 
 ## Synopsis

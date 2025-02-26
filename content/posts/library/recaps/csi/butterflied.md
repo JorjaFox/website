@@ -3,13 +3,8 @@ title: "Butterflied"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: 12
 date: 2004-01-15
-prodnum: 412
 ---
 
 ## Synopsis

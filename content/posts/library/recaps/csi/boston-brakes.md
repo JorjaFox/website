@@ -3,13 +3,8 @@ title: "Boston Brakes"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 13
 date: 2014-01-22
-prodnum: 308
 ---
 
 ## Synopsis

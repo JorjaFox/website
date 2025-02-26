@@ -3,13 +3,8 @@ title: "And Then There Were None"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 9
 date: 2001-11-22
-prodnum: 209
 ---
 
 ## Synopsis

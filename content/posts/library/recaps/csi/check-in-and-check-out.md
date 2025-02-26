@@ -3,13 +3,8 @@ title: "Check In and Check Out"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 9
 date: 2013-11-20
-prodnum: 304
 ---
 
 ## Synopsis

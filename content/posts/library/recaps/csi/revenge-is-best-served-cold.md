@@ -3,13 +3,8 @@ title: "Revenge is Best Served Cold"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 1
 date: 2002-09-26
-prodnum: 302
 ---
 
 ## Synopsis

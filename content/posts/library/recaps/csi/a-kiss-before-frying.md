@@ -3,13 +3,8 @@ title: "A Kiss Before Frying"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 12
 date: 2011-01-20
-prodnum: 241
 ---
 
 ## Synopsis

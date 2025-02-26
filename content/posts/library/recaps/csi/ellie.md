@@ -3,13 +3,8 @@ title: "Ellie"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 10
 date: 2001-12-06
-prodnum: 210
 ---
 
 ## Synopsis

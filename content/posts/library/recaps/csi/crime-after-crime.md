@@ -3,13 +3,8 @@ title: "Crime After Crime"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 8
 date: 2011-11-16
-prodnum: 259
 ---
 
 ## Synopsis

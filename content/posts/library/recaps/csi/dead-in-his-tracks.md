@@ -3,13 +3,8 @@ title: "Dead In His Tracks"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 22
 date: 2014-05-07
-prodnum: 317
 ---
 
 ## Synopsis

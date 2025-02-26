@@ -3,13 +3,8 @@ title: "Random Acts of Violence"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 3
-epnum: 13
 date: 2003-01-30
-prodnum: 313
 ---
 
 ## Synopsis

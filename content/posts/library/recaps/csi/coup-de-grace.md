@@ -3,13 +3,8 @@ title: "Coup de Grace"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 10
-epnum: 4
 date: 2009-10-15
-prodnum: 210
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/10/1004-coup01.jpg

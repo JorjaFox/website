@@ -3,13 +3,8 @@ title: "Passed Pawns"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 14
-epnum: 6
 date: 2013-10-30
-prodnum: 301
 ---
 
 ## Synopsis

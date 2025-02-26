@@ -3,13 +3,8 @@ title: "Overload"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 2
-epnum: 3
 date: 2001-10-11
-prodnum: 203
 ---
 
 ## Synopsis

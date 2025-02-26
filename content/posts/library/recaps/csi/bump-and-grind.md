@@ -3,13 +3,8 @@ title: "Bump and Grind"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 11
-epnum: 7
 date: 2010-11-04
-prodnum: 236
 ---
 
 ## Synopsis

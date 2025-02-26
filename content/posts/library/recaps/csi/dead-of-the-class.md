@@ -3,13 +3,8 @@ title: "Dead of the Class"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 13
-epnum: 17
 date: 2013-03-20
-prodnum: 290
 ---
 
 ## Synopsis

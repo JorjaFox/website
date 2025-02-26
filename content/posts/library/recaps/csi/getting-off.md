@@ -3,13 +3,8 @@ title: "Getting Off"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 4
-epnum: Sixteen
 date: 2004-02-26
-prodnum: 416
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/416-gettingoff_001.jpg"

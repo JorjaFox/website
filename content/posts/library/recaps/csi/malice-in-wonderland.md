@@ -3,13 +3,8 @@ title: "Malice In Wonderland"
 author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
-station: CBS
-showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 12
-epnum: 18
 date: 2012-03-21
-prodnum: 269
 ---
 
 ## Synopsis

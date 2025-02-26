@@ -15,11 +15,17 @@ Like a number of us, Jorja walked away from Twitter (X, whatever) after the new 
 But did you know back in February, Jorja was banned on Facebook?
 
 > On November 7th, my FB account was shut down for writing this: 🧵
-> “Dear world, I am so sorry. Dear America, What have you done? Your dark angels of misogyny, racism, and unabashed stupidity have won the day. God save us all. 
+>
+> “Dear world, I am so sorry. Dear America, What have you done? Your dark angels of misogyny, racism, and unabashed stupidity have won the day. God save us all.
+>
 > Dear Kamala Harris. You are the coolest.”🧵/1
+>
 > Your victory would have been one of the greatest stories in American history. May the words of my father- a World War II veteran who fought Nazis for years- inspire you further along your great journey- ‘don’t let the bastards grind you down’.”🧵/2
-> After many attempts to resolve the issue, it is still suspended. 
-> I’m done with FB. I’m more than happy to be here at blue sky. 
+>
+> After many attempts to resolve the issue, it is still suspended.
+>
+> I’m done with FB. I’m more than happy to be here at blue sky.
+>
 > I stand by equality, freedom, and peace for every single living being on this amazing planet. 🌏 ✌️
 
 Source: [BlueSky](https://bsky.app/profile/jorjafox.bsky.social/post/3lg4ndehjks2vj

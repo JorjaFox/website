@@ -5,11 +5,12 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2008-04-03
+description: "Grissom is called while he has walking pneumonia, in order to solve a gang case after the grand jury's witness is murdered."
 ---
 
 ## Synopsis
 
-Grissom is called while he has walking pneumonia, in order to solve a gang case after the grand jury's witness is murdered.
+Grissom and his team battle the flu when they are called upon by D.D.A. Madeline Klein to investigate the deaths of several key witnesses for a grand jury case against a dangerous Las Vegas gang.
 
 ## Review
 

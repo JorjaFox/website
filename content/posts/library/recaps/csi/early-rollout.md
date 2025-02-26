@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-02-19
+description: "A couple are murdered at a gated community, and it comes out that porn is involved."
 ---
 
 ## Synopsis

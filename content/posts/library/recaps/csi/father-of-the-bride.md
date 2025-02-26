@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-04-28
+description: "After serial killer Nate Haskell escapes from prison, he resurfaces after he emails a disturbing video to the father of one of his brides, whom he is threatening to kill."
 ---
 
 ## Synopsis

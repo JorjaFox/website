@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2009-10-01
+description: "When a porn producer and drug dealer are found dead in a relatively upscale Vegas area, the CSIs focus their investigation on members of the neighborhood."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/10/1002-ghosttown01.jpg

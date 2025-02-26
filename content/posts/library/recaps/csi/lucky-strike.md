@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-02-20
+description: "A man driving with a wooden stake in his head dies in front of a casino. Grissom and Nick work to discover the 'vampire' killer. Warrick and Catherine hunt for the killer of a NBA star's 5 year old son."
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-02-13
+description: "Grissom investigates the murder of two men that leads him to a new encounter with Lady Heather. Catherine is desperate to find out what lead to the near death of her daughter and why her ex, Eddie, disappeared."
 ---
 
 ## Synopsis

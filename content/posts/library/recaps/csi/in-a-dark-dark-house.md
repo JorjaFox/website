@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-05-12
+description: "After years of pursuit and a countless number of murders, Langston comes face-to-face with serial killer Nate Haskell inside the house where his killing spree began.  Langston finally vanquishes his longtime nemesis Nate Haskell, but the question remains, will I.A. pronounce the kill a righteous one?"
 modules: [ "bs5-lightbox" ]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/11/1122-darkdark_001.jpg

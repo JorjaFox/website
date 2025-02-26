@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-11-23
+description: "After the mob boss's Cadillac mysteriously resurfaces in a Las Vegas lake and a photo turns up of the murder victims posing with him in the 1970s, the CSIs begin to investigate whether or not the notorious gangster, whose disappearance remains a mystery, might somehow be connected to the current killing spree in Las Vegas."
 ---
 
 ## Synopsis

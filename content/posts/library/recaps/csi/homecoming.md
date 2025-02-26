@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2012-05-09
+description: "When a friend of the Sheriff becomes a prime suspect in his wife's brutal murder, the investigation's political fallout reveals the truth behind Russell's troubled history with Finlay. Also, an old foe of the CSIs resurfaces and threatens the team."
 ---
 
 ## Synopsis

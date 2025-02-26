@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-05-17
+description: "The miniature killer's identity is revealed. As the CSI team tries to track down this diabolical murderer, Sara mysteriously goes missing -- and Grissom and Sara's relationship is suddenly forced out into the open."
 ---
 
 ## Synopsis

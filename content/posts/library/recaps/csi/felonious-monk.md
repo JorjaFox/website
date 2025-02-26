@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-03-07
+description: "Grissom investigates the murders of four monks who were shot point blank while chanting in a Buddhist temple; Catherine reopens a cold case in which her best friend was murdered, after the man convicted of the crime claims he's innocent shortly before he dies."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x17-felonius-monk-001.jpg"

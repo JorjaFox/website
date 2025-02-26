@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-10-11
+description: "The CSI team investigates the murder of an entire family, except for one daughter who supposedly is possessed by the devil. Also, intern Ronnie Lake joins Sara on the swing shift."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/08/803-gotohell_01.jpg"

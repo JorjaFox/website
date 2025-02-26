@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-10-30
+description: "A man dressed in a full raccoon suit becomes roadkill after he's hit by a car on a dark stretch of highway. When Grissom and Catherine arrive, they discover he has also been shot. It turns out the dude is part of a weird group that believes in acting on animal instinct."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/404-furandloathing_001.jpg"

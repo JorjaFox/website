@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-11-09
+description: "Morgan, Sidle and Finlay try to relax at a forensics conference when a mass shooting occurs on site."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1505-girls-gone-wilder_001.jpg

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-05-01
+description: "The trampling death of a trainer by her horse aboard a private jet is investigated by Grissom, Catherine, and Nick. Sara and Warrick look into a Romeo and Juliet scenario in the desert."
 ---
 
 ## Synopsis

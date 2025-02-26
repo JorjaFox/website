@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2012-10-24
+description: "The CSI is on the hunt for the person who killed a pretty young woman, found dead in the desert. Unfortunately, for Greg, the case has personal ramifications."
 ---
 
 ## Synopsis

@@ -5,11 +5,13 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-04-12
+description: "Grissom finds it difficult to control his emotions when he investigates the alleged kidnapping of the infant son of a Dot-Com Las Vegas millionaire family, especially when the evidence begins pointing to various family members who may be involved in the disappearance."
 ---
 
 ## Synopsis
 
-Grissom finds it difficult to control his emotions when he investigates the alleged kidnapping of the infant son of a Dot-Com Las Vegas millionaire family, especially when the evidence begins pointing to various family members who may be involved in the disappearance.
+The CSI team investigates the kidnapping of the infant child of a rich family. However, when the evidence shows that the family is hiding something, the case takes a darker turn.
+
 
 ## Review
 

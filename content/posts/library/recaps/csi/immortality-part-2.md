@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2015-09-27
+description: "Is Lady Heather the victim in the mysterious bombings or is she the perpetrator?"
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/16-immortality/1601-immortality-07.jpg

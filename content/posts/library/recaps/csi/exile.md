@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-02-13
+description: "Cuban singing sensation Silvana is about to make her U.S. debut at Estefan's Vegas nightclub, much to the ire of the Cuban exile community, led by Willie, who considers her a tool of the Cuban government. But when Silvana's sister Marta is tortured, poisoned and killed, it seems that Silvana has also become the target of a vengeful killer."
 ---
 
 ## Synopsis

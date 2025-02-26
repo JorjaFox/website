@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2005-04-21
+description: "Captain Brass seeks the assistance of a former colleague when he travels to Los Angeles after his estranged daughter calls for help."
 ---
 
 ## Synopsis

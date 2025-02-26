@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-01-04
+description: "Catherine's testimony in court is not enough to convict a killer suspected of murdering his own mother. Meanwhile, Grissom says goodbye to his colleagues and heads east for a teaching sabbatical."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/711-leavinglasvegas_001.jpg"

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-05-15
+description: "A professional bank robbery leads to the death of a detective. While investigating the case, Grissom deals with his hearing loss and another CSI gets a personal revelation."
 ---
 
 ## Synopsis

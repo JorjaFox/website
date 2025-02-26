@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-12-11
+description: "When a bomb explodes on the Strip, the frightening possibility of terrorism becomes a little too real... and involves a school science fair. A musician's girlfriend dies, and it might be murder."
 ---
 
 ## Synopsis

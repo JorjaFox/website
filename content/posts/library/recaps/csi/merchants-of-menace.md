@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2015-01-25
+description: "The CSI team investigates a homicide at a convention for people who collect macabre murder memorabilia."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1514-merchants-menace_001.jpg

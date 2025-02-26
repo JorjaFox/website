@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-10-12
+description: "The CSIs attend the gala grand opening of a mob museum, only to witness an attempted hit on mob lawyer and former mayor Oscar Goodman."
 ---
 
 ## Synopsis

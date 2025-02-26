@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-10-10
+description: "Grissom and Catherine investigate the murder of a wealthy couple who are found outside of their home, which was up for sale. Meanwhile, Sara probes the death of a cheerleader who is found eviscerated on a soccer field, her organs having been ingested by her killer."
 ---
 
 ## Synopsis

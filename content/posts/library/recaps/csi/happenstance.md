@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-11-17
+description: "Identical twin sisters who apparently didn't know of each other's existence are murdered on the same night."
 ---
 
 ## Synopsis

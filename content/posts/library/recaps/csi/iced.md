@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2005-05-12
+description: "Two amorous freshmen are found dead on a sleeping bag in a dorm room, and Sara and Greg run into one dead end after another as they try to determine why the students were killed."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/523-iced_001.jpg"

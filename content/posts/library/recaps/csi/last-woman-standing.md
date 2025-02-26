@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-02-27
+description: "A poker-obsessed serial killer is stalking the streets of Las Vegas, trying to avenge a long-forgotten group of Championship Cheaters."
 ---
 
 ## Synopsis

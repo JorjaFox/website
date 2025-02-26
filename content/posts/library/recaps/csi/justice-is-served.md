@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-04-26
+description: "Grissom, Warrick and Nick investigate the brutal death of a jogger who was apparently killed by a mountain lion or a large dog and then had his organs removed with a scalpel. Catherine becomes convinced that a 6-year-old girl's death was no accident when she and Sara examine a crime scene inside the Tunnel of Love ride at an amusement park."
 ---
 
 ## Synopsis

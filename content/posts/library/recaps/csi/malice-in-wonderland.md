@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2012-03-21
+description: "A pair of thieves plan to hit three high-profile Vegas weddings in three days."
 ---
 
 ## Synopsis

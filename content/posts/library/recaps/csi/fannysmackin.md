@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-10-12
+description: "When an innocent man is brutally attacked and beaten to death by what looks like a monster in a black cape, the CSIs are called to investigate -- only to learn that a similar attack took place moments later."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/704-fannysmackin_001.jpg"

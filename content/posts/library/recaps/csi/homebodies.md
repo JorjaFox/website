@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-10-09
+description: "Grissom and Warrick discover a woman's mummified corpse locked in a closet, while Nick and Sara investigate a similar crime scene across town; a boy shoots himself in the foot with a gun found in his yard."
 ---
 
 ## Synopsis

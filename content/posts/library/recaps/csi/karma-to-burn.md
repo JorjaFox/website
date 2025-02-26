@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2012-09-26
+description: "Season 13 picks up where last season left off for our CSIs Russell's granddaughter has been kidnapped, Finlay is in harm's way, Morgan's father has been shot, and all signs point to corruption within the local police force. Will the CSIs be able to piece together the evidence, take down the corrupt cops, and find Russell's granddaughter before it's too late?"
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/13/01-karma-01.jpg

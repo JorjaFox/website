@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-05-01
+description: "When a body is found in the 'sacred mud bath' at a Force of Mind seminar, the team must sift through some byzantine motives to catch a killer."
 ---
 
 ## Synopsis

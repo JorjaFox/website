@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-12-06
+description: "Grissom has to give a lecture on preserving crime scenes at an out-of-town convention and Catherine is off to Reno for the evening, so he makes Warrick acting supervisor."
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-10-16
+description: "When contestants on a reality cooking show accidentally eat human flesh during a competition, the CSI team is brought in to investigate."
 ---
 
 ## Synopsis

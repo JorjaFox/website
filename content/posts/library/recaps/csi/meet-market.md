@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "The charred body of an ex-con who was recently released from prison is found in a burned welding shack. The investigation reveals the victim's body was raided for bones, veins, tendons and other tissues."
 date: 2007-02-01
 ---
 
@@ -15,7 +16,7 @@ Margo Darton is found, killed in her home, beaten by a champagne bottle. She'd b
 
 ## Review
 
-Sara works the Dorton case, and 'bids' on a stripper's panties with her CSI ID, while looking to find where Margo died. She places an 'order' for Jesse and discusses Margo with him.
+Sara works the Dorton case, and calls 'bids' on a stripper's panties with her CSI ID, while looking to find where Margo died. She places an 'order' for Jesse and discusses Margo with him.
 
 Sara and Keppler look over the Miniature Crime Scenes. Keppler says that Grissom is a collector, and compares him to a serial killer he knew.
 

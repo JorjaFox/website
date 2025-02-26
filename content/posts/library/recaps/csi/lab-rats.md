@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-04-12
+description: "While Grissom and the rest of the CSIs are out investigating new cases, Hodges leads Archie, Henry, Mandy and Wendy to believe that Grissom wants them to secretly band together that evening in an attempt to solve the four miniature killer cases."
 ---
 
 ## Synopsis

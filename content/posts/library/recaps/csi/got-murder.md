@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-01-16
+description: "The discovery of a human eye in a raven's nest leads investigators to a landfill where a limbless female with a crushed skull is found. At the lab, an autopsy on a different body turns into a lifesaving mission when it's discovered that the victim isn't dead. Still, Grissom must determine whether the man was a target for murder."
 ---
 
 ## Synopsis

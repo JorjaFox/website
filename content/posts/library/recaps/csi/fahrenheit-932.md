@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-02-01
+description: "A man convicted of arson and the murder of his wife and child seeks assistance from Grissom (aided by Warrick and Sara) to help prove his innocence. Meanwhile, Catherine and Nick investigate the underground world of sports gambling when a teenager is murdered at close range."
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-04-24
+description: "Grissom and Catherine investigate the murder of a despised comic who died onstage, apparently after drinking from a tainted bottle of water. Brass reopens a woman's accidental-death case after spotting the deceased's husband in a flashy new car with a trophy date on his arm."
 ---
 
 ## Synopsis

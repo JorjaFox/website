@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-03-29
+description: "Six showgirls are murdered in their rented house and Sara is haunted by the dying words of the last victim."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/718-emptyeyes_001.jpg"

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-01-08
+description: "A hung jury ends up in worse states when a juror ends up dead. A jealous woman turns up to report a murder--that happened three years previously. "
 ---
 
 ## Synopsis

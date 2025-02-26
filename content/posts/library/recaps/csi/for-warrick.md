@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2008-10-09
+description: "The ninth season begins with the discovery of CSI Warrick Brown slumped over in his car after hearing the gunshots. The entire team grieves for their fallen friend while unknown to them the killer, the Undersheriff, investigates the murder. Sara Sidle returns when she hears the news."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/09/901-forwarrick_001.jpg"

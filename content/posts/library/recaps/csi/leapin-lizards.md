@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-05-03
+description: "The CSIs discover that several suspects in a woman's murder are members of a bizarre UFO club who believe that shape-shifting reptile-like aliens have mated with humans for centuries as a means of conquering the human race."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/722-leapinlizards_01.jpg"

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-02-15
+description: "Once he unseals a package sent to him through the mall, Grissom is floored when he finds a miniature crime scene inside. The finding is entirely more perplexing since the successive killer accountable for earlier related miniature crimes is now deceased."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/716-monster_001.jpg"

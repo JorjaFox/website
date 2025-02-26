@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-05-08
+description: "A brutal murder at a haunted house (formerly owned by a vicious serial killer) leads the CSI team to probe the boundaries of the supernatural."
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-03-09
+description: "A camera crew from a reality series follows the CSI team during the first 48 hours of an investigation involving an upscale real estate agent found dead in her glamorous high-rise apartment."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/06/617-iliketowatch_00.jpg"

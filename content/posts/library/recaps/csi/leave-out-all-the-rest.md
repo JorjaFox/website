@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2008-11-06
+description: "When the CSI team investigates a case involving the world of domination, Grissom pays a visit to Lady Heather to help find some answers."
 ---
 
 ## Synopsis

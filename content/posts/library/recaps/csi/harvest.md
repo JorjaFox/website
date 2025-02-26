@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-10-14
+description: "An Amber alert is issued when a young girl vanishes. Catherine is surprised to learn the police have picked up her daughter for hitchhiking."
 ---
 
 ## Synopsis

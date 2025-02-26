@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "Catherine's friend Laura has a  mogul husband, and Mark has a lot to hide behind his successful international corporation.  He's hired a crack team of assassins to carry out the murders of anyone who might be aware of what he's doing--and that includes Laura's lawyer and even Laura herself."
 date: 2012-01-18
 ---
 

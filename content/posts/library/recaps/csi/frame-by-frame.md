@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-10-23
+description: "When a young woman is found dead in reclusive mogul mansion, the team thinks it's a repeat of a decade-old murder, also involving the mogul: Mr. Witten. But the twists and turns of the case take them in surprising directions they had never anticipated. "
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1405-framebyframe-001.jpg

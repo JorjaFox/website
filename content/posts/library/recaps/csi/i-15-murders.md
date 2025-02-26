@@ -5,11 +5,12 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-01-12
+description: "Grissom, Catherine and Nick investigate a woman who is kidnapped from a grocery store, and her disappearance points to a serial murderer. Sara and Warrick work on an apparent burglary gone wrong that may be more than it seems."
 ---
 
 ## Synopsis
 
-Grissom, Catherine and Nick investigate a woman who is kidnapped from a grocery store, and her disappearance points to a serial murderer. Sara and Warrick work on an apparent burglary gone wrong that may be more than it seems.
+When a woman is abducted from a supermarket, Grissom finds a message on a bathroom door that leads him to believe that four other women have been murdered. Meanwhile, Sara and Warrick have to put personal differences aside to investigate the apparent murder and robbery of a man who has been found by his brother. Nick has to come to the rescue of his friend, Kristy Hopkins, again when she gets into a scuffle with a hotel security guard.
 
 _Note: This episode was originally filmed to air third (after "Cool Change" and before "Crate 'n Burial"), explaining Sara's attitude towards Warrick.
 

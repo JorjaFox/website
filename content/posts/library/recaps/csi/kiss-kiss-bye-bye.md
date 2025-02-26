@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-01-26
+description: "A forensic case links to Las Vegas' history when a beautiful former showgirl with ties to the mob has a party that results in the murder of a guest.  The CSIs crash an elegant party for the city's creme of the creme to discover who killed a young man. The case gets a bit more personal for Catherine when her father, Sam Braun, is one of the suspects."
 ---
 
 ## Synopsis

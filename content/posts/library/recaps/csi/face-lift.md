@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-03-08
+description: "Grissom investigates the murder of a man who was apparently killed while robbing a store; Catherine searches for a girl who was kidnapped 16 years earlier; Warrick and Sara probe the strange death of a woman who was reduced to ashes while sitting in her house."
 ---
 
 ## Synopsis

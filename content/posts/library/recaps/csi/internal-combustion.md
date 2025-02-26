@@ -5,11 +5,10 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2010-02-04
+description: "The case of two high school students, one dead and one missing, lead the CSIs into the underbelly of streetcar racing and a tangled web of deadly competition."
 ---
 
 ## Synopsis
-
-The case of two high school students, one dead and one missing, lead the CSIs into the underbelly of streetcar racing and a tangled web of deadly competition.
 
 Trevor Beck, a high school senior, dropped dead in the school hallway for no obvious cause. In the autopsy, they determine it was caused by cerebral menigina, however there was no injury sufficient to cause the damage. His girlfriend, Cindy Warner, has also gone missing. Cindy used to date Miyamoto Takahachi, whom Trevor punched in a fight over her.
 

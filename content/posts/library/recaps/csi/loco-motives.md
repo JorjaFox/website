@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-12-07
+description: "When the CSIs process clues at the poultry manufacturing plant, the evidence leads them to the home of a man who collects miniature trains and other miniature paraphernalia. Grissom and his team rush to link him to the other miniature killings, but a twist in the case could prevent them from gathering enough evidence to catch the killer."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/07/710-locomotives_01.jpg"

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-11-25
+description: "After Grissom discovers a previously undetected forensic clue on a piece of evidence during a murder trial, new assistant lab director Conrad Ecklie seizes the opportunity to put Grissom and his late shift team under the microscope."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/509-meaculpa_001.jpg"

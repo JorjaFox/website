@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2010-04-08
+description: "When the CSI team investigates the brutal murder of a family, they trace the killer to the house next door, which might belong to the 'Dr. Jekyll' serial killer."
 ---
 
 ## Synopsis

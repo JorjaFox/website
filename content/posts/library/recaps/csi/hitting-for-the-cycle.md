@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-03-31
+description: "The CSIs start a frenzy of betting pools when it looks like they're about to hit The Cycle: a homicide, suicide, accidental death and natural death all in one shift."
 ---
 
 ## Synopsis

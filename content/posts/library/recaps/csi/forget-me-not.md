@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-02-20
+description: "Things don't look good for Sara who's being indicted for murder. But Sara knows she's being framed and sets out to catch the perpetrator at his own game."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/13/15-forget-001.jpg

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-12-11
+description: "When a man is found murdered at an elaborate holiday party complete with real snow and live reindeer, the CSI team is brought in to investigate."
 ---
 
 ## Synopsis

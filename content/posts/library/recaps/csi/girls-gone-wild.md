@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-11-27
+description: "A spa weekend for Sara, Finlay and Morgan turns into a murder investigation and missing persons case when Finlay disappears, as the CSI team must piece together what happened in detail to find her."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1410-girls-gone-wild-001.jpg

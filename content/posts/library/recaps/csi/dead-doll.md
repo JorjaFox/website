@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-09-27
+description: "In the conclusion to Living Doll, Sara's fate remains in question as the CSI team rushes to find out if she survived an attack by the miniature killer."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/08/801-deaddoll_001.jpg"

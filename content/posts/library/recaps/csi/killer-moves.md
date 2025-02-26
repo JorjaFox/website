@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-03-05
+description: "The CSIs investigate the murders of an Elvis impersonator and a bird that are strangely connected."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1416-killermoves-001.jpg

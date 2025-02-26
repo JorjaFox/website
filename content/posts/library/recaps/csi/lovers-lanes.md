@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "The CSIs investigate a murder at a bowling alley after a critical piece of evidence is revealed during a bowling tournament."
 date: 2009-11-19
 modules: ["bs5-lightbox"]
 photogallery:

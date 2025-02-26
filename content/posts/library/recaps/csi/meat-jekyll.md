@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2010-05-13
+description: "The CSI's lives are on the line as they close in on the elusive Dr. Jekyll, and more than one member of the team may not live to see his capture."
 ---
 
 ## Synopsis

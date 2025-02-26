@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-09-25
+description: "Two couples meet in a bar and one of the couples is murdered. When a second couple is murdered in a similar fashion the team suspects a pair of serial killers are on the loose."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/402-assumenothing_001.jpg"

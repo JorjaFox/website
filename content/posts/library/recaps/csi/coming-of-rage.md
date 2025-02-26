@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-12-18
+description: "The team finds another evil killer, only this time it's a 15 year old girl. A mother is killed at her child's birthday party by a stray bullet."
 ---
 
 ## Synopsis

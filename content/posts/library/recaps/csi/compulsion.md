@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2005-03-10
+description: "When a serial killer strikes again, the CSIs dig up evidence from a prior killing in the hopes of using new technology to make a match. The fingerprint is linked to Jesse Acheson, who becomes the prime suspect in the case. Meanwhile, when a teen boy is found dead in his bedroom, the Las Vegas Police Department elicits a confession from his brother, but the evidence leads the CSIs in another direction."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/517-compulsion_001.jpg"

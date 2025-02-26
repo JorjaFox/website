@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2012-02-29
+description: "When a blackout cripples the city, the CSIs must revert to old-school methods to solve the case of a missing child."
 ---
 
 ## Synopsis

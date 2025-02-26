@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-11-01
+description: "A young man is discovered burying a body that has been shot three times, but Grissom isn't convinced the guy is the killer---despite a wealth of evidence to the contrary; a woman is found dead in a health spa locker room without obvious evidence of foul play, but Catherine and Nick suspect murder."
 ---
 
 ## Synopsis

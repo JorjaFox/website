@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2010-05-13
+description: "The CSI team must investigate one of their own when Langston is accused by a former colleague of being part of the Dr. Jekyll murders. Also Nate Haskell, the infamous 'Dick and Jane' killer, may have valuable information about the case."
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-10-07
+description: "After a heavy rain, the CSI team is called to investigate the deaths of two people found in sewage drains to determine whether either was murder."
 ---
 
 ## Synopsis

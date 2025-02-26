@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-04-01
+description: "Grissom is attacked during an interrogation, and a death occurs in the ruckus. Sherrif Atwater gets exceptionally political when the LVPD is placed under investigation."
 ---
 
 ## Synopsis

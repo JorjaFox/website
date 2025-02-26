@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-11-16
+description: "Three new murders related to three unsolved (or incorrectly solved) crimes from the past come back to haunt the CSIs."
 ---
 
 ## Synopsis

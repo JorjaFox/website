@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-09-28
+description: "Grissom is fascinated when every detail of the miniature is identical to that of the real crime scene, and he goes about trying to solve the case using the clues provided. Meanwhile, Catherine again finds herself -- and someone close to her -- in danger, and begins to suspect who may be responsible."
 ---
 
 ## Synopsis

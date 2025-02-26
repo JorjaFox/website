@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-01-22
+description: "The CSIs are on the case after a fatal car accident, and they are shocked to discover the victim is someone they know."
 ---
 
 ## Synopsis

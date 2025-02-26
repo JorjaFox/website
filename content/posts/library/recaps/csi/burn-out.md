@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-11-02
+description: "When two young boys are reported missing, a known neighborhood sex offender is the primary suspect."
 ---
 
 ## Synopsis

@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "After a beloved college football coach is found dead and his house drenched and spattered with his blood, the CSI team hunts for the killer who didn't find Coach Jimmy lovable at all."
 date: 2009-10-29
 ---
 

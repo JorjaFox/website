@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2000-11-17
+description: "An 18-year-old girl bolts from her suburban Las Vegas house screaming for help. Shortly thereafter, Grissom arrives at the home and discovers an especially gruesome scene: four family members - the father, mother and two teenage boys - are dead, butchered with a kitchen knife."
 ---
 
 ## Synopsis

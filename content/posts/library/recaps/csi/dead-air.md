@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-01-16
+description: "When the power goes out on set, a notoriously difficult anchorwoman is murdered at her desk during a live news broadcast, leaving the CSIs to solve a classic 'locked room' mystery."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/13/11-deadair-001.jpg

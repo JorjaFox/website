@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-11-18
+description: "The 100th episode explores the world of transgenders in what turns out to be the ultimate case of mistaken identity."
 ---
 
 ## Synopsis

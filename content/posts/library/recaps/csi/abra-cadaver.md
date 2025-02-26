@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-10-31
+description: "Grissom, Warrick, and Sara investigate when a woman vanishes while taking part in a magician's act. The primary suspect is the magician. Catherine and Warrick investigate the apparent overdose of a rock star."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/03/305-abra-cadaver_001.jpg"

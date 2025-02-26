@@ -5,6 +5,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "An elderly woman crashes her car into a crowded restaurant. One of the patrons is Sara's paramedic boyfriend. Grissom and Nick investigate the possible carbon monoxide murder of a woman in her home."
 date: 2003-03-13
 modules: [ "bs5-lightbox" ]
 photogallery:

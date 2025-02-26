@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-05-11
+description: "A man accused of murdering his wife and co-workers leads the CSIs on a wild ride through a busy casino, eventually barricading himself and a hostage in a casino hotel room. The CSIs process the evidence from the crime scene to determine whether or not the man acted alone or had an accomplice. One of the CSIs eventually steps in as a hostage negotiator, putting himself in danger."
 modules: [ "bs5-lightbox" ]
 photogallery:
 - "https://assets.jorjafox.net/img/gallery/tv/csi/06/623-bangbang_02.jpg"

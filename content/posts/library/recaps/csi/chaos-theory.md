@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2001-10-04
+description: "Sometimes murder just happens, and there's no way to explain or solve it."
 ---
 
 ## Synopsis

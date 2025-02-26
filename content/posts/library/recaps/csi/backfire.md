@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-04-10
+description: "When the CSIs investigate a triple homicide, Russell has to find a way to connect with a six-year-old girl who was the sole survivor and witness."
 ---
 
 ## Synopsis

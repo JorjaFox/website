@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-10-05
+description: "A sexual sadist walks free after getting a slap on the wrist by the system, and Sara makes it her personal crusade to put the woman back behind bars."
 ---
 
 ## Synopsis

@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "A cab driver seems to run over a boy and is then beaten to death by a mob for racial reasons. When Grissom arrives on the scene, he discovers that the teen has been eviscerated and has stab wounds, but shows no signs of having been struck by the cab."
 date: 2002-12-05
 ---
 

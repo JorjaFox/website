@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-09-12
+description: "A crazy, chaotic shoot-out on a hotel tram leaves two dead, almost no witnesses, and a lot of contradictory evidence; another dead man in Panaca County has a young man’s face and an old man’s body."
 ---
 
 ## Synopsis

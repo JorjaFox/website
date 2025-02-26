@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2009-10-15
+description: "An off-duty cop accidentally shoots another cop, but the victim's racist tendencies suggest the incident was deliberate."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/10/1004-coup01.jpg

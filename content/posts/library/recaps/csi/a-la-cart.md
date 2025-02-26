@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2007-10-04
+description: "The CSI team investigates two unusual cases, one involving the suspicious death of a go-cart racer who took his hobby to the highway and paid the price with his life, and a murder at a hip new restaurant where patrons dine in the dark."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/08/802-alacart_001.jpg"
@@ -24,7 +25,7 @@ Meanwhile, Grissom and Sara are under review for their relationship, which is in
 
 Sara returns to the lab to have her review with Conrad Ecklie. Having a relationship with another member of the team is in violation of policy. Ecklie asks when Grissom and Sara first began their relationship, to which Sara points out they've always had a relationship. She claims they became intimate two years ago, on a Sunday.
 
-Grissom, however, states they first ...you know_'d nine years ago, prompting Ecklie to tell Grissom they needed to get their stories straight. The two met nine years ago at a Forensics Academy Conference, where Sara wore her hair in a ponytail and asked too many questions about anthropology, while trying to get up the nerve to ask Grissom out to dinner.
+Grissom, however, states they first ... _you know'd_ nine years ago, prompting Ecklie to tell Grissom they needed to get their stories straight. The two met nine years ago at a Forensics Academy Conference, where Sara wore her hair in a ponytail and asked too many questions about anthropology, while trying to get up the nerve to ask Grissom out to dinner.
 
 In the end, Sara moves to the Swing shift, so she's no longer under Grissom's supervision. While Grissom had planned to do so, Sara didn't want the rest of the team to suffer. They go, together, to the Go Kart track, and Grissom races with the other CSIs. The episode ends as Sara stands alone, separated from the Night shift team.
 

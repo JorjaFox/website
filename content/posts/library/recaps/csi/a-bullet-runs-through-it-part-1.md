@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "A routine traffic stop turns into a wild police chase through the streets of Las Vegas, resulting in the death of a police officer."
 date: 2005-11-10
 modules: [ "bs5-lightbox" ]
 photogallery:

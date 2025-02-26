@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-05-07
+description: "The CSIs investigate a present-day crime with ties to a mob heist that occurred 25 years ago. Meanwhile, Brass has a decision to make when his daughter attempts suicide."
 ---
 
 ## Synopsis

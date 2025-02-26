@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-10-19
+description: "The CSI unit investigates when Frank, an apparent murder victim, sits up and needs help. But in fact, he's not just a victim, he's also a double murderer, and he coolly hijacks the Medevac helicopter taking him to a hospital."
 ---
 
 ## Synopsis

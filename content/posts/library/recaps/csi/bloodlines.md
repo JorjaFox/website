@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-05-20
+description: "In the fourth-season finale, a casino employee is beaten and raped on her way home from work, but she survives and identifies her attacker. Unfortunately, a DNA test sets him free and Grissom must wrestle with whether evidence can ever lie. Later, Grissom comes to the rescue of a coworker who ends up on the other side of the law."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/423-bloodlines-001.jpg"

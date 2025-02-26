@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-10-17
+description: "Grissom suspects murder, not suicide, when the body of a dwarf is found hanging from a rope high above a stage in a casino hotel where a convention of little people is being held."
 ---
 
 ## Synopsis

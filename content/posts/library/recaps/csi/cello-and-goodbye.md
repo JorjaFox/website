@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-05-05
+description: "The CSI team investigates serial killer Nate Haskell in Los Angeles. "
 modules: [ "bs5-lightbox" ]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/11/1121-cello_001.jpg
@@ -13,7 +14,7 @@ photogallery:
 
 ## Synopsis
 
-The CSI team investigates serial killer Nate Haskell in Los Angeles. Langston becomes more determined than ever to track down Nake Haskell, the notorious 'Dick and Jane' killer, after discovering that he's kidnapped his ex-wife, Gloria and killed her new husband, Phil Baker. Thinking Gloria is dead, Langston decides he cannot live without the one woman he loves still being in the world, and goes after Haskell alone.
+Langston becomes more determined than ever to track down Nake Haskell, the notorious 'Dick and Jane' killer, after discovering that he's kidnapped his ex-wife, Gloria and killed her new husband, Phil Baker. Thinking Gloria is dead, Langston decides he cannot live without the one woman he loves still being in the world, and goes after Haskell alone.
 
 Catherine sends Nick to find Ray, while she and Sara work on the case. While Nick finds Ray, he doesn't bring him in right away, causing a worse problem when Haskell shoots an LAPD officer. Finally they send Ray back to Vegas, where he works on the case, even though he's suspended. Ray determines where Gloria is alive, and goes to rescue her, only to find Haskell is waiting for him.
 

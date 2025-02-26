@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-05-09
+description: "The former police chief of Las Vegas is found murdered and his seven-year-old daughter is found alive in Miami. Catherine and Warrick travel to Florida, where they assist the Miami CSIs in hunting down the killer."
 ---
 
 ## Synopsis

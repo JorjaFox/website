@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-11-09
+description: "The CSI crew is stumped when they discover a disembodied brain at a crime scene where all the other brains are accounted for."
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-01-20
+description: "While the team searches for a serial killer who is killing their victims with an electric chair, Greg falls for a classic film noir 'femme fatale' who may be connected to the case."
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-04-15
+description: "Catherine, Warrick and Nick look into an arson case. Sara and Grissom investigate a death at a Scrabble game."
 ---
 
 ## Synopsis

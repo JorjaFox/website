@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2000-10-20
+description: "When the wife of a well-to-do business man is kidnapped, Grissom, Sara and Nick investigate her disappearance, eventually saving her after she was buried underground, only to find the deceptions are deeper than they thought. Meanwhile, Warrick and Catherine investigate a hit-and-run."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/01/01x03-crate-n-burial-001.jpg"

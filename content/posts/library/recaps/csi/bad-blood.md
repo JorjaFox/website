@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-10-12
+description: "Sara and Greg are quarantined after responding to a crime scene that’s contaminated with a deadly pathogen."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1503-bad-blood_001.jpg

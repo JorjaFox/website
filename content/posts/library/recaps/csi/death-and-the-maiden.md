@@ -5,11 +5,12 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2009-11-05
+description: "The CSIs discover that two seemingly unrelated crimes are actually part of a revenge plot."
 ---
 
 ## Synopsis
 
-The CSIs discover that two seemingly unrelated crimes are actually part of a revenge plot.
+CSI tackles a case involving a young man who was brutally raped and beaten, and a case involving the shooting death of an electronics store owner. They soon discover that the two cases are directly related.
 
 ## Review
 

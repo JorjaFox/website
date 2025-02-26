@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-01-19
+description: "The CSIs investigate the murder of a young man found dead in his girlfriend's garage after a night of taking drugs and partying.  At first, Grissom and his team suspect that the man was murdered by his girlfriend after she discovered him cheating. However, the case takes a surprising twist when the identity of the other woman with whom the young man had been having an affair is revealed."
 ---
 
 ## Synopsis

@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-03-28
+description: "A bus carrying 23 passengers from Los Angeles to Las Vegas crashes less than 40 miles from its destination, killing nine people. Before he dies, the driver recalls that, moments before the wreck, the steering wheel began vibrating like a jackhammer in his hands, making it impossible for him to control the speeding vehicle. When the bus finally did come to a stop, it was on its right side on top of a sports car that was following it. At the scene, the CSIs discover that a recent parolee was on the bus, but is now unaccounted for---and that there's evidence of foul play."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/02/02x18-chasing-the-bus-001.jpg"

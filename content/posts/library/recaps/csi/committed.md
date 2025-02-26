@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2005-04-28
+description: "Grissom and Sara investigate the murder of a mental-hospital patient and quickly narrow down the suspects to a handful of other patients and staff members."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/05/521-committed_001.jpg"
@@ -18,7 +19,7 @@ photogallery:
 
 ## Synopsis
 
-Grissom and Sara investigate the murder of a mental-hospital patient and quickly narrow down the suspects to a handful of other patients and staff members.
+Sara accompanies Grissom to a mental hospital, where one of its inmates has been murdered inside his room. Interviewing patients proves to be harder than usual, as most of them are mentally unstable. While the two CSIs are there, they uncover more than just the crime. One of the most shocking discoveries involves a patient with a dark childhood, which is still haunting him, and a nurse with a secret.
 
 ## Review
 

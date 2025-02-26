@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-11-20
+description: "A model who wants to be a showgirl disappears and is found dead, leaving lots of questions to be answered and no small amount of outside attention."
 modules: [ "bs5-lightbox" ]
 photogallery:
  - "https://assets.jorjafox.net/img/gallery/tv/csi/04/408-aftertheshow-001.jpg"

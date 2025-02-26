@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2010-11-04
+description: "When the CSI team discovers the shredded remains of a man, they find themselves with multiple suspects who may be responsible for his death."
 ---
 
 ## Synopsis

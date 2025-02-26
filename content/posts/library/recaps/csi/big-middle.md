@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2005-02-24
+description: "The discovery of a gunshot victim in a canyon leads Catherine and Warrick into the high-stakes world of sports betting. Back in town, a convention of plus-size people draws Grissom's interest as he probes the case of a man who was crushed to death in his hotel room. The investigation reveals that the man was friendly with some heavyset women who were attending the convention. "
 ---
 
 ## Synopsis

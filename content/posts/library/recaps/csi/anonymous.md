@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2000-11-24
+description: "When another staged suicide takes place, Grissom realizes he is dealing with a serial killer who has a thorough knowledge of forensic science. Meanwhile, Nick and Warrick investigate a tourist's car that fell off a cliff."
 ---
 
 ## Synopsis

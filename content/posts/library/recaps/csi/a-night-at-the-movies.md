@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2003-04-10
+description: "Grissom and Catherine investigate a movie-goer who was stabbed to death; the team comes to a forensic impasse while processing a teenager who died from a gunshot wound."
 ---
 
 ## Synopsis

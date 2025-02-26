@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2002-04-25
+description: "Catherine, Grissom and Warrick investigate the murder of an elderly woman who lived alone with a lot of cats. Meanwhile, Nick and Sara look into an attempted murder with a pipe bomb placed in a car."
 ---
 
 ## Synopsis

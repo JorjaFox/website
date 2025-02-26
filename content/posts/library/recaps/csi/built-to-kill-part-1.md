@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2006-09-21
+description: "The CSIs investigate first-hand the behind-the-scenes action of Cirque du Soleil in order to determine what may have contributed to the young dancer's untimely death."
 ---
 
 ## Synopsis

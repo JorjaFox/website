@@ -4,6 +4,7 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "Grissom and his team investigate the case of a woman found dead in a parish church.  Following the evidence, the team uncovers a bizarre love triangle dating all the way back to high school that could reveal who is responsible for the woman's murder."
 date: 2006-10-19
 modules: [ "bs5-lightbox" ]
 photogallery:

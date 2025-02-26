@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2012-04-11
+description: "A criminal might get out of prison after the death of a dirty cop reveals the prisoner gave his confession under coercion."
 ---
 
 ## Synopsis

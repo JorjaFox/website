@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-12-21
+description: "The CSI’s investigation of the victim of an apparent hit and run leads them into the world of aeronautics."
 ---
 
 ## Synopsis

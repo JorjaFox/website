@@ -5,11 +5,10 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2011-02-10
+description: "A thrift store donation turns gruesome when a dead body is found in a box; meanwhile, Ray's ex-wife pays a surprise visit to the crime lab when she's getting remarried and wants Ray to come."
 ---
 
 ## Synopsis
-
-A thrift store donation turns gruesome when a dead body is found in a box; meanwhile, Ray's ex-wife pays a surprise visit to the crime lab when she's getting remarried and wants Ray to come.
 
 Trace ashes from the dead body at the thrift store imply that the body was at a crematorium. They manage to find all the pieces and autopsy shows the dead man was alive when ashes were introduced. The ashes are from multiple people, so the CSIs investigate the crematorium of where one of the bodies was cremated, only to have the workers run. When the victim is identified as widowed lawyer Ron Pyle, Sara, Nick and Det. Reed go to his house to investigate, and find evidence that he was murdered and dismembered there. They also find a suspect in Ron's ex-girlfriend, a Vegas dancer named Sydney Preston.
 

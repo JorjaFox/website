@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2004-01-15
+description: "Grissom tries to pin a murder on an unshakable doctor. A couple is killed and the girl's other boyfriend, the doc, is the prime suspect as the murder weapon was a scalpel. The victim also looks shockingly like Sara."
 ---
 
 ## Synopsis

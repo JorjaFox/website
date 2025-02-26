@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2013-01-23
+description: "The promising career of a rising tennis pro is cut short by a vengeful killer."
 ---
 
 ## Synopsis

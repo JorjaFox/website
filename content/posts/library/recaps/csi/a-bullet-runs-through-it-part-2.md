@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2005-11-17
+description: "The CSIs sift through the overwhelming evidence from a shootout with drug dealers in order to determine who is responsible for the death of a police officer killed during the incident, on the conclusion of a two-part episode."
 ---
 
 ## Synopsis

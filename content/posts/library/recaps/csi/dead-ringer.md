@@ -4,12 +4,13 @@ author: Mika A. Epstein
 layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
+description: "An LVPD barbeque/cookout leads to an unexpected death. The team investigates a death at a race relay, which claims the life a sheriff's deputy."
 date: 2004-04-29
 ---
 
 ## Synopsis
 
-Grissom, Catherine and Nick investigate the death of a runner during a competition. Meanwhile Sara and Warrick investigate the death of couple in a hotel room, initially thought to be a murder-suicide. Both cases take place during this 'cop' competition , with more than 20.000 attendants (all of them cops). This gives the investigations an interesting turn, as almost all the suspects and all dead people are cops.
+Grissom, Catherine and Nick investigate the death of a runner during a competition. Meanwhile Sara and Warrick investigate the death of couple in a hotel room, initially thought to be a murder-suicide. Both cases take place during this 'cop' competition, with more than 20.000 attendants (all of them cops). This gives the investigations an interesting turn, as almost all the suspects and all dead people are cops.
 
 ## Review
 

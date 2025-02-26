@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2010-10-07
+description: "A vampire and werewolf convention is at the heart of a murder investigation in Las Vegas."
 ---
 
 ## Synopsis

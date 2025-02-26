@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-10-05
+description: "When a marijuana dispensary owner's wife and children are abducted, the team launches an investigation to track the victims -- not knowing whether they are still alive or not."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/15/1502-buzzkill-001.jpg

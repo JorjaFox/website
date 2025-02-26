@@ -5,6 +5,7 @@ layout: recaps
 permalink: /recaps/csi/:title/
 showslug: csi
 date: 2014-02-05
+description: "When the CSI team works two separate investigations, one involving a woman found murdered in Mexico and another of a local couple found dead in their driveway, they find the evidence in one case may help the other."
 modules: ["bs5-lightbox"]
 photogallery:
   - https://assets.jorjafox.net/img/gallery/tv/csi/14/1414-delosmuertos-001.jpg

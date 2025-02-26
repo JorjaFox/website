@@ -32,6 +32,6 @@ Source: [BlueSky](https://bsky.app/profile/jorjafox.bsky.social/post/3lg4ndehjks
 
 To resepct this, I've removed the links to Facebook and X/Twitter.
 
-And as it happens, you can find this site on BlueSky as well! [@jorjafox.net](https://bsky.app/profile/jorjafox.net)
+And as it happens, you can find this site on BlueSky as well! [@jorjafox.net](https://bsky.app/profile/jorjafox.net/)
 
 If you have your own domain, you can [setup your own custom name](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial) like I did.

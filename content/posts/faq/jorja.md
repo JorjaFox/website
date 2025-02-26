@@ -4,6 +4,8 @@ layout: library
 description: "Questions about Jorja Fox's personal life and, in broad terms, her career, including how to get in touch with her."
 ---
 
+{{< alert color="info" >}}**Last Updated:** 25 February 2025{{< /alert >}}
+
 For more questions about her career, please read the **[FAQ about Jorja's career](/faq/career/)**.
 
 ### Who is Jorja Fox?
@@ -66,8 +68,9 @@ Sadly we can't help you there. Also it's incredibly uncomfortable to read all th
 
 Yes.
 
-* [Facebook](https://www.facebook.com/JorjaFoxworldwide)
-* [X/Twitter](https://x.com/JorjaFoxofficia)
+* [BlueSky](https://bsky.app/profile/jorjafox.bsky.net/)
+
+As of 2025, she no longer uses FaceBook or X/Twitter.
 
 ### What movies and TV shows has she been in?
 

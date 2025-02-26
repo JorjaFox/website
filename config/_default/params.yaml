@@ -54,8 +54,9 @@ sections:
     footer: "none"
 
 schema:
-  name: "Fans of Lefox"
-  twitter: "https://twitter.com/fansoflefox"
+  name: "Fans of LeFox"
+  twitter: "https://twitter.com/fansoflefox/"
+  bluesky: "https://bsky.app/profile/jorjafox.net/"
   github: "https://github.com/jorjaFox/website/"
 
 modules:

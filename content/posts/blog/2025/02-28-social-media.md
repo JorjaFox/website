@@ -28,7 +28,7 @@ But did you know back in February, Jorja was banned on Facebook?
 >
 > I stand by equality, freedom, and peace for every single living being on this amazing planet. 🌏 ✌️
 
-Source: [BlueSky](https://bsky.app/profile/jorjafox.bsky.social/post/3lg4ndehjks2vj
+Source: [BlueSky](https://bsky.app/profile/jorjafox.bsky.social/post/3lg4ndehjks2vj)
 
 To resepct this, I've removed the links to Facebook and X/Twitter.
 

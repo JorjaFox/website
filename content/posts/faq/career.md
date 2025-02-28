@@ -5,6 +5,8 @@ layout: library
 description: "Questions about Jorja's career on TV and in movies."
 ---
 
+{{< alert color="info" >}}**Last Updated:** October 2024{{< /alert >}}
+
 For more questions about her personal life and advocacy, please read the **[FAQ about Jorja](/faq/jorja/)**.
 
 ### What movies and TV shows has she been in?

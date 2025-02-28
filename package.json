@@ -1,6 +1,6 @@
 {
     "name": "@JorjaFox/website",
-    "version": "3.1.0",
+    "version": "3.2.1",
     "description": "Fans of LeFox hugo-extended installation, using Hinode",
     "keywords": [
         "hugo",
@@ -23,6 +23,7 @@
         "start:prod": "npm run -s prestart  && hugo-extended server --bind=0.0.0.0 --disableFastRender --printI18nWarnings --minify -e production",
         "prebuild": "npm run clean:public && npm run -s mod:vendor",
         "build": "hugo-extended --gc --minify",
+        "build:cookie": "cp node_modules/vanilla-cookieconsent/dist/cookieconsent.css content/static/css/cookieconsent.css && cp node_modules/vanilla-cookieconsent/dist/cookieconsent.umd.js content/static/js/cookieconsent.umd.js",
         "build:staging": "hugo-extended --gc --minify --environment staging",
         "build:cache": "npm run -s prebuild && hugo-extended config | grep cachedir && hugo-extended --gc --minify -e ci",
         "build:debug": "hugo-extended -e debug --logLevel debug",
@@ -67,27 +68,29 @@
     },
     "homepage": "https://jorjafox.net",
     "dependencies": {
-        "@fullhuman/postcss-purgecss": "^6.0.0",
+        "@fullhuman/postcss-purgecss": "^7.0.2",
         "autoprefixer": "^10.4.20",
         "cssnano": "^7.0.6",
         "cssnano-preset-advanced": "^7.0.6",
-        "hugo-bin": "^0.135",
-        "purgecss-whitelister": "^2.4.0"
+        "hugo-bin": "^0.141",
+        "purgecss-whitelister": "^2.4.0",
+        "vanilla-cookieconsent": "^3.1.0"
     },
     "devDependencies": {
         "@gethinode/netlify-plugin-dartsass": "^0.3.0",
-        "eslint": "^9.14",
+        "cpy-cli": "^5.0.0",
+        "eslint": "^9.21",
         "hugo-extended": "^0.144.2",
-        "markdownlint-cli2": "^0.15",
-        "neostandard": "^0.11",
+        "markdownlint-cli2": "^0.17",
+        "neostandard": "^0.12",
         "netlify-plugin-hugo-cache-resources": "^0.2.1",
         "npm-run-all": "^4.1.5",
         "postcss-cli": "^11.0.0",
         "replace-in-files-cli": "^3.0.0",
         "rimraf": "^6.0.1",
         "shx": "^0.3.4",
-        "stylelint": "^16.10.0",
-        "stylelint-config-standard-scss": "^13.1.0"
+        "stylelint": "^16.14.1",
+        "stylelint-config-standard-scss": "^14.0"
     },
     "optionalDependencies": {
         "@gethinode/netlify-plugin-dartsass": "^0.3.0",

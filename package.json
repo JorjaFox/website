@@ -72,7 +72,7 @@
         "autoprefixer": "^10.4.20",
         "cssnano": "^7.0.6",
         "cssnano-preset-advanced": "^7.0.6",
-        "hugo-bin": "^0.141",
+        "hugo-bin": "^0.142",
         "purgecss-whitelister": "^2.4.0",
         "vanilla-cookieconsent": "^3.1.0"
     },

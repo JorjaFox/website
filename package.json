@@ -69,7 +69,7 @@
     "homepage": "https://jorjafox.net",
     "dependencies": {
         "@fullhuman/postcss-purgecss": "^7.0.2",
-        "autoprefixer": "^10.4.20",
+        "autoprefixer": "^10.4.21",
         "cssnano": "^7.0.6",
         "cssnano-preset-advanced": "^7.0.6",
         "hugo-bin": "^0.141",

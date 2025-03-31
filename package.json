@@ -69,18 +69,18 @@
     "homepage": "https://jorjafox.net",
     "dependencies": {
         "@fullhuman/postcss-purgecss": "^7.0.2",
-        "autoprefixer": "^10.4.20",
+        "autoprefixer": "^10.4",
         "cssnano": "^7.0.6",
         "cssnano-preset-advanced": "^7.0.6",
-        "hugo-bin": "^0.141",
+        "hugo-bin": "^0.142",
         "purgecss-whitelister": "^2.4.0",
         "vanilla-cookieconsent": "^3.1.0"
     },
     "devDependencies": {
         "@gethinode/netlify-plugin-dartsass": "^0.3.0",
         "cpy-cli": "^5.0.0",
-        "eslint": "^9.21",
-        "hugo-extended": "^0.144.2",
+        "eslint": "^9.23",
+        "hugo-extended": "^0.145",
         "markdownlint-cli2": "^0.17",
         "neostandard": "^0.12",
         "netlify-plugin-hugo-cache-resources": "^0.2.1",
@@ -89,7 +89,7 @@
         "replace-in-files-cli": "^3.0.0",
         "rimraf": "^6.0.1",
         "shx": "^0.3.4",
-        "stylelint": "^16.14.1",
+        "stylelint": "^16.17.0",
         "stylelint-config-standard-scss": "^14.0"
     },
     "optionalDependencies": {
